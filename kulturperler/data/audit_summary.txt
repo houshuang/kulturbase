@@ -1,0 +1,95 @@
+================================================================================
+KULTURPERLER DATABASE CONTENT QUALITY AUDIT - SUMMARY
+================================================================================
+Date: 2025-12-19
+Database: /Users/stian/src/nrk/kulturperler/web/static/kulturperler.db
+Total Records: 2,367 episodes | 854 plays | 3,201 persons
+
+================================================================================
+ISSUES AUTO-FIXED: 27
+================================================================================
+
+WHITESPACE ISSUES (26 fixed):
+  - 2 episode titles with extra/double whitespace
+  - 14 play titles with trailing/extra whitespace
+  - 10 person names with trailing/extra whitespace
+
+OTHER FIXES (1):
+  - 1 person name with trailing period (Åsmund Feidje.)
+
+================================================================================
+ISSUES REQUIRING MANUAL REVIEW: 4 categories
+================================================================================
+
+1. TRUNCATED DESCRIPTIONS (38 episodes)
+   Episodes with descriptions ending in "..." that may be cut off.
+   Examples:
+   - ODRR62760207: 'Dragsug'
+   - MKTT83005883: 'Gjenholm det svarte hullet'
+   See full list in: data/content_quality_audit.md
+
+2. DUPLICATE PERSON RECORDS (3 sets - CRITICAL)
+   - Åsmund Feidje (IDs: 775, 2703) - 4 overlapping episodes
+   - Lars Norén (IDs: 3117, 3134) - Both orphaned
+   - Bertolt Brecht (IDs: 3094, 3210) - Keep 3210 (has wikidata Q38757)
+
+   ACTION: Merge duplicates and update episode_persons references
+
+3. INCONSISTENT EPISODE NUMBERING (130 episodes)
+   - Colon format "1:2" (108 episodes) - most common
+   - Parentheses "(1:2)" (20 episodes)
+   - "Del" format (2 episodes)
+
+   NOTE: May reflect original NRK titles from different eras.
+   Consider if standardization is desired.
+
+4. DUPLICATE EPISODE TITLES (Expected, but verify play_id)
+   Top duplicates (different productions of same play):
+   - "Kometkameratene og den røde solen": 10 episodes
+   - "Annas jul": 10 episodes
+   - "Brand": 9 episodes
+
+   ACTION: Verify these are correctly linked to same play_id
+
+================================================================================
+NO ISSUES FOUND (Good News!)
+================================================================================
+
+✓ No UTF-8 encoding issues (Ã¦, Ã¸, Ã¥ corruption)
+✓ No NULL/empty episode titles
+✓ No NULL/empty person names
+✓ No problematic ALL CAPS titles
+✓ No very short descriptions (< 20 chars)
+✓ No all-lowercase titles (7 flagged were Norwegian titles starting with Æ/Å/Ø)
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+HIGH PRIORITY:
+[ ] Merge 3 sets of duplicate person records (SQL provided in audit doc)
+[ ] Review 38 truncated descriptions for completeness
+
+MEDIUM PRIORITY:
+[ ] Verify play_id linkage for duplicate episode titles
+[ ] Consider episode numbering format standardization
+
+LOW PRIORITY:
+[ ] Document Norwegian title capitalization rules
+
+================================================================================
+FILES GENERATED
+================================================================================
+
+1. /Users/stian/src/nrk/kulturperler/data/content_quality_audit.md
+   - Detailed audit report with all findings and recommendations
+
+2. /Users/stian/src/nrk/kulturperler/data/audit_summary.txt
+   - This summary file
+
+3. /Users/stian/src/nrk/kulturperler/audit_quality.py
+   - Audit script (can be re-run anytime)
+
+================================================================================
+AUDIT COMPLETE
+================================================================================

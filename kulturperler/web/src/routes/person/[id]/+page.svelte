@@ -6,7 +6,7 @@
 
 	let person: Person | null = null;
 	let playsByRole: { role: string; plays: { play_id: number; title: string; image_url: string | null; episode_count: number; year: number | null; playwright_name: string | null }[] }[] = [];
-	let playsWritten: { id: number; title: string; year_written: number | null; episode_count: number; image_url: string | null }[] = [];
+	let playsWritten: { id: number; title: string; year_written: number | null; performance_count: number; image_url: string | null }[] = [];
 	let nrkAboutPrograms: NrkAboutProgram[] = [];
 	let loading = true;
 	let error: string | null = null;
@@ -23,11 +23,13 @@
 			if (person) {
 				const db = getDatabase();
 
-				// Get plays written by this person (with image from first episode)
+				// Get plays written by this person (with image from first performance's episode)
 				const playsStmt = db.prepare(`
 					SELECT p.id, p.title, p.year_written,
-						(SELECT COUNT(*) FROM episodes e WHERE e.play_id = p.id) as episode_count,
-						(SELECT e.image_url FROM episodes e WHERE e.play_id = p.id LIMIT 1) as image_url
+						(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = p.id) as performance_count,
+						(SELECT e.image_url FROM episodes e
+						 JOIN performances pf ON e.performance_id = pf.id
+						 WHERE pf.work_id = p.id LIMIT 1) as image_url
 					FROM plays p
 					WHERE p.playwright_id = ?
 					ORDER BY p.year_written, p.title
@@ -181,8 +183,8 @@
 								{#if play.year_written}
 									<span class="play-year">{play.year_written}</span>
 								{/if}
-								{#if play.episode_count > 0}
-									<span class="play-count">{play.episode_count} opptak</span>
+								{#if play.performance_count > 0}
+									<span class="play-count">{play.performance_count} opptak</span>
 								{/if}
 							</div>
 						</a>

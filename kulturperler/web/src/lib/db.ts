@@ -428,7 +428,8 @@ export function getPerformance(id: number): PerformanceWithDetails | null {
 			w.title as work_title,
 			w.playwright_id,
 			playwright.name as playwright_name,
-			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf
 		LEFT JOIN plays w ON perf.work_id = w.id
 		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
@@ -458,7 +459,8 @@ export function searchPerformances(filters: SearchFilters, limit = 50, offset = 
 			(SELECT name FROM persons WHERE id = (
 				SELECT person_id FROM performance_persons pp
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
-			)) as director_name
+			)) as director_name,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf
 		LEFT JOIN plays w ON perf.work_id = w.id
 		LEFT JOIN persons playwright ON w.playwright_id = playwright.id

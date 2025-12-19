@@ -624,7 +624,8 @@ export function getOtherPerformances(workId: number, excludePerformanceId: numbe
 				SELECT person_id FROM performance_persons pp
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
 			)) as director_name,
-			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id AND e.is_introduction = 0 LIMIT 1) as image_url
 		FROM performances perf
 		WHERE perf.work_id = ? AND perf.id != ?
 		ORDER BY perf.year DESC
@@ -650,7 +651,8 @@ export function getWorkPerformances(workId: number): PerformanceWithDetails[] {
 				SELECT person_id FROM performance_persons pp
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
 			)) as director_name,
-			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id AND e.is_introduction = 0 LIMIT 1) as image_url
 		FROM performances perf
 		WHERE perf.work_id = ?
 		ORDER BY perf.year DESC
@@ -680,6 +682,66 @@ export function getNrkAboutPrograms(personId: number): NrkAboutProgram[] {
 	const results: NrkAboutProgram[] = [];
 	while (stmt.step()) {
 		results.push(stmt.getAsObject() as unknown as NrkAboutProgram);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export interface PlaywrightWithDetails {
+	id: number;
+	name: string;
+	birth_year: number | null;
+	death_year: number | null;
+	nationality: string | null;
+	image_url: string | null;
+	play_count: number;
+	episode_count: number;
+}
+
+export function getAllPlaywrights(): PlaywrightWithDetails[] {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT
+			p.id,
+			p.name,
+			p.birth_year,
+			p.death_year,
+			p.nationality,
+			p.image_url,
+			COUNT(DISTINCT pl.id) as play_count,
+			COUNT(DISTINCT e.prf_id) as episode_count
+		FROM persons p
+		JOIN plays pl ON p.id = pl.playwright_id
+		LEFT JOIN episodes e ON pl.id = e.play_id
+		GROUP BY p.id
+		HAVING play_count > 0
+		ORDER BY p.name
+	`);
+
+	const results: PlaywrightWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as PlaywrightWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getNationalities(): string[] {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT DISTINCT p.nationality
+		FROM persons p
+		JOIN plays pl ON p.id = pl.playwright_id
+		WHERE p.nationality IS NOT NULL AND p.nationality != ''
+		ORDER BY p.nationality
+	`);
+
+	const results: string[] = [];
+	while (stmt.step()) {
+		const row = stmt.getAsObject() as { nationality: string };
+		results.push(row.nationality);
 	}
 	stmt.free();
 

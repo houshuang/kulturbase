@@ -131,4 +131,5 @@ export interface NrkAboutProgram {
 	program_type: string;
 	year: number | null;
 	interest_score: number;
+	episode_count: number | null;
 }

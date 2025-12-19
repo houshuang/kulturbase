@@ -1,212 +1,464 @@
 {
   "https://sceneweb.no/nb/artwork/46161/": {
-    "original_title": "Idlaflickorna"
+    "original_title": "Idlaflickorna",
+    "playwright": "Kristina Helle",
+    "playwright_url": "https://sceneweb.no/nb/artist/20560/Kristina_Helle"
   },
   "https://sceneweb.no/nb/artwork/22038/": {
-    "original_title": "The Mystery of Irma Vep"
+    "original_title": "The Mystery of Irma Vep",
+    "playwright": "Charles Ludlam",
+    "playwright_url": "https://sceneweb.no/nb/artist/19020/Charles_Ludlam"
   },
-  "https://sceneweb.no/nb/artwork/57698/": {},
+  "https://sceneweb.no/nb/artwork/57698/": {
+    "playwright": "Andreas Markusson",
+    "playwright_url": "https://sceneweb.no/nb/artist/18927/Andreas_Markusson"
+  },
   "https://sceneweb.no/nb/artwork/82183/": {
-    "original_title": "L’ami Grandet, ou: La coquette corrigé"
+    "original_title": "L’ami Grandet, ou: La coquette corrigé",
+    "playwright": "Jacques-François Ancelot",
+    "playwright_url": "https://sceneweb.no/nb/artist/81873/Jacques-Fran%C3%A7ois_Ancelot"
   },
   "https://sceneweb.no/nb/artwork/70463/": {
-    "original_title": "A Girl is a Half-formed Thing"
+    "original_title": "A Girl is a Half-formed Thing",
+    "playwright": "Eimear McBride",
+    "playwright_url": "https://sceneweb.no/nb/artist/68577/Eimear_McBride"
   },
   "https://sceneweb.no/nb/artwork/22361/": {
-    "original_title": "Galgmannen"
+    "original_title": "Galgmannen",
+    "playwright": "Runar Schildt",
+    "playwright_url": "https://sceneweb.no/nb/artist/19490/Runar_Schildt"
   },
   "https://sceneweb.no/nb/artwork/41229/": {
-    "original_title": "I denne verden er alt mulig"
+    "original_title": "I denne verden er alt mulig",
+    "playwright": "Klaus Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17214/Klaus_Hagerup"
   },
   "https://sceneweb.no/nb/artwork/3628/": {
     "original_title": "Hedda Gabler"
   },
   "https://sceneweb.no/nb/artwork/101235/": {
-    "original_title": "The Peace Book"
+    "original_title": "The Peace Book",
+    "playwright": "Bernard Benson",
+    "playwright_url": "https://sceneweb.no/nb/artist/101234/Bernard_Benson"
   },
-  "https://sceneweb.no/nb/artwork/152149/": {},
-  "https://sceneweb.no/nb/artwork/94941/": {},
+  "https://sceneweb.no/nb/artwork/152149/": {
+    "playwright": "Jon Fosse",
+    "playwright_url": "https://sceneweb.no/nb/artist/3170/Jon_Fosse"
+  },
+  "https://sceneweb.no/nb/artwork/94941/": {
+    "playwright": "Ferenc Molnár",
+    "playwright_url": "https://sceneweb.no/nb/artist/31825/Ferenc_Moln%C3%A1r"
+  },
   "https://sceneweb.no/nb/artwork/22952/": {
-    "original_title": "La Leçon"
+    "original_title": "La Leçon",
+    "playwright": "Eugène Ionesco",
+    "playwright_url": "https://sceneweb.no/nb/artist/20992/Eug%C3%A8ne_Ionesco"
   },
   "https://sceneweb.no/nb/artwork/78364/": {
-    "original_title": "La Strage degli innocenti), Den blinde og krøplingen (originaltittel: La moralità del cieco e dello storpio), Bryllupet i Kanaan (originaltittel: Il miracolo delle nozze di Cana), Gjøglerens fødsel (originaltittel: La nascita del giullare), Den livegnes fødsel (originaltittel: La nascita del villano), Lasarus"
+    "original_title": "La Strage degli innocenti), Den blinde og krøplingen (originaltittel: La moralità del cieco e dello storpio), Bryllupet i Kanaan (originaltittel: Il miracolo delle nozze di Cana), Gjøglerens fødsel (originaltittel: La nascita del giullare), Den livegnes fødsel (originaltittel: La nascita del villano), Lasarus",
+    "playwright": "Dario Fo",
+    "playwright_url": "https://sceneweb.no/nb/artist/3898/Dario_Fo"
   },
   "https://sceneweb.no/nb/artwork/22138/": {
-    "original_title": "The Old Lady"
+    "original_title": "The Old Lady",
+    "playwright": "Mayo Simon",
+    "playwright_url": "https://sceneweb.no/nb/artist/19141/Mayo_Simon"
   },
-  "https://sceneweb.no/nb/artwork/99676/": {},
+  "https://sceneweb.no/nb/artwork/99676/": {
+    "playwright": "Sigrid Undset",
+    "playwright_url": "https://sceneweb.no/nb/artist/4235/Sigrid_Undset"
+  },
   "https://sceneweb.no/nb/artwork/2887/": {
     "original_title": "Vildanden"
   },
   "https://sceneweb.no/nb/artwork/29366/": {
-    "original_title": "Tiden är vårt hem"
+    "original_title": "Tiden är vårt hem",
+    "playwright": "Lars Norén",
+    "playwright_url": "https://sceneweb.no/nb/artist/4372/Lars_Nor%C3%A9n"
   },
-  "https://sceneweb.no/nb/artwork/16783/": {},
-  "https://sceneweb.no/nb/artwork/99530/": {},
-  "https://sceneweb.no/nb/artwork/56362/": {},
+  "https://sceneweb.no/nb/artwork/16783/": {
+    "playwright": "Cecilie Løveid",
+    "playwright_url": "https://sceneweb.no/nb/artist/2214/Cecilie_L%C3%B8veid"
+  },
+  "https://sceneweb.no/nb/artwork/99530/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/56362/": {
+    "playwright": "Nini Roll Anker",
+    "playwright_url": "https://sceneweb.no/nb/artist/16252/Nini_Roll%20Anker"
+  },
   "https://sceneweb.no/nb/artwork/56967/": {
-    "original_title": "The Last Yankee"
+    "original_title": "The Last Yankee",
+    "playwright": "Arthur Miller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4380/Arthur_Miller"
   },
   "https://sceneweb.no/nb/artwork/22958/": {
-    "original_title": "Twelve angry men"
+    "original_title": "Twelve angry men",
+    "playwright": "Reginald Rose",
+    "playwright_url": "https://sceneweb.no/nb/artist/20227/Reginald_Rose"
   },
-  "https://sceneweb.no/nb/artwork/101225/": {},
-  "https://sceneweb.no/nb/artwork/155193/": {},
+  "https://sceneweb.no/nb/artwork/101225/": {
+    "playwright": "Knut Faldbakken",
+    "playwright_url": "https://sceneweb.no/nb/artist/20821/Knut_Faldbakken"
+  },
+  "https://sceneweb.no/nb/artwork/155193/": {
+    "playwright": "Monica Isakstuen",
+    "playwright_url": "https://sceneweb.no/nb/artist/88825/Monica_Isakstuen"
+  },
   "https://sceneweb.no/nb/artwork/84251/": {
-    "original_title": "Flores de papel"
+    "original_title": "Flores de papel",
+    "playwright": "Egon Wolff",
+    "playwright_url": "https://sceneweb.no/nb/artist/84250/Egon_Wolff"
   },
-  "https://sceneweb.no/nb/artwork/102130/": {},
+  "https://sceneweb.no/nb/artwork/102130/": {
+    "playwright": "Vibeke Idsøe",
+    "playwright_url": "https://sceneweb.no/nb/artist/102116/Vibeke_Ids%C3%B8e"
+  },
   "https://sceneweb.no/nb/artwork/15888/": {},
-  "https://sceneweb.no/nb/artwork/102121/": {},
+  "https://sceneweb.no/nb/artwork/102121/": {
+    "playwright": "Torun Lian",
+    "playwright_url": "https://sceneweb.no/nb/artist/5944/Torun_Lian"
+  },
   "https://sceneweb.no/nb/artwork/47841/": {
-    "original_title": "The Choice"
+    "original_title": "The Choice",
+    "playwright": "Claire Luckham",
+    "playwright_url": "https://sceneweb.no/nb/artist/41731/Claire_Luckham"
   },
   "https://sceneweb.no/nb/artwork/3630/": {
     "original_title": "Bygmester Solness"
   },
-  "https://sceneweb.no/nb/artwork/17271/": {},
-  "https://sceneweb.no/nb/artwork/40229/": {},
+  "https://sceneweb.no/nb/artwork/17271/": {
+    "playwright": "Tor Edvin Dahl",
+    "playwright_url": "https://sceneweb.no/nb/artist/17273/Tor_Edvin%20Dahl"
+  },
+  "https://sceneweb.no/nb/artwork/40229/": {
+    "playwright": "Arne Garborg",
+    "playwright_url": "https://sceneweb.no/nb/artist/36441/Arne_Garborg"
+  },
   "https://sceneweb.no/nb/artwork/45014/": {
-    "original_title": "Gotcha"
+    "original_title": "Gotcha",
+    "playwright": "Barrie Keeffe",
+    "playwright_url": "https://sceneweb.no/nb/artist/20815/Barrie_Keeffe"
   },
-  "https://sceneweb.no/nb/artwork/102128/": {},
+  "https://sceneweb.no/nb/artwork/102128/": {
+    "playwright": "May-Britt Skjelvik",
+    "playwright_url": "https://sceneweb.no/nb/artist/102126/May-Britt_Skjelvik"
+  },
   "https://sceneweb.no/nb/artwork/37466/": {
-    "original_title": "Protest"
+    "original_title": "Protest",
+    "playwright": "Vaclav Havel",
+    "playwright_url": "https://sceneweb.no/nb/artist/37021/Vaclav_Havel"
   },
-  "https://sceneweb.no/nb/artwork/102165/": {},
+  "https://sceneweb.no/nb/artwork/102165/": {
+    "playwright": "John Luton",
+    "playwright_url": "https://sceneweb.no/nb/artist/102146/John_Luton"
+  },
   "https://sceneweb.no/nb/artwork/41396/": {
-    "original_title": "Audience"
+    "original_title": "Audience",
+    "playwright": "Vaclav Havel",
+    "playwright_url": "https://sceneweb.no/nb/artist/37021/Vaclav_Havel"
   },
-  "https://sceneweb.no/nb/artwork/102160/": {},
-  "https://sceneweb.no/nb/artwork/17277/": {},
-  "https://sceneweb.no/nb/artwork/102147/": {},
+  "https://sceneweb.no/nb/artwork/102160/": {
+    "playwright": "Dan Taxbro",
+    "playwright_url": "https://sceneweb.no/nb/artist/102155/Dan_Taxbro"
+  },
+  "https://sceneweb.no/nb/artwork/17277/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/102147/": {
+    "playwright": "John Luton",
+    "playwright_url": "https://sceneweb.no/nb/artist/102146/John_Luton"
+  },
   "https://sceneweb.no/nb/artwork/67104/": {
-    "original_title": "Århundradets kärlekssaga"
+    "original_title": "Århundradets kärlekssaga",
+    "playwright": "Märta Tikkanen",
+    "playwright_url": "https://sceneweb.no/nb/artist/50956/M%C3%A4rta_Tikkanen"
   },
-  "https://sceneweb.no/nb/artwork/101137/": {},
-  "https://sceneweb.no/nb/artwork/51030/": {},
-  "https://sceneweb.no/nb/artwork/101135/": {},
+  "https://sceneweb.no/nb/artwork/101137/": {
+    "playwright": "John Hollen",
+    "playwright_url": "https://sceneweb.no/nb/artist/9682/John_Hollen"
+  },
+  "https://sceneweb.no/nb/artwork/51030/": {
+    "playwright": "Lennart Lidström",
+    "playwright_url": "https://sceneweb.no/nb/artist/17060/Lennart_Lidstr%C3%B6m"
+  },
+  "https://sceneweb.no/nb/artwork/101135/": {
+    "playwright": "Hans E. Kinck",
+    "playwright_url": "https://sceneweb.no/nb/artist/15759/Hans_E.%20Kinck"
+  },
   "https://sceneweb.no/nb/artwork/39293/": {
-    "original_title": "Etter William"
+    "original_title": "Etter William",
+    "playwright": "Marit Tusvik",
+    "playwright_url": "https://sceneweb.no/nb/artist/4363/Marit_Tusvik"
   },
-  "https://sceneweb.no/nb/artwork/101133/": {},
-  "https://sceneweb.no/nb/artwork/17266/": {},
-  "https://sceneweb.no/nb/artwork/5701/": {},
+  "https://sceneweb.no/nb/artwork/101133/": {
+    "playwright": "Sidsel Mørck",
+    "playwright_url": "https://sceneweb.no/nb/artist/35503/Sidsel_M%C3%B8rck"
+  },
+  "https://sceneweb.no/nb/artwork/17266/": {
+    "playwright": "Arne Skouen",
+    "playwright_url": "https://sceneweb.no/nb/artist/16980/Arne_Skouen"
+  },
+  "https://sceneweb.no/nb/artwork/5701/": {
+    "playwright": "Anna Dahl Munch",
+    "playwright_url": "https://sceneweb.no/nb/artist/5712/Anna_Dahl%20Munch"
+  },
   "https://sceneweb.no/nb/artwork/85696/": {
     "original_title": "Peer Gynt"
   },
-  "https://sceneweb.no/nb/artwork/101089/": {},
+  "https://sceneweb.no/nb/artwork/101089/": {
+    "playwright": "John Hollen",
+    "playwright_url": "https://sceneweb.no/nb/artist/9682/John_Hollen"
+  },
   "https://sceneweb.no/nb/artwork/39888/": {
-    "original_title": "Des journées entières dans les arbres"
+    "original_title": "Des journées entières dans les arbres",
+    "playwright": "Marguerite Duras",
+    "playwright_url": "https://sceneweb.no/nb/artist/4667/Marguerite_Duras"
   },
-  "https://sceneweb.no/nb/artwork/101059/": {},
-  "https://sceneweb.no/nb/artwork/101086/": {},
+  "https://sceneweb.no/nb/artwork/101059/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/101086/": {
+    "playwright": "Pavel Kohout",
+    "playwright_url": "https://sceneweb.no/nb/artist/20485/Pavel_Kohout"
+  },
   "https://sceneweb.no/nb/artwork/56953/": {
-    "original_title": "El circulito de tiza o Historia de una muñeca abandonada"
+    "original_title": "El circulito de tiza o Historia de una muñeca abandonada",
+    "playwright": "Alfonso Sastre",
+    "playwright_url": "https://sceneweb.no/nb/artist/36932/Alfonso_Sastre"
   },
-  "https://sceneweb.no/nb/artwork/23019/": {},
+  "https://sceneweb.no/nb/artwork/23019/": {
+    "playwright": "Joop Admiraal",
+    "playwright_url": "https://sceneweb.no/nb/artist/20310/Joop_Admiraal"
+  },
   "https://sceneweb.no/nb/artwork/40997/": {
-    "original_title": "Medmenneske"
+    "original_title": "Medmenneske",
+    "playwright": "Olav Duun",
+    "playwright_url": "https://sceneweb.no/nb/artist/36199/Olav_Duun"
   },
-  "https://sceneweb.no/nb/artwork/102117/": {},
-  "https://sceneweb.no/nb/artwork/102112/": {},
+  "https://sceneweb.no/nb/artwork/102117/": {
+    "playwright": "Vibeke Idsøe",
+    "playwright_url": "https://sceneweb.no/nb/artist/102116/Vibeke_Ids%C3%B8e"
+  },
+  "https://sceneweb.no/nb/artwork/102112/": {
+    "playwright": "Margaret Johansen",
+    "playwright_url": "https://sceneweb.no/nb/artist/21034/Margaret_Johansen"
+  },
   "https://sceneweb.no/nb/artwork/22142/": {
-    "original_title": "Staromodnaja Komedija (Старомодная комедия)"
+    "original_title": "Staromodnaja Komedija (Старомодная комедия)",
+    "playwright": "Aleksej Arbuzov",
+    "playwright_url": "https://sceneweb.no/nb/artist/19253/Aleksej_Arbuzov"
   },
-  "https://sceneweb.no/nb/artwork/102114/": {},
-  "https://sceneweb.no/nb/artwork/101078/": {},
+  "https://sceneweb.no/nb/artwork/102114/": {
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
+  },
+  "https://sceneweb.no/nb/artwork/101078/": {
+    "playwright": "Erling Pedersen",
+    "playwright_url": "https://sceneweb.no/nb/artist/70570/Erling_Pedersen"
+  },
   "https://sceneweb.no/nb/artwork/64744/": {
-    "original_title": "Påske"
+    "original_title": "Påske",
+    "playwright": "Aksel-Otto Bull",
+    "playwright_url": "https://sceneweb.no/nb/artist/1810/Aksel-Otto_Bull"
   },
   "https://sceneweb.no/nb/artwork/47835/": {
-    "original_title": "La valse des toréadors"
+    "original_title": "La valse des toréadors",
+    "playwright": "Jean Anouilh",
+    "playwright_url": "https://sceneweb.no/nb/artist/20982/Jean_Anouilh"
   },
-  "https://sceneweb.no/nb/artwork/32691/": {},
+  "https://sceneweb.no/nb/artwork/32691/": {
+    "playwright": "Bjørg Vik",
+    "playwright_url": "https://sceneweb.no/nb/artist/17255/Bj%C3%B8rg_Vik"
+  },
   "https://sceneweb.no/nb/artwork/71671/": {
-    "original_title": "The Thwarting of Baron Bolligrew"
+    "original_title": "The Thwarting of Baron Bolligrew",
+    "playwright": "Robert Bolt",
+    "playwright_url": "https://sceneweb.no/nb/artist/18804/Robert_Bolt"
   },
-  "https://sceneweb.no/nb/artwork/35398/": {},
-  "https://sceneweb.no/nb/artwork/36522/": {},
-  "https://sceneweb.no/nb/artwork/45531/": {},
-  "https://sceneweb.no/nb/artwork/102065/": {},
-  "https://sceneweb.no/nb/artwork/101026/": {},
+  "https://sceneweb.no/nb/artwork/35398/": {
+    "playwright": "Klaus Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17214/Klaus_Hagerup"
+  },
+  "https://sceneweb.no/nb/artwork/36522/": {
+    "playwright": "Marit Tusvik",
+    "playwright_url": "https://sceneweb.no/nb/artist/4363/Marit_Tusvik"
+  },
+  "https://sceneweb.no/nb/artwork/45531/": {
+    "playwright": "Idar Lind",
+    "playwright_url": "https://sceneweb.no/nb/artist/29060/Idar_Lind"
+  },
+  "https://sceneweb.no/nb/artwork/102065/": {
+    "playwright": "Ola Bauer",
+    "playwright_url": "https://sceneweb.no/nb/artist/24122/Ola_Bauer"
+  },
+  "https://sceneweb.no/nb/artwork/101026/": {
+    "playwright": "Arnljot Berg",
+    "playwright_url": "https://sceneweb.no/nb/artist/100137/Arnljot_Berg"
+  },
   "https://sceneweb.no/nb/artwork/102067/": {
-    "original_title": "Letter To A Daughter"
+    "original_title": "Letter To A Daughter",
+    "playwright": "Arnold Wesker",
+    "playwright_url": "https://sceneweb.no/nb/artist/35809/Arnold_Wesker"
   },
   "https://sceneweb.no/nb/artwork/153357/": {
     "original_title": "Fruen fra havet"
   },
   "https://sceneweb.no/nb/artwork/49328/": {
-    "original_title": "La Légende des siècles"
+    "original_title": "La Légende des siècles",
+    "playwright": "Victor Hugo",
+    "playwright_url": "https://sceneweb.no/nb/artist/18227/Victor_Hugo"
   },
-  "https://sceneweb.no/nb/artwork/102101/": {},
+  "https://sceneweb.no/nb/artwork/102101/": {
+    "playwright": "Erling Pedersen",
+    "playwright_url": "https://sceneweb.no/nb/artist/70570/Erling_Pedersen"
+  },
   "https://sceneweb.no/nb/artwork/101022/": {
-    "original_title": "The Samaritan"
+    "original_title": "The Samaritan",
+    "playwright": "Peter Terson",
+    "playwright_url": "https://sceneweb.no/nb/artist/100297/Peter_Terson"
   },
-  "https://sceneweb.no/nb/artwork/102107/": {},
+  "https://sceneweb.no/nb/artwork/102107/": {
+    "playwright": "Leif Inge Jacobsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/102106/Leif_Inge%20Jacobsen"
+  },
   "https://sceneweb.no/nb/artwork/90337/": {
-    "original_title": "Tante Ulrikkes vei"
+    "original_title": "Tante Ulrikkes vei",
+    "playwright": "Zeshan Shakar",
+    "playwright_url": "https://sceneweb.no/nb/artist/90336/Zeshan_Shakar"
   },
   "https://sceneweb.no/nb/artwork/4411/": {
-    "original_title": "Sei personaggi in cerca d"
+    "original_title": "Sei personaggi in cerca d",
+    "playwright": "Luigi Pirandello",
+    "playwright_url": "https://sceneweb.no/nb/artist/4412/Luigi_Pirandello"
   },
-  "https://sceneweb.no/nb/artwork/101093/": {},
+  "https://sceneweb.no/nb/artwork/101093/": {
+    "playwright": "Nini Roll Anker",
+    "playwright_url": "https://sceneweb.no/nb/artist/16252/Nini_Roll%20Anker"
+  },
   "https://sceneweb.no/nb/artwork/40833/": {
-    "original_title": "Small Craft Warnings"
+    "original_title": "Small Craft Warnings",
+    "playwright": "Tennessee Williams",
+    "playwright_url": "https://sceneweb.no/nb/artist/4379/Tennessee_Williams"
   },
-  "https://sceneweb.no/nb/artwork/101923/": {},
+  "https://sceneweb.no/nb/artwork/101923/": {
+    "playwright": "Kjell Askildsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/17567/Kjell_Askildsen"
+  },
   "https://sceneweb.no/nb/artwork/36533/": {
-    "original_title": "Haugtussa"
+    "original_title": "Haugtussa",
+    "playwright": "Arne Garborg",
+    "playwright_url": "https://sceneweb.no/nb/artist/36441/Arne_Garborg"
   },
-  "https://sceneweb.no/nb/artwork/45405/": {},
+  "https://sceneweb.no/nb/artwork/45405/": {
+    "playwright": "Bengt Ahlfors",
+    "playwright_url": "https://sceneweb.no/nb/artist/18956/Bengt_Ahlfors"
+  },
   "https://sceneweb.no/nb/artwork/101019/": {
-    "original_title": "Save Me a Place at Forest Lawn"
+    "original_title": "Save Me a Place at Forest Lawn",
+    "playwright": "Lorees Yerby",
+    "playwright_url": "https://sceneweb.no/nb/artist/101054/Lorees_Yerby"
   },
-  "https://sceneweb.no/nb/artwork/23597/": {},
-  "https://sceneweb.no/nb/artwork/101017/": {},
-  "https://sceneweb.no/nb/artwork/101970/": {},
-  "https://sceneweb.no/nb/artwork/15840/": {},
-  "https://sceneweb.no/nb/artwork/102109/": {},
+  "https://sceneweb.no/nb/artwork/23597/": {
+    "playwright": "Barthold Halle",
+    "playwright_url": "https://sceneweb.no/nb/artist/8534/Barthold_Halle"
+  },
+  "https://sceneweb.no/nb/artwork/101017/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/101970/": {
+    "playwright": "Ulf Breistrand",
+    "playwright_url": "https://sceneweb.no/nb/artist/8438/Ulf_Breistrand"
+  },
+  "https://sceneweb.no/nb/artwork/15840/": {
+    "playwright": "Amalie Skram",
+    "playwright_url": "https://sceneweb.no/nb/artist/15835/Amalie_Skram"
+  },
+  "https://sceneweb.no/nb/artwork/102109/": {
+    "playwright": "Sigrid Undset",
+    "playwright_url": "https://sceneweb.no/nb/artist/4235/Sigrid_Undset"
+  },
   "https://sceneweb.no/nb/artwork/15878/": {},
-  "https://sceneweb.no/nb/artwork/77862/": {},
+  "https://sceneweb.no/nb/artwork/77862/": {
+    "playwright": "Alf R. Jacobsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/75010/Alf_R.%20Jacobsen"
+  },
   "https://sceneweb.no/nb/artwork/35479/": {
-    "original_title": "Tribadernas natt"
+    "original_title": "Tribadernas natt",
+    "playwright": "Per Olov Enquist",
+    "playwright_url": "https://sceneweb.no/nb/artist/28682/Per_Olov%20Enquist"
   },
   "https://sceneweb.no/nb/artwork/3627/": {
     "original_title": "Rosmerholm"
   },
-  "https://sceneweb.no/nb/artwork/100958/": {},
-  "https://sceneweb.no/nb/artwork/101918/": {},
-  "https://sceneweb.no/nb/artwork/100978/": {},
+  "https://sceneweb.no/nb/artwork/100958/": {
+    "playwright": "Arild Kolstad",
+    "playwright_url": "https://sceneweb.no/nb/artist/94571/Arild_Kolstad"
+  },
+  "https://sceneweb.no/nb/artwork/101918/": {
+    "playwright": "Cora Sandel",
+    "playwright_url": "https://sceneweb.no/nb/artist/4370/Cora_Sandel"
+  },
+  "https://sceneweb.no/nb/artwork/100978/": {
+    "playwright": "Aleksandr Vampilov",
+    "playwright_url": "https://sceneweb.no/nb/artist/46675/Aleksandr_Vampilov"
+  },
   "https://sceneweb.no/nb/artwork/23083/": {
-    "original_title": "Til lykke med dagen"
+    "original_title": "Til lykke med dagen",
+    "playwright": "Jens Bjørneboe",
+    "playwright_url": "https://sceneweb.no/nb/artist/4406/Jens_Bj%C3%B8rneboe"
   },
   "https://sceneweb.no/nb/artwork/2889/": {
     "original_title": "Gengangere"
   },
   "https://sceneweb.no/nb/artwork/7749/": {
-    "original_title": "Scener ur ett äktenskap"
+    "original_title": "Scener ur ett äktenskap",
+    "playwright": "Ingmar Bergman",
+    "playwright_url": "https://sceneweb.no/nb/artist/4361/Ingmar_Bergman"
   },
   "https://sceneweb.no/nb/artwork/23046/": {
-    "original_title": "The Zoo Story"
+    "original_title": "The Zoo Story",
+    "playwright": "Edward Albee",
+    "playwright_url": "https://sceneweb.no/nb/artist/4381/Edward_Albee"
   },
   "https://sceneweb.no/nb/artwork/22363/": {
     "original_title": "Dödsdansen I"
   },
   "https://sceneweb.no/nb/artwork/100916/": {
-    "original_title": "Feu la mère de madame"
+    "original_title": "Feu la mère de madame",
+    "playwright": "Georges Feydeau",
+    "playwright_url": "https://sceneweb.no/nb/artist/20924/Georges_Feydeau"
   },
-  "https://sceneweb.no/nb/artwork/101908/": {},
+  "https://sceneweb.no/nb/artwork/101908/": {
+    "playwright": "Alf Prøysen",
+    "playwright_url": "https://sceneweb.no/nb/artist/6671/Alf_Pr%C3%B8ysen"
+  },
   "https://sceneweb.no/nb/artwork/56785/": {
-    "original_title": "Patrie"
+    "original_title": "Patrie",
+    "playwright": "Victorien Sardou",
+    "playwright_url": "https://sceneweb.no/nb/artist/19985/Victorien_Sardou"
   },
   "https://sceneweb.no/nb/artwork/23298/": {
-    "original_title": "Twigs"
+    "original_title": "Twigs",
+    "playwright": "George Furth",
+    "playwright_url": "https://sceneweb.no/nb/artist/21029/George_Furth"
   },
-  "https://sceneweb.no/nb/artwork/101912/": {},
-  "https://sceneweb.no/nb/artwork/17358/": {},
-  "https://sceneweb.no/nb/artwork/101904/": {},
+  "https://sceneweb.no/nb/artwork/101912/": {
+    "playwright": "Kjell Askildsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/17567/Kjell_Askildsen"
+  },
+  "https://sceneweb.no/nb/artwork/17358/": {
+    "playwright": "Sigrid Undset",
+    "playwright_url": "https://sceneweb.no/nb/artist/4235/Sigrid_Undset"
+  },
+  "https://sceneweb.no/nb/artwork/101904/": {
+    "playwright": "Alf Prøysen",
+    "playwright_url": "https://sceneweb.no/nb/artist/6671/Alf_Pr%C3%B8ysen"
+  },
   "https://sceneweb.no/nb/artwork/124184/": {
     "original_title": "Dödsdansen II"
   },
@@ -214,362 +466,1161 @@
     "original_title": "Den Stundesløse"
   },
   "https://sceneweb.no/nb/artwork/28681/": {
-    "original_title": "I lodjurets timma"
+    "original_title": "I lodjurets timma (direkte oversatt betydning er altså I gaupens time)",
+    "playwright": "Per Olov Enquist",
+    "playwright_url": "https://sceneweb.no/nb/artist/28682/Per_Olov%20Enquist"
   },
   "https://sceneweb.no/nb/artwork/3633/": {},
-  "https://sceneweb.no/nb/artwork/101872/": {},
+  "https://sceneweb.no/nb/artwork/101872/": {
+    "playwright": "Åse Vikene",
+    "playwright_url": "https://sceneweb.no/nb/artist/19359/%C3%85se_Vikene"
+  },
   "https://sceneweb.no/nb/artwork/100912/": {
-    "original_title": "Macskajáték"
+    "original_title": "Macskajáték",
+    "playwright": "Istvan Örkeny",
+    "playwright_url": "https://sceneweb.no/nb/artist/100911/Istvan_%C3%96rkeny"
   },
   "https://sceneweb.no/nb/artwork/89060/": {
-    "original_title": "Beginning"
+    "original_title": "Beginning",
+    "playwright": "David Eldridge",
+    "playwright_url": "https://sceneweb.no/nb/artist/89059/David_Eldridge"
   },
-  "https://sceneweb.no/nb/artwork/77780/": {},
+  "https://sceneweb.no/nb/artwork/77780/": {
+    "playwright": "Edvard Rønning",
+    "playwright_url": "https://sceneweb.no/nb/artist/21196/Edvard_R%C3%B8nning"
+  },
   "https://sceneweb.no/nb/artwork/23246/": {
-    "original_title": "Szczęśliwe wydarzenie"
+    "original_title": "Szczęśliwe wydarzenie",
+    "playwright": "Sławomir Mrożek",
+    "playwright_url": "https://sceneweb.no/nb/artist/20620/S%C5%82awomir_Mro%C5%BCek"
   },
   "https://sceneweb.no/nb/artwork/35813/": {
-    "original_title": "L"
+    "original_title": "L",
+    "playwright": "Jean Anouilh",
+    "playwright_url": "https://sceneweb.no/nb/artist/20982/Jean_Anouilh"
   },
   "https://sceneweb.no/nb/artwork/43331/": {
-    "original_title": "Furcht und Elend des Dritten Reiches"
+    "original_title": "Furcht und Elend des Dritten Reiches",
+    "playwright": "Bertolt Brecht",
+    "playwright_url": "https://sceneweb.no/nb/artist/20786/Bertolt_Brecht"
   },
   "https://sceneweb.no/nb/artwork/40859/": {
     "original_title": "Fordringsägare"
   },
   "https://sceneweb.no/nb/artwork/92681/": {
-    "original_title": "Mäster Olof"
+    "original_title": "Mäster Olof",
+    "playwright": "August Strindberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4344/August_Strindberg"
   },
-  "https://sceneweb.no/nb/artwork/101869/": {},
+  "https://sceneweb.no/nb/artwork/101869/": {
+    "playwright": "Erling Pedersen",
+    "playwright_url": "https://sceneweb.no/nb/artist/70570/Erling_Pedersen"
+  },
   "https://sceneweb.no/nb/artwork/100905/": {
-    "original_title": "Vernisáž"
+    "original_title": "Vernisáž",
+    "playwright": "Vaclav Havel",
+    "playwright_url": "https://sceneweb.no/nb/artist/37021/Vaclav_Havel"
   },
-  "https://sceneweb.no/nb/artwork/42512/": {},
+  "https://sceneweb.no/nb/artwork/42512/": {
+    "playwright": "Vidar Sandem",
+    "playwright_url": "https://sceneweb.no/nb/artist/11527/Vidar_Sandem"
+  },
   "https://sceneweb.no/nb/artwork/41550/": {
-    "original_title": "Candida"
+    "original_title": "Candida",
+    "playwright": "George Bernard Shaw",
+    "playwright_url": "https://sceneweb.no/nb/artist/21268/George_Bernard%20Shaw"
   },
-  "https://sceneweb.no/nb/artwork/101902/": {},
+  "https://sceneweb.no/nb/artwork/101902/": {
+    "playwright": "Svein Erik Brodal",
+    "playwright_url": "https://sceneweb.no/nb/artist/8205/Svein_Erik%20Brodal"
+  },
   "https://sceneweb.no/nb/artwork/57399/": {
-    "original_title": "Joan of Lorraine"
+    "original_title": "Joan of Lorraine",
+    "playwright": "Maxwell Anderson",
+    "playwright_url": "https://sceneweb.no/nb/artist/19213/Maxwell_Anderson"
   },
-  "https://sceneweb.no/nb/artwork/100983/": {},
-  "https://sceneweb.no/nb/artwork/34718/": {},
+  "https://sceneweb.no/nb/artwork/100983/": {
+    "playwright": "Klaus Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17214/Klaus_Hagerup"
+  },
+  "https://sceneweb.no/nb/artwork/34718/": {
+    "playwright": "Tarjei Vesaas",
+    "playwright_url": "https://sceneweb.no/nb/artist/4365/Tarjei_Vesaas"
+  },
   "https://sceneweb.no/nb/artwork/38000/": {
-    "original_title": "Der Besuch der alten Dame"
+    "original_title": "Der Besuch der alten Dame",
+    "playwright": "Friedrich Dürrenmatt",
+    "playwright_url": "https://sceneweb.no/nb/artist/37999/Friedrich_D%C3%BCrrenmatt"
   },
   "https://sceneweb.no/nb/artwork/35695/": {
-    "original_title": "Eh Joe"
+    "original_title": "Eh Joe",
+    "playwright": "Samuel Beckett",
+    "playwright_url": "https://sceneweb.no/nb/artist/4216/Samuel_Beckett"
   },
   "https://sceneweb.no/nb/artwork/100536/": {
-    "original_title": "La Musica deuxième"
+    "original_title": "La Musica deuxième",
+    "playwright": "Marguerite Duras",
+    "playwright_url": "https://sceneweb.no/nb/artist/4667/Marguerite_Duras"
   },
-  "https://sceneweb.no/nb/artwork/57781/": {},
+  "https://sceneweb.no/nb/artwork/57781/": {
+    "playwright": "Arnljot Eggen",
+    "playwright_url": "https://sceneweb.no/nb/artist/40202/Arnljot_Eggen"
+  },
   "https://sceneweb.no/nb/artwork/42581/": {
-    "original_title": "Look Back in Anger"
+    "original_title": "Look Back in Anger",
+    "playwright": "John Osborne",
+    "playwright_url": "https://sceneweb.no/nb/artist/20237/John_Osborne"
   },
   "https://sceneweb.no/nb/artwork/16657/": {
     "original_title": "Den vægelsindede"
   },
   "https://sceneweb.no/nb/artwork/41070/": {
-    "original_title": "Juno and the Paycock"
+    "original_title": "Juno and the Paycock",
+    "playwright": "Sean O'Casey",
+    "playwright_url": "https://sceneweb.no/nb/artist/41069/Sean_O'Casey"
   },
   "https://sceneweb.no/nb/artwork/118362/": {},
   "https://sceneweb.no/nb/artwork/100518/": {
-    "original_title": "Sladek der schwarze Reichswehrmann"
+    "original_title": "Sladek der schwarze Reichswehrmann",
+    "playwright": "Ödön von Horváth",
+    "playwright_url": "https://sceneweb.no/nb/artist/32218/%C3%96d%C3%B6n_von%20Horv%C3%A1th"
   },
-  "https://sceneweb.no/nb/artwork/100902/": {},
+  "https://sceneweb.no/nb/artwork/100902/": {
+    "playwright": "Arild Kolstad",
+    "playwright_url": "https://sceneweb.no/nb/artist/94571/Arild_Kolstad"
+  },
   "https://sceneweb.no/nb/artwork/34786/": {
-    "original_title": "Phèdre"
+    "original_title": "Phèdre",
+    "playwright": "Jean Racine",
+    "playwright_url": "https://sceneweb.no/nb/artist/4219/Jean_Racine"
   },
-  "https://sceneweb.no/nb/artwork/101862/": {},
-  "https://sceneweb.no/nb/artwork/17176/": {},
+  "https://sceneweb.no/nb/artwork/101862/": {
+    "playwright": "Ola Bauer",
+    "playwright_url": "https://sceneweb.no/nb/artist/24122/Ola_Bauer"
+  },
+  "https://sceneweb.no/nb/artwork/17176/": {
+    "playwright": "Anders Bye",
+    "playwright_url": "https://sceneweb.no/nb/artist/17177/Anders_Bye"
+  },
   "https://sceneweb.no/nb/artwork/90187/": {
-    "original_title": "Canto libre"
+    "original_title": "Canto libre",
+    "playwright": "Jorge Diaz",
+    "playwright_url": "https://sceneweb.no/nb/artist/90186/Jorge_Diaz"
   },
-  "https://sceneweb.no/nb/artwork/100877/": {},
+  "https://sceneweb.no/nb/artwork/100877/": {
+    "playwright": "Aleksej Arbuzov",
+    "playwright_url": "https://sceneweb.no/nb/artist/19253/Aleksej_Arbuzov"
+  },
   "https://sceneweb.no/nb/artwork/15435/": {
     "original_title": "Три сестры"
   },
   "https://sceneweb.no/nb/artwork/22985/": {
-    "original_title": "The Caretaker"
+    "original_title": "The Caretaker",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
   },
   "https://sceneweb.no/nb/artwork/15715/": {
-    "original_title": "Geografi og kjærlighed"
+    "original_title": "Geografi og kjærlighed",
+    "playwright": "Bjørnstjerne Bjørnson",
+    "playwright_url": "https://sceneweb.no/nb/artist/4393/Bj%C3%B8rnstjerne_Bj%C3%B8rnson"
   },
-  "https://sceneweb.no/nb/artwork/101856/": {},
+  "https://sceneweb.no/nb/artwork/101856/": {
+    "playwright": "Torun Lian",
+    "playwright_url": "https://sceneweb.no/nb/artist/5944/Torun_Lian"
+  },
   "https://sceneweb.no/nb/artwork/43302/": {
-    "original_title": "Kennedy"
+    "original_title": "Kennedy",
+    "playwright": "Robert Patrick",
+    "playwright_url": "https://sceneweb.no/nb/artist/43301/Robert_Patrick"
   },
   "https://sceneweb.no/nb/artwork/50208/": {
-    "original_title": "Délire à deux"
+    "original_title": "Délire à deux",
+    "playwright": "Eugène Ionesco",
+    "playwright_url": "https://sceneweb.no/nb/artist/20992/Eug%C3%A8ne_Ionesco"
   },
-  "https://sceneweb.no/nb/artwork/100871/": {},
-  "https://sceneweb.no/nb/artwork/45864/": {},
-  "https://sceneweb.no/nb/artwork/100812/": {},
+  "https://sceneweb.no/nb/artwork/100871/": {
+    "playwright": "Anton Tsjekhov",
+    "playwright_url": "https://sceneweb.no/nb/artist/4215/Anton_Tsjekhov"
+  },
+  "https://sceneweb.no/nb/artwork/45864/": {
+    "playwright": "Edvard Rønning",
+    "playwright_url": "https://sceneweb.no/nb/artist/21196/Edvard_R%C3%B8nning"
+  },
+  "https://sceneweb.no/nb/artwork/100812/": {
+    "playwright": "Hans-Magnus Ystgaard",
+    "playwright_url": "https://sceneweb.no/nb/artist/32105/Hans-Magnus_Ystgaard"
+  },
   "https://sceneweb.no/nb/artwork/5049/": {
-    "original_title": "Fugleelskerne"
+    "original_title": "Fugleelskerne",
+    "playwright": "Jens Bjørneboe",
+    "playwright_url": "https://sceneweb.no/nb/artist/4406/Jens_Bj%C3%B8rneboe"
   },
   "https://sceneweb.no/nb/artwork/16272/": {
-    "original_title": "Jan Herwitz - Gamle Bergensbilleder"
+    "original_title": "Jan Herwitz - Gamle Bergensbilleder",
+    "playwright": "Hans Wiers-Jenssen",
+    "playwright_url": "https://sceneweb.no/nb/artist/16067/Hans_Wiers-Jenssen"
   },
   "https://sceneweb.no/nb/artwork/57423/": {
-    "original_title": "Ivar Kreugers svindlande äffarer"
+    "original_title": "Ivar Kreugers svindlande äffarer",
+    "playwright": "Hans Bendrik",
+    "playwright_url": "https://sceneweb.no/nb/artist/43767/Hans_Bendrik"
   },
   "https://sceneweb.no/nb/artwork/54365/": {},
-  "https://sceneweb.no/nb/artwork/101843/": {},
-  "https://sceneweb.no/nb/artwork/100510/": {},
-  "https://sceneweb.no/nb/artwork/17254/": {},
-  "https://sceneweb.no/nb/artwork/100406/": {},
+  "https://sceneweb.no/nb/artwork/101843/": {
+    "playwright": "Johan Borgen",
+    "playwright_url": "https://sceneweb.no/nb/artist/15704/Johan_Borgen"
+  },
+  "https://sceneweb.no/nb/artwork/100510/": {
+    "playwright": "Helge Krog",
+    "playwright_url": "https://sceneweb.no/nb/artist/15765/Helge_Krog"
+  },
+  "https://sceneweb.no/nb/artwork/17254/": {
+    "playwright": "Bjørg Vik",
+    "playwright_url": "https://sceneweb.no/nb/artist/17255/Bj%C3%B8rg_Vik"
+  },
+  "https://sceneweb.no/nb/artwork/100406/": {
+    "playwright": "Terje Mærli",
+    "playwright_url": "https://sceneweb.no/nb/artist/7652/Terje_M%C3%A6rli"
+  },
   "https://sceneweb.no/nb/artwork/100862/": {
-    "original_title": "Rapport om kvinnor"
+    "original_title": "Rapport om kvinnor",
+    "playwright": "Carin Mannheimer",
+    "playwright_url": "https://sceneweb.no/nb/artist/38301/Carin_Mannheimer"
   },
   "https://sceneweb.no/nb/artwork/15685/": {
     "original_title": "Barselstuen"
   },
   "https://sceneweb.no/nb/artwork/100859/": {
-    "original_title": "Erika"
+    "original_title": "Erika",
+    "playwright": "Ursula Krechel",
+    "playwright_url": "https://sceneweb.no/nb/artist/100858/Ursula_Krechel"
   },
-  "https://sceneweb.no/nb/artwork/100379/": {},
+  "https://sceneweb.no/nb/artwork/100379/": {
+    "playwright": "Helge Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17143/Helge_Hagerup"
+  },
   "https://sceneweb.no/nb/artwork/100853/": {
-    "original_title": "Oberösterreich"
+    "original_title": "Oberösterreich",
+    "playwright": "Franz Xaver Kroetz",
+    "playwright_url": "https://sceneweb.no/nb/artist/41140/Franz_Xaver%20Kroetz"
   },
   "https://sceneweb.no/nb/artwork/77379/": {
-    "original_title": "L"
+    "original_title": "L",
+    "playwright": "Marguerite Duras",
+    "playwright_url": "https://sceneweb.no/nb/artist/4667/Marguerite_Duras"
   },
   "https://sceneweb.no/nb/artwork/16168/": {
-    "original_title": "Naar den ny vin blomstrer"
+    "original_title": "Naar den ny vin blomstrer",
+    "playwright": "Bjørnstjerne Bjørnson",
+    "playwright_url": "https://sceneweb.no/nb/artist/4393/Bj%C3%B8rnstjerne_Bj%C3%B8rnson"
   },
-  "https://sceneweb.no/nb/artwork/100838/": {},
+  "https://sceneweb.no/nb/artwork/100838/": {
+    "playwright": "Vigdis Stokkelien",
+    "playwright_url": "https://sceneweb.no/nb/artist/100252/Vigdis_Stokkelien"
+  },
   "https://sceneweb.no/nb/artwork/100474/": {
-    "original_title": "Låt ugräset växe"
+    "original_title": "Låt ugräset växe",
+    "playwright": "Olle Mattson",
+    "playwright_url": "https://sceneweb.no/nb/artist/100472/Olle_Mattson"
   },
-  "https://sceneweb.no/nb/artwork/44186/": {},
+  "https://sceneweb.no/nb/artwork/44186/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
   "https://sceneweb.no/nb/artwork/3631/": {
-    "original_title": "Naar vi døde vaagner"
+    "original_title": "Naar vi døde vaagner",
+    "playwright": "Henrik Ibsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/3317/Henrik_Ibsen"
   },
   "https://sceneweb.no/nb/artwork/100350/": {
-    "original_title": "The Shadow of a Gunman"
+    "original_title": "The Shadow of a Gunman",
+    "playwright": "Sean O'Casey",
+    "playwright_url": "https://sceneweb.no/nb/artist/41069/Sean_O'Casey"
   },
   "https://sceneweb.no/nb/artwork/22156/": {
-    "original_title": "Yerma"
+    "original_title": "Yerma",
+    "playwright": "Federico García Lorca",
+    "playwright_url": "https://sceneweb.no/nb/artist/19890/Federico_Garc%C3%ADa%20Lorca"
   },
   "https://sceneweb.no/nb/artwork/40237/": {
-    "original_title": "Vyrozumeni"
+    "original_title": "Vyrozumeni",
+    "playwright": "Vaclav Havel",
+    "playwright_url": "https://sceneweb.no/nb/artist/37021/Vaclav_Havel"
   },
   "https://sceneweb.no/nb/artwork/23054/": {
     "original_title": "Kamraterna"
   },
   "https://sceneweb.no/nb/artwork/42583/": {
-    "original_title": "Mrs. Warren´s Profession"
+    "original_title": "Mrs. Warren´s Profession",
+    "playwright": "George Bernard Shaw",
+    "playwright_url": "https://sceneweb.no/nb/artist/21268/George_Bernard%20Shaw"
   },
   "https://sceneweb.no/nb/artwork/44476/": {
     "original_title": "Absurd Person Singular"
   },
-  "https://sceneweb.no/nb/artwork/100373/": {},
-  "https://sceneweb.no/nb/artwork/42516/": {
-    "original_title": "Oidipus / Oidipus tyrannos"
+  "https://sceneweb.no/nb/artwork/100373/": {
+    "playwright": "Jules Feiffer",
+    "playwright_url": "https://sceneweb.no/nb/artist/100372/Jules_Feiffer"
   },
-  "https://sceneweb.no/nb/artwork/72309/": {},
-  "https://sceneweb.no/nb/artwork/35799/": {},
-  "https://sceneweb.no/nb/artwork/100366/": {},
+  "https://sceneweb.no/nb/artwork/42516/": {
+    "original_title": "Oidipus / Oidipus tyrannos",
+    "playwright": "Sofokles",
+    "playwright_url": "https://sceneweb.no/nb/artist/4294/Sofokles_"
+  },
+  "https://sceneweb.no/nb/artwork/72309/": {
+    "playwright": "Veronica Salinas",
+    "playwright_url": "https://sceneweb.no/nb/artist/6765/Veronica_Salinas"
+  },
+  "https://sceneweb.no/nb/artwork/35799/": {
+    "playwright": "Nikolay Robertovich Erdman",
+    "playwright_url": "https://sceneweb.no/nb/artist/35798/Nikolay_Robertovich%20Erdman"
+  },
+  "https://sceneweb.no/nb/artwork/100366/": {
+    "playwright": "Espen Thorstenson",
+    "playwright_url": "https://sceneweb.no/nb/artist/100365/Espen_Thorstenson"
+  },
   "https://sceneweb.no/nb/artwork/3626/": {},
   "https://sceneweb.no/nb/artwork/100363/": {
-    "original_title": "Arbeitgeber"
+    "original_title": "Arbeitgeber",
+    "playwright": "Gerhard Kelling",
+    "playwright_url": "https://sceneweb.no/nb/artist/100362/Gerhard_Kelling"
   },
-  "https://sceneweb.no/nb/artwork/100358/": {},
-  "https://sceneweb.no/nb/artwork/83775/": {},
-  "https://sceneweb.no/nb/artwork/100317/": {},
-  "https://sceneweb.no/nb/artwork/100313/": {},
-  "https://sceneweb.no/nb/artwork/37723/": {},
+  "https://sceneweb.no/nb/artwork/100358/": {
+    "playwright": "Paal-Helge Haugen",
+    "playwright_url": "https://sceneweb.no/nb/artist/34236/Paal-Helge_Haugen"
+  },
+  "https://sceneweb.no/nb/artwork/83775/": {
+    "playwright": "Henrik Wergeland",
+    "playwright_url": "https://sceneweb.no/nb/artist/16801/Henrik_Wergeland"
+  },
+  "https://sceneweb.no/nb/artwork/100317/": {
+    "playwright": "Tor Åge Bringsværd",
+    "playwright_url": "https://sceneweb.no/nb/artist/3548/Tor_%C3%85ge%20Bringsv%C3%A6rd"
+  },
+  "https://sceneweb.no/nb/artwork/100313/": {
+    "playwright": "Sigbjørn Hølmebakk",
+    "playwright_url": "https://sceneweb.no/nb/artist/53546/Sigbj%C3%B8rn_H%C3%B8lmebakk"
+  },
+  "https://sceneweb.no/nb/artwork/37723/": {
+    "playwright": "Ingeborg Refling Hagen",
+    "playwright_url": "https://sceneweb.no/nb/artist/25710/Ingeborg_Refling%20Hagen"
+  },
   "https://sceneweb.no/nb/artwork/100311/": {
-    "original_title": "In Two Minds"
+    "original_title": "In Two Minds",
+    "playwright": "David Mercer",
+    "playwright_url": "https://sceneweb.no/nb/artist/100310/David_Mercer"
   },
-  "https://sceneweb.no/nb/artwork/100308/": {},
+  "https://sceneweb.no/nb/artwork/100308/": {
+    "playwright": "Anders Bye",
+    "playwright_url": "https://sceneweb.no/nb/artist/17177/Anders_Bye"
+  },
   "https://sceneweb.no/nb/artwork/3625/": {
-    "original_title": "Samfundets Støtter"
+    "original_title": "Samfundets Støtter",
+    "playwright": "Henrik Ibsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/3317/Henrik_Ibsen"
   },
   "https://sceneweb.no/nb/artwork/100298/": {
-    "original_title": "Mooney and His Caravans"
+    "original_title": "Mooney and His Caravans",
+    "playwright": "Peter Terson",
+    "playwright_url": "https://sceneweb.no/nb/artist/100297/Peter_Terson"
   },
   "https://sceneweb.no/nb/artwork/100293/": {
-    "original_title": "I´ll Have You to Remember"
+    "original_title": "I´ll Have You to Remember",
+    "playwright": "Clive Exton",
+    "playwright_url": "https://sceneweb.no/nb/artist/100292/Clive_Exton"
   },
   "https://sceneweb.no/nb/artwork/33950/": {
-    "original_title": "Bare Alberte"
+    "original_title": "Bare Alberte",
+    "playwright": "Cora Sandel",
+    "playwright_url": "https://sceneweb.no/nb/artist/4370/Cora_Sandel"
   },
   "https://sceneweb.no/nb/artwork/100295/": {
-    "original_title": "Herr Print erkennt sich selbst"
+    "original_title": "Herr Print erkennt sich selbst",
+    "playwright": "Herbert Lichtenfeld",
+    "playwright_url": "https://sceneweb.no/nb/artist/100249/Herbert_Lichtenfeld"
   },
   "https://sceneweb.no/nb/artwork/100290/": {
-    "original_title": "The Successfull Life of 3"
+    "original_title": "The Successfull Life of 3",
+    "playwright": "Maria Irene Fornés",
+    "playwright_url": "https://sceneweb.no/nb/artist/100289/Maria_Irene%20Forn%C3%A9s"
   },
-  "https://sceneweb.no/nb/artwork/100287/": {},
-  "https://sceneweb.no/nb/artwork/100264/": {},
-  "https://sceneweb.no/nb/artwork/100262/": {},
+  "https://sceneweb.no/nb/artwork/100287/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/100264/": {
+    "playwright": "Klaus Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17214/Klaus_Hagerup"
+  },
+  "https://sceneweb.no/nb/artwork/100262/": {
+    "playwright": "Terje Stigen",
+    "playwright_url": "https://sceneweb.no/nb/artist/35716/Terje_Stigen"
+  },
   "https://sceneweb.no/nb/artwork/57112/": {},
   "https://sceneweb.no/nb/artwork/100268/": {
-    "original_title": "Nachrichten aus der Provinz"
+    "original_title": "Nachrichten aus der Provinz",
+    "playwright": "Jochen Ziem",
+    "playwright_url": "https://sceneweb.no/nb/artist/100267/Jochen_Ziem"
   },
-  "https://sceneweb.no/nb/artwork/100253/": {},
+  "https://sceneweb.no/nb/artwork/100253/": {
+    "playwright": "Vigdis Stokkelien",
+    "playwright_url": "https://sceneweb.no/nb/artist/100252/Vigdis_Stokkelien"
+  },
   "https://sceneweb.no/nb/artwork/29602/": {
-    "original_title": "A View from the Bridge"
+    "original_title": "A View from the Bridge",
+    "playwright": "Arthur Miller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4380/Arthur_Miller"
   },
-  "https://sceneweb.no/nb/artwork/100258/": {},
+  "https://sceneweb.no/nb/artwork/100258/": {
+    "playwright": "Sigrid Undset",
+    "playwright_url": "https://sceneweb.no/nb/artist/4235/Sigrid_Undset"
+  },
   "https://sceneweb.no/nb/artwork/51991/": {
-    "original_title": "Alltid noe trist og deprimerende"
+    "original_title": "Alltid noe trist og deprimerende",
+    "playwright": "Anders Bye",
+    "playwright_url": "https://sceneweb.no/nb/artist/17177/Anders_Bye"
   },
   "https://sceneweb.no/nb/artwork/100250/": {
-    "original_title": "Die Deutschlandreise"
+    "original_title": "Die Deutschlandreise",
+    "playwright": "Herbert Lichtenfeld",
+    "playwright_url": "https://sceneweb.no/nb/artist/100249/Herbert_Lichtenfeld"
   },
   "https://sceneweb.no/nb/artwork/77824/": {
-    "original_title": "Die Kleinbürgerhochzeit"
+    "original_title": "Die Kleinbürgerhochzeit",
+    "playwright": "Bertolt Brecht",
+    "playwright_url": "https://sceneweb.no/nb/artist/20786/Bertolt_Brecht"
   },
   "https://sceneweb.no/nb/artwork/46809/": {
-    "original_title": "Pelikanen"
+    "original_title": "Pelikanen",
+    "playwright": "August Strindberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4344/August_Strindberg"
   },
-  "https://sceneweb.no/nb/artwork/100247/": {},
-  "https://sceneweb.no/nb/artwork/100216/": {},
+  "https://sceneweb.no/nb/artwork/100247/": {
+    "playwright": "Tor Åge Bringsværd",
+    "playwright_url": "https://sceneweb.no/nb/artist/3548/Tor_%C3%85ge%20Bringsv%C3%A6rd"
+  },
+  "https://sceneweb.no/nb/artwork/100216/": {
+    "playwright": "Hans-Magnus Ystgaard",
+    "playwright_url": "https://sceneweb.no/nb/artist/32105/Hans-Magnus_Ystgaard"
+  },
   "https://sceneweb.no/nb/artwork/100214/": {
-    "original_title": "The Old Ladies"
+    "original_title": "The Old Ladies",
+    "playwright": "Hugh Walpole",
+    "playwright_url": "https://sceneweb.no/nb/artist/100212/Hugh_Walpole"
   },
   "https://sceneweb.no/nb/artwork/100183/": {
-    "original_title": "I dag død, i morgen rosenrød"
+    "original_title": "I dag død, i morgen rosenrød",
+    "playwright": "Anders Bye",
+    "playwright_url": "https://sceneweb.no/nb/artist/17177/Anders_Bye"
   },
   "https://sceneweb.no/nb/artwork/100210/": {
-    "original_title": "World War 21/2"
+    "original_title": "World War 21/2",
+    "playwright": "Roger Hirson",
+    "playwright_url": "https://sceneweb.no/nb/artist/100208/Roger_Hirson"
   },
   "https://sceneweb.no/nb/artwork/99449/": {
-    "original_title": "I´m Talking About Jerusalem"
+    "original_title": "I´m Talking About Jerusalem",
+    "playwright": "Arnold Wesker",
+    "playwright_url": "https://sceneweb.no/nb/artist/35809/Arnold_Wesker"
   },
   "https://sceneweb.no/nb/artwork/99445/": {
-    "original_title": "Chicken Soup with Barley"
+    "original_title": "Chicken Soup with Barley",
+    "playwright": "Arnold Wesker",
+    "playwright_url": "https://sceneweb.no/nb/artist/35809/Arnold_Wesker"
   },
-  "https://sceneweb.no/nb/artwork/100196/": {},
-  "https://sceneweb.no/nb/artwork/100181/": {},
+  "https://sceneweb.no/nb/artwork/100196/": {
+    "playwright": "Mathis Mathisen",
+    "playwright_url": "https://sceneweb.no/nb/artist/77508/Mathis_Mathisen"
+  },
+  "https://sceneweb.no/nb/artwork/100181/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
   "https://sceneweb.no/nb/artwork/57045/": {
-    "original_title": "Doña Rosita la soltera, o El lenguaje de las flores"
+    "original_title": "Doña Rosita la soltera, o El lenguaje de las flores",
+    "playwright": "Federico García Lorca",
+    "playwright_url": "https://sceneweb.no/nb/artist/19890/Federico_Garc%C3%ADa%20Lorca"
   },
   "https://sceneweb.no/nb/artwork/100260/": {
-    "original_title": "Policja"
+    "original_title": "Policja",
+    "playwright": "Sławomir Mrożek",
+    "playwright_url": "https://sceneweb.no/nb/artist/20620/S%C5%82awomir_Mro%C5%BCek"
   },
   "https://sceneweb.no/nb/artwork/35684/": {
     "original_title": "Fin de partie"
   },
   "https://sceneweb.no/nb/artwork/100195/": {
-    "original_title": "Dom na granicy"
+    "original_title": "Dom na granicy",
+    "playwright": "Sławomir Mrożek",
+    "playwright_url": "https://sceneweb.no/nb/artist/20620/S%C5%82awomir_Mro%C5%BCek"
   },
-  "https://sceneweb.no/nb/artwork/42372/": {},
-  "https://sceneweb.no/nb/artwork/100192/": {},
-  "https://sceneweb.no/nb/artwork/100190/": {},
+  "https://sceneweb.no/nb/artwork/42372/": {
+    "playwright": "Arne Garborg",
+    "playwright_url": "https://sceneweb.no/nb/artist/36441/Arne_Garborg"
+  },
+  "https://sceneweb.no/nb/artwork/100192/": {
+    "playwright": "Hans-Magnus Ystgaard",
+    "playwright_url": "https://sceneweb.no/nb/artist/32105/Hans-Magnus_Ystgaard"
+  },
+  "https://sceneweb.no/nb/artwork/100190/": {
+    "playwright": "Bjørn Høvik",
+    "playwright_url": "https://sceneweb.no/nb/artist/100189/Bj%C3%B8rn_H%C3%B8vik"
+  },
   "https://sceneweb.no/nb/artwork/53193/": {
-    "original_title": "Grand Tenement/November 22nd"
+    "original_title": "Grand Tenement/November 22nd",
+    "playwright": "Tom Eyen",
+    "playwright_url": "https://sceneweb.no/nb/artist/53194/Tom_Eyen"
   },
   "https://sceneweb.no/nb/artwork/23522/": {
-    "original_title": "The Glass Menagerie"
+    "original_title": "The Glass Menagerie",
+    "playwright": "Tennessee Williams",
+    "playwright_url": "https://sceneweb.no/nb/artist/4379/Tennessee_Williams"
   },
   "https://sceneweb.no/nb/artwork/100138/": {
-    "original_title": "Four Seasons"
+    "original_title": "Four Seasons",
+    "playwright": "Arnold Wesker",
+    "playwright_url": "https://sceneweb.no/nb/artist/35809/Arnold_Wesker"
   },
-  "https://sceneweb.no/nb/artwork/100146/": {},
+  "https://sceneweb.no/nb/artwork/100146/": {
+    "playwright": "Solveig Christov",
+    "playwright_url": "https://sceneweb.no/nb/artist/17074/Solveig_Christov"
+  },
   "https://sceneweb.no/nb/artwork/76271/": {
-    "original_title": "The Shadow of the Glen"
+    "original_title": "The Shadow of the Glen",
+    "playwright": "John Millington Synge",
+    "playwright_url": "https://sceneweb.no/nb/artist/29045/John_Millington%20Synge"
   },
-  "https://sceneweb.no/nb/artwork/16345/": {},
+  "https://sceneweb.no/nb/artwork/16345/": {
+    "playwright": "Nils Kjær",
+    "playwright_url": "https://sceneweb.no/nb/artist/16075/Nils_Kj%C3%A6r"
+  },
   "https://sceneweb.no/nb/artwork/57367/": {
-    "original_title": "Hello from Bertha"
+    "original_title": "Hello from Bertha",
+    "playwright": "Tennessee Williams",
+    "playwright_url": "https://sceneweb.no/nb/artist/4379/Tennessee_Williams"
   },
   "https://sceneweb.no/nb/artwork/3632/": {},
-  "https://sceneweb.no/nb/artwork/77507/": {},
-  "https://sceneweb.no/nb/artwork/34191/": {},
-  "https://sceneweb.no/nb/artwork/16586/": {},
-  "https://sceneweb.no/nb/artwork/100144/": {
-    "original_title": "Der Schwarze Schwan"
+  "https://sceneweb.no/nb/artwork/77507/": {
+    "playwright": "Mathis Mathisen",
+    "playwright_url": "https://sceneweb.no/nb/artist/77508/Mathis_Mathisen"
   },
-  "https://sceneweb.no/nb/artwork/100141/": {},
+  "https://sceneweb.no/nb/artwork/34191/": {
+    "playwright": "Finn Carling",
+    "playwright_url": "https://sceneweb.no/nb/artist/17209/Finn_Carling"
+  },
+  "https://sceneweb.no/nb/artwork/16586/": {
+    "playwright": "Helge Krog",
+    "playwright_url": "https://sceneweb.no/nb/artist/15765/Helge_Krog"
+  },
+  "https://sceneweb.no/nb/artwork/100144/": {
+    "original_title": "Der Schwarze Schwan",
+    "playwright": "Martin Walser",
+    "playwright_url": "https://sceneweb.no/nb/artist/58807/Martin_Walser"
+  },
+  "https://sceneweb.no/nb/artwork/100141/": {
+    "playwright": "Saul Bellow",
+    "playwright_url": "https://sceneweb.no/nb/artist/100140/Saul_Bellow"
+  },
   "https://sceneweb.no/nb/artwork/156800/": {},
   "https://sceneweb.no/nb/artwork/69487/": {
-    "original_title": "Thunder on Sycamore Street"
+    "original_title": "Thunder on Sycamore Street",
+    "playwright": "Reginald Rose",
+    "playwright_url": "https://sceneweb.no/nb/artist/20227/Reginald_Rose"
   },
   "https://sceneweb.no/nb/artwork/21811/": {
-    "original_title": "The Room"
+    "original_title": "The Room",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
   },
-  "https://sceneweb.no/nb/artwork/100078/": {},
+  "https://sceneweb.no/nb/artwork/100078/": {
+    "playwright": "Giles Cooper",
+    "playwright_url": "https://sceneweb.no/nb/artist/20406/Giles_Cooper"
+  },
   "https://sceneweb.no/nb/artwork/100076/": {
-    "original_title": "The Long Voyage Home"
+    "original_title": "The Long Voyage Home",
+    "playwright": "Eugene O'Neill",
+    "playwright_url": "https://sceneweb.no/nb/artist/4378/Eugene_O'Neill"
   },
   "https://sceneweb.no/nb/artwork/69717/": {
-    "original_title": "Die Ermittlung"
+    "original_title": "Die Ermittlung",
+    "playwright": "Peter Weiss",
+    "playwright_url": "https://sceneweb.no/nb/artist/34696/Peter_Weiss"
   },
-  "https://sceneweb.no/nb/artwork/100073/": {},
-  "https://sceneweb.no/nb/artwork/100081/": {},
+  "https://sceneweb.no/nb/artwork/100073/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/100081/": {
+    "playwright": "Johan Borgen",
+    "playwright_url": "https://sceneweb.no/nb/artist/15704/Johan_Borgen"
+  },
   "https://sceneweb.no/nb/artwork/45438/": {
-    "original_title": "Key for Two"
+    "original_title": "Key for Two",
+    "playwright": "John Chapman",
+    "playwright_url": "https://sceneweb.no/nb/artist/20674/John_Chapman"
   },
   "https://sceneweb.no/nb/artwork/23062/": {
-    "original_title": "Le Malade imaginaire"
+    "original_title": "Le Malade imaginaire",
+    "playwright": "Jean-Baptiste Molière",
+    "playwright_url": "https://sceneweb.no/nb/artist/20995/Jean-Baptiste_Moli%C3%A8re"
   },
   "https://sceneweb.no/nb/artwork/45229/": {
-    "original_title": "The Cocktail Party"
+    "original_title": "The Cocktail Party",
+    "playwright": "Thomas Stearns Eliot",
+    "playwright_url": "https://sceneweb.no/nb/artist/20242/Thomas_Stearns%20Eliot"
   },
   "https://sceneweb.no/nb/artwork/23068/": {
-    "original_title": "Der Bürgermeister"
+    "original_title": "Der Bürgermeister",
+    "playwright": "Gert Hofmann",
+    "playwright_url": "https://sceneweb.no/nb/artist/20358/Gert_Hofmann"
   },
   "https://sceneweb.no/nb/artwork/35022/": {
-    "original_title": "All My Sons"
+    "original_title": "All My Sons",
+    "playwright": "Arthur Miller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4380/Arthur_Miller"
   },
   "https://sceneweb.no/nb/artwork/22015/": {
-    "original_title": "La Cantatrice chauve"
+    "original_title": "La Cantatrice chauve",
+    "playwright": "Eugène Ionesco",
+    "playwright_url": "https://sceneweb.no/nb/artist/20992/Eug%C3%A8ne_Ionesco"
   },
   "https://sceneweb.no/nb/artwork/100086/": {
-    "original_title": "The Complaisant Lover"
+    "original_title": "The Complaisant Lover",
+    "playwright": "Graham Greene",
+    "playwright_url": "https://sceneweb.no/nb/artist/18855/Graham_Greene"
   },
   "https://sceneweb.no/nb/artwork/100096/": {
-    "original_title": "Laure et les Jacques"
+    "original_title": "Laure et les Jacques",
+    "playwright": "Gabriel Arout",
+    "playwright_url": "https://sceneweb.no/nb/artist/100095/Gabriel_Arout"
   },
   "https://sceneweb.no/nb/artwork/142822/": {
-    "original_title": "Naboer"
+    "original_title": "Naboer",
+    "playwright": "Karen Høie",
+    "playwright_url": "https://sceneweb.no/nb/artist/912/Karen_H%C3%B8ie"
   },
-  "https://sceneweb.no/nb/artwork/100100/": {},
-  "https://sceneweb.no/nb/artwork/100027/": {},
-  "https://sceneweb.no/nb/artwork/100025/": {},
+  "https://sceneweb.no/nb/artwork/100100/": {
+    "playwright": "Mathis Mathisen",
+    "playwright_url": "https://sceneweb.no/nb/artist/77508/Mathis_Mathisen"
+  },
+  "https://sceneweb.no/nb/artwork/100027/": {
+    "playwright": "Sandro Key-Åberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/40175/Sandro_Key-%C3%85berg"
+  },
+  "https://sceneweb.no/nb/artwork/100025/": {
+    "playwright": "Victor Borg",
+    "playwright_url": "https://sceneweb.no/nb/artist/52087/Victor_Borg"
+  },
   "https://sceneweb.no/nb/artwork/4333/": {
-    "original_title": "Don Karlos"
+    "original_title": "Don Karlos",
+    "playwright": "Friedrich von Schiller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4334/Friedrich_von%20Schiller"
   },
-  "https://sceneweb.no/nb/artwork/100023/": {},
+  "https://sceneweb.no/nb/artwork/100023/": {
+    "playwright": "Bjørg Vik",
+    "playwright_url": "https://sceneweb.no/nb/artist/17255/Bj%C3%B8rg_Vik"
+  },
   "https://sceneweb.no/nb/artwork/23172/": {
-    "original_title": "Записки сумасшедшего"
+    "original_title": "Записки сумасшедшего",
+    "playwright": "Nikolaj Gogol",
+    "playwright_url": "https://sceneweb.no/nb/artist/21027/Nikolaj_Gogol"
   },
-  "https://sceneweb.no/nb/artwork/100006/": {},
+  "https://sceneweb.no/nb/artwork/100006/": {
+    "playwright": "Helge Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17143/Helge_Hagerup"
+  },
   "https://sceneweb.no/nb/artwork/76196/": {
-    "original_title": "Come back, little Sheba"
+    "original_title": "Come back, little Sheba",
+    "playwright": "William Inge",
+    "playwright_url": "https://sceneweb.no/nb/artist/42696/William_Inge"
   },
   "https://sceneweb.no/nb/artwork/22671/": {
-    "original_title": "Leka med elden"
+    "original_title": "Leka med elden",
+    "playwright": "August Strindberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4344/August_Strindberg"
   },
   "https://sceneweb.no/nb/artwork/22641/": {
-    "original_title": "Meine Schwester und ich"
+    "original_title": "Meine Schwester und ich",
+    "playwright": "Georges Berr",
+    "playwright_url": "https://sceneweb.no/nb/artist/21003/Georges_Berr"
   },
   "https://sceneweb.no/nb/artwork/65406/": {
-    "original_title": "The Hostage"
+    "original_title": "The Hostage",
+    "playwright": "Brendan Behan",
+    "playwright_url": "https://sceneweb.no/nb/artist/65407/Brendan_Behan"
   },
   "https://sceneweb.no/nb/artwork/100017/": {
-    "original_title": "Fairy Tales of New York"
+    "original_title": "Fairy Tales of New York",
+    "playwright": "James Patrick Donleavy",
+    "playwright_url": "https://sceneweb.no/nb/artist/100016/James_Patrick%20Donleavy"
   },
   "https://sceneweb.no/nb/artwork/99994/": {
-    "original_title": "Le Malentendu"
+    "original_title": "Le Malentendu",
+    "playwright": "Albert Camus",
+    "playwright_url": "https://sceneweb.no/nb/artist/20263/Albert_Camus"
   },
-  "https://sceneweb.no/nb/artwork/42832/": {},
-  "https://sceneweb.no/nb/artwork/100010/": {},
+  "https://sceneweb.no/nb/artwork/42832/": {
+    "playwright": "Anton Tsjekhov",
+    "playwright_url": "https://sceneweb.no/nb/artist/4215/Anton_Tsjekhov"
+  },
+  "https://sceneweb.no/nb/artwork/100010/": {
+    "playwright": "Helge Hagerup",
+    "playwright_url": "https://sceneweb.no/nb/artist/17143/Helge_Hagerup"
+  },
   "https://sceneweb.no/nb/artwork/89828/": {
-    "original_title": "The American Dream"
+    "original_title": "The American Dream",
+    "playwright": "Edward Albee",
+    "playwright_url": "https://sceneweb.no/nb/artist/4381/Edward_Albee"
   },
   "https://sceneweb.no/nb/artwork/100013/": {
-    "original_title": "The Trigon"
+    "original_title": "The Trigon",
+    "playwright": "James Broom Lynne",
+    "playwright_url": "https://sceneweb.no/nb/artist/100012/James_Broom%20Lynne"
   },
   "https://sceneweb.no/nb/artwork/16670/": {
-    "original_title": "Nederlaget"
+    "original_title": "Nederlaget",
+    "playwright": "Nordahl Grieg",
+    "playwright_url": "https://sceneweb.no/nb/artist/6870/Nordahl_Grieg"
   },
   "https://sceneweb.no/nb/artwork/57193/": {
-    "original_title": "Falne engler"
+    "original_title": "Falne engler",
+    "playwright": "Gunnar Staalesen",
+    "playwright_url": "https://sceneweb.no/nb/artist/30701/Gunnar_Staalesen"
+  },
+  "https://sceneweb.no/nb/artwork/4345/": {
+    "original_title": "Erasmus Montanus eller Rasmus Berg"
+  },
+  "https://sceneweb.no/nb/artwork/25323/": {
+    "original_title": "Antigone"
+  },
+  "https://sceneweb.no/nb/artwork/11791/": {
+    "original_title": "Medeia"
+  },
+  "https://sceneweb.no/nb/artwork/145057/": {
+    "original_title": "A Doll"
+  },
+  "https://sceneweb.no/nb/artwork/99996/": {
+    "playwright": "Sverre Udnæs",
+    "playwright_url": "https://sceneweb.no/nb/artist/17278/Sverre_Udn%C3%A6s"
+  },
+  "https://sceneweb.no/nb/artwork/57547/": {
+    "original_title": "The Typists og The Tiger",
+    "playwright": "Murray Schisgal",
+    "playwright_url": "https://sceneweb.no/nb/artist/50022/Murray_Schisgal"
+  },
+  "https://sceneweb.no/nb/artwork/41205/": {
+    "playwright": "Tarjei Vesaas",
+    "playwright_url": "https://sceneweb.no/nb/artist/4365/Tarjei_Vesaas"
+  },
+  "https://sceneweb.no/nb/artwork/4434/": {
+    "original_title": "Volpone or the Fox",
+    "playwright": "Ben Jonson",
+    "playwright_url": "https://sceneweb.no/nb/artist/4435/Ben_Jonson"
+  },
+  "https://sceneweb.no/nb/artwork/99983/": {
+    "original_title": "Les Bâtisseurs d",
+    "playwright": "Boris Vian",
+    "playwright_url": "https://sceneweb.no/nb/artist/99982/Boris_Vian"
+  },
+  "https://sceneweb.no/nb/artwork/99987/": {
+    "playwright": "Torborg Nedreaas",
+    "playwright_url": "https://sceneweb.no/nb/artist/38018/Torborg_Nedreaas"
+  },
+  "https://sceneweb.no/nb/artwork/99990/": {
+    "original_title": "In White America",
+    "playwright": "Martin B. Duberman",
+    "playwright_url": "https://sceneweb.no/nb/artist/99989/Martin_B.%20Duberman"
+  },
+  "https://sceneweb.no/nb/artwork/35796/": {
+    "original_title": "Юбилей",
+    "playwright": "Anton Tsjekhov",
+    "playwright_url": "https://sceneweb.no/nb/artist/4215/Anton_Tsjekhov"
+  },
+  "https://sceneweb.no/nb/artwork/153339/": {
+    "original_title": "Favola"
+  },
+  "https://sceneweb.no/nb/artwork/41536/": {
+    "original_title": "Han sidder ved smeltedigelen",
+    "playwright": "Kaj Munk",
+    "playwright_url": "https://sceneweb.no/nb/artist/28810/Kaj_Munk"
+  },
+  "https://sceneweb.no/nb/artwork/43304/": {
+    "original_title": "Paria",
+    "playwright": "August Strindberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4344/August_Strindberg"
+  },
+  "https://sceneweb.no/nb/artwork/15867/": {
+    "original_title": "Den Forvandlede Brudgom",
+    "playwright": "Ludvig Holberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4343/Ludvig_Holberg"
+  },
+  "https://sceneweb.no/nb/artwork/99960/": {
+    "original_title": "Red Roses for Me",
+    "playwright": "Sean O'Casey",
+    "playwright_url": "https://sceneweb.no/nb/artist/41069/Sean_O'Casey"
+  },
+  "https://sceneweb.no/nb/artwork/69480/": {
+    "original_title": "Det angår ikke oss!",
+    "playwright": "Rønnaug Alten",
+    "playwright_url": "https://sceneweb.no/nb/artist/11364/R%C3%B8nnaug_Alten"
+  },
+  "https://sceneweb.no/nb/artwork/99979/": {
+    "playwright": "Johan Borgen",
+    "playwright_url": "https://sceneweb.no/nb/artist/15704/Johan_Borgen"
+  },
+  "https://sceneweb.no/nb/artwork/58090/": {
+    "original_title": "Hay Fever",
+    "playwright": "Noël Coward",
+    "playwright_url": "https://sceneweb.no/nb/artist/19966/No%C3%ABl_Coward"
+  },
+  "https://sceneweb.no/nb/artwork/3245/": {
+    "original_title": "En attendant Godot"
+  },
+  "https://sceneweb.no/nb/artwork/99971/": {
+    "playwright": "Gunnar Bull Gundersen",
+    "playwright_url": "https://sceneweb.no/nb/artist/38893/Gunnar_Bull%20Gundersen"
+  },
+  "https://sceneweb.no/nb/artwork/22960/": {
+    "playwright": "Alexander L. Kielland",
+    "playwright_url": "https://sceneweb.no/nb/artist/16700/Alexander_L.%20Kielland"
+  },
+  "https://sceneweb.no/nb/artwork/100019/": {
+    "playwright": "Alexander L. Kielland",
+    "playwright_url": "https://sceneweb.no/nb/artist/16700/Alexander_L.%20Kielland"
+  },
+  "https://sceneweb.no/nb/artwork/99977/": {
+    "original_title": "Gedenktag",
+    "playwright": "Hans-Joachim Haecker",
+    "playwright_url": "https://sceneweb.no/nb/artist/60630/Hans-Joachim_Haecker"
+  },
+  "https://sceneweb.no/nb/artwork/99939/": {
+    "playwright": "Torborg Nedreaas",
+    "playwright_url": "https://sceneweb.no/nb/artist/38018/Torborg_Nedreaas"
+  },
+  "https://sceneweb.no/nb/artwork/56809/": {
+    "original_title": "Bandet",
+    "playwright": "August Strindberg",
+    "playwright_url": "https://sceneweb.no/nb/artist/4344/August_Strindberg"
+  },
+  "https://sceneweb.no/nb/artwork/29329/": {
+    "original_title": "Woyzeck",
+    "playwright": "Georg Büchner",
+    "playwright_url": "https://sceneweb.no/nb/artist/29330/Georg_B%C3%BCchner"
+  },
+  "https://sceneweb.no/nb/artwork/57236/": {
+    "original_title": "Vestire gli ignudi",
+    "playwright": "Luigi Pirandello",
+    "playwright_url": "https://sceneweb.no/nb/artist/4412/Luigi_Pirandello"
+  },
+  "https://sceneweb.no/nb/artwork/4589/": {
+    "original_title": "The Lover",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
+  },
+  "https://sceneweb.no/nb/artwork/56917/": {
+    "original_title": "Dear Liar",
+    "playwright": "Jerome Kilty",
+    "playwright_url": "https://sceneweb.no/nb/artist/40105/Jerome_Kilty"
+  },
+  "https://sceneweb.no/nb/artwork/56638/": {},
+  "https://sceneweb.no/nb/artwork/6981/": {
+    "original_title": "Die Ausnahme und die Regel",
+    "playwright": "Bertolt Brecht",
+    "playwright_url": "https://sceneweb.no/nb/artist/20786/Bertolt_Brecht"
+  },
+  "https://sceneweb.no/nb/artwork/43839/": {
+    "original_title": "The Knack and How to Get It",
+    "playwright": "Ann Jellicoe",
+    "playwright_url": "https://sceneweb.no/nb/artist/43674/Ann_Jellicoe"
+  },
+  "https://sceneweb.no/nb/artwork/4110/": {
+    "original_title": "The Tempest",
+    "playwright": "William Shakespeare",
+    "playwright_url": "https://sceneweb.no/nb/artist/3233/William_Shakespeare"
+  },
+  "https://sceneweb.no/nb/artwork/42799/": {
+    "original_title": "Tartuffe, ou l"
+  },
+  "https://sceneweb.no/nb/artwork/99937/": {
+    "original_title": "A Memory of Two Mondays",
+    "playwright": "Arthur Miller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4380/Arthur_Miller"
+  },
+  "https://sceneweb.no/nb/artwork/99948/": {
+    "original_title": "The Caine Mutiny Court-Martial",
+    "playwright": "Herman Wouk",
+    "playwright_url": "https://sceneweb.no/nb/artist/99947/Herman_Wouk"
+  },
+  "https://sceneweb.no/nb/artwork/28631/": {
+    "original_title": "Les Bonnes",
+    "playwright": "Jean Genet",
+    "playwright_url": "https://sceneweb.no/nb/artist/20389/Jean_Genet"
+  },
+  "https://sceneweb.no/nb/artwork/16668/": {
+    "original_title": "Opbrudd",
+    "playwright": "Helge Krog",
+    "playwright_url": "https://sceneweb.no/nb/artist/15765/Helge_Krog"
+  },
+  "https://sceneweb.no/nb/artwork/99945/": {
+    "playwright": "Finn Carling",
+    "playwright_url": "https://sceneweb.no/nb/artist/17209/Finn_Carling"
+  },
+  "https://sceneweb.no/nb/artwork/35507/": {
+    "original_title": "О вреде табака",
+    "playwright": "Anton Tsjekhov",
+    "playwright_url": "https://sceneweb.no/nb/artist/4215/Anton_Tsjekhov"
+  },
+  "https://sceneweb.no/nb/artwork/99919/": {
+    "original_title": "The Collection",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
+  },
+  "https://sceneweb.no/nb/artwork/99921/": {
+    "playwright": "Willis Hall",
+    "playwright_url": "https://sceneweb.no/nb/artist/76630/Willis_Hall"
+  },
+  "https://sceneweb.no/nb/artwork/25011/": {
+    "original_title": "Krapp",
+    "playwright": "Samuel Beckett",
+    "playwright_url": "https://sceneweb.no/nb/artist/4216/Samuel_Beckett"
+  },
+  "https://sceneweb.no/nb/artwork/99923/": {
+    "playwright": "Arthur Schnitzler",
+    "playwright_url": "https://sceneweb.no/nb/artist/23963/Arthur_Schnitzler"
+  },
+  "https://sceneweb.no/nb/artwork/58069/": {
+    "original_title": "Dreht euch nicht um",
+    "playwright": "Hans-Joachim Haecker",
+    "playwright_url": "https://sceneweb.no/nb/artist/60630/Hans-Joachim_Haecker"
+  },
+  "https://sceneweb.no/nb/artwork/4388/": {
+    "original_title": "Дядя Ваня / Djadja Vanja"
+  },
+  "https://sceneweb.no/nb/artwork/57047/": {
+    "original_title": "Die große Wut des Philipp Hotz",
+    "playwright": "Max Frisch",
+    "playwright_url": "https://sceneweb.no/nb/artist/20752/Max_Frisch"
+  },
+  "https://sceneweb.no/nb/artwork/6366/": {
+    "original_title": "The Dumb Waiter",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
+  },
+  "https://sceneweb.no/nb/artwork/40762/": {
+    "original_title": "Les mains sales",
+    "playwright": "Jean-Paul Sartre",
+    "playwright_url": "https://sceneweb.no/nb/artist/4351/Jean-Paul_Sartre"
+  },
+  "https://sceneweb.no/nb/artwork/99925/": {
+    "original_title": "The Quare Fellow",
+    "playwright": "Brendan Behan",
+    "playwright_url": "https://sceneweb.no/nb/artist/65407/Brendan_Behan"
+  },
+  "https://sceneweb.no/nb/artwork/99930/": {
+    "playwright": "Kateb Yacine",
+    "playwright_url": "https://sceneweb.no/nb/artist/99929/Kateb_Yacine"
+  },
+  "https://sceneweb.no/nb/artwork/4369/": {
+    "original_title": "Kranes konditori",
+    "playwright": "Cora Sandel",
+    "playwright_url": "https://sceneweb.no/nb/artist/4370/Cora_Sandel"
+  },
+  "https://sceneweb.no/nb/artwork/40476/": {
+    "original_title": "La voix humaine",
+    "playwright": "Jean Cocteau",
+    "playwright_url": "https://sceneweb.no/nb/artist/19515/Jean_Cocteau"
+  },
+  "https://sceneweb.no/nb/artwork/86138/": {
+    "original_title": "Winterset",
+    "playwright": "Maxwell Anderson",
+    "playwright_url": "https://sceneweb.no/nb/artist/19213/Maxwell_Anderson"
+  },
+  "https://sceneweb.no/nb/artwork/56898/": {
+    "original_title": "De Gamles Julaften",
+    "playwright": "Vilhelm Krag",
+    "playwright_url": "https://sceneweb.no/nb/artist/15741/Vilhelm_Krag"
+  },
+  "https://sceneweb.no/nb/artwork/99917/": {
+    "original_title": "Heart to Heart",
+    "playwright": "Terence Rattigan",
+    "playwright_url": "https://sceneweb.no/nb/artist/20266/Terence_Rattigan"
+  },
+  "https://sceneweb.no/nb/artwork/28998/": {
+    "original_title": "Karl und Anna",
+    "playwright": "Leonhard Frank",
+    "playwright_url": "https://sceneweb.no/nb/artist/28999/Leonhard_Frank"
+  },
+  "https://sceneweb.no/nb/artwork/22878/": {
+    "original_title": "Les Chaises",
+    "playwright": "Eugène Ionesco",
+    "playwright_url": "https://sceneweb.no/nb/artist/20992/Eug%C3%A8ne_Ionesco"
+  },
+  "https://sceneweb.no/nb/artwork/99913/": {
+    "playwright": "Birgit Linton-Malmfors",
+    "playwright_url": "https://sceneweb.no/nb/artist/99912/Birgit_Linton-Malmfors"
+  },
+  "https://sceneweb.no/nb/artwork/99910/": {
+    "original_title": "Große Schmährede an der Stadtmauer",
+    "playwright": "Tankred Dorst",
+    "playwright_url": "https://sceneweb.no/nb/artist/40366/Tankred_Dorst"
+  },
+  "https://sceneweb.no/nb/artwork/99908/": {
+    "original_title": "The Death of Bessie Smith",
+    "playwright": "Edward Albee",
+    "playwright_url": "https://sceneweb.no/nb/artist/4381/Edward_Albee"
+  },
+  "https://sceneweb.no/nb/artwork/99906/": {
+    "original_title": "Der Unschuldige",
+    "playwright": "Fritz Hochwälder",
+    "playwright_url": "https://sceneweb.no/nb/artist/50413/Fritz_Hochw%C3%A4lder"
+  },
+  "https://sceneweb.no/nb/artwork/99904/": {
+    "original_title": "Queens of France",
+    "playwright": "Thornton Wilder",
+    "playwright_url": "https://sceneweb.no/nb/artist/30807/Thornton_Wilder"
+  },
+  "https://sceneweb.no/nb/artwork/85443/": {
+    "original_title": "The Happy Journey to Trenton and Camden",
+    "playwright": "Thornton Wilder",
+    "playwright_url": "https://sceneweb.no/nb/artist/30807/Thornton_Wilder"
+  },
+  "https://sceneweb.no/nb/artwork/99902/": {
+    "playwright": "Svend Ringdom",
+    "playwright_url": "https://sceneweb.no/nb/artist/95022/Svend_Ringdom"
+  },
+  "https://sceneweb.no/nb/artwork/54625/": {
+    "original_title": "La Dispute",
+    "playwright": "Pierre Charlet de Chamblain de Marivaux",
+    "playwright_url": "https://sceneweb.no/nb/artist/17729/Pierre_Charlet%20de%20Chamblain%20de%20Marivaux"
+  },
+  "https://sceneweb.no/nb/artwork/77841/": {
+    "playwright": "Sigbjørn Hølmebakk",
+    "playwright_url": "https://sceneweb.no/nb/artist/53546/Sigbj%C3%B8rn_H%C3%B8lmebakk"
+  },
+  "https://sceneweb.no/nb/artwork/99899/": {
+    "original_title": "Bedtime Story",
+    "playwright": "Sean O'Casey",
+    "playwright_url": "https://sceneweb.no/nb/artist/41069/Sean_O'Casey"
+  },
+  "https://sceneweb.no/nb/artwork/99896/": {
+    "original_title": "Catch a falling star",
+    "playwright": "Sidney Carroll",
+    "playwright_url": "https://sceneweb.no/nb/artist/99895/Sidney_Carroll"
+  },
+  "https://sceneweb.no/nb/artwork/43865/": {
+    "playwright": "Franz Kafka",
+    "playwright_url": "https://sceneweb.no/nb/artist/4417/Franz_Kafka"
+  },
+  "https://sceneweb.no/nb/artwork/23337/": {
+    "original_title": "Biedermann und die Brandstifter",
+    "playwright": "Max Frisch",
+    "playwright_url": "https://sceneweb.no/nb/artist/20752/Max_Frisch"
+  },
+  "https://sceneweb.no/nb/artwork/50896/": {},
+  "https://sceneweb.no/nb/artwork/21607/": {
+    "original_title": "Death of a Salesman",
+    "playwright": "Arthur Miller",
+    "playwright_url": "https://sceneweb.no/nb/artist/4380/Arthur_Miller"
+  },
+  "https://sceneweb.no/nb/artwork/11698/": {
+    "original_title": "Pique-nique en Campagne",
+    "playwright": "Fernando Arrabal",
+    "playwright_url": "https://sceneweb.no/nb/artist/40828/Fernando_Arrabal"
+  },
+  "https://sceneweb.no/nb/artwork/99871/": {},
+  "https://sceneweb.no/nb/artwork/57264/": {
+    "original_title": "Die Gewehre der Frau Carrar",
+    "playwright": "Bertolt Brecht",
+    "playwright_url": "https://sceneweb.no/nb/artist/20786/Bertolt_Brecht"
+  },
+  "https://sceneweb.no/nb/artwork/50796/": {
+    "original_title": "Вечный муж",
+    "playwright": "Fjodor Mikhajlovitsj Dostojevskij",
+    "playwright_url": "https://sceneweb.no/nb/artist/4309/Fjodor_Mikhajlovitsj%20Dostojevskij"
+  },
+  "https://sceneweb.no/nb/artwork/67407/": {
+    "playwright": "Hans Christian Branner",
+    "playwright_url": "https://sceneweb.no/nb/artist/20320/Hans_Christian%20Branner"
+  },
+  "https://sceneweb.no/nb/artwork/15785/": {
+    "playwright": "Johan Borgen",
+    "playwright_url": "https://sceneweb.no/nb/artist/15704/Johan_Borgen"
+  },
+  "https://sceneweb.no/nb/artwork/16518/": {
+    "original_title": "Den store barnedåpen",
+    "playwright": "Oskar Braaten",
+    "playwright_url": "https://sceneweb.no/nb/artist/16332/Oskar_Braaten"
+  },
+  "https://sceneweb.no/nb/artwork/77370/": {
+    "original_title": "La putain respectueuse",
+    "playwright": "Jean-Paul Sartre",
+    "playwright_url": "https://sceneweb.no/nb/artist/4351/Jean-Paul_Sartre"
+  },
+  "https://sceneweb.no/nb/artwork/99863/": {
+    "original_title": "The Browning Version",
+    "playwright": "Terence Rattigan",
+    "playwright_url": "https://sceneweb.no/nb/artist/20266/Terence_Rattigan"
+  },
+  "https://sceneweb.no/nb/artwork/16596/": {
+    "playwright": "Nils Collett Vogt",
+    "playwright_url": "https://sceneweb.no/nb/artist/16269/Nils_Collett%20Vogt"
+  },
+  "https://sceneweb.no/nb/artwork/99866/": {
+    "original_title": "The Oyster and the Pearl",
+    "playwright": "William Saroyan",
+    "playwright_url": "https://sceneweb.no/nb/artist/41914/William_Saroyan"
+  },
+  "https://sceneweb.no/nb/artwork/107567/": {
+    "playwright": "Eva Koefoed Sevaldson",
+    "playwright_url": "https://sceneweb.no/nb/artist/21157/Eva_Koefoed%20Sevaldson"
+  },
+  "https://sceneweb.no/nb/artwork/99860/": {
+    "original_title": "A Night Out",
+    "playwright": "Harold Pinter",
+    "playwright_url": "https://sceneweb.no/nb/artist/4221/Harold_Pinter"
+  },
+  "https://sceneweb.no/nb/artwork/21914/": {
+    "original_title": "Frisøndag",
+    "playwright": "Leck Fischer",
+    "playwright_url": "https://sceneweb.no/nb/artist/19897/Leck_Fischer"
+  },
+  "https://sceneweb.no/nb/artwork/3617/": {
+    "original_title": "Fru Inger til Østeraad",
+    "playwright": "Henrik Ibsen",
+    "playwright_url": "https://sceneweb.no/nb/artist/3317/Henrik_Ibsen"
+  },
+  "https://sceneweb.no/nb/artwork/39746/": {
+    "original_title": "Hughie",
+    "playwright": "Eugene O'Neill",
+    "playwright_url": "https://sceneweb.no/nb/artist/4378/Eugene_O'Neill"
+  },
+  "https://sceneweb.no/nb/artwork/22999/": {
+    "original_title": "Korczak und die Kinder",
+    "playwright": "Erwin Sylvanus",
+    "playwright_url": "https://sceneweb.no/nb/artist/20291/Erwin_Sylvanus"
+  },
+  "https://sceneweb.no/nb/artwork/22367/": {
+    "original_title": "Les fourberies de Scapin",
+    "playwright": "Jean-Baptiste Molière",
+    "playwright_url": "https://sceneweb.no/nb/artist/20995/Jean-Baptiste_Moli%C3%A8re"
+  },
+  "https://sceneweb.no/nb/artwork/22054/": {
+    "original_title": "An Inspector Calls",
+    "playwright": "John Boynton Priestley",
+    "playwright_url": "https://sceneweb.no/nb/artist/20369/John_Boynton%20Priestley"
+  },
+  "https://sceneweb.no/nb/artwork/22687/": {
+    "original_title": "L",
+    "playwright": "Jean Giraudoux",
+    "playwright_url": "https://sceneweb.no/nb/artist/19852/Jean_Giraudoux"
+  },
+  "https://sceneweb.no/nb/artwork/41136/": {
+    "playwright": "Oskar Braaten",
+    "playwright_url": "https://sceneweb.no/nb/artist/16332/Oskar_Braaten"
+  },
+  "https://sceneweb.no/nb/artwork/35625/": {
+    "original_title": "Den fjerde nattevakt",
+    "playwright": "Johan Falkberget",
+    "playwright_url": "https://sceneweb.no/nb/artist/17134/Johan_Falkberget"
   }
 }

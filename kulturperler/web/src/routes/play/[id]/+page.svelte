@@ -36,7 +36,7 @@
 				// Load media for each performance
 				performances = perfs.map(perf => ({
 					...perf,
-					media: getPerformanceMedia(perf.id).filter(m => m.media_type !== 'intro')
+					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
 				}));
 
 				// Load external links

@@ -2,6 +2,7 @@
 	"/": [],
 	"/episode/[id]": [],
 	"/performance/[id]": [],
+	"/persons": [],
 	"/person/[id]": [],
 	"/play/[id]": []
 }

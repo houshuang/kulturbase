@@ -195,16 +195,20 @@
 				<div class="about-programs-grid">
 					{#each nrkAboutPrograms as program}
 						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
-							{#if program.image_url}
-								<div class="about-image">
+							<div class="about-image">
+								{#if program.image_url}
 									<img src={program.image_url} alt={program.title} loading="lazy" />
-								</div>
-							{/if}
+								{:else}
+									<div class="about-placeholder">
+										<span>📺</span>
+									</div>
+								{/if}
+							</div>
 							<div class="about-info">
 								<h3>{program.title}</h3>
 								<div class="about-meta">
-									{#if program.year}
-										<span class="about-year">{program.year}</span>
+									{#if program.program_type === 'serie'}
+										<span class="about-type">Serie{#if program.episode_count} · {program.episode_count} ep{/if}</span>
 									{/if}
 									{#if program.duration_seconds}
 										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
@@ -462,6 +466,23 @@
 		object-fit: cover;
 	}
 
+	.about-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+		font-size: 1.5rem;
+	}
+
+	.about-type {
+		background: #e0e0e0;
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.75rem;
+	}
+
 	.about-info {
 		flex: 1;
 		min-width: 0;
@@ -482,12 +503,6 @@
 		margin-bottom: 0.25rem;
 	}
 
-	.about-year {
-		background: #e94560;
-		color: white;
-		padding: 0.1rem 0.4rem;
-		border-radius: 3px;
-	}
 
 	.external-arrow {
 		color: #999;

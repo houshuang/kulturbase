@@ -23,7 +23,7 @@
 <div class="app">
 	<header>
 		<nav>
-			<a href="/" class="logo">Kulturperler</a>
+			<a href="/" class="logo">Kulturbase.no</a>
 		</nav>
 	</header>
 

@@ -1,0 +1,47 @@
+{
+  "harvested_at": "2025-12-19T16:21:04.178755",
+  "total_videos": 3,
+  "min_duration_seconds": 900,
+  "channels": {
+    "halogaland_teater": {
+      "name": "Hålogaland Teater",
+      "url": "https://www.youtube.com/@hteater",
+      "video_count": 0
+    },
+    "den_norske_opera": {
+      "name": "Den Norske Opera & Ballett",
+      "url": "https://www.youtube.com/@operaen",
+      "video_count": 0
+    },
+    "nationaltheatret": {
+      "name": "Nationaltheatret",
+      "url": "https://www.youtube.com/@nationaltheatret",
+      "video_count": 0
+    },
+    "dns_bergen": {
+      "name": "Den Nationale Scene",
+      "url": "https://www.youtube.com/@dennationalescene",
+      "video_count": 0
+    },
+    "oslo_nye": {
+      "name": "Oslo Nye Teater",
+      "url": "https://www.youtube.com/@oslonye",
+      "video_count": 0
+    },
+    "rogaland_teater": {
+      "name": "Rogaland Teater",
+      "url": "https://www.youtube.com/@rogalandteater",
+      "video_count": 3
+    },
+    "trondelag_teater": {
+      "name": "Trøndelag Teater",
+      "url": "https://www.youtube.com/@trondelagteater",
+      "video_count": 0
+    },
+    "kilden": {
+      "name": "Kilden Teater og Konserthus",
+      "url": "https://www.youtube.com/@kildenteaterogkonserthus",
+      "video_count": 0
+    }
+  }
+}

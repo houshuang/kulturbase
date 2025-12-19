@@ -55,6 +55,7 @@ CREATE TABLE IF NOT EXISTS episodes (
     nrk_url TEXT,
     play_id INTEGER,
     source TEXT DEFAULT 'nrk',
+    medium TEXT DEFAULT 'tv',  -- 'tv' or 'radio'
     FOREIGN KEY (play_id) REFERENCES plays(id)
 );
 
@@ -144,6 +145,11 @@ CREATE TABLE IF NOT EXISTS external_performances (
     year INTEGER,
     language TEXT,
     description TEXT,
+    duration_seconds INTEGER,
+    venue TEXT,
+    content_type TEXT,  -- full_performance, reading, documentary, discussion
+    source_id TEXT,     -- original ID from source (e.g., archive.org identifier)
+    thumbnail_url TEXT,
     added_date TEXT,
     verified_date TEXT,
     is_working INTEGER DEFAULT 1,
@@ -181,6 +187,7 @@ CREATE TABLE IF NOT EXISTS metadata (
 CREATE INDEX IF NOT EXISTS idx_plays_playwright ON plays(playwright_id);
 CREATE INDEX IF NOT EXISTS idx_episodes_year ON episodes(year);
 CREATE INDEX IF NOT EXISTS idx_episodes_play ON episodes(play_id);
+CREATE INDEX IF NOT EXISTS idx_episodes_medium ON episodes(medium);
 CREATE INDEX IF NOT EXISTS idx_episode_persons_role ON episode_persons(role);
 CREATE INDEX IF NOT EXISTS idx_episode_persons_episode ON episode_persons(episode_id);
 CREATE INDEX IF NOT EXISTS idx_episode_persons_person ON episode_persons(person_id);
@@ -256,68 +263,127 @@ def map_role(api_role: str) -> str:
     return "other"
 
 
+def detect_medium(series_name: str, episode_data: dict) -> str:
+    """Detect medium (tv/radio) from series name or episode data."""
+    # Check if explicitly set in episode data
+    if episode_data.get("medium"):
+        return episode_data.get("medium")
+
+    # Check series name for radio indicators
+    radio_series = ["radioteatret", "radioteater"]
+    if series_name.lower() in radio_series:
+        return "radio"
+
+    # Check NRK URL pattern
+    nrk_url = episode_data.get("nrk_url", "")
+    if "radio.nrk.no" in nrk_url:
+        return "radio"
+
+    return "tv"
+
+
+def import_episode(cursor, conn, ep: dict, default_medium: str = "tv"):
+    """Import a single episode."""
+    prf_id = ep.get("prf_id")
+    if not prf_id:
+        return False
+
+    # Get medium from episode data or use default
+    medium = ep.get("medium", default_medium)
+
+    # Insert episode
+    cursor.execute("""
+        INSERT OR REPLACE INTO episodes
+        (prf_id, title, description, year, duration_seconds, image_url, nrk_url, source, medium)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+    """, (
+        prf_id,
+        ep.get("title", ""),
+        ep.get("description", ""),
+        ep.get("year"),
+        ep.get("duration_seconds"),
+        ep.get("image_url", ""),
+        ep.get("nrk_url", ""),
+        "nrk",
+        medium,
+    ))
+
+    # Import contributors
+    for contrib in ep.get("contributors", []):
+        name = contrib.get("name")
+        role = contrib.get("role", "")
+        if not name:
+            continue
+
+        person_id = get_or_create_person(conn, name)
+        mapped_role = map_role(role)
+
+        cursor.execute("""
+            INSERT OR IGNORE INTO episode_persons
+            (episode_id, person_id, role)
+            VALUES (?, ?, ?)
+        """, (prf_id, person_id, mapped_role))
+
+    return True
+
+
 def import_episodes(conn: sqlite3.Connection, data_dir: Path):
     """Import episodes from harvested data."""
     cursor = conn.cursor()
+    total_imported = 0
 
-    # Find all series directories
     raw_dir = data_dir / "raw"
     if not raw_dir.exists():
         print(f"Warning: {raw_dir} does not exist")
         return
 
+    # Import TV episodes from series directories (fjernsynsteatret, etc.)
     for series_dir in raw_dir.iterdir():
         if not series_dir.is_dir():
+            continue
+
+        # Skip the hoerespill directory - we handle it separately
+        if series_dir.name == "hoerespill":
             continue
 
         episodes_file = series_dir / "episodes.json"
         if not episodes_file.exists():
             continue
 
-        print(f"Importing episodes from {series_dir.name}...")
+        series_name = series_dir.name
+        print(f"Importing TV episodes from {series_name}...")
 
         with open(episodes_file, "r", encoding="utf-8") as f:
             episodes = json.load(f)
 
+        count = 0
         for ep in episodes:
-            prf_id = ep.get("prf_id")
-            if not prf_id:
-                continue
+            # Detect medium from series name or episode data
+            medium = detect_medium(series_name, ep)
+            if import_episode(cursor, conn, ep, medium):
+                count += 1
 
-            # Insert episode
-            cursor.execute("""
-                INSERT OR REPLACE INTO episodes
-                (prf_id, title, description, year, duration_seconds, image_url, nrk_url, source)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            """, (
-                prf_id,
-                ep.get("title", ""),
-                ep.get("description", ""),
-                ep.get("year"),
-                ep.get("duration_seconds"),
-                ep.get("image_url", ""),
-                ep.get("nrk_url", ""),
-                "nrk",
-            ))
+        print(f"  -> {count} episodes")
+        total_imported += count
 
-            # Import contributors
-            for contrib in ep.get("contributors", []):
-                name = contrib.get("name")
-                role = contrib.get("role", "")
-                if not name:
-                    continue
+    # Import radio episodes from hoerespill directory
+    hoerespill_file = raw_dir / "hoerespill" / "all_episodes.json"
+    if hoerespill_file.exists():
+        print(f"Importing radio episodes from hoerespill...")
 
-                person_id = get_or_create_person(conn, name)
-                mapped_role = map_role(role)
+        with open(hoerespill_file, "r", encoding="utf-8") as f:
+            episodes = json.load(f)
 
-                cursor.execute("""
-                    INSERT OR IGNORE INTO episode_persons
-                    (episode_id, person_id, role)
-                    VALUES (?, ?, ?)
-                """, (prf_id, person_id, mapped_role))
+        count = 0
+        for ep in episodes:
+            if import_episode(cursor, conn, ep, "radio"):
+                count += 1
+
+        print(f"  -> {count} radio episodes")
+        total_imported += count
 
     conn.commit()
-    print(f"Imported episodes")
+    print(f"Total imported: {total_imported} episodes")
 
 
 def add_default_tags(conn: sqlite3.Connection):

@@ -510,6 +510,13 @@ export function searchPerformances(filters: SearchFilters, limit = 50, offset = 
 		params.push(filters.actorId);
 	}
 
+	// Medium filter (tv/radio)
+	if (filters.mediums && filters.mediums.length > 0 && filters.mediums.length < 2) {
+		const placeholders = filters.mediums.map(() => '?').join(',');
+		conditions.push(`perf.medium IN (${placeholders})`);
+		params.push(...filters.mediums);
+	}
+
 	if (conditions.length > 0) {
 		sql += ` WHERE ${conditions.join(' AND ')}`;
 	}
@@ -551,6 +558,13 @@ export function getPerformanceCount(filters?: SearchFilters): number {
 	if (filters?.yearTo) {
 		conditions.push(`perf.year <= ?`);
 		params.push(filters.yearTo);
+	}
+
+	// Medium filter (tv/radio)
+	if (filters?.mediums && filters.mediums.length > 0 && filters.mediums.length < 2) {
+		const placeholders = filters.mediums.map(() => '?').join(',');
+		conditions.push(`perf.medium IN (${placeholders})`);
+		params.push(...filters.mediums);
 	}
 
 	if (conditions.length > 0) {
@@ -601,7 +615,7 @@ export function getPerformanceMedia(performanceId: number): Episode[] {
 		SELECT *
 		FROM episodes
 		WHERE performance_id = ?
-		ORDER BY part_number ASC NULLS LAST, title ASC
+		ORDER BY prf_id ASC
 	`);
 	stmt.bind([performanceId]);
 
@@ -625,7 +639,7 @@ export function getOtherPerformances(workId: number, excludePerformanceId: numbe
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
 			)) as director_name,
 			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
-			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id AND e.is_introduction = 0 LIMIT 1) as image_url
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf
 		WHERE perf.work_id = ? AND perf.id != ?
 		ORDER BY perf.year DESC
@@ -652,7 +666,7 @@ export function getWorkPerformances(workId: number): PerformanceWithDetails[] {
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
 			)) as director_name,
 			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
-			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id AND e.is_introduction = 0 LIMIT 1) as image_url
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf
 		WHERE perf.work_id = ?
 		ORDER BY perf.year DESC
@@ -666,6 +680,53 @@ export function getWorkPerformances(workId: number): PerformanceWithDetails[] {
 	stmt.free();
 
 	return results;
+}
+
+export function getWorkPerformancesByMedium(workId: number, medium: 'tv' | 'radio'): PerformanceWithDetails[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			perf.*,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
+			)) as director_name,
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		WHERE perf.work_id = ? AND perf.medium = ?
+		ORDER BY perf.year DESC
+	`);
+	stmt.bind([workId, medium]);
+
+	const results: PerformanceWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as PerformanceWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getMediumCounts(): { tv: number; radio: number } {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT medium, COUNT(*) as count
+		FROM performances
+		GROUP BY medium
+	`);
+
+	const result = { tv: 0, radio: 0 };
+	while (stmt.step()) {
+		const row = stmt.getAsObject() as { medium: string; count: number };
+		if (row.medium === 'tv') result.tv = row.count;
+		else if (row.medium === 'radio') result.radio = row.count;
+	}
+	stmt.free();
+
+	return result;
 }
 
 export function getNrkAboutPrograms(personId: number): NrkAboutProgram[] {
@@ -694,9 +755,8 @@ export interface PlaywrightWithDetails {
 	birth_year: number | null;
 	death_year: number | null;
 	nationality: string | null;
-	image_url: string | null;
 	play_count: number;
-	episode_count: number;
+	performance_count: number;
 }
 
 export function getAllPlaywrights(): PlaywrightWithDetails[] {
@@ -708,12 +768,11 @@ export function getAllPlaywrights(): PlaywrightWithDetails[] {
 			p.birth_year,
 			p.death_year,
 			p.nationality,
-			p.image_url,
 			COUNT(DISTINCT pl.id) as play_count,
-			COUNT(DISTINCT e.prf_id) as episode_count
+			COUNT(DISTINCT perf.id) as performance_count
 		FROM persons p
 		JOIN plays pl ON p.id = pl.playwright_id
-		LEFT JOIN episodes e ON pl.id = e.play_id
+		JOIN performances perf ON perf.work_id = pl.id
 		GROUP BY p.id
 		HAVING play_count > 0
 		ORDER BY p.name
@@ -746,4 +805,74 @@ export function getNationalities(): string[] {
 	stmt.free();
 
 	return results;
+}
+
+export interface PlayWithDetails {
+	id: number;
+	title: string;
+	original_title: string | null;
+	year_written: number | null;
+	playwright_id: number | null;
+	playwright_name: string | null;
+	performance_count: number;
+}
+
+export function getAllPlays(sortBy: 'title' | 'year' | 'playwright' = 'title'): PlayWithDetails[] {
+	const db = getDatabase();
+
+	let orderBy = 'pl.title ASC';
+	if (sortBy === 'year') orderBy = 'pl.year_written DESC NULLS LAST, pl.title ASC';
+	if (sortBy === 'playwright') orderBy = 'playwright.name ASC NULLS LAST, pl.title ASC';
+
+	const stmt = db.prepare(`
+		SELECT
+			pl.id,
+			pl.title,
+			pl.original_title,
+			pl.year_written,
+			pl.playwright_id,
+			playwright.name as playwright_name,
+			COUNT(DISTINCT perf.id) as performance_count
+		FROM plays pl
+		LEFT JOIN persons playwright ON pl.playwright_id = playwright.id
+		LEFT JOIN performances perf ON perf.work_id = pl.id
+		GROUP BY pl.id
+		HAVING performance_count > 0
+		ORDER BY ${orderBy}
+	`);
+
+	const results: PlayWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as PlayWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getPlayCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(DISTINCT pl.id) as count
+		FROM plays pl
+		JOIN performances perf ON perf.work_id = pl.id
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getAuthorCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(DISTINCT p.id) as count
+		FROM persons p
+		JOIN plays pl ON p.id = pl.playwright_id
+		JOIN performances perf ON perf.work_id = pl.id
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
 }

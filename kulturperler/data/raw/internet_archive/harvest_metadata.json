@@ -1,0 +1,10 @@
+{
+  "harvested_at": "2025-12-19T16:20:33.721517",
+  "total_items": 557,
+  "min_duration_seconds": 900,
+  "queries": [
+    "collection:norwegian-television"
+  ],
+  "skipped_short": 0,
+  "skipped_non_theatre": 13
+}

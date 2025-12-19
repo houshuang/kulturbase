@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getPlay, getWorkPerformances, getPerformanceMedia, getPlayExternalLinks, getPerson } from '$lib/db';
+	import { getPlay, getWorkPerformancesByMedium, getPerformanceMedia, getPlayExternalLinks, getPerson } from '$lib/db';
 	import type { Play, PlayExternalLink, PerformanceWithDetails, Episode, Person } from '$lib/types';
 	import { onMount } from 'svelte';
 
@@ -10,7 +10,8 @@
 
 	let play: (Play & { playwright_name?: string }) | null = null;
 	let playwright: Person | null = null;
-	let performances: PerformanceWithMedia[] = [];
+	let tvPerformances: PerformanceWithMedia[] = [];
+	let radioPerformances: PerformanceWithMedia[] = [];
 	let externalLinks: PlayExternalLink[] = [];
 	let loading = true;
 	let error: string | null = null;
@@ -30,11 +31,16 @@
 					playwright = getPerson(play.playwright_id);
 				}
 
-				// Get all performances of this work
-				const perfs = getWorkPerformances(playId);
+				// Get TV performances
+				const tvPerfs = getWorkPerformancesByMedium(playId, 'tv');
+				tvPerformances = tvPerfs.map(perf => ({
+					...perf,
+					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
+				}));
 
-				// Load media for each performance
-				performances = perfs.map(perf => ({
+				// Get Radio performances
+				const radioPerfs = getWorkPerformancesByMedium(playId, 'radio');
+				radioPerformances = radioPerfs.map(perf => ({
 					...perf,
 					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
 				}));
@@ -59,11 +65,8 @@
 		return `${m} min`;
 	}
 
-	function getImageUrl(url: string | null, width = 480): string {
+	function getImageUrl(url: string | null): string {
 		if (!url) return '/placeholder.jpg';
-		if (url.includes('gfx.nrk.no')) {
-			return url.replace(/\/\d+$/, `/${width}`);
-		}
 		return url;
 	}
 </script>
@@ -84,11 +87,6 @@
 
 		<header class="play-header">
 			<div class="header-content">
-				{#if playwright?.image_url}
-					<a href="/person/{playwright.id}" class="author-portrait">
-						<img src={playwright.image_url} alt={playwright.name} />
-					</a>
-				{/if}
 				<div class="header-text">
 					<h1>{play.title}</h1>
 					<p class="play-meta">
@@ -143,51 +141,27 @@
 			</section>
 		{/if}
 
-		{#if performances.length === 1}
-			{@const perf = performances[0]}
-			<section class="single-performance">
-				<h2>NRK Fjernsynsteatret-opptak</h2>
-				<a href="/performance/{perf.id}" class="single-perf-card">
-					<div class="single-perf-image">
-						<img src={getImageUrl(perf.image_url, 640)} alt={perf.title || play?.title || ''} />
-						<div class="play-overlay">
-							<span class="play-icon">▶</span>
-						</div>
-					</div>
-					<div class="single-perf-info">
-						<div class="single-perf-meta">
-							{#if perf.year}
-								<span class="perf-year">{perf.year}</span>
-							{/if}
-							{#if perf.total_duration}
-								<span class="perf-duration">{formatDuration(perf.total_duration)}</span>
-							{/if}
-							{#if perf.media.length > 1}
-								<span class="perf-parts">{perf.media.length} deler</span>
-							{/if}
-						</div>
-						{#if perf.director_name}
-							<p class="single-perf-director">Regi: {perf.director_name}</p>
-						{/if}
-						{#if perf.description}
-							<p class="single-perf-desc">{perf.description.slice(0, 200)}{perf.description.length > 200 ? '...' : ''}</p>
-						{/if}
-					</div>
-				</a>
-			</section>
-		{:else if performances.length > 1}
-			<section class="performances">
-				<h2>NRK Fjernsynsteatret-opptak ({performances.length})</h2>
+		{#if tvPerformances.length > 0}
+			<section class="performances tv-section">
+				<h2>
+					<span class="medium-icon tv">TV</span>
+					Fjernsynsteater
+					{#if tvPerformances.length > 1}<span class="count">({tvPerformances.length})</span>{/if}
+				</h2>
 
-				{#each performances as perf}
-					<a href="/performance/{perf.id}" class="performance-card-link">
-						<div class="performance-group">
-							<div class="perf-header">
+				{#if tvPerformances.length === 1}
+					{@const perf = tvPerformances[0]}
+					<a href="/performance/{perf.id}" class="single-perf-card">
+						<div class="single-perf-image">
+							<img src={getImageUrl(perf.image_url)} alt={perf.title || play?.title || ''} />
+							<div class="play-overlay">
+								<span class="play-icon">▶</span>
+							</div>
+						</div>
+						<div class="single-perf-info">
+							<div class="single-perf-meta">
 								{#if perf.year}
 									<span class="perf-year">{perf.year}</span>
-								{/if}
-								{#if perf.director_name}
-									<span class="perf-director">Regi: {perf.director_name}</span>
 								{/if}
 								{#if perf.total_duration}
 									<span class="perf-duration">{formatDuration(perf.total_duration)}</span>
@@ -196,33 +170,126 @@
 									<span class="perf-parts">{perf.media.length} deler</span>
 								{/if}
 							</div>
-
-							<div class="perf-content">
-								<div class="perf-thumb">
-									<img src={getImageUrl(perf.image_url, 320)} alt={perf.title || play?.title || ''} loading="lazy" />
-								</div>
-
-								{#if perf.media.length > 1}
-									<div class="perf-parts-preview">
-										{#each perf.media.slice(0, 4) as media, i}
-											<div class="mini-thumb">
-												<img src={getImageUrl(media.image_url, 120)} alt="Del {i + 1}" loading="lazy" />
-												{#if media.part_number}
-													<span class="mini-badge">Del {media.part_number}</span>
-												{/if}
-											</div>
-										{/each}
-										{#if perf.media.length > 4}
-											<div class="more-parts">+{perf.media.length - 4}</div>
-										{/if}
-									</div>
-								{:else if perf.description}
-									<p class="perf-description">{perf.description.slice(0, 200)}{perf.description.length > 200 ? '...' : ''}</p>
-								{/if}
-							</div>
+							{#if perf.director_name}
+								<p class="single-perf-director">Regi: {perf.director_name}</p>
+							{/if}
+							{#if perf.description}
+								<p class="single-perf-desc">{perf.description.slice(0, 200)}{perf.description.length > 200 ? '...' : ''}</p>
+							{/if}
 						</div>
 					</a>
-				{/each}
+				{:else}
+					<div class="performances-grid">
+					{#each tvPerformances as perf}
+						<a href="/performance/{perf.id}" class="performance-card-link">
+							<div class="performance-group">
+								<div class="perf-header">
+									{#if perf.year}
+										<span class="perf-year">{perf.year}</span>
+									{/if}
+									{#if perf.director_name}
+										<span class="perf-director">Regi: {perf.director_name}</span>
+									{/if}
+									{#if perf.total_duration}
+										<span class="perf-duration">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.media.length > 1}
+										<span class="perf-parts">{perf.media.length} deler</span>
+									{/if}
+								</div>
+
+								<div class="perf-content">
+									{#if perf.image_url}
+										<div class="perf-thumb">
+											<img src={getImageUrl(perf.image_url)} alt={perf.title || play?.title || ''} loading="lazy" />
+										</div>
+									{/if}
+
+									{#if perf.description}
+										<p class="perf-description">{perf.description}</p>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+					</div>
+				{/if}
+			</section>
+		{/if}
+
+		{#if radioPerformances.length > 0}
+			<section class="performances radio-section">
+				<h2>
+					<span class="medium-icon radio">R</span>
+					Radioteater
+					{#if radioPerformances.length > 1}<span class="count">({radioPerformances.length})</span>{/if}
+				</h2>
+
+				{#if radioPerformances.length === 1}
+					{@const perf = radioPerformances[0]}
+					<a href="/performance/{perf.id}" class="single-perf-card">
+						<div class="single-perf-image">
+							<img src={getImageUrl(perf.image_url)} alt={perf.title || play?.title || ''} />
+							<div class="play-overlay">
+								<span class="play-icon">▶</span>
+							</div>
+						</div>
+						<div class="single-perf-info">
+							<div class="single-perf-meta">
+								{#if perf.year}
+									<span class="perf-year">{perf.year}</span>
+								{/if}
+								{#if perf.total_duration}
+									<span class="perf-duration">{formatDuration(perf.total_duration)}</span>
+								{/if}
+								{#if perf.media.length > 1}
+									<span class="perf-parts">{perf.media.length} deler</span>
+								{/if}
+							</div>
+							{#if perf.director_name}
+								<p class="single-perf-director">Regi: {perf.director_name}</p>
+							{/if}
+							{#if perf.description}
+								<p class="single-perf-desc">{perf.description.slice(0, 200)}{perf.description.length > 200 ? '...' : ''}</p>
+							{/if}
+						</div>
+					</a>
+				{:else}
+					<div class="performances-grid">
+					{#each radioPerformances as perf}
+						<a href="/performance/{perf.id}" class="performance-card-link">
+							<div class="performance-group">
+								<div class="perf-header">
+									{#if perf.year}
+										<span class="perf-year">{perf.year}</span>
+									{/if}
+									{#if perf.director_name}
+										<span class="perf-director">Regi: {perf.director_name}</span>
+									{/if}
+									{#if perf.total_duration}
+										<span class="perf-duration">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.media.length > 1}
+										<span class="perf-parts">{perf.media.length} deler</span>
+									{/if}
+								</div>
+
+								<div class="perf-content">
+									{#if perf.image_url}
+										<div class="perf-thumb">
+											<img src={getImageUrl(perf.image_url)} alt={perf.title || play?.title || ''} loading="lazy" />
+										</div>
+									{/if}
+
+									{#if perf.description}
+										<p class="perf-description">{perf.description}</p>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+					</div>
+				{/if}
 			</section>
 		{/if}
 
@@ -448,12 +515,15 @@
 	}
 
 	.single-perf-card {
-		display: block;
+		display: grid;
+		grid-template-columns: 280px 1fr;
+		gap: 1.25rem;
 		text-decoration: none;
 		color: inherit;
 		background: #f9f9f9;
 		border-radius: 8px;
 		overflow: hidden;
+		padding: 1rem;
 		transition: box-shadow 0.2s;
 	}
 
@@ -465,6 +535,8 @@
 		position: relative;
 		aspect-ratio: 16/9;
 		background: #ddd;
+		border-radius: 6px;
+		overflow: hidden;
 	}
 
 	.single-perf-image img {
@@ -502,7 +574,9 @@
 	}
 
 	.single-perf-info {
-		padding: 1rem 1.25rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 	}
 
 	.single-perf-meta {
@@ -530,11 +604,16 @@
 		margin-bottom: 1.5rem;
 	}
 
+	.performances-grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 1rem;
+	}
+
 	.performance-card-link {
 		display: block;
 		text-decoration: none;
 		color: inherit;
-		margin-bottom: 1rem;
 	}
 
 	.performance-group {
@@ -646,6 +725,48 @@
 		color: #555;
 		line-height: 1.5;
 		margin: 0;
+	}
+
+	/* Medium section styles */
+	.performances h2 {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.performances h2 .count {
+		font-weight: 400;
+		color: #888;
+		font-size: 0.9em;
+	}
+
+	.medium-icon {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 28px;
+		height: 20px;
+		border-radius: 3px;
+		font-size: 0.7rem;
+		font-weight: 600;
+		color: white;
+	}
+
+	.medium-icon.tv {
+		background: #e94560;
+	}
+
+	.medium-icon.radio {
+		background: #6b5ce7;
+	}
+
+	.tv-section {
+		margin-bottom: 2rem;
+	}
+
+	.radio-section {
+		border-top: 1px solid #eee;
+		padding-top: 1.5rem;
 	}
 
 </style>

@@ -1,0 +1,62 @@
+[
+  {
+    "source": "youtube",
+    "source_id": "3ZfvfF7Uawg",
+    "title": "Kultur som motor eller møbel i byutviklingen? - Kulturytring 2025",
+    "description": "Kulturinstitusjoner er mer enn bygg, de er samfunnets møteplasser, katalysatorer for byliv og identitetsskapere. Likevel blir kultur ofte sett på som en bonus i byutvikling, ikke en grunnstein....",
+    "year": null,
+    "duration_seconds": 2776.0,
+    "url": "https://www.youtube.com/watch?v=3ZfvfF7Uawg",
+    "thumbnail_url": null,
+    "platform": "youtube",
+    "language": "no",
+    "venue": "Rogaland Teater",
+    "content_type": "other",
+    "raw_metadata": {
+      "channel": "Rogaland Teater",
+      "channel_id": null,
+      "upload_date": null,
+      "view_count": 31
+    }
+  },
+  {
+    "source": "youtube",
+    "source_id": "-Al6qFRUlhw",
+    "title": "Teaterdøgnet",
+    "description": "En poetisk dokumentar av Rogaland Teater bestående av hundrevis av teaterøyeblikk i løpet av et teaterdøgn. Filmen viser det som skjer, bak det folk ser fra salen. Alt det usynlige som...",
+    "year": null,
+    "duration_seconds": 1016.0,
+    "url": "https://www.youtube.com/watch?v=-Al6qFRUlhw",
+    "thumbnail_url": null,
+    "platform": "youtube",
+    "language": "no",
+    "venue": "Rogaland Teater",
+    "content_type": "documentary",
+    "raw_metadata": {
+      "channel": "Rogaland Teater",
+      "channel_id": null,
+      "upload_date": null,
+      "view_count": 4216
+    }
+  },
+  {
+    "source": "youtube",
+    "source_id": "dsNCnNYTBfM",
+    "title": "SISTE FORESTILLING AV ROLAND SCHIMMELPFENNIG",
+    "description": "Teatret handler om de levende, om oss, med all vår angst, våre håp og lengsler. Teater er frihetens sted, og dialogens, samværet. Teatret, uavhengig om det er i Tønsberg, Oslo, Bergen,...",
+    "year": null,
+    "duration_seconds": 1019.0,
+    "url": "https://www.youtube.com/watch?v=dsNCnNYTBfM",
+    "thumbnail_url": null,
+    "platform": "youtube",
+    "language": "no",
+    "venue": "Rogaland Teater",
+    "content_type": "other",
+    "raw_metadata": {
+      "channel": "Rogaland Teater",
+      "channel_id": null,
+      "upload_date": null,
+      "view_count": 2317
+    }
+  }
+]

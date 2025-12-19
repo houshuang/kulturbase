@@ -130,11 +130,6 @@
 
 		<header class="person-header">
 			<div class="header-content">
-				{#if person.image_url}
-					<div class="person-portrait">
-						<img src={person.image_url} alt={person.name} />
-					</div>
-				{/if}
 				<div class="header-text">
 					<h1>{person.name}</h1>
 					{#if person.birth_year || person.death_year}

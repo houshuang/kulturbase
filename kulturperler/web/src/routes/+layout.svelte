@@ -24,7 +24,6 @@
 	<header>
 		<nav>
 			<a href="/" class="logo">Kulturperler</a>
-			<span class="tagline">NRK Fjernsynsteatret 1960-1999</span>
 		</nav>
 	</header>
 
@@ -97,10 +96,6 @@
 		color: #e94560;
 	}
 
-	.tagline {
-		font-size: 0.9rem;
-		opacity: 0.7;
-	}
 
 	main {
 		flex: 1;

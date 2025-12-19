@@ -2,7 +2,6 @@
 	import { page } from '$app/stores';
 	import { getPerformance, getPerformanceContributors, getPerformanceMedia, getOtherPerformances, getPlay } from '$lib/db';
 	import type { PerformanceWithDetails, PerformancePerson, Episode, Play } from '$lib/types';
-	import { onMount } from 'svelte';
 
 	let performance: PerformanceWithDetails | null = null;
 	let work: (Play & { playwright_name?: string }) | null = null;
@@ -14,11 +13,16 @@
 
 	$: performanceId = parseInt($page.params.id || '0');
 
-	onMount(() => {
+	$: if (performanceId) {
 		loadPerformance();
-	});
+	}
 
 	function loadPerformance() {
+		loading = true;
+		error = null;
+		work = null;
+		otherPerformances = [];
+
 		try {
 			performance = getPerformance(performanceId);
 			if (performance) {
@@ -55,11 +59,8 @@
 		return `${m} minutter`;
 	}
 
-	function getImageUrl(url: string | null, width = 960): string {
+	function getImageUrl(url: string | null): string {
 		if (!url) return '/placeholder.jpg';
-		if (url.includes('gfx.nrk.no')) {
-			return url.replace(/\/\d+$/, `/${width}`);
-		}
 		return url;
 	}
 
@@ -111,15 +112,44 @@
 		<a href="/" class="back-link">&larr; Tilbake til oversikt</a>
 
 		<div class="performance-header">
-			<div class="performance-image">
-				<img
-					src={getImageUrl(performance.image_url)}
-					alt={performance.title || ''}
-				/>
-			</div>
+			{#if media.length === 1}
+				<a
+					href={media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`}
+					target="_blank"
+					rel="noopener"
+					class="performance-image playable"
+				>
+					<img
+						src={getImageUrl(performance.image_url)}
+						alt={performance.title || ''}
+					/>
+					<div class="header-play-icon">
+						<svg viewBox="0 0 24 24" fill="currentColor">
+							<path d="M8 5v14l11-7z"/>
+						</svg>
+					</div>
+					{#if media[0].duration_seconds}
+						<span class="header-duration">{formatDuration(media[0].duration_seconds)}</span>
+					{/if}
+				</a>
+			{:else}
+				<div class="performance-image">
+					<img
+						src={getImageUrl(performance.image_url)}
+						alt={performance.title || ''}
+					/>
+				</div>
+			{/if}
 
 			<div class="performance-info">
-				<h1>{performance.title || work?.title || 'Ukjent tittel'}</h1>
+				<h1>
+					{performance.title || work?.title || 'Ukjent tittel'}
+					{#if performance.medium === 'radio'}
+						<span class="medium-badge radio">Radioteater</span>
+					{:else}
+						<span class="medium-badge tv">Fjernsynsteater</span>
+					{/if}
+				</h1>
 
 				<div class="meta-line">
 					{#if performance.year}
@@ -136,7 +166,7 @@
 				{#if work}
 					<div class="work-preview">
 						<div class="work-preview-header">
-							<span class="label">Fra stykket</span>
+							<span class="label">Fra stykket ({otherPerformances.length + 1} opptak)</span>
 							<a href="/play/{work.id}" class="work-link">Se mer &rarr;</a>
 						</div>
 						<h2>
@@ -157,16 +187,10 @@
 			</div>
 		</div>
 
-		<!-- Media/Parts section -->
-		{#if media.length > 0}
+		<!-- Media/Parts section (only shown for multi-part recordings) -->
+		{#if media.length > 1}
 			<section class="media-section">
-				<h2>
-					{#if media.length === 1}
-						Se programmet
-					{:else}
-						Se alle deler ({media.length})
-					{/if}
-				</h2>
+				<h2>Se alle deler ({media.length})</h2>
 				<div class="media-grid">
 					{#each media as item}
 						<a
@@ -176,7 +200,7 @@
 							class="media-card"
 						>
 							<div class="media-thumbnail">
-								<img src={getImageUrl(item.image_url, 320)} alt={item.title} loading="lazy" />
+								<img src={getImageUrl(item.image_url)} alt={item.title} loading="lazy" />
 								<div class="play-icon">
 									<svg viewBox="0 0 24 24" fill="currentColor">
 										<path d="M8 5v14l11-7z"/>
@@ -198,7 +222,7 @@
 										{/if}
 									</span>
 								{/if}
-								<span class="watch-label">Se på NRK TV</span>
+								<span class="watch-label">{performance?.medium === 'radio' ? 'Lytt på NRK Radio' : 'Se på NRK TV'}</span>
 							</div>
 						</a>
 					{/each}
@@ -239,7 +263,7 @@
 					{#each otherPerformances as other}
 						<a href="/performance/{other.id}" class="other-performance-card">
 							<div class="other-thumbnail">
-								<img src={getImageUrl(other.image_url, 320)} alt={other.title || ''} loading="lazy" />
+								<img src={getImageUrl(other.image_url)} alt={other.title || ''} loading="lazy" />
 							</div>
 							<div class="other-info">
 								<span class="other-year">{other.year}</span>
@@ -303,6 +327,51 @@
 		width: 100%;
 		height: auto;
 		display: block;
+	}
+
+	.performance-image.playable {
+		display: block;
+		position: relative;
+		text-decoration: none;
+	}
+
+	.performance-image.playable:hover .header-play-icon {
+		opacity: 1;
+		transform: translate(-50%, -50%) scale(1.1);
+	}
+
+	.header-play-icon {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 80px;
+		height: 80px;
+		background: rgba(233, 69, 96, 0.9);
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: white;
+		opacity: 0.9;
+		transition: opacity 0.2s, transform 0.2s;
+	}
+
+	.header-play-icon svg {
+		width: 36px;
+		height: 36px;
+		margin-left: 4px;
+	}
+
+	.header-duration {
+		position: absolute;
+		bottom: 12px;
+		right: 12px;
+		background: rgba(0, 0, 0, 0.75);
+		color: white;
+		padding: 0.3rem 0.6rem;
+		border-radius: 4px;
+		font-size: 0.9rem;
 	}
 
 	.performance-info h1 {
@@ -514,9 +583,9 @@
 	}
 
 	.contributor-groups {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-		gap: 2rem;
+		display: flex;
+		flex-direction: column;
+		gap: 1.5rem;
 	}
 
 	.contributor-group h3 {
@@ -530,10 +599,13 @@
 
 	.contributor-group ul {
 		list-style: none;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25rem 2rem;
 	}
 
 	.contributor-group li {
-		margin-bottom: 0.4rem;
+		white-space: nowrap;
 	}
 
 	.contributor-group a {
@@ -607,6 +679,29 @@
 	.other-director, .other-duration {
 		font-size: 0.85rem;
 		color: #666;
+	}
+
+	/* Medium badge in title */
+	.medium-badge {
+		display: inline-block;
+		padding: 0.25rem 0.6rem;
+		border-radius: 4px;
+		font-size: 0.7rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.02em;
+		vertical-align: middle;
+		margin-left: 0.75rem;
+	}
+
+	.medium-badge.tv {
+		background: #e94560;
+		color: white;
+	}
+
+	.medium-badge.radio {
+		background: #6b5ce7;
+		color: white;
 	}
 
 	@media (max-width: 768px) {

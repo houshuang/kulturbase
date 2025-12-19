@@ -48,6 +48,6 @@ declare module "$app/types" {
 		};
 		Pathname(): "/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/persons" | "/persons/" | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/play" | "/play/" | `/play/${string}` & {} | `/play/${string}/` & {};
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
-		Asset(): "/favicon.png" | "/kulturperler.db" | "/kulturperler.db.backup_20251219_122607" | "/nrk_about_cache.json" | "/nrk_candidates.json" | "/sceneweb_cache.json" | string & {};
+		Asset(): "/favicon.png" | "/kulturperler.db" | "/kulturperler.db.backup_20251219_122607" | "/kulturperler.db.backup_20251219_153151" | "/kulturperler.db.backup_20251219_155403" | "/kulturperler.db.backup_20251219_155433" | "/nrk_about_cache.json" | "/nrk_candidates.json" | "/sceneweb_cache.json" | string & {};
 	}
 }

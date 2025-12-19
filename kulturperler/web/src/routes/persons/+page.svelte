@@ -66,7 +66,7 @@
 			if (sort === 'name') {
 				cmp = a.name.localeCompare(b.name, 'no');
 			} else if (sort === 'plays') {
-				cmp = a.episode_count - b.episode_count;
+				cmp = a.performance_count - b.performance_count;
 			} else if (sort === 'birth') {
 				const aYear = a.birth_year || 0;
 				const bYear = b.birth_year || 0;
@@ -209,11 +209,7 @@
 							<div class="decade-persons">
 								{#each getPlaywrightsInDecade(decade) as person}
 									<a href="/person/{person.id}" class="timeline-person" title="{person.name} ({person.birth_year})">
-										{#if person.image_url}
-											<img src={person.image_url} alt={person.name} />
-										{:else}
-											<div class="person-placeholder">{person.name.charAt(0)}</div>
-										{/if}
+										<div class="person-placeholder">{person.name.charAt(0)}</div>
 										<span class="person-name">{person.name}</span>
 									</a>
 								{/each}
@@ -226,13 +222,6 @@
 			<div class="persons-grid">
 				{#each filteredPlaywrights as person}
 					<a href="/person/{person.id}" class="person-card">
-						<div class="person-image">
-							{#if person.image_url}
-								<img src={person.image_url} alt={person.name} loading="lazy" />
-							{:else}
-								<div class="image-placeholder">{person.name.charAt(0)}</div>
-							{/if}
-						</div>
 						<div class="person-info">
 							<h3>{person.name}</h3>
 							<div class="person-meta">
@@ -245,7 +234,7 @@
 							</div>
 							<div class="person-stats">
 								<span class="stat">{person.play_count} stykker</span>
-								<span class="stat">{person.episode_count} opptak</span>
+								<span class="stat">{person.performance_count} opptak</span>
 							</div>
 						</div>
 					</a>

@@ -1,3 +1,5 @@
+export type Medium = 'tv' | 'radio';
+
 export interface Episode {
 	prf_id: string;
 	title: string;
@@ -14,6 +16,7 @@ export interface Episode {
 	parent_episode_id: string | null;
 	performance_id: number | null;
 	media_type: 'episode' | 'part' | 'intro' | null;
+	medium: Medium;
 }
 
 // Alias for clarity - Play = Work in our ontology
@@ -32,6 +35,7 @@ export interface Performance {
 	venue: string | null;
 	total_duration: number | null;
 	image_url: string | null;
+	medium: Medium;
 }
 
 export interface PerformanceWithDetails extends Performance {
@@ -62,7 +66,6 @@ export interface Person {
 	sceneweb_url: string | null;
 	wikipedia_url: string | null;
 	bio: string | null;
-	image_url: string | null;
 }
 
 export interface Play {
@@ -100,6 +103,7 @@ export interface SearchFilters {
 	directorId?: number;
 	actorId?: number;
 	tagIds?: number[];
+	mediums?: Medium[];
 }
 
 export interface EpisodeWithDetails extends Episode {

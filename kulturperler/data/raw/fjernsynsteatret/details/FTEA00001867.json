@@ -1,0 +1,319 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001867"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001567"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001867",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "05.09.1967",
+  "episodeTitle": "Cocktailparty",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA00001867",
+  "title": "Cocktailparty",
+  "originalTitle": "Cocktailparty",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Cocktailparty"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Cocktailparty"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Cocktailparty"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Cocktailparty"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H57M21.32S",
+  "shortDescription": "Lavinia Chamberlayne har forlatt sin ektemann Edward før et cocktailselskap. De har begge hatt forhold på si. Av T.S. Eliot.",
+  "longDescription": "Av den engelske dramatikeren T.S. Eliot.\nOversatt av Paal Brekke.\nDekor: Gunnar Alme.\nInstruktør: Michael Elliott.\nKrise i ekteskapet Chamberlayne.  Begge ektefellene har forhold på si.\nEn fremmed, Sir Henry, mekler og analyserer forholdet mellom Lavinia\nog Edward Chamberlayne.  Han er psykolog og moralist.  Om mellom-menneskelig\nrollespill, selvbedrageri, falskneri, skyldfølelse og desillusjoner.  De to\nektefellene \"helbredes\" og kan igjen ferdes blant de \"normale\" og dyrke\nselskapslivet.\nMedv.:  Sverre HANSEN .......... Edward Chamberlayne\n        Wenche FOSS ............ Julia Shuttlethwaite\n        Liv ULLMANN ............ Celia Coplestone\n        Per GJERSØE ............ Alexander Mac Colgie Gibbs\n        Geir BØRRESEN .......... Peter Quilpe\n        Claes GILL ............. Sir Henry Harcourt-Reilly\n        Bab CHRISTENSEN ........ Lavinia Chamberlayne\n        Inger HELDAL ........... En kontorsøster\n        Finn MÆHLUM ............ En oppvarter\n(Reprise: 19691125).",
+  "image": {
+    "imageInfo": {
+      "id": "iD-4O58DflKKnHyglA_9Rw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.157968923,
+        "width": 1.0,
+        "height": 0.5575374
+      }
+    },
+    "imageWidthCropInfo": "iD-4O58DflKKnHyglA_9Rw?x=0.00000000000000000&y=0.15796892980437285&w=1.00000000000000000&h=0.55753739930955130",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/iD-4O58DflKKnHyglA_9RwY9g--WNrnfVv8BE_5Plzcg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iD-4O58DflKKnHyglA_9RwnB1b1gDVIRBv8BE_5Plzcg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iD-4O58DflKKnHyglA_9Rw65HeRv2LsEZv8BE_5Plzcg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iD-4O58DflKKnHyglA_9Rw_RNpHyOTW-Bv8BE_5Plzcg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "utroskap",
+    "ekteskap"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "utroskap",
+    "ekteskap"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Geir Børresen",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Børresen"
+    },
+    {
+      "name": "Claes Gill",
+      "role": "Skuespiller",
+      "givenName": "Claes",
+      "familyName": "Gill"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Inger Heldal",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Heldal"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-73360800000+0200)/",
+    "actualTransmissionDate": "/Date(-73360800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-73360800000+0200)/",
+    "actualTransmissionDate": "/Date(-73360800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Geir Børresen",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Børresen"
+    },
+    {
+      "name": "Claes Gill",
+      "role": "Skuespiller",
+      "givenName": "Claes",
+      "familyName": "Gill"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Inger Heldal",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Heldal"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001867&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H57M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001867&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001867&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001867&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001867&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001867-AR-199001007"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "05-09-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001867-AR-199001007",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1967
+}

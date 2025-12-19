@@ -1,0 +1,375 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001374"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001473"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001374",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "23.04.1974",
+  "episodeTitle": "Montserrat",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001374",
+  "title": "Montserrat",
+  "originalTitle": "Montserrat",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Montserrat"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Montserrat"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Montserrat"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Montserrat"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H12M29S",
+  "shortDescription": "Stykket fra 1948 fortel om ein spansk invasjonshær i eit latinamerikansk land i byrjinga av førre hundreåret. Av Emmanuel Roblès.",
+  "longDescription": "Av Emmanuel Robles (fransk forfatter).  Stykket er fra 1948.\nOversatt av Eli Oftedal. (Nynorsk).\nDekor: Christian Egemar.  Kostyme: Ada Skolmen.  Sminke: Kari Lie.\nInstruktør:  Otto Homlung.\nStykket forteller om en spansk invasjonshær i et latin-amerikansk land i\nbegynnelsen av forrige århundre og om hvordan landet gjør væpnet opprør mot\ndet spanske fremmedvelde.  En kamp mellom sadisme og menneskelighet, mellom\nmakt og idealisme.\nDe som er med:\nMontserrat .......... Svein SCHARFFENBERG\nIsquierdo ........... Gisle STRAUME\nFader Coronil ....... Harald Heide STEEN\nMorales ............. Svein MOEN\nZuazola ............. Bjarne THOMSEN\nAntonanzas .......... Per TOFTE\nArnal Luhan ......... Øivind ØYEN\nSalas Ina ........... Magnus TVEIT\nJuan Salcedo ........ Rolf SØDER\nRicardo ............. Bjørn SKAGESTAD\nElena ............... Tone RINGEN\nMora ................ Jorunn KJELLSBY\nTo munker ........... Vilhelm LUND,\n                      Herman HERMANSEN",
+  "image": {
+    "imageInfo": {
+      "id": "GPRz-OdRKqk8fJh6L-DgXQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09166209,
+        "width": 1.0,
+        "height": 0.71735543
+      }
+    },
+    "imageWidthCropInfo": "GPRz-OdRKqk8fJh6L-DgXQ?x=0.00000000000000000&y=0.09166208359522313&w=1.00000000000000000&h=0.71735543683218110",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/GPRz-OdRKqk8fJh6L-DgXQOnhiZuzTuTCv7-9h5luAlw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GPRz-OdRKqk8fJh6L-DgXQwYkm9cGaT7Gv7-9h5luAlw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GPRz-OdRKqk8fJh6L-DgXQeFK84ZVmlLyv7-9h5luAlw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GPRz-OdRKqk8fJh6L-DgXQejcRJRPOaA-v7-9h5luAlw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Tone Ringen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Ringen"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Magnus Tveit",
+      "role": "Skuespiller",
+      "givenName": "Magnus",
+      "familyName": "Tveit"
+    },
+    {
+      "name": "Bjarne Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Herman Hermansen",
+      "role": "Skuespiller",
+      "givenName": "Herman",
+      "familyName": "Hermansen"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(135900000000+0200)/",
+    "actualTransmissionDate": "/Date(135900000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(135900000000+0200)/",
+    "actualTransmissionDate": "/Date(135900000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tone Ringen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Ringen"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Magnus Tveit",
+      "role": "Skuespiller",
+      "givenName": "Magnus",
+      "familyName": "Tveit"
+    },
+    {
+      "name": "Bjarne Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Herman Hermansen",
+      "role": "Skuespiller",
+      "givenName": "Herman",
+      "familyName": "Hermansen"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001374&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H12M30S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001374&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001374&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001374&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001374&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001374-AR-199211510"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-04-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001374-AR-199211510",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1974
+}

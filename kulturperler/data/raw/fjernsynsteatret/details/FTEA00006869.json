@@ -1,0 +1,533 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006869"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005469"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006869",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "04.11.1969",
+  "episodeTitle": "I dag død, i morgen rosenrød",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00006869",
+  "title": "I dag død, i morgen rosenrød",
+  "originalTitle": "I dag død, i morgen rosenrød",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "I dag død, i morgen rosenrød"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "I dag død, i morgen rosenrød"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I dag død, i morgen rosenrød"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I dag død, i morgen rosenrød"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H7M37.84S",
+  "shortDescription": "En lek med ord, teatralske handlingsmønstre, sceniske bevegelser og musikalske virkemidler. Av Anders Bye, Bengt Calmeyer og Alfred Janson.",
+  "longDescription": "En musikalsk lek av Anders Bye, Bengt Calmeyer og Alfred Janson.\nBearbeidet for fjernsyn av Sverre Udnæs.\nMusikk: Alfred Janson.  Koreografi: Guri Ludt.\nDekor: Christian Egemar.  Kostymer: Tull Engø.\nInstruktører: Sverre Udnæs og Harald Heide Steen jr.\nStykket er en lek med ord, en lek med teatralske handlingsmønstre, en lek med\nsceniske bevegelser og viktigst - en lek med musikalske virkemidler.\nOm underholdning, teater, lykke, illusjon om hva lykke er, kjærlighet.  Lagt\ntil forskjellige tidsperioder i det 20. århundre.\nFilminnslag:\nFotballspillere løper ut på banen, relativt tette reaksjonsbilder av publikum,\nKnut BJØRNSEN intv. publikum om hva de synes om Fjernsynsteatret. (3'27\").\nEA:  Krig, tanks, bombing. 0'22\" (Denne filmen er kassert).\nEA:  Oppskyting av rakett. 0'20\" (Denne filmen er kassert).\nDe som er med:\nGjesteskuespillere: Steve WORCHESTER og Dionne la COUR.\nHarald Heide STEEN jr., Arne BANG-HANSEN, Per JANSEN, Anne Marit JACOBSEN, Rut\nTELLEFSEN, Knut RISAN, Carsten WINGER, Bab CHRISTENSEN, Nora BROCKSTEDT, Arve\nOPSAHL, Rolv WESENLUND, Eva von HANNO, Carsten BYHRING, Egil ÅSMAN, Dan FOSSE,\nEgil LORCH, Kjersti DØVIGEN, Mette MØLLER og Alfred JANSON.\nDansere:  Mette Marit SEM, Kari BLAKSTAD, Grethe BRUNVOLL, Guri LYSELL, Mette\nMØLLER og Bodil Gjerdrum OUSDAHL.",
+  "image": {
+    "imageInfo": {
+      "id": "rT6qbRVW_lmzAoJTB8f3Pw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0615458,
+        "width": 1.0,
+        "height": 0.7385496
+      }
+    },
+    "imageWidthCropInfo": "rT6qbRVW_lmzAoJTB8f3Pw?x=0.00000000000000000&y=0.06154580152671756&w=1.00000000000000000&h=0.73854961832061060",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/rT6qbRVW_lmzAoJTB8f3PwjU61Pb5utonzVG04RGkeBg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rT6qbRVW_lmzAoJTB8f3Pw4rGCOkyKbwLzVG04RGkeBg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rT6qbRVW_lmzAoJTB8f3Pwfzj-2sBF5uHzVG04RGkeBg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rT6qbRVW_lmzAoJTB8f3PwP_TVUN6heL_zVG04RGkeBg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "tv-spill",
+    "musikalsk lek",
+    "musikal",
+    "komedie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "tv-spill",
+    "musikalsk lek",
+    "musikal",
+    "komedie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Steve Worchester",
+      "role": "Skuespiller",
+      "givenName": "Steve",
+      "familyName": "Worchester"
+    },
+    {
+      "name": "Dionne La Cour",
+      "role": "Skuespiller",
+      "givenName": "Dionne La",
+      "familyName": "Cour"
+    },
+    {
+      "name": "Rolv Wesenlund",
+      "role": "Skuespiller",
+      "givenName": "Rolv",
+      "familyName": "Wesenlund"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Alfred Janson",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Janson"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Nora Brockstedt",
+      "role": "Skuespiller",
+      "givenName": "Nora",
+      "familyName": "Brockstedt"
+    },
+    {
+      "name": "Egil Åsman",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Åsman"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Mette Møller",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Møller"
+    },
+    {
+      "name": "Mette Marit Sem",
+      "role": "Danser",
+      "givenName": "Mette Marit",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Kari Blakstad",
+      "role": "Danser",
+      "givenName": "Kari",
+      "familyName": "Blakstad"
+    },
+    {
+      "name": "Grete Brunvoll",
+      "role": "Danser",
+      "givenName": "Grete",
+      "familyName": "Brunvoll"
+    },
+    {
+      "name": "Guri Lysell",
+      "role": "Danser",
+      "givenName": "Guri",
+      "familyName": "Lysell"
+    },
+    {
+      "name": "Mette Møller",
+      "role": "Danser",
+      "givenName": "Mette",
+      "familyName": "Møller"
+    },
+    {
+      "name": "Bodil Gjerdrum Ousdal",
+      "role": "Danser",
+      "givenName": "Bodil Gjerdrum",
+      "familyName": "Ousdal"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-5014800000+0100)/",
+    "actualTransmissionDate": "/Date(-5014800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-5014800000+0100)/",
+    "actualTransmissionDate": "/Date(-5014800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Steve Worchester",
+      "role": "Skuespiller",
+      "givenName": "Steve",
+      "familyName": "Worchester"
+    },
+    {
+      "name": "Dionne La Cour",
+      "role": "Skuespiller",
+      "givenName": "Dionne La",
+      "familyName": "Cour"
+    },
+    {
+      "name": "Rolv Wesenlund",
+      "role": "Skuespiller",
+      "givenName": "Rolv",
+      "familyName": "Wesenlund"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Alfred Janson",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Janson"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Nora Brockstedt",
+      "role": "Skuespiller",
+      "givenName": "Nora",
+      "familyName": "Brockstedt"
+    },
+    {
+      "name": "Egil Åsman",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Åsman"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Mette Møller",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Møller"
+    },
+    {
+      "name": "Mette Marit Sem",
+      "role": "Danser",
+      "givenName": "Mette Marit",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Kari Blakstad",
+      "role": "Danser",
+      "givenName": "Kari",
+      "familyName": "Blakstad"
+    },
+    {
+      "name": "Grete Brunvoll",
+      "role": "Danser",
+      "givenName": "Grete",
+      "familyName": "Brunvoll"
+    },
+    {
+      "name": "Guri Lysell",
+      "role": "Danser",
+      "givenName": "Guri",
+      "familyName": "Lysell"
+    },
+    {
+      "name": "Mette Møller",
+      "role": "Danser",
+      "givenName": "Mette",
+      "familyName": "Møller"
+    },
+    {
+      "name": "Bodil Gjerdrum Ousdal",
+      "role": "Danser",
+      "givenName": "Bodil Gjerdrum",
+      "familyName": "Ousdal"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006869&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H7M37S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006869&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006869&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006869&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006869&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006869-AR-199313238"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-11-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006869-AR-199313238",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

@@ -1,0 +1,291 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP20002196"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28004695"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp20002196",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60040",
+  "seasonNumber": "1996",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "14.04.1996",
+  "episodeTitle": "Frieren",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 9,
+  "startNextEpisode": 10,
+  "id": "FDRP20002196",
+  "title": "Frieren",
+  "originalTitle": "Frieren",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Frieren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Frieren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frieren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frieren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT58M45.96S",
+  "shortDescription": "Einstøingen Jack bor i en bygård i Oslo. En dag flytter den unge Susanne inn i leiligheten ved siden av. Hun trekker ham inn i et forvirrende spill.",
+  "longDescription": "Einstøingen Jack bor i en gammel bygård i Oslo.  En dag flytter unge Susanne\ninn i leiligheten ved siden av.  Hun har forlatt ektemannen og tatt med seg sin\nlille sønn til hovedstaden.  Den utadvendte kvinnen angriper med den største\nselvfølgelighet de forsvarsverkene Jack omhyggelig har bygd opp rundt seg og\ntrekker ham inn i et forvirrende spill.  Resultatet blir katastrofalt.\nManuskript og regi: Eirik Nilssen Brøyn.\nI rollene:\nJan GRØNLI, Turid GUNNES, Bjørn SKAGESTAD, Kari SIMONSEN og Bab CHRISTENSEN.",
+  "image": {
+    "imageInfo": {
+      "id": "5jecDHFtWw4oo9T7hJySsw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "5jecDHFtWw4oo9T7hJySsw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5jecDHFtWw4oo9T7hJySswDMwA6d7Eonoxh9NgOl1vnw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5jecDHFtWw4oo9T7hJySswIvlXBofQNSoxh9NgOl1vnw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5jecDHFtWw4oo9T7hJySswSGi9fNVR5Ooxh9NgOl1vnw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5jecDHFtWw4oo9T7hJySswzHJSfVIJ9t4xh9NgOl1vnw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "fjernsynsteater",
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "fjernsynsteater",
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kaleb Sjong",
+      "role": "Skuespiller",
+      "givenName": "Kaleb",
+      "familyName": "Sjong"
+    },
+    {
+      "name": "Espen Måløy",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Måløy"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Turid Gunnes",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Gunnes"
+    },
+    {
+      "name": "Jan Grønli",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Grønli"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(829432800000+0200)/",
+    "actualTransmissionDate": "/Date(829432800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(943217100000+0100)/",
+    "actualTransmissionDate": "/Date(943217163480+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1449550500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kaleb Sjong",
+      "role": "Skuespiller",
+      "givenName": "Kaleb",
+      "familyName": "Sjong"
+    },
+    {
+      "name": "Espen Måløy",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Måløy"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Turid Gunnes",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Gunnes"
+    },
+    {
+      "name": "Jan Grønli",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Grønli"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20002196&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT58M46S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20002196&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20002196&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20002196&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20002196&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP202196-AR-199700113"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "14-04-1996",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP202196-AR-199700113",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1996
+}

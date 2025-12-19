@@ -1,0 +1,270 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62000362"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62000362",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 24,
+  "episodeNumberOrDate": "25.12.1962",
+  "episodeTitle": "De gamles julaften",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62000362",
+  "title": "De gamles julaften",
+  "originalTitle": "De gamles julaften",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De gamles julaften"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De gamles julaften"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De gamles julaften"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De gamles julaften"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En norsk «Grevinnen og hovmesteren»?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De gamles julaften"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT47M38.72S",
+  "shortDescription": "Drama av Vilhelm Krag. De siste tre gjenlevende i vennekretsen spiser middag hos frk. Clara Carstensen og gjenopplever gamle minner og prater om trivielle hendelser i deres gamle hverdag.",
+  "longDescription": "Av den norske dramatikeren Vilhelm Krag.\nDekor: Per Schwab.\nInstruktør: Alfred Solaas.\nDe siste tre gjenlevende av den gamle vennekretsen spiser middag hos frk.\nClara Carstensen og gjenopplever gamle minner og prater om trivielle hendelser\ni deres gamle hverdag.  Frk. Carstensen dør idet julen ringes inn.\nI rollene:\nFrøken Clara Carstensen ........... Tore SEGELCKE\nSorenskriver Fredrik Mariboe ...... Kolbjørn BUØEN\nDoktor Petter Carstensen .......... Tore FOSS\nMarthe, frøkenens pike ............ Sigrun OTTO\n(Reprise: 19641225).",
+  "image": {
+    "imageInfo": {
+      "id": "dnl2sGiVw954izybMFcENw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.05669053,
+        "width": 1.0,
+        "height": 0.7288782
+      }
+    },
+    "imageWidthCropInfo": "dnl2sGiVw954izybMFcENw?x=0.00000000000000000&y=0.05669052863436123&w=1.00000000000000000&h=0.72887822529893020",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/dnl2sGiVw954izybMFcENwPhNO3q7c3Nofv2zetXPexw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dnl2sGiVw954izybMFcENwS5v2WUOXlZofv2zetXPexw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dnl2sGiVw954izybMFcENwP68N1mCFwwAfv2zetXPexw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dnl2sGiVw954izybMFcENwgtVIQCqjlgofv2zetXPexw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "tv-drama",
+    "jul",
+    "julaften"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "tv-drama",
+    "jul",
+    "julaften"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Sigrun Otto",
+      "role": "Skuespiller",
+      "givenName": "Sigrun",
+      "familyName": "Otto"
+    },
+    {
+      "name": "Tore Segelcke",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Segelcke"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-221533200000+0100)/",
+    "actualTransmissionDate": "/Date(-221533200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-221533200000+0100)/",
+    "actualTransmissionDate": "/Date(-221533200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1416891300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Sigrun Otto",
+      "role": "Skuespiller",
+      "givenName": "Sigrun",
+      "familyName": "Otto"
+    },
+    {
+      "name": "Tore Segelcke",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Segelcke"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000362&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT47M39S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000362&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000362&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000362&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000362&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62000362-AR-199416128"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-12-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62000362-AR-199416128",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

@@ -1,0 +1,259 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003289"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01001989"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003289",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60033",
+  "seasonNumber": "1989",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "05.12.1989",
+  "episodeTitle": "Maria er så liten",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00003289",
+  "title": "Maria er så liten",
+  "originalTitle": "Maria er så liten",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Maria er så liten"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Maria er så liten"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Maria er så liten"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Maria er så liten"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT54M48.96S",
+  "shortDescription": "Maria har en mor som er syk. Det har krevd mye av hennes tid. Men så møter den 25-årige Maria barndomsvennen Tom. Det møtet utløser noe nytt i henne.",
+  "longDescription": "Av Freya Gerstad.\nSminke: Kari Wigre  Kostymer: Ellen Andreassen.\nScenografi: Trine Kolstad Vegem.\nRegi: Eli Skolmen Ryg.\nMaria har en mor som er syk.  Det har krevd mye av hennes tid.  Men så møter\nden 25-årige Maria barndomsvennen Tom.  Det møtet utløser noe nytt i henne.\nDe som er med:\nMaria ...................... Anneke von der LIPPE\nInger ...................... Unni EVJEN\nMartin ..................... Ståle BJØRNHAUG\nTom ........................ Tom BRUDVIK\nPsykologen ................. Sverre BENTZEN",
+  "image": {
+    "imageInfo": {
+      "id": "FQd6wmGmI-zpMtH2nc4ghA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "FQd6wmGmI-zpMtH2nc4ghA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/FQd6wmGmI-zpMtH2nc4ghAB5fro9sC4QJ7LBLOmW_08A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FQd6wmGmI-zpMtH2nc4ghAmrfJZrFEMfV7LBLOmW_08A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FQd6wmGmI-zpMtH2nc4ghAG9UvQTgPIQt7LBLOmW_08A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FQd6wmGmI-zpMtH2nc4ghAE33eGnGv_5V7LBLOmW_08A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Anneke von der Lippe",
+      "role": "Skuespiller",
+      "givenName": "Anneke von der",
+      "familyName": "Lippe"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Tom Brudvik",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Brudvik"
+    },
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(628815600000+0100)/",
+    "actualTransmissionDate": "/Date(628815600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(628815600000+0100)/",
+    "actualTransmissionDate": "/Date(628815600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1436932500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Anneke von der Lippe",
+      "role": "Skuespiller",
+      "givenName": "Anneke von der",
+      "familyName": "Lippe"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Tom Brudvik",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Brudvik"
+    },
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003289&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT54M49S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003289&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003289&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003289&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003289&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003289-AR-199034635"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "05-12-1989",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003289-AR-199034635",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1989
+}

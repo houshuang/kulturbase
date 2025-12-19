@@ -1,0 +1,225 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00004968"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00004468"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00004968",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 19,
+  "episodeNumberOrDate": "19.11.1968",
+  "episodeTitle": "Veversken",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00004968",
+  "title": "Veversken",
+  "originalTitle": "Veversken",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Veversken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Veversken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Veversken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Veversken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT43M0.4S",
+  "shortDescription": "En veverske har solgt et stort billedteppe. Mens hun tar avskjed med teppet, gjentar hun for seg selv alt det hun har tenkt på mens teppet ble vevd.",
+  "longDescription": "En monolog av Solveig Christov.\nDekor: Sverre Andersen.\nBilledregi: Egil Kolstø.\nStykket er tilegnet Liv Stømsted Dommernes.\nBilledteppet som vises i forestillingen er vevet av Synnøve Aurdal.\nUtgangspunktet for stykket er salg av et stort billedteppe.  Veversken skal\nskille seg av med sitt teppe og det blir er vendepunkt.  Mens hun tar avskjed\nmed teppet, gjentar hun for seg selv alt hun har tenkt på mens teppet ble\nvevet,hvordan hennes liv ble fra hun var ung kvinne og til nå, hvordan livet\nbestemte over henne, men også hvordan hun bestemte over livet.  Noen av disse\ntankene er vevet inn i teppet, men noe har hun gjemt på, holdt utenfor sin\nskapende aktivitet.\nMedv.:\nVeversken .............. Liv Strømsted DOMMERSNES.\n(Reprise: 19740709).",
+  "image": {
+    "imageInfo": {
+      "id": "YVjTfyUpZckqhcHRB0l6Xg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.678308845
+      }
+    },
+    "imageWidthCropInfo": "YVjTfyUpZckqhcHRB0l6Xg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.67830882352941180",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/YVjTfyUpZckqhcHRB0l6XgZAjCqn3wJJSWDRzumQiFgg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YVjTfyUpZckqhcHRB0l6XgHQtAfR1z9GOWDRzumQiFgg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YVjTfyUpZckqhcHRB0l6XgH4RM8yPWwyGWDRzumQiFgg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YVjTfyUpZckqhcHRB0l6XgOxPCaTvqoz-WDRzumQiFgg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "monolog",
+    "veving",
+    "kunst"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "monolog",
+    "veving",
+    "kunst"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Liv Dommersnes",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Dommersnes"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-35254800000+0100)/",
+    "actualTransmissionDate": "/Date(-35254800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-35254800000+0100)/",
+    "actualTransmissionDate": "/Date(-35254800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Liv Dommersnes",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Dommersnes"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004968&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004968&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004968&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004968&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004968&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA004968-AR-199314060"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "19-11-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA004968-AR-199314060",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

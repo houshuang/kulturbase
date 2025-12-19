@@ -1,0 +1,283 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001466"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66002066"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001466",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "23.05.1967",
+  "episodeTitle": "Skilsmissefeber",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA66001466",
+  "title": "Skilsmissefeber",
+  "originalTitle": "Skilsmissefeber",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skilsmissefeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skilsmissefeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skilsmissefeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skilsmissefeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H33M9.96S",
+  "shortDescription": "Flere skuespillere prøver å gi et overbevisende situasjonsbilde av stemningen, når kona Lolo skal fortelle sin mann Jacques at hun vil flytte sammen med sin elsker. Av Gabriel Arout.",
+  "longDescription": "Av den franske dramatikeren Gabriel Arout.\nOriginal tittel: \"Laure et les Jacques\".  Skrevet i 1963.\nOversatt av Lisa Thomas Olsen.\nDekor: Willi Nordraa.\nInstruktør: Arne Thomas Olsen.\nNoen skuespillere forsøker etter tur å gi et mest overbevisende\nsituasjonsbilde av stemningen når kona Lolo skal fortelle sin mann Jacques\nat hun vil flytte sammen med sin elsker.  Til sist bryter en misfornøyd\n\"seer\" inn og demonstrerer hvordan situasjonen i virkeligheten ville\nartet seg, når en mann stod i fare for å miste den han elsker.  Han\n\"denger sin kjærlighet inn i henne\".\nMedvirkende : Inger Marie ANDERSEN .... Lolo\n              Arne AAS ................ Jacques I\n              Carsten WINGER .......... Jacques II\n              Frank ROBERT ............ Jacques III\n              Henki KOLSTAD ........... Jacques IV\n              Kari SUNDBY ............. Irene",
+  "image": {
+    "imageInfo": {
+      "id": "9YlE0l3h-b95DVCrYN-UWQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.049500443,
+        "width": 1.0,
+        "height": 0.6853908
+      }
+    },
+    "imageWidthCropInfo": "9YlE0l3h-b95DVCrYN-UWQ?x=0.00000000000000000&y=0.04950044404973357&w=1.00000000000000000&h=0.68539076376554180",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/9YlE0l3h-b95DVCrYN-UWQ4eqNGkHye_LRv7gWQaTnGA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9YlE0l3h-b95DVCrYN-UWQH1-AdKj22w3Rv7gWQaTnGA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9YlE0l3h-b95DVCrYN-UWQ2J83LC2_ZkDRv7gWQaTnGA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9YlE0l3h-b95DVCrYN-UWQC_xdvfzbubjRv7gWQaTnGA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "skilsmisse",
+    "skuespillere"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "skilsmisse",
+    "skuespillere"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Frank Robert",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Robert"
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Kari Sundby",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Sundby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-82432800000+0200)/",
+    "actualTransmissionDate": "/Date(-82432800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-82432800000+0200)/",
+    "actualTransmissionDate": "/Date(-82432800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Frank Robert",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Robert"
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Kari Sundby",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Sundby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001466&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H33M10S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001466&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001466&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001466&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001466&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66001466-199001016-ST"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-05-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66001466-199001016-ST",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

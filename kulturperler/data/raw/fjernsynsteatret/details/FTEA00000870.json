@@ -1,0 +1,305 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000870"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001470"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000870",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "24.11.1970",
+  "episodeTitle": "Tyven, tyven ...",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00000870",
+  "title": "Tyven, tyven ...",
+  "originalTitle": "Tyven, tyven ...",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tyven, tyven ..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tyven, tyven ..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tyven, tyven ..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Nobelprisvinner Dario Fo er død. Opplev flere av stykkene hans her"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tyven, tyven ..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tyven, tyven ..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT49M37.96S",
+  "shortDescription": "Stykket er en farse med overraskende og vittige situasjoner som følger så tett på hverandre at de formelig snubler i hverandre. Av Dario Fo.",
+  "longDescription": "Av den italienske forfatteren Dario Fo.\nOversatt av Carl Fredrik Engelstad.\nDekor: Lajla Hovland.  Kostymer: Nan Austin.\nInstruktør: Aloysius Valente.\nStykket er en farse med overraskende og vittige situasjoner som følger så tett\npå hverandre at de formelig snubler i hverandre.\nDe som er med:\nTyven ............... Tom TELLEFSEN\nTyvens kone ......... Aud SCHØNEMANN\nMannen .............. Gisle STRAUME\nKvinnen ............. Eva von HANNO\nAnna ................ Anne-Lise TANGSTAD\nAntonio ............. Arne AAS\nTyv II .............. Arne Lindtner NÆSS\n(Reprise: 19720711).",
+  "image": {
+    "imageInfo": {
+      "id": "QwkygN12oe9SGb64cOFzHw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.18858467,
+        "width": 1.0,
+        "height": 0.556479335
+      }
+    },
+    "imageWidthCropInfo": "QwkygN12oe9SGb64cOFzHw?x=0.00000000000000000&y=0.18858467125382264&w=1.00000000000000000&h=0.55647935779816520",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwe1Ya5bWdT2KztyGHUOcIGA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwhM85FWgWCp-ztyGHUOcIGA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwYzk24Cd2Ad2ztyGHUOcIGA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwAxj5igfeI4uztyGHUOcIGA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "komedie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "komedie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Anne-Lise Tangstad",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Tangstad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(28249200000+0100)/",
+    "actualTransmissionDate": "/Date(28249200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(28249200000+0100)/",
+    "actualTransmissionDate": "/Date(28249200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Anne-Lise Tangstad",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Tangstad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000870&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT49M38S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000870&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000870&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000870&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000870&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000870-AR-199311845"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-11-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000870-AR-199311845",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

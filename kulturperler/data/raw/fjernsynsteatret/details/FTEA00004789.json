@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00004789"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01004890"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00004789",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60034",
+  "seasonNumber": "1990",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "11.12.1990",
+  "episodeTitle": "Ælle menneskja mine",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00004789",
+  "title": "Ælle menneskja mine",
+  "originalTitle": "Ælle menneskja mine",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Ælle menneskja mine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Ælle menneskja mine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ælle menneskja mine  (Alle menneskene mine)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ælle menneskja mine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H9M48.92S",
+  "shortDescription": "Det viktigste i livet er andre mennesker. En monolog, framført av Inger Lise Rypdal, som forteller om hverdagsmenneske og hverdagsforhold.",
+  "longDescription": "Manuskript og regi : Svein Erik Brodal.\nEn monolog, framført av Inger Lise RYPDAL, som forteller om hverdagsmenneske\nog hverdagsforhold.  Den slår fast at det viktigste i livet er andre\nmennesker.\nEn overføring fra Toten Teaters gjestespill på Det Norske Teatret.",
+  "image": {
+    "imageInfo": {
+      "id": "eFJWbs-mRZ-VLPCiqwjACQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0859375,
+        "width": 1.0,
+        "height": 0.703125
+      }
+    },
+    "imageWidthCropInfo": "eFJWbs-mRZ-VLPCiqwjACQ?x=0.00000000000000000&y=0.08593750000000000&w=1.00000000000000000&h=0.70312500000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/eFJWbs-mRZ-VLPCiqwjACQgRjj2uQalA9QJpA4Rk26JQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eFJWbs-mRZ-VLPCiqwjACQPlndKzFwidhQJpA4Rk26JQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eFJWbs-mRZ-VLPCiqwjACQ7PkOc8qlVt1QJpA4Rk26JQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eFJWbs-mRZ-VLPCiqwjACQXjKhfv2j7y9QJpA4Rk26JQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(660870000000+0100)/",
+    "actualTransmissionDate": "/Date(660870000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(660870000000+0100)/",
+    "actualTransmissionDate": "/Date(660870000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437882900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004789&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H9M48S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004789&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004789&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004789&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004789&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA004789-AR-199049296"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-12-1990",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA004789-AR-199049296",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1989
+}

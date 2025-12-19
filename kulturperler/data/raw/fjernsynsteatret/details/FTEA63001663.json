@@ -1,0 +1,330 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63001663"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63000463"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63001663",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "25.04.1963",
+  "episodeTitle": "Skitne hender",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63001663",
+  "title": "Skitne hender",
+  "originalTitle": "Skitne hender",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skitne hender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skitne hender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skitne hender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skitne hender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H20M1S",
+  "shortDescription": "Et politisk drama med handlingen lagt til andre verdenskrig. Av Jean-Paul Sartre.",
+  "longDescription": "Av den franske forfatteren Jean-Paul Sartre.\nOversatt av Paul Gauguin.\nFjernsynsbearbeidelse og regi: Knut Thomassen.\nDekor: Bjørn Næss.\nPolitisk drama med handlingen lagt til 2. verdenskrig.\nI rollene:\nHörderer ........... Ole GREPP\nHugo ............... Joachim CALMEYER\nSlick .............. Frimann Falck CLAUSEN\nFyrsten ............ Per BRONKEN\nKarsky ............. Alfred SOLAAS\nGeorg .............. Pål SKJØNBERG\nLudwig ............. Lasse KOLSTAD\nJessica ............ Monna TANDBERG\nOlga ............... Bab CHRISTENSEN\n(Reprise: 19630425).",
+  "image": {
+    "imageInfo": {
+      "id": "OCBTOJc5CjSP_DaMX0cGgw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.118515491,
+        "width": 1.0,
+        "height": 0.688154459
+      }
+    },
+    "imageWidthCropInfo": "OCBTOJc5CjSP_DaMX0cGgw?x=0.00000000000000000&y=0.11851548865619545&w=1.00000000000000000&h=0.68815445026178000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/OCBTOJc5CjSP_DaMX0cGgwn7ODaMBl4ZkteNBpPmuC-g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OCBTOJc5CjSP_DaMX0cGgwcuFWL-ZmVMIteNBpPmuC-g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OCBTOJc5CjSP_DaMX0cGgwEAv7HYhKllAteNBpPmuC-g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OCBTOJc5CjSP_DaMX0cGgwEU3wH_MkYM8teNBpPmuC-g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "fjernsynsteater",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "fjernsynsteater",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ole Grepp",
+      "role": "Skuespiller",
+      "givenName": "Ole",
+      "familyName": "Grepp"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-211082400000+0200)/",
+    "actualTransmissionDate": "/Date(-211082400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-211082400000+0200)/",
+    "actualTransmissionDate": "/Date(-211082400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1441943700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ole Grepp",
+      "role": "Skuespiller",
+      "givenName": "Ole",
+      "familyName": "Grepp"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT48M48S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63011663-AR-199416063"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H31M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001663&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63021663-AR-199416063"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-04-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63011663-AR-199416063",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

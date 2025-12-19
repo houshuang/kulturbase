@@ -1,0 +1,315 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00007169"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA69000469"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00007169",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "10.02.1970",
+  "episodeTitle": "Småborgerbryllup",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00007169",
+  "title": "Småborgerbryllup",
+  "originalTitle": "Småborgerbryllup",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Småborgerbryllup"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Småborgerbryllup"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Småborgerbryllup"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Småborgerbryllup"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT49M47.36S",
+  "shortDescription": "Et bryllup blant borgerskapets mindre bemidlede. Møblene knekker, talene under middagen er dårlige og gjestene viser slette manerer. Av Bertolt Brecht.",
+  "longDescription": "Satire av Bertolt Brecht.\nOversatt av Inger Hagerup.\nInstruktør Kurt-Olof Sundström.\nBryllupsfest hos småborgerne.  Det unge brudeparet har snekret møbler\nselv, som knekker når folk setter seg på dem.  Middagen forløper dårlig,\nmed platte viser, historier, taler og slette manerer.  Brudgommens venn\nlegger an på hans kone, folk ryker i tottene på hverandre og\nfornærmelsene blomstrer.\nSkuespillere :\nRagnhild MICHELSEN ... Moren         Svein MOEN ......... Brudgommen\nGisle STRAUME ........ Faren         Nils Ove OFTEBRO ... Den unge mannen\nTone SCHWARZOTT ...... Bruden        Eva von HANNO ...... Søsteren\nAnne-Mari DALE ....... Kvinnen\nRoy BJØRNSTAD ........ Mannen\nPer CHRISTENSEN ...... Vennen\n(Reprise 19740514).",
+  "image": {
+    "imageInfo": {
+      "id": "tBiozguZoV71Xi27DaxOQA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09339201,
+        "width": 1.0,
+        "height": 0.73089397
+      }
+    },
+    "imageWidthCropInfo": "tBiozguZoV71Xi27DaxOQA?x=0.00000000000000000&y=0.09339200949367090&w=1.00000000000000000&h=0.73089398734177210",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/tBiozguZoV71Xi27DaxOQAJeBJYDkXG8IFCjRtsXHoKw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tBiozguZoV71Xi27DaxOQAgpK7VE9ENnQFCjRtsXHoKw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tBiozguZoV71Xi27DaxOQArYpOp1iQqtYFCjRtsXHoKw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tBiozguZoV71Xi27DaxOQACG-u2WyUYZ8FCjRtsXHoKw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(3452400000+0100)/",
+    "actualTransmissionDate": "/Date(3452400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(3452400000+0100)/",
+    "actualTransmissionDate": "/Date(3452400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428551700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007169&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT49M47S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007169&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007169&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007169&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007169&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA007169-AR-199001005"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-02-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA007169-AR-199001005",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

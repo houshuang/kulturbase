@@ -1,0 +1,280 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001566"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66002566"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001566",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "06.09.1966",
+  "episodeTitle": "New York-idyller",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66001566",
+  "title": "New York-idyller",
+  "originalTitle": "New York-idyller",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "New York-idyller"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "New York-idyller"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "New York-idyller"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "New York-idyller"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "New York-idyller"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H29M26.96S",
+  "shortDescription": "Av J.P. Donleavy. Stykket består av episoder som hver for seg er avsluttede skisser fra livet i gigantbyen.",
+  "longDescription": "Av den amerikanske forfatteren J.P. Donleavy.\nDekor:  Christian Egemar.  Instruktør: Magne Bleness.\nStykket består av episoder som hver for seg er avsluttede skisser fra livet i\ngigantbyen.  Skissene bindes sammen ved å ha New York-tilværelsen som samlende\nmotiv, men også ved en gjennomgangsfigur, herr Christian.\nEpisodene: Helen.  Om å søke jobb.  Knock-out.  De ferskenfargede sko.\nDe som er med:\n1. skuespiller ............... Espen SKJØNBERG\n2. skuespiller ............... Lasse KOLSTAD\n3. skuespiller ............... Svere HANSEN\nSkuespillerinnen ............. Bab CHRISTENSEN\n(Reprise: 19680521).",
+  "image": {
+    "imageInfo": {
+      "id": "hpvC7Q4KuKzbF_B4QnDu8g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.04865155,
+        "width": 1.0,
+        "height": 0.7305195
+      }
+    },
+    "imageWidthCropInfo": "hpvC7Q4KuKzbF_B4QnDu8g?x=0.00000000000000000&y=0.04865155000000000&w=1.00000000000000000&h=0.73051948100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/hpvC7Q4KuKzbF_B4QnDu8gC_y2Wr1WwMoBjXbDZgZgGw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hpvC7Q4KuKzbF_B4QnDu8grJtoYGTCNFEBjXbDZgZgGw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hpvC7Q4KuKzbF_B4QnDu8g1AqD8dCNLewBjXbDZgZgGw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hpvC7Q4KuKzbF_B4QnDu8gAygT5u4gid0BjXbDZgZgGw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "a fairy tale of new york",
+    "fjernsynsteater",
+    "teater",
+    "dramatisert",
+    "j.p. donleavy",
+    "skuespill",
+    "begrafelse",
+    "begravelsesbyrå",
+    "ektemann",
+    "kiste",
+    "kone",
+    "død"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "a fairy tale of new york",
+    "fjernsynsteater",
+    "teater",
+    "dramatisert",
+    "j.p. donleavy",
+    "skuespill",
+    "begrafelse",
+    "begravelsesbyrå",
+    "ektemann",
+    "kiste",
+    "kone",
+    "død"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-104810400000+0200)/",
+    "actualTransmissionDate": "/Date(-104810400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-104810400000+0200)/",
+    "actualTransmissionDate": "/Date(-104810400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1396410900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001566&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H29M27S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001566&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001566&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001566&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001566&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66001566-AR-199318081"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-09-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66001566-AR-199318081",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

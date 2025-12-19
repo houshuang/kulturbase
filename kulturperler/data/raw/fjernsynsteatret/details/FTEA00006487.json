@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006487"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00007988"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006487",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60032",
+  "seasonNumber": "1988",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "10.05.1988",
+  "episodeTitle": "Spel utan ord",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 11,
+  "startNextEpisode": 10,
+  "id": "FTEA00006487",
+  "title": "Spel utan ord",
+  "originalTitle": "Spel utan ord",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Spel utan ord"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Spel utan ord"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Spel utan ord  (Spill uten ord)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Spel utan ord"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT23M4.96S",
+  "shortDescription": "Av Samuel Beckett. Med Tom Tellefsen. Stykket er produsert i samarbeid med Det Norske Teatret.",
+  "longDescription": "Av Samuel Beckett.\nInstruktør og scenograf:  Bjørn Endreson.\nStykket er produsert i samarbeid med Det Norske Teatret.\nMed:  Tom TELLEFSEN.",
+  "image": {
+    "imageInfo": {
+      "id": "5uwMpfR1t-aDo1_hmMTzWA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "5uwMpfR1t-aDo1_hmMTzWA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5uwMpfR1t-aDo1_hmMTzWAbvnY9Wo4QkzFd0Gkxy2fJg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5uwMpfR1t-aDo1_hmMTzWAoCoCo1HfCQrFd0Gkxy2fJg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5uwMpfR1t-aDo1_hmMTzWAaR37qF_hjtrFd0Gkxy2fJg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5uwMpfR1t-aDo1_hmMTzWA61WydD123YDFd0Gkxy2fJg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(579218400000+0200)/",
+    "actualTransmissionDate": "/Date(579218400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(579218400000+0200)/",
+    "actualTransmissionDate": "/Date(579218400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006487&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT23M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006487&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006487&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006487&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006487&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006487-AR-199305268"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-05-1988",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006487-AR-199305268",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1987
+}

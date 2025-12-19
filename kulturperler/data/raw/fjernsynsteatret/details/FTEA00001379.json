@@ -1,0 +1,251 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001379"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001279"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001379",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60024",
+  "seasonNumber": "1980",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "01.01.1980",
+  "episodeTitle": "Soloppgang i Riga",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001379",
+  "title": "Soloppgang i Riga",
+  "originalTitle": "Soloppgang i Riga",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Soloppgang i Riga"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Soloppgang i Riga"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Soloppgang i Riga"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Soloppgang i Riga"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Superduo i suksesstykke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Soloppgang i Riga"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H31M41.48S",
+  "shortDescription": "En komedie om møtet mellom to eldre mennesker, en lege og en pasient. Med Wenche Foss og Per Aabel. Av Aleksej Arbuzov.",
+  "longDescription": "",
+  "image": {
+    "imageInfo": {
+      "id": "9KhjOI9uWs1wDgJDlyj9ew",
+      "cropInfo": {
+        "x": 0.101214051,
+        "y": 0.132841244,
+        "width": 0.8789662,
+        "height": 0.596763432
+      }
+    },
+    "imageWidthCropInfo": "9KhjOI9uWs1wDgJDlyj9ew?x=0.10121405200000000&y=0.13284123700000000&w=0.87896618500000000&h=0.59676340300000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/9KhjOI9uWs1wDgJDlyj9ewq--rDY3GO7p2lqx3cwiguQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9KhjOI9uWs1wDgJDlyj9ewZz8pf7azGSh2lqx3cwiguQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9KhjOI9uWs1wDgJDlyj9ew7eLNw4afxBF2lqx3cwiguQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9KhjOI9uWs1wDgJDlyj9ewztWRs1xjhAN2lqx3cwiguQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "komedier",
+    "kuranstalter",
+    "flørting",
+    "forelskelse",
+    "kjærlighet"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "komedier",
+    "kuranstalter",
+    "flørting",
+    "forelskelse",
+    "kjærlighet"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Aabel",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(315529200000+0100)/",
+    "actualTransmissionDate": "/Date(315529200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(315529200000+0100)/",
+    "actualTransmissionDate": "/Date(315529200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391057700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Aabel",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001379&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H31M42S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001379&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001379&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001379&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001379&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "ftea001379-ar-199102050"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-01-1980",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "ftea001379-ar-199102050",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1979
+}

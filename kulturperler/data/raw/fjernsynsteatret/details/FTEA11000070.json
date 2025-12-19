@@ -1,0 +1,464 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA11000070"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001571"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea11000070",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "20.02.1972",
+  "episodeTitle": "Alberte",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA11000070",
+  "title": "Alberte",
+  "originalTitle": "Alberte",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 1:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 1:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ambisiøs miniserie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H16M27.96S",
+  "shortDescription": "Alberte Selmer er i Paris. Hun drømmer om å bli kunstner, men jobber foreløpig som modell. Alberte og venninnen Liesel treffer kunstnervenner på Paris' kaféer.",
+  "longDescription": "En film av Sverre Udnæs i samarbeid med Guy Krohg.\nEtter Cora Sandels roman \"Alberte og friheten\".\nMusikk: Alfred Janson.\nParis.  Alberte på undergrunnen, kler av seg i tankene.  A. hos\nkunstmaler hvor hun står nakenmodell.  A. på undergrunnen innimellom.  Kona\ntil maleren inn med te, besøk av mann.  Inngangsparti, duer flyr, A. ut av\ndøra.  Får betaling av maleren.  Eiffeltårnet, Seinen.  A. hos venninnen\nLiesel, drikker te, forteller at maleren skal reise.  Liesel som modell for\nskulptør.  Gatebilde med mye folk - venn av jentene kommer bortover.  Gammel\nmalerinne tømmer søppel.  Alberte ute i mørk gate.  På hotellet hvor hun bor.\nHotellvertinna klager over mus på rommet til A.\nAlberte på rommet sitt.  Mus i vaskevannsfatet.  Jean, en ansatt ved\nhotellet, inn og tar musa ut.  Intr. forskjellige hotell hun tenker tilbake\npå.  A. på gata den første tiden i Paris.  Bokhandlerdisk, lesesal i\nbibliotek.  Uterestaurant.  A. skriver på rommet sitt, mus på golvet.  A. går\ni mørk gate.  Liesel og A. på uterestaurant.  A. på grønnsaktorg, på benk ved\nkirke.  Fest med kunstnervenner.  Gate etter regn.  Festen fortsetter på\nrestaurant.  To menn følger Alberte hjem.\nSkuespillere :\nMonna TANDBERG ..... Alberte              Kari SIMONSEN ...... Liesel\nJon HEGGEDAL ....... Sivert Ness          Per MYRBERG ........ Eliel\nSossen KROHG ....... Mlle Wolochinska     Frits HELMUTH ...... Nils Veigård\nMichael LONSDALE ... Jean                 Francoise BERTIN ... Alphonsine\nJaqueline FOGT ..... Potter               Tatiana MOUKHINE ... Marusjka\nYvonne LOMBARD ..... Den svenske fruen    Åke LINDMAN ........ Kalen\nJean-Marie SERRAU .. Monsieur             Jaqueline DANE ..... Madame\nMartine de RICHE ... Mme Firmin           Armand MEFFRE ...... En russer\nJean ANDERSON ...... Mrs. Digby           Robin BAILEY ....... Mr. Digby\nTony THAWNTON ...... En gentleman         Joelle PICAUD....... Germaine",
+  "image": {
+    "imageInfo": {
+      "id": "KZJEbP-KDjqzlLVbgi27fQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.123312861,
+        "width": 1.0,
+        "height": 0.6726156
+      }
+    },
+    "imageWidthCropInfo": "KZJEbP-KDjqzlLVbgi27fQ?x=0.00000000000000000&y=0.12331286127167632&w=1.00000000000000000&h=0.67261560693641630",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQuNt-G53dRgWril9Sct2Zag",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQ7xvQPBppea2ril9Sct2Zag",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQq6ByeoczTG6ril9Sct2Zag",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQ7NQhRI3mvCWril9Sct2Zag",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Michael Lonsdale",
+      "role": "Skuespiller",
+      "givenName": "Michael",
+      "familyName": "Lonsdale"
+    },
+    {
+      "name": "Jacqueline Fogt",
+      "role": "Skuespiller",
+      "givenName": "Jacqueline",
+      "familyName": "Fogt"
+    },
+    {
+      "name": "Jean-Marie Serrau",
+      "role": "Skuespiller",
+      "givenName": "Jean-Marie",
+      "familyName": "Serrau"
+    },
+    {
+      "name": "Martine de Riche",
+      "role": "Skuespiller",
+      "givenName": "Martine de",
+      "familyName": "Riche"
+    },
+    {
+      "name": "Jean Anderson",
+      "role": "Skuespiller",
+      "givenName": "Jean",
+      "familyName": "Anderson"
+    },
+    {
+      "name": "Tony Thawnton",
+      "role": "Skuespiller",
+      "givenName": "Tony",
+      "familyName": "Thawnton"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Francoise Bertin",
+      "role": "Skuespiller",
+      "givenName": "Francoise",
+      "familyName": "Bertin"
+    },
+    {
+      "name": "Tatiana Moukhine",
+      "role": "Skuespiller",
+      "givenName": "Tatiana",
+      "familyName": "Moukhine"
+    },
+    {
+      "name": "Åke Lindman",
+      "role": "Skuespiller",
+      "givenName": "Åke",
+      "familyName": "Lindman"
+    },
+    {
+      "name": "Jacqueline Dane",
+      "role": "Skuespiller",
+      "givenName": "Jacqueline",
+      "familyName": "Dane"
+    },
+    {
+      "name": "Armand Meffre",
+      "role": "Skuespiller",
+      "givenName": "Armand",
+      "familyName": "Meffre"
+    },
+    {
+      "name": "Robin Bailey",
+      "role": "Skuespiller",
+      "givenName": "Robin",
+      "familyName": "Bailey"
+    },
+    {
+      "name": "Joelle Picaud",
+      "role": "Skuespiller",
+      "givenName": "Joelle",
+      "familyName": "Picaud"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(67388400000+0100)/",
+    "actualTransmissionDate": "/Date(67388400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(67388400000+0100)/",
+    "actualTransmissionDate": "/Date(67388400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1403754900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Michael Lonsdale",
+      "role": "Skuespiller",
+      "givenName": "Michael",
+      "familyName": "Lonsdale"
+    },
+    {
+      "name": "Jacqueline Fogt",
+      "role": "Skuespiller",
+      "givenName": "Jacqueline",
+      "familyName": "Fogt"
+    },
+    {
+      "name": "Jean-Marie Serrau",
+      "role": "Skuespiller",
+      "givenName": "Jean-Marie",
+      "familyName": "Serrau"
+    },
+    {
+      "name": "Martine de Riche",
+      "role": "Skuespiller",
+      "givenName": "Martine de",
+      "familyName": "Riche"
+    },
+    {
+      "name": "Jean Anderson",
+      "role": "Skuespiller",
+      "givenName": "Jean",
+      "familyName": "Anderson"
+    },
+    {
+      "name": "Tony Thawnton",
+      "role": "Skuespiller",
+      "givenName": "Tony",
+      "familyName": "Thawnton"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Francoise Bertin",
+      "role": "Skuespiller",
+      "givenName": "Francoise",
+      "familyName": "Bertin"
+    },
+    {
+      "name": "Tatiana Moukhine",
+      "role": "Skuespiller",
+      "givenName": "Tatiana",
+      "familyName": "Moukhine"
+    },
+    {
+      "name": "Åke Lindman",
+      "role": "Skuespiller",
+      "givenName": "Åke",
+      "familyName": "Lindman"
+    },
+    {
+      "name": "Jacqueline Dane",
+      "role": "Skuespiller",
+      "givenName": "Jacqueline",
+      "familyName": "Dane"
+    },
+    {
+      "name": "Armand Meffre",
+      "role": "Skuespiller",
+      "givenName": "Armand",
+      "familyName": "Meffre"
+    },
+    {
+      "name": "Robin Bailey",
+      "role": "Skuespiller",
+      "givenName": "Robin",
+      "familyName": "Bailey"
+    },
+    {
+      "name": "Joelle Picaud",
+      "role": "Skuespiller",
+      "givenName": "Joelle",
+      "familyName": "Picaud"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA11000070&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H16M28S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA11000070&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA11000070&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA11000070&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA11000070&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA110070-AR-199000998"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "20-02-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA110070-AR-199000998",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

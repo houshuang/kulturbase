@@ -1,0 +1,257 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000760"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA60000460"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000760",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "27.10.1960",
+  "episodeTitle": "Frøken Julie",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000760",
+  "title": "Frøken Julie",
+  "originalTitle": "Frøken Julie",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Frøken Julie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Frøken Julie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frøken Julie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frøken Julie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H17M11.08S",
+  "shortDescription": "Overklassekvinnen Julie lar seg forføre av den ambisiøse tjeneren Jean. Det utspiller seg en intens maktkamp mellom dem. Skuespill av August Strindberg.",
+  "longDescription": "Av August Stringberg.\n\nOversatt av Ellen Isefiær.\n\nInnledning ved Philip HOUM. 6'20\", (først på båndet).\n\nFilmopptak gjort på Fritzøehus i Larvik.\n\nEksteriøropptak gjort i solskinn og svak vind.\n\nFilminnledning:\n\nDiv. ekstr. bygningen, scener fra parken med skulptur. 1'29\".\n\nFilmavslutning:\n\nEkstr. Fritzøehus, hånd på gresset i parken, scene fra parken med stor gren av\n\nløvtre i forgrunnen. 1'53\".\n\nOverklassefrøkenen er betatt av tjeneren Jean, men etter at hun har latt seg\n\nforføre innser hun tragedien ved det hele og tar sitt eget liv.\n\nI rollene:\n\nFrøken Julie ............ Urda ARNEBERG\n\nJean .................... Arne LIE\n\nKristin ................. Ragnhild MICHELSEN",
+  "image": {
+    "imageInfo": {
+      "id": "bz0MWEtXvY-sxp2NKQNJZw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.133600309,
+        "width": 1.0,
+        "height": 0.7281553
+      }
+    },
+    "imageWidthCropInfo": "bz0MWEtXvY-sxp2NKQNJZw?x=0.00000000000000000&y=0.13360030600000000&w=1.00000000000000000&h=0.72815534000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/bz0MWEtXvY-sxp2NKQNJZwr0mR-uQ8_-pHiwbN9Vv29g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bz0MWEtXvY-sxp2NKQNJZwp6rwpitml1xHiwbN9Vv29g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bz0MWEtXvY-sxp2NKQNJZwfQOHaBBxFY1HiwbN9Vv29g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bz0MWEtXvY-sxp2NKQNJZwVMBsZMZM6JJHiwbN9Vv29g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "teater",
+    "skuespill",
+    "klasseskille"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "teater",
+    "skuespill",
+    "klasseskille"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Philip Houm",
+      "role": "Medvirkende",
+      "givenName": "Philip",
+      "familyName": "Houm"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-289706400000+0200)/",
+    "actualTransmissionDate": "/Date(-289706400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-289706400000+0200)/",
+    "actualTransmissionDate": "/Date(-289706400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1410407700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Philip Houm",
+      "role": "Medvirkende",
+      "givenName": "Philip",
+      "familyName": "Houm"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000760&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M11S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000760&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000760&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000760&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000760&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60000760-AR-199421263"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-10-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60000760-AR-199421263",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

@@ -1,0 +1,435 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP22000291"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006090"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp22000291",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60036",
+  "seasonNumber": "1992",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "09.03.1992",
+  "episodeTitle": "Kvitveistid",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 8,
+  "startNextEpisode": 10,
+  "id": "FDRP22000291",
+  "title": "Kvitveistid",
+  "originalTitle": "Kvitveistid",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kvitveistid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kvitveistid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kvitveistid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kvitveistid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H20M20.96S",
+  "shortDescription": "En gamle bryggesjauer er i sterkt opprør. Det har vært mange år med stri kamp for levebrødet, med kameratskap og fagforeningsjobb for sjauernes kår.",
+  "longDescription": "Av Erling Pedersen.\nMusikk: Henning Sommerro.\nScenograf: Petter Bjerke Lindstrøm.\nVi er hos den gamle bryggesjaueren Martin i huset han selv har bygd på et lite\nsmåbruk på Mørekysten.  Martin er i sterkt opprør.  Det har vært mange år med\nstri kamp for levebrødet, med kameratskap og fagforeningsjobb for sjauernes\nkår.  Hvor syns hans virksomhet i dag?  Feberdrømmer, kjærlighetsminner og\nvirkelighet vever seg i ett for ham til et bilde av en hel epoke i norsk\narbeidsliv.\nI rollene:  Martin Andreassen ........ Jack FJELDSTAD\n            Tor ...................... Erik HIVJU\n            Marius ................... Eindride EIDSVOLD\n            Martin som ung ........... Eindride EIDSVOLD\n            Ragna .................... Anne RYG\n            Doktor Fiskvik ........... Per GØRVELL\n            Eli-Anna ................. Anne KRIGSVOLL\n            Jørgensen ................ Joachim CALMEYER\n            Bertil ................... Nils Ole OFTEBRO\n            Ole Emmanuel ............. Sverre Anker OUSDAL\n            Peder .................... Sverre BENTZEN\n            Lars I ................... Ove Chr. OWE\n            Lars II .................. Johannes JONER\n            Bertil som ung ........... Geir KVARME\n            Ole Emmanuel som ung ..... Henrik MESTAD\n            Peder som ung ............ Øivin BERVEN\n            Jørgensen som ung ........ Nicolay LANGE-NIELSEN\n            Basen .................... Bjørn SUNDQUIST\n            Ung sjåfør ............... Svein TINDBERG\n            Kristian Olsen ........... Karl SUNDBY",
+  "image": {
+    "imageInfo": {
+      "id": "ANIaKMzu_VFD1Pqs0egP5g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.194666669,
+        "width": 1.0,
+        "height": 0.73
+      }
+    },
+    "imageWidthCropInfo": "ANIaKMzu_VFD1Pqs0egP5g?x=0.00000000000000000&y=0.19466666666666668&w=1.00000000000000000&h=0.73000000000000010",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ANIaKMzu_VFD1Pqs0egP5gmtReMFa254OIYxLNkF8owQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ANIaKMzu_VFD1Pqs0egP5g5NrPltslePiIYxLNkF8owQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ANIaKMzu_VFD1Pqs0egP5gvILYFkTK9zGIYxLNkF8owQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ANIaKMzu_VFD1Pqs0egP5gmqFEPMgnwUuIYxLNkF8owQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Ove Chr. Owe",
+      "role": "Skuespiller",
+      "givenName": "Ove Chr.",
+      "familyName": "Owe"
+    },
+    {
+      "name": "Nicolay Lange-Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Nicolay",
+      "familyName": "Lange-Nielsen"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Øivind Berven",
+      "role": "Skuespiller",
+      "givenName": "Øivind",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Eindride Eidsvold",
+      "role": "Skuespiller",
+      "givenName": "Eindride",
+      "familyName": "Eidsvold"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    },
+    {
+      "name": "Anne Krigsvoll",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Krigsvoll"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Geir Kvarme",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Kvarme"
+    },
+    {
+      "name": "Henrik Mestad",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Mestad"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(700095600000+0100)/",
+    "actualTransmissionDate": "/Date(700095600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(700095600000+0100)/",
+    "actualTransmissionDate": "/Date(700095600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423716900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Ove Chr. Owe",
+      "role": "Skuespiller",
+      "givenName": "Ove Chr.",
+      "familyName": "Owe"
+    },
+    {
+      "name": "Nicolay Lange-Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Nicolay",
+      "familyName": "Lange-Nielsen"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Øivind Berven",
+      "role": "Skuespiller",
+      "givenName": "Øivind",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Eindride Eidsvold",
+      "role": "Skuespiller",
+      "givenName": "Eindride",
+      "familyName": "Eidsvold"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    },
+    {
+      "name": "Anne Krigsvoll",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Krigsvoll"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Geir Kvarme",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Kvarme"
+    },
+    {
+      "name": "Henrik Mestad",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Mestad"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP22000291&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H20M21S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP22000291&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP22000291&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP22000291&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP22000291&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP220291-AR-199407435"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-03-1992",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP220291-AR-199407435",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1991
+}

@@ -1,0 +1,307 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01000280"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002579"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01000280",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60025",
+  "seasonNumber": "1981",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "06.01.1981",
+  "episodeTitle": "De spurte ikke meg",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA01000280",
+  "title": "De spurte ikke meg",
+  "originalTitle": "De spurte ikke meg",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De spurte ikke meg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De spurte ikke meg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De spurte ikke meg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De spurte ikke meg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT53M12.96S",
+  "shortDescription": "For at mannen skal få arbeid må et ektepar flytte fra landet til nærmeste by. Kvinnen ble aldri spurt hva hun vil. Etter en novelle av Sidsel Mørck.",
+  "longDescription": "Etter en novelle av Sidsel Mørck.  Manuskript og regi:  Erik Solbakken.\nMusikk: Gunnar Germeten jr.  Kostymer: Ellen Andreassen.\nScenografi:  Kari Parsli.\nFor at mannen skal få arbeid må et ektepar flytte fra landet inn til\nnærmeste by.  Filmen forteller hvordan kvinnen opplever denne forandrede\nlivssituasjonen.\nDe som er med:  Solveig ........ Torill ØYEN\n                Edgar .......... Per JANSEN\n                Lisa ........... Ane AAS\n                Lars ........... Marius KOLBENSTVEDT\n                Mormor ......... Ragnhild MICHELSEN\n                Morfar ......... Øyvind ØYEN\n                Lisbeth ........ Kirsten HOFSETH\n                Roar ........... Ståle BJØRNHAUG\n                Kari ........... Marie Louise TANK",
+  "image": {
+    "imageInfo": {
+      "id": "2XuTTjQP8dk9vDRWFamOnQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9982189
+      }
+    },
+    "imageWidthCropInfo": "2XuTTjQP8dk9vDRWFamOnQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99821891191709840",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/2XuTTjQP8dk9vDRWFamOnQ2_EpKMRNkr6BMneWDzvrQw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2XuTTjQP8dk9vDRWFamOnQi9SKwHWxUW2BMneWDzvrQw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2XuTTjQP8dk9vDRWFamOnQzyYNutTiCySBMneWDzvrQw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2XuTTjQP8dk9vDRWFamOnQlMaPLWKOb-iBMneWDzvrQw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Torill Øyen",
+      "role": "Skuespiller",
+      "givenName": "Torill",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Ane Aas",
+      "role": "Skuespiller",
+      "givenName": "Ane",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Marius Kolbenstvedt",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Kolbenstvedt"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(347583600000+0100)/",
+    "actualTransmissionDate": "/Date(347583600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(347583600000+0100)/",
+    "actualTransmissionDate": "/Date(347583600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Torill Øyen",
+      "role": "Skuespiller",
+      "givenName": "Torill",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Ane Aas",
+      "role": "Skuespiller",
+      "givenName": "Ane",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Marius Kolbenstvedt",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Kolbenstvedt"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000280&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT53M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000280&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000280&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000280&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000280&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA01000280AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-01-1981",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA01000280AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1980
+}

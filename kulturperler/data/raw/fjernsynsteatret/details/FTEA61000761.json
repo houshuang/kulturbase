@@ -1,0 +1,293 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61000761"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61000561"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61000761",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "24.08.1961",
+  "episodeTitle": "Avskjedsgaven",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61000761",
+  "title": "Avskjedsgaven",
+  "originalTitle": "Avskjedsgaven",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Avskjedsgaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Avskjedsgaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Avskjedsgaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Avskjedsgaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H17M55.92S",
+  "shortDescription": "En psykologisk skildring av en lærer som fikk feil lodd i livet, både når det gjelder yrket og ekteskapet. Av Terence Rattigan.",
+  "longDescription": "Av den engelske forfatteren Terence Rattigan.\nOriginaltittel: The Brownig Version.\nOversatt av Haakon Bjørn-Hansen.\nRegiteknisk konsulent: Tore Breda Thoresen.\nFra et engelsk skolemiljø.  Læreren Crocker-Harris må begynne i en mindre\nkrevende jobb pga. sykdom.  Får ikke den pensjonen han håpet på.  En gave fra\nen av elevene.\nI rollene:\nAndrew Crocker-Harris ................ Eilif ARMAND\nMillie Crocker-Harris ................ Bab CHRISTENSEN\nFrank Hunter ......................... Odd BORG\nJohn Taplow .......................... Kai REMLOV\nDr. Frobischer ....................... Per GJERSØE\nPeter Gilbert ........................ Roy BJØRNSTAD\nFru Gilbert .......................... Gudrun WAADELAND",
+  "image": {
+    "imageInfo": {
+      "id": "UUChoK-6gaRZ18mk_B144w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.105255678,
+        "width": 1.0,
+        "height": 0.729572
+      }
+    },
+    "imageWidthCropInfo": "UUChoK-6gaRZ18mk_B144w?x=0.00000000000000000&y=0.10525567500000000&w=1.00000000000000000&h=0.72957198400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/UUChoK-6gaRZ18mk_B144wGc0ynMUxiL8hf9gnUnDA4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UUChoK-6gaRZ18mk_B144wocLx1Wj11uYhf9gnUnDA4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UUChoK-6gaRZ18mk_B144wQ7NKXmA6qWMhf9gnUnDA4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UUChoK-6gaRZ18mk_B144wHIxxF_cZppohf9gnUnDA4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "enakter"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "enakter"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Odd Borg",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-263700000000+0200)/",
+    "actualTransmissionDate": "/Date(-263700000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-263700000000+0200)/",
+    "actualTransmissionDate": "/Date(-263700000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Odd Borg",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000761&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M56S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000761&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000761&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000761&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000761&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61000761-AR-199416173"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-08-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61000761-AR-199416173",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

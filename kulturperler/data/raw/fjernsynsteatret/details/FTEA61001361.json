@@ -1,0 +1,387 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61001361"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61001161"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61001361",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "13.04.1961",
+  "episodeTitle": "Går ut i kveld",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61001361",
+  "title": "Går ut i kveld",
+  "originalTitle": "Går ut i kveld",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Går ut i kveld"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Går ut i kveld"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Går ut i kveld"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Går ut i kveld"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT51M40.96S",
+  "shortDescription": "En ung mann prøver å frigjøre seg fra sin mors \"kjærlighetstyrrani\". Når han blir ertet og uskyldig anklaget brister nervene hans.",
+  "longDescription": "Av den engelske forfatteren Harold Pinter.\nOriginaltittel: A Night Out.\nOversatt av Arne Skouen.\nDekor: Olav Ile.\nInstruktør: Palle Kjærulff-Schmidt.\nMrs. Stokes er en svært dominerende mor som sannsynligvis kommer til å drive\nsin sønn Albert til vanvidd.\nI rollene:\nAlbert Stokes ..................... Arle MERTON\nMrs. Stokes ....................... Else HEIBERG\nSeeley ............................ Erik LASSEN\nKedge ............................. Sverre HOLM\nBartenderen i kaffebaren .......... Finn BERNHOFT\nGammel mann i kaffebaren .......... Harald AIMARSEN\nMr. King .......................... Henrik Anker STEEN\nMr. Ryan .......................... Nils HALD\nGidney ............................ Roy BJØRNSTAD\nJoyce ............................. Kari SIMONSEN\nEileen ............................ Gudrun WAADELAND\nBetty ............................. Ragnhild HIORTHØY\nPiken ............................. Elna Hallenberg NÆSS\nHorne ............................. Svein WICKSTRØM\nBarrow ............................ Bjørn SOTHBERG\n(Reprise: 19620222, 19640806).",
+  "image": {
+    "imageInfo": {
+      "id": "UYlD6_i-_ed7DxC_DRxUFA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.008169271,
+        "width": 1.0,
+        "height": 0.7281553
+      }
+    },
+    "imageWidthCropInfo": "UYlD6_i-_ed7DxC_DRxUFA?x=0.00000000000000000&y=0.00816927100000000&w=1.00000000000000000&h=0.72815534000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/UYlD6_i-_ed7DxC_DRxUFA_db3Pb89HKvfFleex-mmtQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UYlD6_i-_ed7DxC_DRxUFAAM6Z4w-T9HffFleex-mmtQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UYlD6_i-_ed7DxC_DRxUFA7XwNjmeLZ3LfFleex-mmtQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/UYlD6_i-_ed7DxC_DRxUFAHqbhEDMZf8DfFleex-mmtQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Elna Hallenberg Næss",
+      "role": "Skuespiller",
+      "givenName": "Elna Hallenberg",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Bjørn Sothberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sothberg"
+    },
+    {
+      "name": "Arle Merton",
+      "role": "Skuespiller",
+      "givenName": "Arle",
+      "familyName": "Merton"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Nils Hald",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Hald"
+    },
+    {
+      "name": "Ragnhild Hiorthøy",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hiorthøy"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-275191200000+0200)/",
+    "actualTransmissionDate": "/Date(-275191200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-275191200000+0200)/",
+    "actualTransmissionDate": "/Date(-275191200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Elna Hallenberg Næss",
+      "role": "Skuespiller",
+      "givenName": "Elna Hallenberg",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Bjørn Sothberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sothberg"
+    },
+    {
+      "name": "Arle Merton",
+      "role": "Skuespiller",
+      "givenName": "Arle",
+      "familyName": "Merton"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Nils Hald",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Hald"
+    },
+    {
+      "name": "Ragnhild Hiorthøy",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hiorthøy"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001361&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT51M41S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001361&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001361&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001361&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001361&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61001361-AR-199416137"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "13-04-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61001361-AR-199416137",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

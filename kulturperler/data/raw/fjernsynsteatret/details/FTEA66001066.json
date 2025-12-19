@@ -1,0 +1,267 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001066"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66000166"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001066",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "16.08.1966",
+  "episodeTitle": "Misforståelsen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66001066",
+  "title": "Misforståelsen",
+  "originalTitle": "Misforståelsen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Misforståelsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Misforståelsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Misforståelsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Misforståelsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H26M10.48S",
+  "shortDescription": "Skuespill av Albert Camus. En mann vender tilbake med sin kone og sitt barn etter 20 år. Hans mor og søster driver nå et pensjonat der de tar livet av rike gjester.",
+  "longDescription": "Av den franske forfatteren Albert Camus.\nDekor: Gunnar Alme.\nBearbeidet, oversatt og instruert av Jan Bull.\nStykket viser forfatterens tanker om den meningsløse verden og den enkeltes\nforsøk på å skape sitt eget innhold.\nEn eldre dame og hennes datter driver et pensjonat der de tar livet av rike\ngjester.  Sønnen dukker opp etter 20 år, men gjenkjennes ikke.\nDe som er med:\nMoren ................ Else HEIBERG\nMartha ............... Henny MOAN\nMaria ................ Thea STABELL\nJan .................. Arne AAS\nDen gamle tjeneren ... Finn MEHLUM",
+  "image": {
+    "imageInfo": {
+      "id": "P0OrxuACD5RrSDq0s-ZJvg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.144031525,
+        "width": 1.0,
+        "height": 0.5636017
+      }
+    },
+    "imageWidthCropInfo": "P0OrxuACD5RrSDq0s-ZJvg?x=0.00000000000000000&y=0.14403153153153156&w=1.00000000000000000&h=0.56360164512338430",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/P0OrxuACD5RrSDq0s-ZJvgbcr2e1zi5pDBR0K8o2RUNA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P0OrxuACD5RrSDq0s-ZJvgGqaNyFvwUh_BR0K8o2RUNA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P0OrxuACD5RrSDq0s-ZJvgfeYmAyFUcVTBR0K8o2RUNA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P0OrxuACD5RrSDq0s-ZJvgZk9hBLz7nUrBR0K8o2RUNA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Thea Stabell",
+      "role": "Skuespiller",
+      "givenName": "Thea",
+      "familyName": "Stabell"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-106624800000+0200)/",
+    "actualTransmissionDate": "/Date(-106624800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-106624800000+0200)/",
+    "actualTransmissionDate": "/Date(-106624800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1426568100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Thea Stabell",
+      "role": "Skuespiller",
+      "givenName": "Thea",
+      "familyName": "Stabell"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001066&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H26M11S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001066&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001066&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001066&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001066&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66001066-AR-199316253"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-08-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66001066-AR-199316253",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

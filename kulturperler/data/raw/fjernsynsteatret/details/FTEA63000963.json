@@ -1,0 +1,279 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63000963"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63000263"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63000963",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "28.11.1963",
+  "episodeTitle": "Kolleksjonen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63000963",
+  "title": "Kolleksjonen",
+  "originalTitle": "Kolleksjonen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kolleksjonen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kolleksjonen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kolleksjonen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kolleksjonen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H2M30.44S",
+  "shortDescription": "Handlingen foregår blant motetegnere og eiere av en liten eksklusiv kjolesalong. Tema er sjalusi. Av den engelske dramatikeren Harold Pinter.",
+  "longDescription": "Av den engelske dramatikeren Harold Pinter.  Stykket er skrevet for fjernsyn.\nOversatt av Finn Havrevold.\nDekor:  Gunnar Alme.\nInstruktør: Pål Løkkeberg.\nHandlingen foregår blant motetegnere og eiere av en liten eksklusiv\nkjolesalong.  Tema er sjalusi.\nFilminnslag:\nGate i Chelsea, England - trafikk og folk i gaten, biltrafikk mot kamera.\nI rollene:\nStella, en kvinne i 30-årene ............. Henny MOAN\nHarry, en mann i 40-årene ................ Arne LIE\nJames, en mann i 30-årene ................ Tor STOKKE\nBill, en mann i 20-årene ................. Tom TELLEFSEN\nAssistenten .............................. Ragnhild MICHELSEN\nDrosjesjåføren ........................... Carsten BYHRING\n(Reprise: 19670425).",
+  "image": {
+    "imageInfo": {
+      "id": "nkttP0POXwZqwrZjUdx51A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.160067365,
+        "width": 1.0,
+        "height": 0.554079354
+      }
+    },
+    "imageWidthCropInfo": "nkttP0POXwZqwrZjUdx51A?x=0.00000000000000000&y=0.16006736526946108&w=1.00000000000000000&h=0.55407934131736520",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/nkttP0POXwZqwrZjUdx51Ajb9UaZOco59R63AHVxYj0Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nkttP0POXwZqwrZjUdx51ACnKd2KrGtYpR63AHVxYj0Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nkttP0POXwZqwrZjUdx51AXaZ6kTVvE71R63AHVxYj0Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nkttP0POXwZqwrZjUdx51AVszUTIofdGFR63AHVxYj0Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-192330000000+0100)/",
+    "actualTransmissionDate": "/Date(-192330000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-192330000000+0100)/",
+    "actualTransmissionDate": "/Date(-192330000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423630500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000963&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H2M30S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000963&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000963&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000963&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000963&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63000963-AR-199416083"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "28-11-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63000963-AR-199416083",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

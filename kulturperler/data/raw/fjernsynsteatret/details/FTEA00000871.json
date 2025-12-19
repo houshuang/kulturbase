@@ -1,0 +1,235 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000871"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001071"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000871",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60015",
+  "seasonNumber": "1971",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "26.10.1971",
+  "episodeTitle": "Tidene skifter",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 12,
+  "startNextEpisode": 10,
+  "id": "FTEA00000871",
+  "title": "Tidene skifter",
+  "originalTitle": "Tidene skifter",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tidene skifter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tidene skifter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tidene skifter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tidene skifter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT50M31.04S",
+  "shortDescription": "Tekster av Bertolt Brecht i utvalg ved og framført av Katja Medbøe, Klaus Hagerup og Kyrre Haugen Bakke.",
+  "longDescription": "En Brecht-kabaret.\nTekster av Bertolt Brecht i utvalg ved og framført av:\nKatja MEDBØE, Klaus HAGERUP og Kyrre Haugen BAKKE.\nOversatt av Jens Bjørneboe, Georg Johannessen og Klaus Hagerup.\nMusikk: Kurt Weill, Hanns Eisler og Bertolt Brecht.\nMusikalsk ledelse: Roy Hellvin.\nIkkj - hvilke sanger / tekster hører vi?",
+  "image": {
+    "imageInfo": {
+      "id": "WRo2QnC8zuWYROBQJpKMXQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.124039941,
+        "width": 1.0,
+        "height": 0.558179736
+      }
+    },
+    "imageWidthCropInfo": "WRo2QnC8zuWYROBQJpKMXQ?x=0.00000000000000000&y=0.12403993855606758&w=1.00000000000000000&h=0.55817972350230420",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/WRo2QnC8zuWYROBQJpKMXQEvmdntCctaiSVicvQYcg0g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WRo2QnC8zuWYROBQJpKMXQpKohdwbw_vWSVicvQYcg0g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WRo2QnC8zuWYROBQJpKMXQ-gD-ILKlCbqSVicvQYcg0g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WRo2QnC8zuWYROBQJpKMXQ9VXZfY7uHUmSVicvQYcg0g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Katja Medbøe",
+      "role": "Artist/Utøver",
+      "givenName": "Katja",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Klaus Hagerup",
+      "role": "Artist/Utøver",
+      "givenName": "Klaus",
+      "familyName": "Hagerup"
+    },
+    {
+      "name": "Kyrre Haugen Bakke",
+      "role": "Artist/Utøver",
+      "givenName": "Kyrre Haugen",
+      "familyName": "Bakke"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(57276000000+0200)/",
+    "actualTransmissionDate": "/Date(57276000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(57276000000+0200)/",
+    "actualTransmissionDate": "/Date(57276000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Katja Medbøe",
+      "role": "Artist/Utøver",
+      "givenName": "Katja",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Klaus Hagerup",
+      "role": "Artist/Utøver",
+      "givenName": "Klaus",
+      "familyName": "Hagerup"
+    },
+    {
+      "name": "Kyrre Haugen Bakke",
+      "role": "Artist/Utøver",
+      "givenName": "Kyrre Haugen",
+      "familyName": "Bakke"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000871&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT50M31S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000871&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000871&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000871&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000871&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000871-AR-199311505"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-10-1971",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000871-AR-199311505",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1971
+}

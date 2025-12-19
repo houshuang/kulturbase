@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003084"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006585"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003084",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "11.06.1985",
+  "episodeTitle": "Benken",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00003084",
+  "title": "Benken",
+  "originalTitle": "Benken",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Benken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Benken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Benken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Benken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H6M19.96S",
+  "shortDescription": "På en parkbenk styrker to alkoholikere seg til møtet med en ny dag. Så dukker Erik opp, en mann fra et tilsynelatende helt annet samfunnssjikt.",
+  "longDescription": "Av Roland Janson.\nOversatt av Kjell Askildsen.\nInnhold : Handlingen foregår i en morgenstund på en parkbenk der to nedkjørte\nalkoholikere styrker seg til møtet med en ny dag.\nMedv.:  Biggen.............. Joachim CALMEYER\n        Johnny.............. Stig Ryste AMDAM\n        Erik................ Sigmund SÆVERUD",
+  "image": {
+    "imageInfo": {
+      "id": "hJOTucJO4V_lWvFs0cBcSw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.156521738,
+        "width": 1.0,
+        "height": 0.722408056
+      }
+    },
+    "imageWidthCropInfo": "hJOTucJO4V_lWvFs0cBcSw?x=0.00000000000000000&y=0.15652173913043477&w=1.00000000000000000&h=0.72240802675585280",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/hJOTucJO4V_lWvFs0cBcSw-W7N8UmHmtyhNEDHuRfMTg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hJOTucJO4V_lWvFs0cBcSwocKK3FBKd3uhNEDHuRfMTg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hJOTucJO4V_lWvFs0cBcSweIS_PWpcZ26hNEDHuRfMTg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hJOTucJO4V_lWvFs0cBcSwhr0YMIIkwf2hNEDHuRfMTg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Stig Ryste Amdam",
+      "role": "Skuespiller",
+      "givenName": "Stig Ryste",
+      "familyName": "Amdam"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Sigmund Sæverud",
+      "role": "Skuespiller",
+      "givenName": "Sigmund",
+      "familyName": "Sæverud"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(487288800000+0200)/",
+    "actualTransmissionDate": "/Date(487288800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(487288800000+0200)/",
+    "actualTransmissionDate": "/Date(487288800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427860500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Stig Ryste Amdam",
+      "role": "Skuespiller",
+      "givenName": "Stig Ryste",
+      "familyName": "Amdam"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Sigmund Sæverud",
+      "role": "Skuespiller",
+      "givenName": "Sigmund",
+      "familyName": "Sæverud"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003084&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003084&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003084&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003084&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003084&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "ftea003084-ar-199061603"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-06-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "ftea003084-ar-199061603",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1984
+}

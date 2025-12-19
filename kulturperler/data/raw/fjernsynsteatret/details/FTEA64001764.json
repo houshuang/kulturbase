@@ -1,0 +1,399 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64001764"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64002264"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64001764",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "17.11.1964",
+  "episodeTitle": "Woyzeck",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64001764",
+  "title": "Woyzeck",
+  "originalTitle": "Woyzeck",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Woyzeck"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Woyzeck"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Woyzeck"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Woyzeck"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H10M5.52S",
+  "shortDescription": "Soldaten Woyzeck behandles av alle rundt seg. Så sviker til og med kjæresten sviker ham. Hva kan en håpløs livssituasjon få et menneske til å gjøre?",
+  "longDescription": "Av den tyske dramatikeren Georg Büchner.\nOversatt av Odd Bang-Hansen.\nMusikk: Gunnar Sønstevold.\nDekor: Christian Egemar.  Kostymer: Kari Bjørg Ile.\nInstruktør: Knut Thomassen.\nAbsurd teater om soldaten Woyzeck som dreper sin kone, ludderet, i sjalusi.\nTil slutt dreper han seg selv.  Underveis blir han brukt som medisinsk\nforsøkskanin.\nI rollene:\nWoyzeck .................. Rolf SØDER\nMarie .................... Veslemøy HASLUND\nBestefar ................. Olafr HAVREVOLD\nKapteinen ................ Bjarne ANDERSEN\nDoktoren ................. Sverre HANSEN\nTamburmajoren ............ Tor STOKKE\nAndres ................... Johan SVERRE\nMargret .................. Bonne GAUGUIN\nUtroperen ................ Per GJERSØE\nKremmeren ................ Vegard HALL\nVerten ................... Amund RYDLAND\nFørste håndverker ........ Ottar WICKLUND\nAnnen håndverker ......... Finn BERNHOFT\nK??the .................... Gerd JØRGENSEN\nTullingen ................ Jon EIKEMO\nUnderoffiseren ........... Svein WICKSTRØM",
+  "image": {
+    "imageInfo": {
+      "id": "C94YHqlLo_96bMIrVG04rA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.143225148,
+        "width": 1.0,
+        "height": 0.5729006
+      }
+    },
+    "imageWidthCropInfo": "C94YHqlLo_96bMIrVG04rA?x=0.00000000000000000&y=0.14322515408320494&w=1.00000000000000000&h=0.57290061633281970",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/C94YHqlLo_96bMIrVG04rAcL10Q19poj_2qTUWAMW98Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/C94YHqlLo_96bMIrVG04rADP7E7TUGxRj2qTUWAMW98Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/C94YHqlLo_96bMIrVG04rARgOl7SwoXNT2qTUWAMW98Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/C94YHqlLo_96bMIrVG04rAM4CMVaA9oWb2qTUWAMW98Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Amund Rydland",
+      "role": "Skuespiller",
+      "givenName": "Amund",
+      "familyName": "Rydland"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Bonne Gaugin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gaugin"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Olafr Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Olafr",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Johan Sverre",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Sverre"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-161658000000+0100)/",
+    "actualTransmissionDate": "/Date(-161658000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-161658000000+0100)/",
+    "actualTransmissionDate": "/Date(-161658000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424235300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Amund Rydland",
+      "role": "Skuespiller",
+      "givenName": "Amund",
+      "familyName": "Rydland"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Bonne Gaugin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gaugin"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Olafr Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Olafr",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Johan Sverre",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Sverre"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001764&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H10M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001764&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001764&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001764&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001764&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64001764-AR-199412755"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-11-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64001764-AR-199412755",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

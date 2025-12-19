@@ -1,0 +1,216 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63000263"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63000263",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 19,
+  "episodeNumberOrDate": "26.12.1963",
+  "episodeTitle": "Tobakkens uheldige virkninger",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63000263",
+  "title": "Tobakkens uheldige virkninger",
+  "originalTitle": "Tobakkens uheldige virkninger",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tobakkens uheldige virkninger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tobakkens uheldige virkninger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tobakkens uheldige virkninger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tobakkens uheldige virkninger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT25M46.16S",
+  "shortDescription": "Den halvstuderte gamle Ivan Ivanovitch Njuchin skal holde foredrag om tobakkens skadevirkninger, men sporer av og forteller om sitt tragiske liv. Av Anton Tsjekov.",
+  "longDescription": "Av den russiske forfatteren Anton Tsjekov.\nOversatt av Pål Løkkeberg.\nDekor:  Bjørn Næss.\nInstruktør: Knut Thomassen.\nMonolog.  Den halvstuderte gamle Ivan Ivanovitch Njuchin skal holde foredrag om\ntobakkens skadevirkninger, men sporer av og forteller om sitt tragiske samliv\nmed kona, og sin egen tragikomiske skikkelse.\nI rollen:\nIvan Ivanovitch Njuchin ............ Sverre HANSEN\n(Reprise: 19661011).",
+  "image": {
+    "imageInfo": {
+      "id": "ZPO_3a8j7GbxuQqGsgFOFw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.246796876,
+        "width": 1.0,
+        "height": 0.5484375
+      }
+    },
+    "imageWidthCropInfo": "ZPO_3a8j7GbxuQqGsgFOFw?x=0.00000000000000000&y=0.24679687499999997&w=1.00000000000000000&h=0.54843749999999990",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ZPO_3a8j7GbxuQqGsgFOFwig1-8otpvUrYwiOeOxf16g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZPO_3a8j7GbxuQqGsgFOFwYKUdw864tTfYwiOeOxf16g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZPO_3a8j7GbxuQqGsgFOFwERyM_h2ujdbYwiOeOxf16g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZPO_3a8j7GbxuQqGsgFOFwWjj4EpYLsKrYwiOeOxf16g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-189910800000+0100)/",
+    "actualTransmissionDate": "/Date(-189910800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-189910800000+0100)/",
+    "actualTransmissionDate": "/Date(-189910800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423630500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000263&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT25M46S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000263&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000263&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000263&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000263&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63000263-AR-199416085"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-12-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63000263-AR-199416085",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

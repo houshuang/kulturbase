@@ -1,0 +1,263 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003468"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00004968"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003468",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "29.10.1968",
+  "episodeTitle": "I fjelldalens skugge",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00003468",
+  "title": "I fjelldalens skugge",
+  "originalTitle": "I fjelldalens skugge",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "I fjelldalens skugge"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "I fjelldalens skugge"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I fjelldalens skugge"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I fjelldalens skugge"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT35M40.96S",
+  "shortDescription": "På en øde fjellgård bor ekteparet Nora og Dan. Nora lengter bort, mens Dan er sjalu og tradisjonsbundet. En mørk uværsnatt banker en fremmed på døren.",
+  "longDescription": "Av John M. Synge.\nTil norsk ved Arnljot Eggen.\nEktepar langt oppe i en fjelldal.  Hater hverandre.  Uværsnatt.  Mannen\nhar lagt seg ned og later som han er død.  En fremmed mann kommer inn.\nEn annen kommer for å fri til \"enka\".  Den \"døde\" mannen opp i raseri\nog kaster kjerringa på dør.  Fremmedkaren tar henne med og lover en bedre\nverden.  Ektemannen og frieren i stua - drikker brennevin.  Om\nensomhet, hat, fattigdom, overtro....\nSkuespillere:\nNora Burke ....... Ingebjørg SEM\nDan Burke ........ Sverre HANSEN\nEin loffar ....... Harald Heide STEEN\nMichael Dara ..... Tom TELLEFSEN",
+  "image": {
+    "imageInfo": {
+      "id": "-4X-8nRSoR6N4mUrps3flQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.08334131,
+        "width": 1.0,
+        "height": 0.555608749
+      }
+    },
+    "imageWidthCropInfo": "-4X-8nRSoR6N4mUrps3flQ?x=0.00000000000000000&y=0.08334130934150076&w=1.00000000000000000&h=0.55560872894333850",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/-4X-8nRSoR6N4mUrps3flQwI6Frt9V5Y2717HjhdZ2EA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-4X-8nRSoR6N4mUrps3flQzGDZaOORKPK717HjhdZ2EA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-4X-8nRSoR6N4mUrps3flQHmwg21k6k-i717HjhdZ2EA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-4X-8nRSoR6N4mUrps3flQ0oLGw-IN_J6717HjhdZ2EA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "ensomhet",
+    "fattigdom",
+    "hat",
+    "overtro"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "ensomhet",
+    "fattigdom",
+    "hat",
+    "overtro"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-37069200000+0100)/",
+    "actualTransmissionDate": "/Date(-37069200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-37069200000+0100)/",
+    "actualTransmissionDate": "/Date(-37069200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003468&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT35M41S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003468&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003468&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003468&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003468&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003468-199001183-ST"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-10-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003468-199001183-ST",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

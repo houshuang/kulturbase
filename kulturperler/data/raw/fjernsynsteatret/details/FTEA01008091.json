@@ -1,0 +1,311 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01008091"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006190"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01008091",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60035",
+  "seasonNumber": "1991",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "17.05.1991",
+  "episodeTitle": "Roser i ørkenen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA01008091",
+  "title": "Roser i ørkenen",
+  "originalTitle": "Roser i ørkenen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Roser i ørkenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Roser i ørkenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Roser i ørkenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Roser i ørkenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H35M4.92S",
+  "shortDescription": "Et stykke om Henrik Wergeland og hans siste tid på sykeleie. Av Barthold Halle. Originalmusikk: Arne Nordheim.",
+  "longDescription": "Et stykke om Henrik Wergeland, skrevet og instruert av Barthold Halle.\nEn sceneoverføring fra Centralteatret i Oslo (forestillingen gikk opprinnelig\npå Oslo Nye Teater).\nStykket handler om Wergelands siste tid på sykeleie.\nI rollen som Henrik Wergeland: Ingar Helge GIMLE.\nEllers medvirker:  Nils VOGT, Trine SVENDSEN, Petronella BARKER, Helle HAUGEN,\nPer LILLO-STENBERG, Serre SOLBERG og Gard ØYEN.",
+  "image": {
+    "imageInfo": {
+      "id": "I7u2vLqepuNu7_9HuYjr6g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9988724
+      }
+    },
+    "imageWidthCropInfo": "I7u2vLqepuNu7_9HuYjr6g?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99887242268041230",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/I7u2vLqepuNu7_9HuYjr6g1brr2La1z9hkJofr9D62ZQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I7u2vLqepuNu7_9HuYjr6gQREPPRh7dd9kJofr9D62ZQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I7u2vLqepuNu7_9HuYjr6gk7WzrOSjfrxkJofr9D62ZQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I7u2vLqepuNu7_9HuYjr6gZg6Eaztv0bpkJofr9D62ZQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "Centralteatret",
+    "teaterstykke",
+    "drama",
+    "skuespill",
+    "henrik wergeland"
+  ],
+  "mentionedList": [
+    "Henrik Wergeland"
+  ],
+  "programAndIndexPointsSubjectList": [
+    "Centralteatret",
+    "teaterstykke",
+    "drama",
+    "skuespill",
+    "henrik wergeland"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ingar Helge Gimle",
+      "role": "Skuespiller",
+      "givenName": "Ingar Helge",
+      "familyName": "Gimle"
+    },
+    {
+      "name": "Nils Vogt",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Vogt"
+    },
+    {
+      "name": "Trine Svensen",
+      "role": "Skuespiller",
+      "givenName": "Trine",
+      "familyName": "Svensen"
+    },
+    {
+      "name": "Petronella Barker",
+      "role": "Skuespiller",
+      "givenName": "Petronella",
+      "familyName": "Barker"
+    },
+    {
+      "name": "Helle Haugen",
+      "role": "Skuespiller",
+      "givenName": "Helle",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Sverre Solberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Solberg"
+    },
+    {
+      "name": "Gard Øyen",
+      "role": "Skuespiller",
+      "givenName": "Gard",
+      "familyName": "Øyen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [
+    "Henrik Wergeland"
+  ],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(674431200000+0200)/",
+    "actualTransmissionDate": "/Date(674431200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(674431200000+0200)/",
+    "actualTransmissionDate": "/Date(674431200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ingar Helge Gimle",
+      "role": "Skuespiller",
+      "givenName": "Ingar Helge",
+      "familyName": "Gimle"
+    },
+    {
+      "name": "Nils Vogt",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Vogt"
+    },
+    {
+      "name": "Trine Svensen",
+      "role": "Skuespiller",
+      "givenName": "Trine",
+      "familyName": "Svensen"
+    },
+    {
+      "name": "Petronella Barker",
+      "role": "Skuespiller",
+      "givenName": "Petronella",
+      "familyName": "Barker"
+    },
+    {
+      "name": "Helle Haugen",
+      "role": "Skuespiller",
+      "givenName": "Helle",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Sverre Solberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Solberg"
+    },
+    {
+      "name": "Gard Øyen",
+      "role": "Skuespiller",
+      "givenName": "Gard",
+      "familyName": "Øyen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01008091&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H35M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01008091&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01008091&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01008091&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01008091&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA018091-AR-199305379"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-05-1991",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA018091-AR-199305379",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1991
+}

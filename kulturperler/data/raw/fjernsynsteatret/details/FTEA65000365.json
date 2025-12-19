@@ -1,0 +1,319 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65000365"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64000664"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65000365",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "02.03.1965",
+  "episodeTitle": "Høyfeber",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65000365",
+  "title": "Høyfeber",
+  "originalTitle": "Høyfeber",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Høyfeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Høyfeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Høyfeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Høyfeber"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H36M4.52S",
+  "shortDescription": "Familien Bliss inviterer gjester, men fokuserer kun på seg selv. De intetanende besøkende dras inn i intriger, fornærmelser og romantiske forviklinger",
+  "longDescription": "Av Noel Coward.  Stykket er skrevet i 1925.\n\nOversatt av Mimi Omdahl.\n\nDekor: Per Schwab.  Instruktør: Jon Lennart Mjøen.\n\nKomedie om familien Bliss, fire meget selvbegeistrede hyklere som lever i\n\nfrisinnede forhold.  Hvert familiemedlem har invitert en kjæreste hjem for\n\nhelga.  Familien er mer opptatt av å underholde seg selv enn å vise gjestene\n\noppmerksomhet.  Intrigene og fornærmelsene yngler, man bygger kjærester inntil\n\nde fire gjestene finner hverandre og stikker av.\n\nI rollene:\n\nJudith Bliss .............. Lillebil IBSEN\n\nDavid Bliss ............... Tore FOSS\n\nSorel Bliss ............... Kari SIMONSEN\n\nSimon Bliss ............... Svein WICKSTRØM\n\nMyra Arundel .............. Ingerid VARDUND\n\nRichard Greatham .......... Tor STOKKE\n\nJackie Coryton ............ Thea STABELL\n\nSandy Tyrell .............. Per LILLO-STENBERG\n\nClara, hushjelp ........... Helga BACKE",
+  "image": {
+    "imageInfo": {
+      "id": "D3v8BJXi2rDPlZX8Uif-gg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.339565247,
+        "width": 1.0,
+        "height": 0.5555556
+      }
+    },
+    "imageWidthCropInfo": "D3v8BJXi2rDPlZX8Uif-gg?x=0.00000000000000000&y=0.33956525400000000&w=1.00000000000000000&h=0.55555555600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/D3v8BJXi2rDPlZX8Uif-ggKlp5A0h8Ua0MH6EafqFEaA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D3v8BJXi2rDPlZX8Uif-gg17qS9NnU7EoMH6EafqFEaA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D3v8BJXi2rDPlZX8Uif-ggLjNlJrDThB4MH6EafqFEaA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D3v8BJXi2rDPlZX8Uif-ggnqZvFNXbxBQMH6EafqFEaA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "lystspill",
+    "komedie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "lystspill",
+    "komedie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ingerid Vardund",
+      "role": "Skuespiller",
+      "givenName": "Ingerid",
+      "familyName": "Vardund"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Lillebil Ibsen",
+      "role": "Skuespiller",
+      "givenName": "Lillebil",
+      "familyName": "Ibsen"
+    },
+    {
+      "name": "Thea Stabell",
+      "role": "Skuespiller",
+      "givenName": "Thea",
+      "familyName": "Stabell"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-152586000000+0100)/",
+    "actualTransmissionDate": "/Date(-152586000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-152586000000+0100)/",
+    "actualTransmissionDate": "/Date(-152586000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424148900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ingerid Vardund",
+      "role": "Skuespiller",
+      "givenName": "Ingerid",
+      "familyName": "Vardund"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Svein Wickstrøm",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Wickstrøm"
+    },
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Lillebil Ibsen",
+      "role": "Skuespiller",
+      "givenName": "Lillebil",
+      "familyName": "Ibsen"
+    },
+    {
+      "name": "Thea Stabell",
+      "role": "Skuespiller",
+      "givenName": "Thea",
+      "familyName": "Stabell"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000365&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H36M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000365&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000365&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000365&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000365&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65000365-AR-199405136"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "02-03-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65000365-AR-199405136",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

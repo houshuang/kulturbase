@@ -1,0 +1,283 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001467"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001267"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001467",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "10.10.1967",
+  "episodeTitle": "Tango",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA00001467",
+  "title": "Tango",
+  "originalTitle": "Tango",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tango"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tango"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tango"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tango"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H27M54.96S",
+  "shortDescription": "Opprøreren Artur vil forandre og forbedre samfunnet, men har ikke noe å gjøre opprør mot i et normløst samfunn. Av Slawomir Mrozek.",
+  "longDescription": "Av den polske dramatikeren Slawomir Mrozek.\nOversatt av Hans Heiberg.\nDekor: Christian Egemar.\nInstruktør: Per Bronken.\nOpprøreren Artur vil forandre og forbedre samfunnet, men har ikke noe å gjøre\nopprør mot i et normløst samfunn etter at alle revolusjoner allerede er gjort.\nFor ham er bare vold, fascisme tilbake.  Han blir drept av tjeneren Edek,\nmassenes representant, men det betyr bare at fra nå av vil en annen form for\nvold råde.  Den ene politiske løsning ser ikke bedre ut enn den andre, og den\nkonservative overløper, Stomil, innretter seg nydelig etter omstendighetene, da\nhan danser ut i sin tango med den nye makthaveren, Edek.\nDe som er med:\nStomil, Arturs far ............. Bjarne ANDERSEN\nEleonora, Arthurs mor .......... Bab CHRISTENSEN\nArtur .......................... Arne AAS\nOnkel Eugen .................... Per GJERSØE\nMormor Eugenia ................. Helga BACKE\nKusine Ala ..................... Inger Lise WESTBY\nEdek ........................... Jon HEGGEDAL\n(Reprise: 19700217, 19820803).",
+  "image": {
+    "imageInfo": {
+      "id": "bOELhV_eDz9fZud84Gh4Uw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.687935531
+      }
+    },
+    "imageWidthCropInfo": "bOELhV_eDz9fZud84Gh4Uw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.68793554006968640",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/bOELhV_eDz9fZud84Gh4UwpepfsOVINXwBXDu-l_Slrg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bOELhV_eDz9fZud84Gh4Uw64h2PYcQ0W4BXDu-l_Slrg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bOELhV_eDz9fZud84Gh4UwukQQ59PcWUUBXDu-l_Slrg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bOELhV_eDz9fZud84Gh4UwjzG3olUEERIBXDu-l_Slrg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-70336800000+0200)/",
+    "actualTransmissionDate": "/Date(-70336800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-70336800000+0200)/",
+    "actualTransmissionDate": "/Date(-70336800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1441943700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001467&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H27M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001467&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001467&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001467&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001467&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001467-AR-199314104"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-10-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001467-AR-199314104",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1967
+}

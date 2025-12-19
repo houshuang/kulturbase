@@ -1,0 +1,445 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000782"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005083"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000782",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60028",
+  "seasonNumber": "1984",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "05.06.1984",
+  "episodeTitle": "Siste tog til påfuglland",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 12,
+  "startNextEpisode": 10,
+  "id": "FTEA00000782",
+  "title": "Siste tog til påfuglland",
+  "originalTitle": "Siste tog til påfuglland",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Siste tog til påfuglland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Siste tog til påfuglland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Siste tog til påfuglland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Siste tog til påfuglland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Spiller Larssen den yngre"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Siste tog til påfuglland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H36M32.92S",
+  "shortDescription": "En mann drar til en by hvor han var på ferie som ung. Han gjenopplever sin første forelskelse. Hun er død, og selv er han halvdød hva gjelder følelser.",
+  "longDescription": "Av Helge Hagerup.\nEn middelaldrende mann vender tilbake til den lille byen har var på ferie\ni som ung.\nDe som er med : Antonius Adamsen .............. Lars Andreas LARSSEN\n                Den unge mannen ............... Sven NORDIN\n                Maria ......................... Anne Marie OTTERSEN\n                Therese / Turid Gjertsvik ..... Liv OSA\n                Vårdal ........................ Gunnar OLRAM\n                Salvesen ...................... Kjell STORMOEN\n                Hotellverten .................. Per JANSEN\n                Ove Gjertsvik som eldre ....... Erik ØKSNES\n                Ove Gjertsvik som ung ......... Øyvind Bang BERVEN\n                Serveringsdame på fin\n                restaurant .................... Kjersti HOLMEN\n                Serveringsdame på\n                avholdskafe ................... Lella NILSSEN\n                Konduktør ..................... Nils VOGT\n                Full mann på hotell ........... Nils Ole OFTEBRO\n                Par på hotell ................. Jorunn KJELLSBY\n                                                Nils SLETTA\n                Kelner på hotell .............. Anders HATLO\n                En usigelig trist pianist ..... Henning SOMMERRO",
+  "image": {
+    "imageInfo": {
+      "id": "JuSBfE_jPNqWHQuidW1v2g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.04052673,
+        "width": 1.0,
+        "height": 0.729481161
+      }
+    },
+    "imageWidthCropInfo": "JuSBfE_jPNqWHQuidW1v2g?x=0.00000000000000000&y=0.04052672955974843&w=0.99999999999999980&h=0.72948113207547150",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/JuSBfE_jPNqWHQuidW1v2gg07Anuy8K5WrFWzpx8HNyw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JuSBfE_jPNqWHQuidW1v2g3dp2wHQgTK-rFWzpx8HNyw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JuSBfE_jPNqWHQuidW1v2gUjDd3UzMv1yrFWzpx8HNyw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JuSBfE_jPNqWHQuidW1v2gwl2__JdsKGCrFWzpx8HNyw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lella Nilssen",
+      "role": "Skuespiller",
+      "givenName": "Lella",
+      "familyName": "Nilssen"
+    },
+    {
+      "name": "Øyvin Bang Berven",
+      "role": "Skuespiller",
+      "givenName": "Øyvin Bang",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Liv Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Henning Sommerro",
+      "role": "Skuespiller",
+      "givenName": "Henning",
+      "familyName": "Sommerro"
+    },
+    {
+      "name": "Arne Berg",
+      "role": "Medvirkende",
+      "givenName": "Arne",
+      "familyName": "Berg"
+    },
+    {
+      "name": "Nils Vogt",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Vogt"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(455234400000+0200)/",
+    "actualTransmissionDate": "/Date(455234400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(455234400000+0200)/",
+    "actualTransmissionDate": "/Date(455234400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428465300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lella Nilssen",
+      "role": "Skuespiller",
+      "givenName": "Lella",
+      "familyName": "Nilssen"
+    },
+    {
+      "name": "Øyvin Bang Berven",
+      "role": "Skuespiller",
+      "givenName": "Øyvin Bang",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Liv Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Henning Sommerro",
+      "role": "Skuespiller",
+      "givenName": "Henning",
+      "familyName": "Sommerro"
+    },
+    {
+      "name": "Arne Berg",
+      "role": "Medvirkende",
+      "givenName": "Arne",
+      "familyName": "Berg"
+    },
+    {
+      "name": "Nils Vogt",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Vogt"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000782&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H36M32S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000782&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000782&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000782&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000782&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "ftea000782-ar-199056237"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "05-06-1984",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "ftea000782-ar-199056237",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1982
+}

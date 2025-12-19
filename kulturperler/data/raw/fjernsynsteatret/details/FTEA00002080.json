@@ -1,0 +1,255 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002080"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01000480"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002080",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60025",
+  "seasonNumber": "1981",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "24.03.1981",
+  "episodeTitle": "For lukte dører",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00002080",
+  "title": "For lukte dører",
+  "originalTitle": "For lukte dører",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "For lukte dører"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "For lukte dører"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "For lukte dører  (For lukkede dører)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "For lukte dører"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H31M44.96S",
+  "shortDescription": "To kvinner og en mann møtes i et rom, og skånselsløst ransaker de hverandres liv. De er hverandres torturister. Av Jean-Paul Sartre.",
+  "longDescription": "Av Jean-Paul Sartre.  Oversatt av Elisabeth Thams.  Musikk: Egil Kapstad.\nTo kvinner og en mann møtes i et rom, og skånselsløst ransaker de hverandres\nliv.\nDe som er med:  Ines .......... Tone DANIELSEN\n                Estelle ....... Marie Louise TANK\n                Garcin ........ Ståle BJØRNHAUG\n                Tjeneren ...... Kaare KROPPAN",
+  "image": {
+    "imageInfo": {
+      "id": "jQzYSfNIbmJX97GAaNqcxQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.999350667
+      }
+    },
+    "imageWidthCropInfo": "jQzYSfNIbmJX97GAaNqcxQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99935064935064930",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/jQzYSfNIbmJX97GAaNqcxQwpoAVUPrzNjx5aKkiFmxng",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/jQzYSfNIbmJX97GAaNqcxQ0v62G6y-z27x5aKkiFmxng",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/jQzYSfNIbmJX97GAaNqcxQin91uj5zYQDx5aKkiFmxng",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/jQzYSfNIbmJX97GAaNqcxQ1bePo8O9DuLx5aKkiFmxng",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(354236400000+0100)/",
+    "actualTransmissionDate": "/Date(354236400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(354236400000+0100)/",
+    "actualTransmissionDate": "/Date(354236400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002080&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H31M45S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002080&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002080&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002080&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002080&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002080-AR-199102890"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-03-1981",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002080-AR-199102890",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1980
+}

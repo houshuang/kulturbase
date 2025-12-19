@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002272"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000473"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002272",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "12.06.1973",
+  "episodeTitle": "Hvem vet?",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00002272",
+  "title": "Hvem vet?",
+  "originalTitle": "Hvem vet?",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Hvem vet?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Hvem vet?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hvem vet?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hvem vet?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT32M12.96S",
+  "shortDescription": "Emil og Agnete har funnet en måte å leve sammen på, men for ham er ikke hun den ene. En dag setter Agnete Emil på en prøve. Av Helge Krog.",
+  "longDescription": "Enakter av Helge Krog.\nDekorasjoner:  Sverre Andersen.\nStykket handler om Emil og Agnete.  De har funnet et konsept, en måte å leve\nsammen på, men for ham er ikke hun den ene.  Han er en playboy fra\nOslo-sosieteten, diffus, men snill og gjør med sikkerhet inntrykk på en kvinne\nsom lever i et ekteskap som har gått i stå, og akkurat det har Agnetes\nekteskap, for hun er gift med en annen.  En dag setter hun Emil på en prøve\n - da får han kalde føtter.\nDe som er med:\nAgnete, 35 år .............. Bente BØRSUM\nEmil, 32 år ................ Svein SCHARFFENBERG",
+  "image": {
+    "imageInfo": {
+      "id": "xPhvrQOiFzQKitV-bPHUzQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9969629
+      }
+    },
+    "imageWidthCropInfo": "xPhvrQOiFzQKitV-bPHUzQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99696291560102300",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xPhvrQOiFzQKitV-bPHUzQo0UmotfyXtbzhOKopnH4sw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xPhvrQOiFzQKitV-bPHUzQd_ZbF8ztpqTzhOKopnH4sw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xPhvrQOiFzQKitV-bPHUzQb_62arkJyf7zhOKopnH4sw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xPhvrQOiFzQKitV-bPHUzQSKxgthdoEu3zhOKopnH4sw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(108684000000+0200)/",
+    "actualTransmissionDate": "/Date(108684000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(108684000000+0200)/",
+    "actualTransmissionDate": "/Date(108684000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002272&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT32M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002272&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002272&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002272&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002272&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00002272AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "12-06-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00002272AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

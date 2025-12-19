@@ -1,0 +1,312 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000977"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000977",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "27.12.1977",
+  "episodeTitle": "Kattelek",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00000977",
+  "title": "Kattelek",
+  "originalTitle": "Kattelek",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kattelek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kattelek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kattelek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kattelek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H36M25.96S",
+  "shortDescription": "Om fru Orban og hennes lamme søster Giza, og deres forskjellige liv i Tyskland og Ungarn. Av Istvan Örkeny.",
+  "longDescription": "Av Istvan ??rkeny.  Oversatt av Elisabeth Thams.\n\nAt eldre kvinner er nettopp kvinner, er fasit av \"Kattelek\",  Sterkt for-\n\nskjellige er kvinnene, men salt og pepper, kattenatur og krutt har de alle,\n\ntil tross for sin alder.\n\nDe som er med:  Fru Orban .............. Tordis MAURSTAD\n\n                Giza ................... Rønnaug ALTEN\n\n                Musa ................... Ragnhild MICHELSEN\n\n                Ilona .................. Marit GRØNHAUG\n\n                Paula .................. Gøril HAVREVOLD\n\n                Adelaida ............... Ella HVAL\n\n                Jozi ................... Peter LINDBÆK\n\n                Viktor ................. Georg LØKKEBERG\n\n                Kelneren ............... Rolf Arly LUND",
+  "image": {
+    "imageInfo": {
+      "id": "YL3aU6mcOOhHA85vzv_ccg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09761285,
+        "width": 1.0,
+        "height": 0.67578125
+      }
+    },
+    "imageWidthCropInfo": "YL3aU6mcOOhHA85vzv_ccg?x=0.00000000000000000&y=0.09761284722222223&w=1.00000000000000000&h=0.67578125000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/YL3aU6mcOOhHA85vzv_ccgITRAEZUccli8Jrnwj4y0bg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YL3aU6mcOOhHA85vzv_ccgnatvwBqlnnG8Jrnwj4y0bg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YL3aU6mcOOhHA85vzv_ccgknqrg7BbSDu8Jrnwj4y0bg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YL3aU6mcOOhHA85vzv_ccgzJpg0f_1VMe8Jrnwj4y0bg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Tordis Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Tordis",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Rønnaug Alten",
+      "role": "Skuespiller",
+      "givenName": "Rønnaug",
+      "familyName": "Alten"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Peter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Gøril Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Gøril",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Ella Hval",
+      "role": "Skuespiller",
+      "givenName": "Ella",
+      "familyName": "Hval"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(252025200000+0100)/",
+    "actualTransmissionDate": "/Date(252025200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(252025200000+0100)/",
+    "actualTransmissionDate": "/Date(252025200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tordis Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Tordis",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Rønnaug Alten",
+      "role": "Skuespiller",
+      "givenName": "Rønnaug",
+      "familyName": "Alten"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Peter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Gøril Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Gøril",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Ella Hval",
+      "role": "Skuespiller",
+      "givenName": "Ella",
+      "familyName": "Hval"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000977&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H36M26S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000977&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000977&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000977&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000977&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000977-AR-199204190"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-12-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000977-AR-199204190",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1977
+}

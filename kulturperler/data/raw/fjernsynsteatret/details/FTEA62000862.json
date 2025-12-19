@@ -1,0 +1,274 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62000862"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62001862"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62000862",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "27.09.1962",
+  "episodeTitle": "Bessie Smiths død",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62000862",
+  "title": "Bessie Smiths død",
+  "originalTitle": "Bessie Smiths død",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Bessie Smiths død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Bessie Smiths død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bessie Smiths død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bessie Smiths død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bessie Smiths død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT57M1.96S",
+  "shortDescription": "Drama av Edward Albee om rasisme i det sørlige USA. Den svarte sangerinnen Bessie Smith omkommer etter en bilulykke fordi et sykehus for hvite avviser henne.",
+  "longDescription": "Av den amerikanske forfatteren Edward Albee.\nOversatt av Finn Havrevold.\nDekor: Olav Ile.\nInstruktør: Knut Thomassen.\nDrama om rasisme i det sørlige USA.  Den svarte sangerinnen Bessie Smith\nomkommer etter en bilulykke fordi et sykehus for hvite avviser henne.  Gjennom\nen parallell handling i en hospitalresepsjon beskrives de hvite rasistenes\nkaraktertype, en dominant sykesøster av gammel godsfamilie splitter og hersker\nover sine underordnede.\nI rollene:\nSykepleieren .............. Arne LIE\nSykesøsteren .............. Urda ARNEBERG\nAssistentlegen ............ Espen SKJØNBERG\nJack ...................... Børseth RASMUSSEN",
+  "image": {
+    "imageInfo": {
+      "id": "RhJcDo5zrxqzAXn_iO80DA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.044767946,
+        "width": 1.0,
+        "height": 0.7325664
+      }
+    },
+    "imageWidthCropInfo": "RhJcDo5zrxqzAXn_iO80DA?x=0.00000000000000000&y=0.04476794750158128&w=1.00000000000000000&h=0.73256641366223920",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/RhJcDo5zrxqzAXn_iO80DAg63J3TkzkB6eGxJ6MRUlMg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RhJcDo5zrxqzAXn_iO80DAeG9P43uVOcWeGxJ6MRUlMg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RhJcDo5zrxqzAXn_iO80DAiUa6WcQEc6-eGxJ6MRUlMg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RhJcDo5zrxqzAXn_iO80DABdkexphxHTmeGxJ6MRUlMg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "edvard albee",
+    "fjernsynsteater",
+    "teater",
+    "drama",
+    "skuespill",
+    "skuespiller",
+    "rasisme",
+    "sykehus",
+    "usa"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "edvard albee",
+    "fjernsynsteater",
+    "teater",
+    "drama",
+    "skuespill",
+    "skuespiller",
+    "rasisme",
+    "sykehus",
+    "usa"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Børseth Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Børseth",
+      "familyName": "Rasmussen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-229226400000+0200)/",
+    "actualTransmissionDate": "/Date(-229226400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-229226400000+0200)/",
+    "actualTransmissionDate": "/Date(-229226400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1396497300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Børseth Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Børseth",
+      "familyName": "Rasmussen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000862&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT57M2S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000862&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000862&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000862&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000862&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62000862-AR-199416110"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-09-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62000862-AR-199416110",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

@@ -1,0 +1,244 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP13000991"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp13000991",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60035",
+  "seasonNumber": "1991",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "15.12.1991",
+  "episodeTitle": "Saft",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP13000991",
+  "title": "Saft",
+  "originalTitle": "Saft",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Saft"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Saft"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Et drama er et drama ... eller er det det?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Saft"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT36M33.48S",
+  "shortDescription": "Anne Mali Sæther, Pernille Anker og Berte Hilmo vant konkurransen Scenario 91 med stykket \"Saft. Fra Det Åpne Teatret i Oslo.",
+  "longDescription": "Fredag den 13. fikk vi vite hvem som gikk seirende ut av konkurransen\nScenario 91.\nI kveld, etter 2 dagers intense prøver, sender vi direkte vinnerstykket\nfra Det Åpne Teatret i Oslo.\nMedv.: Anne Mali SÆTHER og Pernille ANKER.",
+  "image": {
+    "imageInfo": {
+      "id": "WXUwT22aZ1zIzlXJjDXlKg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9969629
+      }
+    },
+    "imageWidthCropInfo": "WXUwT22aZ1zIzlXJjDXlKg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99696291560102300",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKg2u7VfhdvwcijhpiW7OsTQQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKg4zt7NxIM9sOjhpiW7OsTQQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKgknyHu9NQI0qjhpiW7OsTQQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKgFOECeiaUTJSjhpiW7OsTQQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "Det Åpne Teater",
+    "skuespill",
+    "teaterstykke",
+    "drama",
+    "konkurranser"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "Det Åpne Teater",
+    "skuespill",
+    "teaterstykke",
+    "drama",
+    "konkurranser"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Anne Mali Sæther",
+      "role": "Skuespiller",
+      "givenName": "Anne Mali",
+      "familyName": "Sæther"
+    },
+    {
+      "name": "Pernille Anker",
+      "role": "Skuespiller",
+      "givenName": "Pernille",
+      "familyName": "Anker"
+    },
+    {
+      "name": "Petter Nome",
+      "role": "Programleder",
+      "givenName": "Petter",
+      "familyName": "Nome"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(692751600000+0100)/",
+    "actualTransmissionDate": "/Date(692751600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(692751600000+0100)/",
+    "actualTransmissionDate": "/Date(692751600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Anne Mali Sæther",
+      "role": "Skuespiller",
+      "givenName": "Anne Mali",
+      "familyName": "Sæther"
+    },
+    {
+      "name": "Pernille Anker",
+      "role": "Skuespiller",
+      "givenName": "Pernille",
+      "familyName": "Anker"
+    },
+    {
+      "name": "Petter Nome",
+      "role": "Programleder",
+      "givenName": "Petter",
+      "familyName": "Nome"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000991&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT36M34S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000991&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000991&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000991&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000991&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP13000991-AR-199407419"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "15-12-1991",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP13000991-AR-199407419",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1991
+}

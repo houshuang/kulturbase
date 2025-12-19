@@ -1,0 +1,315 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64001664"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64002564"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64001664",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "27.08.1964",
+  "episodeTitle": "Bernardas hus",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64001664",
+  "title": "Bernardas hus",
+  "originalTitle": "Bernardas hus",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Bernardas hus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Bernardas hus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bernardas hus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bernardas hus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H8M13.96S",
+  "shortDescription": "Den herskesyke Bernarda holder seg selv og sine fem døtre isolert i sitt hus og lar ingen av dem finne seg menn. Av Federico Garcia Lorca.",
+  "longDescription": "Av den spanske dramatikeren Federico Garcia Lorca (1898 - 1936).\nOversatt av Carl Keilhau.\nDekor: Christian Egemar.  Instruktør: Per Bronken.\nDen herskesyke mora, Bernarda, holder seg selv og sine fem døtre isolert i sitt\nhus og lar ingen av dem finne seg menn.  Alle døtrene er forelsket i samme\nmann, Pepe, som den eldste og styggeste av dem får gifte seg med.  Den yngste,\nAdela, har et forhold til Pepe og møter ham i smug.  Martirio narrer henne til\nå tro at Pepe er skutt, og Adela henger seg.  Døtrene rives og slites av\nlengsel, mens mora vokter over dem og den gale bestemora, i moralens navn.\nDe som er med:\nBernarda ................ Ada KRAMM\nBernardas mor ........... Aagot BØRSETH\nAngustias ............... Merete SKAVLAND\nMagdalena ............... Astrid FOLSTAD\nAmelia .................. Mona LEVIN\nMartirio ................ Urda ARNEBERG\nAdela ................... Wenche THORSBY\nPoncia .................. Ragnhild MICHELSEN\nTjenestepiken ........... Anne-Mari DALE\n(Reprise: 19660913)",
+  "image": {
+    "imageInfo": {
+      "id": "RgwftKqD1eRKhgBbOp-nWA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.157413274,
+        "width": 1.0,
+        "height": 0.555576265
+      }
+    },
+    "imageWidthCropInfo": "RgwftKqD1eRKhgBbOp-nWA?x=0.00000000000000000&y=0.15741327862737783&w=1.00000000000000000&h=0.55557627750839240",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/RgwftKqD1eRKhgBbOp-nWAgXR-3fmdgmCsQzIjxL7tNA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgwftKqD1eRKhgBbOp-nWAb2Z3tbMuvFmsQzIjxL7tNA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgwftKqD1eRKhgBbOp-nWA7qSkwAVvpkGsQzIjxL7tNA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgwftKqD1eRKhgBbOp-nWAXYk2pMKQB46sQzIjxL7tNA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Aagot Børseth",
+      "role": "Skuespiller",
+      "givenName": "Aagot",
+      "familyName": "Børseth"
+    },
+    {
+      "name": "Merete Skavlan",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Skavlan"
+    },
+    {
+      "name": "Mona Levin",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Levin"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-168746400000+0200)/",
+    "actualTransmissionDate": "/Date(-168746400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-168746400000+0200)/",
+    "actualTransmissionDate": "/Date(-168746400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424235300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Aagot Børseth",
+      "role": "Skuespiller",
+      "givenName": "Aagot",
+      "familyName": "Børseth"
+    },
+    {
+      "name": "Merete Skavlan",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Skavlan"
+    },
+    {
+      "name": "Mona Levin",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Levin"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001664&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H8M14S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001664&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001664&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001664&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001664&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64001664-AR-199412493"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-08-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64001664-AR-199412493",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

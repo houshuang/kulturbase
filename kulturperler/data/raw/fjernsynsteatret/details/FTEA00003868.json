@@ -1,0 +1,442 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003868"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003468"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003868",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "01.10.1968",
+  "episodeTitle": "Det lykkelige valg",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00003868",
+  "title": "Det lykkelige valg",
+  "originalTitle": "Det lykkelige valg",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Det lykkelige valg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Det lykkelige valg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det lykkelige valg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det lykkelige valg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Klassisk komedie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det lykkelige valg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H11M15S",
+  "shortDescription": "Det er stortingsvalg. Fru Lavinia sammensverger seg med pastor Feltman og doktor Onsø for å vinne stemmer mot sin mann, den selvgode og pompøse Celius",
+  "longDescription": "Av Nils Kjær.  Stykket er skrevet i 1913.\nDekor: Sverre Andersen.  Instruktør: Magne Bleness.\nStykket er en komedie og skildrer et stortingsvalg i en liten småby som inntil\ndette valget har hatt stabile politiske forhold, men nå skaper nye folkelige\nbevegelser uro og forvirring blant velgerne.\nSatire over politikere og politiske spørsmål rundt 1913; avholdssaken,\nkvinnefrigjøring, landsmål og ytringsfrihet.\nI første del blir vi presentert for stykkets hovedpersoner.  Pastor Feltman,\ndoktor Onsø og Lavinia slutter en sammensvergelse for å skaffe Lavinia stemmer\ntil storingsvalget (mot sin mann, Celius).\nAndre del handler om at Lavinia blir valgt inn på Stortinget.\nDe som er med:\nCelius .................... Lasse KOLSTAD\nFru Lavinia ............... Bab CHRISTENSEN\nAnton ..................... Jan Ole KJERNSMO\nPauline ................... Live HOV\nDoktor Onsø ............... Gisle STRAUME\nPastor Feltman ............ Arne AAS\nAugusta Sperling .......... Urda ARNEBERG\nMaja Pålsbo ............... Ragnhild MICHELSEN\nAdjunkt Pålsbo ............ Per GJERSØE\nSkomaker Fingalsen ........ Sverre HANSEN\nØyvind Holt ............... Ole SIMENSEN\nJulius Sommerblom ......... Arne LIE\nPetræa Somerblom .......... Inger HELDAL\nTimansen .................. Frimann Falck CLAUSEN\nDoktor Hegre .............. Per TOFTE\nBroder Solløs ............. Alf MALLAND\nStatsråd Barkeland ........ Ingolf ROGDE\n(Reprise: 19690902).",
+  "image": {
+    "imageInfo": {
+      "id": "Td5Ah9Tdnw-tJavKwuA2Vw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.208407909,
+        "width": 1.0,
+        "height": 0.559901834
+      }
+    },
+    "imageWidthCropInfo": "Td5Ah9Tdnw-tJavKwuA2Vw?x=0.00000000000000000&y=0.20840790993071592&w=1.00000000000000000&h=0.55990184757505780",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Td5Ah9Tdnw-tJavKwuA2Vw3_oS15VZtSothq4JUzOkEw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Td5Ah9Tdnw-tJavKwuA2VwCYCuWSfisUsthq4JUzOkEw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Td5Ah9Tdnw-tJavKwuA2Vwbh0LFLEHvqEthq4JUzOkEw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Td5Ah9Tdnw-tJavKwuA2VwlKs0S-jYdYMthq4JUzOkEw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "valg",
+    "stortingsvalg"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "valg",
+    "stortingsvalg"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Jan-Ole Kjernsmo",
+      "role": "Skuespiller",
+      "givenName": "Jan-Ole",
+      "familyName": "Kjernsmo"
+    },
+    {
+      "name": "Live Hov",
+      "role": "Skuespiller",
+      "givenName": "Live",
+      "familyName": "Hov"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Ole Andreas Simensen",
+      "role": "Skuespiller",
+      "givenName": "Ole Andreas",
+      "familyName": "Simensen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Inger Heldal",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Heldal"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-39492000000+0200)/",
+    "actualTransmissionDate": "/Date(-39492000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-39492000000+0200)/",
+    "actualTransmissionDate": "/Date(-39492000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Jan-Ole Kjernsmo",
+      "role": "Skuespiller",
+      "givenName": "Jan-Ole",
+      "familyName": "Kjernsmo"
+    },
+    {
+      "name": "Live Hov",
+      "role": "Skuespiller",
+      "givenName": "Live",
+      "familyName": "Hov"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Ole Andreas Simensen",
+      "role": "Skuespiller",
+      "givenName": "Ole Andreas",
+      "familyName": "Simensen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Inger Heldal",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Heldal"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00003868"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H9M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003868&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00003868-2"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-10-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00003868",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

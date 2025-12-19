@@ -1,0 +1,241 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEM63001263"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63001363"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftem63001263",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 2,
+  "episodeNumberOrDate": "17.01.1963",
+  "episodeTitle": "Stemmen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEM63001263",
+  "title": "Stemmen",
+  "originalTitle": "Stemmen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Stemmen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Stemmen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stemmen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stemmen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT35M49.96S",
+  "shortDescription": "Kvinnen (Wenche Foss) er forlatt av sin mann til fordel for en annen. Når han ringer en siste gang gjør sitt ytterste for å holde ham på tråden.",
+  "longDescription": "Opera i en akt.\nMusikk: Francis Poulenc.\nTekst: Jean Cocteau.\nDet forsterkede Kringkastingsorkestret, dirigent: Øivind Fjeldstad.\nWenche FOSS spiller forlatt dame.  Snakker med (synger til) ex-mannen i\ntelefonen.  Forteller han hvor høyt hun elsker han, men får ingen respons.\nLuksuriøst soveværelse.  Hun har på seg nattkjole og pels.",
+  "image": {
+    "imageInfo": {
+      "id": "GKjp4KEQTHNSGp8tNqya3w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.129097462,
+        "width": 1.0,
+        "height": 0.6834572
+      }
+    },
+    "imageWidthCropInfo": "GKjp4KEQTHNSGp8tNqya3w?x=0.00000000000000000&y=0.12909746503496503&w=1.00000000000000000&h=0.68345716783216780",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/GKjp4KEQTHNSGp8tNqya3wNiJ69rUwmDcBSg0qhypB5Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GKjp4KEQTHNSGp8tNqya3wpCCWVTPtK8wBSg0qhypB5Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GKjp4KEQTHNSGp8tNqya3ws1zRzN_7JB8BSg0qhypB5Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GKjp4KEQTHNSGp8tNqya3w8SIDX5D1WwMBSg0qhypB5Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "opera"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "opera"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Kringkastingsorkestret",
+      "role": "Orkester",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Øivind Fjeldstad",
+      "role": "Dirigent",
+      "givenName": "Øivind",
+      "familyName": "Fjeldstad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-219546000000+0100)/",
+    "actualTransmissionDate": "/Date(-219546000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-219546000000+0100)/",
+    "actualTransmissionDate": "/Date(-219546000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1440474900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Kringkastingsorkestret",
+      "role": "Orkester",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Øivind Fjeldstad",
+      "role": "Dirigent",
+      "givenName": "Øivind",
+      "familyName": "Fjeldstad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEM63001263&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT35M50S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEM63001263&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEM63001263&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEM63001263&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEM63001263&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEM63001263-AR-199001045"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-01-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEM63001263-AR-199001045",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

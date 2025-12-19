@@ -1,0 +1,729 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP16000193"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28003293"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp16000193",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "28.12.1993",
+  "episodeTitle": "Peer Gynt 1:2",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP16000193",
+  "title": "Peer Gynt 1:2",
+  "originalTitle": "Peer Gynt 1:2",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Peer Gynt 1:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Peer Gynt 1:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Peer Gynt  1:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Peer Gynt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Overøst av kritikerros"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret 1993: Peer Gynt, del 1"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H54M9.76S",
+  "shortDescription": "Av Henrik Ibsen. Bondegutten Peer drømmer om makt og ære. Han møter Solveig, og røver Ingrid, odelsjenta som skal bortgiftes. Peer blir dømt fredløs.",
+  "longDescription": "Den første fjernsynsoppsetningen av Henrik Ibsen sitt store, dramatiske verk,\n\n\"Peer Gynt\", bearbeidet for fjernsyn i to deler.\n\nBearbeidet av Bentein Baardson og Bodil Kvamme.\n\nKomponist: Ketil Hvoslef.\n\nProsjektleder: Dag Alveberg.\n\nVi møter bondegutten Peer som drømmer om makt og ære.  Handlingen starter i en\n\nøstlandsdal, hvor Peer møter den unge innflytterjenta Solveig, og hvor han\n\nrøver Ingrid, odelsjenta som skal giftes bort.\n\nI rollene: Peer ................. Paul Ottar HAGA\n\n           Mor Aase ............. Britt LANGLIE\n\n           Solveig .............. Elisabeth MATHESON\n\n           Hægstadbonden ........ Kjell STORMOEN\n\n           Aslak Smed ........... Reidar SØRENSEN\n\n           Ingrid ............... Anneke von der LIPPE\n\n           Den Grønnkledde ...... Nina WOXHOLT\n\n           Dovregubben .......... Erik HIVJU",
+  "image": {
+    "imageInfo": {
+      "id": "kOoEHolwLpY_Ss_Y9jNdgg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.108808331,
+        "width": 1.0,
+        "height": 0.8503401
+      }
+    },
+    "imageWidthCropInfo": "kOoEHolwLpY_Ss_Y9jNdgg?x=0.00000000000000000&y=0.10880833000000000&w=1.00000000000000000&h=0.85034013600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/kOoEHolwLpY_Ss_Y9jNdgg8b6NS3MmjFMu5CYak2g_wg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kOoEHolwLpY_Ss_Y9jNdggJ4BJX_45rfsu5CYak2g_wg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kOoEHolwLpY_Ss_Y9jNdggpI1-A82iF3Uu5CYak2g_wg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kOoEHolwLpY_Ss_Y9jNdggF3ii1pmnF5Uu5CYak2g_wg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "dramaserie",
+    "dikt",
+    "teater",
+    "satire"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "dramaserie",
+    "dikt",
+    "teater",
+    "satire"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Nina Woxholtt",
+      "role": "Skuespiller",
+      "givenName": "Nina",
+      "familyName": "Woxholtt"
+    },
+    {
+      "name": "Bernhard Arnø",
+      "role": "Skuespiller",
+      "givenName": "Bernhard",
+      "familyName": "Arnø"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Tone Johnsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Johnsen"
+    },
+    {
+      "name": "Anneke von der Lippe",
+      "role": "Skuespiller",
+      "givenName": "Anneke von der",
+      "familyName": "Lippe"
+    },
+    {
+      "name": "Paal Ritter Schjerven",
+      "role": "Skuespiller",
+      "givenName": "Paal Ritter",
+      "familyName": "Schjerven"
+    },
+    {
+      "name": "Ella Anna Utigard",
+      "role": "Skuespiller",
+      "givenName": "Ella Anna",
+      "familyName": "Utigard"
+    },
+    {
+      "name": "Ketil Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Ketil",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Petter Musken",
+      "role": "Skuespiller",
+      "givenName": "Petter",
+      "familyName": "Musken"
+    },
+    {
+      "name": "Marius Knoph",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Knoph"
+    },
+    {
+      "name": "Jon Erling Wevling",
+      "role": "Skuespiller",
+      "givenName": "Jon Erling",
+      "familyName": "Wevling"
+    },
+    {
+      "name": "John Nonseid",
+      "role": "Skuespiller",
+      "givenName": "John",
+      "familyName": "Nonseid"
+    },
+    {
+      "name": "Alexander Mørk Eidem",
+      "role": "Skuespiller",
+      "givenName": "Alexander Mørk",
+      "familyName": "Eidem"
+    },
+    {
+      "name": "Paal Nordland",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Nordland"
+    },
+    {
+      "name": "Jonny Austad",
+      "role": "Skuespiller",
+      "givenName": "Jonny",
+      "familyName": "Austad"
+    },
+    {
+      "name": "Karoline Astrup",
+      "role": "Skuespiller",
+      "givenName": "Karoline",
+      "familyName": "Astrup"
+    },
+    {
+      "name": "Mette Iversen",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hilde Buvik",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Buvik"
+    },
+    {
+      "name": "Anne Kokkinn",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Kokkinn"
+    },
+    {
+      "name": "Janne Berlie",
+      "role": "Skuespiller",
+      "givenName": "Janne",
+      "familyName": "Berlie"
+    },
+    {
+      "name": "Leonora Alexandra Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Leonora Alexandra",
+      "familyName": "Nielsen"
+    },
+    {
+      "name": "Carina Weidemann",
+      "role": "Skuespiller",
+      "givenName": "Carina",
+      "familyName": "Weidemann"
+    },
+    {
+      "name": "Vanja Strømstad",
+      "role": "Skuespiller",
+      "givenName": "Vanja",
+      "familyName": "Strømstad"
+    },
+    {
+      "name": "Margaret Konow Lund",
+      "role": "Skuespiller",
+      "givenName": "Margaret Konow",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Tor Blaha",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Blaha"
+    },
+    {
+      "name": "Gustav H. Jansen",
+      "role": "Skuespiller",
+      "givenName": "Gustav H.",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Atla Lund Hauge",
+      "role": "Skuespiller",
+      "givenName": "Atla Lund",
+      "familyName": "Hauge"
+    },
+    {
+      "name": "Paul Ottar Haga",
+      "role": "Skuespiller",
+      "givenName": "Paul Ottar",
+      "familyName": "Haga"
+    },
+    {
+      "name": "Britt Langlie",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Langlie"
+    },
+    {
+      "name": "Elisabeth Matheson",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Matheson"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Ella Fiskum",
+      "role": "Skuespiller",
+      "givenName": "Ella",
+      "familyName": "Fiskum"
+    },
+    {
+      "name": "Mads Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Mads",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Aslag Guttormsgaard",
+      "role": "Skuespiller",
+      "givenName": "Aslag",
+      "familyName": "Guttormsgaard"
+    },
+    {
+      "name": "Åsmund Brede Eike",
+      "role": "Skuespiller",
+      "givenName": "Åsmund Brede",
+      "familyName": "Eike"
+    },
+    {
+      "name": "Tore Rem",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Rem"
+    },
+    {
+      "name": "Kjetil Indregard",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Indregard"
+    },
+    {
+      "name": "Maria Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Maria",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Andrea Bræin Hovig",
+      "role": "Skuespiller",
+      "givenName": "Andrea Bræin",
+      "familyName": "Hovig"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(757033200000+0100)/",
+    "actualTransmissionDate": "/Date(757033200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(1159620000000+0200)/",
+    "actualTransmissionDate": "/Date(1159620000600+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391662500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Nina Woxholtt",
+      "role": "Skuespiller",
+      "givenName": "Nina",
+      "familyName": "Woxholtt"
+    },
+    {
+      "name": "Bernhard Arnø",
+      "role": "Skuespiller",
+      "givenName": "Bernhard",
+      "familyName": "Arnø"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Tone Johnsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Johnsen"
+    },
+    {
+      "name": "Anneke von der Lippe",
+      "role": "Skuespiller",
+      "givenName": "Anneke von der",
+      "familyName": "Lippe"
+    },
+    {
+      "name": "Paal Ritter Schjerven",
+      "role": "Skuespiller",
+      "givenName": "Paal Ritter",
+      "familyName": "Schjerven"
+    },
+    {
+      "name": "Ella Anna Utigard",
+      "role": "Skuespiller",
+      "givenName": "Ella Anna",
+      "familyName": "Utigard"
+    },
+    {
+      "name": "Ketil Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Ketil",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Petter Musken",
+      "role": "Skuespiller",
+      "givenName": "Petter",
+      "familyName": "Musken"
+    },
+    {
+      "name": "Marius Knoph",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Knoph"
+    },
+    {
+      "name": "Jon Erling Wevling",
+      "role": "Skuespiller",
+      "givenName": "Jon Erling",
+      "familyName": "Wevling"
+    },
+    {
+      "name": "John Nonseid",
+      "role": "Skuespiller",
+      "givenName": "John",
+      "familyName": "Nonseid"
+    },
+    {
+      "name": "Alexander Mørk Eidem",
+      "role": "Skuespiller",
+      "givenName": "Alexander Mørk",
+      "familyName": "Eidem"
+    },
+    {
+      "name": "Paal Nordland",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Nordland"
+    },
+    {
+      "name": "Jonny Austad",
+      "role": "Skuespiller",
+      "givenName": "Jonny",
+      "familyName": "Austad"
+    },
+    {
+      "name": "Karoline Astrup",
+      "role": "Skuespiller",
+      "givenName": "Karoline",
+      "familyName": "Astrup"
+    },
+    {
+      "name": "Mette Iversen",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hilde Buvik",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Buvik"
+    },
+    {
+      "name": "Anne Kokkinn",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Kokkinn"
+    },
+    {
+      "name": "Janne Berlie",
+      "role": "Skuespiller",
+      "givenName": "Janne",
+      "familyName": "Berlie"
+    },
+    {
+      "name": "Leonora Alexandra Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Leonora Alexandra",
+      "familyName": "Nielsen"
+    },
+    {
+      "name": "Carina Weidemann",
+      "role": "Skuespiller",
+      "givenName": "Carina",
+      "familyName": "Weidemann"
+    },
+    {
+      "name": "Vanja Strømstad",
+      "role": "Skuespiller",
+      "givenName": "Vanja",
+      "familyName": "Strømstad"
+    },
+    {
+      "name": "Margaret Konow Lund",
+      "role": "Skuespiller",
+      "givenName": "Margaret Konow",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Tor Blaha",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Blaha"
+    },
+    {
+      "name": "Gustav H. Jansen",
+      "role": "Skuespiller",
+      "givenName": "Gustav H.",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Atla Lund Hauge",
+      "role": "Skuespiller",
+      "givenName": "Atla Lund",
+      "familyName": "Hauge"
+    },
+    {
+      "name": "Paul Ottar Haga",
+      "role": "Skuespiller",
+      "givenName": "Paul Ottar",
+      "familyName": "Haga"
+    },
+    {
+      "name": "Britt Langlie",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Langlie"
+    },
+    {
+      "name": "Elisabeth Matheson",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Matheson"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Ella Fiskum",
+      "role": "Skuespiller",
+      "givenName": "Ella",
+      "familyName": "Fiskum"
+    },
+    {
+      "name": "Mads Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Mads",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Aslag Guttormsgaard",
+      "role": "Skuespiller",
+      "givenName": "Aslag",
+      "familyName": "Guttormsgaard"
+    },
+    {
+      "name": "Åsmund Brede Eike",
+      "role": "Skuespiller",
+      "givenName": "Åsmund Brede",
+      "familyName": "Eike"
+    },
+    {
+      "name": "Tore Rem",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Rem"
+    },
+    {
+      "name": "Kjetil Indregard",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Indregard"
+    },
+    {
+      "name": "Maria Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Maria",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Andrea Bræin Hovig",
+      "role": "Skuespiller",
+      "givenName": "Andrea Bræin",
+      "familyName": "Hovig"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000193&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H54M9S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000193&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000193&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000193&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000193&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP160193-AR-199407884"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "28-12-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP160193-AR-199407884",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1993
+}

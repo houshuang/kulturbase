@@ -1,0 +1,194 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006785"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006785",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "26.12.1985",
+  "episodeTitle": "Fjernsynsteatret viser: Til glede og forargelse i 25 år",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00006785",
+  "title": "Fjernsynsteatret viser: Til glede og forargelse i 25 år",
+  "originalTitle": "Fjernsynsteatret viser: Til glede og forargelse i 25 år",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fjernsynsteatret viser: Til glede og forargelse i 25 år"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fjernsynsteatret viser: Til glede og forargelse i 25 år"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret viser: Til glede og forargelse i 25 år"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret viser: Til glede og forargelse i 25 år"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT39M12.96S",
+  "shortDescription": "Glimt fra tidligere sendte fjernsynsteatreforestillinger.",
+  "longDescription": "Innledning ved Henrik SCHEELE (mv).\nGlimt fra følgende fjernsynsteatreforestillinger:\n\"Stolene\" av Eugene Ionesco (fra 1962).\n\"Trappen\" av Boris Vian (fra 1964).\n\"Den skallede sangerinnen\" av E. Ionesco (fra 1967).\n\"Skipper Worse\" av Alexander Kielland (fra 1971).\n\"Edvard Munch\" av Peter Watkins (fra 1974).\n\"Benoni og Rosa\" av Knut Hamsun (fra 1975).\n\"Grenseland\" av Sigurd Evensmo (fra 1979).\n\"Den som henger i en tråd\" av Nini Roll Anker (fra 1980).\n\"Medmenneske\" av Olav Duun (fra 1981).\n\"Jenny\" av Sigrid Undset (fra 1983).\n\"Alberte\" av Cora Sandel (fra 1972).\n\"Aske\" av Sverre Undæs (fra 1973).\n\"Glassmenasjeriet\" av Tennessee Williams (fra 1969).\n\"En handelsreisendes død\" av Arthur Miller (fra 1962).\n\"Det gode mennesket i Sezuan\" av Bertolt Brecht (fra 1984).\n\"Småborgernes syv dødssynder\" av B. Brecht og Kurt Weill (fra 1964).\n\"Den studensløse\" av Ludvig HOlberg (fra 1978).\n\"Fedra\" av Jean Racine (fra 1977).\n\"Medea\" av Euripides (fra 1983).\n\"Fruen fra havet\" av Henrik Ibsen (fra 1979).\n\"Rosmersholm\" av H. Ibsen (fra 1978).\n\"Byggmester Solness\" av H. Ibsen (fra 1981).\n\"Den fjerde nattevakt\" av Johann Falkberget (fra 1960).\n\"Stoppested\" av Torborg Nedraas (fra 1965).\n\"Laurdagskveld\" av Tarjei Vesaas (fra 1977).\n\"Kan du elske?\" av Cecilie Løveid (fra 1982).\n\"Alma\" av Oskar Braaten (fra 1985).\n\"Du har ikke en sjans! Ta'n\" av Ulf Breistrand og Jarl Emsell Larsen (fra\n 1984).\nKommentarene lest av Oda Schjøll.",
+  "image": {
+    "imageInfo": {
+      "id": "xhMohox-YWNgeD1ESWJJYQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xhMohox-YWNgeD1ESWJJYQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQnF-B7QrxHSdpwZadJ9qy4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQ5uxNUyPeKTNpwZadJ9qy4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQdPxtVFoV5BtpwZadJ9qy4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQHPD6f5_8UM5pwZadJ9qy4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(504399600000+0100)/",
+    "actualTransmissionDate": "/Date(504399600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(504399600000+0100)/",
+    "actualTransmissionDate": "/Date(504399600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1445921700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006785&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT39M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006785&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006785&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006785&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006785&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006785-AR-200620335"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-12-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006785-AR-200620335",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1985
+}

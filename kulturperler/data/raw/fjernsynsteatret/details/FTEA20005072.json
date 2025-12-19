@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA20005072"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000375"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea20005072",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60019",
+  "seasonNumber": "1975",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "09.10.1975",
+  "episodeTitle": "Bydelen som ikke vil dø 2:2",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA20005072",
+  "title": "Bydelen som ikke vil dø 2:2",
+  "originalTitle": "Bydelen som ikke vil dø 2:2",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Bydelen som ikke vil dø 2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Bydelen som ikke vil dø 2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bydelen som ikke vil dø  2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Bydelen som ikke vil dø  2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H23M10.4S",
+  "shortDescription": "En film om Ruseløkka-Skillebekk-aksjonen i Oslo. Del 2.",
+  "longDescription": "En film om Ruseløkka-Skillebekk Aksjonen i Oslo.  Del 2.\nManus:  Jan Carlsen, Hansmagnus Ystgaard og Egil Kolstø.\nDekor:  Lajla Hovland.  Instruktør:  Egil Kolstø.\nFilmprogram.\nFILM del 1:\nFortekst.  Eldre kvinne om Reichweinsplass som er bebygget.  Møte i barnehagen\nigjen.  Transformatorstasjon på Reichweinsplass.  Kvinne leser opp henvendelse.\nBarnehage.  Hva som hittil har skjedd fortelles off screen.  Biltrafikk.\nEnslig syklist som skal til \"Veslestua\" barnehage.  Dagen etter står hele\nparken full av biler.  Foreldrene diskuterer dette og hva de skal gjøre med\ndet.\nLåsen skiftes på porten.  Eldre og barn i parken.  Møte igjen om\nAnkerbarnehagen\nog henvender seg til flere kontorer uten resultat.  Flere foreldre står og\nvokter på parken og snakker med alle bilistene som kommer.  Flere dager på rad\nstår foreldrene og passer på porten.  En dag oppdager en mor at de har begynt\nå hugge trærne i Ankerhagen.  Flere av gruppen kommer for å protestere på at\ntrærne blir hugget, men det er lys som skal settes opp.  (44'17\").\nFILM del 2:\nDugnad i Ankerhagen blant foreldrene.  Alle samlet rundt kaffebord i det fri.\nUngdoms som fortrekker fordi de arbeider i parken.  Aksjonsmedlemmer går og\nsnakker med dem og får vite at politiet kommer og henter dem.  De blir med\ni parken og hjelper til.  Aksjonsmedlem i samtale med en av ungdommene.\nHan leser brev til SBED.  Om ungdomsklubb i strøket.  På et aksjonsmøte\nmøter en politiker som orienterer om problemet.  Diskusjon.  Aksjonsmedlem-\nmer igjen og vasker opp.  Familie ut fra høyblokk og kjører med bil til byen.\nBiltrafikk og bilkøer.  Bilisten setter først av konen og siden barnet i\nbarnehagen, møter motstand når han skal parkere i Ankerhagen.  Han må finne\nseg et annet sted å parkere, men Jan kommer tilbake til hagen og diskuterer\nmed dem.  Låsen blir byttet og da ble det slutt på parkeringen. (33'01\").\nFILMTRAILER, del 1:  Demonstranter med plakater. 0'55\".  Biltrafikk i\nLøkkeveien. 0'21\".  Demonstrasjon med fakler. 0'57\". (stum).\nFILMTRAILER, del 2:  Flere med fakler. 0'25\". (stum).\nI filmen medvirker aksjonsmedlemmer og\nHelga BACKE, Jonas BRUNVOLL, Bengt CALMEYER, Anne-Mari DALE, Gunnar ENEKJÆR,\nUnni EVJEN, Vibeke FALK, Astrid FOLSTAD, Alf HALLGREN, Else HOPLAND, Helge\nJORDAL, Lykke KLIPPENBERG, Eystein Andreas KOLSTØ, Lars Andreas LARSSEN,\nOdd MIDTSJØ, Anne Marie OTTERSEN, Sigmund SIMONSEN, Kjell STORMOEN, Noralv\nTEIGEN og Erik ØKSNES.",
+  "image": {
+    "imageInfo": {
+      "id": "xhMohox-YWNgeD1ESWJJYQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xhMohox-YWNgeD1ESWJJYQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQnF-B7QrxHSdpwZadJ9qy4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQ5uxNUyPeKTNpwZadJ9qy4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQdPxtVFoV5BtpwZadJ9qy4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQHPD6f5_8UM5pwZadJ9qy4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(182037600000+0200)/",
+    "actualTransmissionDate": "/Date(182037600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(182037600000+0200)/",
+    "actualTransmissionDate": "/Date(182037600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA20005072&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H23M10S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA20005072&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA20005072&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA20005072&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA20005072&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005072-AR-199210755"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-10-1975",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005072-AR-199210755",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

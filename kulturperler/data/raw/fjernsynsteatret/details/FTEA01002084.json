@@ -1,0 +1,470 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01002084"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006885"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01002084",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "22.10.1985",
+  "episodeTitle": "Du kan da ikke bare gå...",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA01002084",
+  "title": "Du kan da ikke bare gå...",
+  "originalTitle": "Du kan da ikke bare gå...",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Du kan da ikke bare gå..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Du kan da ikke bare gå..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Du kan da ikke bare gå..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Amandaprisvinner i 1986"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Du kan da ikke bare gå..."
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H34M47.56S",
+  "shortDescription": "Irmelin går hjemme og venter på ektemannen som er sen. Det er ikke første gang, og hver gang venter hun i angst. Har han drukket? Vil han slå henne?",
+  "longDescription": "Etter en roman av Margaret Johansen.  Musikk: Jan Garbarek\nIrmelin går hjemme og venter på ektemannen Johan.  Han er sen.  Det\ner ikke første gang, og hver gang venter hun i samme angst.  Har han drukket?\nI glimtvise brokker blir vi presentert for bakgrunnen til denne vanskelige\nsamlivssituasjonen.\nMedv.: Irmelin....... Oda SCHJØLL         Johans mor....... Unni EVJEN\n       Johan......... Nils Ole OFTEBRO    Johans far....... Morten BORGERSEN\n       Barbara....... Frøydis ARMAND      Kirsten.......... Lieselotte HOLMEN\n       Nils.......... Arne Lindtner NÆSS  Knut............. Erik HIVJU\n       Irmelins mor.. Ragnhild NYGAARD    Barbaras venn.... Hans Ola SØRLIE\n       Irmelins far.. Odd FURØY\n       Eva........... Kari Ann GRØNSUND   Vokalist......... Janne Marie KOKKIN\n       Grete......... Trini LUND          Irmelin som barn. Sara EGGEN\n       Dommerfullm... Lasse LINDTNER      Johan som barn... Mats HAUGBRO\n       Mann på rest.. Jarl GOLI           Barbara som barn. Anniken HAUGLUND\n       Piker på gaten Anne K. KRIGSVOLL   Nils som barn.... Karper MÆRLI\n               .......og Anja DAMMAN",
+  "image": {
+    "imageInfo": {
+      "id": "Rt7YeDPfHyTjB0BHGc3AvQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.01198144,
+        "width": 1.0,
+        "height": 0.724871159
+      }
+    },
+    "imageWidthCropInfo": "Rt7YeDPfHyTjB0BHGc3AvQ?x=0.00000000000000000&y=0.01198144000000000&w=1.00000000000000000&h=0.72487113400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Rt7YeDPfHyTjB0BHGc3AvQrBNUkP8ILJ8N4KNs3LssrA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rt7YeDPfHyTjB0BHGc3AvQ4igsxFGQCOYN4KNs3LssrA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rt7YeDPfHyTjB0BHGc3AvQRp785kjE__0N4KNs3LssrA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rt7YeDPfHyTjB0BHGc3AvQfnFZ8X2NkHoN4KNs3LssrA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Hans Ola Sørlie",
+      "role": "Skuespiller",
+      "givenName": "Hans Ola",
+      "familyName": "Sørlie"
+    },
+    {
+      "name": "Ragnhild Nygaard",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Nygaard"
+    },
+    {
+      "name": "Kasper Mærli",
+      "role": "Skuespiller",
+      "givenName": "Kasper",
+      "familyName": "Mærli"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Trini Lund",
+      "role": "Skuespiller",
+      "givenName": "Trini",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Anniken Hauglund",
+      "role": "Skuespiller",
+      "givenName": "Anniken",
+      "familyName": "Hauglund"
+    },
+    {
+      "name": "Mads Haugbro",
+      "role": "Skuespiller",
+      "givenName": "Mads",
+      "familyName": "Haugbro"
+    },
+    {
+      "name": "Sara Eggen",
+      "role": "Skuespiller",
+      "givenName": "Sara",
+      "familyName": "Eggen"
+    },
+    {
+      "name": "Anja Damman",
+      "role": "Skuespiller",
+      "givenName": "Anja",
+      "familyName": "Damman"
+    },
+    {
+      "name": "Frøydis Armand",
+      "role": "Skuespiller",
+      "givenName": "Frøydis",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Morten Borgersen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Borgersen"
+    },
+    {
+      "name": "Kari-Ann Grønsund",
+      "role": "Skuespiller",
+      "givenName": "Kari-Ann",
+      "familyName": "Grønsund"
+    },
+    {
+      "name": "Lasse Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Jarl Goli",
+      "role": "Skuespiller",
+      "givenName": "Jarl",
+      "familyName": "Goli"
+    },
+    {
+      "name": "Anne Krigsvoll",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Krigsvoll"
+    },
+    {
+      "name": "Janne Kokkin",
+      "role": "Skuespiller",
+      "givenName": "Janne",
+      "familyName": "Kokkin"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(498780000000+0200)/",
+    "actualTransmissionDate": "/Date(498780000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(498780000000+0200)/",
+    "actualTransmissionDate": "/Date(498780000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428465300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Hans Ola Sørlie",
+      "role": "Skuespiller",
+      "givenName": "Hans Ola",
+      "familyName": "Sørlie"
+    },
+    {
+      "name": "Ragnhild Nygaard",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Nygaard"
+    },
+    {
+      "name": "Kasper Mærli",
+      "role": "Skuespiller",
+      "givenName": "Kasper",
+      "familyName": "Mærli"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Trini Lund",
+      "role": "Skuespiller",
+      "givenName": "Trini",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Anniken Hauglund",
+      "role": "Skuespiller",
+      "givenName": "Anniken",
+      "familyName": "Hauglund"
+    },
+    {
+      "name": "Mads Haugbro",
+      "role": "Skuespiller",
+      "givenName": "Mads",
+      "familyName": "Haugbro"
+    },
+    {
+      "name": "Sara Eggen",
+      "role": "Skuespiller",
+      "givenName": "Sara",
+      "familyName": "Eggen"
+    },
+    {
+      "name": "Anja Damman",
+      "role": "Skuespiller",
+      "givenName": "Anja",
+      "familyName": "Damman"
+    },
+    {
+      "name": "Frøydis Armand",
+      "role": "Skuespiller",
+      "givenName": "Frøydis",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Morten Borgersen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Borgersen"
+    },
+    {
+      "name": "Kari-Ann Grønsund",
+      "role": "Skuespiller",
+      "givenName": "Kari-Ann",
+      "familyName": "Grønsund"
+    },
+    {
+      "name": "Lasse Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Jarl Goli",
+      "role": "Skuespiller",
+      "givenName": "Jarl",
+      "familyName": "Goli"
+    },
+    {
+      "name": "Anne Krigsvoll",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Krigsvoll"
+    },
+    {
+      "name": "Janne Kokkin",
+      "role": "Skuespiller",
+      "givenName": "Janne",
+      "familyName": "Kokkin"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002084&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H34M47S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002084&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002084&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002084&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002084&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA012084-AR-199061016"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-10-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA012084-AR-199061016",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1984
+}

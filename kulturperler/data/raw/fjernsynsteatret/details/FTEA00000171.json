@@ -1,0 +1,411 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000171"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000971"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000171",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60015",
+  "seasonNumber": "1971",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "07.09.1971",
+  "episodeTitle": "Samfundets støtter",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 12,
+  "startNextEpisode": 10,
+  "id": "FTEA00000171",
+  "title": "Samfundets støtter",
+  "originalTitle": "Samfundets støtter",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Samfundets støtter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Samfundets støtter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Samfundets støtter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Samfundets støtter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H35M55.92S",
+  "shortDescription": "Konsul Bernicks hemmeligheter fra fortiden trues med avsløring. Stykket forteller om hykleri i det økonomiske, sosiale og åndelige liv. Av Henrik Ibsen.",
+  "longDescription": "Av Henrik Ibsen.\nDekor: Christian Egemar.  Kostymer: Mabi Helweg.\nBearbeidet og instruert av Per Bronken.\nStykket forteller om en stor familie, der alle elsker, sviker eller ofrer seg\nfor hverandre - og om hykleri i det økonomiske, sosiale og åndelige liv.\nDramaet tar til som en idyll, men ender i kaos.  Grunnen raser ut under\nmenneskene, og maskene faller.\nDe som er med:\nKonsul Bernick .................................. Knut M. HANSSON\nFru Bernick, hans hustru ........................ Bente LISETH\nOlaf, deres sønn, 13 år ......................... Peder MAURSTAD\nFrøken Bernick, konsulens søster ................ Tone SCHWARZOTT\nJohan Tønnesen, fru Bernicks yngre bror ......... Per CHRISTENSEN\nFrøken Hessel ................................... Ingerid VARDUND\nHilmar Tønnesen, fru Bernicks fetter ............ Wilfred BREISTRAND\nAdjunkt Rørlund ................................. Ola B. JOHANNESSEN\nGrosserer Rummel ................................ William NYREN\nKjøpmann Vigeland ............................... Bjarne ANDERSEN\nKjøpmann Sanstad ................................ Ola ISENE\nDina Dorf, en ung pike .......................... Unni EVJEN\nFullmektig Krap ................................. Svein MOEN\nSkipsbygger Aune ................................ Rolf SØDER\nGrosserer Rummels frue .......................... Ragnhild MICHELSEN\nPostmester Holts frue ........................... Gerd JØRGENSEN\nDoktor Lyngs frue ............................... Eva von HANNO\n(Reprise: 19730501 og 19780502).",
+  "image": {
+    "imageInfo": {
+      "id": "P7mn2E2j03mu4Vlw1ieiAg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.164794639,
+        "width": 1.0,
+        "height": 0.5596799
+      }
+    },
+    "imageWidthCropInfo": "P7mn2E2j03mu4Vlw1ieiAg?x=0.00000000000000000&y=0.16479463941380643&w=1.00000000000000000&h=0.55967990744311610",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/P7mn2E2j03mu4Vlw1ieiAgeFGhBXmDzl8c0HxDTsdSvQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P7mn2E2j03mu4Vlw1ieiAgJlcjl7IfJ7cc0HxDTsdSvQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P7mn2E2j03mu4Vlw1ieiAgoXKwtWTQvOIc0HxDTsdSvQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/P7mn2E2j03mu4Vlw1ieiAglT4asjBPsusc0HxDTsdSvQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Bente Liseth",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Liseth"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Ingerid Vardund",
+      "role": "Skuespiller",
+      "givenName": "Ingerid",
+      "familyName": "Vardund"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Peder Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Peder",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(53042400000+0200)/",
+    "actualTransmissionDate": "/Date(53042400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(53042400000+0200)/",
+    "actualTransmissionDate": "/Date(53042400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1431921300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Bente Liseth",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Liseth"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Ingerid Vardund",
+      "role": "Skuespiller",
+      "givenName": "Ingerid",
+      "familyName": "Vardund"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Peder Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Peder",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000171&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H35M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000171&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000171&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000171&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000171&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000171-AR-199311500"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-09-1971",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000171-AR-199311500",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1971
+}

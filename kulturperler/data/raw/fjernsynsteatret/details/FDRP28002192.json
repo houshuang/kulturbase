@@ -1,0 +1,227 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28002192"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28002392"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28002192",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "16.05.1993",
+  "episodeTitle": "Toralv Maurstad - en lek med livet på scenen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP28002192",
+  "title": "Toralv Maurstad - en lek med livet på scenen",
+  "originalTitle": "Toralv Maurstad - en lek med livet på scenen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Toralv Maurstad - en lek med livet på scenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Toralv Maurstad - en lek med livet på scenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Toralv Maurstad - en lek med livet på scenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Toralv Maurstad - en lek med livet på scenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT56M22.96S",
+  "shortDescription": "Gjennom en lang karriere har Toralv Maurstad gitt liv til hele spekteret av dramatiske figurer. Et innblikk i hans liv foran og bak scenen. Del 1.",
+  "longDescription": "Av Jan E. Hansen, Petter Skavlan og Toralv Maurstad.\nMusikalsk ansvarlig: Per Chr. Revholt.\nMusiker: Ket Iren Lødemel.\nInstruktør: Petter Skavlan.\nProsjektleder: Roald Øyen.\nGjennom en lang karriere har Toralv Maurstad gitt liv til hele spekteret av\ndramatiske figurer.  I denne forestillingen gir han oss et innblikk i sitt liv\nforan og bak scenen.  Hentet fra forestillingen på Riksteatret.\nToralv MAURSTAD i følgende innslag:\nFra \"Peer Gynt\" av Henrik Ibsen.\nSom Osvald i \"Gengangere\" av Ibsen.\nFra \"Henrik V\" av William Shakespeare.\nSom redaktør Holt i \"Det lykkelige valg\" av Nils Kjær.\nFra \"18 år\" av John van Druten.\nSom Bill i \"Kiss me Kate\" av Cole Porter etter Shakespeare.  Synger \"Det er for\nhett\" med Ket Iren LØDEMEL (1'10\").\nFra \"Pal Joey\" av Richard Rogers og Lorentz Hart.  Synger \"I gonna have a\nnightclub\" (0'20\") og \"ABC\" (1'35\").\nSom Billy Jack i \"Teenagerlove\" av Ernst Bruun Olsen, oversatt av Finn Ludt og\nBarthold Halle.  Synger \"Teenagerlove\" (1'05\") og potpurri (2'55\").\nFlere musikkinnslag:\nMAURSTAD spiller \"Mazurka\" (Wolfgang Amadeus Mozart) på piano.\nSynger \"Visen om Gjest Baardsen\" (Adolf Nielsen / Alfred Maurstad), 0'30\".",
+  "image": {
+    "imageInfo": {
+      "id": "DqP2Mbx2_SrGKhbEIdUaoA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.073375,
+        "width": 1.0,
+        "height": 0.73375
+      }
+    },
+    "imageWidthCropInfo": "DqP2Mbx2_SrGKhbEIdUaoA?x=0.00000000000000000&y=0.07337500000000001&w=1.00000000000000000&h=0.73375000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/DqP2Mbx2_SrGKhbEIdUaoA5gyveW_j7YEncsQahE1Fyw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/DqP2Mbx2_SrGKhbEIdUaoAono0lUnUz6kncsQahE1Fyw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/DqP2Mbx2_SrGKhbEIdUaoAPN1h5LJZuJYncsQahE1Fyw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/DqP2Mbx2_SrGKhbEIdUaoAGlBELRWnLGIncsQahE1Fyw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Ket Iren Lødemel",
+      "role": "Artist/Utøver",
+      "givenName": "Ket Iren",
+      "familyName": "Lødemel"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(737503200000+0200)/",
+    "actualTransmissionDate": "/Date(737503200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(737503200000+0200)/",
+    "actualTransmissionDate": "/Date(737503200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427172900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Ket Iren Lødemel",
+      "role": "Artist/Utøver",
+      "givenName": "Ket Iren",
+      "familyName": "Lødemel"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28002192&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT56M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28002192&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28002192&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28002192&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28002192&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP28002192-AR-199407788"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-05-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP28002192-AR-199407788",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1992
+}

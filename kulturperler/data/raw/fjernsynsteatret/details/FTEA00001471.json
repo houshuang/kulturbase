@@ -1,0 +1,331 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001471"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA51000070"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001471",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "14.03.1972",
+  "episodeTitle": "En folkefiende",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00001471",
+  "title": "En folkefiende",
+  "originalTitle": "En folkefiende",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "En folkefiende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "En folkefiende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En folkefiende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En folkefiende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H30M28.96S",
+  "shortDescription": "Handlingen er lagt til en kystby i Sør-Norge som er kjent for sin helsebringende badeanstalt. Drama av Henrik Ibsen.",
+  "longDescription": "Av Henrik Ibsen. (Stykket er fra 1882)\nBearbeidet og instruert av Per Bronken.\nDekorasjoner: Grethe Hejer.  Kostymer:  Mabi Helweg.\nSminke: Anne Beth Thoeneie.\nHandlingen er lagt til en kystby i Sør-Norge som er kjent for sin\nhelsebringende badeanstalt.\nFilminnslag:\nArne BANG-HANSEN går ned trapp til robåt for å se Gisle STRAUME som er\nute for å hente vannprøve fra elven. (1'36\")\nDe som er med:\nDoktor Tomas Stockmann ......... Gisle STRAUME\nFru Stockmann .................. Elsa LYSTAD\nPetra, doktorens datter ........ Unni EVJEN\nByfogd Peter Stockmann ......... Knut M. HANSSON\nMorten Kiil .................... Arne BANG-HANSEN\nEilif .......................... Peder MAURSTAD\nMorten ......................... Morten SOLBERG\nHovstad, redaktør .............. Svein MOEN\nBilling ........................ Sigve BØE\nAslaksen, boktrykker ........... Wilfred BREISTRAND\nHorster ........................ Nils Ole OFTEBRO",
+  "image": {
+    "imageInfo": {
+      "id": "PABKdHrQtNRdbnQvW6G_7w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.04451907,
+        "width": 1.0,
+        "height": 0.728493869
+      }
+    },
+    "imageWidthCropInfo": "PABKdHrQtNRdbnQvW6G_7w?x=0.00000000000000000&y=0.04451907015590201&w=1.00000000000000000&h=0.72849387527839640",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/PABKdHrQtNRdbnQvW6G_7wnlogwry8knilL5V_90H-BA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PABKdHrQtNRdbnQvW6G_7woENCX3NQ5RClL5V_90H-BA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PABKdHrQtNRdbnQvW6G_7waj-FORQiqeKlL5V_90H-BA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PABKdHrQtNRdbnQvW6G_7wBBqOJZ8Rx7qlL5V_90H-BA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "tv-drama",
+    "makt",
+    "politikk",
+    "individet"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "tv-drama",
+    "makt",
+    "politikk",
+    "individet"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Morten Solberg",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Solberg"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Peder Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Peder",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Sigve Bøe",
+      "role": "Skuespiller",
+      "givenName": "Sigve",
+      "familyName": "Bøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(69375600000+0100)/",
+    "actualTransmissionDate": "/Date(69375600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(69375600000+0100)/",
+    "actualTransmissionDate": "/Date(69375600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411012500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Morten Solberg",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Solberg"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Peder Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Peder",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Sigve Bøe",
+      "role": "Skuespiller",
+      "givenName": "Sigve",
+      "familyName": "Bøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001471&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H30M29S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001471&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001471&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001471&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001471&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00021471-AR-199311109"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "14-03-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00021471-AR-199311109",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1971
+}

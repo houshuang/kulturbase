@@ -1,0 +1,485 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FUHA03000086"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002586"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fuha03000086",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60030",
+  "seasonNumber": "1986",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "26.12.1986",
+  "episodeTitle": "Peer Gynt",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FUHA03000086",
+  "title": "Peer Gynt",
+  "originalTitle": "Peer Gynt",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Peer Gynt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Peer Gynt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Peer Gynt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Peer Gynt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT3H19M51.88S",
+  "shortDescription": "Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret. Regi: Edith Roger.",
+  "longDescription": "Et dramatisk dikt av Henrik Ibsen.\nOpptak av forestillingen på Nationaltheatret.\nRegi: Edith Roger.\nScenografi og kostymer: Tine Schwab.\nBilledregi: Stein-Roger Bull.\nMusikken til Edvard Grieg spilles av et sammensatt orkester ledet\nav Magne Amdahl.\nI rollene:\nAase, en bondmanns enke ..... Wenche FOSS\nPeer Gynt, hennes sønn ...... Toralv MAURSTAD\nAslak, en smed .............. Frank IVERSEN\nEt par innflytterfolk ....... Lars WIKDAHL og Mami NØDDELUND\nDeres døtre, Solveig ........ Unni Kristin SKAGESTAD\nog lille Helga .............. Caroline BURUM\nBonden på Hægstad ........... Finn KVALEM\nIngrid, hans datter ......... Mari MAURSTAD\nBrudgommen .................. Morten FALDAAS\nHans foreldre ............... Knut HAUGMARK og Liv THORSEN\nTre seterjenter ............. Trine ØIEN, Lise WAET, Bente BRUNVOLL\nEn grønnkledd kvinne ........ Mari MAURSTAD\nDovregubben ................. Knut HUSEBØ\nEt hofftroll ................ Eyolf Soot KLØVIG\nDet eldste hofftrollet ...... Knut HAUGMARK\nDen grønnkleddes søster, en stygg unge .. Morten FALDAAS\nKari, en husmannskone ................... Liv THORSEN\nMaster Cotton ........................... Morten FALDAAS\nMonseiur Ballon ......................... Frank IVERSEN\nVon Eberkopf ............................ Knut HAUGMARK\nTrumpeterstråle ......................... Eyolf Soot KLØVIG\nEn tyv .................................. Roy MARKUSSEN\nEn heler ................................ Arve J. RAMSEY\nAnitra, beduinerhøvdingens datter ....... Hilde GRYTHE\nBegriffenfeldt, professor, dr.phil.\nforstander for dårekisten i Kairo ....... Per AABEL\nEn norsk skipper ........................ Frank IVERSEN\nEn fremmed passasjer .................... Knut HAUGMARK\nDen gråkledde ........................... Morten FALDAAS\nDen sorgkledde .......................... Frank IVERSEN\nEn lensmann ............................. Eyolf Soot KLØVIG\nEn knappestøper ......................... Per AABEL\nEn mager person ......................... Knut HUSEBØ",
+  "image": {
+    "imageInfo": {
+      "id": "yVIc4bGkFnw56el6y45Bsg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07653109,
+        "width": 1.0,
+        "height": 0.725031435
+      }
+    },
+    "imageWidthCropInfo": "yVIc4bGkFnw56el6y45Bsg?x=0.00000000000000000&y=0.07653109296482413&w=1.00000000000000000&h=0.72503140703517600",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/yVIc4bGkFnw56el6y45BsgUwRRZuk3PU5Q005drn_BMw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yVIc4bGkFnw56el6y45BsgljoUjku1aAVQ005drn_BMw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yVIc4bGkFnw56el6y45BsgX_8VFKm4u8FQ005drn_BMw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yVIc4bGkFnw56el6y45BsgDxiiD9JEKqRQ005drn_BMw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "teaterforestilling",
+    "dramatisering"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "teaterforestilling",
+    "dramatisering"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Arve Ramsey",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Ramsey"
+    },
+    {
+      "name": "Roy Markussen",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Markussen"
+    },
+    {
+      "name": "Trine Øien",
+      "role": "Skuespiller",
+      "givenName": "Trine",
+      "familyName": "Øien"
+    },
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Per Aabel",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hilde Grythe",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Grythe"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Lise Waet",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Waet"
+    },
+    {
+      "name": "Caroline Burum",
+      "role": "Skuespiller",
+      "givenName": "Caroline",
+      "familyName": "Burum"
+    },
+    {
+      "name": "Unni Kristin Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Unni Kristin",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Lars Wikdahl",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Wikdahl"
+    },
+    {
+      "name": "Mami Nøddelund",
+      "role": "Skuespiller",
+      "givenName": "Mami",
+      "familyName": "Nøddelund"
+    },
+    {
+      "name": "Mari Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Mari",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Morten Faldaas",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Faldaas"
+    },
+    {
+      "name": "Bente Brunvoll",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Brunvoll"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(535935600000+0100)/",
+    "actualTransmissionDate": "/Date(535935600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(559000800000+0200)/",
+    "actualTransmissionDate": "/Date(559000800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1418273700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Arve Ramsey",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Ramsey"
+    },
+    {
+      "name": "Roy Markussen",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Markussen"
+    },
+    {
+      "name": "Trine Øien",
+      "role": "Skuespiller",
+      "givenName": "Trine",
+      "familyName": "Øien"
+    },
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Per Aabel",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hilde Grythe",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Grythe"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Lise Waet",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Waet"
+    },
+    {
+      "name": "Caroline Burum",
+      "role": "Skuespiller",
+      "givenName": "Caroline",
+      "familyName": "Burum"
+    },
+    {
+      "name": "Unni Kristin Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Unni Kristin",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Lars Wikdahl",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Wikdahl"
+    },
+    {
+      "name": "Mami Nøddelund",
+      "role": "Skuespiller",
+      "givenName": "Mami",
+      "familyName": "Nøddelund"
+    },
+    {
+      "name": "Mari Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Mari",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Morten Faldaas",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Faldaas"
+    },
+    {
+      "name": "Bente Brunvoll",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Brunvoll"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H30M12S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FUHA03010086-AR-199010674"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M2S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FUHA03020086-AR-199010674"
+    },
+    {
+      "part": 3,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M38S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FUHA03000086&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FUHA03030086-AR-199010674"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-12-1986",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FUHA03010086-AR-199010674",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1986
+}

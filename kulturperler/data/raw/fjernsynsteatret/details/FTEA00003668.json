@@ -1,0 +1,232 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003668"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003668",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 21,
+  "episodeNumberOrDate": "17.12.1968",
+  "episodeTitle": "De fire årstider",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00003668",
+  "title": "De fire årstider",
+  "originalTitle": "De fire årstider",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De fire årstider"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De fire årstider"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De fire årstider"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De fire årstider"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H20M38.96S",
+  "shortDescription": "En mann og en kvinne går sammen inn i et tomt hus og begynner et liv der. De har begge skuffelser bak seg i tidligere kjærlighetsopplevelser. Av Arnold Wesker.",
+  "longDescription": "Av Arnold Wesker.\nOversatt av Jan Erik Vold.\nBearbeidet for fjernsyn og instruert av Lars L??fgren.\nMusikk:  Gunnar Sønstevold.\nDekor: Dag Frogner.\nStillsfotograf: Halvor Næss.\nStykket forteller om en mann og en kvinne som går sammen inn i et tomt hus og\nbegynner et liv der.  De har begge skuffelser bak seg i tidligere\nkjærlighetsopplevelser.\nDe som er med:\nHun ................ Lise FJELDSTAD\nHan ................ Finn KVALEM",
+  "image": {
+    "imageInfo": {
+      "id": "HIF8J5_z3Zw6WQ5pu9iRQA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.699465632
+      }
+    },
+    "imageWidthCropInfo": "HIF8J5_z3Zw6WQ5pu9iRQA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.69946561338289960",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/HIF8J5_z3Zw6WQ5pu9iRQAPhF6Kwz6aUCc-sFEhUnPsA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HIF8J5_z3Zw6WQ5pu9iRQAgbDEMkzKKpOc-sFEhUnPsA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HIF8J5_z3Zw6WQ5pu9iRQAGr_V-0dur9mc-sFEhUnPsA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HIF8J5_z3Zw6WQ5pu9iRQAb6pljpxNd36c-sFEhUnPsA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "kjærlighet",
+    "samliv"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "kjærlighet",
+    "samliv"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-32835600000+0100)/",
+    "actualTransmissionDate": "/Date(-32835600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-32835600000+0100)/",
+    "actualTransmissionDate": "/Date(-32835600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003668&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H20M39S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003668&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003668&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003668&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003668&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003668-AR-199314081"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-12-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003668-AR-199314081",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

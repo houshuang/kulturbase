@@ -1,0 +1,251 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003768"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00004768"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003768",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "07.01.1969",
+  "episodeTitle": "Glassmenasjeriet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00003768",
+  "title": "Glassmenasjeriet",
+  "originalTitle": "Glassmenasjeriet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Glassmenasjeriet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Glassmenasjeriet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Glassmenasjeriet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Glassmenasjeriet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H1M26.52S",
+  "shortDescription": "Av Tennessee Williams. Stykket skildrer et familieliv i førkrigstiden, hvor faren har forlatt hjemmet og \"ansvaret\" henger på sønnen.",
+  "longDescription": "Av den amerikanske dramatikeren Tennessee Williams.\nOversatt av Inger Hagerup.\nBearbeidelse for fjernsyn og instruksjon: Sverre Udnæs.\nMusikk: Egil Kapstad.  Dekor: Per Fjeld.\nStillsfotograf: Odd Geir Sæther.\nStykket skildrer (med selvbiografisk utgangspunkt) et familieliv i\nførkrigstiden, hvor faren har forlatt hjemmet, og \"ansvaret\" henger på sønnen,\nhvor morens skuffelse og angst for å gå til grunne i samfunnet og hennes\nkjærlighetskrav til barna dominerer.  Stykket er et studie i følelsesliv\nunder samfunnskonvensjonens press.\nDe som er med:\nAmanda Wingfield .................... Wenche FOSS\nLaura Wingfield ..................... Inger Lise WESTBY\nTom Wingfield ....................... Finn KVALEM\nJim D. O'Connor ..................... Jon HEGGEDAL\n(Reprise: 19710420 og 19750617).",
+  "image": {
+    "imageInfo": {
+      "id": "cCGUsXbD3m0FXndh6qddIA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.123201653,
+        "width": 1.0,
+        "height": 0.5280071
+      }
+    },
+    "imageWidthCropInfo": "cCGUsXbD3m0FXndh6qddIA?x=0.00000000000000000&y=0.12320165094339623&w=1.00000000000000000&h=0.52800707547169810",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/cCGUsXbD3m0FXndh6qddIASdjz4SPaF5R4y1mFVsz0SQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cCGUsXbD3m0FXndh6qddIAUBHyEiGyURV4y1mFVsz0SQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cCGUsXbD3m0FXndh6qddIATVCrB3uZwE54y1mFVsz0SQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cCGUsXbD3m0FXndh6qddIApXrWTIve4Zp4y1mFVsz0SQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Inger Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-31021200000+0100)/",
+    "actualTransmissionDate": "/Date(-31021200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-31021200000+0100)/",
+    "actualTransmissionDate": "/Date(-31021200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Inger Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003768&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M26S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003768&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003768&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003768&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003768&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003768-AR-199313148"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-01-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003768-AR-199313148",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

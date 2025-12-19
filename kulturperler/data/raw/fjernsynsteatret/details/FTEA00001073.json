@@ -1,0 +1,351 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001073"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000373"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001073",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "01.01.1974",
+  "episodeTitle": "Dr. Knock",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001073",
+  "title": "Dr. Knock",
+  "originalTitle": "Dr. Knock",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Dr. Knock"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Dr. Knock"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dr. Knock"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dr. Knock"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H1M41.96S",
+  "shortDescription": "To leger - to \"bedragere\". En unnfallen Parpalaid, og hans yngre ivrige kollega Knock - som overtar og opparbeider den gamle legens praksis. Av Jules Romains.",
+  "longDescription": "Av Jules Romains (fransk forfatter).\nOversatt av Paul Rene Gauguin.\nBearbeidet for fjernsyn av Åse Vikene.\nMusikk:  Egil Kapstad.\nInstuktør:  Aloysius Valente.\nStykket går også under tittel: \"Doktor mot sin vilje\" (må ikke forveksles\nmed tilsvarende stykke av Moliere!).\n\"Dr. Knock\" (Knock, ou le Triomphe de la medicine) har en hovedperson,\nlegen Knock, men dette verket er først og fremst en historisk-sosiologisk\ndokumentasjon, og det er spunnet over Romains stadig gjentatte tema:\nindiviets frihet.  Alle former for tvungen utslettelse av individet er for\nRomains en synd mot de gudløses hellig ånd, og legene er ved denne anledning\nhans skyteskive.\nDe som er med:\nDr. Knock ........................ Ivar NØRVE\nDr. Parpalaid .................... Gisle STRAUME\nFru Parpalaid .................... Gøril HAVREVOLD\nTrommeslageren ................... William NYREN\nBernard, overlærer ............... Øyvind ØYEN\nMousquet, apoteker ............... Rolf SØDER\nDame i svart ..................... Aud SCHØNEMANN\nFørste hurragutt ................. Carsten BYHRING\nAnnen hurragutt .................. Willie HOEL\nFru Remy ......................... Sossen KROHG\nHotellpiken ...................... Turid BALKE\nScipio ........................... Tomas FASTING",
+  "image": {
+    "imageInfo": {
+      "id": "WpFqgsU6FOKlmem5MR2vvg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.720123649
+      }
+    },
+    "imageWidthCropInfo": "WpFqgsU6FOKlmem5MR2vvg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.72012362637362640",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/WpFqgsU6FOKlmem5MR2vvgfQSJCRSjWR1mGmQsk92SMw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WpFqgsU6FOKlmem5MR2vvgsfA9GlNMcdhmGmQsk92SMw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WpFqgsU6FOKlmem5MR2vvgzk07J3BPOB9mGmQsk92SMw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WpFqgsU6FOKlmem5MR2vvg2Omq0GILl3JmGmQsk92SMw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Gøril Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Gøril",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(126226800000+0100)/",
+    "actualTransmissionDate": "/Date(126226800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(126226800000+0100)/",
+    "actualTransmissionDate": "/Date(126226800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Gøril Havrevold",
+      "role": "Skuespiller",
+      "givenName": "Gøril",
+      "familyName": "Havrevold"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001073&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M42S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001073&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001073&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001073&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001073&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001073-AR-199211256"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-01-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001073-AR-199211256",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1973
+}

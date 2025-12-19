@@ -1,0 +1,291 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000460"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA60000260"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000460",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "10.11.1960",
+  "episodeTitle": "Det er fra politiet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000460",
+  "title": "Det er fra politiet",
+  "originalTitle": "Det er fra politiet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Det er fra politiet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Det er fra politiet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det er fra politiet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det er fra politiet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H6M44S",
+  "shortDescription": "Den velstående familien Birling feirer datterens forlovelse. Stemningen er god, men så ringer politiet på døren. Skuespill av J.B. Priestley.",
+  "longDescription": "Av den britiske dramatikeren John Boynton Priestley (1894 - 1984).\nOversatt av Nicolai Haugen.\nDekor: Olav Ile.\nInstruktør: Rønnaug Alten.\nPolitiet kommer til et overklassehjem og får diverse tilståelser.\nI rollene:\nArthur Birling ............. Toralf SANDØ\nSheila Birling ............. Wenche TØNSETH (senere Wenche FÆHN)\nSybil Birling .............. Else HEIBERG\nEric Birling ............... Gerhard BJELLAND\nGerald Croft ............... Sverre HOLM\nInspektør Goole ............ Per GJERSØE\nEdna ....................... Inger-Live RØKENES\n(Reprise: 19620606).",
+  "image": {
+    "imageInfo": {
+      "id": "ebcQWBHnqrQWng5C7_jScQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0884215161,
+        "width": 1.0,
+        "height": 0.7239382
+      }
+    },
+    "imageWidthCropInfo": "ebcQWBHnqrQWng5C7_jScQ?x=0.00000000000000000&y=0.08842151300000000&w=1.00000000000000000&h=0.72393822400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ebcQWBHnqrQWng5C7_jScQr2mGZnEYBkO_a83NoUgrOQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ebcQWBHnqrQWng5C7_jScQqqIeqUVOflS_a83NoUgrOQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ebcQWBHnqrQWng5C7_jScQtlEB2njD-gK_a83NoUgrOQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ebcQWBHnqrQWng5C7_jScQcJ-x2J7CXnK_a83NoUgrOQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Inger-Live Røkenes",
+      "role": "Skuespiller",
+      "givenName": "Inger-Live",
+      "familyName": "Røkenes"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Gerhard Bjelland",
+      "role": "Skuespiller",
+      "givenName": "Gerhard",
+      "familyName": "Bjelland"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-288493200000+0100)/",
+    "actualTransmissionDate": "/Date(-288493200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-288493200000+0100)/",
+    "actualTransmissionDate": "/Date(-288493200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1418878500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Inger-Live Røkenes",
+      "role": "Skuespiller",
+      "givenName": "Inger-Live",
+      "familyName": "Røkenes"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Gerhard Bjelland",
+      "role": "Skuespiller",
+      "givenName": "Gerhard",
+      "familyName": "Bjelland"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000460&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M44S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000460&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000460&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000460&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000460&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60000460-AR-199421269"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-11-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60000460-AR-199421269",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

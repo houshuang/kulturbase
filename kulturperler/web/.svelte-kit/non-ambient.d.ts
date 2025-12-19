@@ -1,0 +1,52 @@
+
+// this file is generated — do not edit it
+
+
+declare module "svelte/elements" {
+	export interface HTMLAttributes<T> {
+		'data-sveltekit-keepfocus'?: true | '' | 'off' | undefined | null;
+		'data-sveltekit-noscroll'?: true | '' | 'off' | undefined | null;
+		'data-sveltekit-preload-code'?:
+			| true
+			| ''
+			| 'eager'
+			| 'viewport'
+			| 'hover'
+			| 'tap'
+			| 'off'
+			| undefined
+			| null;
+		'data-sveltekit-preload-data'?: true | '' | 'hover' | 'tap' | 'off' | undefined | null;
+		'data-sveltekit-reload'?: true | '' | 'off' | undefined | null;
+		'data-sveltekit-replacestate'?: true | '' | 'off' | undefined | null;
+	}
+}
+
+export {};
+
+
+declare module "$app/types" {
+	export interface AppTypes {
+		RouteId(): "/" | "/episode" | "/episode/[id]" | "/performance" | "/performance/[id]" | "/person" | "/person/[id]" | "/play" | "/play/[id]";
+		RouteParams(): {
+			"/episode/[id]": { id: string };
+			"/performance/[id]": { id: string };
+			"/person/[id]": { id: string };
+			"/play/[id]": { id: string }
+		};
+		LayoutParams(): {
+			"/": { id?: string };
+			"/episode": { id?: string };
+			"/episode/[id]": { id: string };
+			"/performance": { id?: string };
+			"/performance/[id]": { id: string };
+			"/person": { id?: string };
+			"/person/[id]": { id: string };
+			"/play": { id?: string };
+			"/play/[id]": { id: string }
+		};
+		Pathname(): "/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/play" | "/play/" | `/play/${string}` & {} | `/play/${string}/` & {};
+		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
+		Asset(): "/favicon.png" | "/kulturperler.db" | "/kulturperler.db.backup_20251219_122607" | "/sceneweb_cache.json" | string & {};
+	}
+}

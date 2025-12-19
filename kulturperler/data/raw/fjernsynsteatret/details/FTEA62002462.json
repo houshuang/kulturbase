@@ -1,0 +1,327 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62002462"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62001062"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62002462",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 19,
+  "episodeNumberOrDate": "25.10.1962",
+  "episodeTitle": "Velkomstmiddag",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62002462",
+  "title": "Velkomstmiddag",
+  "originalTitle": "Velkomstmiddag",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Velkomstmiddag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Velkomstmiddag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Velkomstmiddag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Velkomstmiddag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H23.52S",
+  "shortDescription": "Cecilia kommer hjem fra Spania. Moren Maria holder selskap og treffer igjen Henrik som hun skulle ha barn med. Av Birgit Linton-Malmfors.",
+  "longDescription": "Av den svenske dramatikeren Birgit Linton-Malmfors.\nStykket er skrevet spesielt for fjernsyn.\nOversatt av Sigbjørn Hølmebakk.\nDekor: Olav Ile.\nInstruktør: Gerhard Knoop.\nCecilia kommer hjem fra Spania.  Moren, Maria, holder selskap om kvelden og\nMaria treffer igjen Henrik som hun skulle ha barn med.  Hun lider av\ndepresjoner etter aborten, men lærer at man ikke trenger å være lykkelig.\nFilminnslag:\nCecilia og Gustav spaserer i kveldsmørket, tils. ca 1'24\", scenene dukker\nopp ved 51'28\" - 52'20\" og 57'33\" - 57'49\".\nI rollene:\nMaria, moren .......................... Else HEIBERG\nGustav, sorenskriver, stefar .......... Sverre HANSEN\nCecilia ............................... Henny MOAN\nIngrid ................................ Wenche FÆHN\nHenrik ................................ Tor STOKKE\nAgda, oberstens frue .................. Astrid JACOBSEN\nSven, oberst .......................... Toralf SANDØ\nFru Hellgren .......................... Maria FLOOD\nÅke ................................... Bernt Erik LARSEN\nHerr Hellgren ......................... Leif Enger\n(Reprise: 19640507).",
+  "image": {
+    "imageInfo": {
+      "id": "wt00bWeKuGQpgD3Eccgq7g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.145810053,
+        "width": 1.0,
+        "height": 0.7290503
+      }
+    },
+    "imageWidthCropInfo": "wt00bWeKuGQpgD3Eccgq7g?x=0.00000000000000000&y=0.14581005586592177&w=1.00000000000000000&h=0.72905027932960900",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/wt00bWeKuGQpgD3Eccgq7gN569pTtvIQqY013geWYnxA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wt00bWeKuGQpgD3Eccgq7gXczN4yednh6Y013geWYnxA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wt00bWeKuGQpgD3Eccgq7gWWNhTz0iQrGY013geWYnxA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wt00bWeKuGQpgD3Eccgq7g2Kb9degl4WaY013geWYnxA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Maria Flood",
+      "role": "Skuespiller",
+      "givenName": "Maria",
+      "familyName": "Flood"
+    },
+    {
+      "name": "Astri Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Astri",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Bernt Erik Larsen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Leif Enger",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Enger"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-226807200000+0200)/",
+    "actualTransmissionDate": "/Date(-226807200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-226807200000+0200)/",
+    "actualTransmissionDate": "/Date(-226807200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1425617700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Maria Flood",
+      "role": "Skuespiller",
+      "givenName": "Maria",
+      "familyName": "Flood"
+    },
+    {
+      "name": "Astri Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Astri",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Bernt Erik Larsen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Leif Enger",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Enger"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002462&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H24S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002462&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002462&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002462&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002462&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62002462-AR-199416124"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-10-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62002462-AR-199416124",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

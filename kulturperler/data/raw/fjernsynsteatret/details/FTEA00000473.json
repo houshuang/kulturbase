@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000473"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000273"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000473",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "21.08.1973",
+  "episodeTitle": "Vær så go' - galskap for to",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00000473",
+  "title": "Vær så go' - galskap for to",
+  "originalTitle": "Vær så go' - galskap for to",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Vær så go' - galskap for to"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Vær så go' - galskap for to"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vær så go' - galskap for to"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vær så go' - galskap for to"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT53M31.44S",
+  "shortDescription": "En krig raser. Hvem som kjemper vet vi ikke, trolig ikke ekteparet i stykket heller, de har nok med en evig ordduell. Av Eugène Ionesco.",
+  "longDescription": "Av Eugene Ionesco.  Fra 1962.\nOversatt av Inger Hagerup.  Dekor: Christian Egemar.\nInstruktør: Jon Heggedal.\nEn eller annen krig raser.  Hvem som kjemper, vet vi ikke, trolig ikke ekeparet\ni stykket heller, de har nok med en evig ordduell som speiler deres trivielle\nutilfredshet og alle hatets irrasjonelle mekanismer.\nDe som er med:\nHun ............... Astrid SOMMER\nHan ............... Øyvind ØYEN\nSoldaten .......... Nils SLETTA",
+  "image": {
+    "imageInfo": {
+      "id": "14VT1fgfZzO5wXNnoGgbpw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.996304631
+      }
+    },
+    "imageWidthCropInfo": "14VT1fgfZzO5wXNnoGgbpw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99630462724935720",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/14VT1fgfZzO5wXNnoGgbpwuU0nWlL2FxuB5Abupish4Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/14VT1fgfZzO5wXNnoGgbpwa-WoJz1vHEmB5Abupish4Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/14VT1fgfZzO5wXNnoGgbpw5eh_qIEXzsKB5Abupish4Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/14VT1fgfZzO5wXNnoGgbpwzzYiIGjJCniB5Abupish4Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(114732000000+0200)/",
+    "actualTransmissionDate": "/Date(114732000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(114732000000+0200)/",
+    "actualTransmissionDate": "/Date(114732000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000473&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT53M31S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000473&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000473&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000473&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000473&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000473-AR-199305449"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-08-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000473-AR-199305449",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1973
+}

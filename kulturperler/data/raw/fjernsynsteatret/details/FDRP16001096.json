@@ -1,0 +1,244 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP16001096"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp16001096",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60040",
+  "seasonNumber": "1996",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "08.12.1996",
+  "episodeTitle": "Morgengaven",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 9,
+  "startNextEpisode": 10,
+  "id": "FDRP16001096",
+  "title": "Morgengaven",
+  "originalTitle": "Morgengaven",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Morgengaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Morgengaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Morgengaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Morgengaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT51M14.96S",
+  "shortDescription": "Nygifte Åge og Sissel feirer bryllupsnatten på hotell. Men værelsespiken kjenner Åge fra før, også sider som Sissel ikke kjenner. Forviklinger oppstår.",
+  "longDescription": "\"Morgengaven\" av Andreas Markusson.\nÅge og Sissel er nygift og har tatt inn på hotell for å feire bryllupsnatten.\nForventningene til natten og det kommende samlivet er store.  Men værelsespiken\nMillie kjenner Åge fra tidligere, også sider som Sissel ikke kjenner.\nForviklinger oppstår og fører til en uventet utgang på feiringen.\nProsjektleder: Folke Gravklev.\nMusikk: Håkon Berge.\nI rollene:\nFridtjov SÅHEIM, Lene BRAGLI og Liv HELØE.\nFjernsynsutgave av en forestilling fra Den Nationale Scene i Bergen.",
+  "image": {
+    "imageInfo": {
+      "id": "Ed1l-RKolrizybKasyte0w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9980769
+      }
+    },
+    "imageWidthCropInfo": "Ed1l-RKolrizybKasyte0w?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99807692307692310",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Ed1l-RKolrizybKasyte0wgXbjnqjy7guWdO7qGTz1Sw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ed1l-RKolrizybKasyte0wQjGpcIUXOWmWdO7qGTz1Sw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ed1l-RKolrizybKasyte0wdGUQyIHdWjWWdO7qGTz1Sw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ed1l-RKolrizybKasyte0wPuER6032byOWdO7qGTz1Sw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teaterstykke",
+    "skuespill",
+    "drama",
+    "ekteskap",
+    "sjalusi"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teaterstykke",
+    "skuespill",
+    "drama",
+    "ekteskap",
+    "sjalusi"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lene Bragli",
+      "role": "Skuespiller",
+      "givenName": "Lene",
+      "familyName": "Bragli"
+    },
+    {
+      "name": "Fridtjov Såheim",
+      "role": "Skuespiller",
+      "givenName": "Fridtjov",
+      "familyName": "Såheim"
+    },
+    {
+      "name": "Liv Heløe",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Heløe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(849999600000+0100)/",
+    "actualTransmissionDate": "/Date(849999600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(849999600000+0100)/",
+    "actualTransmissionDate": "/Date(849999600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1440561300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lene Bragli",
+      "role": "Skuespiller",
+      "givenName": "Lene",
+      "familyName": "Bragli"
+    },
+    {
+      "name": "Fridtjov Såheim",
+      "role": "Skuespiller",
+      "givenName": "Fridtjov",
+      "familyName": "Såheim"
+    },
+    {
+      "name": "Liv Heløe",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Heløe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16001096&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT51M15S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16001096&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16001096&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16001096&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16001096&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP161096-AR-199708842"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "08-12-1996",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP161096-AR-199708842",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1996
+}

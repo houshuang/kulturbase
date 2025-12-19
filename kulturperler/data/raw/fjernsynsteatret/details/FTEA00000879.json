@@ -1,0 +1,275 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000879"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002580"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000879",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60024",
+  "seasonNumber": "1980",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "06.05.1980",
+  "episodeTitle": "Til odel og eie",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000879",
+  "title": "Til odel og eie",
+  "originalTitle": "Til odel og eie",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Til odel og eie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Til odel og eie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Til odel og eie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Til odel og eie"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H23M23.28S",
+  "shortDescription": "På et lite småbruk lever Anna og Johan, et eldre ektepar. De kan ikke drive gården lenger. Hva skal skje med det bruket, med fars- og morsarven?",
+  "longDescription": "Skuespillet \"Arven\" skrevet for fjernsyn.\nForfatter: Erling Pedersen.\nKostymer:  Ivar Karlsen.\nDekor:     Erik Hagen.\nFilminnslag:\nHusmor ut fra fjøset, betrakter eiendommen.  Mannen ror fiske.  1'29\".\nMannen i land, går opp til huset.  Utelampe.  Sønnen hjem med biler. 0'49\".\nBrødrene i samtale. 1'26\".\nUtendørsscener - mørke bilder.  De måler opp eiendommen.  1'54\".\nBil kjører avgårde.  Ekstr. huset - mørke bilder.  2'49\".\nDe som er med:  Anna .........  Elisabeth BANG\n                Johan ........  Kjell STORMOEN\n                Hans .........  Jon EIKEMO\n                Bjørn ........  Karl BOMANN-LARSEN\n                Kirsten ......  Marit GRØNHAUG\n                Stein ........  Jan FROSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "AQoii8f68qGgXwIWJv52vQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9980315
+      }
+    },
+    "imageWidthCropInfo": "AQoii8f68qGgXwIWJv52vQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99803149606299220",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/AQoii8f68qGgXwIWJv52vQpycvwD48bMBZ0pPr9mM-aQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AQoii8f68qGgXwIWJv52vQVR0Qhn2N4VZZ0pPr9mM-aQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AQoii8f68qGgXwIWJv52vQcIJxbRM7psFZ0pPr9mM-aQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AQoii8f68qGgXwIWJv52vQWlQjxWl4QRtZ0pPr9mM-aQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Karl Bomann-Larsen",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Bomann-Larsen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Elisabeth Bang",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Bang"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(326412000000+0200)/",
+    "actualTransmissionDate": "/Date(326412000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(326412000000+0200)/",
+    "actualTransmissionDate": "/Date(326412000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Karl Bomann-Larsen",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Bomann-Larsen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Elisabeth Bang",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Bang"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000879&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H23M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000879&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000879&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000879&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000879&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000879-AR-199102094"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-05-1980",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000879-AR-199102094",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1979
+}

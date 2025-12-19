@@ -1,0 +1,241 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01000278"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001778"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01000278",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60023",
+  "seasonNumber": "1979",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "17.04.1979",
+  "episodeTitle": "Skallet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA01000278",
+  "title": "Skallet",
+  "originalTitle": "Skallet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skallet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skallet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skallet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skallet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT59M54.12S",
+  "shortDescription": "Ei tenåringsjente har vært psykiatrisk pasient. På vei for å oppsøke en eks-kjæreste treffer hun en taxisjåfør som inviterer henne med ut.",
+  "longDescription": "Av Sverre Udnæs.\nMusikk:  Jan Garbarek.\nFilm:  Scener fra drosje - ung pike i samtale med sjåfør.  Etter kjøreturen tar\nhun inn på en snackbar hvor hun kjenner innehaveren.  I snackbaren.  Hun tenker\npå den tiden de var sammen.  Hun bruker piller og har vært på sykehus.  Hvorfor\nforholdet ble slutt.  Drosjesjåføren tenker tilbake på morgenen sammen med\nVicky.  Snackbaren hvor drosjesjåføren slår ned innehaveren og tar med seg\npiken.  Drosjen kjører ut av byen.  Utsikt over Oslo. (1t 00'15\")\nDe som er med:  Vicky ............ Elisabeth SCHARFFENBERG\n                Frank ............ Bjørn SÆTHER\n                Klaus ............ Kåre KROPPAN",
+  "image": {
+    "imageInfo": {
+      "id": "yUnjAYejIUq7_BAp2MhbPQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.726275
+      }
+    },
+    "imageWidthCropInfo": "yUnjAYejIUq7_BAp2MhbPQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.72627501600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/yUnjAYejIUq7_BAp2MhbPQZOndEFtkdwYzGW6hifbcTg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yUnjAYejIUq7_BAp2MhbPQWM9YqZly-MszGW6hifbcTg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yUnjAYejIUq7_BAp2MhbPQHCN8kDr6RxwzGW6hifbcTg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yUnjAYejIUq7_BAp2MhbPQEqkJtabkyyMzGW6hifbcTg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Elisabeth Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Bjørn Sæther",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sæther"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(293148000000+0200)/",
+    "actualTransmissionDate": "/Date(293148000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(293148000000+0200)/",
+    "actualTransmissionDate": "/Date(293148000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Elisabeth Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Bjørn Sæther",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sæther"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000278&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT59M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000278&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000278&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000278&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000278&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA010278-AR-199102815"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-04-1979",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA010278-AR-199102815",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1978
+}

@@ -1,0 +1,588 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001067"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002467"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001067",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "21.11.1967",
+  "episodeTitle": "Ransakningen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA00001067",
+  "title": "Ransakningen",
+  "originalTitle": "Ransakningen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Ransakningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Ransakningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ransakningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ransakningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H46M44S",
+  "shortDescription": "En symbolsk \"rekonstruksjon\" av Auschwitzprosessen, Frankfurt i 1963 - 1965, med rettssaker mot ansvarlige for masseutryddelsen i tyske fangeleire.",
+  "longDescription": "Oratorium i 11 sanger av Peter Weiss, (tysk dramatiker som lever i eksil i\nSverige).\nDekor: Olav Ile.\nInstruktør: Arild Brinchmann.\nSymbolsk \"rekonstruksjon\" av Auschwitz-prosessen i Frankfurt 1963 - 1965.\nRettssak mot de ansvarlige for masseutryddelsen i tyske fangeleire\nunder 2. verdenskrig.  Vitneførsel (overlevende fanger), tiltale-panel\n(nazister), dommer og to advokater.  Om ankomsten til fangeleiren,\nforholdene der, tortur, avstraffelser, nazistenes perverse oppførsel,\noverlevelsesevner, menneskeforsøk, konkrete tilfeller, henrettelser av\nunge og gamle, gift-injeksjoner.  Nazistene nekter for ethvert kjennskap\ntil ugjerningene.\n\"Sangen om ankomsten\", \"Sangen om leiren\", \"Sangen om husken\",\n\"Sangen om muligheten for å overleve\", \"Sangen om Lili Toflers død\",\n\"Sangen om Unterscharführer Stark\", \"Sangen om den svarte muren\",\n\"Sangen om fenolen\", \"Sangen om bunkerblokken\", \"Sangen om cyklon B\",\n\"Sangen om ildovnene\".\nSkuespillere :             Oscar EGEDE-NISSEN          Rolf Just NILSEN\nEilif ARMAND               Stig EGEDE-NISSEN           Lasse KOLSTAD\nRolf BERNTZEN              Leif ENGER                  Arne LIE\nRoy BJØRNSTAD              Frimann Falck CLAUSEN       Alf MALLAND\nWilfred BREISTRAND         Per GJERSØE                 Finn MÆHLUM\nBab CHRISTENSEN            Sverre HANSEN               William NYREN\nHans COUCHERON-AAMODT      Knut M. HANSON              Ragnar OLASON\nToralf SANDØ              Tor STOKKE\nIngebjørg SEM             Rolf SØDER\nPål SKJØNBERG             Knut THOMASSEN\nAlfred SOLAAS             Einar VAAGE\nHenrik Anker STEEN        Sverre WILBERG",
+  "image": {
+    "imageInfo": {
+      "id": "wXCb209goHLZSBjsrg_IlQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.311297148,
+        "width": 1.0,
+        "height": 0.560334861
+      }
+    },
+    "imageWidthCropInfo": "wXCb209goHLZSBjsrg_IlQ?x=0.00000000000000000&y=0.31129715165511934&w=1.00000000000000000&h=0.56033487297921480",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/wXCb209goHLZSBjsrg_IlQ4r7N2NaTbClCYWEu2zVkEw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wXCb209goHLZSBjsrg_IlQoG6CDggUc6FCYWEu2zVkEw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wXCb209goHLZSBjsrg_IlQ-taM1yXKil9CYWEu2zVkEw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wXCb209goHLZSBjsrg_IlQRd06FlJb1cNCYWEu2zVkEw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "rettssaker",
+    "fangeleir",
+    "nazisme",
+    "massedrap"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "rettssaker",
+    "fangeleir",
+    "nazisme",
+    "massedrap"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Hans Coucheron-Aamot",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Coucheron-Aamot"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Leif Enger",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Enger"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Rolf Just Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rolf Just",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Knut Thomassen",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Thomassen"
+    },
+    {
+      "name": "Einar Vaage",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Vaage"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-66704400000+0100)/",
+    "actualTransmissionDate": "/Date(-66704400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-66704400000+0100)/",
+    "actualTransmissionDate": "/Date(-66704400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438142100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Hans Coucheron-Aamot",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Coucheron-Aamot"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Leif Enger",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Enger"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Rolf Just Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rolf Just",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Finn Mehlum",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Mehlum"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Knut Thomassen",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Thomassen"
+    },
+    {
+      "name": "Einar Vaage",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Vaage"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H25M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00011067-AR-199001008"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H21M39S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001067&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00021067-AR-199001008"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-11-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00011067-AR-199001008",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1967
+}

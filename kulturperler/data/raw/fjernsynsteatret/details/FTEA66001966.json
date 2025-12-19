@@ -1,0 +1,261 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001966"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000667"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001966",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "14.02.1967",
+  "episodeTitle": "Helene",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA66001966",
+  "title": "Helene",
+  "originalTitle": "Helene",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Helene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Helene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Helene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Helene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H7M54.4S",
+  "shortDescription": "Erik Winge gifter seg med Helene, en tidligere alkoholiker. Han prioriterer arbeidet og hun drives tilbake til alkoholen. Og sin tidligere venn Aksel.",
+  "longDescription": "Av Victor Borg, psykiatiker, overlege og dramatiker.\nBearbeidet for fjernsyn og instruert av Magne Bleness.\nMusikk: Gunnar Sønstevold.\nDekor: Bjørn Næss.  Kostymer: Kari Bjørg Ile.\nFilmfotograf: Ernst Holme.\nEt sosialrealistisk stykke om alkoholisme.  Legen Erik Winge gifter seg med\nHelene, en tidligere alkoholiker.  Han prioriterer arbeidet og Helene drives\ntilbake til alkoholen og sin tidligere venn Aksel.  Gjennom tilbakeblikk vises\ndenne prosessen.  Et år etter finner Erik sin tidligere hustru fullstendig\noppløst av alkohol.\nMedvirkende : Ingebjørg SEM ........ Helene Winge\n              Knut M. HANSSON ...... Erik Winge\n              Else HEIBERG ......... Enkefru Winge\n              Pål SKJØNBERG ........ Aksel Larsen",
+  "image": {
+    "imageInfo": {
+      "id": "oEcNhpwb2FdDy6qN9z8qZA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.108239055,
+        "width": 1.0,
+        "height": 0.556658
+      }
+    },
+    "imageWidthCropInfo": "oEcNhpwb2FdDy6qN9z8qZA?x=0.00000000000000000&y=0.10823905786350149&w=1.00000000000000000&h=0.55665801186943620",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/oEcNhpwb2FdDy6qN9z8qZApPT8b9Ou-MQz_bZur7-aEg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/oEcNhpwb2FdDy6qN9z8qZAqHwkuv48jdkz_bZur7-aEg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/oEcNhpwb2FdDy6qN9z8qZAbvmwMBo7cssz_bZur7-aEg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/oEcNhpwb2FdDy6qN9z8qZA-aIZQDS7w3Qz_bZur7-aEg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "alkohol",
+    "alkoholisme",
+    "alkoholiker"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "alkohol",
+    "alkoholisme",
+    "alkoholiker"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-90896400000+0100)/",
+    "actualTransmissionDate": "/Date(-90896400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-90896400000+0100)/",
+    "actualTransmissionDate": "/Date(-90896400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001966&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H7M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001966&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001966&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001966&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001966&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA6601966-AR-199001278"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "14-02-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA6601966-AR-199001278",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

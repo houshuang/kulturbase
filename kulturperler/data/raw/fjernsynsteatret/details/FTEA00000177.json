@@ -1,0 +1,290 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000177"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001876"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000177",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "15.03.1977",
+  "episodeTitle": "Candida",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00000177",
+  "title": "Candida",
+  "originalTitle": "Fjernsynsteatret",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Candida"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fjernsynsteatret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fjernsynsteatret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Candida"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Candida"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H45M48.56S",
+  "shortDescription": "\"A mystery\", en gåte, har George Bernard Shaw satt som undertittel på ekteskapskomedien \"Candida\" fra 1895, utgitt 1898.",
+  "longDescription": "Av George Bernard Shaw.\nOversatt av Hans Heiberg.\n\"A mystery\", en gåte, har George Bernard Shaw satt som undertittel på\nekteskapskomedien \"Candida\".  Utformingen er vikeligshetsnær, likevel er\nstykket fullt av ubevisst liv.\nDe som er med:  Pastor James Morell ......... Finn KVALEM\n                Pastor Alexander Mill ....... Vidar SANDEM\n                Herr Burgess ................ Arve OPSAHL\n                Fru Candida Morell .......... Kari SIMONSEN\n                Eugene Marchbanks ........... Bentein BAARDSON\n                Frøker Proserpine Garnett ... Jorunn KJELLSBY",
+  "image": {
+    "imageInfo": {
+      "id": "pMe78Rqg_01ZWEEKpy3zMA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.02223913,
+        "width": 1.0,
+        "height": 0.6671739
+      }
+    },
+    "imageWidthCropInfo": "pMe78Rqg_01ZWEEKpy3zMA?x=0.00000000000000000&y=0.02223913043478261&w=1.00000000000000000&h=0.66717391304347820",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/pMe78Rqg_01ZWEEKpy3zMAIEOuQoCGdWtlU9lDRyGKAQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/pMe78Rqg_01ZWEEKpy3zMApkkAMNQKH8dlU9lDRyGKAQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/pMe78Rqg_01ZWEEKpy3zMAbCYn1wsIyQxlU9lDRyGKAQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/pMe78Rqg_01ZWEEKpy3zMAOFWNpZuvukBlU9lDRyGKAQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "komedie",
+    "farse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "komedie",
+    "farse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(227228400000+0100)/",
+    "actualTransmissionDate": "/Date(227228400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(227228400000+0100)/",
+    "actualTransmissionDate": "/Date(227228400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000177&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H45M49S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000177&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000177&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000177&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000177&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000177-AR-199204036"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "15-03-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000177-AR-199204036",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1977
+}

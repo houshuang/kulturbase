@@ -1,0 +1,354 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA51000070"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001671"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea51000070",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "19.03.1972",
+  "episodeTitle": "Alberte",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA51000070",
+  "title": "Alberte",
+  "originalTitle": "Alberte",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 5:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 5:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT57M57.96S",
+  "shortDescription": "Liesel tar abort. Hun er ensom og redd. Alberte får vite at Nils er død. Flere måneder senere finner Alberte ut at hun er gravid med Sivert.",
+  "longDescription": "En film av Sverre Udnæs i samarbeid med Guy Krohg etter Cora Sandels roman:\n\"Alberte og friheten\".  Musikk : Alfred Janson.\nLiesel tar abort.  Eliel og doktor står over henne.  Uhyggelig stemning.\nAlberte på undergrunnen.  Hos Sivert.  Han maler.  Snakker om at de ikke\nser noe til Eliel og Liesel.  Alberte hos Liesel.  Liesel i senga,\nforteller om aborten.  Ensom og redd.  Sivert inn på rommet sitt.  Alberte i\nsenga.  Han har hjulpet Eliel med skulptur.  Kafe : Nordiske kunstnervenner.\nSivert lover å hjelpe Eliel.  Finnen Kalen full og plagsom.  Kona fortvila.\nDansk dame forteller Sivert at Albertes store kjærlighet, Veigård, er død.\nAlberte overhører samtalen og styrter på dør.\nGlimt av episoder med Veigård.  Alberte i mørke gater.  På rommet\nsitt.  Hotellvertinne inn med te, Alberte skriker.  Flere måneder senere:\nSivert hos A.  Har med mat til henne.  A. bare ligger i senga.  Liesel inn.\nEr bare trøtt - kommer ikke over aborten.  Sivert inn med mer mat.  A. kvalm,\nkaster opp utover gulvet.  Sivert går.  A. forteller Liesel hun er gravid.\nS. er faren.  A. forteller hun har fått arbeidslyst.  A. og S. går ute.  Hun\nforteller hun er gravid.  Han ber henne ta det bort.  Hos han - hun nekter å\nta det bort med mindre det går med varme bad.  A. i bad.  Ut igjen - ingenting\nskjer.  Ensom fugl mot himmelen ( 15-20\" ).  Sivert foreslår lege.  Tenker på\nkarrieren sin.  A. ber han gå.  Hos S.  A. vil gå.  Føler tomhet for S.  A.\nute.  Liesel på rommet hennes.  Ømhet mellom A. og L.\nAlberte og Sivert.  Holder rundt hverandre.  Han ber henne flytte\ninn til seg igjen og vil ta ansvar for barnet.\nSkuespillere :                          Den svenske fruen.... Yvonne LOMBARD\nAlberte.......... Monna TANDBERG        Kalen................ Åke LINDMAN\nLiesel........... Kari SIMONSEN         Den norske piken..... Eva von HANNO\nEliel............ Per MYRBERG           Dansk kvinne......... Lilli HOLMER\nSivert Ness...... Jon HEGGEDAL          Madame Caux.......... Vera GREGOIRE\nNils Veigård..... Fritz HELMUTH         Dr. Freytag.......... Serge SPIRA",
+  "image": {
+    "imageInfo": {
+      "id": "KZJEbP-KDjqzlLVbgi27fQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1121026,
+        "width": 1.0,
+        "height": 0.6726156
+      }
+    },
+    "imageWidthCropInfo": "KZJEbP-KDjqzlLVbgi27fQ?x=0.00000000000000000&y=0.11210260115606938&w=1.00000000000000000&h=0.67261560693641630",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQVl4I2zPnNRTdasnQ_yZnXA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQH_77nddnkfDdasnQ_yZnXA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQ-J-F1Kg7UOvdasnQ_yZnXA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQlORi_Itz7PzdasnQ_yZnXA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Yvonne Lombard",
+      "role": "Skuespiller",
+      "givenName": "Yvonne",
+      "familyName": "Lombard"
+    },
+    {
+      "name": "Åke Lindman",
+      "role": "Skuespiller",
+      "givenName": "Åke",
+      "familyName": "Lindman"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Lilli Holmer",
+      "role": "Skuespiller",
+      "givenName": "Lilli",
+      "familyName": "Holmer"
+    },
+    {
+      "name": "Vera Gregoire",
+      "role": "Skuespiller",
+      "givenName": "Vera",
+      "familyName": "Gregoire"
+    },
+    {
+      "name": "Serge Spira",
+      "role": "Skuespiller",
+      "givenName": "Serge",
+      "familyName": "Spira"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(69807600000+0100)/",
+    "actualTransmissionDate": "/Date(69807600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(69807600000+0100)/",
+    "actualTransmissionDate": "/Date(69807600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1403754900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Yvonne Lombard",
+      "role": "Skuespiller",
+      "givenName": "Yvonne",
+      "familyName": "Lombard"
+    },
+    {
+      "name": "Åke Lindman",
+      "role": "Skuespiller",
+      "givenName": "Åke",
+      "familyName": "Lindman"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Lilli Holmer",
+      "role": "Skuespiller",
+      "givenName": "Lilli",
+      "familyName": "Holmer"
+    },
+    {
+      "name": "Vera Gregoire",
+      "role": "Skuespiller",
+      "givenName": "Vera",
+      "familyName": "Gregoire"
+    },
+    {
+      "name": "Serge Spira",
+      "role": "Skuespiller",
+      "givenName": "Serge",
+      "familyName": "Spira"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA51000070&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT57M58S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA51000070&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA51000070&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA51000070&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA51000070&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA510070-AR-199001000"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "19-03-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA510070-AR-199001000",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

@@ -1,0 +1,383 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001872"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002272"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001872",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "22.05.1973",
+  "episodeTitle": "Aksel og Marit",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00001872",
+  "title": "Aksel og Marit",
+  "originalTitle": "Aksel og Marit",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Aksel og Marit"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Aksel og Marit"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Aksel og Marit"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Aksel og Marit"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H27M39.96S",
+  "shortDescription": "Aksel og Marit har lite penger og bor i en gammel leilighet. Når investeringene deres slår feil har de få venner som kan hjelpe.",
+  "longDescription": "FILM del 1:\nTo mannfolk bryter håndbak.  Aksel på arbeidsplassen, diskuterer med\narbeidsformannen.  Aksel er lastebilsjåfør.  Ekstr. Hegdehaugen skole.  Aksel\nut av sin bil og inn i gården.  Marit vasker på skole.  Familien ut av\nforretning og inn i bil som ikke vil starte.  På arbeidsplassen.  Om morgenen i\nleiligheten.  På arbeidsplassen.  Aksel og Ove sammen.  Ove med hjem til\nmiddag. TV-titting.  Ute på restaurant.  Hjemme i Aksel og Marits leilighet.\nEkteparet i sengen.  Aksel har et ærend til direktøren.  Kona serverer ham\ncola. Direktøren.  Aksel forteller Marit om besøket hos direktøren.  A. og M.\ntretter.  A. går ut på restaurant.  Familien hjemme i Odalen.  De tretter i\nportrommet.  Aksel hjemme hos 2 piker han og Ove traff på restaurant.  Aksel og\nMarit ved middagsbordet.  Ute på restaurant.  Marit forteller at hun skal ha\nbarn igjen.  Aksel og Marit hjemme.  Aksel og Ove over en kaffekopp.  Aksel\nleser norsk i NKS.   48'19\".\nFILM del 2:\nSent på kvelden - Aksel kommer full hjem.  Oppgjør mellom Aksel og Marit.\nAksel og Ove på arbeidsplassen.  Middag.  Ove og Aksel på restaurant - Aksel\nskylder Ove penger.  A. og M. vært på sosialkontoret for å få støtte.  Hjemme\netterpå.  Ove sammen med M. og A.  Samtalen dreier seg om penger.  A. og M.\nflytter fra hverandre en stund.  A. flyttet på pensjonat. Ove må ha pengene\nAksel skylder ham.  A. på kafe.  O. på stasjonen - han reiser fra byen.\nPå pensjonatet hvor Aksel blir bedt inn til naboen hvor de sitter og drikker.\nAksel kommer hjem til Marit i leiligheten.  Måltid.  Marit har det bra - de har\nkommet langt fra hverandre.  Aksel går fra henne.\nSluttekst.  39'18\".\nSkuespillere:     Eva OPAKER ............  Marit\n                  Eilif ARMAND ..........  Formann Hansen\n                  Anne Marie OTTERSEN ...  Anne\n                  Grete NORDRÅ ..........  Ektepar på hybel\n                  Rolf SØDER ...........   Ektepar på hybel\n                  Unn Vibeke HOEL .......  Direktørfrue\n                  Sverre Anker OUSDAL ...  Aksel\n                  Ivar NØRVE ............  Ove\n                  Vibeke FALK ...........  Fru Daa-Hansen\n                  Unni EVJEN ............  Serveringsdame\n                  Steffen OUSDAL ........  Anders\n                  Arne LIE ..............  Direktør\n                  Roy BJØRNSTAD .........  Fyllik",
+  "image": {
+    "imageInfo": {
+      "id": "bdtnTgBwc8E5Cn3cwNLjFg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.08595951,
+        "width": 1.0,
+        "height": 0.7367958
+      }
+    },
+    "imageWidthCropInfo": "bdtnTgBwc8E5Cn3cwNLjFg?x=0.00000000000000000&y=0.08595950704225351&w=1.00000000000000000&h=0.73679577464788730",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/bdtnTgBwc8E5Cn3cwNLjFg-AGoYOEzuzTvYEx65RD8bg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bdtnTgBwc8E5Cn3cwNLjFg97OXnpYXej3vYEx65RD8bg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bdtnTgBwc8E5Cn3cwNLjFgDCXz1hgzX0PvYEx65RD8bg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bdtnTgBwc8E5Cn3cwNLjFgZtO9XpbKC3DvYEx65RD8bg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Steffen Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Steffen",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Sigmund Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Sigmund",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Morten Bremer Mærli",
+      "role": "Skuespiller",
+      "givenName": "Morten Bremer",
+      "familyName": "Mærli"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(106869600000+0200)/",
+    "actualTransmissionDate": "/Date(106869600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(106869600000+0200)/",
+    "actualTransmissionDate": "/Date(106869600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Steffen Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Steffen",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Sigmund Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Sigmund",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Morten Bremer Mærli",
+      "role": "Skuespiller",
+      "givenName": "Morten Bremer",
+      "familyName": "Mærli"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001872&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H27M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001872&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001872&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001872&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001872&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001872-ST199001021"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-05-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001872-ST199001021",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

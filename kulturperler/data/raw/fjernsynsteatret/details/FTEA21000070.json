@@ -1,0 +1,354 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA21000070"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000272"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea21000070",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "27.02.1972",
+  "episodeTitle": "Alberte",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA21000070",
+  "title": "Alberte",
+  "originalTitle": "Alberte",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 2:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte 2:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Alberte"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT54M16.96S",
+  "shortDescription": "Det er sommer i Paris. Liesel forteller Alberte at hun vil leve sammen med skulptøren Eliel. Alberte vil også gjerne ha en å være glad i.",
+  "longDescription": "En film av Sverre Udnæs i samarbeid med Guy Krohg.\nEtter Cora Sandels roman \"Alberte og friheten\".\nMusikk: Alfred Janson.\nSommer i Paris.  Alberte går i gater.  Leverer armbånd hos pantelåner.\nTorgkone på grønnsaktorg.  A. og venninnen Liesel i gate.  Liesel\nforteller at hun vil leve sammen med en skulptør.  A. og L. på kafe.  Alberte\npå rommet sitt.  Tenker at hun skulle hatt en å være glad i.  Værelsesgutten\nJean i trappa med katt.  A. i senga si.  A. løper i mørk gate.  Tog inn på\nstasjon.  A. tar farvel med Liesel og skulptøren hennes.  Regnvåt gate, myke\nbølger inn mot sandstrand, glitrende sjø.  A. hos lesbisk dame på hotellet -\nprøver seg på A.  A. på rommet sitt - føler vemmelse.\nJean rydder rommet hennes.  Han frir til henne - får nei.  Alberte\npå buss.  A. i atelieret til vennen til Liesel; skulpturer.  A. i seng; katt.\nA. og en fransk venninne i leiligheten.  A. låner av Liesel og vennen.  Norsk\nkunstnervenn av A. kommer.  A. irritert.  A. går i park med store løvtrær.\nGatelykt mellom løv.  A. i leiligheten.  Dansk venn, Nils Veigård, kommer.\nDe går tur i idyllisk park.  Spiser på uterestaurant - sitter til det er\nmørkt.\nSkuespillere :\nMonna TANDBERG ..... Alberte            Kari SIMONSEN ..... Liesel\nJon HEGGEDAL ....... Sivert Ness        Per MYRBERG ....... Eliel\nSossen KROHG ....... Mlle Wolochinska   Frits HELMUTH ..... Nils Veigård\nMichael LONSDALE ... Jean               Tatiana MOUKHINE .. Marusjka\nFrancoise BERTIN ... Alphonsine         Jean LOUISE ....... Garqon\nDenise PERON ....... Torgkone",
+  "image": {
+    "imageInfo": {
+      "id": "KZJEbP-KDjqzlLVbgi27fQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.123312861,
+        "width": 1.0,
+        "height": 0.6726156
+      }
+    },
+    "imageWidthCropInfo": "KZJEbP-KDjqzlLVbgi27fQ?x=0.00000000000000000&y=0.12331286127167632&w=1.00000000000000000&h=0.67261560693641630",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQuNt-G53dRgWril9Sct2Zag",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQ7xvQPBppea2ril9Sct2Zag",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQq6ByeoczTG6ril9Sct2Zag",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KZJEbP-KDjqzlLVbgi27fQ7NQhRI3mvCWril9Sct2Zag",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "dramatikk",
+    "dramaserie",
+    "dramatisering",
+    "paris",
+    "kunstnerliv",
+    "litteratur"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Michael Lonsdale",
+      "role": "Skuespiller",
+      "givenName": "Michael",
+      "familyName": "Lonsdale"
+    },
+    {
+      "name": "Francoise Bertin",
+      "role": "Skuespiller",
+      "givenName": "Francoise",
+      "familyName": "Bertin"
+    },
+    {
+      "name": "Denise Peron",
+      "role": "Skuespiller",
+      "givenName": "Denise",
+      "familyName": "Peron"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Tatiana Moukhine",
+      "role": "Skuespiller",
+      "givenName": "Tatiana",
+      "familyName": "Moukhine"
+    },
+    {
+      "name": "Jean Louise",
+      "role": "Skuespiller",
+      "givenName": "Jean",
+      "familyName": "Louise"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(67993200000+0100)/",
+    "actualTransmissionDate": "/Date(67993200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(67993200000+0100)/",
+    "actualTransmissionDate": "/Date(67993200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1403754900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Michael Lonsdale",
+      "role": "Skuespiller",
+      "givenName": "Michael",
+      "familyName": "Lonsdale"
+    },
+    {
+      "name": "Francoise Bertin",
+      "role": "Skuespiller",
+      "givenName": "Francoise",
+      "familyName": "Bertin"
+    },
+    {
+      "name": "Denise Peron",
+      "role": "Skuespiller",
+      "givenName": "Denise",
+      "familyName": "Peron"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Per Myrberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Myrberg"
+    },
+    {
+      "name": "Frits Helmuth",
+      "role": "Skuespiller",
+      "givenName": "Frits",
+      "familyName": "Helmuth"
+    },
+    {
+      "name": "Tatiana Moukhine",
+      "role": "Skuespiller",
+      "givenName": "Tatiana",
+      "familyName": "Moukhine"
+    },
+    {
+      "name": "Jean Louise",
+      "role": "Skuespiller",
+      "givenName": "Jean",
+      "familyName": "Louise"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000070&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT54M17S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000070&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000070&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000070&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000070&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA210070-AR-199000997"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-02-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA210070-AR-199000997",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

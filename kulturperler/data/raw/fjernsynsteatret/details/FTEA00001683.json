@@ -1,0 +1,294 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001683"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005583"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001683",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60027",
+  "seasonNumber": "1983",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "12.04.1983",
+  "episodeTitle": "Lille Eyolf",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001683",
+  "title": "Lille Eyolf",
+  "originalTitle": "Lille Eyolf",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Lille Eyolf"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Lille Eyolf"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lille Eyolf"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lille Eyolf"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lille Eyolf"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H37M25.96S",
+  "shortDescription": "Rottejomfruen kommer til familien Allmers for å spørre om de har noe som nager og gnager i det allmerske hus. Drama av Henrik Ibsen.",
+  "longDescription": "Av Henrik Ibsen.  Regi : Eli Ryg.\n\nDe som er med :  Rita Allmers ............. Anne Marie OTTERSEN\n\n                 Asta Allmers ............. Tone DANIELSEN\n\n                 Alfred Allmers ........... Bjørn SKAGESTAD\n\n                 Borgheim ................. Per FRISCH\n\n                 Rottejomfruen ............ Kirsten HOFSETH\n\n                 Lille Eyolf .............. Marcus Strand KIØNIG",
+  "image": {
+    "imageInfo": {
+      "id": "3zDUIEuY_GbujnERwWm90w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.108801119,
+        "width": 1.0,
+        "height": 0.725340843
+      }
+    },
+    "imageWidthCropInfo": "3zDUIEuY_GbujnERwWm90w?x=0.00000000000000000&y=0.10880112269446672&w=1.00000000000000000&h=0.72534081796311150",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90w_icyVPT-JRVUsl0vDsn7Zw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90w9cB1hzLUyo9Usl0vDsn7Zw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90w0Fr9eErF2fBUsl0vDsn7Zw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90wKeCMAcCm1y1Usl0vDsn7Zw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "familie",
+    "handikapp",
+    "omsorgssvikt",
+    "død",
+    "tap",
+    "samliv"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "familie",
+    "handikapp",
+    "omsorgssvikt",
+    "død",
+    "tap",
+    "samliv"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Marcus Strand Kiønig",
+      "role": "Skuespiller",
+      "givenName": "Marcus Strand",
+      "familyName": "Kiønig"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(418946400000+0200)/",
+    "actualTransmissionDate": "/Date(418946400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(418946400000+0200)/",
+    "actualTransmissionDate": "/Date(418946400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1390971300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Marcus Strand Kiønig",
+      "role": "Skuespiller",
+      "givenName": "Marcus Strand",
+      "familyName": "Kiønig"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001683&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H37M26S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001683&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001683&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001683&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001683&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001683-AR-199006139"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "12-04-1983",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001683-AR-199006139",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1983
+}

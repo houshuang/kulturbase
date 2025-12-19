@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000471"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000171"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000471",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60015",
+  "seasonNumber": "1971",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "24.08.1971",
+  "episodeTitle": "Mooney og campingvognen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 12,
+  "startNextEpisode": 10,
+  "id": "FTEA00000471",
+  "title": "Mooney og campingvognen",
+  "originalTitle": "Mooney og campingvognen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Mooney og campingvognen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Mooney og campingvognen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mooney og campingvognen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mooney og campingvognen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H27M54.92S",
+  "shortDescription": "To menneskers kamp for å realisere sine drømmer. Mave og Charley bor på campingplassen for å spare penger til eget hus. Av Peter Terson.",
+  "longDescription": "Av den engelske dramatikeren Peter Terson.\nOversatt av Mimi Omdahl.  Instruktør: Jon Heggedal.\nDekor:  Lajla Hovland.\nI stykket får vi oppleve to menneskers kamp for å realisere sine drømmer.  Men\nde to er ikke \"dyktige\" nok til å leve i våre dagers klatresamfunn.  Hele tiden\nholder forfatteren sine to personers egenskaper opp mot de egenskaper som\nkreves for å \"gjøre lykke\" i samfunnet.\nDe som er med:\nMave ....................... Unni EVJEN\nCharley .................... Per CHRISTENSEN\n(Reprise: 19720801).",
+  "image": {
+    "imageInfo": {
+      "id": "MPkPlDqCSrGuaEU7YCQvsA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.04716889,
+        "width": 1.0,
+        "height": 0.5660266
+      }
+    },
+    "imageWidthCropInfo": "MPkPlDqCSrGuaEU7YCQvsA?x=0.00000000000000000&y=0.04716888714733542&w=1.00000000000000000&h=0.56602664576802510",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/MPkPlDqCSrGuaEU7YCQvsAb7RWnKqrFd9QUSx5cEJOVg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/MPkPlDqCSrGuaEU7YCQvsAC04ZpjaRdPBQUSx5cEJOVg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/MPkPlDqCSrGuaEU7YCQvsAebBDAVIojWhQUSx5cEJOVg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/MPkPlDqCSrGuaEU7YCQvsA2q4pJ-rGrU5QUSx5cEJOVg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(51832800000+0200)/",
+    "actualTransmissionDate": "/Date(51832800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(51832800000+0200)/",
+    "actualTransmissionDate": "/Date(51832800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1431921300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000471&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H27M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000471&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000471&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000471&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000471&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000471-AR-199311495"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-08-1971",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000471-AR-199311495",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1971
+}

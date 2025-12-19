@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65001765"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65001365"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65001765",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 2,
+  "episodeNumberOrDate": "02.02.1965",
+  "episodeTitle": "Noe å glede seg til",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65001765",
+  "title": "Noe å glede seg til",
+  "originalTitle": "Noe å glede seg til",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Noe å glede seg til"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Noe å glede seg til"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Noe å glede seg til"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Noe å glede seg til"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT45M30.96S",
+  "shortDescription": "Den ensomme tømmermannen sitter på en pub i en havneby og forteller om sitt mislykkede liv. Av Gunnar Bull Gundersen.",
+  "longDescription": "\"Et spill for en nesten helt edru mann\" av Gunnar Bull Gundersen.\nStykket er skrevet spesielt for fjernsynsteatret.\nDekor: Bjørn Næss.  Instruktør: Magne Bleness.\nDen ensomme gamle tømmermannen sitter på en pub og snakker med en innbilt ung\nkollega, mens pubverten står som en robot bak disken og sjenker øl og whiskey.\nTømmermannen forteller om sitt mislykkede liv, om brevvekslingen han fører med\nseg selv, og andre patetiske betraktninger om livet.\nI rollene:\nTømmermannen ............. Carsten BYHRING\nPub-verten ............... Hans STORMOEN\nGutten ................... Jon EIKEMO\n(Reprise: 19660719, 19680611).",
+  "image": {
+    "imageInfo": {
+      "id": "RdolhhXjeCIbqBZZA4uMSA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.165288329,
+        "width": 1.0,
+        "height": 0.561097264
+      }
+    },
+    "imageWidthCropInfo": "RdolhhXjeCIbqBZZA4uMSA?x=0.00000000000000000&y=0.16528833400000000&w=1.00000000000000000&h=0.56109725700000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/RdolhhXjeCIbqBZZA4uMSAWA-_0gu86PbeXngo-18tAw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RdolhhXjeCIbqBZZA4uMSA-NpM-EbIl4beXngo-18tAw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RdolhhXjeCIbqBZZA4uMSASwThXnNgOzPeXngo-18tAw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RdolhhXjeCIbqBZZA4uMSAT5P9hPr2Q5_eXngo-18tAw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-155005200000+0100)/",
+    "actualTransmissionDate": "/Date(-155005200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-155005200000+0100)/",
+    "actualTransmissionDate": "/Date(-155005200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424148900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001765&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT45M31S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001765&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001765&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001765&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001765&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65001765-AR-199405116"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "02-02-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65001765-AR-199405116",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

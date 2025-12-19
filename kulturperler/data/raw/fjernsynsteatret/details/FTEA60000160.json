@@ -1,0 +1,264 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000160"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000160",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "15.12.1960",
+  "episodeTitle": "Dr. Korczak og barna",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000160",
+  "title": "Dr. Korczak og barna",
+  "originalTitle": "Dr. Korczak og barna",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Dr. Korczak og barna"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Dr. Korczak og barna"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dr. Korczak og barna"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dr. Korczak og barna"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H19M47.48S",
+  "shortDescription": "Polen 1942. En dag dukker Gestapo opp i et jødisk barnehjem som ledes av den polsk-jødiske legen Henryk Goldszmidt. Skuespill av Erwin Sylvanus.",
+  "longDescription": "Av den tyske forfatteren Erwin Sylvanus.\nOversatt av Inger Hagerup.\nDekor: Bjørn Næss.\nInstruktør: Knut M. Hansson.\nDe som er med:\nFortelleren .................. Per GJERSØE\nSkuespillerinnen ............. Urda ARNEBERG\n1. skuespiller ............... Rolf BERNTZEN\n2. skuespiller ............... Eilif ARMAND\nBarnet ....................... Howard GANZ\n(Reprise: 19620125).",
+  "image": {
+    "imageInfo": {
+      "id": "-lfFH9bziZo8OY1r4xzvWw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.08918821,
+        "width": 1.0,
+        "height": 0.7305195
+      }
+    },
+    "imageWidthCropInfo": "-lfFH9bziZo8OY1r4xzvWw?x=0.00000000000000000&y=0.08918820900000000&w=1.00000000000000000&h=0.73051948100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/-lfFH9bziZo8OY1r4xzvWw_5Xqs6TWqVbwp0vnO0xD4A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-lfFH9bziZo8OY1r4xzvWwME8Z3GSnJmrwp0vnO0xD4A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-lfFH9bziZo8OY1r4xzvWwZfUidrOT96fwp0vnO0xD4A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-lfFH9bziZo8OY1r4xzvWwCkkc_cMFFzbwp0vnO0xD4A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Howard Ganz",
+      "role": "Skuespiller",
+      "givenName": "Howard",
+      "familyName": "Ganz"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-285469200000+0100)/",
+    "actualTransmissionDate": "/Date(-285469200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-285469200000+0100)/",
+    "actualTransmissionDate": "/Date(-285469200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1420174500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Howard Ganz",
+      "role": "Skuespiller",
+      "givenName": "Howard",
+      "familyName": "Ganz"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000160&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H19M47S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000160&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000160&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000160&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000160&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60000160-AR-199421274"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "15-12-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60000160-AR-199421274",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

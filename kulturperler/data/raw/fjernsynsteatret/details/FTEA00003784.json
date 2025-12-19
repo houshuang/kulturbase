@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003784"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003584"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003784",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "22.01.1985",
+  "episodeTitle": "Innbrakt",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00003784",
+  "title": "Innbrakt",
+  "originalTitle": "Innbrakt",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Innbrakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Innbrakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Innbrakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Innbrakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H6M41.96S",
+  "shortDescription": "En mann sitter i avhør. Først behandler politiet ham med høflighet, men bare for å vinne hans fortrolighet. De legger feller, sirkler inn sitt offer.",
+  "longDescription": "Instruktør: Bjørn Sæter\nAv Barrie Keeffe.  Oversatt av Per Frisch.\nEn mann er innbrakt til politet mistenkt for en alvorlig forbrytelse.  Hvorfor\nakkurat han og hvilken forbrytelse får han vite lite om.  Men at han er inn-\nflytter, fattig og arbeidsløs taler ikke til hans fordel i dagens England.\nPolitiets forhørsmetoder fokuseres i \" Innbrakt \", et stykke om rettssikker-\nheten under de nye varetektslovene som er vedtatt og iverksatt i Storbritannia\nsom et resultat av den indre spenningen i riket.\nMedv:  D.S. Karn         Per FRISCH\n       D.C. Wilby        Johannes JONER\n       Sean McCoin       Nils Ole OFTEBRO",
+  "image": {
+    "imageInfo": {
+      "id": "9eq-7IdZsukZtlJyCnK-1w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.05241853,
+        "width": 1.0,
+        "height": 0.725795031
+      }
+    },
+    "imageWidthCropInfo": "9eq-7IdZsukZtlJyCnK-1w?x=0.00000000000000000&y=0.05241852959697733&w=1.00000000000000000&h=0.72579502518891690",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/9eq-7IdZsukZtlJyCnK-1wgPdPYAnJDtBrWluMcSvNBw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9eq-7IdZsukZtlJyCnK-1wvYAn5lRNFMNrWluMcSvNBw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9eq-7IdZsukZtlJyCnK-1w1jdphd64-URrWluMcSvNBw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/9eq-7IdZsukZtlJyCnK-1wimLIv26O4etrWluMcSvNBw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(475196400000+0100)/",
+    "actualTransmissionDate": "/Date(475196400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(475196400000+0100)/",
+    "actualTransmissionDate": "/Date(475196400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428465300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003784&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M42S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003784&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003784&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003784&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003784&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003784-AR-199061618"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-01-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003784-AR-199061618",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1984
+}

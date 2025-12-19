@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006585"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005385"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006585",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "18.08.1985",
+  "episodeTitle": "Fjernsynsteatret i høst",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00006585",
+  "title": "Fjernsynsteatret i høst",
+  "originalTitle": "Fjernsynsteatret i høst",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fjernsynsteatret i høst"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fjernsynsteatret i høst"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret i høst"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret i høst"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT19M15.96S",
+  "shortDescription": "Presentasjon av høstens sendinger. \"Soldatene synger ikke lenger\" er vinnermanuskriptet i Fjernsynsteatrets konkurranse til Fjernsynets 25-årsjubileum.",
+  "longDescription": "Oversikt over Fjernsynsteatrets sendinger høsten 1985.  Fortekst.\nMagnoa Bleness kommenterer utdragene.\na ) Soldatene synger ikke lenger - NRK,regi : Terje Mærli.         (1'10\")\nb ) Blindgjengeren - NRK, regi : Janken Varden.                    (1'28 )\nc ) Du kan da bare ikke gå - NRK, regi : Terje Mærli.              (0'55\")\nd ) Den sultende klasses forbannelse - NRK, regi : C.J. Kiønig.    (1'25\")\ne ) Kong Lear - NRK, regi : Per Bronken.                           (1'38\")\nf ) Strindberg - svensk produksjon.                                (2'05\")\ng ) Saken om Bikos død - britisk produksjon.                       (0'32\")\nh ) Tre søstre - Britisk Thames Television.                        (0'37\")\ni ) Henrik IV - italiensk, Sacis.                                  (0'30\")\nj ) Den store barnedåpen - NRK, regi : Toralf Sande.               (1'20\")\nk ) Vildanden - NRK, regi : Arild Brinchmann.                      (1'53\")\nl ) Kolleksjonen - NRK, regi : Pål Løkkeberg.                      (2'05\")\nm ) Onkel Vanja - NRK, regi : Gerhard Knoop.                       (1'07\")\nn ) Henrik Ibsen og hans menn - NRK, Knut Wigert.                  (0'53\")\no ) Holberg : Erindringer i ord og toner - NRK, Per Aabel.         (0'35\")\np ) Nederlaget - NRK, regi : Per Bronken.                           (0'37\")",
+  "image": {
+    "imageInfo": {
+      "id": "xhMohox-YWNgeD1ESWJJYQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xhMohox-YWNgeD1ESWJJYQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQnF-B7QrxHSdpwZadJ9qy4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQ5uxNUyPeKTNpwZadJ9qy4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQdPxtVFoV5BtpwZadJ9qy4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQHPD6f5_8UM5pwZadJ9qy4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(493164000000+0200)/",
+    "actualTransmissionDate": "/Date(493164000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(493164000000+0200)/",
+    "actualTransmissionDate": "/Date(493164000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1446180900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006585&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT19M16S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006585&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006585&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006585&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006585&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00006585AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "18-08-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00006585AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1985
+}

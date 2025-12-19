@@ -1,0 +1,347 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP34000598"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001767"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp34000598",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "29.03.1968",
+  "episodeTitle": "Skipper Worse: Sara og Henriette",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FDRP34000598",
+  "title": "Skipper Worse: Sara og Henriette",
+  "originalTitle": "Skipper Worse: Sara og Henriette",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skipper Worse: Sara og Henriette"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skipper Worse: Sara og Henriette"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skipper Worse: Sara og Henriette"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skipper Worse: Sara og Henriette"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT42M20.96S",
+  "shortDescription": "Skipper Worse er ikke lenger den mannen erobret verdenshavene. Madam Torvestads renkespill er en trussel mot flere enn den aldrende skipperen. (5:5)",
+  "longDescription": "Av Alexander L. Kielland.\n\nMusikk : Johan Kvandal.\n\nStavanger i 1830-åra.  Henriette ser mot havet (mot Lauritz), mens\n\nstemme leser sammendrag.  Overhører refse-tale som Sara holder for en mann.\n\nH. syns det er grusomt å se søsteren lide under det pietistiske / haugianske\n\nåket.  Hans Nilsen ved sjøen.  Madame Torvestad tar han inn til seg.  Han ser\n\n\"dradd\" ut.  M.T. mener han bør gifte seg med Henriette.  Han til Henriette.\n\nHun nekter.  Mora rasende.  Mann på besøk hos H. Nilsen, vil ha han som\n\npredikant og arbeider på gård for Haugianere.  Blir med.  Worse syk i senga\n\nsi.  Sara leser bibelvers om helvete.  W. helt fortvilet.  Hun setter\n\nmodellskuta hans i skap.  Henriette trassig mot mora.  Mora slår.\n\nSara ved havet - ved gården der H. Nilsen er.  Flatt landskap.\n\nHaugianerne diskuterer H. Nilsen og hans forhold til damer.  Sara på strand\n\nved havet.  H.N. sier farvel til Haugianerne på gården.  H. på landevei ved\n\ngården.  Henriette innkalt til mora, Erik Pontoppidan og hans mor.  Madame\n\nTorvestad lover bort Henriette til E.P.  Hav bryt mot klipper - uvær.\n\nHaugianerne våker over døende Worse.  Henriette ut i nattkjolen - hiver seg\n\npå sjøen.  Menn kommer bærende med H.  Mora går og bær seg over liket.  Sara\n\nut når hun ser det.  Folkemasse beskylder Haugianerne for å ha tatt livet av\n\nHenriette.  Truer dem.  H. redde.  H. Nilsen roer folka ned og de forsvinner.\n\nH.N. inn til Worse - ber for han.  Sier farvel til alle - også Sara.  Sara\n\nforstår hva hun har gjort mot Worse, ser galskapen i fanatisk kristendom.\n\nWorse dør.  Hun legger hodet mot han.  Seilskute for fulle seil i åpent hav.\n\nSKUESPILLERE:\n\nLasse KOLSTAD ............. Skipper Worse\n\nRagnhild MICHELSEN ........ Madame Torvestad\n\nInger Lise WESTBY ......... Sara\n\nArne AAS .................. Hans Nilsen Fennefos\n\nMarit HAMDAHL ............. Henriette\n\nEgil HJORTH-JENSSEN ....... Den gamle farveren\n\nDan FOSSE ................. Endre Egeland\n\nToralf SANDØ ...---........ Sivert Jespersen\n\nBonne GAUGUIN ............. Madam Egeland\n\nIren Thomsen LIE .......... Madam Jespersen\n\nSverre NESHEIM ............ Erik Pontoppidan",
+  "image": {
+    "imageInfo": {
+      "id": "PcOk8KWGbC5aaEoIHbqSrg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.171713,
+        "width": 1.0,
+        "height": 0.551934659
+      }
+    },
+    "imageWidthCropInfo": "PcOk8KWGbC5aaEoIHbqSrg?x=0.00000000000000000&y=0.17171299774605560&w=1.00000000000000000&h=0.55193463561232160",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/PcOk8KWGbC5aaEoIHbqSrgiyWOom694ERwgEXeYRfHlw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PcOk8KWGbC5aaEoIHbqSrgK9RJp070WmFwgEXeYRfHlw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PcOk8KWGbC5aaEoIHbqSrgGq4zEboZs-pwgEXeYRfHlw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PcOk8KWGbC5aaEoIHbqSrg6V_fK1TXfC9wgEXeYRfHlw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "sjøfart",
+    "kristendom",
+    "predikant",
+    "synder",
+    "kjærlighet",
+    "sykdom",
+    "død"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "sjøfart",
+    "kristendom",
+    "predikant",
+    "synder",
+    "kjærlighet",
+    "sykdom",
+    "død"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Nesheim",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Nesheim"
+    },
+    {
+      "name": "Bonne Gaugin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gaugin"
+    },
+    {
+      "name": "Irene Thomsen Lie",
+      "role": "Skuespiller",
+      "givenName": "Irene Thomsen",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-55558800000+0100)/",
+    "actualTransmissionDate": "/Date(-55558800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(905112900000+0200)/",
+    "actualTransmissionDate": "/Date(905112900000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1388984100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Nesheim",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Nesheim"
+    },
+    {
+      "name": "Bonne Gaugin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gaugin"
+    },
+    {
+      "name": "Irene Thomsen Lie",
+      "role": "Skuespiller",
+      "givenName": "Irene Thomsen",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP34000598&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT42M21S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP34000598&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP34000598&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP34000598&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP34000598&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000068-AR-199047294"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-03-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000068-AR-199047294",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

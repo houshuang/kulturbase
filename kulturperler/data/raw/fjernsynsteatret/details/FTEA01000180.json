@@ -1,0 +1,347 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01000180"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000580"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01000180",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60024",
+  "seasonNumber": "1980",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "25.11.1980",
+  "episodeTitle": "Vesla",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA01000180",
+  "title": "Vesla",
+  "originalTitle": "Vesla",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Vesla"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Vesla"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vesla"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vesla"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT54M25.6S",
+  "shortDescription": "Vesla, ni år, er evnemessig seint utviklet. Skal Vesla gå på spesialskole eller skal hun integreres i ordinær grunnskole? Av Erling Pedersen.",
+  "longDescription": "Forfatter: Erling Pedersen.\nSkal Vesla gå på spesialskole eller skal hun integreres i ordinær grunnskole?\nVesla, ni år, er evnemessig sent utviklet.\nDel 1: Ekstr. Stortinget i Oslo.  Vesla ligger og sover, våkner og går til\nforeldrenes soverom.  Familien står opp, spiser frokost.  Biler til skolen.\nVesla settes av ved sin skole hos Rolf.  Laila og faren i samtale om Vesla.\nI skolegården.  På lærerværelset.  I klasserommet hvor Veslas far er lærer.\nVeslas mor i samtale med nabo.  Hun tar drosje til byen.  24'22\".\nDel 2: Vesla hos Rolf, lærer på sin måte med lesespill.  Veslas mor på kafe\nsammen med venninne.  På lærerværelset til Veslas far.  To i samtale om\nVesla.  Samtale om Jarle.  På rektors kontor, samtale om Jarle og Vesla.\nHos skolesjefen for å underskrive papirer som skal få Vesla på spesialskole.\nI Veslas klasse på spesialskolen.  Vesla utenfor skolen sin.  29'19\" med\nmusikk til 29'35\".\nDe som er med:  Per, Veslas far ............ Ståle BJØRNHAUG\n                Nina, Veslas mor ........... Marie Louise TANK\n                Bjørg ...................... Marit KOLBRÆK\n                Rolf ....................... Nils Ole OFTEBRO\n                Mari Jensen ................ Marit GRØNHAUG\n                Rektoren ................... Odd FURØY\n                Skolesjefen ................ Helge REISS\n                Læreren .................... Kaare KROPPAN\n                Fruene ..................... Lieselotte HOLMENE og\n                                             Anne Marie OTTERSEN\n                Vesla ...................... Helen KRANSTAD\n                Laila ...................... Anne RYG",
+  "image": {
+    "imageInfo": {
+      "id": "1NDxzixnjIyzPOy7wLj5wg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.995575249
+      }
+    },
+    "imageWidthCropInfo": "1NDxzixnjIyzPOy7wLj5wg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99557522100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/1NDxzixnjIyzPOy7wLj5wgFGhfEyNvGoV88byu0yGKDQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1NDxzixnjIyzPOy7wLj5wgx9VxNUcU-gZ88byu0yGKDQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1NDxzixnjIyzPOy7wLj5wgUWVpuJlTHJp88byu0yGKDQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1NDxzixnjIyzPOy7wLj5wgti51-mOT3Px88byu0yGKDQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Marit Kolbræk",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Kolbræk"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Helen Kranstad",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Kranstad"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(343954800000+0100)/",
+    "actualTransmissionDate": "/Date(343954800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(343954800000+0100)/",
+    "actualTransmissionDate": "/Date(343954800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Marit Kolbræk",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Kolbræk"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Helen Kranstad",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Kranstad"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000180&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT54M25S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000180&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000180&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000180&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000180&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA010180-AR-199102153"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-11-1980",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA010180-AR-199102153",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1980
+}

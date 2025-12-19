@@ -1,0 +1,377 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001172"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000972"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001172",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "17.10.1972",
+  "episodeTitle": "Sirkulæret",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00001172",
+  "title": "Sirkulæret",
+  "originalTitle": "Sirkulæret",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Sirkulæret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Sirkulæret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Sirkulæret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Sirkulæret"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H15M58.96S",
+  "shortDescription": "En satirisk tragikomedie, et bittersøtt angrep på byråkratiet i det moderne samfunn og på misbruk av språket. Av Václav Havel.",
+  "longDescription": "Av den tsjekkiske dramatikeren (og senere president) Vaclav Havel.\nOversatt av Carl Frederik Prytz.\nDekor:  Dag Frogner.  Instruktør: Gerhard Knoop.\nOm orden, regelverk, kontroll - om kontroll så omfattende at en rent ut ikke\nlenger har kontroll over den.  Et bittersøtt angrep på byrtåkratiet i det\nmoderne samfunn.\nDe som er med:\nJosef Gross ............... Bjarne ANDERSEN\nJohann Balas .............. Ola B. JOHANNESSEN\nHans Kubsch ............... Sverre HANSEN\nJan Morat ................. Arne LIE\nDr. Kunz .................. Knut HUSEBØ\nHelene .................... Anne-Lise TANGSTAD\nMaria ..................... Marit HAMDAHL\nHanna ..................... Randi KOCH\nPerina .................... Bab CHRISTENSEN\nKalus ..................... Thomas FASTING\nJirka ..................... Svein MOEN\nSchuba .................... Sverre HANSEN\nFunksjonærer .............. Paal HANGERAAS\n                            Sigve BØE",
+  "image": {
+    "imageInfo": {
+      "id": "BZ9zHSV86cU2q-sPvbue2A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07465601,
+        "width": 1.0,
+        "height": 0.707267463
+      }
+    },
+    "imageWidthCropInfo": "BZ9zHSV86cU2q-sPvbue2A?x=0.00000000000000000&y=0.07465600775193798&w=1.00000000000000000&h=0.70726744186046510",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/BZ9zHSV86cU2q-sPvbue2A6-qm3mr5PiogIPK72VBL9g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BZ9zHSV86cU2q-sPvbue2AEcHvvHeIylEgIPK72VBL9g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BZ9zHSV86cU2q-sPvbue2Avb1bhgiqzRkgIPK72VBL9g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BZ9zHSV86cU2q-sPvbue2Ap8E-q66D6rkgIPK72VBL9g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "satire"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "satire"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Anne-Lise Tangstad",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Tangstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Paal Hangeraas",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Hangeraas"
+    },
+    {
+      "name": "Sigve Bøe",
+      "role": "Skuespiller",
+      "givenName": "Sigve",
+      "familyName": "Bøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(88120800000+0200)/",
+    "actualTransmissionDate": "/Date(88120800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(88120800000+0200)/",
+    "actualTransmissionDate": "/Date(88120800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Anne-Lise Tangstad",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Tangstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Paal Hangeraas",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Hangeraas"
+    },
+    {
+      "name": "Sigve Bøe",
+      "role": "Skuespiller",
+      "givenName": "Sigve",
+      "familyName": "Bøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001172&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H15M59S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001172&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001172&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001172&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001172&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001172-AR-199311318"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-10-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001172-AR-199311318",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

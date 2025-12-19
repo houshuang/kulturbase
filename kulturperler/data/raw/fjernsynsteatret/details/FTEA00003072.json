@@ -1,0 +1,215 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003072"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000174"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003072",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "31.03.1974",
+  "episodeTitle": "Claes Gill leser \"Bendik og Årolilja\"",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00003072",
+  "title": "Claes Gill leser \"Bendik og Årolilja\"",
+  "originalTitle": "Claes Gill leser \"Bendik og Årolilja\"",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Claes Gill leser \"Bendik og Årolilja\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Claes Gill leser \"Bendik og Årolilja\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Claes Gill leser \"Bendik og Årolilja\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Claes Gill leser \"Bendik og Årolilja\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT15M54.96S",
+  "shortDescription": "En nordisk ballade om Bendik og Åroliljas tragiske kjærlighet, dødsdom og trær som fletter seg sammen over deres graver.",
+  "longDescription": "Skuespilleren Claes GILL leser \"Bendik og Årolilja\" uten manus.\n\"Bendik og Årolilja\" er en nordisk ballade som forteller om den tragiske\nkjærligheten mellom Bendik og Årolilja.  Bendik blir dømt til døden og\nhalshugd, og Årolilja dør av sorg.  De blir gravlagt på hver sin side av\nkirken, men på gravene vokser det opp to trær som fletter seg sammen over\nkirketaket.  En typisk riddervise.",
+  "image": {
+    "imageInfo": {
+      "id": "hFCT4FweMyY5iwLjsKFOLA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0210235249,
+        "width": 1.0,
+        "height": 0.7568469
+      }
+    },
+    "imageWidthCropInfo": "hFCT4FweMyY5iwLjsKFOLA?x=0.00000000000000000&y=0.02102352528089888&w=1.00000000000000000&h=0.75684691011235950",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/hFCT4FweMyY5iwLjsKFOLAypicU6bmiCsxbYXaFQdcJA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hFCT4FweMyY5iwLjsKFOLA2P_xjsDddrAxbYXaFQdcJA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hFCT4FweMyY5iwLjsKFOLAjth_CHwxDcYxbYXaFQdcJA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/hFCT4FweMyY5iwLjsKFOLAH9V8XdgOme8xbYXaFQdcJA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "opplesning"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "opplesning"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Claes Gill",
+      "role": "Skuespiller",
+      "givenName": "Claes",
+      "familyName": "Gill"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(133916400000+0100)/",
+    "actualTransmissionDate": "/Date(133916400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(133916400000+0100)/",
+    "actualTransmissionDate": "/Date(133916400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Claes Gill",
+      "role": "Skuespiller",
+      "givenName": "Claes",
+      "familyName": "Gill"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003072&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT15M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003072&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003072&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003072&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003072&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003072-AR-199211507"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "31-03-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003072-AR-199211507",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

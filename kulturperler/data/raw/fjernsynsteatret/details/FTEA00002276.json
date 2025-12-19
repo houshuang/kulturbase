@@ -1,0 +1,471 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002276"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000377"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002276",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "07.06.1977",
+  "episodeTitle": "Besøk av en gammel dame",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00002276",
+  "title": "Besøk av en gammel dame",
+  "originalTitle": "Besøk av en gammel dame",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Besøk av en gammel dame"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Besøk av en gammel dame"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Besøk av en gammel dame"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Besøk av en gammel dame"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H43M58.96S",
+  "shortDescription": "Claire Zachanassian kommer søkkrik tilbake til hjembyen Güllen for å ta hevn. Hun krever at borgerne skal drepe mannen som engang svek henne.",
+  "longDescription": "Av den sveitsiske forfatteren Friedrich Dürrenmatt (skriver på tysk).\nOversatt av Per Eirik Waage.  Scenograf:  Guy Krohg.\nSveitsisk forfatter, hans største drama \"Der Besuch der alten Dame\" fra 1956\ner en tragikomedie om skyld, hevn og soning og om et helt samfunns moralske\nkorrupsjon gjennom velstandens fristelser.\nDe som er med:  Claire Zachanassian ........ Ragnhild MICHELSEN\n                Hennes ektemann ............ Ole-Jørgen NILSEN\n                Toby ....................... Thor AAMODT\n                Roby ....................... Eyolf Soot KLØVIG\n                Koby ....................... Jon HEGGEDAL\n                Loby ....................... Erik LASSEN\n                Butleren ................... Thorleif REISS\n                Kaufmann ................... Rolf SØDER\n                Hans hustru ................ Evy ENGELSBORG\n                Borgermesteren ............. Arne BANG-HANSEN\n                Presten .................... Arne LIE\n                Læreren .................... Roy BJØRNSTAD\n                Legen ...................... Vilhelm LUND\n                Politimannen ............... Per LILLO-STENBERG\n                Første borger .............. Adolf BJERKE\n                Andre borger ............... Torbjørn HALVORSEN\n                Første frue ................ Nøste SCHWAB\n                Andre frue ................. Sossen KROHG\n                Frøken Luise ............... Rita ABRAHAMSEN\n                Stasjonsmesteren ........... Knut HULTGREN\n                Togføreren ................. Ragnar OLASON\n                Radioreporteren ............ Vidar SANDEM",
+  "image": {
+    "imageInfo": {
+      "id": "VKoG1OZJO-mpzBdDi9CbOQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.24596332,
+        "width": 1.0,
+        "height": 0.681129158
+      }
+    },
+    "imageWidthCropInfo": "VKoG1OZJO-mpzBdDi9CbOQ?x=0.00000000000000000&y=0.24596331282952547&w=1.00000000000000000&h=0.68112917398945520",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/VKoG1OZJO-mpzBdDi9CbOQqnmOtxpHRhw4dWXqJ_VtpQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VKoG1OZJO-mpzBdDi9CbOQb2F1PadPNLw4dWXqJ_VtpQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VKoG1OZJO-mpzBdDi9CbOQeuBVCLHFZZg4dWXqJ_VtpQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VKoG1OZJO-mpzBdDi9CbOQqQqmxIENtdw4dWXqJ_VtpQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Nøste Schwab",
+      "role": "Skuespiller",
+      "givenName": "Nøste",
+      "familyName": "Schwab"
+    },
+    {
+      "name": "Thorleif Reiss",
+      "role": "Skuespiller",
+      "givenName": "Thorleif",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Rita Abrahamsen",
+      "role": "Skuespiller",
+      "givenName": "Rita",
+      "familyName": "Abrahamsen"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(234482400000+0200)/",
+    "actualTransmissionDate": "/Date(234482400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(234482400000+0200)/",
+    "actualTransmissionDate": "/Date(234482400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Nøste Schwab",
+      "role": "Skuespiller",
+      "givenName": "Nøste",
+      "familyName": "Schwab"
+    },
+    {
+      "name": "Thorleif Reiss",
+      "role": "Skuespiller",
+      "givenName": "Thorleif",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Rita Abrahamsen",
+      "role": "Skuespiller",
+      "givenName": "Rita",
+      "familyName": "Abrahamsen"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002276&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H43M59S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002276&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002276&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002276&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002276&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00002276AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-06-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00002276AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1976
+}

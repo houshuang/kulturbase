@@ -1,0 +1,279 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002172"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001072"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002172",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "27.03.1973",
+  "episodeTitle": "Aske",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00002172",
+  "title": "Aske",
+  "originalTitle": "Aske",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Aske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Aske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Aske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Aske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H38M42.96S",
+  "shortDescription": "Et middelaldrende ektepar, Daniel og Cecilie, lever alene i det store huset sitt. De har en sønn, men han har forlatt hjemmet. Av Sverre Udnæs.",
+  "longDescription": "Av Sverre Udnæs.  Musikk:  Gunnar Sønstevold.\nDekor:  Guy Krohg og Kjell Haldaas.  Instruktør:  Sverre Udnæs.\nEt middelaldrende ektepar, Daniel og Cecilie, lever alene i det store huset\nsitt.  De har en sønn, men han har forlatt hjemmet, og de vet ikke engang om\nhan lever eller er død.  Han er jazzmusiker og har brutt ut av foreldrenes\nmiljø.  Mens Cecilie er alene i huset, trenger tre unge - og en eldre - seg\ninn, de er venner av sønnen.  \"Aske\" foreteller om konfliktene som oppstår\nmellom Cecilie - og senere Daniel - og inntrengerne.  Det er en konflikt som\nhar mange sider.\nDe som er med:\nCecilie ................... Wenche FOSS\nDaniel .................... Jørn ORDING\nJo ........................ Svein SCHARFFENBERG\nAllan ..................... Per JANSEN\nStella .................... Anne Marit JACOBSEN\nBenny ..................... Lars NORDRUM",
+  "image": {
+    "imageInfo": {
+      "id": "dUpUJrpekO2hd6auRYs_gA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.132181942,
+        "width": 1.0,
+        "height": 0.7694938
+      }
+    },
+    "imageWidthCropInfo": "dUpUJrpekO2hd6auRYs_gA?x=0.00000000000000000&y=0.13218194254445970&w=1.00000000000000000&h=0.76949384404924760",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/dUpUJrpekO2hd6auRYs_gAtCPsevv5AjqyFdDHsXDoOQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dUpUJrpekO2hd6auRYs_gAY45eKMNcO8SyFdDHsXDoOQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dUpUJrpekO2hd6auRYs_gAaDE4Z4Uj-mayFdDHsXDoOQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/dUpUJrpekO2hd6auRYs_gAxCKBwdwWkD2yFdDHsXDoOQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "drama",
+    "fjernsynsteater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "drama",
+    "fjernsynsteater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(102031200000+0200)/",
+    "actualTransmissionDate": "/Date(102031200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(102031200000+0200)/",
+    "actualTransmissionDate": "/Date(102031200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002172&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H38M43S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002172&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002172&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002172&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002172&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002172-AR-199213135"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-03-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002172-AR-199213135",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

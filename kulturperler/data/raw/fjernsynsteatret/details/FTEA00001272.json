@@ -1,0 +1,336 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001272"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001272",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 21,
+  "episodeNumberOrDate": "19.12.1972",
+  "episodeTitle": "Skuggen av ein helt",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00001272",
+  "title": "Skuggen av ein helt",
+  "originalTitle": "Skuggen av ein helt",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skuggen av ein helt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skuggen av ein helt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skuggen av ein helt  (Skyggen av en helt)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skuggen av ein helt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H17M15.96S",
+  "shortDescription": "Menneska forfattaren skriv om er folkeheltar, opprørsmenn og tapre republikanarar. Men dei er det berre i eiga innbilling. Dei er skrythalsar. Av Sean O'Casey.",
+  "longDescription": "Av den irske proletardikteren Sean O'Casey.\nOversatt av Hartvig Kiran (nynorsk).\nDekor:  Willi Nordraa.  Instruktør: Jon Heggedal.\nHandlingen er lagt til arbeiderkvarteret i Dublin i årene før fristaten blir\ngrunnlagt.  Den aktuelle politiske striden er bare i bakgrunnen.  Menneskene\nforfatteren skriver om er folkehelter, opprørsmenn og tapre republikanere - men\nde er det bare i sin egen innbilling.  De er ikke helter, bare skrythalser -\nskygger av helter.  De er drukkenbolter og kranglefanter, mennesker som lever\net fattig og usselt liv.  De har bruk for noe som kan kaste glans over\nhverdagen - så gjør de andre eller seg selv til helter.\nDe som er med:\nDonald Davoren .............. Frank IVERSEN\nSeumas Shields .............. Jon EIKEMO\nTommy Owens ................. Jan FROSTAD\nAdolphus Grigson ............ Lothar LINDTNER\nMrs. Grigson ................ Karin SIMONNÆS\nMinnie POWELL ............... Helle OTTESEN\nMr. Maguire ................. Bjørn SOTHBERG\nMrs. Hendenson .............. Astrid SCHWAB\nMr. Gallogher ............... Sigurd WERRING\nEn soldat ................... Per LILLO-STENBERG",
+  "image": {
+    "imageInfo": {
+      "id": "wvQXaPBKhO9laVpqgAQYNA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.234937385,
+        "width": 1.0,
+        "height": 0.556430638
+      }
+    },
+    "imageWidthCropInfo": "wvQXaPBKhO9laVpqgAQYNA?x=0.00000000000000000&y=0.23493737957610790&w=1.00000000000000000&h=0.55643063583815030",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/wvQXaPBKhO9laVpqgAQYNAn-m4LaAIvy606E4qDGp9Yg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wvQXaPBKhO9laVpqgAQYNAfvntCZQIaie06E4qDGp9Yg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wvQXaPBKhO9laVpqgAQYNA0WaTRD_Lvyu06E4qDGp9Yg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/wvQXaPBKhO9laVpqgAQYNAEmBmuz5XpOC06E4qDGp9Yg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Bjørn Sothberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sothberg"
+    },
+    {
+      "name": "Karin Simonnæs",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Simonnæs"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Astrid Schwab",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Schwab"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Helle Ottesen",
+      "role": "Skuespiller",
+      "givenName": "Helle",
+      "familyName": "Ottesen"
+    },
+    {
+      "name": "Pelle Christensen",
+      "role": "Skuespiller",
+      "givenName": "Pelle",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Sigurd Werring",
+      "role": "Skuespiller",
+      "givenName": "Sigurd",
+      "familyName": "Werring"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(93567600000+0100)/",
+    "actualTransmissionDate": "/Date(93567600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(93567600000+0100)/",
+    "actualTransmissionDate": "/Date(93567600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Bjørn Sothberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sothberg"
+    },
+    {
+      "name": "Karin Simonnæs",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Simonnæs"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Astrid Schwab",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Schwab"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Helle Ottesen",
+      "role": "Skuespiller",
+      "givenName": "Helle",
+      "familyName": "Ottesen"
+    },
+    {
+      "name": "Pelle Christensen",
+      "role": "Skuespiller",
+      "givenName": "Pelle",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Sigurd Werring",
+      "role": "Skuespiller",
+      "givenName": "Sigurd",
+      "familyName": "Werring"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001272&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M16S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001272&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001272&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001272&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001272&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001272-AR-199311328"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "19-12-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001272-AR-199311328",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

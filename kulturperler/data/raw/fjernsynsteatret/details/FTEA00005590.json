@@ -1,0 +1,566 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005590"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01008091"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005590",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60035",
+  "seasonNumber": "1991",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "29.04.1991",
+  "episodeTitle": "Fedrelandet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00005590",
+  "title": "Fedrelandet",
+  "originalTitle": "Fedrelandet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H13M19.96S",
+  "shortDescription": "Rykter om brannen og flyktningene truer med å splitte den før så harmoniske bygda. Står nå hele feiringa i fare? Del 4.",
+  "longDescription": "Manuskript og regi: Jarl Emsell Larsen og Ulf Breistrand.\nSminke: Vera Strand, Gro Andersen og Mette Ødegaard.\nKostymer: Gro Hofslett Gillesen.\nScenografi: Grethe Hejer.\nFotograf: Arne Borsheim.\nMusikk: Geir Bøhren og Bent Åserud.\nDen \"Internasjonale\" 17. mai-dekorasjonen i Blåfjellstrand står fedig\ngjenreist.\nMen rykter om brannen og flyktningene truer med å splitte den før så harmoniske\nbygda.  Står nå hele feiringa i fare?  Rakel frykter at spolittelsen skal ramme\nhennes mørke datter Astrid.\nOg hva med Astrids pakistanske halvbror som ligger skadd på fylkessjukehuset,\nhar han noe med brannen å gjøre?\nEr da på en måte hele oppstyret i bygda Rakels egen skyld?  Kan hun klare å\nforhindre en katastrofe i bygda?\nI de viktigste rollene:\nRakel ..................................... Liv Bernhoft OSA\nAstrid .................................... Preeti AGARWAI\nRahim ..................................... Daud MIRZA\nStorsletten ............................... Helge JORDAL\nOrdfører Eika ............................. Kaare KROPPAN\nSolfrid Stokke ............................ Wenche KVAMME\nOdd Henriksen ............................. Torfinn NAG\nRandi Henriksen ........................... Arnhild LITLERE\nEsther Gabrielsen ......................... Astrid FOLSTAD\nOtto Fjell ................................ Jack FJELDSTAD\nVigdis Storsletten ........................ Marie Ullestad EEN\nLensmann Os ............................... Frode RASMUSSEN\nBaskaran .................................. Robert JEYANANTHAN\nShanti Baskaran ........................... Mari Regina JEYANANTHAN\nBesta ..................................... Grete NORDRÅ\nCarlos .................................... Luis SILVA\nPedro ..................................... Andres T. GOMEZ\nAgitator .................................. Lothar LINDTNER\nUnni ...................................... Liv HELØE\nUnnis far ................................. Kai REMLOV",
+  "image": {
+    "imageInfo": {
+      "id": "R-LkgvfI0xkMYtcX2XmJNA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.26903373,
+        "width": 1.0,
+        "height": 0.73096627
+      }
+    },
+    "imageWidthCropInfo": "R-LkgvfI0xkMYtcX2XmJNA?x=0.00000000000000000&y=0.26903373266078180&w=1.00000000000000000&h=0.73096626733921820",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAAbJ66QYQDkgCWfuTo0WaHA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAKGvc7PDlgMACWfuTo0WaHA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAnHaPObLJZdICWfuTo0WaHA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAFLNri6YjSxgCWfuTo0WaHA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "innvandrere",
+    "innvandring",
+    "innvandringspolitikk",
+    "rasisme",
+    "samfunnsproblemer"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "innvandrere",
+    "innvandring",
+    "innvandringspolitikk",
+    "rasisme",
+    "samfunnsproblemer"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Jan Erik Hammer",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Hammer"
+    },
+    {
+      "name": "Marie Ullestad Een",
+      "role": "Skuespiller",
+      "givenName": "Marie Ullestad",
+      "familyName": "Een"
+    },
+    {
+      "name": "Andres T. Gomez",
+      "role": "Skuespiller",
+      "givenName": "Andres T.",
+      "familyName": "Gomez"
+    },
+    {
+      "name": "Olle-Ronny Asum Hansson",
+      "role": "Skuespiller",
+      "givenName": "Olle-Ronny Asum",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Luis Silva",
+      "role": "Skuespiller",
+      "givenName": "Luis",
+      "familyName": "Silva"
+    },
+    {
+      "name": "Siuagi Vivekananthan",
+      "role": "Skuespiller",
+      "givenName": "Siuagi",
+      "familyName": "Vivekananthan"
+    },
+    {
+      "name": "Mari Regina Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Mari Regina",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Robert Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Robert",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Preeti Agarwal",
+      "role": "Skuespiller",
+      "givenName": "Preeti",
+      "familyName": "Agarwal"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Arnhild Litleré",
+      "role": "Skuespiller",
+      "givenName": "Arnhild",
+      "familyName": "Litleré"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Liv Bernhoft Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv Bernhoft",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Daud Mirza",
+      "role": "Skuespiller",
+      "givenName": "Daud",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Frode Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Frode",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Liv Heløe",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Heløe"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Inger-Johanne Rütter",
+      "role": "Skuespiller",
+      "givenName": "Inger-Johanne",
+      "familyName": "Rütter"
+    },
+    {
+      "name": "Bibi Razia",
+      "role": "Skuespiller",
+      "givenName": "Bibi",
+      "familyName": "Razia"
+    },
+    {
+      "name": "Dennis Storhøi",
+      "role": "Skuespiller",
+      "givenName": "Dennis",
+      "familyName": "Storhøi"
+    },
+    {
+      "name": "Bjørn Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Opsahl"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(672876000000+0200)/",
+    "actualTransmissionDate": "/Date(672876000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(672876000000+0200)/",
+    "actualTransmissionDate": "/Date(672876000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391057700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jan Erik Hammer",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Hammer"
+    },
+    {
+      "name": "Marie Ullestad Een",
+      "role": "Skuespiller",
+      "givenName": "Marie Ullestad",
+      "familyName": "Een"
+    },
+    {
+      "name": "Andres T. Gomez",
+      "role": "Skuespiller",
+      "givenName": "Andres T.",
+      "familyName": "Gomez"
+    },
+    {
+      "name": "Olle-Ronny Asum Hansson",
+      "role": "Skuespiller",
+      "givenName": "Olle-Ronny Asum",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Luis Silva",
+      "role": "Skuespiller",
+      "givenName": "Luis",
+      "familyName": "Silva"
+    },
+    {
+      "name": "Siuagi Vivekananthan",
+      "role": "Skuespiller",
+      "givenName": "Siuagi",
+      "familyName": "Vivekananthan"
+    },
+    {
+      "name": "Mari Regina Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Mari Regina",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Robert Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Robert",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Preeti Agarwal",
+      "role": "Skuespiller",
+      "givenName": "Preeti",
+      "familyName": "Agarwal"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Arnhild Litleré",
+      "role": "Skuespiller",
+      "givenName": "Arnhild",
+      "familyName": "Litleré"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Liv Bernhoft Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv Bernhoft",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Daud Mirza",
+      "role": "Skuespiller",
+      "givenName": "Daud",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Frode Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Frode",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Liv Heløe",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Heløe"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Inger-Johanne Rütter",
+      "role": "Skuespiller",
+      "givenName": "Inger-Johanne",
+      "familyName": "Rütter"
+    },
+    {
+      "name": "Bibi Razia",
+      "role": "Skuespiller",
+      "givenName": "Bibi",
+      "familyName": "Razia"
+    },
+    {
+      "name": "Dennis Storhøi",
+      "role": "Skuespiller",
+      "givenName": "Dennis",
+      "familyName": "Storhøi"
+    },
+    {
+      "name": "Bjørn Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Opsahl"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005590&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H13M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005590&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005590&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005590&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005590&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005590-AR-199201233"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-04-1991",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005590-AR-199201233",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1990
+}

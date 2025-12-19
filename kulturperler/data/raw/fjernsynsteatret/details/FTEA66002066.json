@@ -1,0 +1,319 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66002066"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA67000167"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66002066",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "13.06.1967",
+  "episodeTitle": "Den nøysomme elsker",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA66002066",
+  "title": "Den nøysomme elsker",
+  "originalTitle": "Den nøysomme elsker",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den nøysomme elsker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den nøysomme elsker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den nøysomme elsker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den nøysomme elsker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H52M37.96S",
+  "shortDescription": "Ekteskapet mellom Mary og Victor halter og hun skaffer seg Clive som elsker. Men under en ferietur i Amsterdam blir Mary og Clive avslørt av Victor.",
+  "longDescription": "Av den britiske forfatteren Graham Greene.\nOversatt av Finn Havrevold.\nDekor: Sverre Andersen.\nInstruktør: Knut M. Hansson.\nEkteskapet mellom Mary og Victor halter, hun skaffer seg Clive som elsker.\nUnder en ferietur i Amsterdam, overraskes Mary og Clive av ektemannen, som ikke\nforstår hva som er fatt før Clive selv avslører det for å framtvinge en\nskilsmisse.  Mary elsker begge og kan ikke velge.  Victor løser problemet ved å\nla elskeren få \"besøksrett\" hos sin kone, mens han selv får beholde henne.\nSkuespillere:\nHenny MOAN ...........   Mary              Tor STOKKE .....   Victor\nKnut RISAN ...........   Clive             Eli-Anne REITAN ...   Ann\nRagnhild MICHELSEN ...   Margaret\nHarald Heide STEEN ...   William\nJan-Ole KJERNSMO .....   Robin\nCarsten BYHRING ......   En hotelltjener\nPer GJERSØE ..........   Dr. van Droog",
+  "image": {
+    "imageInfo": {
+      "id": "ZXQtDXj9Der39oQVQBdPwQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.6729911
+      }
+    },
+    "imageWidthCropInfo": "ZXQtDXj9Der39oQVQBdPwQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.67299107142857150",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ZXQtDXj9Der39oQVQBdPwQ-fsSKm_llM9FuFIOTpf4mw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZXQtDXj9Der39oQVQBdPwQKyvk8E-FnaVFuFIOTpf4mw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZXQtDXj9Der39oQVQBdPwQeoQwrjLdvp1FuFIOTpf4mw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZXQtDXj9Der39oQVQBdPwQ1kVwt9kTCTVFuFIOTpf4mw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "ekteskap",
+    "utroskap"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "ekteskap",
+    "utroskap"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Eli-Anne Reitan",
+      "role": "Skuespiller",
+      "givenName": "Eli-Anne",
+      "familyName": "Reitan"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Jan-Ole Kjernsmo",
+      "role": "Skuespiller",
+      "givenName": "Jan-Ole",
+      "familyName": "Kjernsmo"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-80618400000+0200)/",
+    "actualTransmissionDate": "/Date(-80618400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-80618400000+0200)/",
+    "actualTransmissionDate": "/Date(-80618400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Eli-Anne Reitan",
+      "role": "Skuespiller",
+      "givenName": "Eli-Anne",
+      "familyName": "Reitan"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Jan-Ole Kjernsmo",
+      "role": "Skuespiller",
+      "givenName": "Jan-Ole",
+      "familyName": "Kjernsmo"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002066&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H52M38S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002066&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002066&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002066&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002066&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66002066-AR-199001023"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "13-06-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66002066-AR-199001023",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

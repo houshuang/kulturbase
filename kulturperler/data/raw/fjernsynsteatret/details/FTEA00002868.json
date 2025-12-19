@@ -1,0 +1,321 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002868"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003368"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002868",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "27.08.1968",
+  "episodeTitle": "Trilopites",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00002868",
+  "title": "Trilopites",
+  "originalTitle": "Trilopites",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Trilopites"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Trilopites"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Trilopites"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Trilopites"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT55M15.96S",
+  "shortDescription": "Professor Truman blir interessert i en orangutang under et besøk i en dyrehage. Han bestemmer seg for å kjøpe apen og lære den opp. Av Mathis Mathisen.",
+  "longDescription": "Av Mathis Mathisen.\nFILM: Mann går langs park.  Går på ung mann som blir irritert, 0'25\".\nVitenskapsmann handler avis hos kioskdame.  Betaler seg inn i Zoologisk hage.\nFILM: Vitenskapsmannen i Zoo   København  .  Går langs gjerde med fugler\ninnenfor.  Mann står i veien for han.  Går bortover   stemme presenterer han\nSer på lamaer, mater elefant.  I apehuset, ser på de, setter seg på benk.\nVaktmann mater apene.  Vitenskapsmann gir tegn til vaktmannen om at han vil\nha kontakt med apene.  Møter hverandre utenfor.  Vitenskapsmannen spår en ape\ni handa ved å ta handa ut gjennom gitteret.  Spår deretter vaktmannen i handa.\nPå benk sammen med barn og ser på apene, 8'54\".\nVitenskapsmannen kjøper apen og lærer den å bli et menneske.  Resulterer i at\napen Trilopites både forandrer utseende og får til slutt professoratet som\nvitenskapsmannen innehar.  Trilopites vil at hans læremester skal bli\nassistenten hans. Vitenskapsmannen klarer ikke påkjenningen - at apen har gått\nforbi han på alle punkter her i livet - han gifter seg også og tar livet av\nhan.\nFILM: Vitenskapsmannen i Zoo, går rundt.  Papegøye skriker \"ape\" til han,\n2'54\".\nSkuespillere:   Sverre HANSEN ...........  Dr. Truman, vitenskapsmannen\n                Rolf SØDER ..............  Trilopites\n                Else HEIBERG ............  Avisdamen\n                Frimann Falck CLAUSEN ...  Billettøren\n                Ottar WICKLUND ..........  Vokteren\n                William NYREN ...........  Snekkeren\n                Ragnhild MICHELSEN ......  Danseskolelærerinne\n                Michaela SPANDOW ........  En ung dame\n                Arne BANG-HANSEN ........  Stemmebrukslæreren",
+  "image": {
+    "imageInfo": {
+      "id": "kP6xwDTysoQeXNOKKm-8Vw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.130538344,
+        "width": 1.0,
+        "height": 0.55945003
+      }
+    },
+    "imageWidthCropInfo": "kP6xwDTysoQeXNOKKm-8Vw?x=0.00000000000000000&y=0.13053834237025560&w=1.00000000000000000&h=0.55945003872966690",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/kP6xwDTysoQeXNOKKm-8Vwo_4aM3eA9GfWeSx37pHvtA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kP6xwDTysoQeXNOKKm-8VwI-Y2lSYb_c3WeSx37pHvtA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kP6xwDTysoQeXNOKKm-8Vwy40QZoWp8F3WeSx37pHvtA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/kP6xwDTysoQeXNOKKm-8VwgsbuCMiawCfWeSx37pHvtA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "aper",
+    "orangutang",
+    "opplæring"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "aper",
+    "orangutang",
+    "opplæring"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Michaela Spandow",
+      "role": "Skuespiller",
+      "givenName": "Michaela",
+      "familyName": "Spandow"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-42516000000+0200)/",
+    "actualTransmissionDate": "/Date(-42516000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-42516000000+0200)/",
+    "actualTransmissionDate": "/Date(-42516000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Michaela Spandow",
+      "role": "Skuespiller",
+      "givenName": "Michaela",
+      "familyName": "Spandow"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002868&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT55M16S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002868&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002868&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002868&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002868&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002868-AR-199001006"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-08-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002868-AR-199001006",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

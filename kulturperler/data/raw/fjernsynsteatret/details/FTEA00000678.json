@@ -1,0 +1,419 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000678"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001877"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000678",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60022",
+  "seasonNumber": "1978",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "03.10.1978",
+  "episodeTitle": "Ripsvin og reinlender",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00000678",
+  "title": "Ripsvin og reinlender",
+  "originalTitle": "Ripsvin og reinlender",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Ripsvin og reinlender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Ripsvin og reinlender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ripsvin og reinlender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ripsvin og reinlender"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H4M14.96S",
+  "shortDescription": "Gerd og Sverre en har fire unger som har gått ulike veier. Da familien møtes til Gerds fødselsdag blir de konfrontert med en handling Gerd har begått.",
+  "longDescription": "Av Alf Prøysen.\nSminke: Kari Wigre.  Kostymer: Ivar Karlsen.  Dekorasjon: Grethe Hejer.\nBildeprodusent: Anne Cath. Sommerfeldt.\nRegi: Svein Erik Brodal.\nKjærligheten går sine egne veier, og av og til må en stanse opp og undre seg\nlitt over hvordan det ville blitt her i livet hvis en hadde møtt en annen\nlitt før, eller hadde forstått hva som lå i en overraskende gave, for\neksempel en blå kopp.\nI rollene :\nHu ....................................... Anne KRIGSVOLL\nArne Dalsveen ............................ Øystein RØGER\nArne Dalsveen, fjorten år ................ Sjur VASAASEN\nMatja Bærjom ............................. Aud SCHØNEMANN\nKokka .................................... Inger Lise RYPDAL\nStugujinta ............................... Anne NYUTSTUMO\nMora ..................................... Anita RUMMELHOFF\nEven ..................................... Thor AAMODT",
+  "image": {
+    "imageInfo": {
+      "id": "5rbHJM8Kl4nqaahR-nFwJQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.156087235,
+        "width": 1.0,
+        "height": 0.6689453
+      }
+    },
+    "imageWidthCropInfo": "5rbHJM8Kl4nqaahR-nFwJQ?x=0.00000000000000000&y=0.15608723958333331&w=1.00000000000000000&h=0.66894531250000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5rbHJM8Kl4nqaahR-nFwJQqjCDWP60xQEyhRvAWDv8pw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5rbHJM8Kl4nqaahR-nFwJQmIRCetWz0pkyhRvAWDv8pw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5rbHJM8Kl4nqaahR-nFwJQVRDKf4fqJhYyhRvAWDv8pw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5rbHJM8Kl4nqaahR-nFwJQO4TFshK70N0yhRvAWDv8pw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Reidar Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Per Westby Moen",
+      "role": "Skuespiller",
+      "givenName": "Per Westby",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Kalle Øby",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Øby"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Aril Martinsen",
+      "role": "Skuespiller",
+      "givenName": "Aril",
+      "familyName": "Martinsen"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Knut Walle",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Walle"
+    },
+    {
+      "name": "Karen Randers-Pehrson",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Randers-Pehrson"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Eli Anne Lindestad",
+      "role": "Skuespiller",
+      "givenName": "Eli Anne",
+      "familyName": "Lindestad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(276213600000+0200)/",
+    "actualTransmissionDate": "/Date(276213600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(276213600000+0200)/",
+    "actualTransmissionDate": "/Date(276213600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Reidar Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Per Westby Moen",
+      "role": "Skuespiller",
+      "givenName": "Per Westby",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Kalle Øby",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Øby"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Aril Martinsen",
+      "role": "Skuespiller",
+      "givenName": "Aril",
+      "familyName": "Martinsen"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Knut Walle",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Walle"
+    },
+    {
+      "name": "Karen Randers-Pehrson",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Randers-Pehrson"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Eli Anne Lindestad",
+      "role": "Skuespiller",
+      "givenName": "Eli Anne",
+      "familyName": "Lindestad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000678&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4M15S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000678&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000678&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000678&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000678&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000678-AR-199203878"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "03-10-1978",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000678-AR-199203878",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1978
+}

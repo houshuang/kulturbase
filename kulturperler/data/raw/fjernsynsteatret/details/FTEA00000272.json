@@ -1,0 +1,365 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000272"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA31000070"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000272",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "29.02.1972",
+  "episodeTitle": "Kong Oidipus",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00000272",
+  "title": "Kong Oidipus",
+  "originalTitle": "Kong Oidipus",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kong Oidipus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kong Oidipus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kong Oidipus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kong Oidipus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H4.36S",
+  "shortDescription": "Kong Laios får vite av oraklet i Delfi at han skal få en sønn som kommer til å drepe ham. Av den greske tragediedikter Sofokles.",
+  "longDescription": "Klassisk drama av den greske dikteren Sofokles.\nStykket er oversatt til nynorsk.\nMusikk: Gunnar Sønstevold.\nDekorasjon og kostyme: Nils Svenwall.  Sminke: Karin Sæther.\nInstruktør:  Hans Dahlin.\nKong Laios i byen Tebe fikk ikke barn med kona si, Jokaste.  Han rådspurte\noraklet i Delfi og fikk vite at han skulle få en sønn som skulle komme til å\ndrepe ham.  Da barnet ble født ble det lagt ut i fjellet, men en gjeter førte\nbarnet til kong Polybos i Korint, og der vokste det opp under navnet Oidipus.\nSelv trodde Oidipus at Polybos var faren hans, og da oraklet en gang spådde at\nhan skulle drepe faren og få barn med moren, rømte han fra Korint og dro til\nTebe, der orakelordene ble sanne.  Dette er bakgrunnen for Sofokles drama.\nDe som er med:\nOidipus ................ Joachim CALMEYER\nJokaste ................ Helen BRINCHMANN\nKreon .................. Finn KVALEM\nTeiresias .............. Kolbjørn BUØEN\nEn gammel prest ........ Ingolf ROGDE\nBudbærer fra Korint .... Gisle STRAUME\nEn gjeter .............. Stig EGEDE-NISSEN\nEn tener hos Oidipus ... Erik HIVJU\nKorføreren ............. Thomas FASTING\nKoret .................. Helga BACKE,\n                         Marit ØSTBYE,\n                         Paal HANGERAAS,\n                         Einar WENES",
+  "image": {
+    "imageInfo": {
+      "id": "p0RcPmQkEZAfDe46CgaKsA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1178125,
+        "width": 1.0,
+        "height": 0.73125
+      }
+    },
+    "imageWidthCropInfo": "p0RcPmQkEZAfDe46CgaKsA?x=0.00000000000000000&y=0.11781250000000000&w=1.00000000000000000&h=0.73125000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/p0RcPmQkEZAfDe46CgaKsAFApC7IDEsuQkO1-f0L-kGw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p0RcPmQkEZAfDe46CgaKsAP0P-qoeGkbkkO1-f0L-kGw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p0RcPmQkEZAfDe46CgaKsASQKjR3bb25IkO1-f0L-kGw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p0RcPmQkEZAfDe46CgaKsA4EP8pd-vxgAkO1-f0L-kGw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "gresk tragedie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "gresk tragedie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Marit Østbye",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Østbye"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    },
+    {
+      "name": "Paal Hangeraas",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Hangeraas"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(68166000000+0100)/",
+    "actualTransmissionDate": "/Date(68166000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(68166000000+0100)/",
+    "actualTransmissionDate": "/Date(68166000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1431921300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Marit Østbye",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Østbye"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    },
+    {
+      "name": "Paal Hangeraas",
+      "role": "Skuespiller",
+      "givenName": "Paal",
+      "familyName": "Hangeraas"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000272&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000272&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000272&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000272&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000272&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000272-AR-199310340"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-02-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000272-AR-199310340",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

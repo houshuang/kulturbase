@@ -1,0 +1,316 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001077"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000978"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001077",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60022",
+  "seasonNumber": "1978",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "11.04.1978",
+  "episodeTitle": "Twigs",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00001077",
+  "title": "Twigs",
+  "originalTitle": "Twigs",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Twigs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Twigs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Twigs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Twigs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Twigs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H40M39.96S",
+  "shortDescription": "Wenche Foss feiret i 1975 sitt 40-års jubileum som skuespiller med rollene i \"Twigs\" på Oslo Nye Teater. Komedie i 4 deler av George Furth.",
+  "longDescription": "Av George Furth.  Oversatt av Johan Fillinger.\nWenche Foss feiret i 1975 sitt 40-års jubileum som skuespiller med rollene\ni \"Twigs\" på Oslo Nye Teater.  Hun spiller de samme rollene i TV-versjonen.\nKomedie i 4 deler.\nDe som er med: Del 1.\n               Frank .......... Roy BJØRNSTAD\n               Emily .......... Wenche FOSS\n               Del 2.\n               Phil ........... Rolf SØDER\n               Swede .......... Per Theodor HAUGEN\n               Celia .......... Wenche FOSS\n               Del 3.\n               Lou ............ Arne BANG-HANSEN\n               Dorothy ........ Wenche FOSS\n               Ned ............ William NYREN\n               Del 4.\n               Fatter ......... Leif JUSTER\n               Mutter ......... Wenche FOSS\n               Presten ........ Helge REISS",
+  "image": {
+    "imageInfo": {
+      "id": "QZ07c4pw_SGpnSR36EMS_w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07998441,
+        "width": 1.0,
+        "height": 0.8468938
+      }
+    },
+    "imageWidthCropInfo": "QZ07c4pw_SGpnSR36EMS_w?x=0.00000000000000000&y=0.07998441530524505&w=1.00000000000000000&h=0.84689380911435940",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/QZ07c4pw_SGpnSR36EMS_wyEfcSlN2mRpwRELwL8_Y3Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QZ07c4pw_SGpnSR36EMS_w_B50Ys4tbnVwRELwL8_Y3Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QZ07c4pw_SGpnSR36EMS_woXuadKd5pDVwRELwL8_Y3Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/QZ07c4pw_SGpnSR36EMS_w-KjNEvf0M69wRELwL8_Y3Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "familie",
+    "søstre",
+    "ekteskap",
+    "thanksgiving"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "familie",
+    "søstre",
+    "ekteskap",
+    "thanksgiving"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Leif Juster",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Juster"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(261093600000+0200)/",
+    "actualTransmissionDate": "/Date(261093600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(261093600000+0200)/",
+    "actualTransmissionDate": "/Date(261093600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391835300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Leif Juster",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Juster"
+    },
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001077&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H40M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001077&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001077&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001077&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001077&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001077-AR-199203739"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-04-1978",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001077-AR-199203739",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1977
+}

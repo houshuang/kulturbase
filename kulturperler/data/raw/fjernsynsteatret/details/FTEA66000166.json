@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66000166"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66001566"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66000166",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "30.08.1966",
+  "episodeTitle": "Dikt og sanger av Bert Brecht",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66000166",
+  "title": "Dikt og sanger av Bert Brecht",
+  "originalTitle": "Dikt og sanger av Bert Brecht",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Dikt og sanger av Bert Brecht"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Dikt og sanger av Bert Brecht"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dikt og sanger av Bert Brecht (Dikt og sanger av Bertolt Brecht)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Dikt og sanger av Bert Brecht"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT28M9.96S",
+  "shortDescription": "Presentert av skuespillerinnen Marit Bolling, akkompagnert av Finn Ludt på klaver. Vi får bl.a. høre \"Sangen om ja og nei\" og \"Fredssang\".",
+  "longDescription": "Marit BOLLING presenterer et utvalg av dikt og sanger av Bert Brecht,\nakkompagnert av Finn LUDT.\nDiktene er oversatt av Georg Johannessen.",
+  "image": {
+    "imageInfo": {
+      "id": "vTSLbqysORV-eJ7qK2HVFQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.117711805,
+        "width": 1.0,
+        "height": 0.730625
+      }
+    },
+    "imageWidthCropInfo": "vTSLbqysORV-eJ7qK2HVFQ?x=0.00000000000000000&y=0.11771180555555556&w=1.00000000000000000&h=0.73062500000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/vTSLbqysORV-eJ7qK2HVFQpam4sB47VD11SH8qO4FijA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/vTSLbqysORV-eJ7qK2HVFQlq12J3G-b1Z1SH8qO4FijA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/vTSLbqysORV-eJ7qK2HVFQg0qkjmc2WO51SH8qO4FijA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/vTSLbqysORV-eJ7qK2HVFQbWamcJrvDGt1SH8qO4FijA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Finn Ludt",
+      "role": "Artist/Utøver",
+      "givenName": "Finn",
+      "familyName": "Ludt"
+    },
+    {
+      "name": "Marit Bolling",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Bolling"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-105415200000+0200)/",
+    "actualTransmissionDate": "/Date(-105415200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-105415200000+0200)/",
+    "actualTransmissionDate": "/Date(-105415200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1426654500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Finn Ludt",
+      "role": "Artist/Utøver",
+      "givenName": "Finn",
+      "familyName": "Ludt"
+    },
+    {
+      "name": "Marit Bolling",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Bolling"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66000166&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT28M10S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66000166&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66000166&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66000166&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66000166&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66000166-AR-199316254"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-08-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66000166-AR-199316254",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

@@ -1,0 +1,520 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP16000293"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp16000293",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "29.12.1993",
+  "episodeTitle": "Peer Gynt 2:2",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP16000293",
+  "title": "Peer Gynt 2:2",
+  "originalTitle": "Peer Gynt 2:2",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Peer Gynt 2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Peer Gynt 2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Peer Gynt  2:2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret 1993: Peer Gynt, del 2"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H4M37S",
+  "shortDescription": "Av Henrik Ibsen. Peer er i Afrika, og er blitt rik. Peer reiser tilbake til Norge, og hjemme igjen drar han opp i fjellet og blir selvransakende.",
+  "longDescription": "Den første fjernsynsoppsetningen av Henrik Ibsen sitt store, dramatiske verk,\n\n\"Peer Gynt\", bearbeidet for fjernsyn i to deler.\n\nBearbeidet av Bentein Baardson og Bodil Kvamme.\n\nKomponist: Ketil Hvoslef.\n\nProsjektleder: Dag Alveberg.\n\n\"Gå utenom\" sa Bøygen, og det har vært livsmottoet til Peer Gynt.  I del 2\n\nmøter vi Peer Gynt som den store spekulant i Afrika.  Vi følger ham på reisen\n\ntilbake til Norge, og den endelige erkjennelse av hans sanne jeg.\n\nI rollene: Peer ..................... Paul Ottar HAGA\n\n           Solveig .................. Elisabeth MATHESON\n\n           Anitra ................... Olga PAPALEXIOU\n\n           Ballon ................... Pelle CHRISTENSEN\n\n           Eberkopf ................. Alex SCHERPF\n\n           Cotton ................... Dene O'NEILL\n\n           Trumpeterstråle .......... Lennart LINDSTRØM\n\n           Begriffenfeldt ........... Ola B. JOHANNESSEN\n\n           Den Fremmede Passasjer ... Svein TINDBERG\n\n           Presten .................. Stein Grieg HALVORSEN\n\n           Aslak Smed ............... Reidar SØRENSEN\n\n           Kannestøperen ............ Svein Erik BRODAL\n\n           Dovregubben .............. Erik HIVJU\n\n           Den Magre ................ Knut WIGERT",
+  "image": {
+    "imageInfo": {
+      "id": "-XkZIdnZ-qJ5BmGf9G2hdA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09046806,
+        "width": 1.0,
+        "height": 0.858123541
+      }
+    },
+    "imageWidthCropInfo": "-XkZIdnZ-qJ5BmGf9G2hdA?x=0.00000000000000000&y=0.09046805700000000&w=1.00000000000000000&h=0.85812357000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/-XkZIdnZ-qJ5BmGf9G2hdAh9ku1NiuafyASk4dAoNX6g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-XkZIdnZ-qJ5BmGf9G2hdAItVEEWrask6ASk4dAoNX6g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-XkZIdnZ-qJ5BmGf9G2hdAG_bWEgar8ASASk4dAoNX6g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-XkZIdnZ-qJ5BmGf9G2hdAC61RZ3jhtDWASk4dAoNX6g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "dramaserie",
+    "dikt",
+    "teater",
+    "satire"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "dramaserie",
+    "dikt",
+    "teater",
+    "satire"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Lennart Lidstrøm",
+      "role": "Skuespiller",
+      "givenName": "Lennart",
+      "familyName": "Lidstrøm"
+    },
+    {
+      "name": "Lina Koreh",
+      "role": "Skuespiller",
+      "givenName": "Lina",
+      "familyName": "Koreh"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Gustav Jansen",
+      "role": "Skuespiller",
+      "givenName": "Gustav",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Jan Fredrik Hossmann",
+      "role": "Skuespiller",
+      "givenName": "Jan Fredrik",
+      "familyName": "Hossmann"
+    },
+    {
+      "name": "Danielle Halluin",
+      "role": "Skuespiller",
+      "givenName": "Danielle",
+      "familyName": "Halluin"
+    },
+    {
+      "name": "Tone Holberg Hvidsten",
+      "role": "Skuespiller",
+      "givenName": "Tone Holberg",
+      "familyName": "Hvidsten"
+    },
+    {
+      "name": "Lorraine O'Keeffe",
+      "role": "Skuespiller",
+      "givenName": "Lorraine",
+      "familyName": "O'Keeffe"
+    },
+    {
+      "name": "Paul Ottar Haga",
+      "role": "Skuespiller",
+      "givenName": "Paul Ottar",
+      "familyName": "Haga"
+    },
+    {
+      "name": "Elisabeth Matheson",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Matheson"
+    },
+    {
+      "name": "Olga Papalexiou",
+      "role": "Skuespiller",
+      "givenName": "Olga",
+      "familyName": "Papalexiou"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Stein Grieg Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Stein Grieg",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Svein Erik Brodal",
+      "role": "Skuespiller",
+      "givenName": "Svein Erik",
+      "familyName": "Brodal"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Alex Scherpf",
+      "role": "Skuespiller",
+      "givenName": "Alex",
+      "familyName": "Scherpf"
+    },
+    {
+      "name": "Svanaug Steinnes",
+      "role": "Skuespiller",
+      "givenName": "Svanaug",
+      "familyName": "Steinnes"
+    },
+    {
+      "name": "Pelle Christensen",
+      "role": "Skuespiller",
+      "givenName": "Pelle",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Vilde Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Vilde",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Dene O'Neill",
+      "role": "Skuespiller",
+      "givenName": "Dene",
+      "familyName": "O'Neill"
+    },
+    {
+      "name": "Aslag Guttormsgaard",
+      "role": "Skuespiller",
+      "givenName": "Aslag",
+      "familyName": "Guttormsgaard"
+    },
+    {
+      "name": "Per Hansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Tore Rem",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Rem"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(757119600000+0100)/",
+    "actualTransmissionDate": "/Date(757119600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(1159706400000+0200)/",
+    "actualTransmissionDate": "/Date(1159706418000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391662500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Lennart Lidstrøm",
+      "role": "Skuespiller",
+      "givenName": "Lennart",
+      "familyName": "Lidstrøm"
+    },
+    {
+      "name": "Lina Koreh",
+      "role": "Skuespiller",
+      "givenName": "Lina",
+      "familyName": "Koreh"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Gustav Jansen",
+      "role": "Skuespiller",
+      "givenName": "Gustav",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Jan Fredrik Hossmann",
+      "role": "Skuespiller",
+      "givenName": "Jan Fredrik",
+      "familyName": "Hossmann"
+    },
+    {
+      "name": "Danielle Halluin",
+      "role": "Skuespiller",
+      "givenName": "Danielle",
+      "familyName": "Halluin"
+    },
+    {
+      "name": "Tone Holberg Hvidsten",
+      "role": "Skuespiller",
+      "givenName": "Tone Holberg",
+      "familyName": "Hvidsten"
+    },
+    {
+      "name": "Lorraine O'Keeffe",
+      "role": "Skuespiller",
+      "givenName": "Lorraine",
+      "familyName": "O'Keeffe"
+    },
+    {
+      "name": "Paul Ottar Haga",
+      "role": "Skuespiller",
+      "givenName": "Paul Ottar",
+      "familyName": "Haga"
+    },
+    {
+      "name": "Elisabeth Matheson",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Matheson"
+    },
+    {
+      "name": "Olga Papalexiou",
+      "role": "Skuespiller",
+      "givenName": "Olga",
+      "familyName": "Papalexiou"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Stein Grieg Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Stein Grieg",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Svein Erik Brodal",
+      "role": "Skuespiller",
+      "givenName": "Svein Erik",
+      "familyName": "Brodal"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Alex Scherpf",
+      "role": "Skuespiller",
+      "givenName": "Alex",
+      "familyName": "Scherpf"
+    },
+    {
+      "name": "Svanaug Steinnes",
+      "role": "Skuespiller",
+      "givenName": "Svanaug",
+      "familyName": "Steinnes"
+    },
+    {
+      "name": "Pelle Christensen",
+      "role": "Skuespiller",
+      "givenName": "Pelle",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Vilde Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Vilde",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Dene O'Neill",
+      "role": "Skuespiller",
+      "givenName": "Dene",
+      "familyName": "O'Neill"
+    },
+    {
+      "name": "Aslag Guttormsgaard",
+      "role": "Skuespiller",
+      "givenName": "Aslag",
+      "familyName": "Guttormsgaard"
+    },
+    {
+      "name": "Per Hansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Tore Rem",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Rem"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000293&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT2H4M37S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000293&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000293&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000293&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP16000293&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP160293-AR-199407887"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-12-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP160293-AR-199407887",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1993
+}

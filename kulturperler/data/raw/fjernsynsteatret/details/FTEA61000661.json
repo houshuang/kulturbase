@@ -1,0 +1,262 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61000661"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61001461"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61000661",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "09.11.1961",
+  "episodeTitle": "Søsken",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61000661",
+  "title": "Søsken",
+  "originalTitle": "Søskende",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Søsken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Søskende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Søskende"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Søsken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Søsken"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H19M14.96S",
+  "shortDescription": "Stykket foregår en vinterettermiddag i en dansk provinsby. Tre søsken møtes ved sin fars dødsleie. Av H.C. Branner.",
+  "longDescription": "Forfatter: Hans Christian Branner (H.C. Branner).  Oversatt av Paul Gjesdahl.\nTre søsken møtes ved sin fars dødsleie.\nI rollene:\nArthur ........... Per GJERSØE\nMichael .......... Per BRONKEN\nIrene ............ Urda ARNEBERG\nSøster Agnes ..... Gudrun WAADELAND",
+  "image": {
+    "imageInfo": {
+      "id": "-PZ6th3Ty4CrMUfWPA6VyA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07228089,
+        "width": 1.0,
+        "height": 0.7239382
+      }
+    },
+    "imageWidthCropInfo": "-PZ6th3Ty4CrMUfWPA6VyA?x=0.00000000000000000&y=0.07228088800000000&w=1.00000000000000000&h=0.72393822400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/-PZ6th3Ty4CrMUfWPA6VyAUMcaDce4f8VezpHkQsum-w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-PZ6th3Ty4CrMUfWPA6VyAY5wXxoKo-h9ezpHkQsum-w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-PZ6th3Ty4CrMUfWPA6VyAhEbG6Wrf5rhezpHkQsum-w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/-PZ6th3Ty4CrMUfWPA6VyA8xpCqUXv7-hezpHkQsum-w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-257043600000+0100)/",
+    "actualTransmissionDate": "/Date(-257043600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-257043600000+0100)/",
+    "actualTransmissionDate": "/Date(-257043600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1417496100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000661&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H19M15S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000661&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000661&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000661&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000661&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61000661-AR-199206077"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-11-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61000661-AR-199206077",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

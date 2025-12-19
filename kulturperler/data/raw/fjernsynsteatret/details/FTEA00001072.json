@@ -1,0 +1,385 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001072"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002072"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001072",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "03.04.1973",
+  "episodeTitle": "Miranda",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00001072",
+  "title": "Miranda",
+  "originalTitle": "Miranda",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Miranda"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Miranda"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Miranda"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Miranda"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT59M53.96S",
+  "shortDescription": "En en ung student kjører seg i hjel, en ung kvinne som ser ulykken får et slags sjokk og begynner å tro at den døde studenten lever videre. Av Helge Hagerup.",
+  "longDescription": "En fabel av Helge Hagerup.\nMusikk:  Terje Rypdal.  Dekor:  Grethe Hejer.\nInstruktør:  Per Bronken.\nFilmprogram del 1:\nPan lauvskog.  Pike spaserer i skogen mellom trærne.  Liten pike med hund.\nFortekst.  Barnepike, pikens mor og den lille piken.  Miranda på sitt værelse.\nSpisestuen hos direktør Svane-Jacobsen, middagsservering.  Episode ved bordet\nog barnepiken blir sagt opp.  Hund begraves.  Miranda sammen med en beundrer.\nMiranda ute på tur, opplever at en bil kjører utfor veien og hun løper etter og\nser at føreren er død.  Dir. Svane-Jacobsen hjemme i sin stue, ser på TV.\nMiranda kommer hjem og kan ikke glemme ulykken.  Ekteparet på verandaen.\nForeldrene tror Miranda er syk og sender bud på lege.  På vei til onken Otto i\nhovedstaden.  Vel fremme hos farens bror.  Miranda på bytur i Oslo.  På\nkafeteria.  Der treffer hun en gutt som hun slår seg samen med.  Selskap hjemme\nhos onkelen.  Markus henter Miranda dagen etter til sin hybel.  Miranda bader\nsammen med Markus.  De to sammen i flere episoder.  På kino.\nEA:  Scener fra Vietnam 0'08\" og 0'05\".\nMarkus og Miranda tretter.  Telefon til Miranda og det er Markus som inviterer\ntil middag. (42'56\").\nFilmprogram del 2:\nMiranda kjøper lang sort kjole.  Middagen hos Markus hvor hun har kjolen på.\nMiranda går fra ham.  Hjemme hos onken Otto vil han legge beslag på henne.\nMiranda tar toget hjem til foreldrene.  Oppgjør med foreldrene.  Markus tenker\npå alle turene sammen med Miranda.  Miranda tenker på Markus.  Fredrik Berthel-\nsen dukker opp og ber Markus oppsøke Miranda.  Markus tar sykkelen og Miranda\nløper på veien for å møte Markus.  De møtes og blir stående.  (16'53\").\nDe som er med:\nMiranda som barn ............... Hilde NJØLSTAD\nMiranda som voksen ............. Marit ØSTBYE\nBarnepiken ..................... Randi NORDBY\nFru dir. Svane-Jacobsen ........ Elsa LYSTAD\nHerr dir. Svane-Jacobsen ....... Wilfred BREISTRAND\nAnna ........................... Eva von HANNO\nThomas ......................... Thomas FASTING\nStinius ........................ Arne BANG-HANSEN\nFredrik Berthelsen ............. Bjørn FLOBERG\nOnkel Otto ..................... Lasse KOLSTAD\nHusholdersken .................. Ingrid ØVRE\nMarkus ......................... Harald BRENNA\nTo gjester ..................... Ingolf ROGDE\n                                 Kolbjørn BRENDA\nGammel kone .................... Helga BACKE",
+  "image": {
+    "imageInfo": {
+      "id": "1rWN__W9qUZpEEMo26UvRA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.713338
+      }
+    },
+    "imageWidthCropInfo": "1rWN__W9qUZpEEMo26UvRA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.71333798882681560",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/1rWN__W9qUZpEEMo26UvRAUhNJNQMR2-8-G1M4IXsDrw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1rWN__W9qUZpEEMo26UvRAz5HUXjbSDcM-G1M4IXsDrw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1rWN__W9qUZpEEMo26UvRAy51P-KlgA-E-G1M4IXsDrw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1rWN__W9qUZpEEMo26UvRABcIalIlAN6A-G1M4IXsDrw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fabel"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fabel"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Ingrid Øvre",
+      "role": "Skuespiller",
+      "givenName": "Ingrid",
+      "familyName": "Øvre"
+    },
+    {
+      "name": "Kolbjørn Brenda",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Brenda"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Marit Østbye",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Østbye"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Harald Brenna",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Brenna"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Hilde Njølstad",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Njølstad"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(102636000000+0200)/",
+    "actualTransmissionDate": "/Date(102636000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(102636000000+0200)/",
+    "actualTransmissionDate": "/Date(102636000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Ingrid Øvre",
+      "role": "Skuespiller",
+      "givenName": "Ingrid",
+      "familyName": "Øvre"
+    },
+    {
+      "name": "Kolbjørn Brenda",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Brenda"
+    },
+    {
+      "name": "Helga Backe",
+      "role": "Skuespiller",
+      "givenName": "Helga",
+      "familyName": "Backe"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Marit Østbye",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Østbye"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Harald Brenna",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Brenna"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Hilde Njølstad",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Njølstad"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001072&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT59M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001072&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001072&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001072&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001072&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001072-AR-199213144"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "03-04-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001072-AR-199213144",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

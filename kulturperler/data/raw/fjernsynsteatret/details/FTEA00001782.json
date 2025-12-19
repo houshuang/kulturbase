@@ -1,0 +1,229 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001782"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001683"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001782",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60027",
+  "seasonNumber": "1983",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "22.02.1983",
+  "episodeTitle": "Galgemannen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001782",
+  "title": "Galgemannen",
+  "originalTitle": "Galgemannen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Galgemannen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Galgemannen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Galgemannen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Galgemannen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H4M50.8S",
+  "shortDescription": "En historie om overtro, helvetesredsel og lydighet flettet inn i det gamle temaet om offiseren og jomfruen. Av Runar Schildt.",
+  "longDescription": "Av Runar Schildt (finlandssvensk forfatter).\nOversatt av Karen Lisa Castberg.  Regi : Magne Bleness.\nEn historie om overtro, helvetesredsel og lydighet flettet inn i det\ngamle temaet om offiseren og jomfruen.\nDe som er med : Oberst Christoffer Toll ....... Knut WIGERT\n                Maria ......................... Birgitte Victoria\n                                                SVENDSEN",
+  "image": {
+    "imageInfo": {
+      "id": "D4FG6a-lSCmOqOotR2O2_A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.05571934,
+        "width": 1.0,
+        "height": 0.7163915
+      }
+    },
+    "imageWidthCropInfo": "D4FG6a-lSCmOqOotR2O2_A?x=0.00000000000000000&y=0.05571933962264151&w=1.00000000000000000&h=0.71639150943396220",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/D4FG6a-lSCmOqOotR2O2_AL7GyYYUMriCisfcmCSA1jg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D4FG6a-lSCmOqOotR2O2_AheYafYNw01iisfcmCSA1jg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D4FG6a-lSCmOqOotR2O2_AsCoqa3tyIriisfcmCSA1jg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/D4FG6a-lSCmOqOotR2O2_A6JOCjZGm0zSisfcmCSA1jg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Birgitte Victoria Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Birgitte Victoria",
+      "familyName": "Svendsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(414716400000+0100)/",
+    "actualTransmissionDate": "/Date(414716400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(414716400000+0100)/",
+    "actualTransmissionDate": "/Date(414716400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428983700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Birgitte Victoria Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Birgitte Victoria",
+      "familyName": "Svendsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001782&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4M50S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001782&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001782&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001782&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001782&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001782-AR-199006140"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-02-1983",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001782-AR-199006140",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1982
+}

@@ -1,0 +1,419 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000970"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000170"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000970",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "08.09.1970",
+  "episodeTitle": "Vildanden",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00000970",
+  "title": "Vildanden",
+  "originalTitle": "Vildanden",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Anne Marit Jacobsen 70 år!"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vildanden"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H31M3S",
+  "shortDescription": "Gregers Werle avslører at Hedvig ikke er Hjalmar Ekdals datter, men et resultat av grosserer Werles forhold til Gina Ekdal. Av Henrik Ibsen.",
+  "longDescription": "Av Henrik Ibsen.\nDekor: Per Schwab.  Instruktør: Arild Brinchmann.\nDet klassiske drama om \"livsløgnen\".  Gregers Werle har satt sin livsoppgave i\nå avsløre \"livsløgnen\" og fremme \"den ideale forandring\".  Avslører at Hedvig\nikke er Hjalmar Ekdals datter, men et produkt av grosserer Werles forhold til\nGina Ekdal.  Rettskaffenhetsfeber fører til ulykkelighet.  Som et ultimativt\noffer tar Hedvig sitt eget liv.\nDe som er med:\nGrosserer Werle .............. Georg LØKKEBERG\nGregers Werle ................ Espen SKJØNBERG\nGamle Ekdal .................. Ingolf ROGDE\nHjalmar Ekdal ................ Tor STOKKE\nGina Ekdal ................... Mona HOFLAND\nHedvig ....................... Anne Marit JACOBSEN\nFru Sørby .................... Bab CHRISTENSEN\nRelling ...................... Joachim CALMEYER\nMolvik ....................... Nils Ole OFTEBRO\nBokholder Gråberg ............ Vilhelm LUND\nEn blekfet herre ............. Stig EGEDE-NISSEN\nEn tynnhåret herre ........... Axel THUE\nEn nærsynt herre ............. Adolf BJERKE\n(Reprise: 19730220 og 19790114).",
+  "image": {
+    "imageInfo": {
+      "id": "WuAJXZuONfbn7YSFTcmsLg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09375,
+        "width": 1.0,
+        "height": 0.703125
+      }
+    },
+    "imageWidthCropInfo": "WuAJXZuONfbn7YSFTcmsLg?x=0.00000000000000000&y=0.09375000000000000&w=1.00000000000000000&h=0.70312500000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/WuAJXZuONfbn7YSFTcmsLgJbbYYxyKpTkKpDCh20KhEQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WuAJXZuONfbn7YSFTcmsLg_ImsXznEsm4KpDCh20KhEQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WuAJXZuONfbn7YSFTcmsLgHn7BQ0yxk5AKpDCh20KhEQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WuAJXZuONfbn7YSFTcmsLgQX5mTzZdJp8KpDCh20KhEQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "henrik ibsen",
+    "fjernsynsteater",
+    "teater",
+    "drama",
+    "skuespill",
+    "skuespiller",
+    "livsløgn",
+    "selvmord"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "henrik ibsen",
+    "fjernsynsteater",
+    "teater",
+    "drama",
+    "skuespill",
+    "skuespiller",
+    "livsløgn",
+    "selvmord"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Axel Thue",
+      "role": "Skuespiller",
+      "givenName": "Axel",
+      "familyName": "Thue"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(21592800000+0200)/",
+    "actualTransmissionDate": "/Date(21592800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(21592800000+0200)/",
+    "actualTransmissionDate": "/Date(21592800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1396583700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Ingolf Rogde",
+      "role": "Skuespiller",
+      "givenName": "Ingolf",
+      "familyName": "Rogde"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Anne Marit Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marit",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Axel Thue",
+      "role": "Skuespiller",
+      "givenName": "Axel",
+      "familyName": "Thue"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H26M4S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00010970-AR-199311805"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4M59S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000970&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00020970-AR-199311805"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "08-09-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00010970-AR-199311805",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

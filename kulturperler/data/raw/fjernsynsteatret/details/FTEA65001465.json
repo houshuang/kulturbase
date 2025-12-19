@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65001465"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66000966"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65001465",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "23.02.1966",
+  "episodeTitle": "Lek",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA65001465",
+  "title": "Lek",
+  "originalTitle": "Lek",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Lek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Lek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lek"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT32M8.04S",
+  "shortDescription": "En novellefilm uten handling. Det som teller er å gi et adekvat bilde av unge mennesker i et bestemt miljø, den form de har, deres forhold til omverdenen.",
+  "longDescription": "En film av Egil Kolstø (regi og montasje) og Sverre Udnæs (manus og  \n\npersoninstruksjon)                                                   \n\nMusikk:  Svein Erik Børja.                                           \n\nMusikere: Boysens Trio                                               \n\nVokalist: Karin Krog                                                 \n\nDekor: Mia Holmedal                                                  \n\nKamera ass.: Jan Horne                                               \n\nScript/prod.leder: Anja Breien.  \n\n\n\n\"Lek\" er en novellefilm uten handling.  Det som teller er å gi et adekvat bilde\n\nav unge mennesker i et bestemt miljø, den form de har, deres forhold til       \n\nomverdenen.  Det skal improviseres.                                            \n\nFilmprogram:                                                                   \n\n1. b. nær bølger, oversikt bølger mot sandstrand og horisont med truende skyer,\n\nnær sand fyker over klitter, marhalm i vind.  Gjennomsiktige gardiner blafrer  \n\ni vind.  Fortekst etter 2'00\".  Ikke sluttekster.  Siste b. frosset - K.M. i   \n\nstue.                                                                          \n\nI rollene:                                                                     \n\nHun .............. Katja MEDBØE                                                \n\nHan .............. Kjell KJÆR                                                  \n\nSverre UDNÆS opptrer som statist i en av kafescenene.",
+  "image": {
+    "imageInfo": {
+      "id": "7DfFVRboQaMJDFswMBy-eg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.250220656,
+        "width": 1.0,
+        "height": 0.6434245
+      }
+    },
+    "imageWidthCropInfo": "7DfFVRboQaMJDFswMBy-eg?x=0.00000000000000000&y=0.25022065313327450&w=1.00000000000000000&h=0.64342453662842010",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/7DfFVRboQaMJDFswMBy-egMN9YHL8YlhtXLILZ0Ljrfg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7DfFVRboQaMJDFswMBy-egXYNuQh9oqWhXLILZ0Ljrfg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7DfFVRboQaMJDFswMBy-egatKmKlBAfMxXLILZ0Ljrfg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7DfFVRboQaMJDFswMBy-egqcfc64KahlBXLILZ0Ljrfg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "tv-drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "tv-drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Katja Medbøe",
+      "role": "Skuespiller",
+      "givenName": "Katja",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Sverre Udnæs",
+      "role": "Statist",
+      "givenName": "Sverre",
+      "familyName": "Udnæs"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-121654800000+0100)/",
+    "actualTransmissionDate": "/Date(-121654800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-121654800000+0100)/",
+    "actualTransmissionDate": "/Date(-121654800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411012500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Katja Medbøe",
+      "role": "Skuespiller",
+      "givenName": "Katja",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Sverre Udnæs",
+      "role": "Statist",
+      "givenName": "Sverre",
+      "familyName": "Udnæs"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001465&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT32M8S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001465&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001465&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001465&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001465&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000066-AR-199211694"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-02-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000066-AR-199211694",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

@@ -1,0 +1,255 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61000161"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61000761"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61000161",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "01.06.1961",
+  "episodeTitle": "Fangen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61000161",
+  "title": "Fangen",
+  "originalTitle": "Fangen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fangen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fangen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fangen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fangen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT43M9.6S",
+  "shortDescription": "Handlingen er lagt til besøksrommet i et fengsel. Fangen sitter inne pga. økonomiske misligheter, hans kone har funnet en annen. Av Nils Collett Vogt.",
+  "longDescription": "Av den norske forfatteren Nil Collett Vogt.\n\nRegiteknisk konsulent: Tore Breda Thoresen.\n\nDekor: Olav Ile.\n\nInstruktør: Gerhard Knoop.\n\nHandlingen er lagt til besøksrommet i et fengsel.  Fangen sitter inne pga.\n\nøkonomiske misligheter, hans kone har funnet en annen.\n\nI rollene:\n\nFangen ............... Arne LIE\n\nHans kone ............ Urda ARNEBERG\n\nFengselspresten ...... Tore FOSS\n\nVaktbetjent .......... Birger LØVAAS\n\n(Reprise: 19620516).",
+  "image": {
+    "imageInfo": {
+      "id": "tXf5NW6m5K5tTi-83Y2_rQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.71564883
+      }
+    },
+    "imageWidthCropInfo": "tXf5NW6m5K5tTi-83Y2_rQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.71564885500000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/tXf5NW6m5K5tTi-83Y2_rQIItMrw436OUlU-0rPnrOZQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tXf5NW6m5K5tTi-83Y2_rQjdvDSkCDqC0lU-0rPnrOZQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tXf5NW6m5K5tTi-83Y2_rQKBdJXqBrUWYlU-0rPnrOZQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tXf5NW6m5K5tTi-83Y2_rQH3GaiMCubaglU-0rPnrOZQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Birger Løvaas",
+      "role": "Skuespiller",
+      "givenName": "Birger",
+      "familyName": "Løvaas"
+    },
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-270957600000+0200)/",
+    "actualTransmissionDate": "/Date(-270957600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-270957600000+0200)/",
+    "actualTransmissionDate": "/Date(-270957600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Birger Løvaas",
+      "role": "Skuespiller",
+      "givenName": "Birger",
+      "familyName": "Løvaas"
+    },
+    {
+      "name": "Tore Foss",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000161&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M9S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000161&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000161&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000161&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000161&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61000161-AR-199416169"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-06-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61000161-AR-199416169",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

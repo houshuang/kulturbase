@@ -1,0 +1,592 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66002966"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66001666"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66002966",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "21.03.1966",
+  "episodeTitle": "Nederlaget",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66002966",
+  "title": "Nederlaget",
+  "originalTitle": "Nederlaget",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Nederlaget"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Nederlaget"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Nederlaget"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Nederlaget"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H15M59S",
+  "shortDescription": "Drama av Nordahl Grieg. Et spill om Pariskommunen 1871. Bakgrunnen for stykket er den fransk-tyske krig.",
+  "longDescription": "Nordisk teater i TV - Dikteren og tiden.\n\"Nederlaget\" av Nordahl Grieg.\nKostymer: Guy Krohg.  Dekor: Guy Krohg og Christian Egemar.\nBearbeidet og instruert av Per Bronken.\nHovedmotivet i stykket er at de gode krefter lider nederlag i en verden som er\nfull av vold og brutalitet.  For å illustrere dette valgte Nordahl Grieg stoff\nfra historien: kommunard-oppstanden i Paris 1871.\nDe som er med:\nMarie ................ Monna TANDBERG\nLouis ................ Roy BJØRNSTAD\nGabrielle ............ Bab CHRISTENSEN\nMichel ............... Egil HJORTH-JENSSEN\nPierre ............... Jon EIKEMO\nHans mor ............. Ragnhild MICHELSEN\nBrigeau .............. Alfred SOLAAS\nMartin ............... Alf MALLAND\nLaura ................ Gerd WIIK\nVarlin ............... Rolf SØDER\nKrøplingen ........... Bernt Erik LARSSEN\nOberst Rossel ........ Tor STOKKE\nBeslay ............... Toralf SANDØ\nPolitikommisæren ..... Thor HJORTH-JENSSEN\nRigault .............. Jon HEGGEDAL\nSegur ................ Torbjørn HALVORSEN\nMoren ................ Merete SKAVLAND\nCourbet .............. Carsten BYHRING\nSuzanne .............. Elsa LYSTAD\nPauline .............. Sidsel RYEN\nLucien ............... Franck PETTERSEN\nDelescluze ........... Sverre HANSEN\nThiers ............... Per GJERSØE\nMinisteren ........... Henrik Anker STEEN\nElise Thiers ......... Helen BRINCHMANN\nErkebiskop Darboy .... Hjalmar FRIES\nBrunel ............... Frimann Falck CLAUSEN\nPiken ................ Ragnhild HIORTHØY\nMarki de Ploeuc ...... Kolbjørn BUØEN\nGeneral Gallifet ..... Knut M. HANSSON\n(Reprise: 19700519).",
+  "image": {
+    "imageInfo": {
+      "id": "_DpB9cmXh8C7pvVS76ZWFQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.129085168,
+        "width": 1.0,
+        "height": 0.7261041
+      }
+    },
+    "imageWidthCropInfo": "_DpB9cmXh8C7pvVS76ZWFQ?x=0.00000000000000000&y=0.12908517350157728&w=1.00000000000000000&h=0.72610410094637220",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_DpB9cmXh8C7pvVS76ZWFQgXJRKdrXsr4ERqu4HuSUbw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_DpB9cmXh8C7pvVS76ZWFQC3yYDJmdmI4ERqu4HuSUbw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_DpB9cmXh8C7pvVS76ZWFQBsHstL58J9UERqu4HuSUbw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_DpB9cmXh8C7pvVS76ZWFQIHWgONFUHF0ERqu4HuSUbw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Bernt Erik Larssen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Merete Skavlan",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Skavlan"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Sidsel Ryen",
+      "role": "Skuespiller",
+      "givenName": "Sidsel",
+      "familyName": "Ryen"
+    },
+    {
+      "name": "Franck Pettersen",
+      "role": "Skuespiller",
+      "givenName": "Franck",
+      "familyName": "Pettersen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Hjalmar Fries",
+      "role": "Skuespiller",
+      "givenName": "Hjalmar",
+      "familyName": "Fries"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ragnhild Hiorthøy",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hiorthøy"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-119408400000+0100)/",
+    "actualTransmissionDate": "/Date(-119408400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-119408400000+0100)/",
+    "actualTransmissionDate": "/Date(-119408400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1429070100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Bernt Erik Larssen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Merete Skavlan",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Skavlan"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Sidsel Ryen",
+      "role": "Skuespiller",
+      "givenName": "Sidsel",
+      "familyName": "Ryen"
+    },
+    {
+      "name": "Franck Pettersen",
+      "role": "Skuespiller",
+      "givenName": "Franck",
+      "familyName": "Pettersen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Hjalmar Fries",
+      "role": "Skuespiller",
+      "givenName": "Hjalmar",
+      "familyName": "Fries"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ragnhild Hiorthøy",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hiorthøy"
+    },
+    {
+      "name": "Kolbjørn Buøen",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Buøen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H13M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00010066-AR-199316241"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H2M36S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002966&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66022966-AR-199316241"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-03-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00010066-AR-199316241",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

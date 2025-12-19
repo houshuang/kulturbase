@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01004589"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003690"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01004589",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60034",
+  "seasonNumber": "1990",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "30.04.1990",
+  "episodeTitle": "Jeanne D'Arc",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA01004589",
+  "title": "Jeanne D'Arc",
+  "originalTitle": "Jeanne D'Arc",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Jeanne D'Arc"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Jeanne D'Arc"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jeanne D'Arc"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jeanne D'Arc"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT5M15.92S",
+  "shortDescription": "Foran forestillingen. Scener fra Røst i Lofoten hvor forestillingen \"Jeanne D'Arc - visjon gjennom eld\" er tatt opp. Samtale med Juni Dahr.",
+  "longDescription": "Lars MONSEN (mv) med hunder og slede før Finnmarksløpet i hundekjøring.\nIntv. MONSEN om deltakelsen i løpet og TV-serien han vil lage.\nDiverse shots fra løpet.",
+  "image": {
+    "imageInfo": {
+      "id": "HDi_U43bnBEmzRS_vR1t5A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.00174050638,
+        "width": 1.0,
+        "height": 0.9982595
+      }
+    },
+    "imageWidthCropInfo": "HDi_U43bnBEmzRS_vR1t5A?x=0.00000000000000000&y=0.00174050632911388&w=1.00000000000000000&h=0.99825949367088610",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/HDi_U43bnBEmzRS_vR1t5AMQX42ec77hfZJ5MtWiwyiA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HDi_U43bnBEmzRS_vR1t5AagDlYVuiuk_ZJ5MtWiwyiA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HDi_U43bnBEmzRS_vR1t5A5JVb0ZQp7PfZJ5MtWiwyiA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HDi_U43bnBEmzRS_vR1t5A8BU96cMECcHZJ5MtWiwyiA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(641426400000+0200)/",
+    "actualTransmissionDate": "/Date(641426400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(641426400000+0200)/",
+    "actualTransmissionDate": "/Date(641426400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01004589&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT5M16S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01004589&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01004589&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01004589&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01004589&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA014589-AR-199042251"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-04-1990",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA014589-AR-199042251",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1989
+}

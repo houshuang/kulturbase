@@ -1,0 +1,30 @@
+{
+  "name": "kulturperler-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sync-db": "cp ../data/kulturperler.db static/",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/kit": "^2.49.2",
+    "@sveltejs/vite-plugin-svelte": "^5.1.1",
+    "sql.js": "^1.13.0",
+    "svelte": "^5.46.0",
+    "vite": "^6.4.1"
+  },
+  "devDependencies": {
+    "@types/sql.js": "^1.4.9",
+    "svelte-check": "^4.3.4",
+    "typescript": "^5.9.3"
+  }
+}

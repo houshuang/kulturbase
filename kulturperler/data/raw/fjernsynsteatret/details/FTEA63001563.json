@@ -1,0 +1,315 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63001563"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63000563"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63001563",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "26.09.1963",
+  "episodeTitle": "Onkel Vanja",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63001563",
+  "title": "Onkel Vanja",
+  "originalTitle": "Onkel Vanja",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Onkel Vanja"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Onkel Vanja"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Onkel Vanja"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Onkel Vanja"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H1M54.96S",
+  "shortDescription": "Livet på godset til Sonja og Vanja blir snudd på hodet når Professor Serbrjakov og hans unge kone Elena flytter inn.",
+  "longDescription": "Av den russiske forfatteren Anton Tsjekov.\nOversatt av Claes Gill.\nMusikk: Bjørn Fongaard.\nDekor: Erik Hagen.\nInstruksjon Gerhard Knoop.\nI rollene:\nSerebrjakov ............. Per GJERSØE\nElena ................... Liv STRØMSTED\nSonja ................... Liv ULLMANN\nMaria Vasiljevna ........ Ragnhild MICHELSEN\nVanja ................... Arne LIE\nAstrov .................. Lars NORDRUM\nTeljegin ................ Egil HJORTH-JENSSEN\nMarina .................. Else HEIBERG\nEn gårdsgutt ............ Johan HOLST\n(Reprise: 19660308).",
+  "image": {
+    "imageInfo": {
+      "id": "ph07W05-DLSLcpXCUDdJfw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.08877511,
+        "width": 1.0,
+        "height": 0.7263418
+      }
+    },
+    "imageWidthCropInfo": "ph07W05-DLSLcpXCUDdJfw?x=0.00000000000000000&y=0.08877510985561833&w=1.00000000000000000&h=0.72634180790960460",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ph07W05-DLSLcpXCUDdJfwu_OkBk3Amwn1BJwj8V8wFw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ph07W05-DLSLcpXCUDdJfwIC9aZnga2vv1BJwj8V8wFw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ph07W05-DLSLcpXCUDdJfwGzu11WUZgJv1BJwj8V8wFw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ph07W05-DLSLcpXCUDdJfwV13Hi0-EIYz1BJwj8V8wFw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Liv Strømsted",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Strømsted"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-197776800000+0200)/",
+    "actualTransmissionDate": "/Date(-197776800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-197776800000+0200)/",
+    "actualTransmissionDate": "/Date(-197776800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423630500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Liv Strømsted",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Strømsted"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001563&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT2H1M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001563&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001563&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001563&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001563&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63001563-AR-199416072"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-09-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63001563-AR-199416072",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

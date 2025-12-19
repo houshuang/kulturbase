@@ -1,0 +1,443 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006669"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00007469"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006669",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "21.04.1970",
+  "episodeTitle": "Selma Brøter",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00006669",
+  "title": "Selma Brøter",
+  "originalTitle": "Selma Brøter",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Selma Brøter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Selma Brøter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Selma Brøter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Selma Brøter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H1M38.56S",
+  "shortDescription": "Kontordamen Selma Brøter er en av de mange \"respektable slitere\", hvis stille hverdagsliv er fylt av store og små håp som blir knust. Av Sigrid Undset.",
+  "longDescription": "En film av Per Bronken etter en novelle av Sigrid Undset.\nDekor: Grethe Hejer.  Montasje: Olav Kyrre Grepp.\nMusikk: Maj Sønstevold.  Instruktør: Per Bronken.\nFilmprogram.\nKontordamen Selma Brøter er en av de mange \"respektable slitere\" Sigrid Undset\nskriver om, hvis stille hverdagsliv er fylt av store og små håp som blir knust,\nen av dem som har meget å sørge over, men som likevel oppfyller noe hun kjenner\nsom en bestemmelse.  Hun er til hjelp for sine nærmeste - de kunne ikke klare\nseg uten henne.  Det kunne aldri falle henne inn å svikte, hennes dager har\nfått en mening - hun lever for noe.  Det ble noe helt annet enn hun hadde drømt\nom - det er en tilværelsens ironi som Sigrid Undset ikke tilslører, men ironien\nskjuler ikke det dype alvor som Selma Brøters skjebne meddeler, at hun skaper\nselv sitt livs innhold ved å gi seg inn under det hun ser som sin forpliktelse.\nDe som er med:\nSelma .................... Elsa LYSTAD\nBeate .................... Ragnhild HILT\nStener ................... Nils Ole OFTEBRO\nPå kontoret .............. Astrid FOLSTAD\n                           Randi NORDBY\n                           Marit HAMDAHL\nI pensjonatet ............ Synnøve GLEDITSCH\n                           Lasse KOLSTAD\n                           Sverre HANSEN\nAlvhilde ................. Rut TELLEFSEN\nForeldrene ............... Gerd WIIK\n                           Ottar WICKLUND\nEllers medvirker:\nAda KRAMM, Eva von HANNO, Dagmar MYHRVOLD, Eva OPAKER, Bonne GAUGUIN, Tone\nSCHWARZOTT, Georg RICHTER og Harald Heide STEEN jr.\n(Reprise 19750211 og 19780620)",
+  "image": {
+    "imageInfo": {
+      "id": "p2wEOTIFlJGyOim43_Gcog",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.738477647
+      }
+    },
+    "imageWidthCropInfo": "p2wEOTIFlJGyOim43_Gcog?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.73847765363128490",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/p2wEOTIFlJGyOim43_Gcog2K6TYqrtHqFTaySxn5yQIg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p2wEOTIFlJGyOim43_GcogetMgv6-WvGdTaySxn5yQIg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p2wEOTIFlJGyOim43_Gcog_U4bO7wp2adTaySxn5yQIg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/p2wEOTIFlJGyOim43_Gcog_lOZlYG3XghTaySxn5yQIg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Synnøve Gleditsch",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Gleditsch"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Ragnhild Hilt",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hilt"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Dagmar Myhrvold",
+      "role": "Skuespiller",
+      "givenName": "Dagmar",
+      "familyName": "Myhrvold"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Bonne Gauguin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gauguin"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(9496800000+0200)/",
+    "actualTransmissionDate": "/Date(9496800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(9496800000+0200)/",
+    "actualTransmissionDate": "/Date(9496800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1430970900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Synnøve Gleditsch",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Gleditsch"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Ragnhild Hilt",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hilt"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Ottar Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Ottar",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Dagmar Myhrvold",
+      "role": "Skuespiller",
+      "givenName": "Dagmar",
+      "familyName": "Myhrvold"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Bonne Gauguin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gauguin"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006669&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M39S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006669&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006669&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006669&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006669&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006669-AR-199311768"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-04-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006669-AR-199311768",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

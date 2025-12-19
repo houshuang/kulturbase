@@ -1,0 +1,415 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000475"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01000175"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000475",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60019",
+  "seasonNumber": "1975",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "02.12.1975",
+  "episodeTitle": "Unnskyld hvis jeg forstyrrer",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000475",
+  "title": "Unnskyld hvis jeg forstyrrer",
+  "originalTitle": "Unnskyld hvis jeg forstyrrer",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Unnskyld hvis jeg forstyrrer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Unnskyld hvis jeg forstyrrer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Unnskyld hvis jeg forstyrrer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Unnskyld hvis jeg forstyrrer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Farse fra et rekkehus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Unnskyld hvis jeg forstyrrer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H28M16.88S",
+  "shortDescription": "Elise og Kristian feirer bryllupet på en jazzklubb da en gammel venn av Kristian dukker opp. Han inviteres til å bo med de nygifte.",
+  "longDescription": "Av Gunnar Bull Gundersen.\nSminke:  Kari Hermansen.  Kostymer:  Tull Engø.  Dekor: Christian Egemar.\nMusikk:  Jan Garbarek.  Instruktør:  Sverre Udnæs.\n\"Unnskyld, at jeg forstyrrer\" har Gunnar Bull Gundersen ment som en tekst\ntil inspirasjon og et grunnlag for improvisasjon.  Her har skuespillerne og\ninstruktøren fått muligheten til å slå seg løs.  Stykket er en farse.\nFilminnslag:\nEt nygift par og venn av brudgommen står og venter på T-banen.  På T-banen.\nDe kommer til huset sitt og vennen vil ikke bli med inn. 1'46\".\nEkstr. huset.  Månen.  0'25\".\nVennen (Knut HUSEBØ) skynder seg avgårde til banen.  På T-banen - bråk med\nkonduktøren (Carsten WINGER) ang. betalingen.  2'37\".\nPassasjerer på trikken.  Knut HUSEBØ sitter opp på trikken.  0'50\".\nK.H. til trikken.  Brudgommen ute og jogger.  0'36\".\nScene mellom de nygifte.  Brudgommen (Svein SCHARFFENBERG) med seng i\ngate.  1'18\".\nRikard gifter seg med Åselill - hele selskapet.  1'01\".\nRagnhild HILT og S. SCHARFFENBERG kastet ut av huset sitt.  1'11\".\nTotal tid:  9'44\".\nDe som er med:\nElise .............. Ragnhild HILT\nKristian ........... Svein SCHARFFENBERG\nRikard ............. Knut HUSEBØ\nÅselill ............ Kjersti DØVIGEN\nRedaktøren ......... Harald Heide STEEN jr.\nKonduktøren ........ Carsten WINGER\nRikards far ........ Rolf Just NILSEN\nRikards mor ........ Sossen KROHG\nÅselills far ....... Dan FOSSE\nÅselills mor ....... Ingeborg COOK\nOnkel Johan ........ Carsten BYHRING\nTante Rossedora .... Bab CHRISTENSEN",
+  "image": {
+    "imageInfo": {
+      "id": "WmxBqEwpOX93ts_DmotitA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1743572,
+        "width": 1.0,
+        "height": 0.581190646
+      }
+    },
+    "imageWidthCropInfo": "WmxBqEwpOX93ts_DmotitA?x=0.00000000000000000&y=0.17435719936708860&w=1.00000000000000000&h=0.58119066455696200",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/WmxBqEwpOX93ts_DmotitAm__B4Up7mk5IpbSj0QFtlg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WmxBqEwpOX93ts_DmotitA3r9H7cwrC_FIpbSj0QFtlg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WmxBqEwpOX93ts_DmotitAu_dsAtxTf8xIpbSj0QFtlg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/WmxBqEwpOX93ts_DmotitAaOhiRME9tHZIpbSj0QFtlg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "skuespill",
+    "drama",
+    "farse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "skuespill",
+    "drama",
+    "farse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Ingeborg Cook",
+      "role": "Skuespiller",
+      "givenName": "Ingeborg",
+      "familyName": "Cook"
+    },
+    {
+      "name": "Jon Christensen",
+      "role": "Artist/Utøver",
+      "givenName": "Jon",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Ragnhild Hilt",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hilt"
+    },
+    {
+      "name": "Bobo Stenson",
+      "role": "Artist/Utøver",
+      "givenName": "Bobo",
+      "familyName": "Stenson"
+    },
+    {
+      "name": "Palle Danielsson",
+      "role": "Artist/Utøver",
+      "givenName": "Palle",
+      "familyName": "Danielsson"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Rolf Just Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rolf Just",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Jan Garbarek",
+      "role": "Artist/Utøver",
+      "givenName": "Jan",
+      "familyName": "Garbarek"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(186706800000+0100)/",
+    "actualTransmissionDate": "/Date(186706800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(186706800000+0100)/",
+    "actualTransmissionDate": "/Date(186706800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Ingeborg Cook",
+      "role": "Skuespiller",
+      "givenName": "Ingeborg",
+      "familyName": "Cook"
+    },
+    {
+      "name": "Jon Christensen",
+      "role": "Artist/Utøver",
+      "givenName": "Jon",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Ragnhild Hilt",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Hilt"
+    },
+    {
+      "name": "Bobo Stenson",
+      "role": "Artist/Utøver",
+      "givenName": "Bobo",
+      "familyName": "Stenson"
+    },
+    {
+      "name": "Palle Danielsson",
+      "role": "Artist/Utøver",
+      "givenName": "Palle",
+      "familyName": "Danielsson"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Harald Heide-Steen jr.",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide-Steen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Rolf Just Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rolf Just",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Jan Garbarek",
+      "role": "Artist/Utøver",
+      "givenName": "Jan",
+      "familyName": "Garbarek"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000475&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H28M17S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000475&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000475&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000475&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000475&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000475-AR-199211236"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "02-12-1975",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000475-AR-199211236",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1975
+}

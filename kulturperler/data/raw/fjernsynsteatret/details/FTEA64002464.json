@@ -1,0 +1,348 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64002464"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64002464",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 19,
+  "episodeNumberOrDate": "07.12.1964",
+  "episodeTitle": "Skomakeren og hans lest",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64002464",
+  "title": "Skomakeren og hans lest",
+  "originalTitle": "Skomakeren og hans lest",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Skomakeren og hans lest"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Skomakeren og hans lest"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skomakeren og hans lest"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Skomakeren og hans lest"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H1M22.96S",
+  "shortDescription": "Av Torborg Nedreaas. Stykket er bygget over novellen \"Jeg vil ha revansje\" og tar opp forskjellige motiver fra krigstiden.",
+  "longDescription": "Norsk bidrag i en serie nordisk originalskrevet TV-dramatikk.\nAv den norske forfatteren Torborg Nedreaas.\nStykket er bygget over novellen \"Jeg vil ha revansje\" fra novellesamlingen\n\"Bak skapet står øksen\" som kom i 1945, og tar opp forskjellige motiver fra\nkrigstiden.\nDekor: Olav Ile.\nInstruktør: Tore Breda Thoresen.\nFilminnslag rull 1:\nArbeidere ved pressluftbor på byggetomt, finner tysk uniformsbelte osv., Bab\nCHRISTENSENS reaksjon. 1'29\".\nFilminnslag rull 2:\nB.C. på byggetomta, tenker tilbake, ser i vindu.  1'00\".\nFilminnslag rull 3:\nB.C. vandrer, gaster og piker løper forbi. 1'03\".\nVeslemøy HASLUND og Friman Falch CLAUSSEN i tete-a-tete.  B.C. ser på. 1'05\".\nFilminnslag rull 4:\nB.C. vandrer på tomta, montasje nært diskusjon om krigen og russerne. 1'49\".\nNattbilder B.C. vandrer, kikker i vindu, ser V.H. sammen med Tor STOKKE. 3'19\".\nFilminnslag rull 5:\nLesten på byggetomta. 0'50\".\nB.C. vandrer rundt tomta. 1'33\".\nB.C. ut av hus, halvmåne med kvist i forgrunnen.  Rolf SØDER finner B.C.\nutenfor vinduet. 2'05\".\nB.C. vandrer, råbygg. 2'44\".\nI rollene:\nSkomakeren ............... Per GJERSØE\nRupert ................... Tor STOKKE\nKvinnen .................. Bab CHRISTENSEN\nRagnhild ................. Veslemøy HASLUND\nIngeniøren ............... Rolf SØDER\nPostmesteren ............. Toralf SANDØ\nDåe ...................... Carsten BYHRING\nKinomaskinisten .......... Jon EIKEMO\nEkspeditøren ............. Per LILLO-STENBERG\nRutebilsjåføre ........... Alf MALLAND\nEn styrmann .............. Friman Falch CLAUSSEN\nEn serveringsdame ........ Eli-Anne LINNESTAD",
+  "image": {
+    "imageInfo": {
+      "id": "lm6bhqes1m1wuPLwyV7U3g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.2026675,
+        "width": 1.0,
+        "height": 0.5612331
+      }
+    },
+    "imageWidthCropInfo": "lm6bhqes1m1wuPLwyV7U3g?x=0.00000000000000000&y=0.20266751126126126&w=1.00000000000000000&h=0.56123310810810810",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/lm6bhqes1m1wuPLwyV7U3gMKqU4E5sYfXswiofr-_FNg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lm6bhqes1m1wuPLwyV7U3gDoxpSqyFleHswiofr-_FNg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lm6bhqes1m1wuPLwyV7U3gVKhd7Wqzy1vswiofr-_FNg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lm6bhqes1m1wuPLwyV7U3g2VqOjKijWLLswiofr-_FNg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "fjernsynsdrama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "fjernsynsdrama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Eli-Anne Linnestad",
+      "role": "Skuespiller",
+      "givenName": "Eli-Anne",
+      "familyName": "Linnestad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-159930000000+0100)/",
+    "actualTransmissionDate": "/Date(-159930000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-159930000000+0100)/",
+    "actualTransmissionDate": "/Date(-159930000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424235300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Alf Malland",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Malland"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    },
+    {
+      "name": "Eli-Anne Linnestad",
+      "role": "Skuespiller",
+      "givenName": "Eli-Anne",
+      "familyName": "Linnestad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64002464&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64002464&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64002464&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64002464&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64002464&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64002464-AR-199412759"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-12-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64002464-AR-199412759",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

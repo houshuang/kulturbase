@@ -1,0 +1,617 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62000662"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62001162"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62000662",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "22.03.1962",
+  "episodeTitle": "Prosessen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62000662",
+  "title": "Prosessen",
+  "originalTitle": null,
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Prosessen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Prosessen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Prosessen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Prosessen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H36M48.96S",
+  "shortDescription": "Joseph K blir vekket av politiet en morgen og arrestert uten å få vite hva han er siktet for. Vi følger hans vei gjennom et absurd og labyrintisk rettssystem.",
+  "longDescription": "Av den tjekkiske forfatteren Franz Kafka.\nDramatisert av André Gide og Jean-Louis Barrault.\nOversatt av Finn Carling.\nBearbeidet for fjernsyn og instruert av Pål Løkkeberg.\nMusikk: Finn Ludt.\nDekor: Knut Solberg.\nInnledning ved Asbjørn Aarnes.\nBankfunksjonæren Joseph K. blir uforståelig arrestert - alle de vanvittige\nhendelsene han kommer ut for.\nFilminnslag:\nJoseph K. famler seg frem langs mur.  To bødler og en overkonstabel står og ser\npå ham.  To mennene går frem og griper ham på soldatens ordre.  Ung pike går\nforbi.  Joseph K. ser bedende opp på vokterne.  Men de fører ham bort, legger\nham ned og dreper ham.  Et par går forbi, ser Joseph K., men går videre,\ndomstolen angår ikke dem.  Joseph K. ligger i snøen utenfor et kraftverk.\n3'40\".\nI rollene:\nJoseph K. ...................... Espen SKJØNBERG\nFranz .......................... Roy BJØRNSTAD\nWilhelm ........................ Egil LORCK\nFru Grubach .................... Ragnhild MICHELSEN\nInspektøren .................... Thor HJORTH-JENSSEN\nEt eldre par ................... Henny SKJØNBERG\n                                 Eugen SKJØNBERG\nTo kontorister ................. Per BRONKEN\n                                 Magne BLENESS\nSous-sjefen .................... Henrik Anker STEEN\nFrøken Bürstner ................ Wenche FÆHN\nRettstjeneren .................. Ragnar OLASON\nHans kone ...................... Anne-Mari DALE\nStudenten ...................... Torbjørn HALVORSEN\nEn anklaget .................... Vegard HALL\nEn ung pike .................... Gudrun WAADELAND\nDen elegante ................... Axel THUE\nBøddelen med pisken ............ Sverre HOLM\nOnkelen ........................ Finn BERNHOFT\nEn gammel mann ................. Harald AIMARSEN\nLeni ........................... Monna TANDBERG\nAdvokaten ...................... Johan NORLUND\nByråsjefen ..................... Rolf CHRISTENSEN\nBloch .......................... Sverre HANSEN\nDommeren ....................... Henrik BØRSETH\nFabrikanten .................... Fridtjof MJØEN\nTitorelli ...................... Arve OPSAHL\nPresten ........................ Arne LIE\nOverkonstabelen ................ Sverre WILBERG\nTo bødler ...................... Børseth RASMUSSEN\n                                 William NYREN\nEt ungt par .................... Mette LANGE-NILSEN\n                                 Per LILLO-STENBERG\nEn stemme ...................... Knut RISAN\n\"Nabolandet\" av Gunnar Reiss-Andersen blir lest av Georg Løkkeberg.",
+  "image": {
+    "imageInfo": {
+      "id": "Ch9n0Cg83xvdasVGJKTB7Q",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.100718595,
+        "width": 1.0,
+        "height": 0.724871159
+      }
+    },
+    "imageWidthCropInfo": "Ch9n0Cg83xvdasVGJKTB7Q?x=0.00000000000000000&y=0.10071859400000000&w=1.00000000000000000&h=0.72487113400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Ch9n0Cg83xvdasVGJKTB7QmkbOAWa3Gu8eZDMH6k1hDQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ch9n0Cg83xvdasVGJKTB7QhO6qTejlknIeZDMH6k1hDQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ch9n0Cg83xvdasVGJKTB7QsBvsNVp-uigeZDMH6k1hDQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Ch9n0Cg83xvdasVGJKTB7QycASRXj_QW8eZDMH6k1hDQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "franz kafka",
+    "rettsprosess",
+    "kafka-prosess"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "franz kafka",
+    "rettsprosess",
+    "kafka-prosess"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Axel Thue",
+      "role": "Skuespiller",
+      "givenName": "Axel",
+      "familyName": "Thue"
+    },
+    {
+      "name": "Johan Norlund",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Norlund"
+    },
+    {
+      "name": "Mette Lange-Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Lange-Nilsen"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Carl Børseth Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Carl Børseth",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Henrik Børseth",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Børseth"
+    },
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Henny Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Rolf Christensen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Eugen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Eugen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-245552400000+0100)/",
+    "actualTransmissionDate": "/Date(-245552400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-245552400000+0100)/",
+    "actualTransmissionDate": "/Date(-245552400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1397015700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Axel Thue",
+      "role": "Skuespiller",
+      "givenName": "Axel",
+      "familyName": "Thue"
+    },
+    {
+      "name": "Johan Norlund",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Norlund"
+    },
+    {
+      "name": "Mette Lange-Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Mette",
+      "familyName": "Lange-Nilsen"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Carl Børseth Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Carl Børseth",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Henrik Børseth",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Børseth"
+    },
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Henny Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Rolf Christensen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Eugen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Eugen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000662&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H36M49S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000662&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000662&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000662&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000662&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62000662-AR-199416100"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-03-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62000662-AR-199416100",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

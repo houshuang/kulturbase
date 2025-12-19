@@ -1,0 +1,329 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000770"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001070"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000770",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "06.10.1970",
+  "episodeTitle": "En hanske",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00000770",
+  "title": "En hanske",
+  "originalTitle": "En hanske",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "En hanske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "En hanske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En hanske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En hanske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H18M28.96S",
+  "shortDescription": "Stykket handler om troskap og svik. Den unge piken Svava får vite at den hun elsker har hatt forhold til andre. Av Bjørnstjerne Bjørnson.",
+  "longDescription": "Av Bjørnstjerne Bjørnson, (skrevet i 1883, omarbeidet i 1886).\nBearbeidet og instruert av Tore Breda Thoresen.\nDekor: Gunnar Alme.  Kostymer: Tull Engø.\nStykket hander om troskap og svik.  Hovedpersonen er den unge piken Svava, og\nhandlingen settes i gang ved at Svava får vite at den hun elsker - forloveden\nAlf - har hatt forhold til andre.  Hun bryter forlovelsen og hun møter\nomgivelsenes bebreidelser.\nDe som er med:\nRiis ............................... Gisle STRAUME\nFru Riis ........................... Helen BRINCHMANN\nSvava, deres datter ................ Tone SCHWARTZOTT\nChristensen ........................ Per GJERSØE\nFru Christensen .................... Ragnhild MICHELSEN\nAlf, deres sønn .................... Arne Lindtner NÆSS\nNordan, lege, Svavas onkel ......... Ola ISENE\nHoff ............................... Erling LINDAHL\nMargit ............................. Eva von HANNO\nTjeneren ........................... Leif BEYLEGAARD\n(Reprise: 19711226).",
+  "image": {
+    "imageInfo": {
+      "id": "t9Qmh7OG3u_P_itozT_k_w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.166941047,
+        "width": 1.0,
+        "height": 0.556470156
+      }
+    },
+    "imageWidthCropInfo": "t9Qmh7OG3u_P_itozT_k_w?x=0.00000000000000000&y=0.16694104134762633&w=1.00000000000000000&h=0.55647013782542110",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/t9Qmh7OG3u_P_itozT_k_wGZq5M-u4HmNUAJZJIxznJw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/t9Qmh7OG3u_P_itozT_k_wIAPaKiSOPNNUAJZJIxznJw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/t9Qmh7OG3u_P_itozT_k_wTusnUK6s-tBUAJZJIxznJw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/t9Qmh7OG3u_P_itozT_k_wLAAucYzqCYlUAJZJIxznJw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "troskapsløfte",
+    "svik"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "troskapsløfte",
+    "svik"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Leif Beylegaard",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Beylegaard"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Erling Lindahl",
+      "role": "Skuespiller",
+      "givenName": "Erling",
+      "familyName": "Lindahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(24012000000+0200)/",
+    "actualTransmissionDate": "/Date(24012000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(24012000000+0200)/",
+    "actualTransmissionDate": "/Date(24012000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Leif Beylegaard",
+      "role": "Skuespiller",
+      "givenName": "Leif",
+      "familyName": "Beylegaard"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Erling Lindahl",
+      "role": "Skuespiller",
+      "givenName": "Erling",
+      "familyName": "Lindahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Lindtner Næss",
+      "role": "Skuespiller",
+      "givenName": "Arne Lindtner",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Helen Brinchmann",
+      "role": "Skuespiller",
+      "givenName": "Helen",
+      "familyName": "Brinchmann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000770&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H18M29S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000770&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000770&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000770&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000770&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000770-AR-199311812"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-10-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000770-AR-199311812",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000679"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001579"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000679",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60023",
+  "seasonNumber": "1979",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "16.10.1979",
+  "episodeTitle": "Samaritanen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00000679",
+  "title": "Samaritanen",
+  "originalTitle": "Samaritanen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Samaritanen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Samaritanen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Samaritanen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Samaritanen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H20M7.96S",
+  "shortDescription": "Tre unge menn forsøker å løse sine kontaktsproblemer. Godfrey er samaritan. Han bor med Denny. Nykomling Bob gleder seg til å bo i kollektiv med dem.",
+  "longDescription": "Av Peter Terson.\nOversatt av Mimi Omdahl.\nSminke:  Janine Strand.\nKostymer: Nan Austin.\nDekor:  Erik Hagen.\nInstruktør:  Aloysius Valente.\nUtgangspunktet for \"Samaritanen\" er den virksomhet som de profesjonelle\nsjelesørgersentra utøver, d.v.s. den engelske parallell til Kirkens S.O.S.\nStykket skildrer tre unge mennesker som forsøker å løse sine kontaktproblemer.\nDe som er med:  Bob Crawley ............. Jan FROSTAD\n                Godfrey Footman ......... Karl BOMANN-LARSEN\n                Denny ................... Anders HATLO",
+  "image": {
+    "imageInfo": {
+      "id": "VnHRsHvbrRSZB64Th7FCxg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.06384239,
+        "width": 1.0,
+        "height": 0.675978243
+      }
+    },
+    "imageWidthCropInfo": "VnHRsHvbrRSZB64Th7FCxg?x=0.00000000000000000&y=0.06384239130434782&w=1.00000000000000000&h=0.67597826086956530",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/VnHRsHvbrRSZB64Th7FCxgxlpSIr5fTbXbRDhoIlf74w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VnHRsHvbrRSZB64Th7FCxggjEaH_TKaiLbRDhoIlf74w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VnHRsHvbrRSZB64Th7FCxgwzEUYTBgXejbRDhoIlf74w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/VnHRsHvbrRSZB64Th7FCxg76Yc-6wefZLbRDhoIlf74w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Karl Bomann-Larsen",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Bomann-Larsen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(308872800000+0200)/",
+    "actualTransmissionDate": "/Date(308872800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(308872800000+0200)/",
+    "actualTransmissionDate": "/Date(308872800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Karl Bomann-Larsen",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Bomann-Larsen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000679&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H20M8S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000679&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000679&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000679&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000679&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000679-AR-199102830"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-10-1979",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000679-AR-199102830",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1979
+}

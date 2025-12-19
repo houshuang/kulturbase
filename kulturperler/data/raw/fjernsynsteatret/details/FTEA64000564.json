@@ -1,0 +1,363 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64000564"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64002064"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64000564",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "21.05.1964",
+  "episodeTitle": "Stormen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64000564",
+  "title": "Stormen",
+  "originalTitle": "Stormen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Stormen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Stormen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stormen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stormen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H51M59.92S",
+  "shortDescription": "Av William Shakespeare. Klassisk drama om skipbrudne på en øde øy.",
+  "longDescription": "Av William Shakespeare.\nOversatt av Rolf Hiorth Schøyen.  Bearbeidet av Harald Sverdrup.\nMusikk: Gunnar Sønstevold.\nDekor: Christian Egemar.  Kostymer: Ada Skolmen.\nInstruktør: Barthold Halle.\nKlassisk drama om skipbrudne på en øde øy.\nI rollene:\nAlonso ................. Jens BOLLING\nSebastian .............. Tor STOKKE\nProspero ............... Per GJERSØE\nAntonio ................ Knut M. HANSSON\nFerdinand .............. Jan SKULLERUD\nGonzalo ................ Toralf SANDØ\nAdrian ................. Per LILLO-STENBERG\nCaliban ................ William NYREN\nTrinculo ............... Sverre HANSEN\nStephano ............... Carsten BYHRING\nEn båtsmann ............ Roy BJØRNSTAD\nMiranda ................ Gudrun WAADELAND\nAriel .................. Wenche THORSBY",
+  "image": {
+    "imageInfo": {
+      "id": "bJiVDwNbjPkeXQtO6aAhgA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.172645733,
+        "width": 1.0,
+        "height": 0.5549327
+      }
+    },
+    "imageWidthCropInfo": "bJiVDwNbjPkeXQtO6aAhgA?x=0.00000000000000000&y=0.17264573991031390&w=1.00000000000000000&h=0.55493273542600900",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/bJiVDwNbjPkeXQtO6aAhgAXbZSWlCSbsNJaZZUugUw8g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bJiVDwNbjPkeXQtO6aAhgAaeCn0NNvM-NJaZZUugUw8g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bJiVDwNbjPkeXQtO6aAhgArmUt2XrWR_BJaZZUugUw8g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/bJiVDwNbjPkeXQtO6aAhgAQMRLAkZAOv9JaZZUugUw8g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Jan Skullerud",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Skullerud"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-177213600000+0200)/",
+    "actualTransmissionDate": "/Date(-177213600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-177213600000+0200)/",
+    "actualTransmissionDate": "/Date(-177213600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424235300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Jan Skullerud",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Skullerud"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000564&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H51M59S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000564&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000564&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000564&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000564&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64000564-AR-199406125"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-05-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64000564-AR-199406125",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

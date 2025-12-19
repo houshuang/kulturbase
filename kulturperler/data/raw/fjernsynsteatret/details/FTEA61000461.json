@@ -1,0 +1,351 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61000461"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61001361"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61000461",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "09.03.1961",
+  "episodeTitle": "Frisøndag",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61000461",
+  "title": "Frisøndag",
+  "originalTitle": "Frisøndag",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Frisøndag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Frisøndag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frisøndag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Frisøndag"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H22M4.24S",
+  "shortDescription": "Stykket handler om en middelaldrende husmor som forlater mann og barn for en dag. Og om familiens reaksjon og skyldfølelse. Av Leck Fischer.",
+  "longDescription": "Av den danske forfatteren Lech Fischer.\nOversatt av Magne Soone.\nDekor: Erik Hagen.\nEn middelaldrende husmor forlater mann og barn for en dag.  Familiens reaksjon\nog skyldfølelse.\nI rollene:\nFaren ........................ Jack FJELDSTAD\nBenny, den eldste sønnen ..... Tom TELLEFSEN\nIda, hans kone  .............. Urda ARNEBERG\nLars, den yngste sønnen ...... Kjetil BANG-HANSEN\nMarie, moren ................. Ragnhild MICHELSEN\nChristian, en krovert ........ Gunnar OLRAM\nMeta, en serveringsdame ...... Gudrun WAADELAND\nForvalteren .................. Ola B. JOHANNESSEN\nMinna, en ung kvinne ......... Wenche MEDBØE\nVera, datteren ............... Kari SIMONSEN\nVeras venn ................... Arne RIIS\nBlondinen .................... Siri ROM\n(Reprise: 19620405).",
+  "image": {
+    "imageInfo": {
+      "id": "saSIZiELpwUZ6ZvQZN55GQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09698208,
+        "width": 1.0,
+        "height": 0.7267442
+      }
+    },
+    "imageWidthCropInfo": "saSIZiELpwUZ6ZvQZN55GQ?x=0.00000000000000000&y=0.09698207400000000&w=1.00000000000000000&h=0.72674418600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/saSIZiELpwUZ6ZvQZN55GQ_UPem_0658dsVJFR7TFDYw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/saSIZiELpwUZ6ZvQZN55GQuST9sev7L_FsVJFR7TFDYw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/saSIZiELpwUZ6ZvQZN55GQBPN5KJBGLt5sVJFR7TFDYw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/saSIZiELpwUZ6ZvQZN55GQFHGaGOxPunZsVJFR7TFDYw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Arne Riis",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Riis"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Siri Rom",
+      "role": "Skuespiller",
+      "givenName": "Siri",
+      "familyName": "Rom"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Wenche Medbøe",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-278211600000+0100)/",
+    "actualTransmissionDate": "/Date(-278211600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-278211600000+0100)/",
+    "actualTransmissionDate": "/Date(-278211600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Arne Riis",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Riis"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Siri Rom",
+      "role": "Skuespiller",
+      "givenName": "Siri",
+      "familyName": "Rom"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Wenche Medbøe",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Medbøe"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000461&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H22M4S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000461&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000461&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000461&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61000461&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61000461-AR-199416135"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-03-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61000461-AR-199416135",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

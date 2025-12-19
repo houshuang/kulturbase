@@ -1,0 +1,267 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64000664"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65000465"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64000664",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "16.03.1965",
+  "episodeTitle": "Minnedagen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA64000664",
+  "title": "Minnedagen",
+  "originalTitle": "Minnedagen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Minnedagen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Minnedagen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Minnedagen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Minnedagen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT43M57.36S",
+  "shortDescription": "Aristokratiske Olympia og hennes pleierske Anna har begge mistet sin sønn i krigen: det binder dem sammen - og skiller dem. Av Hans-Joachim Haecker.",
+  "longDescription": "Av Hans-Joachim Haecker, tysk forfatter og dramatiker. (1910 - ).\nOversatt av Sigbjørn Hølmebakk.\nDekor: Erik Hagen.  Instruktør: Per Bronken.\nDen invalide Olympia meddeles at hennes sønn, som falt under krigen, vil bli\ngjort til nasjonalhelt for en brusprengning.  Hennes pleierske mistet sin sønn\nsom var på brua da den ble sprengt, hun gjenkjenner ham på et nylig oppdaget\nfotografi.\nI rollene:\nOlympia ............ Ada KRAMM\nAnna ............... Astrid SOMMER\nPresidenten ........ Gunnar OLRAM\nMinisteren ......... Frimann Falck CLAUSEN\nPolitisjefen ....... Kaare KLØVTVEDT",
+  "image": {
+    "imageInfo": {
+      "id": "LCQwZCtTAdbfUN2OvY9ojA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.233803079,
+        "width": 1.0,
+        "height": 0.5539143
+      }
+    },
+    "imageWidthCropInfo": "LCQwZCtTAdbfUN2OvY9ojA?x=0.00000000000000000&y=0.23380307300000000&w=1.00000000000000000&h=0.55391432800000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/LCQwZCtTAdbfUN2OvY9ojAh19I1QOgnwyk_KlXU6L16w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/LCQwZCtTAdbfUN2OvY9ojAfF8S3s4JIqak_KlXU6L16w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/LCQwZCtTAdbfUN2OvY9ojAE68ODcc61qCk_KlXU6L16w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/LCQwZCtTAdbfUN2OvY9ojA70kxPdLExUOk_KlXU6L16w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kaare Kløvtvedt",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kløvtvedt"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-151376400000+0100)/",
+    "actualTransmissionDate": "/Date(-151376400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-151376400000+0100)/",
+    "actualTransmissionDate": "/Date(-151376400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423716900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kaare Kløvtvedt",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kløvtvedt"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000664&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M57S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000664&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000664&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000664&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000664&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64000664-AR-199405150"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-03-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64000664-AR-199405150",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

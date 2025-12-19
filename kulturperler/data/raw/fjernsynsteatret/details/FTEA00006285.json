@@ -1,0 +1,261 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006285"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006785"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006285",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "24.12.1985",
+  "episodeTitle": "Holberg - erindringer i ord og toner",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00006285",
+  "title": "Holberg - erindringer i ord og toner",
+  "originalTitle": "Holberg - erindringer i ord og toner",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Holberg - erindringer i ord og toner"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Holberg - erindringer i ord og toner"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Holberg - erindringer i ord og toner"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Holberg - erindringer i ord og toner"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H33M24.56S",
+  "shortDescription": "Enmannsteater hvor Per Aabel opptrer som noen av Holbergs mest kjente personer. Han var gjennom en årrekke norsk teaters fremste Holberg-tolker.",
+  "longDescription": "Et program av og med Per AABEL.  Per AABEL har gjennom en årrekke vært norsk\nteaters fremste Holberg-tolker.  I kveldens \" enmannsteater \" opptrer han som\nnoen av Holbergs mest kjente personer :\nInnhold : Den fordrukne bonden Jeppe.  6'40\"\nDen forfengelige snobben Hans Frandsen som har studert i Paris og glemt sitt\nmorsmål.  5'00\" .\nDen munnrappe tjeneren Henrik som gjennomskuer sitt latterlige herskap.  8'00\"\nVielgeschrei - den altfor travle Stundesløse.  10'00\"\nJeppe i Baronens seng.  8'40\"\nFortekst.  Intr.  Drammens teater - publikum - zoom inn scene.\nSceneteppet går opp - applaus.  Per AABEL kommer inn - applaus.  P. A.\nintroduserer forestillingen - roser Drammens Teater, forteller om første gang\nhan opptrtrådte i dette teateret.  Forteller viderere om Holberg, hans\noppvekst, utdannelse og om sine verk, etc.  20'30\"\nFør og delvis under hver monolog blir det spilt musikk / akkompagnert til.\nMusikalsk akkompagnement er ved : Stephan BARRATT-DUE jr., Soon-Mi CHUNG og\nAage KVALBEIN.\nPer AABEL avslutter med å fortelle om Holbergs siste leveår og hans voksende\nberømmelse.  Leser epistler / betraktninger av Holberg.  Takker for i kveld.\nApplaus - publikum - overrekkelse av blomster.  Sluttekst.",
+  "image": {
+    "imageInfo": {
+      "id": "3VqoqPI43bweD1MKq5Brkw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.109389007,
+        "width": 1.0,
+        "height": 0.730045438
+      }
+    },
+    "imageWidthCropInfo": "3VqoqPI43bweD1MKq5Brkw?x=0.00000000000000000&y=0.10938900600000000&w=1.00000000000000000&h=0.73004542500000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/3VqoqPI43bweD1MKq5BrkwWBl5tmRnGsQgpiwk9AnofQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3VqoqPI43bweD1MKq5BrkwuFjuzgtQ3rUgpiwk9AnofQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3VqoqPI43bweD1MKq5Brkw_dssaEWlGtQgpiwk9AnofQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3VqoqPI43bweD1MKq5Brkw3wvpTPjJh9Ygpiwk9AnofQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "Ludvig Holberg",
+    "enmannsteater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "Ludvig Holberg",
+    "enmannsteater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Aabel",
+      "role": "Medvirkende",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Stephan Barratt-Due Jr.",
+      "role": "Artist/Utøver",
+      "givenName": "Stephan Barratt-Due",
+      "familyName": "Jr."
+    },
+    {
+      "name": "Soon-Mi Chung",
+      "role": "Artist/Utøver",
+      "givenName": "Soon-Mi",
+      "familyName": "Chung"
+    },
+    {
+      "name": "Aage Kvalbein",
+      "role": "Artist/Utøver",
+      "givenName": "Aage",
+      "familyName": "Kvalbein"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(504226800000+0100)/",
+    "actualTransmissionDate": "/Date(504226800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(504226800000+0100)/",
+    "actualTransmissionDate": "/Date(504226800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391748900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "dokumentar",
+      "displayValue": "Dokumentar",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Aabel",
+      "role": "Medvirkende",
+      "givenName": "Per",
+      "familyName": "Aabel"
+    },
+    {
+      "name": "Stephan Barratt-Due Jr.",
+      "role": "Artist/Utøver",
+      "givenName": "Stephan Barratt-Due",
+      "familyName": "Jr."
+    },
+    {
+      "name": "Soon-Mi Chung",
+      "role": "Artist/Utøver",
+      "givenName": "Soon-Mi",
+      "familyName": "Chung"
+    },
+    {
+      "name": "Aage Kvalbein",
+      "role": "Artist/Utøver",
+      "givenName": "Aage",
+      "familyName": "Kvalbein"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006285&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H33M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006285&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006285&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006285&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006285&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "ftea006285-ar-199060787"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-12-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "ftea006285-ar-199060787",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1985
+}

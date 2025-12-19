@@ -1,0 +1,318 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006269"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006269",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "16.12.1969",
+  "episodeTitle": "La ditt problem bli vårt problem",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00006269",
+  "title": "La ditt problem bli vårt problem",
+  "originalTitle": "La ditt problem bli vårt problem",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "La ditt problem bli vårt problem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "La ditt problem bli vårt problem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "La ditt problem bli vårt problem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "La ditt problem bli vårt problem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT21M18.96S",
+  "shortDescription": "En kvinneskjebne slik vi kjenner den fra ukebladnovellen. Av Hansmagnus Ystgaard.",
+  "longDescription": "Av Hansmagnus Ystgaard.\nMusikk: Terje Rypdal\nDekor: Per Fjeld.  Instruktør: Egil Kolstø.\nFilmprogram.\nStykket ble skrevet på bestilling for å gå inn i en planlagt temakveld om\nreklame som fjernsynet skulle arrangere.  Utgangspunktet var den kommersielle\nungdomsmessa \"Teenage Fair\".  Messa ble stoppet i Norge etter voldsomt\nopinionstrykk, men \"Teenage Fair\" går videre i andre land.  Filmen er tatt opp\ni Düsseldorfi august, og gir noen inntrykk fra messa slik den vel arter seg de\nfleste stedene den blir vist.\nFilm, rull 1:\nDiverse scener fra utstillingen \"Teenage Fair 69\" i Düsseldorf.  Fortekst \"La\nditt problem .... \" 0'30\". Tot: 10'31\".\nFilm, rull 2:\nTC inn 00.12.34\nResten av stykket.  20'45\".\nDe som er med:\nVertinnen .............. Sissel Benneche OSVOLD\n1. dame, Nina .......... Inger Lise WESTBY\n2. dame, Elsa .......... Bjørg VATLE\nBrudgommen ............. Johan HOLST\nKommentarer ............ Magne BLENESS\nFaren .................. Georg RICHTER\nMoren .................. Elna Hallenberg NÆSS\nTrond / Peter .......... Petter LINDBÆK\nTV-produsent / Roy ..... Per JANSEN",
+  "image": {
+    "imageInfo": {
+      "id": "_Rgi829umY2kFUbUIQNEgQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.6818795
+      }
+    },
+    "imageWidthCropInfo": "_Rgi829umY2kFUbUIQNEgQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.68187949640287770",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_Rgi829umY2kFUbUIQNEgQzbP9yfEKIkFOx2QrQRipdg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_Rgi829umY2kFUbUIQNEgQWwe47QXxJU1Ox2QrQRipdg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_Rgi829umY2kFUbUIQNEgQGxKAHHIEtGdOx2QrQRipdg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_Rgi829umY2kFUbUIQNEgQQQFoqAcKRYpOx2QrQRipdg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsteater",
+    "skuespill",
+    "reklame",
+    "ukeblader",
+    "annonse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsteater",
+    "skuespill",
+    "reklame",
+    "ukeblader",
+    "annonse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sissel Benneche Osvold",
+      "role": "Skuespiller",
+      "givenName": "Sissel Benneche",
+      "familyName": "Osvold"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Bjørg Vatle",
+      "role": "Skuespiller",
+      "givenName": "Bjørg",
+      "familyName": "Vatle"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Elna Hallenberg Næss",
+      "role": "Skuespiller",
+      "givenName": "Elna Hallenberg",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Petter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Petter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-1386000000+0100)/",
+    "actualTransmissionDate": "/Date(-1386000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-1386000000+0100)/",
+    "actualTransmissionDate": "/Date(-1386000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439092500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sissel Benneche Osvold",
+      "role": "Skuespiller",
+      "givenName": "Sissel Benneche",
+      "familyName": "Osvold"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Bjørg Vatle",
+      "role": "Skuespiller",
+      "givenName": "Bjørg",
+      "familyName": "Vatle"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Elna Hallenberg Næss",
+      "role": "Skuespiller",
+      "givenName": "Elna Hallenberg",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Petter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Petter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006269&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT21M19S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006269&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006269&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006269&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006269&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006269-AR-199313241"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-12-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006269-AR-199313241",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

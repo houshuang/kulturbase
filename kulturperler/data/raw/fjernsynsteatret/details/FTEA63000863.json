@@ -1,0 +1,471 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63000863"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63001963"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63000863",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "04.04.1963",
+  "episodeTitle": "Særlingen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63000863",
+  "title": "Særlingen",
+  "originalTitle": "Særlingen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Særlingen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Særlingen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Særlingen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Særlingen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H14.56S",
+  "shortDescription": "Et døgn i et irsk fengsel. En av fangene skal henrettes ved daggry. Av Brendan Behan.",
+  "longDescription": "Av den irske dramatikeren Brendan Behan.\nOversatt av Jens Bjørneboe.\nDekor: Christian Egemar.\nInstruktør: Palle Kjærulff-Schmidt.\nEt døgn i et irsk fengsel. Skildring av fanger og voktere.  Fine beskrivelser\nav de ulike karaktertypene.  Hele tida venter man på at den dødsdømte\n\"Særlingen\" skal henrettes ved daggry.\nI rollene:\nFanger:   Dunlavin ...................... Sverre HANSEN\n          Nabo .......................... Egil HJORTH-JENSSEN\n          Fange A ....................... Thor HJORTH-JENSSEN\n          Fange B ....................... Per GJERSØE\n          Livsvarig ..................... Vegard HALL\n          Den andre karen ............... Arne RIIS\n          Mickser ....................... Roy BJØRNSTAD\n          Engelsk stemme ................ Fridtjof MJØEN\n          Scholara ...................... Kjetil BANG-HANSEN\n          Shaybo ........................ Georg THOMMESEN\n          Gutten fra øya ................ Johan HOLST\n          Underslageren ................. Henrik Anker STEEN\n          Bookmaker'n ................... Jan Erik SÆTHERØ\nVoktere:  Inspektøren ................... Knut M. HANSSON\n          Regan ......................... Jens BOLLING\n          Crimmin ....................... Arne RYGG\n          Donelly ....................... Oscar EGEDE-NISSEN\n          Den nye vokteren .............. Hans Marius STORMOEN\n          Fengelsdirektøren ............. Toralf SANDØ\n          Holy Healy .................... Fridtjof MJØEN\n          Bøddelen ...................... Willie HOEL\n          Jenkinson ..................... Erik LASSEN\n          Legeassistenten ............... Svein BYHRING\nIrske folkeviser synges av Lasse Kolstad (off screen) og Per GJERSØE.\n(Reprise: 19680116).",
+  "image": {
+    "imageInfo": {
+      "id": "J7A4xJaBnjhInyX23vcnSg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07316756,
+        "width": 1.0,
+        "height": 0.7316756
+      }
+    },
+    "imageWidthCropInfo": "J7A4xJaBnjhInyX23vcnSg?x=0.00000000000000000&y=0.07316755989911729&w=1.00000000000000000&h=0.73167559899117280",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/J7A4xJaBnjhInyX23vcnSgnd5FH9q6oxXSb8sOhehCQA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/J7A4xJaBnjhInyX23vcnSgdFNF9tmQ90fSb8sOhehCQA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/J7A4xJaBnjhInyX23vcnSgJTL-rBIUK6bSb8sOhehCQA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/J7A4xJaBnjhInyX23vcnSgYgzYrMteGyHSb8sOhehCQA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Arne Riis",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Riis"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Georg Thommesen",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Thommesen"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Jan Erik Sætherø",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Sætherø"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Arne Rygg",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Rygg"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Hans Marius Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans Marius",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Svein Byhring",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Byhring"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-212896800000+0200)/",
+    "actualTransmissionDate": "/Date(-212896800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-212896800000+0200)/",
+    "actualTransmissionDate": "/Date(-212896800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1422939300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Thor Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Arne Riis",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Riis"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Georg Thommesen",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Thommesen"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Jan Erik Sætherø",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Sætherø"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Arne Rygg",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Rygg"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Hans Marius Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans Marius",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Svein Byhring",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Byhring"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000863&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT2H14S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000863&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000863&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000863&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000863&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63000863-AR-199416006"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-04-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63000863-AR-199416006",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

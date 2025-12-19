@@ -1,0 +1,345 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003268"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003067"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003268",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "23.04.1968",
+  "episodeTitle": "Tilfluktsrommet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00003268",
+  "title": "Tilfluktsrommet",
+  "originalTitle": "Tilfluktsrommet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tilfluktsrommet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tilfluktsrommet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tilfluktsrommet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tilfluktsrommet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H16M19.96S",
+  "shortDescription": "Stykket levendegjør den konflikt og de problemer man vil stå overfor i forbindelse med en atomkrig. Av Finn Carling.",
+  "longDescription": "Av Finn Carling.\nDekor: Sverre Andersen.  Instruktør: Arnljot Berg.\nStykket er et forsøk på å levendegjøre den konflikt og de problemer man vil stå\noverfor i forbindelse med en atomkrig.  Men det er også en skildring av de\nkonfliktene som menneskene rent personlig står overfor i forbindelse med denne\nsituasjonen.  Formen er så enkel som mulig - rent realistisk.  Det er et forsøk\npå å nå særlig unge mennesker med en helt konkret situasjon.\nDe som er med:\nPihl ................. Sverre HANSEN\nKrogh ................ Knut M. HANSSON\nLajla Reimers ........ Ingebjørg SEM\nJørgen Reimers ....... Rolf SØDER\nEva Reimers .......... Anne HERLOFSEN\nElisabeth Werner ..... Else HEIBERG\nGeorg Werner ......... Per GJERSØE\nSylvia Eilertsen ..... Bab CHRISTENSEN\nRoar Eilertsen ....... Carsten WINGER\nCathrine Angell ...... Inger Lise WESTBY\nThomas Eilertsen ..... Ole SIMENSEN\n(Reprise: 19700811)",
+  "image": {
+    "imageInfo": {
+      "id": "mrOp7oaeIyLSU6ya5fmNaA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.09360119,
+        "width": 1.0,
+        "height": 0.601721942
+      }
+    },
+    "imageWidthCropInfo": "mrOp7oaeIyLSU6ya5fmNaA?x=0.00000000000000000&y=0.09360119047619048&w=1.00000000000000000&h=0.60172193877551030",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/mrOp7oaeIyLSU6ya5fmNaA92YXwYOnK44AdaJMDFxm6w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mrOp7oaeIyLSU6ya5fmNaAuFbSIcKeGPAAdaJMDFxm6w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mrOp7oaeIyLSU6ya5fmNaAF9jOFtbSXocAdaJMDFxm6w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mrOp7oaeIyLSU6ya5fmNaAazlDAtT94dAAdaJMDFxm6w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "atomkrig",
+    "atomvåpen",
+    "krig"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "atomkrig",
+    "atomvåpen",
+    "krig"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Anne Herlofsen",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Herlofsen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Ole Andreas Simensen",
+      "role": "Skuespiller",
+      "givenName": "Ole Andreas",
+      "familyName": "Simensen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-53402400000+0200)/",
+    "actualTransmissionDate": "/Date(-53402400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-53402400000+0200)/",
+    "actualTransmissionDate": "/Date(-53402400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Anne Herlofsen",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Herlofsen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Ole Andreas Simensen",
+      "role": "Skuespiller",
+      "givenName": "Ole Andreas",
+      "familyName": "Simensen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003268&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H16M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003268&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003268&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003268&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003268&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003268-AR-199314027"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-04-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003268-AR-199314027",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

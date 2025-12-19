@@ -1,0 +1,307 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62001562"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62000862"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62001562",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "06.09.1962",
+  "episodeTitle": "Den uskyldige",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62001562",
+  "title": "Den uskyldige",
+  "originalTitle": "Den uskyldige",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den uskyldige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den uskyldige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den uskyldige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den uskyldige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H28M3.96S",
+  "shortDescription": "Direktør Erdmann frifinnes for et mord. Men underveis fremkommer det antydninger - er han likevel skyldig?",
+  "longDescription": "Av den østerriske forfatteren Fritz Hochw??lder.\nOversatt Av Carl Fredrik Engelstad.\nDekor: Sverre Andersen.\nInstruktør: Toralf Sandø.\nDet kommunale vannverket graver opp et skjelett i den inbilske hustyrannen,\ndirektør Erdmanns rosenbed.  Politiavhør da Erdmann anklager seg selv for mord.\nDet viser seg at skjelettet stammer fra 1700-tallet og dir. Erdmann frifinnes.\nMen underveis har det framkommet antydninger til at direktøren allikevel har\nbegått et mord.\nI rollene:\nChristian Erdmann ........... Carsten WINGER\nCharlotte Erdmann ........... Ragnhild MICHELSEN\nChristine Erdmann ........... Gudrun WAADELAND\nJulius ...................... Fridtjof MJØEN\nKrott ....................... Egil HJORTH-JENSSEN\nPetternigg .................. Alf SOMMER\nStark ....................... Adolf BJERKE\nBreitnadler ................. Magne BLENESS\nMizzi ....................... Wenche FÆHN",
+  "image": {
+    "imageInfo": {
+      "id": "_HU5GKw4NG7bSyxU8W8jiQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.145125046,
+        "width": 1.0,
+        "height": 0.724871159
+      }
+    },
+    "imageWidthCropInfo": "_HU5GKw4NG7bSyxU8W8jiQ?x=0.00000000000000000&y=0.14512504400000000&w=1.00000000000000000&h=0.72487113400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_HU5GKw4NG7bSyxU8W8jiQUkWhL5hDQ4GOIzNyKPFxrA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_HU5GKw4NG7bSyxU8W8jiQfyoLJT776PKOIzNyKPFxrA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_HU5GKw4NG7bSyxU8W8jiQGjyT4DK7rDyOIzNyKPFxrA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_HU5GKw4NG7bSyxU8W8jiQP4WHaD7W2fyOIzNyKPFxrA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-231040800000+0200)/",
+    "actualTransmissionDate": "/Date(-231040800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-231040800000+0200)/",
+    "actualTransmissionDate": "/Date(-231040800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1422939300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001562&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H28M4S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001562&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001562&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001562&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001562&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62001562-AR-199416108"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-09-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62001562-AR-199416108",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

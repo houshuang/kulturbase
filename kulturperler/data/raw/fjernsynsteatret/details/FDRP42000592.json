@@ -1,0 +1,530 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP42000592"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP00000294"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp42000592",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "67247",
+  "seasonNumber": "1994",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "30.01.1994",
+  "episodeTitle": "Morsarven 5:6",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FDRP42000592",
+  "title": "Morsarven 5:6",
+  "originalTitle": "Morsarvet - en skröna från Värmland",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Morsarven 5:6"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Morsarvet - en skröna från Värmland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Morsarvet - en skröna från Värmland"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Morsarven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Morsarven  5:6"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT46M57.96S",
+  "shortDescription": "Det nazistiske grepet om Norge blir verre. Oppholdstillatelsen har gått ut, og Lilly kjemper for livet. Og hva hender med Ada? Del 5.",
+  "longDescription": "Svensk dramaserie i 6 deler.\nManuskript: Solveig Ternström.\nDet er høsten 1940.  Lilly Amundsen har flyttet tilbake til Värmland fra det\ntyskokkuperte Oslo med sine to barn.  Det nazistiske grepet om Norge blir\nverre.  Familien Amundsen er norske statsborgere alle tre, og deres\noppholdstillatelse har gått ut.  Lilly kjemper for livet.  Og hva hender med\nden stumme, gåtefulle Ada?\nI rollene:  Lilly Amundsen ............ Solveig TERNSTRÖM\n            Ola Amundsen .............. Øystein Riise NÆSS\n            Ada Amundsen .............. Paula TERNSTRÖM",
+  "image": {
+    "imageInfo": {
+      "id": "AZudIYgVP4rZ1t3DDU0EPw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.995972931
+      }
+    },
+    "imageWidthCropInfo": "AZudIYgVP4rZ1t3DDU0EPw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99597293814433000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/AZudIYgVP4rZ1t3DDU0EPwcA0KupXvXJv_GvyI2mxIqQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AZudIYgVP4rZ1t3DDU0EPwFjtk0jCkX73_GvyI2mxIqQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AZudIYgVP4rZ1t3DDU0EPwkTDGlO9SvGj_GvyI2mxIqQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/AZudIYgVP4rZ1t3DDU0EPwzOUG9JF1qZL_GvyI2mxIqQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Peter Stefansson",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Stefansson"
+    },
+    {
+      "name": "Olle Ericsson",
+      "role": "Skuespiller",
+      "givenName": "Olle",
+      "familyName": "Ericsson"
+    },
+    {
+      "name": "Per-Eric Nordqvist",
+      "role": "Skuespiller",
+      "givenName": "Per-Eric",
+      "familyName": "Nordqvist"
+    },
+    {
+      "name": "Lars Löfgren",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Löfgren"
+    },
+    {
+      "name": "Britt Adamson",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Adamson"
+    },
+    {
+      "name": "Jasmine Heikura",
+      "role": "Skuespiller",
+      "givenName": "Jasmine",
+      "familyName": "Heikura"
+    },
+    {
+      "name": "Anna Jankert",
+      "role": "Skuespiller",
+      "givenName": "Anna",
+      "familyName": "Jankert"
+    },
+    {
+      "name": "Björn Söderbeck",
+      "role": "Skuespiller",
+      "givenName": "Björn",
+      "familyName": "Söderbeck"
+    },
+    {
+      "name": "Carina Ekman",
+      "role": "Skuespiller",
+      "givenName": "Carina",
+      "familyName": "Ekman"
+    },
+    {
+      "name": "Nils Moritz",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Moritz"
+    },
+    {
+      "name": "Philip Zandén",
+      "role": "Skuespiller",
+      "givenName": "Philip",
+      "familyName": "Zandén"
+    },
+    {
+      "name": "Börje Ahlstedt",
+      "role": "Skuespiller",
+      "givenName": "Börje",
+      "familyName": "Ahlstedt"
+    },
+    {
+      "name": "Hans Sandqvist",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Sandqvist"
+    },
+    {
+      "name": "Ingvar Kjellson",
+      "role": "Skuespiller",
+      "givenName": "Ingvar",
+      "familyName": "Kjellson"
+    },
+    {
+      "name": "Elaine Sjöberg",
+      "role": "Skuespiller",
+      "givenName": "Elaine",
+      "familyName": "Sjöberg"
+    },
+    {
+      "name": "Sven Lindberg",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Lindberg"
+    },
+    {
+      "name": "Stig Torstensson",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Torstensson"
+    },
+    {
+      "name": "Torsten Wahlund",
+      "role": "Skuespiller",
+      "givenName": "Torsten",
+      "familyName": "Wahlund"
+    },
+    {
+      "name": "Jan Pande-Rolfsen",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Pande-Rolfsen"
+    },
+    {
+      "name": "Peter Stormare",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Stormare"
+    },
+    {
+      "name": "Paula Ternström",
+      "role": "Skuespiller",
+      "givenName": "Paula",
+      "familyName": "Ternström"
+    },
+    {
+      "name": "Øystein Riise Næss",
+      "role": "Skuespiller",
+      "givenName": "Øystein Riise",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Solveig Ternström",
+      "role": "Skuespiller",
+      "givenName": "Solveig",
+      "familyName": "Ternström"
+    },
+    {
+      "name": "Kermit Myhrvold",
+      "role": "Skuespiller",
+      "givenName": "Kermit",
+      "familyName": "Myhrvold"
+    },
+    {
+      "name": "Rune Antonsson",
+      "role": "Skuespiller",
+      "givenName": "Rune",
+      "familyName": "Antonsson"
+    },
+    {
+      "name": "Anders Nilsson",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Nilsson"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(759884400000+0100)/",
+    "actualTransmissionDate": "/Date(759884400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(759884400000+0100)/",
+    "actualTransmissionDate": "/Date(759884400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Peter Stefansson",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Stefansson"
+    },
+    {
+      "name": "Olle Ericsson",
+      "role": "Skuespiller",
+      "givenName": "Olle",
+      "familyName": "Ericsson"
+    },
+    {
+      "name": "Per-Eric Nordqvist",
+      "role": "Skuespiller",
+      "givenName": "Per-Eric",
+      "familyName": "Nordqvist"
+    },
+    {
+      "name": "Lars Löfgren",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Löfgren"
+    },
+    {
+      "name": "Britt Adamson",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Adamson"
+    },
+    {
+      "name": "Jasmine Heikura",
+      "role": "Skuespiller",
+      "givenName": "Jasmine",
+      "familyName": "Heikura"
+    },
+    {
+      "name": "Anna Jankert",
+      "role": "Skuespiller",
+      "givenName": "Anna",
+      "familyName": "Jankert"
+    },
+    {
+      "name": "Björn Söderbeck",
+      "role": "Skuespiller",
+      "givenName": "Björn",
+      "familyName": "Söderbeck"
+    },
+    {
+      "name": "Carina Ekman",
+      "role": "Skuespiller",
+      "givenName": "Carina",
+      "familyName": "Ekman"
+    },
+    {
+      "name": "Nils Moritz",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Moritz"
+    },
+    {
+      "name": "Philip Zandén",
+      "role": "Skuespiller",
+      "givenName": "Philip",
+      "familyName": "Zandén"
+    },
+    {
+      "name": "Börje Ahlstedt",
+      "role": "Skuespiller",
+      "givenName": "Börje",
+      "familyName": "Ahlstedt"
+    },
+    {
+      "name": "Hans Sandqvist",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Sandqvist"
+    },
+    {
+      "name": "Ingvar Kjellson",
+      "role": "Skuespiller",
+      "givenName": "Ingvar",
+      "familyName": "Kjellson"
+    },
+    {
+      "name": "Elaine Sjöberg",
+      "role": "Skuespiller",
+      "givenName": "Elaine",
+      "familyName": "Sjöberg"
+    },
+    {
+      "name": "Sven Lindberg",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Lindberg"
+    },
+    {
+      "name": "Stig Torstensson",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Torstensson"
+    },
+    {
+      "name": "Torsten Wahlund",
+      "role": "Skuespiller",
+      "givenName": "Torsten",
+      "familyName": "Wahlund"
+    },
+    {
+      "name": "Jan Pande-Rolfsen",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Pande-Rolfsen"
+    },
+    {
+      "name": "Peter Stormare",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Stormare"
+    },
+    {
+      "name": "Paula Ternström",
+      "role": "Skuespiller",
+      "givenName": "Paula",
+      "familyName": "Ternström"
+    },
+    {
+      "name": "Øystein Riise Næss",
+      "role": "Skuespiller",
+      "givenName": "Øystein Riise",
+      "familyName": "Næss"
+    },
+    {
+      "name": "Solveig Ternström",
+      "role": "Skuespiller",
+      "givenName": "Solveig",
+      "familyName": "Ternström"
+    },
+    {
+      "name": "Kermit Myhrvold",
+      "role": "Skuespiller",
+      "givenName": "Kermit",
+      "familyName": "Myhrvold"
+    },
+    {
+      "name": "Rune Antonsson",
+      "role": "Skuespiller",
+      "givenName": "Rune",
+      "familyName": "Antonsson"
+    },
+    {
+      "name": "Anders Nilsson",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Nilsson"
+    },
+    {
+      "name": "Anne Ryg",
+      "role": "Skuespiller",
+      "givenName": "Anne",
+      "familyName": "Ryg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP42000592&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT46M58S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP42000592&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP42000592&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP42000592&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP42000592&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP42000592-AR-199504787"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-01-1994",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP42000592-AR-199504787",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1992
+}

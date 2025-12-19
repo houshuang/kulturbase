@@ -1,0 +1,224 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003590"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00004789"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003590",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60034",
+  "seasonNumber": "1990",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "04.12.1990",
+  "episodeTitle": "Den 25. time",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00003590",
+  "title": "Den 25. time",
+  "originalTitle": "Den 25. time",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den 25. time"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den 25. time"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den 25. time"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den 25. time"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H49M32S",
+  "shortDescription": "En gutts verden raste sammen da morfaren falt fra. Nå er han en farlig sikringsfange som presten og psykologen forsøker å forstå. Av Per Olov Enquist.",
+  "longDescription": "av Per Olov Enquist.\nSminke: Mette Ødegaaerd.  Kostymer: Torkil Ranum.\nDekorasjoner: Siri Langdalen.  Musikk: Rain.\nBildeprodusent: Willy Rustad.\nRegi: Carl Jørgen Kiønig.\nHele sin barndom bodde Gutten alene med sin kjære morfar i et ensomt hus\nlangt mot nord.  Han var lykkelig der.  Men da morfar falt fra, raste hans\nverden sammen.  Nå er han en farlig sikringsfange som presten og psykologen\nforsøker å forstå.\nDet er Gutten, ikke volden Enquist vil forsvare.  Per Olov Enquist er en av\nSveriges ledende dramatikere, samt også blir spilt mye her i Norge.\nFjernsynsteatret har oppført to skuespill av ham før: \"Tribadenes natt\" og\n\"Fra regnormenes liv\".\nI rollene:\nGutten ..................... Lasse KOLSRUD\nLisbeth .................... Marianne KROGH\nPresten .................... Rut TELLEFSEN\nEricsson ................... Ingar Helge GIMLE\nVokter ..................... Jan GRØNLI",
+  "image": {
+    "imageInfo": {
+      "id": "k1Xpcy7JLfzyI2c6Vi2zyA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9988724
+      }
+    },
+    "imageWidthCropInfo": "k1Xpcy7JLfzyI2c6Vi2zyA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99887242268041230",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/k1Xpcy7JLfzyI2c6Vi2zyA5-K0bX6EL8YSL-jMFg31qA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/k1Xpcy7JLfzyI2c6Vi2zyASZbo93glhqwSL-jMFg31qA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/k1Xpcy7JLfzyI2c6Vi2zyAJmsIn-ATxksSL-jMFg31qA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/k1Xpcy7JLfzyI2c6Vi2zyArF_UM_HnRLoSL-jMFg31qA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(660265200000+0100)/",
+    "actualTransmissionDate": "/Date(660265200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(660265200000+0100)/",
+    "actualTransmissionDate": "/Date(660265200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437969300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H13M24S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00013590-AR-199049275"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT36M8S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003590&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00023590-AR-199049275"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-12-1990",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00013590-AR-199049275",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1990
+}

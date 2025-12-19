@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP20000091"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP22000291"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp20000091",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60036",
+  "seasonNumber": "1992",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "03.02.1992",
+  "episodeTitle": "Det udødelige parti",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 8,
+  "startNextEpisode": 10,
+  "id": "FDRP20000091",
+  "title": "Det udødelige parti",
+  "originalTitle": "Det udødelige parti",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Det udødelige parti"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Det udødelige parti"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det udødelige parti"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det udødelige parti"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H2M32.96S",
+  "shortDescription": "En gammel mann inviterer en tilfeldig ung mann hjem til seg. De skal spille sjakk. Ingen må tro at det er en fredelig syssel man går uberørt bort fra.",
+  "longDescription": "Av Leif Inge Jacobsen.\nEn gammel mann inviterer en tilfeldig ung mann hjem til seg.  De skal spille\nsjakk.  Ingen må tro at det er en fredelig syssel man går uberørt bort fra.\nOver brettet fremkalles alle mulige egenskaper.  Hovmot og forfengelighet gir\nen frisk start.\nI rollene:  Sort .... Rolf Arly LUND\n            Hvit .... Even RASMUSSEN.",
+  "image": {
+    "imageInfo": {
+      "id": "4P4NNyIZePy16VdECnjBNQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1217687,
+        "width": 1.0,
+        "height": 0.812861264
+      }
+    },
+    "imageWidthCropInfo": "4P4NNyIZePy16VdECnjBNQ?x=0.00000000000000000&y=0.12176870100000000&w=1.00000000000000000&h=0.81286127200000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/4P4NNyIZePy16VdECnjBNQrNhJGSkpxX1j7fuwvEkuxQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4P4NNyIZePy16VdECnjBNQ0KMkZleNY-Jj7fuwvEkuxQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4P4NNyIZePy16VdECnjBNQ5401rBcMLWZj7fuwvEkuxQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4P4NNyIZePy16VdECnjBNQUrv7t7D8hx5j7fuwvEkuxQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Even Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Even",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(697071600000+0100)/",
+    "actualTransmissionDate": "/Date(697071600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(697071600000+0100)/",
+    "actualTransmissionDate": "/Date(697071600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423716900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Even Rasmussen",
+      "role": "Skuespiller",
+      "givenName": "Even",
+      "familyName": "Rasmussen"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20000091&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H2M33S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20000091&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20000091&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20000091&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP20000091&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP200091-AR-199407429"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "03-02-1992",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP200091-AR-199407429",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1991
+}

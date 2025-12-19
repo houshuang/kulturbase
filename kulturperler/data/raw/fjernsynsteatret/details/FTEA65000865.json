@@ -1,0 +1,279 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65000865"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65000765"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65000865",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "09.11.1965",
+  "episodeTitle": "Trappen, eller Imperiebyggerne",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65000865",
+  "title": "Trappen, eller Imperiebyggerne",
+  "originalTitle": "Trappen, eller Imperiebyggerne",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Trappen, eller Imperiebyggerne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Trappen, eller Imperiebyggerne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Trappen, eller Imperiebyggerne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Trappen, eller Imperiebyggerne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H37M43.28S",
+  "shortDescription": "Et absurd skuespill om en familie på evig flukt opp trappen i en leiegård, fra den ene etasjen til den andre, jaget av en forferdelig larm.",
+  "longDescription": "\"Imperiebyggerne eller Schmürzen\" av den franske forfatteren Boris Vian.\nOversatt av Eivind Hauge.\nDekor: Herman Bendixen.  Instruktør: Yngve Nordwall.\nInnledning ved Yngvar Ustvedt.\nAbsurd teater.  Stykket handler om en familie som befinner seg på evig flukt\nopp trappen i en leiegård, fra den ene etasjen til den andre.  I panisk angst\nflykter de fra en forferdelig larm som later til å forfølge dem.  Men det\nmerkelige er at de aldri våger å vedstå seg sin flukt og sin angst.\nI rollene:\nFaren ............. Arne LIE\nMoren ............. Ragnhild MICHELSEN\nZenobie ........... Karen RANDERS-PEHRSON\nCruche ............ Mona HOFLAND\nNaboen ............ Frimann Falck CLAUSEN",
+  "image": {
+    "imageInfo": {
+      "id": "n3c5tlqk85NK0KeMmSekJA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.132290483,
+        "width": 1.0,
+        "height": 0.5537741
+      }
+    },
+    "imageWidthCropInfo": "n3c5tlqk85NK0KeMmSekJA?x=0.00000000000000000&y=0.13229048429814608&w=1.00000000000000000&h=0.55377412031782070",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJAyyX5BrSJ58yCUuKlhGZLZg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJAxKFhpXlazoGCUuKlhGZLZg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJAcgUm63aNNEiCUuKlhGZLZg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJAfkwY0xxD1QGCUuKlhGZLZg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teaterstykke",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teaterstykke",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Karen Randers-Pehrson",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Randers-Pehrson"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Yngvar Ustvedt",
+      "role": "Oppleser",
+      "givenName": "Yngvar",
+      "familyName": "Ustvedt"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-130813200000+0100)/",
+    "actualTransmissionDate": "/Date(-130813200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-130813200000+0100)/",
+    "actualTransmissionDate": "/Date(-130813200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424321700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Karen Randers-Pehrson",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Randers-Pehrson"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Yngvar Ustvedt",
+      "role": "Oppleser",
+      "givenName": "Yngvar",
+      "familyName": "Ustvedt"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000865&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H37M43S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000865&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000865&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000865&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000865&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65000865-AR-199405468"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-11-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65000865-AR-199405468",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

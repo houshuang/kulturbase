@@ -1,0 +1,259 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003168"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003868"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003168",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "10.09.1968",
+  "episodeTitle": "Hilsen fra Bertha",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00003168",
+  "title": "Hilsen fra Bertha",
+  "originalTitle": "Hilsen fra Bertha",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Hilsen fra Bertha"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Hilsen fra Bertha"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hilsen fra Bertha"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hilsen fra Bertha"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT27M24.96S",
+  "shortDescription": "Historien om det dramatiske livet til en syk prostituert på et snuskete bordell, der jungelens lov hersker. Av Tennessee Williams.",
+  "longDescription": "Av Tennessee Williams.\nOversatt av Helge Hagerup.\nDekor: Per Fjeld.  Instruktør: Jon Heggedal.\nStykket foregår i en bordell, men ikke for å vise hva den kjøpte kjærligheten\ner for noe, snarere er det en situasjon som avspeiler nødsårene i USA etter\nkrakket i 1929.  Her i det lille snuskete bordellet, som alle andre steder i\ndet amerikanske samfunn, hersker jungelens lov.\nDe som er med:\nBertha ............... Lise FJELDSTAD\nGoldie ............... Inger Lise WESTBY\nLena ................. Michaela SPANDOW\nEn pike .............. Live HOV",
+  "image": {
+    "imageInfo": {
+      "id": "RgAo_kj3Jh5yZrWLbJMApg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.160260335,
+        "width": 1.0,
+        "height": 0.554747343
+      }
+    },
+    "imageWidthCropInfo": "RgAo_kj3Jh5yZrWLbJMApg?x=0.00000000000000000&y=0.16026033690658498&w=1.00000000000000000&h=0.55474732006125570",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/RgAo_kj3Jh5yZrWLbJMApgSYpkcJXNEDxN3JUecWpboA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgAo_kj3Jh5yZrWLbJMApgYg2KOc_sflZN3JUecWpboA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgAo_kj3Jh5yZrWLbJMApg_fRsUdRAE85N3JUecWpboA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RgAo_kj3Jh5yZrWLbJMApgMOwDNMHvyBJN3JUecWpboA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "bordell",
+    "prostitusjon"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "bordell",
+    "prostitusjon"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Michaela Spandow",
+      "role": "Skuespiller",
+      "givenName": "Michaela",
+      "familyName": "Spandow"
+    },
+    {
+      "name": "Live Hov",
+      "role": "Skuespiller",
+      "givenName": "Live",
+      "familyName": "Hov"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-41306400000+0200)/",
+    "actualTransmissionDate": "/Date(-41306400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-41306400000+0200)/",
+    "actualTransmissionDate": "/Date(-41306400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Inger-Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger-Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Michaela Spandow",
+      "role": "Skuespiller",
+      "givenName": "Michaela",
+      "familyName": "Spandow"
+    },
+    {
+      "name": "Live Hov",
+      "role": "Skuespiller",
+      "givenName": "Live",
+      "familyName": "Hov"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003168&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT27M25S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003168&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003168&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003168&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003168&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003168-AR-199314030"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-09-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003168-AR-199314030",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

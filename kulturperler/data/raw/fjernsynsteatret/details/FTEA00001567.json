@@ -1,0 +1,361 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001567"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001467"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001567",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "03.10.1967",
+  "episodeTitle": "Den innbilt syke",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA00001567",
+  "title": "Den innbilt syke",
+  "originalTitle": "Den innbilt syke",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den innbilt syke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den innbilt syke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den innbilt syke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den innbilt syke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fransk satire"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den innbilt syke"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H34M16.96S",
+  "shortDescription": "Hypokonderen Argan vil gifte bort sin vakre datter Angélique til legestudenten Thomas, siden han gjerne vil ha en lege i familien. Av Molière.",
+  "longDescription": "Av Moliere.\nOriginaltittel: Le Malade Imaginaire.  Stykket hadde premiere 10. februar 1673.\nOversatt av Andre Bjerke.\nDekor: Per Lekang.  Instruktør: Kirsten Sørlie.\nDe som er med:\nArgan ................... Sverre HANSEN\nBeline .................. Ingebjørg SEM\nAngelique ............... Eva OPAKER\nBeralde ................. Eilif ARMAND\nCleante ................. Svein SCHARFFENBERG\nDr. Diafoirus ........... Arne BANG-HANSEN\nThomas Diafoirus ........ Geir BØRRESEN\nDr. Purgon .............. Tor STOKKE\nHerr Fleurant ........... Carsten WINGER\nHerr Bonnefoi ........... Sverre WILBERG\nToinette ................ Anita RUMMELHOFF\n(Reprise: 19720829).",
+  "image": {
+    "imageInfo": {
+      "id": "70MzhQcWEjTV4TC9fItjpA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.6712101
+      }
+    },
+    "imageWidthCropInfo": "70MzhQcWEjTV4TC9fItjpA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.67121010638297870",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/70MzhQcWEjTV4TC9fItjpAWU13NuQ63B04xsHmvXcnHg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/70MzhQcWEjTV4TC9fItjpAJ4UIG2g7N8w4xsHmvXcnHg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/70MzhQcWEjTV4TC9fItjpAMSazEFdTBwg4xsHmvXcnHg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/70MzhQcWEjTV4TC9fItjpArwlBMAq_uvg4xsHmvXcnHg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "teaterstykke",
+    "komedie",
+    "satire",
+    "leger"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "teaterstykke",
+    "komedie",
+    "satire",
+    "leger"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Geir Børresen",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Børresen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Anita Rummelhoff",
+      "role": "Skuespiller",
+      "givenName": "Anita",
+      "familyName": "Rummelhoff"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-70941600000+0200)/",
+    "actualTransmissionDate": "/Date(-70941600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-70941600000+0200)/",
+    "actualTransmissionDate": "/Date(-70941600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Geir Børresen",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Børresen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Anita Rummelhoff",
+      "role": "Skuespiller",
+      "givenName": "Anita",
+      "familyName": "Rummelhoff"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001567&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H34M17S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001567&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001567&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001567&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001567&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001567-AR-199314099"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "03-10-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001567-AR-199314099",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1967
+}

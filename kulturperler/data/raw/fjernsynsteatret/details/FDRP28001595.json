@@ -1,0 +1,291 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28001595"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28005394"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28001595",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60040",
+  "seasonNumber": "1996",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "09.06.1996",
+  "episodeTitle": "Hedda Gabler",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 9,
+  "startNextEpisode": 10,
+  "id": "FDRP28001595",
+  "title": "Hedda Gabler",
+  "originalTitle": "Hedda Gabler",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Hedda Gabler"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Hedda Gabler"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hedda Gabler"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hedda Gabler"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H12M54.96S",
+  "shortDescription": "Drama av Ibsen som dukketeater, fra Oslo Nye Dukketeatret. Forestillingen vant prisen for beste scenografi på teaterfestivalen Baltic House 96.",
+  "longDescription": "Dramaet \"Hedda Gabler\" av Henrik Ibsen bearbeidet for dukketeater av Bjørg\n\nVindsetmo.\n\nOverføring fra Oslo Nye Dukketeatret i 1995.\n\nRegi: Barthold Halle.\n\nFjernsynsregi: Christian Brym.\n\nScenografi og dukker: Lisbeth Narud.\n\nI rollene: Knut Wiulsrød, Kjersti Germeten, Anne-Lise Ruud, Ragnhild Wang, Per\n\nSkjølsvik og Stein Kiran.\n\nForestillingen vant prisen for beste scenografi på teaterfestivalen Baltic\n\nHouse 96.",
+  "image": {
+    "imageInfo": {
+      "id": "ZSawjpinIkIlM8U1PafKFg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9979378
+      }
+    },
+    "imageWidthCropInfo": "ZSawjpinIkIlM8U1PafKFg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99793781725888330",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ZSawjpinIkIlM8U1PafKFgHkvaPYFRHi7o6CUGBf1k3Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZSawjpinIkIlM8U1PafKFgnnozNygHoXvo6CUGBf1k3Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZSawjpinIkIlM8U1PafKFg1qsn8tGUKJbo6CUGBf1k3Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZSawjpinIkIlM8U1PafKFgarh5hXX2rrLo6CUGBf1k3Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "Oslo Nye Teaters Dukketeater",
+    "fjernsynsteatret",
+    "dukketeater",
+    "oslo nye",
+    "oslo nye dukketeater",
+    "henrik ibsen",
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "Oslo Nye Teaters Dukketeater",
+    "fjernsynsteatret",
+    "dukketeater",
+    "oslo nye",
+    "oslo nye dukketeater",
+    "henrik ibsen",
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Stein Kiran",
+      "role": "Skuespiller",
+      "givenName": "Stein",
+      "familyName": "Kiran"
+    },
+    {
+      "name": "Anne-Lise Ruud",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Ruud"
+    },
+    {
+      "name": "Kjersti Germeten",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Germeten"
+    },
+    {
+      "name": "Per Skjølsvik",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Skjølsvik"
+    },
+    {
+      "name": "Knut Wiulsrød",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wiulsrød"
+    },
+    {
+      "name": "Ragnhild Wang",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Wang"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(834271200000+0200)/",
+    "actualTransmissionDate": "/Date(834271200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(834271200000+0200)/",
+    "actualTransmissionDate": "/Date(834271200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1449550500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Stein Kiran",
+      "role": "Skuespiller",
+      "givenName": "Stein",
+      "familyName": "Kiran"
+    },
+    {
+      "name": "Anne-Lise Ruud",
+      "role": "Skuespiller",
+      "givenName": "Anne-Lise",
+      "familyName": "Ruud"
+    },
+    {
+      "name": "Kjersti Germeten",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Germeten"
+    },
+    {
+      "name": "Per Skjølsvik",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Skjølsvik"
+    },
+    {
+      "name": "Knut Wiulsrød",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wiulsrød"
+    },
+    {
+      "name": "Ragnhild Wang",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Wang"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001595&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H12M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001595&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001595&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001595&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001595&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP281595-AR-199708783"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-06-1996",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP281595-AR-199708783",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1995
+}

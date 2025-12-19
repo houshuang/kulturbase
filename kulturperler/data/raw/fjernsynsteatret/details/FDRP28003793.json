@@ -1,0 +1,273 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28003793"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP20003195"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28003793",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60039",
+  "seasonNumber": "1995",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "01.10.1995",
+  "episodeTitle": "Milde himmel",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 8,
+  "startNextEpisode": 10,
+  "id": "FDRP28003793",
+  "title": "Milde himmel",
+  "originalTitle": "Milde himmel",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Milde himmel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Milde himmel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Milde himmel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Milde himmel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT46M49.96S",
+  "shortDescription": "To eldre mennesker møtes ved en benk. Hun, en pågående, åpen frisørdame sjekker opp ham, en stille og tilbaketrukken lektor. Av Lennart Lidström.",
+  "longDescription": "Av Lennart Lidström.\n\nTo eldre mennesker møtes ved en benk i parken.  Hun, en pågående, åpen\n\nfrisørdame, sjekker opp ham, stille tilbaketrukken lektor.  \"Kjærlighet ved\n\nførste blikk\" ville være en overdrivelse.\n\nInstruktør: Anne-Karen Hytten.\n\nI rollene:\n\nSossen KROHG og Adolf BJERKE.\n\nOverføring fra Det Åpne Teater i Oslo.",
+  "image": {
+    "imageInfo": {
+      "id": "_TsEZJ9eV1ER5FOLSCnCRg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9974811
+      }
+    },
+    "imageWidthCropInfo": "_TsEZJ9eV1ER5FOLSCnCRg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99748110831234260",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_TsEZJ9eV1ER5FOLSCnCRgEjS7ituLNnybHY3KQSlLEw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_TsEZJ9eV1ER5FOLSCnCRg2JwEZxiWHZKbHY3KQSlLEw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_TsEZJ9eV1ER5FOLSCnCRgCTA1uk53YUabHY3KQSlLEw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_TsEZJ9eV1ER5FOLSCnCRgZF-K0RkZLHGbHY3KQSlLEw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "NRK Studio",
+    "fjernsynsteatret",
+    "teater",
+    "det åpne teater",
+    "skuespill",
+    "skuespiller",
+    "eldre",
+    "gamle",
+    "pensjonister",
+    "park",
+    "benk",
+    "samtale",
+    "kontakt",
+    "sjekking",
+    "romantikk",
+    "forelskelse",
+    "oversetter",
+    "jens øvrebø"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "NRK Studio",
+    "fjernsynsteatret",
+    "teater",
+    "det åpne teater",
+    "skuespill",
+    "skuespiller",
+    "eldre",
+    "gamle",
+    "pensjonister",
+    "park",
+    "benk",
+    "samtale",
+    "kontakt",
+    "sjekking",
+    "romantikk",
+    "forelskelse",
+    "oversetter",
+    "jens øvrebø"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Solveig Larsen",
+      "role": "Artist/Utøver",
+      "givenName": "Solveig",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(812498400000+0200)/",
+    "actualTransmissionDate": "/Date(812498400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(812498400000+0200)/",
+    "actualTransmissionDate": "/Date(812498400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1449550500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Solveig Larsen",
+      "role": "Artist/Utøver",
+      "givenName": "Solveig",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Adolf Bjerke",
+      "role": "Skuespiller",
+      "givenName": "Adolf",
+      "familyName": "Bjerke"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003793&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT46M50S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003793&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003793&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003793&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003793&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP283793-AR-199700046"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-10-1995",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP283793-AR-199700046",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1993
+}

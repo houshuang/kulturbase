@@ -1,0 +1,364 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65000565"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65000265"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65000565",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "28.09.1965",
+  "episodeTitle": "I de hvites Amerika",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65000565",
+  "title": "I de hvites Amerika",
+  "originalTitle": "I de hvites Amerika",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "I de hvites Amerika"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "I de hvites Amerika"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I de hvites Amerika"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "I de hvites Amerika"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H49M48.04S",
+  "shortDescription": "Et dokumentarskuespill om rasemotsetninger og kampen for frihet og fulle menneskerettigheter i USA. Av Martin B. Duberman.",
+  "longDescription": "Et dokumentarspill av Martin B. Duberman.\nOversatt av Ole Grepp.\nInstruksjon: Magne Bleness.\nDekor: Olav Ile.\nKostymer: Kari-Bjørg Ile.\nGitarakkompagnement: Robert Normann.\nEt dokumentarspill om negrenes historie i USA og deres kamp for frihet og fulle\nmenneskerettigheter.  Stykket bygger på autentiske dokumenter som brev,\nrettssaker, høringer, dagboknotater, taler o.l.  Diverse episoder mellom svart\nog hvit illustrerer forholdene i de forskjellige tidsperioder.  En rekke negro\nspirituals og andre negersanger synges av skuespillerne.\nDe som er med:\nBab CHRISTENSEN, Veslemøy HASLUND, Sverre HANSEN, Lasse KOLSTAD, Tor STOKKE og\nRolf SØDER.",
+  "image": {
+    "imageInfo": {
+      "id": "ubl3uKlLPOZydoNcQ1ffBQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.06088542,
+        "width": 1.0,
+        "height": 0.730625
+      }
+    },
+    "imageWidthCropInfo": "ubl3uKlLPOZydoNcQ1ffBQ?x=0.00000000000000000&y=0.06088541666666666&w=1.00000000000000000&h=0.73062500000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQN4EGMVCtfBqUkFR1nLgVwQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQL9Qzat79dP6UkFR1nLgVwQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQdUmLKQroa7CUkFR1nLgVwQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQ805lv0bxShGUkFR1nLgVwQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Martin B. Duberman",
+      "role": "Forfatter",
+      "givenName": "Martin B.",
+      "familyName": "Duberman"
+    },
+    {
+      "name": "Ole Grepp",
+      "role": "Oversetter",
+      "givenName": "Ole",
+      "familyName": "Grepp"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Regissør",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Robert Normann",
+      "role": "Artist/Utøver",
+      "givenName": "Robert",
+      "familyName": "Normann"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-134445600000+0200)/",
+    "actualTransmissionDate": "/Date(-134445600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-134445600000+0200)/",
+    "actualTransmissionDate": "/Date(-134445600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424321700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Martin B. Duberman",
+      "role": "Forfatter",
+      "givenName": "Martin B.",
+      "familyName": "Duberman"
+    },
+    {
+      "name": "Ole Grepp",
+      "role": "Oversetter",
+      "givenName": "Ole",
+      "familyName": "Grepp"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Regissør",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Robert Normann",
+      "role": "Artist/Utøver",
+      "givenName": "Robert",
+      "familyName": "Normann"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H19M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65010565-AR-199405450"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT29M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000565&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65020565-AR-199405450"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "28-09-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65010565-AR-199405450",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

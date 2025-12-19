@@ -1,0 +1,250 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64000264"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64001464"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64000264",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "06.10.1964",
+  "episodeTitle": "Elskeren",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64000264",
+  "title": "Elskeren",
+  "originalTitle": null,
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Elskeren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Elskeren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "– Denne ufyselige fingerscenen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Elskeren (1964)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Elskeren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H8M9.96S",
+  "shortDescription": "En dag forteller Sarah at hun har en elsker. Richard tar det hele med stor ro og går på jobb som vanlig. Men denne dagen kommer han hjem tidligere.",
+  "longDescription": "Av den engelske dramatikeren Harold Pinter.\nOversatt av Johan Borgen.\nDekor: Gunnar Alme.\nInstruktør: Michael Elliott.\nEkteparet Sarah og Richard lever et erotisk dobbeltliv, hvor hun er hans hore\npå dagtid og han hennes elsker, mens de i sitt \"offisielle\" liv fører en svært\nså borgerlig tilværelse.  Til slutt kolliderer rollene i dobbelmenneskene med\nhverandre,\nI rollene:\nSarah ............... Rut TELLEFSEN\nRichard ............. Lars NORDRUM\nJohn ................ Carsten BYHRING",
+  "image": {
+    "imageInfo": {
+      "id": "we3oVwiQK66mhNOzAfVj5Q",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.266273052,
+        "width": 1.0,
+        "height": 0.557315648
+      }
+    },
+    "imageWidthCropInfo": "we3oVwiQK66mhNOzAfVj5Q?x=0.00000000000000000&y=0.26627304147465436&w=1.00000000000000000&h=0.55731566820276500",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/we3oVwiQK66mhNOzAfVj5QTvR_7koQUCpGMjlaXStLTg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/we3oVwiQK66mhNOzAfVj5QYADsOlksM2tGMjlaXStLTg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/we3oVwiQK66mhNOzAfVj5QvNYbmB0vxvFGMjlaXStLTg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/we3oVwiQK66mhNOzAfVj5QhnqjbhSp_ORGMjlaXStLTg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-165290400000+0200)/",
+    "actualTransmissionDate": "/Date(-165290400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(1134762600000+0100)/",
+    "actualTransmissionDate": "/Date(1134762816920+0100)/",
+    "channelId": "nrk2",
+    "channelName": "NRK2",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424235300000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Lars Nordrum",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Nordrum"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000264&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H8M10S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000264&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000264&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000264&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64000264&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64000264-AR-199412735"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-10-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64000264-AR-199412735",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

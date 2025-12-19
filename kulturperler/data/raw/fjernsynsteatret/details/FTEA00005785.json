@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005785"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003384"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005785",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60030",
+  "seasonNumber": "1986",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "08.04.1986",
+  "episodeTitle": "En måned på landet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00005785",
+  "title": "En måned på landet",
+  "originalTitle": "En måned på landet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "En måned på landet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "En måned på landet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En måned på landet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En måned på landet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H41M57.96S",
+  "shortDescription": "En studie av livet i et russisk provinsmiljø blant viljesvake og handlingsudyktige mennesker. Fra et storgodt i Russland 1847. Av Ivan Turgenjev.",
+  "longDescription": "Av Ivan Turgenjev.\nOversatt av Kjell Helgheim.\nInstruktør:  Thea Stabell.\nMusikk:  Henning Sommerro.\nEn studie av livet i et russisk provinsmiljø blant viljesvake og handlings-\nudyktige mennesker.  Fra et storgodt i Russland 1847.\nMedv.: Arkadij Sergeitsj Islajev........... Frode RASMUSSEN\n       Natalja Petrovna.................... Oda SCHJØLL\n       Kolja............................... Fridtjof Emsell LARSEN\n       Verotsjka........................... Cecilie FANGEL\n       Anna Semjonovna Islajeva............ Edel ECKBLAD\n       Lizaveta Bogdanovna................. Sylvia SALVESEN\n       Mikhajlo Aleksandrovitsj Rakitin.... Ola B. JOHANNESSEN\n       Aleksej Nikolajevitsj Beljajev...... Kim HAUGEN\n       Afanasij Ivanovitsj Bolsjinsov...... Klaus HAGERUP\n       Ignatij Illitsj Sjpigelskij......... Jan Ø. WIIG\n       Schaaf og Matvej.................... Hallvard LYDVO og Adolf BJERKE\n       Livegne............................. Kristin Kajander KOPPERUD,\n       Birgitte PRESTØE, John ANDERSEN, Kasper MÆRLI, Mari Wiig SALVESEN",
+  "image": {
+    "imageInfo": {
+      "id": "BeDiIct6TETI4t4reOPTWg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "BeDiIct6TETI4t4reOPTWg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/BeDiIct6TETI4t4reOPTWgdvuBkXEmvgJaMjzfZaUPVQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BeDiIct6TETI4t4reOPTWglMT4pZgejphaMjzfZaUPVQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BeDiIct6TETI4t4reOPTWgv9tC6GIY9S9aMjzfZaUPVQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BeDiIct6TETI4t4reOPTWgweLmBb9lVrtaMjzfZaUPVQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(513295200000+0200)/",
+    "actualTransmissionDate": "/Date(513295200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(513295200000+0200)/",
+    "actualTransmissionDate": "/Date(513295200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005785&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H41M58S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005785&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005785&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005785&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005785&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005785-AR-199011325"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "08-04-1986",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005785-AR-199011325",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1985
+}

@@ -1,0 +1,439 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002686"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002786"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002686",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60031",
+  "seasonNumber": "1987",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "06.01.1987",
+  "episodeTitle": "De unges forbund 2:5",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00002686",
+  "title": "De unges forbund 2:5",
+  "originalTitle": "De unges forbund 2:5",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De unges forbund 2:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De unges forbund 2:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De unges forbund"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De unges forbund"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "– Det verste minnet "
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De unges forbund 2:5"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT42M54.96S",
+  "shortDescription": "Stensgårds tale blir misforstått av ham den var rettet mot. En middag hos stedets kammerherre skaper farlige forviklinger. Del 2.",
+  "longDescription": "Sakfører Stensgårds tale blir misforstått av ham den var rettet mot.\n\n\nEn middag hos stedets kammerherre skaper farlige forviklinger.  Stensgård\n\n\nbestemmer seg for å bli forelsket - for annen gang.\n\n\nMedvirkende:\n\n\n       Sakfører Stensgård............. Sven NORDIN\n\n\n       Lundestad...................... Henki KOLSTAD\n\n\n       Daniel Heire................... Espen SKJØNBERG\n\n\n       Kammerherre Bratsberg.......... Knut WIGERT\n\n\n       Thora, hans datter............. Elin Johanne REITE\n\n\n       Verkslege Fjeldbo.............. Svein Sturla HUNGNES\n\n\n       Verksforvalter Ringdal......... John S. KRISTENSEN\n\n\n       Erik Bratsberg................. Hans Ola SØRLIE\n\n\n       Selma, hans hustru............. Marie Louise TANK\n\n\n       Monsen......................... Lasse KOLSTAD\n\n\n       Bastian, hans sønn............. Johannes JONER\n\n\n       Ragna Monsen................... Minken FOSHEIM\n\n\n       Kandidat Helle................. Harald DYBSJORD\n\n\n       Boktrykker Aslaksen............ Ola B. JOHANNESSEN\n\n\n       Madam Rundholmen............... Brit Elisabeth HAAGENSLI\n\n\n       Pike hos kammerherren.......... Kirsti GRUNDVIG\n\n\n       Pike hos Rundholmen............ Trine Lossius BORG",
+  "image": {
+    "imageInfo": {
+      "id": "_GdWxU984XS-MxTa1QopfQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0833284855,
+        "width": 1.0,
+        "height": 0.7142442
+      }
+    },
+    "imageWidthCropInfo": "_GdWxU984XS-MxTa1QopfQ?x=0.00000000000000000&y=0.08332848837209302&w=1.00000000000000000&h=0.71424418604651160",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_GdWxU984XS-MxTa1QopfQ_ffSzOajtJuEKLnVmJc_aw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_GdWxU984XS-MxTa1QopfQJQFGVOZLzk6EKLnVmJc_aw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_GdWxU984XS-MxTa1QopfQTLAGmFJ7ukGEKLnVmJc_aw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_GdWxU984XS-MxTa1QopfQFkyXF7CCp6CEKLnVmJc_aw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "henrik ibsen",
+    "dramaserie",
+    "komedier"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "henrik ibsen",
+    "dramaserie",
+    "komedier"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Elin Johanne Reite",
+      "role": "Skuespiller",
+      "givenName": "Elin Johanne",
+      "familyName": "Reite"
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Harald Dybsjord",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Dybsjord"
+    },
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Trine Lossius Borg",
+      "role": "Skuespiller",
+      "givenName": "Trine Lossius",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Hans Olav Sørlie",
+      "role": "Skuespiller",
+      "givenName": "Hans Olav",
+      "familyName": "Sørlie"
+    },
+    {
+      "name": "Kirsti Grundvig",
+      "role": "Skuespiller",
+      "givenName": "Kirsti",
+      "familyName": "Grundvig"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Svein Sturla Hungnes",
+      "role": "Skuespiller",
+      "givenName": "Svein Sturla",
+      "familyName": "Hungnes"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Brit Elisabeth Haagensli",
+      "role": "Skuespiller",
+      "givenName": "Brit Elisabeth",
+      "familyName": "Haagensli"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Harald Mæhle",
+      "role": "Kommentar",
+      "givenName": "Harald",
+      "familyName": "Mæhle"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(536886000000+0100)/",
+    "actualTransmissionDate": "/Date(536886000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(536886000000+0100)/",
+    "actualTransmissionDate": "/Date(536886000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1390020900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Elin Johanne Reite",
+      "role": "Skuespiller",
+      "givenName": "Elin Johanne",
+      "familyName": "Reite"
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Harald Dybsjord",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Dybsjord"
+    },
+    {
+      "name": "Knut Wigert",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Wigert"
+    },
+    {
+      "name": "Trine Lossius Borg",
+      "role": "Skuespiller",
+      "givenName": "Trine Lossius",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Hans Olav Sørlie",
+      "role": "Skuespiller",
+      "givenName": "Hans Olav",
+      "familyName": "Sørlie"
+    },
+    {
+      "name": "Kirsti Grundvig",
+      "role": "Skuespiller",
+      "givenName": "Kirsti",
+      "familyName": "Grundvig"
+    },
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Svein Sturla Hungnes",
+      "role": "Skuespiller",
+      "givenName": "Svein Sturla",
+      "familyName": "Hungnes"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Brit Elisabeth Haagensli",
+      "role": "Skuespiller",
+      "givenName": "Brit Elisabeth",
+      "familyName": "Haagensli"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Harald Mæhle",
+      "role": "Kommentar",
+      "givenName": "Harald",
+      "familyName": "Mæhle"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002686&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT42M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002686&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002686&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002686&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002686&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002686-AR-199305187"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-01-1987",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002686-AR-199305187",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1986
+}

@@ -1,0 +1,255 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62001862"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62002462"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62001862",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 18,
+  "episodeNumberOrDate": "11.10.1962",
+  "episodeTitle": "Krangel ved bymuren",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62001862",
+  "title": "Krangel ved bymuren",
+  "originalTitle": "Krangel ved bymuren",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Krangel ved bymuren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Krangel ved bymuren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Krangel ved bymuren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Krangel ved bymuren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT49M35S",
+  "shortDescription": "En kvinne ankommer en bymur der hun krever sin mann, en av keiserens soldater. Soldaten hun utpeker er slett ikke ektemannen, og offiseren forlanger bevis for at de to er mann og hustru.",
+  "longDescription": "Spill i en akt av den tyske dramatikeren Tankred Dorst.\nOversatt og instruert av Per Bronken.\nDekor:  Christian Egemar.\nEn kvinne appelerer til keiseren av Japan om å gi henne tilbake hennes mann,\nsom er blitt vervet til soldat.  Mannen er død, men kvinnen velger en annen og\nmå overbevise offiserer og keiseren om at soldater virkelig er mannen hennes,\nhvilket hun ikke klarer.\nI rollene:\nEn ung kvinne .................. Monna TANDBERG\nEn ung soldat .................. Magne BLENESS\nEn tynn offiser ................ Roy BJØRNSTAD\nEn tykk offiser ................ Frimann Falck CLAUSEN\n(Reprise: 19640702).",
+  "image": {
+    "imageInfo": {
+      "id": "tZyT1wZk6cjdX9nLPtgd8g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.105661437,
+        "width": 1.0,
+        "height": 0.731502235
+      }
+    },
+    "imageWidthCropInfo": "tZyT1wZk6cjdX9nLPtgd8g?x=0.00000000000000000&y=0.10566143497757848&w=1.00000000000000000&h=0.73150224215246640",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/tZyT1wZk6cjdX9nLPtgd8gagz0V7ozuFbTaySXTjUiHQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tZyT1wZk6cjdX9nLPtgd8g3f9RGTv77wHTaySXTjUiHQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tZyT1wZk6cjdX9nLPtgd8gv0sn-6qCs4vTaySXTjUiHQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/tZyT1wZk6cjdX9nLPtgd8g1GPtm36yUOLTaySXTjUiHQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-228016800000+0200)/",
+    "actualTransmissionDate": "/Date(-228016800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-228016800000+0200)/",
+    "actualTransmissionDate": "/Date(-228016800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1425617700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001862&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT49M35S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001862&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001862&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001862&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001862&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62001862-AR-199416123"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-10-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62001862-AR-199416123",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

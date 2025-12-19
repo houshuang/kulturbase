@@ -1,0 +1,467 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63001463"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63000963"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63001463",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "21.11.1963",
+  "episodeTitle": "Læraren",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63001463",
+  "title": "Læraren",
+  "originalTitle": "Læraren",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Læraren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Læraren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Læraren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Arne Garborg sin klassiker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Læraren"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H13M44.88S",
+  "shortDescription": "Handlingen foregår på Jæren i 1890. Fariseeren Paulus Hove vil selge farsgården for å dra ut som predikant, men møter motstand. Av Arne Garborg.",
+  "longDescription": "Av den norske forfatteren Arne Garborg.  Nynorsk.\nFra serien \"Nordisk teater i TV\".\nTilrettelagt for fjernsyn av Karen Lisa Nielsen og Tor Breda Thoresen.\nMusikk: Arne Nordheim.\nDekor: Olav Ile.\nInstruktør: Tore Breda Thoresen.\nInnledning ved Johs. Aanderaa.\nHandlingen foregår på Jæren i 1890.  Fariseeren \"lærer\" Paulus Hove vil selge\nfarsgården for å dra ut som predikant.  Møter motstand i lokalsamfunnet og i\nreligiøse kretser.  Vil også bli stortingsmann.  Kona, Helga, kaster seg utfor\nstupet da hun tror mannen har et forhold til Evelinde.  Øvrigheten anser Paulus\nsom en farlig fanatiker, og anklager ham for mord på Helge.\nFilminnslag:\nEksteriøropptak gjort på Jæren. på lyden ligger musikk og kommentar.\nFølgende scener:\n1.  Bølger mot rullestein, heier. 2'21\".\n2.  Paulus Hove over hei på vei hjem.  1'07\".\n3.  Paulus arbeider ute på jorde, Carolus Magnus kommer til Hove.  0'56\".\n4.  Auksjon på Hove.  0'56\".\n5.  Jens Eide kommer kjørende til Paulus.  1'11\".\n6.  Jens tar avskjed med Paulus, møter Evelinde på vei oppover.  Carolus på\n    Hove, ser Helga på tunet.  1'51\".\n7.  Helge over tunet for å besøke Paulus.  0'29\".\n8.  Helga løper utfor stupet, Paulus og Evelinde utenfor stua.  Paulus løper\n    etter Helga.  1'57\".\n9.  Ekstr. lensmannsgården.  0'22\".\n10. Folk over heia til bønnemøte.  1'46\".\n11. Folk hjem fra bønnemøte.  0'45\".\n12. Folk hjem fra bønnemøte, kveldsbilde heilandskap til rullesteiner. 3'09\".\nI rollene:\nPaulus Hove .................. Joachim CALMEYER\nHelga ........................ Monna TANDBERG\nJens Eide .................... Pål SKJØNBERG\nTore Eide .................... Per LILLO-STENBERG\nLars Nordbraut ............... Egil HJORTH-JENSSEN\nPer Aase ..................... Jens BOLLING\nGudleik ...................... Johan HOLST\nCarolus Magnus ............... Sverre HANSEN\nEvelinde ..................... Wenche THORSBY\nTabitha ...................... Marit BOLLING\nMaren Doktar ................. Ragnhild MICHELSEN\nSakfører Rabbe ............... Magne BLENESS\nDoktor Aas ................... Alfred SOLAAS\nSkriveren .................... Toralf SANDØ\nSalomon Storbrekke ........... Tor STOKKE\nJonas Rudlevig ............... Henry NYREN\nSørbuen ...................... Finn BERNHOFT\n(Reprise: 19670110, 19750725).",
+  "image": {
+    "imageInfo": {
+      "id": "CiFK3_mUH2yvaBi3X2TQPw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.2003453,
+        "width": 1.0,
+        "height": 0.5550074
+      }
+    },
+    "imageWidthCropInfo": "CiFK3_mUH2yvaBi3X2TQPw?x=0.00000000000000000&y=0.20034529000000000&w=1.00000000000000000&h=0.55500740000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/CiFK3_mUH2yvaBi3X2TQPw83AfznhNTlRN1RgKawa8Kg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/CiFK3_mUH2yvaBi3X2TQPwsH-kyTmMg9VN1RgKawa8Kg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/CiFK3_mUH2yvaBi3X2TQPw9Wp2fqnWemtN1RgKawa8Kg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/CiFK3_mUH2yvaBi3X2TQPwvSgK0E9FoPlN1RgKawa8Kg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    },
+    {
+      "name": "Marit Bolling",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Henry Nyrén",
+      "role": "Skuespiller",
+      "givenName": "Henry",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Arne Garborg",
+      "role": "Forfatter",
+      "givenName": "Arne",
+      "familyName": "Garborg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-192934800000+0100)/",
+    "actualTransmissionDate": "/Date(-192934800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-192934800000+0100)/",
+    "actualTransmissionDate": "/Date(-192934800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423630500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    },
+    {
+      "name": "Marit Bolling",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Alfred Solaas",
+      "role": "Skuespiller",
+      "givenName": "Alfred",
+      "familyName": "Solaas"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Henry Nyrén",
+      "role": "Skuespiller",
+      "givenName": "Henry",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Arne Garborg",
+      "role": "Forfatter",
+      "givenName": "Arne",
+      "familyName": "Garborg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT59M56S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63011463-AR-199416080"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H13M48S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001463&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63021463-AR-199416080"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-11-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63011463-AR-199416080",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

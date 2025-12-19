@@ -1,0 +1,297 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005185"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005686"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005185",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60030",
+  "seasonNumber": "1986",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "04.02.1986",
+  "episodeTitle": "Tre par",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00005185",
+  "title": "Tre par",
+  "originalTitle": "Tre par",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Tre par"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Tre par"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tre par"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Tre par"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H59M46.96S",
+  "shortDescription": "Komedie om 1880-årenes strenge holdning til erotikk og ekteskap - og seks unge mennesker som prøver å lette litt på trykket. Av Alexander L. Kielland.",
+  "longDescription": "En komedie om 1880-årenes strenge holdning til erotikk og ekteskap - og seks\nunge mennesker som prøver å lette litt på trykket.\nAv Alexander L. Kielland.\nMedv.:    Theodor Sandberg................ Johannes JONER\n          Fru Johanne Sandberg............ Oda SCHJØLL\n          Frøken Svendsen................. Marianne KROGH\n          Jens Waage...................... Per FRISCH\n          Ludvig Friedemann............... Jan Ø. WIIG\n          Fru Laura Friedemann............ Sylvia SALVESEN\n          Pike hos Sandberg............... Kirsti GRUNDVIG",
+  "image": {
+    "imageInfo": {
+      "id": "ju6AyBHTwgFyxR5ryknJwg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.999350667
+      }
+    },
+    "imageWidthCropInfo": "ju6AyBHTwgFyxR5ryknJwg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99935064935064930",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ju6AyBHTwgFyxR5ryknJwgEL9aNUMH-eBESJ5LpN34qg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ju6AyBHTwgFyxR5ryknJwgyiqVDYgCuJ5ESJ5LpN34qg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ju6AyBHTwgFyxR5ryknJwg-XU6wUAgY1lESJ5LpN34qg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ju6AyBHTwgFyxR5ryknJwgGl5zxX3qX95ESJ5LpN34qg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "komedie",
+    "teaterstykke",
+    "lystspill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "komedie",
+    "teaterstykke",
+    "lystspill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Jan Ø. Wiig",
+      "role": "Skuespiller",
+      "givenName": "Jan Ø.",
+      "familyName": "Wiig"
+    },
+    {
+      "name": "Sylvia Salvesen",
+      "role": "Skuespiller",
+      "givenName": "Sylvia",
+      "familyName": "Salvesen"
+    },
+    {
+      "name": "Kirsti Grundvig",
+      "role": "Skuespiller",
+      "givenName": "Kirsti",
+      "familyName": "Grundvig"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(507855600000+0100)/",
+    "actualTransmissionDate": "/Date(507855600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(507855600000+0100)/",
+    "actualTransmissionDate": "/Date(507855600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437537300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Johannes Joner",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Joner"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Jan Ø. Wiig",
+      "role": "Skuespiller",
+      "givenName": "Jan Ø.",
+      "familyName": "Wiig"
+    },
+    {
+      "name": "Sylvia Salvesen",
+      "role": "Skuespiller",
+      "givenName": "Sylvia",
+      "familyName": "Salvesen"
+    },
+    {
+      "name": "Kirsti Grundvig",
+      "role": "Skuespiller",
+      "givenName": "Kirsti",
+      "familyName": "Grundvig"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005185&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H59M47S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005185&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005185&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005185&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005185&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005185-AR-199011326"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-02-1986",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005185-AR-199011326",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1985
+}

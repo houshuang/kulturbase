@@ -1,0 +1,267 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001972"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002372"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001972",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 2,
+  "episodeNumberOrDate": "30.01.1973",
+  "episodeTitle": "Lat ugraset vekse",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00001972",
+  "title": "Lat ugraset vekse",
+  "originalTitle": "Lat ugraset vekse",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Lat ugraset vekse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Lat ugraset vekse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lat ugraset vekse  (La ugresset vokse)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Lat ugraset vekse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT41M43.96S",
+  "shortDescription": "Byen sin krig mot bygda. Om bonden Johannes og familien hans, kona Maria, faren og broren Nils. Nils har flytta frå garden. Av Olle Mattson.",
+  "longDescription": "Av Olle Mattson (svensk).\nOversatt av Jo Ørjasæter (nynorsk) instruktør: Jon Heggedal\nDekor:  Lajla Hovland.\nDet er byens utmattingskrig mot bygda forfatteren skriver om.  Bøndene lever -\nså vidt og på nåde - de trues med ekspropriasjon og fristes med tilbud om\ntomtesalg og omskolering.  Et kraftverk og en petrokjemisk fabrikk er nylig\nbygd - så blomster vel bygda?  Nei, bare ugresset blomstrer, ugresset får\nvokse og skogen tar igjen dyrket mark.\nDe som er med:\nJohannes ............. Wilfred BREISTRAND\nMaria ................ Ingebjørg SEM\nNils ................. Thomas FASTING\nGamlingen ............ Øyvind ØYEN\nDisponenten .......... Stig EGEDE-NISSEN",
+  "image": {
+    "imageInfo": {
+      "id": "I0fwRsbh7MTGTYx-zqf5cA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0771678761,
+        "width": 1.0,
+        "height": 0.555608749
+      }
+    },
+    "imageWidthCropInfo": "I0fwRsbh7MTGTYx-zqf5cA?x=0.00000000000000000&y=0.07716787901990811&w=1.00000000000000000&h=0.55560872894333850",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/I0fwRsbh7MTGTYx-zqf5cA9dWFzWL2xJq8caoKchnyaQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I0fwRsbh7MTGTYx-zqf5cA6dec6uGu8ei8caoKchnyaQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I0fwRsbh7MTGTYx-zqf5cAdPaRn_cbP8K8caoKchnyaQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/I0fwRsbh7MTGTYx-zqf5cAYnLOoJy0Cfe8caoKchnyaQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(97196400000+0100)/",
+    "actualTransmissionDate": "/Date(97196400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(97196400000+0100)/",
+    "actualTransmissionDate": "/Date(97196400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Stig Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Stig",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001972&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT41M44S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001972&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001972&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001972&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001972&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001972-AR-199212243"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-01-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001972-AR-199212243",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28001192"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28000992"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28001192",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "10.01.1993",
+  "episodeTitle": "Mugg",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP28001192",
+  "title": "Mugg",
+  "originalTitle": "Mugg",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Mugg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Mugg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mugg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mugg"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H18M26.6S",
+  "shortDescription": "En finsk arbeiderkvinne og en fin Oslo-frue på pakketur møtes på et hotell i Moskva. Komiske og følelsesladete motsetninger og fellestrekk avdekkes.",
+  "longDescription": "To eldre damer på pakketur møtes på et hotellrom i Moskva.  Irma er en finsk\narbeiderkvinne, og Maggi er en finere Oslo-frue.  I løpet av et døgn avdekkes\nkomiske og følelsesladete motsetninger og fellestrekk.\nIrma ..... Grete NORDRÅ\nMaggi .... Inger Marie ANDERSEN.\nManuskript: Marit Tusvik.\nSendingen er et opptak fra Den Nationale Scene i Bergen, og stykket vant\nIbsen-prisen i 1991.",
+  "image": {
+    "imageInfo": {
+      "id": "5flkBtqSpuwjIJMRfA6YUA",
+      "cropInfo": {
+        "x": 1.8e-16,
+        "y": 0.020335095,
+        "width": 1.0,
+        "height": 0.7320634
+      }
+    },
+    "imageWidthCropInfo": "5flkBtqSpuwjIJMRfA6YUA?x=0.00000000000000018&y=0.02033509454949944&w=0.99999999999999980&h=0.73206340378197990",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5flkBtqSpuwjIJMRfA6YUAJ-tlm7gud0Gh7KfBmEz9pA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5flkBtqSpuwjIJMRfA6YUAuub0qU4-Ub-h7KfBmEz9pA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5flkBtqSpuwjIJMRfA6YUAF_CJ2sTNx8mh7KfBmEz9pA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5flkBtqSpuwjIJMRfA6YUAvhHR8pkTReqh7KfBmEz9pA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(726620400000+0100)/",
+    "actualTransmissionDate": "/Date(726620400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(726620400000+0100)/",
+    "actualTransmissionDate": "/Date(726620400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427172900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001192&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H18M26S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001192&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001192&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001192&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001192&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP281192-AR-199407754"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-01-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP281192-AR-199407754",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1992
+}

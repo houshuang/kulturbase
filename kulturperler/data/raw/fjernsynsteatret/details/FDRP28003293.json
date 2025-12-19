@@ -1,0 +1,221 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28003293"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP16000293"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28003293",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "28.12.1993",
+  "episodeTitle": "Mamsepapsen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP28003293",
+  "title": "Mamsepapsen",
+  "originalTitle": "Mamsepapsen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Mamsepapsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Mamsepapsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mamsepapsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mamsepapsen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT38M4.64S",
+  "shortDescription": "Mamsepapsen er en glad, trist, alvorlig og morsom klovn, akkurat som en klovn skal være. Prisbelønnet enakter for barn. Fra Centralteatret i Oslo.",
+  "longDescription": "Mamsepapsen er en glad, trist, alvorlig og morsom klovn, akkurat som en klovn\nskal være.\nPrisbelønnet enakter for barn.  Opptak fra Centralteatret i Oslo.\nI rollen: Karl SUNDBY.\nManuskript og regi: Karl Sundby.\nProsjektleder: Roald Øyen.",
+  "image": {
+    "imageInfo": {
+      "id": "FY54UyygGt9MJ2Hkf0Oa_A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.144421875,
+        "width": 1.0,
+        "height": 0.7221094
+      }
+    },
+    "imageWidthCropInfo": "FY54UyygGt9MJ2Hkf0Oa_A?x=0.00000000000000000&y=0.14442187499999998&w=1.00000000000000000&h=0.72210937499999990",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/FY54UyygGt9MJ2Hkf0Oa_AuQaXp3qb-TAvYHMwLRcYCA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FY54UyygGt9MJ2Hkf0Oa_APpcQRdLppLIvYHMwLRcYCA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FY54UyygGt9MJ2Hkf0Oa_A-eQ3EiuZhTsvYHMwLRcYCA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/FY54UyygGt9MJ2Hkf0Oa_AsQhirUxiZygvYHMwLRcYCA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke",
+    "barneteater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke",
+    "barneteater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(757033200000+0100)/",
+    "actualTransmissionDate": "/Date(757033200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(757033200000+0100)/",
+    "actualTransmissionDate": "/Date(757033200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427172900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003293&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT38M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003293&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003293&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003293&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28003293&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP283293-AR-199407879"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "28-12-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP283293-AR-199407879",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1993
+}

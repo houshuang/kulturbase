@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28004293"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP29007192"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28004293",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "10.10.1993",
+  "episodeTitle": "Du er moren min",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP28004293",
+  "title": "Du er moren min",
+  "originalTitle": "Du er moren min",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Du er moren min"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Du er moren min"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Du er moren min"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Du er moren min"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT53M21.56S",
+  "shortDescription": "Skuespiller Trond Lie tar oss med inn i forholdet mellom en mor som er innlagt på pleiehjem og hennes sønn. Enmannsforestilling fra Black Box Teater.",
+  "longDescription": "I denne en-manns forestillingen tar skuespilleren Trond LIE oss med inn i\nforholdet mellom en mor som er innlagt på pleiehjem og hennes sønn.\nForestillingen har gjestet scener over hele landet og er et opptak fra Black\nBox Teater i Oslo.\nManuskript: Joop Admiral.\nProsjektleder: Roald Øyen.",
+  "image": {
+    "imageInfo": {
+      "id": "OTfnA1vNTUvwP9b5S6IbaQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.137055814,
+        "width": 1.0,
+        "height": 0.725589633
+      }
+    },
+    "imageWidthCropInfo": "OTfnA1vNTUvwP9b5S6IbaQ?x=0.00000000000000000&y=0.13705581761006289&w=1.00000000000000000&h=0.72558962264150940",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/OTfnA1vNTUvwP9b5S6IbaQzaidj7ZH7HiVsPqOZGgetg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OTfnA1vNTUvwP9b5S6IbaQxBQoVHKWSC-VsPqOZGgetg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OTfnA1vNTUvwP9b5S6IbaQMLU9wRvPGa2VsPqOZGgetg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OTfnA1vNTUvwP9b5S6IbaQvIbLFTJe5gCVsPqOZGgetg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke",
+    "tv-drama",
+    "fjernsynsdrama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "drama",
+    "teaterstykke",
+    "tv-drama",
+    "fjernsynsdrama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Trond Lie",
+      "role": "Skuespiller",
+      "givenName": "Trond",
+      "familyName": "Lie"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(750204000000+0200)/",
+    "actualTransmissionDate": "/Date(750204000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(750204000000+0200)/",
+    "actualTransmissionDate": "/Date(750204000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427172900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Trond Lie",
+      "role": "Skuespiller",
+      "givenName": "Trond",
+      "familyName": "Lie"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28004293&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT53M21S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28004293&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28004293&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28004293&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28004293&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP284293-AR-199407816"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-10-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP284293-AR-199407816",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1993
+}

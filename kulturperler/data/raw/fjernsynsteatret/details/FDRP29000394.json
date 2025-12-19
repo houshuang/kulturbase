@@ -1,0 +1,303 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP29000394"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP18000194"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp29000394",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "67247",
+  "seasonNumber": "1994",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "21.08.1994",
+  "episodeTitle": "De gamle mestrene",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FDRP29000394",
+  "title": "De gamle mestrene",
+  "originalTitle": "De gamle mestrene",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De gamle mestrene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De gamle mestrene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De gamle mestrene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mellom linjene: De gamle mestrene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT34M41S",
+  "shortDescription": "Hva kan skje fra en avisannonse? Et ektepar kvitter seg med gammelt innbo, og en kunsthandler mistenker at et maleri kan skjule et som er mer verdt.",
+  "longDescription": "Manuskript: John Luton og Dan Taxbro.\nProsjektleder: Dag Alveberg.\nEt eldre ektepar bestemmer seg for å kvitte seg med en del gamle møbler,\nmalerier og annet innbo.  Kunsthandler Lundberg kommer på besøk for å ta sakene\ni øyesyn.  Spesielt interessert blir han etter hvert som han får mistanke om at\net høyst trivielt maleri kan skjule et annet som er betydelig mer verdt.\nI rollene:\nKarl SUNDBY, Aud SCHØNEMANN, Bjørn JENSEG, Ulf MELSTAVIK, Sverre\nHANSEN og Solfrid HEIER.",
+  "image": {
+    "imageInfo": {
+      "id": "xu4clGhfeGzP3QkcFO1w-A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xu4clGhfeGzP3QkcFO1w-A?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AwFsHNJfpET2I8rVsdxbFxA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AeGD8CW1Z2LSI8rVsdxbFxA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-A1ujT6eoZhjaI8rVsdxbFxA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AqtuWQA6DkZ2I8rVsdxbFxA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "tv-drama",
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "tv-drama",
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ulf Melkstavik",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Melkstavik"
+    },
+    {
+      "name": "Karin Lunden",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Lunden"
+    },
+    {
+      "name": "Solfrid Heier",
+      "role": "Skuespiller",
+      "givenName": "Solfrid",
+      "familyName": "Heier"
+    },
+    {
+      "name": "Morten Johan Spiten",
+      "role": "Skuespiller",
+      "givenName": "Morten Johan",
+      "familyName": "Spiten"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(777420000000+0200)/",
+    "actualTransmissionDate": "/Date(777420000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(777420000000+0200)/",
+    "actualTransmissionDate": "/Date(777420000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1445486100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ulf Melkstavik",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Melkstavik"
+    },
+    {
+      "name": "Karin Lunden",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Lunden"
+    },
+    {
+      "name": "Solfrid Heier",
+      "role": "Skuespiller",
+      "givenName": "Solfrid",
+      "familyName": "Heier"
+    },
+    {
+      "name": "Morten Johan Spiten",
+      "role": "Skuespiller",
+      "givenName": "Morten Johan",
+      "familyName": "Spiten"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Karl Sundby",
+      "role": "Skuespiller",
+      "givenName": "Karl",
+      "familyName": "Sundby"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP29000394&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT34M41S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP29000394&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP29000394&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP29000394&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP29000394&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP290394-AR-199504802"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-08-1994",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP290394-AR-199504802",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1994
+}

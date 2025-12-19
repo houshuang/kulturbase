@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63000663"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA63000163"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63000663",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 15,
+  "episodeNumberOrDate": "24.10.1963",
+  "episodeTitle": "Krapps siste spole",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63000663",
+  "title": "Krapps siste spole",
+  "originalTitle": "Krapps siste spole",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Krapps siste spole"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Krapps siste spole"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Krapps siste spole"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Krapps siste spole"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT39M59.96S",
+  "shortDescription": "En ensom, gammel mann spiller lydbånd han har tatt opp om seg selv mange år tilbake. Av den irske dramatikeren Samuel Beckett.",
+  "longDescription": "Av den irske dramatikeren Samuel Beckett.\n\nOversatt av Nils Braanaas.\n\nDekor: Herman Bendixen.\n\nInstruktør: Pål Løkkeberg.\n\nEn ensom gammel mann sitter og spiller noen lydbånd han har tatt opp om seg\n\nselv mange år tilbake.  Han fordriver tiden og forsøker å hekte seg fast i\n\ntiden ved å fremkalle erindringer.  Det gir fornemmelse av eksistens.\n\nI rollen:\n\nKrapp .,.............. Sverre HANSEN",
+  "image": {
+    "imageInfo": {
+      "id": "e2kZG-wp2UhhtQ7pffIppA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1406546,
+        "width": 1.0,
+        "height": 0.7233665
+      }
+    },
+    "imageWidthCropInfo": "e2kZG-wp2UhhtQ7pffIppA?x=0.00000000000000000&y=0.14065459280303030&w=1.00000000000000000&h=0.72336647727272730",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/e2kZG-wp2UhhtQ7pffIppAq9uKwj0dpvv6YKBJ0UkdYA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/e2kZG-wp2UhhtQ7pffIppAmxhIQw3nWsD6YKBJ0UkdYA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/e2kZG-wp2UhhtQ7pffIppAK7OWTs_6qzL6YKBJ0UkdYA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/e2kZG-wp2UhhtQ7pffIppAieUCnP0Nws_6YKBJ0UkdYA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teaterstykke",
+    "tv-drama",
+    "ensomhet",
+    "eksistensialisme"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teaterstykke",
+    "tv-drama",
+    "ensomhet",
+    "eksistensialisme"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-195357600000+0200)/",
+    "actualTransmissionDate": "/Date(-195357600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-195357600000+0200)/",
+    "actualTransmissionDate": "/Date(-195357600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423630500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000663&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT40M",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000663&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000663&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000663&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63000663&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63000663-AR-199416076"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-10-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63000663-AR-199416076",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

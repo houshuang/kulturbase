@@ -1,0 +1,299 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01000277"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000977"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01000277",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "22.11.1977",
+  "episodeTitle": "Begynnelse",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA01000277",
+  "title": "Begynnelse",
+  "originalTitle": "Begynnelse",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Begynnelse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Begynnelse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Begynnelse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Begynnelse"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT41M24.84S",
+  "shortDescription": "Et ungt par får et barn med hareskår og må møte sykehuslegens profesjonelle holdning og språk, og andres klønete forsøk på å trøste. Av Bjørn Høvik.",
+  "longDescription": "",
+  "image": {
+    "imageInfo": {
+      "id": "cxOfAgD1KWbq5Ov8x9Oa0Q",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.128697187,
+        "width": 1.0,
+        "height": 0.681338
+      }
+    },
+    "imageWidthCropInfo": "cxOfAgD1KWbq5Ov8x9Oa0Q?x=0.00000000000000000&y=0.12869718309859154&w=1.00000000000000000&h=0.68133802816901400",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/cxOfAgD1KWbq5Ov8x9Oa0QOKzncWqwKpM3KIa1w1yBZQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cxOfAgD1KWbq5Ov8x9Oa0Q_9l2wjjlDDw3KIa1w1yBZQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cxOfAgD1KWbq5Ov8x9Oa0QXR4KtwAssxM3KIa1w1yBZQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/cxOfAgD1KWbq5Ov8x9Oa0Qdxpgk8IbTUI3KIa1w1yBZQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Sylvia Salvesen",
+      "role": "Skuespiller",
+      "givenName": "Sylvia",
+      "familyName": "Salvesen"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(249001200000+0100)/",
+    "actualTransmissionDate": "/Date(249001200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(249001200000+0100)/",
+    "actualTransmissionDate": "/Date(249001200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sylvia Salvesen",
+      "role": "Skuespiller",
+      "givenName": "Sylvia",
+      "familyName": "Salvesen"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Marit Grønhaug",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Grønhaug"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000277&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT41M24S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000277&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000277&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000277&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000277&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA010277-AR-199204185"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-11-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA010277-AR-199204185",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1977
+}

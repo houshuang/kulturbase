@@ -1,0 +1,345 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001767"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003268"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001767",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "09.04.1968",
+  "episodeTitle": "Den sorte svane",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00001767",
+  "title": "Den sorte svane",
+  "originalTitle": "Den sorte svane",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den sorte svane"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den sorte svane"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den sorte svane"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den sorte svane"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H47M5.96S",
+  "shortDescription": "En ung mann oppdager ved en tilfeldighet at hans omsorgsfulle far arbeidet med avlivning av fanger under den andre verdenskrig. Av Martin Walser.",
+  "longDescription": "Av den tyske forfatteren Martin Walser.\nOversatt, bearbeidet og instruert av Knut M. Hansson.\nDekor:  Dag Frogner.\nEn ung manns reaksjon på avsløringen av farens krigsinnsats.  Vi møter det\nmiljø hvor de gamle som ønsker å skjule sine spor tørner sammen med dem som\nkrever en forklaring, eller nekter å la sin egen fremtid ødelegges av fedrenes\nmisgjerninger.\nDe som er med:\nRudi Goothein ..................... Gerhard BJELLAND\nProfessor Libere .................. Harald Heide STEEN\nIrm, Liberes datter ............... Tone SCHWARZOTT\nFru Libere ........................ Else HEIBERG\nProfessor Goothein, Rudis far ..... Jørn ORDING\nDr. Harald von Trutz .............. Wilfred BREISTRAND\nTinchen, Liberes adoptivdatter .... Anne Mari DALE\nGerold ............................ Frimann Falck CLAUSEN\nFigilister ........................ Roy BJØRNSTAD\nSeelschopp ........................ Carsten BYHRING\nBruno ............................. Rolf SØDER",
+  "image": {
+    "imageInfo": {
+      "id": "ncXfESSe2pTDlp7kY8QWVQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.113735273,
+        "width": 1.0,
+        "height": 0.5533067
+      }
+    },
+    "imageWidthCropInfo": "ncXfESSe2pTDlp7kY8QWVQ?x=0.00000000000000000&y=0.11373527175978715&w=1.00000000000000000&h=0.55330672748004560",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ncXfESSe2pTDlp7kY8QWVQsAGIwI3JWoMDQzSn3_hFyw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ncXfESSe2pTDlp7kY8QWVQO2SVxiAdOtEDQzSn3_hFyw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ncXfESSe2pTDlp7kY8QWVQMcx3feNe5CwDQzSn3_hFyw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ncXfESSe2pTDlp7kY8QWVQYI20cpvvd4MDQzSn3_hFyw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "nazisme",
+    "krigsforbrytelser",
+    "familie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "nazisme",
+    "krigsforbrytelser",
+    "familie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gerhard Bjelland",
+      "role": "Skuespiller",
+      "givenName": "Gerhard",
+      "familyName": "Bjelland"
+    },
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-54612000000+0200)/",
+    "actualTransmissionDate": "/Date(-54612000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-54612000000+0200)/",
+    "actualTransmissionDate": "/Date(-54612000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gerhard Bjelland",
+      "role": "Skuespiller",
+      "givenName": "Gerhard",
+      "familyName": "Bjelland"
+    },
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Carsten Byhring",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Harald Heide Steen",
+      "role": "Skuespiller",
+      "givenName": "Harald Heide",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001767&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H47M6S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001767&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001767&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001767&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001767&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001767-AR-199313578"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-04-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001767-AR-199313578",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1967
+}

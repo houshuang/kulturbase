@@ -1,0 +1,511 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002072"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001872"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002072",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "10.04.1973",
+  "episodeTitle": "Barselstuen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00002072",
+  "title": "Barselstuen",
+  "originalTitle": "Barselstuen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Barselstuen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Barselstuen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Barselstuen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Barselstuen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H21M27.96S",
+  "shortDescription": "Corfitz har et problem - han mistror sin unge hustru. Fruen ligger på barselstuen og mottar gjester. Riktig mange gjester. Av Ludvig Holberg.",
+  "longDescription": "Av Ludvig Holberg.  (Stykket er skrevet i 1722).\nDekor:John Olsson.  Kostymer: Tull Engø Sminke: Kari Hermansen og Anne-Beth Thoeneie.\nInstruktør:  Aloysius Valente.\nHovedpersonen i stykket er ikke barselkvinnen, men mannen hennes, Corfitz.\nStykket er en overveielse over ekteskapet.  Det balanserer på knivseggen mellom\ndet komiske og tragiske.\nDe som er med:\nBarselkvinnen .................. Marit HAMDAHL\nCorfitz, hennes mann ........... Gisle STRAUME\nTroels, hans tjener ............ Knut HUSEBØ\nPike i huset ................... Randi NORDBY\nJeronimus, en borger ........... Johannes ECKHOFF\nAnne Signekjerring ............. Evy ENGELSBORG\nMester Bonifacius, en barber ... Carsten WINGER\nEn doktor ...................... Arne BANG-HANSEN\n1. dame ........................ Vibeke FALK\n2. dame ........................ Else HEIBERG\nAnne Kandestøbers .............. Sossen KROHG\nIngeborg Blytækkers ............ Gerd JØRGENSEN\nElse David Skolemesters ........ Ragnhild MICHELSEN\nØllegaard Sværdfegers .......... Aud SCHØNEMANN\nDorthe Knapmagers .............. Anita RUMMELHOFF\nEngelche Hattemagers ........... Turid BALKE\n1. offiser ..................... Frimann Falck CLAUSEN\n2. offiser ..................... Aril MARTINSEN\nGedske Klokkers ................ Kari DIESEN\nChristopher Eisenfresser ....... Arve OPSAHL\nJens Olsen ..................... Dan FOSSE\nEn poet ........................ Knut RISAN\n1. advokat ..................... Dag SANDVIK\n2. advokat ..................... Rannov NILSEN\nClaus .......................... Bjørn FLOBERG",
+  "image": {
+    "imageInfo": {
+      "id": "R-H6CmdBu7wngI9RIC9dpA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.144678637,
+        "width": 1.0,
+        "height": 0.554088354
+      }
+    },
+    "imageWidthCropInfo": "R-H6CmdBu7wngI9RIC9dpA?x=0.00000000000000000&y=0.14467863305214723&w=1.00000000000000000&h=0.55408838190184050",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/R-H6CmdBu7wngI9RIC9dpAPStioRMQ7hmJ6p6i0Aq0Yg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-H6CmdBu7wngI9RIC9dpAc23ht7KwWnGJ6p6i0Aq0Yg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-H6CmdBu7wngI9RIC9dpAkuqLBZPwhFaJ6p6i0Aq0Yg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-H6CmdBu7wngI9RIC9dpAVs8IGHPQHjmJ6p6i0Aq0Yg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "komedie",
+    "karakterkomedie"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "komedie",
+    "karakterkomedie"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Anita Rummelhoff",
+      "role": "Skuespiller",
+      "givenName": "Anita",
+      "familyName": "Rummelhoff"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Johannes Eckhoff",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Eckhoff"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Dag Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Dag",
+      "familyName": "Sandvik"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    },
+    {
+      "name": "Kari Diesen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Diesen"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Rannov Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rannov",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Aril Martinsen",
+      "role": "Skuespiller",
+      "givenName": "Aril",
+      "familyName": "Martinsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(103240800000+0200)/",
+    "actualTransmissionDate": "/Date(103240800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(103240800000+0200)/",
+    "actualTransmissionDate": "/Date(103240800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Vibeke Falk",
+      "role": "Skuespiller",
+      "givenName": "Vibeke",
+      "familyName": "Falk"
+    },
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Anita Rummelhoff",
+      "role": "Skuespiller",
+      "givenName": "Anita",
+      "familyName": "Rummelhoff"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Johannes Eckhoff",
+      "role": "Skuespiller",
+      "givenName": "Johannes",
+      "familyName": "Eckhoff"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Dag Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Dag",
+      "familyName": "Sandvik"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    },
+    {
+      "name": "Kari Diesen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Diesen"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Dan Fosse",
+      "role": "Skuespiller",
+      "givenName": "Dan",
+      "familyName": "Fosse"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Rannov Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Rannov",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Aril Martinsen",
+      "role": "Skuespiller",
+      "givenName": "Aril",
+      "familyName": "Martinsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002072&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H21M28S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002072&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002072&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002072&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002072&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002072-AR-199213858"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-04-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002072-AR-199213858",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

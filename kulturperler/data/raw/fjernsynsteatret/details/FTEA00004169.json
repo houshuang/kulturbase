@@ -1,0 +1,251 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00004169"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA68000168"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00004169",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "29.04.1969",
+  "episodeTitle": "Barbara",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00004169",
+  "title": "Barbara",
+  "originalTitle": "Barbara",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Barbara"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Barbara"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Barbara"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Barbara"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT45M0.88S",
+  "shortDescription": "Hovedpersonen Chris uttrykker en \"moderne\" livsholdning, tilsynelatende åpen og ubekymret, i virkeligheten låst i selvkretsning og selvbetraktning. Av Sverre Udnæs.",
+  "longDescription": "En film av Sverre Udnæs.\nMontasje: Olav Kyrre Grepp.\nMusikk: Egil Monn-Iversen.\nDekor:  Guy Krohg.\nFilmprogram.\n\"Barbara\" er et stykke om misbruk av kjærlig het og av et dikt.\nDiktet \"Barbara\" av Jacques Prevert går som en rød tråd gjennom stykket.\nDe som er med:\nChris ............... Tom TELLEFSEN\nJanne ............... Kari SIMONSEN\nPete ................ Jon HEGGEDAL\nLene ................ Kjersti DØVIGEN",
+  "image": {
+    "imageInfo": {
+      "id": "iqdABQUHrkyOY7qf4n7W9Q",
+      "cropInfo": {
+        "x": 0.0127714286,
+        "y": 0.181820557,
+        "width": 0.9802961,
+        "height": 0.7133776
+      }
+    },
+    "imageWidthCropInfo": "iqdABQUHrkyOY7qf4n7W9Q?x=0.01277142877817666&y=0.18182055379290432&w=0.98029604940692080&h=0.71337757924794810",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9Q2eVVBr6ywnuPETMpj2kYvA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9QnDA8dqcdfLuPETMpj2kYvA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9Q5fZCEa0i4_mPETMpj2kYvA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9Q0Lj4dokK4wWPETMpj2kYvA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-21348000000+0200)/",
+    "actualTransmissionDate": "/Date(-21348000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-21348000000+0200)/",
+    "actualTransmissionDate": "/Date(-21348000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kjersti Døvigen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Døvigen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004169&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT45M1S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004169&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004169&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004169&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004169&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA004169-AR-199313219"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-04-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA004169-AR-199313219",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

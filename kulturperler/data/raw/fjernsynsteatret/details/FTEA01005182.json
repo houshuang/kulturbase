@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01005182"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA11002581"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01005182",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60027",
+  "seasonNumber": "1983",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "19.09.1983",
+  "episodeTitle": "Foran \"Jenny\"",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA01005182",
+  "title": "Foran \"Jenny\"",
+  "originalTitle": "Foran \"Jenny\"",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Foran \"Jenny\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Foran \"Jenny\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Foran ''Jenny''"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Foran \"Jenny\""
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT14M53.96S",
+  "shortDescription": "Om Sigrid Undset og om serien Jenny. Per Bronken i samtale med Mette Janson om boka. Intervju med Liv Ullmann om personen Jenny.",
+  "longDescription": "Om Sigrid Undset og om serien som begynner i Fjernsynsteatret i morgen.\nSirkus Maxentius utenfor Roma - stadion bygget av den siste hedenske romerske\nkeiser.  Opptak her for \"Jenny\" som er basert på Sigrid Undsets\ngjennombruddsroman som forfatter.\nFilmopptak med Per BRONKEN som regissør.\nPicknickscene med Liv ULLMANN, Knut HUSEBØ, Bjørn SKAGESTAD og andre\nskuespillere.  Klar til nytt opptak.\nPer BRONKEN i samtale med Mette JANSON om Sigrid Undsets bok og personene som\ner med i boken.\nKlargjøring til nye opptak. Nye scener tatt med Liv ULLMANN og Bjørn SKAGESTAD.\nLiv ULLMANN intv. om personen Jenny.\nPer BRONKEN om hvorfor det ble akkurat \"Jenny\" som ble filmatisert av Sigrid\nUndsets romaner.\nStills av Sigrid Undsets familie. Lyder Sagens gate 10 i Oslo - Sigrid Undsets\nhjem.  Ekstr. bygningen hvor S.U. holdt til.  Stensparken.  Stills av S.U.\nSkisser laget av S.U.  Debuterte med \"Marta Oulie\" i 1907.\nScener fra Roma.  Liv ULLMANN og Bjørn SKAGESTAD i Roma.\nPer BRONKEN om romanen \"Jenny\".\nFra Bjerkbæk ved Lillehammer - stills S.U.\nBRONKEN forts.\nLiv ULLMANN om Jenny.",
+  "image": {
+    "imageInfo": {
+      "id": "xhMohox-YWNgeD1ESWJJYQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xhMohox-YWNgeD1ESWJJYQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQnF-B7QrxHSdpwZadJ9qy4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQ5uxNUyPeKTNpwZadJ9qy4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQdPxtVFoV5BtpwZadJ9qy4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQHPD6f5_8UM5pwZadJ9qy4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(432770400000+0200)/",
+    "actualTransmissionDate": "/Date(432770400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(432770400000+0200)/",
+    "actualTransmissionDate": "/Date(432770400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1446440100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01005182&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT14M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01005182&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01005182&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01005182&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01005182&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA01005182AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "19-09-1983",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA01005182AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1982
+}

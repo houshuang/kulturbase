@@ -1,0 +1,352 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA64001864"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA64001264"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea64001864",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60008",
+  "seasonNumber": "1964",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "05.03.1964",
+  "episodeTitle": "Mytteriet på Caine",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA64001864",
+  "title": "Mytteriet på Caine",
+  "originalTitle": "Mytteriet på Caine",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Mytteriet på Caine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Mytteriet på Caine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mytteriet på Caine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mytteriet på Caine"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H15M14S",
+  "shortDescription": "Under krigen overtar Maryk kommandoen fra kaptein Queeg under en tyfon. I havn Maryk stilles for krigsrett, men var det virkelig et mytteri?",
+  "longDescription": "Av den amerikanske forfatteren Herman Wouk.\nOversatt av Finn Havrevold.\nDekor: Sverre Andersen.\nInstruktør: Tore Breda Thoresen.\nLøytnant Stephen Maryk blir stevnet for sjøkrigsretten anklaget for mytteriet\npå minesveiperen \"USS Caine\".  Hans overordnete Queeg var mentalt inhabil under\nen tyfon i 1944.  Gjennom en brutal men kløktig sakførsel lykkes\nforsvarsadvokat Greenwald i å få Maryk frikjent og bevise kapteinløytnant\nQueegs sinnsykdom.  Drama om underordnedes rett til å avsette sin overordnede,\nog om hvordan en mann må \"myrdes\" for å redde en annen.  En serie vitneavhør\nuten etterfølgende prosedyrer.\nI rollene:\nLøytnant Stephen Maryk .................. Per LILLO-STENBERG\nLøytnant Barney Greenwald ............... Sverre HANSEN\nKapteinløytnant John Challee ............ Knut M. HANSSON\nKaptein Blakely ......................... Fridtjof MJØEN\nKapteinløytnant Philip Francis Queeg .... Arne LIE\nLøytnant Thomas Keefer .................. Tor STOKKE\nSignalgast Junius Urban ................. Kjetil BANG-HANSEN\nFenrik Willis Seward Keith .............. Erik LASSEN\nKaptein Randolph Southard ............... Per GJERSØE\nDr. Forrest Lundeen ..................... Knut THOMASSEN\nDr. Bird ................................ Svein Erik BRODAL\n(Reprise: 19680416)",
+  "image": {
+    "imageInfo": {
+      "id": "OERRhpB9CW-j-RmKhxT4eQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.291516662,
+        "width": 1.0,
+        "height": 0.546647251
+      }
+    },
+    "imageWidthCropInfo": "OERRhpB9CW-j-RmKhxT4eQ?x=0.00000000000000000&y=0.29151665200000000&w=1.00000000000000000&h=0.54664723000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/OERRhpB9CW-j-RmKhxT4eQQGgIdXOUqxFJ_dB0drJX7A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OERRhpB9CW-j-RmKhxT4eQlO55_6Y7PpFJ_dB0drJX7A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OERRhpB9CW-j-RmKhxT4eQzQx738c8DrBJ_dB0drJX7A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OERRhpB9CW-j-RmKhxT4eQywS_NT5AScxJ_dB0drJX7A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Knut Thomassen",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Thomassen"
+    },
+    {
+      "name": "Svein Erik Brodal",
+      "role": "Skuespiller",
+      "givenName": "Svein Erik",
+      "familyName": "Brodal"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-183862800000+0100)/",
+    "actualTransmissionDate": "/Date(-183862800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-183862800000+0100)/",
+    "actualTransmissionDate": "/Date(-183862800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423716900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Knut Thomassen",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Thomassen"
+    },
+    {
+      "name": "Svein Erik Brodal",
+      "role": "Skuespiller",
+      "givenName": "Svein Erik",
+      "familyName": "Brodal"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H19M2S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64011864-AR-199405625"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT56M12S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA64001864&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA64021864-AR-199405625"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "05-03-1964",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA64011864-AR-199405625",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1964
+}

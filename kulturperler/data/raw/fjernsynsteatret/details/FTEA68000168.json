@@ -1,0 +1,257 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA68000168"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005969"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea68000168",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "06.05.1969",
+  "episodeTitle": "Sluttspill",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA68000168",
+  "title": "Sluttspill",
+  "originalTitle": "Sluttspill",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Sluttspill"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Sluttspill"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Sluttspill"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Sluttspill"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H28M48.96S",
+  "shortDescription": "En maktkamp utspiller seg mellom tjeneren Clov som ikke kan sitte og herren Hamm som ikke kan stå. Clov vil forlate sin herre, men hvor skal han dra? Av Samuel Beckett.",
+  "longDescription": "Av den irske dramatikeren Samuel Beckett.\nOversatt av Erling Christie.\nDekor:  Dag Frogner.  Instruktør: Kirsten Sørlie.\nStykket er ikke skildringer av en opplevet ytre virkelighet, men speilbilder av\nden indre verden.  Når det i stykket blir sagt at det finnes ikke lenger noen\nnatur, når det i det øde landskap utenfor kan ses bare ett eneste ensomt barn,\ner det ikke for at vi skal tenke på en verden ødelagt av atomsprengninger eller\nDDT, men på en fortvilelse hvor verden oppleves som øde.  Når Nell og Nagg\ntilbringer sin siste tid i hver sin søppeltønne, er det ikke uttrykk for\nlivsforakt, men desperasjon over det forfall som livet selv innebærer.\nDe som er med:\nHamm ............... Per GJERSØE\nClov ............... Rolf SØDER\nNagg ............... Frimann Falck CLAUSEN\nNell ............... Else HEIBERG",
+  "image": {
+    "imageInfo": {
+      "id": "E1uQ3__E7y-lTD4Mtz42fw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1072031,
+        "width": 1.0,
+        "height": 0.567545831
+      }
+    },
+    "imageWidthCropInfo": "E1uQ3__E7y-lTD4Mtz42fw?x=0.00000000000000000&y=0.10720310062402495&w=1.00000000000000000&h=0.56754582683307330",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/E1uQ3__E7y-lTD4Mtz42fw947N6xZ7bAs3yR6qcvrbVw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/E1uQ3__E7y-lTD4Mtz42fweXxZ4QJ5s3Q3yR6qcvrbVw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/E1uQ3__E7y-lTD4Mtz42fw1eMXKGrdHvM3yR6qcvrbVw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/E1uQ3__E7y-lTD4Mtz42fwOPBMaGR5ZZI3yR6qcvrbVw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "meningsløshet"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "meningsløshet"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-20743200000+0200)/",
+    "actualTransmissionDate": "/Date(-20743200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-20743200000+0200)/",
+    "actualTransmissionDate": "/Date(-20743200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439092500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA68000168&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H28M49S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA68000168&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA68000168&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA68000168&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA68000168&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA68000168-AR-199313220"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-05-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA68000168-AR-199313220",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

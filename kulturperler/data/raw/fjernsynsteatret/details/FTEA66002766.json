@@ -1,0 +1,267 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66002766"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66003266"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66002766",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "31.05.1966",
+  "episodeTitle": "Den amerikanske drøm",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66002766",
+  "title": "Den amerikanske drøm",
+  "originalTitle": "Den amerikanske drøm",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den amerikanske drøm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den amerikanske drøm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den amerikanske drøm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den amerikanske drøm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H9M44.52S",
+  "shortDescription": "Komedie av Edward Albee. Om menneskets evne til å gjøre tilværelsen tom og fjollet. Mamma og pappa sitter i sine lenestoler, og klager på det meste.",
+  "longDescription": "Av den amerikanske dramatikeren Edward Albee.\nOversatt av Finn Havrevold.\nDekor:  Erik Hagen.  Instruktør: Tom Segerberg (fra Finland).\nOm menneskets evne til å gjøre tilværelsen tom og fjollet.\nDe som er med:\nMams ............... Ragnhild MICHELSEN\nPaps ............... Arne BANG-HANSEN\nMommo .............. Ada KRAMM\nFru Barker ......... Elsa LYSTAD\nUng mann ........... Johan HOLST",
+  "image": {
+    "imageInfo": {
+      "id": "GVmB9lry9mdzCI7Z5SDjTQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.111805558,
+        "width": 1.0,
+        "height": 0.71875
+      }
+    },
+    "imageWidthCropInfo": "GVmB9lry9mdzCI7Z5SDjTQ?x=0.00000000000000000&y=0.11180555555555556&w=1.00000000000000000&h=0.71875000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/GVmB9lry9mdzCI7Z5SDjTQDJon-R3BuDrLKITvicS2cw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GVmB9lry9mdzCI7Z5SDjTQnZuLZOMySMDLKITvicS2cw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GVmB9lry9mdzCI7Z5SDjTQGCO480KdQJjLKITvicS2cw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GVmB9lry9mdzCI7Z5SDjTQ__luZSFIS1zLKITvicS2cw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-113277600000+0200)/",
+    "actualTransmissionDate": "/Date(-113277600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-113277600000+0200)/",
+    "actualTransmissionDate": "/Date(-113277600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1426568100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Arne Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Ada Kramm",
+      "role": "Skuespiller",
+      "givenName": "Ada",
+      "familyName": "Kramm"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002766&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H9M44S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002766&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002766&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002766&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002766&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA662766-AR-199316248"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "31-05-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA662766-AR-199316248",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

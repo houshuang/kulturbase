@@ -1,0 +1,385 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000660"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA60000360"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000660",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 2,
+  "episodeNumberOrDate": "22.09.1960",
+  "episodeTitle": "Ungen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000660",
+  "title": "Ungen",
+  "originalTitle": "Ungen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Ungen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Ungen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ungen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ungen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H23M4.04S",
+  "shortDescription": "Fabrikkjenta Milja forelsker seg i kjekkasen Julius og kommer \"i uløkka\". Han svikter henne, og hun blir sittende med skammen. Skuespill av Oskar Braaten.",
+  "longDescription": "Av Oskar Braaten.\nFilminnledning med eksteriøropptak gamle bygninger på Sagene i Oslo,\npresentasjon av rolleskikkelsene. 3'00\"\nRester etter filminnledning: Ekstr. gamle hus på Sagene, Akerselva, Ringnes\nBryggeri, forskj. shots, andre gamle hus i strøket.\nI rollene:\nNils ..................... Jan Erik SÆTERØ\nErik ..................... Sverre HOLM\nSerafia .................. Unni THORESEN\nSersjant-Petra ........... Elsa LYSTAD\nOlina .................... Synnøve BORG\nLagreta .................. Sigrun OTTO\nEngebret ................. Harald AIMARSEN\nKrestoffer ............... Egil HJORTH-JENSSEN\nDoktoren ................. Oscar AMUNDSEN\nGurina Neger ............. Bonne GAUGUIN\nKrestna .................. Turid BALKE\nPetrina .................. Urda ARNEBERG\nJulius ................... Roy BJØRNSTAD\nMilja .................... Gudrun WAADELAND\nHønse-Lovisa ............. Else HEIBERG\n(Reprise: 19610223)",
+  "image": {
+    "imageInfo": {
+      "id": "3n64acpSM64pGzqZP9qiOg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.111999385,
+        "width": 1.0,
+        "height": 0.72069186
+      }
+    },
+    "imageWidthCropInfo": "3n64acpSM64pGzqZP9qiOg?x=0.00000000000000000&y=0.11199938600000000&w=1.00000000000000000&h=0.72069186400000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/3n64acpSM64pGzqZP9qiOgDGbLaWJqosCrhdYfF29Ydw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3n64acpSM64pGzqZP9qiOgsC71khkRFr2rhdYfF29Ydw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3n64acpSM64pGzqZP9qiOgla930lMhiparhdYfF29Ydw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/3n64acpSM64pGzqZP9qiOg5mtNYt0Hgy2rhdYfF29Ydw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Oscar Amundsen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Amundsen"
+    },
+    {
+      "name": "Bonne Gauguin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gauguin"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Sigrun Otto",
+      "role": "Skuespiller",
+      "givenName": "Sigrun",
+      "familyName": "Otto"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Synnøve Borg",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Unni Thoresen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Jan Erik Sæterø",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Sæterø"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-292730400000+0200)/",
+    "actualTransmissionDate": "/Date(-292730400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-292730400000+0200)/",
+    "actualTransmissionDate": "/Date(-292730400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1417496100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Harald Aimarsen",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Aimarsen"
+    },
+    {
+      "name": "Gudrun Waadeland",
+      "role": "Skuespiller",
+      "givenName": "Gudrun",
+      "familyName": "Waadeland"
+    },
+    {
+      "name": "Oscar Amundsen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Amundsen"
+    },
+    {
+      "name": "Bonne Gauguin",
+      "role": "Skuespiller",
+      "givenName": "Bonne",
+      "familyName": "Gauguin"
+    },
+    {
+      "name": "Egil Hjorth-Jenssen",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Hjorth-Jenssen"
+    },
+    {
+      "name": "Sigrun Otto",
+      "role": "Skuespiller",
+      "givenName": "Sigrun",
+      "familyName": "Otto"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Synnøve Borg",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Unni Thoresen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Jan Erik Sæterø",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Sæterø"
+    },
+    {
+      "name": "Sverre Holm",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Holm"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000660&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H23M8S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000660&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000660&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000660&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000660&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60000660-AR-199421253"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-09-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60000660-AR-199421253",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

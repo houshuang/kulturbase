@@ -1,0 +1,197 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000176"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001376"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000176",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60020",
+  "seasonNumber": "1976",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "21.09.1976",
+  "episodeTitle": "Høyt spill med fyrstikker",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000176",
+  "title": "Høyt spill med fyrstikker",
+  "originalTitle": "Høyt spill med fyrstikker",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Høyt spill med fyrstikker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Høyt spill med fyrstikker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Høyt spill med fyrstikker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Høyt spill med fyrstikker"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H24M39.96S",
+  "shortDescription": "Stykket tar utgangspunkt i den svenske \"fyrstikk-kongen\" Ivar Kreugers liv. Av Jan Bergquist og Hans Bendrik.",
+  "longDescription": "Av Jan Bergquist og Hans Bendrik.  Oversatt av Svein Henning.\nDekor:  Kristin Sundt-Hansen.\nKostymer: Mabi Helweg.\nInstruktør:  Marianne Rolf.\nStykket tar utgangspunkt i den svenske \"fyrstikk-kongen\" Ivar Kreugers liv.\nFilminnslag:\nEO:  To skurker kommer og tvinger Ivar Kreuger til å skrive et brev - siden\nskyter de ham og lar det se ut som selvmord.  1'33\".\nAU:  Bygningsbransjen, armert betong.  Kreuger reiste fra USA tilbake til\n     Sverige hvor han ble direktør for en fyrstikkfabrikk som ble et\n     verdensmonopol. fra fyrstikkfabrikk.  1'42\" SR.\nEO:  Scener fra en børs. 0'50\".\nAU:  Fabrikkport hvor arbeidere blir utestengt.  Arbeidere i kø.  Matutdeling.\n     Demonstrasjonstog.  Opptøyer.  1'22\" SR.\nAU:  Demonstrasjonstog. 0'27\" SR.\nAU:  Gatescener fra Stockholm. 0'30\" SR.\nDe som er med:\nBentein BAARDSON, Ole-Jørgen NILSEN, Sverre HANSEN, Finn KVALEM, Vidar SANDEM,\nAne HOEL, Frank IVERSEN, Jack FJELDSTAD, Roy BJØRNSTAD, Per CHRISTENSEN, Ola B.\nJOHANNESSEN og Arne Lindtner NÆSS.",
+  "image": {
+    "imageInfo": {
+      "id": "xhMohox-YWNgeD1ESWJJYQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xhMohox-YWNgeD1ESWJJYQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQnF-B7QrxHSdpwZadJ9qy4w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQ5uxNUyPeKTNpwZadJ9qy4w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQdPxtVFoV5BtpwZadJ9qy4w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQHPD6f5_8UM5pwZadJ9qy4w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(212104800000+0200)/",
+    "actualTransmissionDate": "/Date(212104800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(212104800000+0200)/",
+    "actualTransmissionDate": "/Date(212104800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000176&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H24M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000176&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000176&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000176&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000176&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000176-AR-199206372"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "21-09-1976",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000176-AR-199206372",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1976
+}

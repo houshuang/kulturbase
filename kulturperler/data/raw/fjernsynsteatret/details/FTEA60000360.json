@@ -1,0 +1,339 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000360"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA60000760"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000360",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "06.10.1960",
+  "episodeTitle": "Apollon fra Bellac",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000360",
+  "title": "Apollon fra Bellac",
+  "originalTitle": "Apollon fra Bellac",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Apollon fra Bellac"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Apollon fra Bellac"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Apollon fra Bellac"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Apollon fra Bellac"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT50M16.08S",
+  "shortDescription": "Komedie av den franske dramatikeren Jean Giraudoux. Handler bl.a. om skjønnhetsbegreper og forviklinger, og forholdet mellom mann og kvinne.",
+  "longDescription": "Av den franske dramatikeren Jean Giraudoux.\nStykket er skrevet i 1942, originaltittel \"L'Apollon de Bellac\".\nHandlingen er lagt til et patentkontor.  Skjønnhetsbegreper og forviklinger.\n\"Åndens foredling\".  Mennenes forfengelighet.  Forholdet mellom mann og kvinne.\nIllusjon kontra virkelighet.\nI rollene:\nAgnes ................ Wenche TØNSETH\nTherese .............. Sossen KROHG\nHerren fra Bellac .... Georg LØKKEBERG\nDørvakt .............. Carl STRUVE\nHerr Cracheton ....... Egil LORCH\nHerr Schulze ......... Oscar AMUNDSEN\nChevredent ........... Aud SCHØNEMANN\nByråsjef ............. Per GJERSØE\nGeneraldirektør ...... Ragnar SCHREINER\nHerr Lepedura ........ Otto LUNDH\nHerr Rasemutte ....... Henrik Anker STEEN\n(Reprise: 19610615).",
+  "image": {
+    "imageInfo": {
+      "id": "eaSUdEjkf4aa62-RrO0nKw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1664729,
+        "width": 1.0,
+        "height": 0.7305195
+      }
+    },
+    "imageWidthCropInfo": "eaSUdEjkf4aa62-RrO0nKw?x=0.00000000000000000&y=0.16647289800000000&w=1.00000000000000000&h=0.73051948100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/eaSUdEjkf4aa62-RrO0nKwXmMfQRgFWIKar-GccZnG7Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eaSUdEjkf4aa62-RrO0nKwfH6fmOLkk4qar-GccZnG7Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eaSUdEjkf4aa62-RrO0nKw1neJd6ELuOmar-GccZnG7Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/eaSUdEjkf4aa62-RrO0nKwgrgpSk9XSsuar-GccZnG7Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ragnar Schreiner",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Schreiner"
+    },
+    {
+      "name": "Carl Struve",
+      "role": "Skuespiller",
+      "givenName": "Carl",
+      "familyName": "Struve"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Otto Lundh",
+      "role": "Skuespiller",
+      "givenName": "Otto",
+      "familyName": "Lundh"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Oscar Amundsen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Amundsen"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-291520800000+0200)/",
+    "actualTransmissionDate": "/Date(-291520800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-291520800000+0200)/",
+    "actualTransmissionDate": "/Date(-291520800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1417496100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ragnar Schreiner",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Schreiner"
+    },
+    {
+      "name": "Carl Struve",
+      "role": "Skuespiller",
+      "givenName": "Carl",
+      "familyName": "Struve"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    },
+    {
+      "name": "Otto Lundh",
+      "role": "Skuespiller",
+      "givenName": "Otto",
+      "familyName": "Lundh"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Oscar Amundsen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Amundsen"
+    },
+    {
+      "name": "Egil Lorck",
+      "role": "Skuespiller",
+      "givenName": "Egil",
+      "familyName": "Lorck"
+    },
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Sossen Krohg",
+      "role": "Skuespiller",
+      "givenName": "Sossen",
+      "familyName": "Krohg"
+    },
+    {
+      "name": "Aud Schønemann",
+      "role": "Skuespiller",
+      "givenName": "Aud",
+      "familyName": "Schønemann"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000360&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT50M16S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000360&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000360&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000360&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000360&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60000360-AR-199421260"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-10-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60000360-AR-199421260",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

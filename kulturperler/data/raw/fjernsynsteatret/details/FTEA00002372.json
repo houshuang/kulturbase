@@ -1,0 +1,388 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002372"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002172"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002372",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "06.03.1973",
+  "episodeTitle": "Kirsebærhaven",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00002372",
+  "title": "Kirsebærhaven",
+  "originalTitle": "Kirsebærhaven",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kirsebærhaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kirsebærhaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kirsebærhaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kirsebærhaven"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H8M40S",
+  "shortDescription": "Av Anton Tsjekhov. Handlingen er lagt til det førrevolusjonære Russland. Ulike klasser konfronteres med hverandre og fanges inn av hverandre i konfrontasjonsøyeblikkene.",
+  "longDescription": "Av Anton Tsjekov.\nOversatt fra russisk av Nicolai Geelmuyden.  Musikk:  Finn Ludt.\nDekor:  Christian Egemar.  Kostymer:  Nan Austin.\nSminke:  Tobben Amundsen og Anne Beth Thoeneie.\nInstruktør: Jan Bull.\nHandlingen i stykket er lagt til det førrevolusjonære Russland.  Ulike klasser\nkonfronteres med hverandre og fanges inn av hverandre i konfrontasjonsøyeblik-\nkene.  Den klasse som er dømt til undergang, farger de klasser som er på vei\ninn.  Godseierne preges ikke av kjøpmennene, men kjøpmennene - og deler av den\ngamle tjenerstanden - preges av godseierne.  Stykket er skrevet i 1904.\nDe som er med:\nLjoba Andrejevna .................. Lise FJELDSTAD\nAnja .............................. Unn Vibeke HOL\nVarja ............................. Randi KOCH\nLeonid Andrejevitsj Gajev ......... Lars Andreas LARSSEN\nJermolai Aleksejevitsj Lopakin .... Helge JORDAL\nPjotr Sergevetsj Trofimov ......... Knut HUSEBØ\nSimjeonov-Pisjtsjik ............... Wilfred BREISTRAND\nCharlotta Ivanovna ................ Ragnhild MICHELSEN\nFirs .............................. Øyvind ØYEN\nEpikodov .......................... Ivar NØRVE\nDunjasja .......................... Unni EVJEN\nJasja ............................. Thomas FASTING\nLandstrykeren ..................... Vilhelm LUND\nStasjonsmesteren .................. Kolbjørn BRENDA",
+  "image": {
+    "imageInfo": {
+      "id": "4MrLk_pd8LnzJyZZXCnZfA",
+      "cropInfo": {
+        "x": 0.247582018,
+        "y": 0.340036243,
+        "width": 0.5853468,
+        "height": 0.338394225
+      }
+    },
+    "imageWidthCropInfo": "4MrLk_pd8LnzJyZZXCnZfA?x=0.24758201400000000&y=0.34003625700000000&w=0.58534681600000000&h=0.33839422800000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/4MrLk_pd8LnzJyZZXCnZfAG1ixMP2l8eVEEx77ZQbJpA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4MrLk_pd8LnzJyZZXCnZfAwxW8SfEZjg9EEx77ZQbJpA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4MrLk_pd8LnzJyZZXCnZfAntRwCTKz-e9EEx77ZQbJpA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/4MrLk_pd8LnzJyZZXCnZfAHhjQYYH6Z9xEEx77ZQbJpA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Kolbjørn Brenda",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Brenda"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(100220400000+0100)/",
+    "actualTransmissionDate": "/Date(100220400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(100220400000+0100)/",
+    "actualTransmissionDate": "/Date(100220400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Kolbjørn Brenda",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Brenda"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Unni Evjen",
+      "role": "Skuespiller",
+      "givenName": "Unni",
+      "familyName": "Evjen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H8M39S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00012372-AR-199212249"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002372&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00022372-AR-199212249"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-03-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00012372-AR-199212249",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1972
+}

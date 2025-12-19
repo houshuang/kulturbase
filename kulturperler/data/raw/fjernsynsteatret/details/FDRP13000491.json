@@ -1,0 +1,211 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP13000491"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP29005192"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp13000491",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60036",
+  "seasonNumber": "1992",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "13.12.1992",
+  "episodeTitle": "Brev til en datter",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 8,
+  "startNextEpisode": 10,
+  "id": "FDRP13000491",
+  "title": "Brev til en datter",
+  "originalTitle": "Brev til en datter",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Brev til en datter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Brev til en datter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Brev til en datter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Brev til en datter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT54M39.96S",
+  "shortDescription": "En mor som er popartist vil samle alt klokt og godt i et brev til sitt barn, men brevet blir bare blir begynnelsen til nye spørsmål. Av Arnold Wesker.",
+  "longDescription": "Verdenspremiere på et nytt stykke av Arnold Wesker, skrevet for Susanne Fuhr.\nHvordan er man \"skapt til å være mor\"?  Moren vi møter her er popartist.  Hun\nskriver tekster, lager musikk og synger selv.  Hun vil samle alt klokt og godt\ni et brev til sitt barn, men oppdager at brevet bare blir begynnelsen til nye\nspørsmål.  Brev duger ikke til dette.  Kanskje sangen gjør det bedre?\nSusanne FUHR som Melanie.\nOversettelse ved Mona Levin.\nMusikkarrangement: Jens Christian Bugge Wesseltoft.\nSangtekster og musikk: Jan Eggum.\nSusanne FUHR synger følgende sanger:\n\"Kjærlighet og ærlighet\", 1'23\".\n\"Når er du kvinne?\", 2'42\".\n\"Når vi to kommer hjem\", 3'21\".\n\"Uansett\", 1'34\".\n\"Jeg vet, du vet\", 3'08\".\n\"En plass i solen\", 2'22\".\n\"Kjærlighet og ærlighet\", 4'12\".",
+  "image": {
+    "imageInfo": {
+      "id": "lThl7KQ4tNCjMqSr4pBwLw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.17325303,
+        "width": 1.0,
+        "height": 0.7258065
+      }
+    },
+    "imageWidthCropInfo": "lThl7KQ4tNCjMqSr4pBwLw?x=0.00000000000000000&y=0.17325302400000000&w=1.00000000000000000&h=0.72580645200000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/lThl7KQ4tNCjMqSr4pBwLwvPK_w7l5k0Ojw8dh7kbidw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lThl7KQ4tNCjMqSr4pBwLw7dvMiOGt7rejw8dh7kbidw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lThl7KQ4tNCjMqSr4pBwLwv_GNnEREcFSjw8dh7kbidw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lThl7KQ4tNCjMqSr4pBwLwKkpZwIKFkaCjw8dh7kbidw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Susanne Fuhr",
+      "role": "Skuespiller",
+      "givenName": "Susanne",
+      "familyName": "Fuhr"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(724201200000+0100)/",
+    "actualTransmissionDate": "/Date(724201200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(724201200000+0100)/",
+    "actualTransmissionDate": "/Date(724201200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1423716900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Susanne Fuhr",
+      "role": "Skuespiller",
+      "givenName": "Susanne",
+      "familyName": "Fuhr"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000491&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT54M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000491&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000491&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000491&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP13000491&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP130491-AR-199407738"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "13-12-1992",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP130491-AR-199407738",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1991
+}

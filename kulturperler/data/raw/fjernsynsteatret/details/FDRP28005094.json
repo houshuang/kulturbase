@@ -1,0 +1,271 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28005094"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP18002194"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28005094",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "67247",
+  "seasonNumber": "1994",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "04.12.1994",
+  "episodeTitle": "Beslutningen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FDRP28005094",
+  "title": "Beslutningen",
+  "originalTitle": "Beslutningen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Beslutningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Beslutningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Beslutningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Beslutningen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H31M12.92S",
+  "shortDescription": "Et ungt par ønsker seg barn. Graviditeten fører dem fra skanse til skanse. Skal hun føde et barn som de vet har Downs syndrom? Fra Nationaltheatret.",
+  "longDescription": "\"Beslutningen\" av Claire Luckhan er en fjernsynsoverføring fra\nNationaltheatret.\nInstruktør: Catrine Telle.\nEt ungt par ønsker seg barn.  Graviditeten fører dem fra skanse til skanse.  På\net tidspunkt må den vanskelige beslutningen tas.  Skal hun føde et barn som de\nvet har Downs syndrom?\nI rollene:\n           Det une paret Ingrid og Lars ..... Kjersti HOLMEN\n                                              Henrik MESTAD\n           Legen ............................ Joachim CALMEYER\n           Jordmoren ........................ Anne Marie OTTERSEN\n           Forfatter ........................ Tone SCHWARZOTT",
+  "image": {
+    "imageInfo": {
+      "id": "n8tVToHuqV1IqcPlHS_zJQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9984015
+      }
+    },
+    "imageWidthCropInfo": "n8tVToHuqV1IqcPlHS_zJQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99840153452685430",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/n8tVToHuqV1IqcPlHS_zJQRZWoaBlZkIGidARuBHRjag",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n8tVToHuqV1IqcPlHS_zJQ-ZJVzqLg3B2idARuBHRjag",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n8tVToHuqV1IqcPlHS_zJQ-YGI5d-TxIGidARuBHRjag",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/n8tVToHuqV1IqcPlHS_zJQAFTTWJLm02qidARuBHRjag",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "Nationaltheatret",
+    "drama",
+    "teater",
+    "teaterstykke",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "Nationaltheatret",
+    "drama",
+    "teater",
+    "teaterstykke",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Henrik Mestad",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Mestad"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(786495600000+0100)/",
+    "actualTransmissionDate": "/Date(786495600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(786495600000+0100)/",
+    "actualTransmissionDate": "/Date(786495600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1446958500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Henrik Mestad",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Mestad"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28005094&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H31M12S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28005094&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28005094&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28005094&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28005094&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP285094-AR-199504900"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-12-1994",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP285094-AR-199504900",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1994
+}

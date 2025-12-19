@@ -1,0 +1,389 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003586"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01007585"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003586",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60031",
+  "seasonNumber": "1987",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "01.09.1987",
+  "episodeTitle": "Carl Lange",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00003586",
+  "title": "Carl Lange",
+  "originalTitle": "Carl Lange",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Carl Lange"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Carl Lange"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Carl Lange"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Carl Lange"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H11M54S",
+  "shortDescription": "Uten varsel kommer katastrofen inn i Carl Langes velordnete liv. Politiet mistenker ham for en alvorlig forbrytelse. Av Kjell Askildsen.",
+  "longDescription": "Av Kjell Askildsen.\nDramatisert av Ulf Breistrand.\nScenograf: Grethe Hejer.  Musikk: Jan Garbarek.\nUten varsel kommer katastrofen inn i Carl Langes velordnete liv.  Politiet\nmistenker ham for en alvorlig forbrytelse.  Indisiene er svake,\netterforskningen tar tid, og i mellomtiden settes Carl Langes identitetsfølelse\npå en alvorlig prøve.\nDe som er med:\nCarl Lange ............... Erik HIVJU\nHans Osmundsen ........... Lasse LINDTNER\nPolitimann ............... Per GØRVELL\nKassadame ................ Lieselotte HOLMENE\nButikkmann ............... Morten BORGERSEN\nEldre mann ............... Knut ØRVIG\nNaboen ................... Sverre Anker OUSDAL\nEldre dame ............... Ingrid Øvre WIIK\nResepsjonsdame ........... Hilde GRYTHE\nDame på gaten ............ Edel ECKBLAD\nKioskdame ................ Eva OPAKER\nUng gutt ................. Svein TINDBERG\nUng pike ................. Inger SCHJOLDAGER\nPolitimenn ............... Ragnar DYRESEN\n                           Erik LIE",
+  "image": {
+    "imageInfo": {
+      "id": "GChRmtIGxCuWEtqmneg1hA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.7100694
+      }
+    },
+    "imageWidthCropInfo": "GChRmtIGxCuWEtqmneg1hA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.71006944444444440",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/GChRmtIGxCuWEtqmneg1hA5OyhZmpScOdjDS-M03QHdQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GChRmtIGxCuWEtqmneg1hA5umBC96QxtpjDS-M03QHdQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GChRmtIGxCuWEtqmneg1hA6BsS78Cc-YhjDS-M03QHdQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GChRmtIGxCuWEtqmneg1hA-pIKQ-ePuU1jDS-M03QHdQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "skuespill",
+    "forbrytelse",
+    "identitetsfølelse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "skuespill",
+    "forbrytelse",
+    "identitetsfølelse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Edel Eckblad",
+      "role": "Skuespiller",
+      "givenName": "Edel",
+      "familyName": "Eckblad"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Erik Lie",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Ingrid Øvre Wiik",
+      "role": "Skuespiller",
+      "givenName": "Ingrid Øvre",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Hilde Grythe",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Grythe"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Ragnar Dyresen",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Dyresen"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Knut Ørvig",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Ørvig"
+    },
+    {
+      "name": "Lasse Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Morten Borgersen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Borgersen"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Inger Schjoldager",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Schjoldager"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(557445600000+0200)/",
+    "actualTransmissionDate": "/Date(557445600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(557445600000+0200)/",
+    "actualTransmissionDate": "/Date(557445600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1412740500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Edel Eckblad",
+      "role": "Skuespiller",
+      "givenName": "Edel",
+      "familyName": "Eckblad"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Erik Lie",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Eva Opaker",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Opaker"
+    },
+    {
+      "name": "Ingrid Øvre Wiik",
+      "role": "Skuespiller",
+      "givenName": "Ingrid Øvre",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Hilde Grythe",
+      "role": "Skuespiller",
+      "givenName": "Hilde",
+      "familyName": "Grythe"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Ragnar Dyresen",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Dyresen"
+    },
+    {
+      "name": "Per Gørvell",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gørvell"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Knut Ørvig",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Ørvig"
+    },
+    {
+      "name": "Lasse Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Morten Borgersen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Borgersen"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Inger Schjoldager",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Schjoldager"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003586&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H11M54S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003586&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003586&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003586&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003586&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003586-AR-199305230"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-09-1987",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003586-AR-199305230",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1986
+}

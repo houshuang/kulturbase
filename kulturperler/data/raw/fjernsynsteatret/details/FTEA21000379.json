@@ -1,0 +1,466 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA21000379"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA31000379"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea21000379",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60025",
+  "seasonNumber": "1981",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "10.02.1981",
+  "episodeTitle": "Medmenneske",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA21000379",
+  "title": "Medmenneske",
+  "originalTitle": "Medmenneske",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Medmenneske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Medmenneske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Medmenneske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Medmenneske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Medmenneske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H40M42.76S",
+  "shortDescription": "Serie i fire deler etter romanen av Olav Duun. Musikk: Ketil Hvoslef. Musikken er spillt inn av Kringkastingsorkestret. Del 2.",
+  "longDescription": "Serie i fire deler etter romanen av Olav Duun.  Lagt til rette for fjernsyn\nav Arild Brinchmann.\nMusikk:  Ketil Hvoslef.  Musikken er spillt inn av Kringkastingsorkestret.\nDirigent:  Sverre Bruland.\nDe som er med:  Ragnhild .......... Britt LANGLIE\n                Håkon ............. Ståle BJØRNHAUG\n                Tale .............. Grete NORDRÅ\n                Didrik ............ Espen SKJØNBERG\n                Kvitugla .......... Astrid SOMMER\n                Lea ............... Merete MOEN\n                Morten ............ Kaare KROPPAN\n                Paul .............. Per JANSEN\n                Karl Albert ....... Ola B. JOHANNESSEN\n                Kona hans ......... Julie ØKSNES\n                Indiana ........... Kirsten HOFSETH\n                Beate ............. Inger ROSSET\n                Lensmannen ........ Jens BOLLING\n                Finn-Jørgen ....... Nils SLETTA\n                Ole Petter ........ Jarle BRAKSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "NrSKylk_O_5t3AWc7nCSng",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.07934363,
+        "width": 1.0,
+        "height": 0.892615855
+      }
+    },
+    "imageWidthCropInfo": "NrSKylk_O_5t3AWc7nCSng?x=0.00000000000000000&y=0.07934362934362935&w=1.00000000000000000&h=0.89261583011583010",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/NrSKylk_O_5t3AWc7nCSngDDCwi71i_ynF70vU4DM8CA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NrSKylk_O_5t3AWc7nCSngY-SGo_ktHmLF70vU4DM8CA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NrSKylk_O_5t3AWc7nCSnglI9U2qtE07fF70vU4DM8CA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NrSKylk_O_5t3AWc7nCSngEiL7YkPc7SXF70vU4DM8CA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "dramaserie",
+    "namdalen"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "dramaserie",
+    "namdalen"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Inger Rosset",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Rosset"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Jarle Brakstad",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Brakstad"
+    },
+    {
+      "name": "Merete Moen",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Britt Langlie",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Langlie"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Julie Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Julie",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Knut Vardtun",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Vardtun"
+    },
+    {
+      "name": "Harald Hasle",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Hasle"
+    },
+    {
+      "name": "Kolbjørn Gåsvær",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Gåsvær"
+    },
+    {
+      "name": "Christian Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Christian",
+      "familyName": "Sandvik"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(350607600000+0100)/",
+    "actualTransmissionDate": "/Date(350607600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(350607600000+0100)/",
+    "actualTransmissionDate": "/Date(350607600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391748900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Inger Rosset",
+      "role": "Skuespiller",
+      "givenName": "Inger",
+      "familyName": "Rosset"
+    },
+    {
+      "name": "Astrid Sommer",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Jarle Brakstad",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Brakstad"
+    },
+    {
+      "name": "Merete Moen",
+      "role": "Skuespiller",
+      "givenName": "Merete",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Britt Langlie",
+      "role": "Skuespiller",
+      "givenName": "Britt",
+      "familyName": "Langlie"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Espen Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Jens Bolling",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Bolling"
+    },
+    {
+      "name": "Julie Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Julie",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Per Jansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Jansen"
+    },
+    {
+      "name": "Nils Sletta",
+      "role": "Skuespiller",
+      "givenName": "Nils",
+      "familyName": "Sletta"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Knut Vardtun",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Vardtun"
+    },
+    {
+      "name": "Harald Hasle",
+      "role": "Skuespiller",
+      "givenName": "Harald",
+      "familyName": "Hasle"
+    },
+    {
+      "name": "Kolbjørn Gåsvær",
+      "role": "Skuespiller",
+      "givenName": "Kolbjørn",
+      "familyName": "Gåsvær"
+    },
+    {
+      "name": "Christian Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Christian",
+      "familyName": "Sandvik"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000379&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H40M42S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000379&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000379&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000379&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000379&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA210379-AR-199102882"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-02-1981",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA210379-AR-199102882",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1979
+}

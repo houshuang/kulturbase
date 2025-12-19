@@ -1,0 +1,425 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA60000060"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA60000660"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea60000060",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60004",
+  "seasonNumber": "1960",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "07.04.1960",
+  "episodeTitle": "Den fjerde nattevakt",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 7,
+  "startNextEpisode": 10,
+  "id": "FTEA60000060",
+  "title": "Den fjerde nattevakt",
+  "originalTitle": "Den fjerde nattevakt",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Spesiell og nostalgisk"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den fjerde nattevakt"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H6M",
+  "shortDescription": "Kjærligheten mellom oresten Sigismund og Gunhild, som begge er gift på hver sin kant, får store konsekvenser. Etter en roman av Johan Falkberget.",
+  "longDescription": "Etter en roman av Johan Falkberget.\nDramatisert av Carl Fr. Engelstad.\nDekor: Bjørn Næss.\nInstruktør: Arild Brinchmann.\nHandlingen er lagt til bergstaden Røros.  Kjærligheten mellom presten Sigismund\nog Gunhild som begge er gift på hver sin kant.\nFilminnslag:  Eksteriør-opptak fra Røros og Maridalen, 5 sekvenser på\nhenholdsvis 4'30\", 0'53\", 1'18\", 0'49\" og 2'54\".  Til siste sekvens er vedlagt\nsepmag med dialog mellom Gunhild og Sigismund.  Negativskader, lysblaff ved\nskjøtene, regnvær - særlig sekv. 1.  Sekv. 2 er skjemmet av en halvmåne som\ndukker frem i venstre billedfelt helt ute i kanten.  Stumopptak fra Røros med\nstatister, okse med malmslede, miljøbilder.\nI rollene:\nOl-Kanelsa ............... Alf SOMMER\nGunhild .................. Rut TELLEFSEN\nSigismund ................ Arne LIE\nKathrine ................. Urda ARNEBERG\nDavid Finne .............. Wilfred BREISTRAND\nEmbret ................... Finn BERNHOFT\nJo-Haraldsa .............. Toralf SANDØ\nAas ...................... Rolf SØDER\nDopp ..................... Carsten WINGER\nRingaren ................. Johan NORLUND\nTøllef ................... Kåre WICKLUND\nJomfru Bjørnstrup ........ Turid BALKE\nKnoph .................... Otto LUNDH\nvon Bang ................. Wilhelm LUND\nAnne Sofie ............... Else FROGNER",
+  "image": {
+    "imageInfo": {
+      "id": "lYWbuMAMYgaAZc1VIxnFKg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.08804626,
+        "width": 1.0,
+        "height": 0.754527152
+      }
+    },
+    "imageWidthCropInfo": "lYWbuMAMYgaAZc1VIxnFKg?x=0.00000000000000000&y=0.08804626100000000&w=1.00000000000000000&h=0.75452716300000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/lYWbuMAMYgaAZc1VIxnFKgX5cygsD29VPXoy4PTpPdaA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lYWbuMAMYgaAZc1VIxnFKgRqwkyVYIb2zXoy4PTpPdaA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lYWbuMAMYgaAZc1VIxnFKgWM6GBUIs0QzXoy4PTpPdaA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/lYWbuMAMYgaAZc1VIxnFKgVXuDLUZJ12bXoy4PTpPdaA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "kjærlighetsforhold",
+    "kjærlighet",
+    "anger",
+    "lidelse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "kjærlighetsforhold",
+    "kjærlighet",
+    "anger",
+    "lidelse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Else Frogner",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Frogner"
+    },
+    {
+      "name": "Wilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Wilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Otto Lundh",
+      "role": "Skuespiller",
+      "givenName": "Otto",
+      "familyName": "Lundh"
+    },
+    {
+      "name": "Johan Norlund",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Norlund"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Kåre Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-307245600000+0200)/",
+    "actualTransmissionDate": "/Date(-307245600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-307245600000+0200)/",
+    "actualTransmissionDate": "/Date(-307245600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1388552100000+0100)/",
+    "availableTo": "/Date(4102523700000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Carsten Winger",
+      "role": "Skuespiller",
+      "givenName": "Carsten",
+      "familyName": "Winger"
+    },
+    {
+      "name": "Urda Arneberg",
+      "role": "Skuespiller",
+      "givenName": "Urda",
+      "familyName": "Arneberg"
+    },
+    {
+      "name": "Else Frogner",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Frogner"
+    },
+    {
+      "name": "Wilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Wilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Otto Lundh",
+      "role": "Skuespiller",
+      "givenName": "Otto",
+      "familyName": "Lundh"
+    },
+    {
+      "name": "Johan Norlund",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Norlund"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Kåre Wicklund",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Wicklund"
+    },
+    {
+      "name": "Turid Balke",
+      "role": "Skuespiller",
+      "givenName": "Turid",
+      "familyName": "Balke"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60010060-AR-199206204"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H8M31S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA60000060&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA60020060-AR-199206204"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-04-1960",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA60010060-AR-199206204",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1960
+}

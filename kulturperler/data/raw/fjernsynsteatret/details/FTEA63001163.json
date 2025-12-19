@@ -1,0 +1,464 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA63001163"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEM63001263"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea63001163",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60007",
+  "seasonNumber": "1963",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "10.01.1963",
+  "episodeTitle": "Vintersolhverv",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA63001163",
+  "title": "Vintersolhverv",
+  "originalTitle": "Vintersolhverv",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Vintersolhverv"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Vintersolhverv"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vintersolhverv"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Vintersolhverv"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H24M13.6S",
+  "shortDescription": "Trock løslates fra fengsel, og med Shadow oppsøker de Garth Esdras i 20-tallets Brooklyn. Mios far er henrettet for Trocks lovbrudd. Får han sin hevn?",
+  "longDescription": "Av den amerikanske dramatikeren Maxwell Anderson.\nOversatt av Harald Sverderup.\nMusikk:  Pauline Hall.\nDekor: Erik Hagen.  Instruktør: Knut M. Hansson.\nSlummen i New York på 1920-tallet.  Langtidsfangen Trock løslatt fra fengselet.\n Sammen med medhjelperen Shadow oppsøker han Garth Esdras, som kunne medvirket\ntil at han ble frikjent.  Hevntørst.  Mio ønsker samtidig å hevne sin far, som\nble henrettet for ran og mord som trock og Shadow begikk.  Forelsker seg i\nGarths søster Miriamne.  Den halvtomsete dommeren som dømte Mios far dukker\nopp.  Skildring av rettferdighetens korrupsjon, de fattiges opprør mot politi\nog statsapparat, viktigheten av å bevare menneskets ukrenkelighet, tapperhet\nved selvoppofrelse.  Mio og Mariamne blir til sist skutt.\nI rollene:\nTrock ................. Arne LIE\nShadow ................ Vegard HALL\nGarth ................. Tom TELLEFSEN\nMiriamne .............. Liv THORSEN\nEsdras ................ Per GJERSØE\nSlusken ............... Erik LASSEN\n1. pike ............... Wenche THORSBY\n2. pike ............... Anne Mari DALE\nDommer Gaunt .......... Sverre HANSEN\nMio ................... Knut RISAN\nCarr .................. Johan HOLST\nHerman ................ Ståle BJØRNHAUG\nLucia ................. Arve OPSAHL\nPiny .................. Else HEIBERG\n1. gategutt ........... Atle LINGJÆRDE\n2. gategutt ........... Kjetil BANG-HANSEN\nSjømannen ............. Nandor HAMZA\nRadikaleren ........... Bernt Erik LARSEN\nPolitibetjenten ....... Roy BJØRNSTAD\nOverbetjenten ......... Henrik Anker STEEN\n(Reprise: 19650223).",
+  "image": {
+    "imageInfo": {
+      "id": "SI_3m4yWvHrw7x-oVfi_Kw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0283581968,
+        "width": 1.0,
+        "height": 0.728626966
+      }
+    },
+    "imageWidthCropInfo": "SI_3m4yWvHrw7x-oVfi_Kw?x=0.00000000000000000&y=0.02835819700000000&w=1.00000000000000000&h=0.72862694300000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/SI_3m4yWvHrw7x-oVfi_KwLdq9pz_bTqLRnJYJE5H_Wg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/SI_3m4yWvHrw7x-oVfi_KwAGg5l5EwZ2jRnJYJE5H_Wg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/SI_3m4yWvHrw7x-oVfi_KwpTZMJMvTUArRnJYJE5H_Wg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/SI_3m4yWvHrw7x-oVfi_KwLDfYLOq5nZXRnJYJE5H_Wg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Atle Lingjærde",
+      "role": "Skuespiller",
+      "givenName": "Atle",
+      "familyName": "Lingjærde"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Nandor Hamza",
+      "role": "Skuespiller",
+      "givenName": "Nandor",
+      "familyName": "Hamza"
+    },
+    {
+      "name": "Bernt Erik Larsen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-220150800000+0100)/",
+    "actualTransmissionDate": "/Date(-220150800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-220150800000+0100)/",
+    "actualTransmissionDate": "/Date(-220150800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Vegard Hall",
+      "role": "Skuespiller",
+      "givenName": "Vegard",
+      "familyName": "Hall"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Erik Lassen",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lassen"
+    },
+    {
+      "name": "Wenche Thorsby",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Thorsby"
+    },
+    {
+      "name": "Anne-Mari Dale",
+      "role": "Skuespiller",
+      "givenName": "Anne-Mari",
+      "familyName": "Dale"
+    },
+    {
+      "name": "Sverre Hansen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Johan Holst",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Holst"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Arve Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Arve",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Atle Lingjærde",
+      "role": "Skuespiller",
+      "givenName": "Atle",
+      "familyName": "Lingjærde"
+    },
+    {
+      "name": "Kjetil Bang-Hansen",
+      "role": "Skuespiller",
+      "givenName": "Kjetil",
+      "familyName": "Bang-Hansen"
+    },
+    {
+      "name": "Nandor Hamza",
+      "role": "Skuespiller",
+      "givenName": "Nandor",
+      "familyName": "Hamza"
+    },
+    {
+      "name": "Bernt Erik Larsen",
+      "role": "Skuespiller",
+      "givenName": "Bernt Erik",
+      "familyName": "Larsen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Henrik Anker Steen",
+      "role": "Skuespiller",
+      "givenName": "Henrik Anker",
+      "familyName": "Steen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63011163-AR-199415920"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M18S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA63001163&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA63021163-AR-199415920"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-01-1963",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA63011163-AR-199415920",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1963
+}

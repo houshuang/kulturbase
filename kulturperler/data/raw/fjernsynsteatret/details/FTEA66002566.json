@@ -1,0 +1,363 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66002566"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FUHA00000666"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66002566",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "20.09.1966",
+  "episodeTitle": "Gisselet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66002566",
+  "title": "Gisselet",
+  "originalTitle": "Gisselet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Gisselet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Gisselet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Gisselet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Gisselet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H56M17.36S",
+  "shortDescription": "Stykket forteller om en episode i irenes motstandskamp. Engelskmennene har arrestert og dødsdømt en soldat fra IRA, til gjengjeld har IRA kidnappet en engelsk soldat. Av Brendan Behan.",
+  "longDescription": "Av den irske forfatteren Brendan Behan.\nOversatt av Peter Magnus.\nKostymer: Kari Bjørg Ile.  Dekor: Olav Ile.\nKoreografi: Randi Baalsrud.  Regi: Tore Breda Thoresen.\nStykket forteller om en episode i irernes motstandkamp, men det er en\nrepresentant for \"fienden\", den unge engelske soldaten som er tatt til fange,\nsom i stykket fører toleransens uskyldige språk.  I den syndens bolig hvor han\nholdes fanget av IRA-folk er det alle slags mennesker, men det er ikke alltid\nde syndigste som er de dårligste når det kniper.\nInnledning ved professor Magne OFTEDAL (ikke overspilt nytt bånd).\nPersonene:\nPat, bestyrer av et losjihus ............. Lasse KOLSTAD\nMeg Dillon ............................... Else HEIBERG\nMonsør, husets eier ...................... Hans STORMOEN\nColette .................................. Gerd WIIK\nPrinsesse Grace .......................... Jon HEGGEDAL\nRio Rita ................................. Earl WILSON\nMulleady ................................. Per GJERSØE\nEn polsk sjømann ......................... Roy BJØRNSTAD\nFrøken Gilchrist, sosialkurator .......... Bab CHRISTENSEN\nLeslie, en britisk soldat ................ Jon EIKEMO\nTeresa, en ung pike fra landet ........... Inger Lise WESTBY\nIRA-offiseren ............................ Tor STOKKE\nEn frivillig ............................. Torbjørn HALVORSEN\n(Reprise: 19600812).",
+  "image": {
+    "imageInfo": {
+      "id": "93moR6bsBlI1dRNsY8PtXQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0325757563,
+        "width": 1.0,
+        "height": 0.732954562
+      }
+    },
+    "imageWidthCropInfo": "93moR6bsBlI1dRNsY8PtXQ?x=0.00000000000000000&y=0.03257575757575758&w=1.00000000000000000&h=0.73295454545454540",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/93moR6bsBlI1dRNsY8PtXQUWOlDnvmCp-emOxX8iW7Rg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/93moR6bsBlI1dRNsY8PtXQXotT_GxWFeuemOxX8iW7Rg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/93moR6bsBlI1dRNsY8PtXQpnrFr05b40memOxX8iW7Rg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/93moR6bsBlI1dRNsY8PtXQi5B8712aAh-emOxX8iW7Rg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Inger Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Earl Wilson",
+      "role": "Skuespiller",
+      "givenName": "Earl",
+      "familyName": "Wilson"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-103600800000+0200)/",
+    "actualTransmissionDate": "/Date(-103600800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-103600800000+0200)/",
+    "actualTransmissionDate": "/Date(-103600800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1426568100000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Inger Lise Westby",
+      "role": "Skuespiller",
+      "givenName": "Inger Lise",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Earl Wilson",
+      "role": "Skuespiller",
+      "givenName": "Earl",
+      "familyName": "Wilson"
+    },
+    {
+      "name": "Torbjørn Halvorsen",
+      "role": "Skuespiller",
+      "givenName": "Torbjørn",
+      "familyName": "Halvorsen"
+    },
+    {
+      "name": "Gerd Wiik",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Lasse Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Lasse",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Jon Eikemo",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Eikemo"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002566&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H56M17S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002566&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002566&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002566&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66002566&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66002566-AR-199318091"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "20-09-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66002566-AR-199318091",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

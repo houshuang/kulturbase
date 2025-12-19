@@ -1,0 +1,291 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62001362"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62000562"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62001362",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 11,
+  "episodeNumberOrDate": "14.06.1962",
+  "episodeTitle": "Det siste kvarter",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62001362",
+  "title": "Det siste kvarter",
+  "originalTitle": "Det siste kvarter",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Det siste kvarter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Det siste kvarter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det siste kvarter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Det siste kvarter"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT48M21.6S",
+  "shortDescription": "Marias gamle flamme, kaptein Peter, dukker opp og får henne til å skille seg fra sin mann, Olav, som hevn for at Olav røvet henne mens Peter var til sjøs for flere år siden.",
+  "longDescription": "Av den norske forfatteren Sigbjørn Holmebakk.\nDekor: Erik Hagen.\nInstruktør: Tore Breda Thoresen.\nMarias gamle flamme, kaptein Peter, dukker opp og får henne til å skille seg\nfra sin mann, Olav, som hevn for at Olav røvet henne mens Peter var til sjøs\nfor flere år siden.  Maria gjennomskuer Peters motiver, og vender tilslutt\ntilbake til Olav.\nFilminnslag:\nUtsyn over Bergen.  Brygge og fiskeskøyter.  Bil kjører gjennom gater og smug.\nUtsyn over byen igjen.  2'04\".\nMaria og Olav vinker favel til Peter.  Olav på broen i kapteinsuniform.  Ser i\nkikkert.  Olav går gjennom Bergens gater ved natt.  4'04\".\nMaria løper gjennom gater.  Utsyn over Bergen.  3'01\".\nI rollene:\nMaria .................... Karin SIMONNÆS\nOlav ..................... Lothar LINDTNER\nPeter .................... Tolf BERNTZEN\nStuerten ................. Toralf SANDØ\nMatrosen ................. Roy BJØRNSTAD\nEsthers stemme ........... Berit SØDER\nStyrmannen ............... Frimann Falck CLAUSEN\n(Reprise: 19630627).",
+  "image": {
+    "imageInfo": {
+      "id": "BWNqjVyFNUhgpemV2-Zeew",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.141402215,
+        "width": 1.0,
+        "height": 0.7267442
+      }
+    },
+    "imageWidthCropInfo": "BWNqjVyFNUhgpemV2-Zeew?x=0.00000000000000000&y=0.14140221300000000&w=1.00000000000000000&h=0.72674418600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/BWNqjVyFNUhgpemV2-Zeewt2Si32Zjm-kDJQaikFeyVA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BWNqjVyFNUhgpemV2-ZeewzgzteYagPmYDJQaikFeyVA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BWNqjVyFNUhgpemV2-ZeewFEVFBhOz6rgDJQaikFeyVA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/BWNqjVyFNUhgpemV2-ZeewI-xustkDzj0DJQaikFeyVA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Karin Simonnæs",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Simonnæs"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Berit Søder",
+      "role": "Skuespiller",
+      "givenName": "Berit",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-238298400000+0200)/",
+    "actualTransmissionDate": "/Date(-238298400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-238298400000+0200)/",
+    "actualTransmissionDate": "/Date(-238298400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1422593700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Karin Simonnæs",
+      "role": "Skuespiller",
+      "givenName": "Karin",
+      "familyName": "Simonnæs"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Berit Søder",
+      "role": "Skuespiller",
+      "givenName": "Berit",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Toralf Sandø",
+      "role": "Skuespiller",
+      "givenName": "Toralf",
+      "familyName": "Sandø"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001362&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT48M22S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001362&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001362&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001362&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001362&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62001362-AR-199416103"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "14-06-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62001362-AR-199416103",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

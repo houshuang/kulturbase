@@ -1,0 +1,327 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA61001061"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA61000161"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea61001061",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60005",
+  "seasonNumber": "1961",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "18.05.1961",
+  "episodeTitle": "Østersen og perlen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA61001061",
+  "title": "Østersen og perlen",
+  "originalTitle": "Østersen og perlen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Østersen og perlen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Østersen og perlen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Østersen og perlen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Østersen og perlen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT44M43.56S",
+  "shortDescription": "Handlingen foregår i en barbersalong i en fattig amerikansk småby, OK-by-the-Sea. Hos frisør Harry van Drusen som har en filosofi - ta det med ro.",
+  "longDescription": "Av den amerikanske forfatteren William Saroyan.\n\nGitarspill ved Andr?? Sanchez.\n\nHandlingen foregår i en barbersalong i en fattig amerikansk småby.\n\nI rollene:\n\nHarry van Dusen, barberer ............ Hans STORMOEN\n\nClay Larrabee ........................ Pål VIRIK\n\nVivian Mc.Cutcheon ................... Wenche TØNSETH\n\nBlark Larrabee ....................... Roy BJØRNSTAD\n\nEn forfatter ......................... Arne LIE\n\nDommer Appelgarth .................... Alf SOMMER\n\nWozzeck .............................. Finn BERNHOFT\n\nRoxanna Larrabee ..................... Elisabeth HEBER\n\nGreeley .............................. Morgen ANDRESEN\n\nEn bilmekaniker ...................... Georg THOMMESEN\n\n(Reprise: 19611221).",
+  "image": {
+    "imageInfo": {
+      "id": "c31RSAh-U_OiH_jN3Mmt8Q",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 9.6323e-05,
+        "width": 1.0,
+        "height": 0.717932343
+      }
+    },
+    "imageWidthCropInfo": "c31RSAh-U_OiH_jN3Mmt8Q?x=0.00000000000000000&y=0.00009632300000000&w=1.00000000000000000&h=0.71793235500000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/c31RSAh-U_OiH_jN3Mmt8QggjEfPk0G7V3b8ow2RyKOw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/c31RSAh-U_OiH_jN3Mmt8QxWzA9Vahz-N3b8ow2RyKOw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/c31RSAh-U_OiH_jN3Mmt8QTcuPRKBSZP93b8ow2RyKOw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/c31RSAh-U_OiH_jN3Mmt8QwjNTOwXLx1d3b8ow2RyKOw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Georg Thommesen",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Thommesen"
+    },
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Morten Andresen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Andresen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Elisabeth Heber",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Heber"
+    },
+    {
+      "name": "Pål Virik",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Virik"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-272167200000+0200)/",
+    "actualTransmissionDate": "/Date(-272167200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-272167200000+0200)/",
+    "actualTransmissionDate": "/Date(-272167200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Georg Thommesen",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Thommesen"
+    },
+    {
+      "name": "Wenche Tønseth",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Tønseth"
+    },
+    {
+      "name": "Alf Sommer",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Sommer"
+    },
+    {
+      "name": "Finn Bernhoft",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Bernhoft"
+    },
+    {
+      "name": "Morten Andresen",
+      "role": "Skuespiller",
+      "givenName": "Morten",
+      "familyName": "Andresen"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Elisabeth Heber",
+      "role": "Skuespiller",
+      "givenName": "Elisabeth",
+      "familyName": "Heber"
+    },
+    {
+      "name": "Pål Virik",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Virik"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001061&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT44M43S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001061&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001061&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001061&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA61001061&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA61001061-AR-199416168"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "18-05-1961",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA61001061-AR-199416168",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1961
+}

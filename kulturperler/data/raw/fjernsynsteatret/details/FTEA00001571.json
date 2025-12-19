@@ -1,0 +1,335 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001571"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA21000070"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001571",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60016",
+  "seasonNumber": "1972",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "22.02.1972",
+  "episodeTitle": "Arbeidsgivere",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00001571",
+  "title": "Arbeidsgivere",
+  "originalTitle": "Arbeidsgivere",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Arbeidsgivere"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Arbeidsgivere"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Arbeidsgivere"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Arbeidsgivere"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H4M26.96S",
+  "shortDescription": "Richard Dreiling er ung, kunnskapsrik og skremmende effektiv i jobben sin. Han ser muligheter i enhver situasjon, både for bedriften og seg selv. Av Gerhard Kelling.",
+  "longDescription": "Av den tyske dramatikeren Gerhard Kelling.\nOversatt av Kjell Askildsen.\nDekorasjoner: Per Fjeld.  Instruktør: Janken Varden\nOm hverdagen i en moderne storbedrift - på lederplanet.\nHva skjer med medbestemmelsesretten i et arbeidsmiljø hvor beslutninger\nmå fattes hurtig og på bakgrunn av vanskelig tilgjengelig fagkunnskap?\nHva skjer med samfølelsen arbeidstakerne imellom når tillitsmennene også\nmå utvikle seg til eksperter?  Hva skjer med tilligsmennene i denne\nmellomstillingen?  Vil de kunne bevare sin lojalitet mot dem de representerer?\nFilminnslag:\nRull 1 - Scener fra jernvarefabrikk, 0'25\" EA.\nRull 2 - Arbeidere ut fra arbeidsplassen, 1'20\".\nDe som er med:\nRichard Dreiling ................. Ola B. JOHANNESSEN\nAlfred Karsch .................... Gunnar OLRAM\nHermann Jäger .................... Per CHRISTENSEN\nWerner Schmidtlein ............... Arne LIE\nEgon Pfleck ...................... Per GJERSØE\nFritz Thaler ..................... Eilif ARMAND\nKarl KRAUT ....................... William NYREN\nWilli Stemm ...................... Roy BJØRNSTAD\nJörg Lorenz ...................... Rolf SØDER\nEberhard Fillinger ............... Tor STOKKE\nIntervjuer ....................... Veslemøy HASLUND",
+  "image": {
+    "imageInfo": {
+      "id": "nBYU-vjWdcOlq78teeAPEQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0244155526,
+        "width": 1.0,
+        "height": 0.7324666
+      }
+    },
+    "imageWidthCropInfo": "nBYU-vjWdcOlq78teeAPEQ?x=0.00000000000000000&y=0.02441555343511451&w=1.00000000000000000&h=0.73246660305343510",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/nBYU-vjWdcOlq78teeAPEQx2_cJfH43DWG2rfh5Tb_-g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nBYU-vjWdcOlq78teeAPEQQHp6c4pBybCG2rfh5Tb_-g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nBYU-vjWdcOlq78teeAPEQ4Sg-68a1u4eG2rfh5Tb_-g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/nBYU-vjWdcOlq78teeAPEQBPg5KkfWuEaG2rfh5Tb_-g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(67561200000+0100)/",
+    "actualTransmissionDate": "/Date(67561200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(67561200000+0100)/",
+    "actualTransmissionDate": "/Date(67561200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1431921300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "William Nyrén",
+      "role": "Skuespiller",
+      "givenName": "William",
+      "familyName": "Nyrén"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Tor Stokke",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Stokke"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Eilif Armand",
+      "role": "Skuespiller",
+      "givenName": "Eilif",
+      "familyName": "Armand"
+    },
+    {
+      "name": "Veslemøy Haslund",
+      "role": "Skuespiller",
+      "givenName": "Veslemøy",
+      "familyName": "Haslund"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001571&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4M27S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001571&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001571&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001571&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001571&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00001571AU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-02-1972",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00001571AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1971
+}

@@ -1,0 +1,313 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001570"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001771"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001570",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60015",
+  "seasonNumber": "1971",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "05.01.1971",
+  "episodeTitle": "Symptomer",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 12,
+  "startNextEpisode": 10,
+  "id": "FTEA00001570",
+  "title": "Symptomer",
+  "originalTitle": "Symptomer",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Symptomer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Symptomer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Symptomer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Symptomer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT54M22.6S",
+  "shortDescription": "Av Sverre Udnæs. Vi møter to vidt forskjellige vennepar. Thomas og Merete lever et alminnelig borgerlig liv, Chris og Wenche i et nevrotisk overklassemiljø.",
+  "longDescription": "Av den norske dramatikeren Sverre Udnæs.\nInstruktør: Per Bronken.\nDekor: Grethe Hejer.  Kostymer: Mabi Helweg.\n\"Symptomer\" er nytt og særpreget i innhold som form.  Sammenhengende og slående\npsykologiske portretter blir til gjennom objektive, knappe, presise - ofte\nhalvt selvstendige - bilder fra menneskenes hverdag.  Forfatteren tegner\npersonenes eksistens på overflaten av tilværelsen, men emnet hans er dybdeliv i\nsinnene.\nFilminnslag:\nPresentasjon av de medvirkende.  1'18\" svartsladd.  0'26\" blanksladd.  Ung\nkvinne ned trapp.  Wenche i telefonen.  Kunde kommer inn for å kjøpe kjole av\nMerete.  Kjører drosje i Oslo sentrum.  Merete kjører bil med Thomas.  Wenche\nkjører bil med Thomas og bedriver elskov i bilen.  Merete kjører bil med\nThomas.  Trær.  Meget sladd.  (12'51\").  (Arkivert av sign. km).\nDe som er med:\nMerete .................. Lise FJELDSTAD\nThomas .................. Per CHRISTENSEN\nWenche .................. Bente LISETH\nChris ................... Nils Ole OFTEBRO\nØvr. medv.: Gerd JØRGENSEN, Wenche FOSS, Jack FJELDSTAD, Ola ISENE og Svein\nMOEN.\n(Reprise: 19720208).",
+  "image": {
+    "imageInfo": {
+      "id": "f6laSIllWawhWKI9sLH6qg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.146205351,
+        "width": 1.0,
+        "height": 0.853794634
+      }
+    },
+    "imageWidthCropInfo": "f6laSIllWawhWKI9sLH6qg?x=0.00000000000000000&y=0.14620535714285710&w=1.00000000000000000&h=0.85379464285714290",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/f6laSIllWawhWKI9sLH6qgdXZr7uhs8HxcXnLAQ8mbMw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/f6laSIllWawhWKI9sLH6qg1lQ9RNkdtQZcXnLAQ8mbMw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/f6laSIllWawhWKI9sLH6qgvgVlive0slxcXnLAQ8mbMw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/f6laSIllWawhWKI9sLH6qgCF2Eylty8LdcXnLAQ8mbMw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Bente Liseth",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Liseth"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(31878000000+0100)/",
+    "actualTransmissionDate": "/Date(31878000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(31878000000+0100)/",
+    "actualTransmissionDate": "/Date(31878000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Bente Liseth",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Liseth"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Wenche Foss",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Foss"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Ola Isene",
+      "role": "Skuespiller",
+      "givenName": "Ola",
+      "familyName": "Isene"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001570&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT54M23S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001570&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001570&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001570&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001570&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001570-AR-199311329"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "05-01-1971",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001570-AR-199311329",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1970
+}

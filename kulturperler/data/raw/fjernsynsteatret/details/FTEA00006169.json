@@ -1,0 +1,428 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006169"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006469"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006169",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60013",
+  "seasonNumber": "1969",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "23.09.1969",
+  "episodeTitle": "Jeg snakker om Jerusalem",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00006169",
+  "title": "Jeg snakker om Jerusalem",
+  "originalTitle": "Jeg snakker om Jerusalem",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Jeg snakker om Jerusalem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Jeg snakker om Jerusalem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jeg snakker om Jerusalem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jeg snakker om Jerusalem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H7M23.8S",
+  "shortDescription": "Av Arnold Wesker. Det tredje i en trilogi om arbeiderklassen og sosialistiske idealer. Ada, Sara Kahns datter, har flyttet fra storbyen til landsbygda med mannen Dave.",
+  "longDescription": "Av den engelske dramatikeren Arnold Wesker.\nOversatt av Sigbjørn Hølmebakk.\nDekor:  Sverre Andersen.\nInstruktør: Magne Bleness.\nStykket er det tredje  i en trilogi om en gren av den engelske\narbeiderbevegelsen som forfatterens egen familie tilhørte.  I denne tredje\ndelen møter vi Ada, Sara Kahns datter, og hennes mann Dave.  De har flyttet\nfra storbyen og ut på landet hvor de vil forsøke å omsette sosialismen til\npraksis.  Her på landet kan de finne glede og samhørighet i å forsørge seg\nselv ved eget håndverk - i nær kontakt med naturen.  Men det skal vise seg at\ndet ikke er så lett som de tror å bringe disse ideene ut i livet, og at drømmen\nom et liv på landet etter hvert faller igjennom.  Stykket spenner over\ntidsrommet 1946 - 1959.\nDe som er med:\nSara Kahn...................Ragnhild Michelsen\nRonnie Kahn................Svein Sturla Hungnes\nAda Simmonds.............Ingebjørg Sem\nDave Simmonds............Rolf Søder\nLibby Dobson................Joachim Calmeyer\nOberst Dewhurst............Per Gjersøe\nCissie Kahn...................Bab Christensen\nEsther Kahn...................Gerd Jørgensen\nFørste flyttemann............Frimann Falck Clausen\nAnnen flyttemann............Svein Byhring\nSammy..........................Thomas Fasting\nDanny Simmonds............Jarle Hoel\n(Reprise: 19701229).",
+  "image": {
+    "imageInfo": {
+      "id": "OIrzLRZ_2rwpw5FreatSbw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.127125,
+        "width": 1.0,
+        "height": 0.6934091
+      }
+    },
+    "imageWidthCropInfo": "OIrzLRZ_2rwpw5FreatSbw?x=0.00000000000000000&y=0.12712500000000000&w=1.00000000000000000&h=0.69340909090909090",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/OIrzLRZ_2rwpw5FreatSbwsuTqS9i6nnVPzQ6xTwYyVQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OIrzLRZ_2rwpw5FreatSbweBuZCcqhJv9PzQ6xTwYyVQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OIrzLRZ_2rwpw5FreatSbwrPTTc3vE7NJPzQ6xTwYyVQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/OIrzLRZ_2rwpw5FreatSbwkmVHP--8eJdPzQ6xTwYyVQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "arbeiderbevegelsen",
+    "sosialisme"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "arbeiderbevegelsen",
+    "sosialisme"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Arnold Wesker",
+      "role": "Forfatter",
+      "givenName": "Arnold",
+      "familyName": "Wesker"
+    },
+    {
+      "name": "Sigbjørn Hølmebakk",
+      "role": "Oversetter",
+      "givenName": "Sigbjørn",
+      "familyName": "Hølmebakk"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Regissør",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Svein Sturla Hungnes",
+      "role": "Skuespiller",
+      "givenName": "Svein Sturla",
+      "familyName": "Hungnes"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Svein Byhring",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Jarle Hoel",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Hoel"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-8647200000+0200)/",
+    "actualTransmissionDate": "/Date(-8647200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-8647200000+0200)/",
+    "actualTransmissionDate": "/Date(-8647200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439092500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Arnold Wesker",
+      "role": "Forfatter",
+      "givenName": "Arnold",
+      "familyName": "Wesker"
+    },
+    {
+      "name": "Sigbjørn Hølmebakk",
+      "role": "Oversetter",
+      "givenName": "Sigbjørn",
+      "familyName": "Hølmebakk"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Regissør",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Svein Sturla Hungnes",
+      "role": "Skuespiller",
+      "givenName": "Svein Sturla",
+      "familyName": "Hungnes"
+    },
+    {
+      "name": "Ingebjørg Sem",
+      "role": "Skuespiller",
+      "givenName": "Ingebjørg",
+      "familyName": "Sem"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Gerd Jørgensen",
+      "role": "Skuespiller",
+      "givenName": "Gerd",
+      "familyName": "Jørgensen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Svein Byhring",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Byhring"
+    },
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Jarle Hoel",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Hoel"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H47M18S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00016169-AR-199313235"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT20M5S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006169&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00026169-AR-199313235"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-09-1969",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00016169-AR-199313235",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

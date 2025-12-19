@@ -1,0 +1,674 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005490"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00005590"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005490",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60035",
+  "seasonNumber": "1991",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "22.04.1991",
+  "episodeTitle": "Fedrelandet",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00005490",
+  "title": "Fedrelandet",
+  "originalTitle": "Fedrelandet",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fedrelandet"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H19M2.96S",
+  "shortDescription": "Avisspekulasjoner og en gutts besynderlige oppførsel etter brannen har satt rykter i omløp, hovedstadspressen melder sin interesse. Del 3.",
+  "longDescription": "Manuskript og regi: Jarl Emsell Larsen og Ulf Breistrand.\nSminke: Vera Strand, Gro Andersen og Mette Ødegaard.\nKostymer: Gro Hofslett Gillesen.  Dekorasjon: Grethe Hejer.\nFotograf: Arne Borsheim.  Musikk: Geir Bøhren og Bent Åserud.\nBygdefolk og flyktninger i Blåfjellstrand jobber på spreng for å gjenreise\nden nedbrente dekorasjonen til 17. mai.  Avis-spekulasjoner og tamilgutten\nLogas besynderlige oppførsel etter brannen har satt rykter i omløp, og\nhovedstadpressen melder sin interesse.  Rakel har identifisert dedn skadde\nmotoirsyklisten til å være Asads sønn.  Men hvorfor har han kommet?\nHva vil han med Rakel?  Og har han noe med brannen å gjøre?\nI de viktigste rollene:\nRakel ....................................... Liv Bernhoft OSA\nRahim ....................................... Daud MIRZA\nAstrid ...................................... Preeti AGARWAL\nOdd Henriksen ............................... Torfinn NAG\nBaskaran .................................... Robert JEYANANTHAN\nShanti BASKARAN ............................. Mari Regina JEYANANTHAN\nStorsletten ................................. Helge JORDAL\nCarlos ...................................... Luis SILVA\nOrdfører Eika ............................... Kaare KROPPAN\nSolfrid Stokke .............................. Wenche KVAMME\nLærer ....................................... Terje STRØMDAHL\nKhalid ...................................... Toni USMAN\nFathima ..................................... Bibi RAZIA\nEsther Gabrielsen ........................... Astrid FOLSTAD\nRektor ...................................... Bernhard RAMSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "R-LkgvfI0xkMYtcX2XmJNA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.26903373,
+        "width": 1.0,
+        "height": 0.73096627
+      }
+    },
+    "imageWidthCropInfo": "R-LkgvfI0xkMYtcX2XmJNA?x=0.00000000000000000&y=0.26903373266078180&w=1.00000000000000000&h=0.73096626733921820",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAAbJ66QYQDkgCWfuTo0WaHA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAKGvc7PDlgMACWfuTo0WaHA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAnHaPObLJZdICWfuTo0WaHA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/R-LkgvfI0xkMYtcX2XmJNAFLNri6YjSxgCWfuTo0WaHA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "innvandring",
+    "innvandringspolitikk",
+    "samfunnsproblemer",
+    "rasisme",
+    "innvandrere"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "innvandring",
+    "innvandringspolitikk",
+    "samfunnsproblemer",
+    "rasisme",
+    "innvandrere"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Toni Usman",
+      "role": "Skuespiller",
+      "givenName": "Toni",
+      "familyName": "Usman"
+    },
+    {
+      "name": "Øyvin Berven",
+      "role": "Skuespiller",
+      "givenName": "Øyvin",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Bernhard Ramstad",
+      "role": "Skuespiller",
+      "givenName": "Bernhard",
+      "familyName": "Ramstad"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Naeem Azam",
+      "role": "Skuespiller",
+      "givenName": "Naeem",
+      "familyName": "Azam"
+    },
+    {
+      "name": "Lars Steinar Sørbø",
+      "role": "Skuespiller",
+      "givenName": "Lars Steinar",
+      "familyName": "Sørbø"
+    },
+    {
+      "name": "Hassan Ansari",
+      "role": "Skuespiller",
+      "givenName": "Hassan",
+      "familyName": "Ansari"
+    },
+    {
+      "name": "Ijaz Ahmad",
+      "role": "Skuespiller",
+      "givenName": "Ijaz",
+      "familyName": "Ahmad"
+    },
+    {
+      "name": "Olle-Ronny Asum Hansson",
+      "role": "Skuespiller",
+      "givenName": "Olle-Ronny Asum",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Kenneth Colban",
+      "role": "Skuespiller",
+      "givenName": "Kenneth",
+      "familyName": "Colban"
+    },
+    {
+      "name": "Rajinder Singh",
+      "role": "Skuespiller",
+      "givenName": "Rajinder",
+      "familyName": "Singh"
+    },
+    {
+      "name": "Imran Saber",
+      "role": "Skuespiller",
+      "givenName": "Imran",
+      "familyName": "Saber"
+    },
+    {
+      "name": "Kawar Sadiq",
+      "role": "Skuespiller",
+      "givenName": "Kawar",
+      "familyName": "Sadiq"
+    },
+    {
+      "name": "Wasim Mirza",
+      "role": "Skuespiller",
+      "givenName": "Wasim",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Jarle Aase",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Aase"
+    },
+    {
+      "name": "Aase Haukaas Gjerde",
+      "role": "Skuespiller",
+      "givenName": "Aase Haukaas",
+      "familyName": "Gjerde"
+    },
+    {
+      "name": "Tormod Flobak",
+      "role": "Skuespiller",
+      "givenName": "Tormod",
+      "familyName": "Flobak"
+    },
+    {
+      "name": "Hans Gunnar Skarstein",
+      "role": "Skuespiller",
+      "givenName": "Hans Gunnar",
+      "familyName": "Skarstein"
+    },
+    {
+      "name": "Luis Silva",
+      "role": "Skuespiller",
+      "givenName": "Luis",
+      "familyName": "Silva"
+    },
+    {
+      "name": "Siuagi Vivekananthan",
+      "role": "Skuespiller",
+      "givenName": "Siuagi",
+      "familyName": "Vivekananthan"
+    },
+    {
+      "name": "Mari Regina Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Mari Regina",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Robert Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Robert",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Preeti Agarwal",
+      "role": "Skuespiller",
+      "givenName": "Preeti",
+      "familyName": "Agarwal"
+    },
+    {
+      "name": "Liv Bernhoft Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv Bernhoft",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Daud Mirza",
+      "role": "Skuespiller",
+      "givenName": "Daud",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Bibi Razia",
+      "role": "Skuespiller",
+      "givenName": "Bibi",
+      "familyName": "Razia"
+    },
+    {
+      "name": "Terje Strømdahl",
+      "role": "Skuespiller",
+      "givenName": "Terje",
+      "familyName": "Strømdahl"
+    },
+    {
+      "name": "Bjørn Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(672271200000+0200)/",
+    "actualTransmissionDate": "/Date(672271200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(672271200000+0200)/",
+    "actualTransmissionDate": "/Date(672271200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391057700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Toni Usman",
+      "role": "Skuespiller",
+      "givenName": "Toni",
+      "familyName": "Usman"
+    },
+    {
+      "name": "Øyvin Berven",
+      "role": "Skuespiller",
+      "givenName": "Øyvin",
+      "familyName": "Berven"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Bernhard Ramstad",
+      "role": "Skuespiller",
+      "givenName": "Bernhard",
+      "familyName": "Ramstad"
+    },
+    {
+      "name": "Astrid Folstad",
+      "role": "Skuespiller",
+      "givenName": "Astrid",
+      "familyName": "Folstad"
+    },
+    {
+      "name": "Naeem Azam",
+      "role": "Skuespiller",
+      "givenName": "Naeem",
+      "familyName": "Azam"
+    },
+    {
+      "name": "Lars Steinar Sørbø",
+      "role": "Skuespiller",
+      "givenName": "Lars Steinar",
+      "familyName": "Sørbø"
+    },
+    {
+      "name": "Hassan Ansari",
+      "role": "Skuespiller",
+      "givenName": "Hassan",
+      "familyName": "Ansari"
+    },
+    {
+      "name": "Ijaz Ahmad",
+      "role": "Skuespiller",
+      "givenName": "Ijaz",
+      "familyName": "Ahmad"
+    },
+    {
+      "name": "Olle-Ronny Asum Hansson",
+      "role": "Skuespiller",
+      "givenName": "Olle-Ronny Asum",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Kenneth Colban",
+      "role": "Skuespiller",
+      "givenName": "Kenneth",
+      "familyName": "Colban"
+    },
+    {
+      "name": "Rajinder Singh",
+      "role": "Skuespiller",
+      "givenName": "Rajinder",
+      "familyName": "Singh"
+    },
+    {
+      "name": "Imran Saber",
+      "role": "Skuespiller",
+      "givenName": "Imran",
+      "familyName": "Saber"
+    },
+    {
+      "name": "Kawar Sadiq",
+      "role": "Skuespiller",
+      "givenName": "Kawar",
+      "familyName": "Sadiq"
+    },
+    {
+      "name": "Wasim Mirza",
+      "role": "Skuespiller",
+      "givenName": "Wasim",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Jarle Aase",
+      "role": "Skuespiller",
+      "givenName": "Jarle",
+      "familyName": "Aase"
+    },
+    {
+      "name": "Aase Haukaas Gjerde",
+      "role": "Skuespiller",
+      "givenName": "Aase Haukaas",
+      "familyName": "Gjerde"
+    },
+    {
+      "name": "Tormod Flobak",
+      "role": "Skuespiller",
+      "givenName": "Tormod",
+      "familyName": "Flobak"
+    },
+    {
+      "name": "Hans Gunnar Skarstein",
+      "role": "Skuespiller",
+      "givenName": "Hans Gunnar",
+      "familyName": "Skarstein"
+    },
+    {
+      "name": "Luis Silva",
+      "role": "Skuespiller",
+      "givenName": "Luis",
+      "familyName": "Silva"
+    },
+    {
+      "name": "Siuagi Vivekananthan",
+      "role": "Skuespiller",
+      "givenName": "Siuagi",
+      "familyName": "Vivekananthan"
+    },
+    {
+      "name": "Mari Regina Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Mari Regina",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Robert Jeyananthan",
+      "role": "Skuespiller",
+      "givenName": "Robert",
+      "familyName": "Jeyananthan"
+    },
+    {
+      "name": "Preeti Agarwal",
+      "role": "Skuespiller",
+      "givenName": "Preeti",
+      "familyName": "Agarwal"
+    },
+    {
+      "name": "Liv Bernhoft Osa",
+      "role": "Skuespiller",
+      "givenName": "Liv Bernhoft",
+      "familyName": "Osa"
+    },
+    {
+      "name": "Daud Mirza",
+      "role": "Skuespiller",
+      "givenName": "Daud",
+      "familyName": "Mirza"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Helge Jordal",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Jordal"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Grete Nordrå",
+      "role": "Skuespiller",
+      "givenName": "Grete",
+      "familyName": "Nordrå"
+    },
+    {
+      "name": "Wenche Kvamme",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Kvamme"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Bibi Razia",
+      "role": "Skuespiller",
+      "givenName": "Bibi",
+      "familyName": "Razia"
+    },
+    {
+      "name": "Terje Strømdahl",
+      "role": "Skuespiller",
+      "givenName": "Terje",
+      "familyName": "Strømdahl"
+    },
+    {
+      "name": "Bjørn Opsahl",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Opsahl"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005490&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H19M3S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005490&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005490&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005490&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005490&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005490-AR-199201216"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "22-04-1991",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005490-AR-199201216",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1990
+}

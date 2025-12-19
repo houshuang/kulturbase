@@ -1,0 +1,336 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP76000196"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP70000196"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp76000196",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "183892",
+  "seasonNumber": "1997",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "16.03.1997",
+  "episodeTitle": "Erasmus Montanus",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 2,
+  "startNextEpisode": 10,
+  "id": "FDRP76000196",
+  "title": "Erasmus Montanus",
+  "originalTitle": null,
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Erasmus Montanus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Erasmus Montanus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret: Erasmus Montanus"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H39M50.96S",
+  "shortDescription": "Bondesønnen Rasmus Berg vender hjem etter studier i København. Han heter nå Erasmus Montanus, og brisker seg med sine ferdigheter til å disputere.",
+  "longDescription": "",
+  "image": {
+    "imageInfo": {
+      "id": "d2uHPCSLXRBKeUCSct0W_Q",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "d2uHPCSLXRBKeUCSct0W_Q?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/d2uHPCSLXRBKeUCSct0W_Q6OmhSTZMD9nfC0L2a3yxwg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/d2uHPCSLXRBKeUCSct0W_Q9WPStwDryYPfC0L2a3yxwg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/d2uHPCSLXRBKeUCSct0W_QQeGyrnXGihPfC0L2a3yxwg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/d2uHPCSLXRBKeUCSct0W_QqBVmnyX7lK7fC0L2a3yxwg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Arkivpublisering",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Eindride Eidsvold",
+      "role": "Skuespiller",
+      "givenName": "Eindride",
+      "familyName": "Eidsvold"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Trond Brænne",
+      "role": "Skuespiller",
+      "givenName": "Trond",
+      "familyName": "Brænne"
+    },
+    {
+      "name": "Andrine Sæther",
+      "role": "Skuespiller",
+      "givenName": "Andrine",
+      "familyName": "Sæther"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Kåre Conradi",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Conradi"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Per Christensen jr.",
+      "role": "Skuespiller",
+      "givenName": "Per Christensen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Kristen Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Kristen",
+      "familyName": "Svendsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(858466800000+0100)/",
+    "actualTransmissionDate": "/Date(858466800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(858466800000+0100)/",
+    "actualTransmissionDate": "/Date(858466800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1709528400000+0100)/",
+    "availableTo": "/Date(4102462800000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Arkivpublisering",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Eindride Eidsvold",
+      "role": "Skuespiller",
+      "givenName": "Eindride",
+      "familyName": "Eidsvold"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Trond Brænne",
+      "role": "Skuespiller",
+      "givenName": "Trond",
+      "familyName": "Brænne"
+    },
+    {
+      "name": "Andrine Sæther",
+      "role": "Skuespiller",
+      "givenName": "Andrine",
+      "familyName": "Sæther"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Kåre Conradi",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Conradi"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Per Christensen jr.",
+      "role": "Skuespiller",
+      "givenName": "Per Christensen",
+      "familyName": "jr."
+    },
+    {
+      "name": "Kristen Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Kristen",
+      "familyName": "Svendsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP76000196&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H39M50S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP76000196&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP76000196&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP76000196&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP76000196&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP760196-AR-200215596"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "16-03-1997",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP760196-AR-200215596",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1996
+}

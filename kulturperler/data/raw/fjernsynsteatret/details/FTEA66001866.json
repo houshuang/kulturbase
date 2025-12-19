@@ -1,0 +1,292 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001866"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66002866"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001866",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60010",
+  "seasonNumber": "1966",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "11.01.1966",
+  "episodeTitle": "Rosmersholm",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 19,
+  "startNextEpisode": 10,
+  "id": "FTEA66001866",
+  "title": "Rosmersholm",
+  "originalTitle": "Rosmersholm",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Rosmersholm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Rosmersholm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rosmersholm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rosmersholm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rosmersholm"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H3M1.96S",
+  "shortDescription": "Drama av Henrik Ibsen. Den unge og frigjorte Rebekka West vil ha pastor Rosmer, men vil hans grublerier og hans kones selvmord ødelegge deres forhold?",
+  "longDescription": "Av Henrik Ibsen.\n\nOm det å være et fritt menneske.  Rebekka West vil ha pastor Rosmer.  Hun har\n\nfått han med på sine nye radikale tanker og fått kona hans så sjalu at hun har\n\ntatt livet av seg.  Pastoren føler seg frigjort fra alle gamle normer på-\n\ntvunget gjennom oppdragelse og samfunnet ellers.  Men da han nå ber Rebekka\n\nbli hans kone kan hun ikke pga. skyldfølelsen hun har for det hun gjorde mot\n\nhans kone - en følelse pastoren har fått henne til å føle så sterkt pga. sine\n\negene grublerier rundt dette.\n\nI rollene:\n\nJohannes Rosmer .............. Per SUNDERLAND\n\nRebekka West ................. Henny MOAN\n\nRektor Kroll ................. Jørn ORDING\n\nUlrik Brendel ................ Hans STORMOEN\n\nPeder Mortensgård ............ Einar WENES\n\nMadame Helseth ............... Else HEIBERG",
+  "image": {
+    "imageInfo": {
+      "id": "2IEJFbjNobPy3sK2E4yRwg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "2IEJFbjNobPy3sK2E4yRwg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwgg_shcQTQ4uNScvvkVzjX9w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwg4U9DJCFFTthScvvkVzjX9w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwgY0AdWwOlTyNScvvkVzjX9w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwg_LG4V5V28JhScvvkVzjX9w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "tv-drama",
+    "lidenskap",
+    "begjær",
+    "kynisme",
+    "selvmord"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "tv-drama",
+    "lidenskap",
+    "begjær",
+    "kynisme",
+    "selvmord"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Per Sunderland",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Sunderland"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-125370000000+0100)/",
+    "actualTransmissionDate": "/Date(-125370000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-125370000000+0100)/",
+    "actualTransmissionDate": "/Date(-125370000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1390884900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Einar Wenes",
+      "role": "Skuespiller",
+      "givenName": "Einar",
+      "familyName": "Wenes"
+    },
+    {
+      "name": "Jørn Ording",
+      "role": "Skuespiller",
+      "givenName": "Jørn",
+      "familyName": "Ording"
+    },
+    {
+      "name": "Per Sunderland",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Sunderland"
+    },
+    {
+      "name": "Henny Moan",
+      "role": "Skuespiller",
+      "givenName": "Henny",
+      "familyName": "Moan"
+    },
+    {
+      "name": "Hans Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Hans",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Else Heiberg",
+      "role": "Skuespiller",
+      "givenName": "Else",
+      "familyName": "Heiberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001866&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT2H3M2S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001866&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001866&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001866&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001866&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66001866-AR-199206130"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-01-1966",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66001866-AR-199206130",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

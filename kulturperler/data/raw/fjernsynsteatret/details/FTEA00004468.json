@@ -1,0 +1,323 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00004468"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003668"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00004468",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60012",
+  "seasonNumber": "1968",
+  "episodeNumber": 20,
+  "episodeNumberOrDate": "27.11.1968",
+  "episodeTitle": "Rettssaka mot LeRoi Jones",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 21,
+  "startNextEpisode": 10,
+  "id": "FTEA00004468",
+  "title": "Rettssaka mot LeRoi Jones",
+  "originalTitle": "Rettssaka mot LeRoi Jones",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Rettssaka mot LeRoi Jones"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Rettssaka mot LeRoi Jones"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rettssaka mot LeRoi Jones"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rettssaka mot LeRoi Jones"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT37M42.96S",
+  "shortDescription": "Den afroamerikanske forfatteren LeRoi Jones ble i januar 1968 dømt til to og et halvt års fengsel for å ha hatt uregistrerte våpen.",
+  "longDescription": "Til norsk ved Olav Hr. Rue.  (Nynorsk).\nDekor: Erik Hagen.  Instruktør: Sølve Kern.\nLeRoy Jones er ved siden av James Baldwin den fineste dikteren negrene har i\ndag, en enestående energisk og allsidig begavelse som hare 33 år gammel (1968)\nhar skrevet to diktsamlinger, en roman, en novellesamling, tre skuespill og en\nsamling politiske essays.  Han har redigert et tidsskrift, virket som\njazzkritiker og dessuten vært med på å opprette og siden lede et kultursentrum\ni fødebyen Newark i New Jersey, hvor han i januar 1968 ble dømt til to og et\nhalvt års fengsel for å ha hatt uregistert våpen.\nDenne rettssaken mot ham og to av hans venner ble stenografisk referert og det\ner referatene fra den siste del av prosessen Fjernsynsteatret fremtiller.\nSaken belyser klart hvor langt det er igjen før \"hvit\" og \"svart\" blir glemte\nbegreper.\nDe som er med:\nDommer Kapp ................. Per GJERSØE\nForsvarer Mr. Booker ........ Roy BJØRNSTAD\nforsvarer Mr. Mischel ....... Frimann Falck CLAUSEN\nLeRoi Jones ................. Jon HEGGEDAL\nMcCray ...................... Nils Ole OFTEBRO\nBarry Wynn .................. Hallvard LYDVO\nRettstjener ................. Eugen SELMER\nRettsherold ................. Knut HULTGREN\nKommentator ................. Odd FURØY",
+  "image": {
+    "imageInfo": {
+      "id": "x_W12Y8ZlJQcOl_40h1JVg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.2107522,
+        "width": 1.0,
+        "height": 0.534301341
+      }
+    },
+    "imageWidthCropInfo": "x_W12Y8ZlJQcOl_40h1JVg?x=0.00000000000000000&y=0.21075219790497565&w=1.00000000000000000&h=0.53430134680134680",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/x_W12Y8ZlJQcOl_40h1JVgLg-BxQzt885ihOtQn4Norw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/x_W12Y8ZlJQcOl_40h1JVgZpCI5CJG0pRihOtQn4Norw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/x_W12Y8ZlJQcOl_40h1JVgtK8Uw0ILhWBihOtQn4Norw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/x_W12Y8ZlJQcOl_40h1JVgY4FqtvBdNhpihOtQn4Norw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "rettssaker",
+    "diskriminering",
+    "rasisme",
+    "opptøyer"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "rettssaker",
+    "diskriminering",
+    "rasisme",
+    "opptøyer"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Eugen Selmer",
+      "role": "Skuespiller",
+      "givenName": "Eugen",
+      "familyName": "Selmer"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-34563600000+0100)/",
+    "actualTransmissionDate": "/Date(-34563600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-34563600000+0100)/",
+    "actualTransmissionDate": "/Date(-34563600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1439006100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Eugen Selmer",
+      "role": "Skuespiller",
+      "givenName": "Eugen",
+      "familyName": "Selmer"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004468&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT37M43S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004468&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004468&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004468&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00004468&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA004468-AR-199314072"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-11-1968",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA004468-AR-199314072",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

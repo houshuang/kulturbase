@@ -1,0 +1,281 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001779"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000879"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001779",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60024",
+  "seasonNumber": "1980",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "25.03.1980",
+  "episodeTitle": "Påske",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001779",
+  "title": "Påske",
+  "originalTitle": "Påske",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Påske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Påske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Påske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Påske"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H37M21.96S",
+  "shortDescription": "Faren sitter i fengsel for underslag og datteren er lagt inn på sykehus med depresjon. Tre påskedager med uro, angst og lidelse. Av August Strindberg.",
+  "longDescription": "Forfatter: August Strindberg.\nOversatt og instruert av Per Bronken.\nSminke: Anne Beth Thoeneie.\nKostymer:  Mabi Hellweg.\nDekor: Grethe Hejer.\nDe som er med:  Elis .............. Odd FURØY\n                Kristine .......... Marie Louise TANK\n                Eleonora .......... Minken FOSHEIM\n                Benjamin .......... Svein TINDBERG\n                Fru Heyst ......... Ragnhild MICHELSEN\n                Lindkvist ......... Gunnar OLRAM",
+  "image": {
+    "imageInfo": {
+      "id": "mu0e8oG1gKZILosgO9wzQg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.00178108807,
+        "width": 1.0,
+        "height": 0.9982189
+      }
+    },
+    "imageWidthCropInfo": "mu0e8oG1gKZILosgO9wzQg?x=0.00000000000000000&y=0.00178108808290152&w=1.00000000000000000&h=0.99821891191709840",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/mu0e8oG1gKZILosgO9wzQgYNiSxfAEPZlAAuAR8mTL3Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mu0e8oG1gKZILosgO9wzQgH6qriRR6KRdAAuAR8mTL3Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mu0e8oG1gKZILosgO9wzQgtB4DFPzdGHlAAuAR8mTL3Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/mu0e8oG1gKZILosgO9wzQg7TbNKh9w4GFAAuAR8mTL3Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "skuespill",
+    "drama",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(322786800000+0100)/",
+    "actualTransmissionDate": "/Date(322786800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(322786800000+0100)/",
+    "actualTransmissionDate": "/Date(322786800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Odd Furøy",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Furøy"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Svein Tindberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Tindberg"
+    },
+    {
+      "name": "Gunnar Olram",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Olram"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001779&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H37M22S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001779&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001779&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001779&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001779&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001779-AR-199102077"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-03-1980",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001779-AR-199102077",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1979
+}

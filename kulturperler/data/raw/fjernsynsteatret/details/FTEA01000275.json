@@ -1,0 +1,443 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01000275"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001275"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01000275",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60020",
+  "seasonNumber": "1976",
+  "episodeNumber": 2,
+  "episodeNumberOrDate": "13.01.1976",
+  "episodeTitle": "Løperne",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA01000275",
+  "title": "Løperne",
+  "originalTitle": "Løperne",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Løperne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Løperne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Løperne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Løperne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H1M40.92S",
+  "shortDescription": "Toppidretten utnyttes av utstyrsfabrikanter og massemedier. Idrettens normer, mål og utvikling påvirkes av krefter utenfor idretten. Av Odd Selmer.",
+  "longDescription": "Av Odd Selmer.\nToppidretten utnyttes og utbyttes av utstyrsfabrikanter og massemedier,\nidrettens normer, mål og utvikling påvirkes avgjørende av krefter utenfor\nidretten.  \"Løperne\" tar opp dette problemet.\nFILM del 1:\nLyd inn 3\" før bildet.  Holmenkollrenn.  Skiløpere fra flere nasjoner med\nskismøring.  Publikum.  De kongelige.  Deltagerne.  Hjemme hos en venninne til\nen av de norske skiløperne.  To venninner i samtale om å ha menn som driver\nidrett.  Arne i løypa.  Flere løpere i løypa.  Hotellrommet til Arne hvor\ntreneren og en kamerat holder til.  Det har ikke gått så bra for Arne.\nI hotellresepsjonen med journalister som intv. Arne.  Skiløperne i samtale i\nrestauranten.  Arne bestiller en drink i baren - to jenter kommer og setter seg\nhos ham, den ene blir med på rommet.  Jenta kler på seg, Arne ligger på senga.\nArne hos sin venninne Anne.  Avisoverskrifter.  Arne i avisredaksjon og snakker\nmed journalisten.  Arne hos en idrettsmann som har lagt opp.  En representant\nfor firmaet \"Bischmannski\" vil at gutta skal bruke disse.  Arne og annen\nskiløper kommer til et hotell.  (ca 30').\nFILM del 2:\nLysløyperenn i hjemtraktene til Arne.  Han hilder på gamle kjente.  Hos Oscar\ni forretningen.  Skitrening på Rondablikk Hotell.  Ute i løypa.  Tidtaking.\nI peisestua om kvelden.  Skifabrikanten i samtale med tre av løperne om å gå\nover til Bischmannski.  Skismøring.  På skitur i Rondane.  Arne får ikke\nbli med til Falun - tidene hans er for dårlige.  TV-reportasje ved Arne SCHEIE\nhso skigutta.  Arne hos forhandler for parkas.  Arne på hybelen sin - ser på\nTV.  Arne på kontoret sitt.  Overføring av stafett fra Falun - Arne ligger og\nser på.  Arne hos Gustav på bilverkstedet.  Arne hos Anne - de blir uvenner,\nAnne vil ikke bli idrettsbrud.  På vei til løp på Lillehammer.  Anne i\nsportsutstyr på vei ut av leiligheten. (29'34\").\nDe som er med:\nArne Bruslåen ................ Vidar SANDEM\nAnne ......................... Randi KOCH\nEva Bårdset .................. Eva SOLBAKKEN\nGustav ....................... Erik HIVJU\nGram ......................... Jack FJELDSTAD\nHans Ulleland ................ Bjørn FLOBERG\nFritjof Bårdset .............. Ståle BJØRNHAUG\nOle Harr ..................... Thor AAMODT\nBiggen ....................... Eyolf Soth KLØVIG\nAgnar Brenni ................. Roy BJØRNSTAD\nOscar Lien ................... Wilfred BREISTRAND\nJansen ....................... Arne AAS\nKonfeksjonsdirektøren ........ Helge REISS\nTreneren ..................... Nils Ole OFTEBRO",
+  "image": {
+    "imageInfo": {
+      "id": "L-9zru3EVaQS6YQKVNG-bw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.140216425,
+        "width": 1.0,
+        "height": 0.6787765
+      }
+    },
+    "imageWidthCropInfo": "L-9zru3EVaQS6YQKVNG-bw?x=0.00000000000000000&y=0.14021643109540632&w=1.00000000000000000&h=0.67877650176678450",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/L-9zru3EVaQS6YQKVNG-bwJOA6Cs8QGGTmXTzlJTU8HA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/L-9zru3EVaQS6YQKVNG-bwpN1Pn3gUD0jmXTzlJTU8HA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/L-9zru3EVaQS6YQKVNG-bwkSW60z4zrITmXTzlJTU8HA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/L-9zru3EVaQS6YQKVNG-bwuOh5UaitCL3mXTzlJTU8HA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "May-Brith Nilsen",
+      "role": "Skuespiller",
+      "givenName": "May-Brith",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Eva Solbakken",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Solbakken"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Andreas Pfeiffer",
+      "role": "Skuespiller",
+      "givenName": "Andreas",
+      "familyName": "Pfeiffer"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Magnus Tveit",
+      "role": "Skuespiller",
+      "givenName": "Magnus",
+      "familyName": "Tveit"
+    },
+    {
+      "name": "Ulf Fjoran",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Fjoran"
+    },
+    {
+      "name": "Bjørge Lillelien",
+      "role": "Skuespiller",
+      "givenName": "Bjørge",
+      "familyName": "Lillelien"
+    },
+    {
+      "name": "Arne Scheie jr.",
+      "role": "Skuespiller",
+      "givenName": "Arne Scheie",
+      "familyName": "jr."
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(190335600000+0100)/",
+    "actualTransmissionDate": "/Date(190335600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(190335600000+0100)/",
+    "actualTransmissionDate": "/Date(190335600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "May-Brith Nilsen",
+      "role": "Skuespiller",
+      "givenName": "May-Brith",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Eva Solbakken",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Solbakken"
+    },
+    {
+      "name": "Randi Koch",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Koch"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Ståle Bjørnhaug",
+      "role": "Skuespiller",
+      "givenName": "Ståle",
+      "familyName": "Bjørnhaug"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Eyolf Soot Kløvig",
+      "role": "Skuespiller",
+      "givenName": "Eyolf Soot",
+      "familyName": "Kløvig"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Andreas Pfeiffer",
+      "role": "Skuespiller",
+      "givenName": "Andreas",
+      "familyName": "Pfeiffer"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Magnus Tveit",
+      "role": "Skuespiller",
+      "givenName": "Magnus",
+      "familyName": "Tveit"
+    },
+    {
+      "name": "Ulf Fjoran",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Fjoran"
+    },
+    {
+      "name": "Bjørge Lillelien",
+      "role": "Skuespiller",
+      "givenName": "Bjørge",
+      "familyName": "Lillelien"
+    },
+    {
+      "name": "Arne Scheie jr.",
+      "role": "Skuespiller",
+      "givenName": "Arne Scheie",
+      "familyName": "jr."
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000275&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H1M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000275&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000275&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000275&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01000275&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA010275-AR-199206154"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "13-01-1976",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA010275-AR-199206154",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1975
+}

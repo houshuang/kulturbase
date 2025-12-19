@@ -1,0 +1,257 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000375"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000675"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000375",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60019",
+  "seasonNumber": "1975",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "28.10.1975",
+  "episodeTitle": "De landflyktige",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000375",
+  "title": "De landflyktige",
+  "originalTitle": "De landflyktige",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "De landflyktige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "De landflyktige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De landflyktige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "De landflyktige"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H23M9.96S",
+  "shortDescription": "En irsk forfatter, Richard Rowan, og hans kone Bertha, kommer tilbake til Dublin etter flere års eksil i Italia. Av James Joyce.",
+  "longDescription": "Av James Joyce.  Oversatt av Elisabeth Thams.\nDekor: Grethe Hejer.\nKostymer: Mabi Helweg.\nInstruktør:  Per Bronken.\nEneste skuespill av Joyce, \"Exiles\" 1915.\nHandler om en irsk forfatter, Richard Rowan, og hans Bertha, som etter års\neksil i Italia, kommer tilbake til Dublin.  Den litterære inspirasjonskilden\ntil stykket er Henrik Ibsens \"Når vi døde vågner\".  Intrigen i stykket bygger\npå selvopplevelse.\nDe som er med:\nRichard Rowan ............... Ole-Jørgen NILSEN\nBertha Rowan ................ Bente BØRSUM\nBeatrice Justice ............ Tone SCHWARZOTT\nRobert Hand ................. Per CHRISTENSEN",
+  "image": {
+    "imageInfo": {
+      "id": "NiOOLW74qPbM2zlBPtSU2g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0532443561,
+        "width": 1.0,
+        "height": 0.6845703
+      }
+    },
+    "imageWidthCropInfo": "NiOOLW74qPbM2zlBPtSU2g?x=0.00000000000000000&y=0.05324435763888889&w=1.00000000000000000&h=0.68457031250000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/NiOOLW74qPbM2zlBPtSU2gkvj14Ncd_l9QprhMte8Q6w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NiOOLW74qPbM2zlBPtSU2g7183OM6c27RQprhMte8Q6w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NiOOLW74qPbM2zlBPtSU2geFjxs71efMZQprhMte8Q6w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/NiOOLW74qPbM2zlBPtSU2gBdTvBtSTyD5QprhMte8Q6w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(183682800000+0100)/",
+    "actualTransmissionDate": "/Date(183682800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(183682800000+0100)/",
+    "actualTransmissionDate": "/Date(183682800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438833300000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Tone Schwarzott",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Schwarzott"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000375&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H23M10S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000375&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000375&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000375&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000375&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000375-AR-199211235"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "28-10-1975",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000375-AR-199211235",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1975
+}

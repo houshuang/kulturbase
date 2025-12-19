@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001976"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00002276"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001976",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "10.05.1977",
+  "episodeTitle": "Kva Joe?",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00001976",
+  "title": "Kva Joe?",
+  "originalTitle": "Kva Joe?",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Kva Joe?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Kva Joe?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kva Joe? (Hva Joe?)"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Kva Joe?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT26M51.96S",
+  "shortDescription": "Å sjå stykket er som å vere inne i eit menneske i ferd med å døy. Gamle einslege seier ikke noko, men blir konfrontert av ei røyst. Av Samuel Beckett.",
+  "longDescription": "Av Samuel Beckett.  Oversatt og instruert av Bjørn Endreson (nynorsk).\nÅ se stykket til Samuel Beckett er som å være inne i et menneske som holder på\nå dø.  Noen handling i vanlig mening har ikke stykket.  Noen dialog finnes\nheller ikke, for på scenen er bare et eneste vesen: gamle enslige Joe.  Han\nsier ikke noe, men vi hører en stemme, lav, fjern og uten medynk.  Det er\nstemmen inni Joe.\nDe som er med:  Joe ............... Gisle STRAUME\n                Stemmen ........... Tordis MAURSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "yxwSCIW8h8he-BqHXtIarQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0223958325,
+        "width": 1.0,
+        "height": 0.671875
+      }
+    },
+    "imageWidthCropInfo": "yxwSCIW8h8he-BqHXtIarQ?x=0.00000000000000000&y=0.02239583333333333&w=1.00000000000000000&h=0.67187500000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/yxwSCIW8h8he-BqHXtIarQR-t8buh08dhuvk-3j-FVTg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yxwSCIW8h8he-BqHXtIarQzH3iRNbdGwZuvk-3j-FVTg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yxwSCIW8h8he-BqHXtIarQGe94fBL88a1uvk-3j-FVTg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/yxwSCIW8h8he-BqHXtIarQJPZWs7XKLptuvk-3j-FVTg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Tordis Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Tordis",
+      "familyName": "Maurstad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(232063200000+0200)/",
+    "actualTransmissionDate": "/Date(232063200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(232063200000+0200)/",
+    "actualTransmissionDate": "/Date(232063200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Tordis Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Tordis",
+      "familyName": "Maurstad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001976&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT26M52S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001976&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001976&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001976&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001976&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001976-AR-199204039"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-05-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001976-AR-199204039",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1976
+}

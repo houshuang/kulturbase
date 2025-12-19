@@ -1,0 +1,315 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005381"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005381",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60025",
+  "seasonNumber": "1981",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "29.12.1981",
+  "episodeTitle": "Byggmester Solness",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00005381",
+  "title": "Byggmester Solness",
+  "originalTitle": "Byggmester Solness",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Byggmester Solness"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Byggmester Solness"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Byggmester Solness"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Byggmester Solness"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fjernsynsteatret 1981: Byggmester Solness"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H54M0.96S",
+  "shortDescription": "Drama av Henrik Ibsen. Byggmesteren er en gammel mann som opplever offentlig suksess, men også private demoner.",
+  "longDescription": "Av Henrik Ibsen.  Musikk: Kåre Kolberg.\n\n\nInnspilt av Kringkastingsorkestret.  Dirigent: Sverre Bruland.\n\n\nRegi: Terje Mærli\n\n\nDe som er med:  Byggmester Solness ............... Kjell STORMOEN\n\n\n                Fru Solness ...................... Rut TELLEFSEN\n\n\n                Doktor Herdal .................... Joachim CALMEYER\n\n\n                Knut Brovik ...................... Bjarne ANDERSEN\n\n\n                Kaja Fosli ....................... Tone DANIELSEN\n\n\n                Hilde Wangel ..................... Minken FOSHEIM\n\n\n                Stuepiken ........................ Pia TELLEFSEN",
+  "image": {
+    "imageInfo": {
+      "id": "HNalScZDVoURzZa5XsA0Sw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.101386219,
+        "width": 1.0,
+        "height": 0.6760817
+      }
+    },
+    "imageWidthCropInfo": "HNalScZDVoURzZa5XsA0Sw?x=0.00000000000000000&y=0.10138621800000000&w=1.00000000000000000&h=0.67608173100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/HNalScZDVoURzZa5XsA0SwILQ1u41zDRqF-Xq9U0lmLA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HNalScZDVoURzZa5XsA0Sw4XBsDHexOOmF-Xq9U0lmLA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HNalScZDVoURzZa5XsA0Sw9I3s7AT2iPeF-Xq9U0lmLA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/HNalScZDVoURzZa5XsA0Sw8XZG6LP7oLmF-Xq9U0lmLA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama, aldring",
+    "konflkter",
+    "suksess",
+    "nederlag",
+    "forfengelighet",
+    "branner",
+    "byggmestere"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama, aldring",
+    "konflkter",
+    "suksess",
+    "nederlag",
+    "forfengelighet",
+    "branner",
+    "byggmestere"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Pia Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Pia",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(378428400000+0100)/",
+    "actualTransmissionDate": "/Date(378428400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(879712200000+0100)/",
+    "actualTransmissionDate": "/Date(879712200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391662500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Pia Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Pia",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Rut Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Rut",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Bjarne Andersen",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005381&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H54M1S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005381&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005381&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005381&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005381&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA005381-AR-199002083"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "29-12-1981",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA005381-AR-199002083",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1981
+}

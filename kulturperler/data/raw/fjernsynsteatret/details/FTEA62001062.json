@@ -1,0 +1,245 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62001062"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62001762"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62001062",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 20,
+  "episodeNumberOrDate": "08.11.1962",
+  "episodeTitle": "Stolene",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62001062",
+  "title": "Stolene",
+  "originalTitle": "Stolene",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Stolene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Stolene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stolene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stolene"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H16M8.8S",
+  "shortDescription": "Farse av Eugène Ionesco. Et eldre ektepar bor alene i et hus ved sjøen. I sin ensomhet holder de seg travle med gamle minner, rester av sin tidligere ungdom og vitser de gjentar.",
+  "longDescription": "Av den franske dramatikeren Eugene Ionesco.\nOversatt av Stein Bugge.\nDekor: Hermann Bendixen.\nInstruktør: Yngve Nordwall.\nDet senile ekteparet på 94 og 95 år holder et innbilt selskap med innbilte,\nfornemme gjester.  En foredragsholder skal forkynne den gamle mannens\nrevolusjonerende budskap.  Stykket blottlegger to gamle menneskers tapte\ndrømmer.  De kaster seg til slutt ut av vinduet og ned i havet, mens \"taleren\"\nviser seg å være døvstum.\nI rollene:\nDen gamle mannen ............ Per GJERSØE\nDen gamle konen ............. Randi NORDBY\nTaleren ..................... Knut M. HANSSON",
+  "image": {
+    "imageInfo": {
+      "id": "JZRTmyFwsigxJDguOZ57iQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.154850185,
+        "width": 1.0,
+        "height": 0.7338552
+      }
+    },
+    "imageWidthCropInfo": "JZRTmyFwsigxJDguOZ57iQ?x=0.00000000000000000&y=0.15485018500000000&w=1.00000000000000000&h=0.73385518600000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/JZRTmyFwsigxJDguOZ57iQZcSQGDitNjPkW2Dl5kPFLA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JZRTmyFwsigxJDguOZ57iQHOH4DKNYPrvkW2Dl5kPFLA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JZRTmyFwsigxJDguOZ57iQgeQxWH3L3wPkW2Dl5kPFLA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/JZRTmyFwsigxJDguOZ57iQTYwzCGi6davkW2Dl5kPFLA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "farse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "farse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-225594000000+0100)/",
+    "actualTransmissionDate": "/Date(-225594000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-225594000000+0100)/",
+    "actualTransmissionDate": "/Date(-225594000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1422593700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Randi Nordby",
+      "role": "Skuespiller",
+      "givenName": "Randi",
+      "familyName": "Nordby"
+    },
+    {
+      "name": "Per Gjersøe",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Gjersøe"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001062&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H16M8S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001062&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001062&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001062&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62001062&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62001062-AR-199416126"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "08-11-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62001062-AR-199416126",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

@@ -1,0 +1,871 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00005183"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01005182"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00005183",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60027",
+  "seasonNumber": "1983",
+  "episodeNumber": 6,
+  "episodeNumberOrDate": "30.08.1983",
+  "episodeTitle": "Semmelweis",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00005183",
+  "title": "Semmelweis",
+  "originalTitle": "Semmelweis",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Harmdirrende Bjørneboe-skuespill"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Semmelweis"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H4M44S",
+  "shortDescription": "Jens Bjørneboes skuespill Semmelweis, den ungarske fødselslegen som kjempet mot autoritetene og overvinner barselfeberen. Innspilling fra 1983.",
+  "longDescription": "Av Jens Bjørneboe.  Musikk: Gunnar Sønstevold.  Regi: Terje Mærli.\nIgnaz Philipp Semmelweis (1818 - 1865) er en foregangsmann i medisinens\nhistorie, særlig kjent for sin forskning omkring barselfeberens årsaker.\nJens Bjørneboes skuespill fra 1968 beskriver den motstand Semmelweis\nmøtte hos autoritetene.\nDe som er med : Semmelweis ..................... Nils Ole OFTEBRO\n                Klein, rektor .................. Kjell STORMOEN\n                Markuzovsky .................... Jan FROSTAD\n                Studentleder, Maria, Sophie\n                Maria Weidenhofer .............. Kjersti HOLMEN\n                Studentleder, kelner, lakei .... Jan GRØNLI\n                Skoda .......................... Lars Andreas LARSSEN\n                Kolletscha ..................... Sverre Anker OUSDAL\n                Justisministeren ............... Kaare KROPPAN\n                Nattmannen ..................... Jack FJELDSTAD\n                Tandler ........................ Per FRISCH\n                Lotte, Anna .................... Janny Hoff BREKKE\n                Vertinne, jordmor .............. Kirsten HOFSETH\n                Studenter ...................... Bjørn BIRCH-AUNE\n                                                 Lars BRUNBORG\n                                                 Preben DIETRICHSON\n                                                 Ragnar DYRESEN\n                                                 John Sigurd KRISTENSEN\n                                                 Per Åge MYRDAL\n                                                 Hans Jakob SAND\n                Portører ....................... Frank IVERSEN\n                                                 Hallvard LYDVO\n                Politioffiser .................. Rolf Arly LUND\n                Politisoldater ................. Erik LIE\n                                                 Dag SANDVIK\n                                                 Knut VARDTUN\n                Politiagent .................... Rolf IVERSEN\n                Politisjef ..................... Peter LINDBÆK\n                Biskop, prest .................. Per TOFTE\n                Arrestant i Budapest ........... Geo von KROGH\n                Professorer .................... Helge REISS\n                                                 Sverre WILBERG\n                Dubois ......................... Knut M. HANSSON\n                Hohl ........................... Per CHRISTENSEN d.e.\n                Lumpe .......................... Erik ØKSNES\n                Braun .......................... Bjørn JENSEG\n                Virchow ........................ Pål SKJØNBERG\n                Breisky ........................ Øivind ØYEN\n                Küchenmeister ................. Arne AAS\n                Scanzoni ....................... Joachim CALMEYER\n                Sp??th ......................... Lars WIKDAHL\n                Sanger ......................... Sven NORDIN\n                Dirigent ....................... Bjørn-Henning OWE\n                Goldonis skuespillertrupp ...... Jan GRØNLI,\n                                                 John Sigurd KRISTENSEN\n                                                 Rolf Arly LUND\n                                                 Bjarne HJELDE\n                                                 Jon BERLE\n                                                 Lillian LYDERSEN\n                                                 Anders HATLO\n                                                 Pia BORGLI\n                For øvrig medvirket ............ Tone DANIELSEN\n                                                 Anne Marie OTTERSEN\n                                                 Lilla NILSSEN\n                                                 Bente USTERUD-SVENDSEN",
+  "image": {
+    "imageInfo": {
+      "id": "ZcfN3WpyHg4l3ctdDypjaA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.140496179,
+        "width": 1.0,
+        "height": 0.7024809
+      }
+    },
+    "imageWidthCropInfo": "ZcfN3WpyHg4l3ctdDypjaA?x=0.00000000000000000&y=0.14049618320610688&w=1.00000000000000000&h=0.70248091603053430",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ZcfN3WpyHg4l3ctdDypjaAWYrWMBA9DZZ6fCrW4i0HKw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZcfN3WpyHg4l3ctdDypjaABdsnsa2U8yZ6fCrW4i0HKw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZcfN3WpyHg4l3ctdDypjaAveA3FP0_5OB6fCrW4i0HKw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ZcfN3WpyHg4l3ctdDypjaAPCqClv2szfR6fCrW4i0HKw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "legevitenskap",
+    "barselfeber",
+    "hygiene",
+    "semmelweis",
+    "jens bjørneboe"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "legevitenskap",
+    "barselfeber",
+    "hygiene",
+    "semmelweis",
+    "jens bjørneboe"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Jan Grønli",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Grønli"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Janny Hoff Brekke",
+      "role": "Skuespiller",
+      "givenName": "Janny Hoff",
+      "familyName": "Brekke"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Bjørn Birch-Aune",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Birch-Aune"
+    },
+    {
+      "name": "Lars Brunborg",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Brunborg"
+    },
+    {
+      "name": "Preben Dietrichson",
+      "role": "Skuespiller",
+      "givenName": "Preben",
+      "familyName": "Dietrichson"
+    },
+    {
+      "name": "Ragnar Dyresen",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Dyresen"
+    },
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Per Åge Myrdal",
+      "role": "Skuespiller",
+      "givenName": "Per Åge",
+      "familyName": "Myrdal"
+    },
+    {
+      "name": "Hans Jacob Sand",
+      "role": "Skuespiller",
+      "givenName": "Hans Jacob",
+      "familyName": "Sand"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Erik Lie",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Dag Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Dag",
+      "familyName": "Sandvik"
+    },
+    {
+      "name": "Knut Vardtun",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Vardtun"
+    },
+    {
+      "name": "Rolf Iversen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Peter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Geo von Krogh",
+      "role": "Skuespiller",
+      "givenName": "Geo von",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Christensen Per",
+      "role": "Skuespiller",
+      "givenName": "Christensen",
+      "familyName": "Per"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Lars Wikdahl",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Wikdahl"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Bjørn-Henning Owe",
+      "role": "Skuespiller",
+      "givenName": "Bjørn-Henning",
+      "familyName": "Owe"
+    },
+    {
+      "name": "Bjarne Hjelde",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Hjelde"
+    },
+    {
+      "name": "Jon Berle",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Berle"
+    },
+    {
+      "name": "Lillian Lydersen",
+      "role": "Skuespiller",
+      "givenName": "Lillian",
+      "familyName": "Lydersen"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Pia Borgli",
+      "role": "Skuespiller",
+      "givenName": "Pia",
+      "familyName": "Borgli"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Lilla Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Lilla",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Bente Usterud-Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Usterud-Svendsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(431042400000+0200)/",
+    "actualTransmissionDate": "/Date(431042400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(431042400000+0200)/",
+    "actualTransmissionDate": "/Date(431042400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1403322900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Kjersti Holmen",
+      "role": "Skuespiller",
+      "givenName": "Kjersti",
+      "familyName": "Holmen"
+    },
+    {
+      "name": "Jan Grønli",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Grønli"
+    },
+    {
+      "name": "Lars Andreas Larssen",
+      "role": "Skuespiller",
+      "givenName": "Lars Andreas",
+      "familyName": "Larssen"
+    },
+    {
+      "name": "Sverre Anker Ousdal",
+      "role": "Skuespiller",
+      "givenName": "Sverre Anker",
+      "familyName": "Ousdal"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Per Frisch",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Frisch"
+    },
+    {
+      "name": "Janny Hoff Brekke",
+      "role": "Skuespiller",
+      "givenName": "Janny Hoff",
+      "familyName": "Brekke"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Bjørn Birch-Aune",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Birch-Aune"
+    },
+    {
+      "name": "Lars Brunborg",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Brunborg"
+    },
+    {
+      "name": "Preben Dietrichson",
+      "role": "Skuespiller",
+      "givenName": "Preben",
+      "familyName": "Dietrichson"
+    },
+    {
+      "name": "Ragnar Dyresen",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Dyresen"
+    },
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Per Åge Myrdal",
+      "role": "Skuespiller",
+      "givenName": "Per Åge",
+      "familyName": "Myrdal"
+    },
+    {
+      "name": "Hans Jacob Sand",
+      "role": "Skuespiller",
+      "givenName": "Hans Jacob",
+      "familyName": "Sand"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Hallvard Lydvo",
+      "role": "Skuespiller",
+      "givenName": "Hallvard",
+      "familyName": "Lydvo"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Erik Lie",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Dag Sandvik",
+      "role": "Skuespiller",
+      "givenName": "Dag",
+      "familyName": "Sandvik"
+    },
+    {
+      "name": "Knut Vardtun",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Vardtun"
+    },
+    {
+      "name": "Rolf Iversen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Peter Lindbæk",
+      "role": "Skuespiller",
+      "givenName": "Peter",
+      "familyName": "Lindbæk"
+    },
+    {
+      "name": "Per Tofte",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Tofte"
+    },
+    {
+      "name": "Geo von Krogh",
+      "role": "Skuespiller",
+      "givenName": "Geo von",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Helge Reiss",
+      "role": "Skuespiller",
+      "givenName": "Helge",
+      "familyName": "Reiss"
+    },
+    {
+      "name": "Sverre Wilberg",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Wilberg"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Christensen Per",
+      "role": "Skuespiller",
+      "givenName": "Christensen",
+      "familyName": "Per"
+    },
+    {
+      "name": "Erik Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Øksnes"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Pål Skjønberg",
+      "role": "Skuespiller",
+      "givenName": "Pål",
+      "familyName": "Skjønberg"
+    },
+    {
+      "name": "Øyvind Øyen",
+      "role": "Skuespiller",
+      "givenName": "Øyvind",
+      "familyName": "Øyen"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    },
+    {
+      "name": "Joachim Calmeyer",
+      "role": "Skuespiller",
+      "givenName": "Joachim",
+      "familyName": "Calmeyer"
+    },
+    {
+      "name": "Lars Wikdahl",
+      "role": "Skuespiller",
+      "givenName": "Lars",
+      "familyName": "Wikdahl"
+    },
+    {
+      "name": "Sven Nordin",
+      "role": "Skuespiller",
+      "givenName": "Sven",
+      "familyName": "Nordin"
+    },
+    {
+      "name": "Bjørn-Henning Owe",
+      "role": "Skuespiller",
+      "givenName": "Bjørn-Henning",
+      "familyName": "Owe"
+    },
+    {
+      "name": "Bjarne Hjelde",
+      "role": "Skuespiller",
+      "givenName": "Bjarne",
+      "familyName": "Hjelde"
+    },
+    {
+      "name": "Jon Berle",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Berle"
+    },
+    {
+      "name": "Lillian Lydersen",
+      "role": "Skuespiller",
+      "givenName": "Lillian",
+      "familyName": "Lydersen"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Pia Borgli",
+      "role": "Skuespiller",
+      "givenName": "Pia",
+      "familyName": "Borgli"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Lilla Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Lilla",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Bente Usterud-Svendsen",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Usterud-Svendsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H6M4S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00015183-AR-199006138"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT58M40S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00005183&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00025183-AR-199006138"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-08-1983",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00015183-AR-199006138",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1983
+}

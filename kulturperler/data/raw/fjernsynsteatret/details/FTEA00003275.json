@@ -1,0 +1,243 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003275"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000875"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003275",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60020",
+  "seasonNumber": "1976",
+  "episodeNumber": 5,
+  "episodeNumberOrDate": "23.03.1976",
+  "episodeTitle": "Mordet i Viorne",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00003275",
+  "title": "Mordet i Viorne",
+  "originalTitle": "Mordet i Viorne",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Mordet i Viorne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Mordet i Viorne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mordet i Viorne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Mordet i Viorne"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H17M20S",
+  "shortDescription": "De parterte delene av den døvstumme Marie-Therese Boske ble funnet på jernbanen i Frankrike i 1974. Hennes kusine, Claire Lannes, er mordersken. Av Marguerite Duras.",
+  "longDescription": "Av Marguerite Duras.  Oversatt av Elisabeth Thams.\nStykket er et gruppearbeid under ledelse av Per Christensen.\nDe parterte delene av den døvstumme Marie-Therese Boske ble funnet på jernbanen\ni Frankrike i 1974.  Hennes kusine, Claire Lannes, er mordersken.  Gjennom to\nintervjuer, med ektemannen Pierre og Claire, danner skuespillet en psykologisk\nstudie av mordersken og hennes (sinnsyke) motiver, samt samlivet med mannen og\nkusinen.\nDe som er med:\nClaire Lannes ............ Bente BØRSUM\nPierre Lannes ............ Roy BJØRNSTAD\nIntervjueren ............. Ola B. JOHANNESSEN\n(Reprise 770809).",
+  "image": {
+    "imageInfo": {
+      "id": "GkBLXcRAJZB8-bF1ud-i-w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0278716218,
+        "width": 1.0,
+        "height": 0.7166988
+      }
+    },
+    "imageWidthCropInfo": "GkBLXcRAJZB8-bF1ud-i-w?x=0.00000000000000000&y=0.02787162162162162&w=1.00000000000000000&h=0.71669884169884170",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/GkBLXcRAJZB8-bF1ud-i-wyFSJafNBA46iOLntr-hEYg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GkBLXcRAJZB8-bF1ud-i-wnqpzfYbBWd-iOLntr-hEYg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GkBLXcRAJZB8-bF1ud-i-w7BZHatlxfXWiOLntr-hEYg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/GkBLXcRAJZB8-bF1ud-i-wgZHDjwn0tRGiOLntr-hEYg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(196383600000+0100)/",
+    "actualTransmissionDate": "/Date(196383600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(196383600000+0100)/",
+    "actualTransmissionDate": "/Date(196383600000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Ola B. Johannessen",
+      "role": "Skuespiller",
+      "givenName": "Ola B.",
+      "familyName": "Johannessen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003275&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M20S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003275&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003275&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003275&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003275&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003275-AR-199206363"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-03-1976",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003275-AR-199206363",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1975
+}

@@ -1,0 +1,293 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62000162"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62003162"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62000162",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "24.05.1962",
+  "episodeTitle": "Er du våken, Angela?",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62000162",
+  "title": "Er du våken, Angela?",
+  "originalTitle": "Er du våken, Angela?",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Er du våken, Angela?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Er du våken, Angela?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Er du våken, Angela?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Er du våken, Angela?"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT47M0.64S",
+  "shortDescription": "Forviklinger oppstår når den naive og gudfryktige John Jo Mulligan skal smugle gatepiken Angela Nightingale ut av hybelleiligheten på morgenkvisten.",
+  "longDescription": "Av Sean O'Casey.  Oversatt og instruert av Gerhard Knoop.\nOrig. tittel  Bedtime Story.  En burlesk komedie.\nDekor: Sverre Andersen.\nForviklinger oppstår når den naive og gudfryktige John Jo Mulligan har hatt\n\"lettsindig omgang med synden\" og skal smugle gatepiken Angela Nightingale\nut av hylleiligheten på morgenkvisten.\nI rollene:\nJohn Jo Mulligan ............ Magne BLENESS\nAngela Nightingale .......... Kari SIMONSEN\nDaniel Halibut .............. Tom TELLEFSEN\nMiss Mossie ................. Ragnhild MICHELSEN\nEn politimann ............... Willie HOEL\nEn doktor ................... Odd REMEN\nEn sykepleierske ............ Evy ENGELSBORG",
+  "image": {
+    "imageInfo": {
+      "id": "rcMQTDhsiB3pm8y8mSoWHw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.117364369,
+        "width": 1.0,
+        "height": 0.728626966
+      }
+    },
+    "imageWidthCropInfo": "rcMQTDhsiB3pm8y8mSoWHw?x=0.00000000000000000&y=0.11736436800000000&w=1.00000000000000000&h=0.72862694300000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/rcMQTDhsiB3pm8y8mSoWHw0x5O_qqG4MD0smVu5Sa66A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rcMQTDhsiB3pm8y8mSoWHwBi22EtT9EjT0smVu5Sa66A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rcMQTDhsiB3pm8y8mSoWHw5bZllCBn9QT0smVu5Sa66A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/rcMQTDhsiB3pm8y8mSoWHw6IQE7tvKz_T0smVu5Sa66A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "komedie",
+    "farse"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "komedie",
+    "farse"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Odd Remen",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Remen"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-240112800000+0200)/",
+    "actualTransmissionDate": "/Date(-240112800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-240112800000+0200)/",
+    "actualTransmissionDate": "/Date(-240112800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1421297700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Odd Remen",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Remen"
+    },
+    {
+      "name": "Willie Hoel",
+      "role": "Skuespiller",
+      "givenName": "Willie",
+      "familyName": "Hoel"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Tom Tellefsen",
+      "role": "Skuespiller",
+      "givenName": "Tom",
+      "familyName": "Tellefsen"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000162&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT47M",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000162&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000162&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000162&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62000162&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62000162-AR-199206085"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-05-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA62000162-AR-199206085",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

@@ -1,0 +1,617 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01002690"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01002790"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01002690",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60035",
+  "seasonNumber": "1991",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "11.11.1991",
+  "episodeTitle": "Affæren Anders Jahre 1:3",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA01002690",
+  "title": "Affæren Anders Jahre 1:3",
+  "originalTitle": "Affæren Anders Jahre 1:3",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Affæren Anders Jahre 1:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Affæren Anders Jahre 1:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Affæren Anders Jahre"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Affæren Anders Jahre"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT43M34S",
+  "shortDescription": "I 1951 jakter to etterforskere på skipsreder Anders Jahres skjulte formue i utlandet. Basert på \"Eventyret Anders Jahre\" av Alf R. Jacobsen. Del 1.",
+  "longDescription": "Fjernsynsserie i tre deler basert på boka \"Eventyret Anders Jahre\" av\nAlf R. Jacobsen.  Manuskript: Alf R. Jacobsen, Lars Borg og Tore Breda\nThoresen.\nEn sommerdag i 1951 banker to unge etterforskere fra Handelsdepartementets\nkontrollkontor på døra hos skipsreder Anders Jahre.  Gjennom etterforskeren\nEndre Dinesen, fullmektig ved kontrollrommet, følger vi en av de mest\noppsiktsvekkende økokrimsaker i norsk etterkrigstid.\nI rollene:\nAnders Jahre .......................... Per CHRISTENSEN\nEndre Dinesen ......................... Reidar SØRENSEN\nIngeborg Dinesen ...................... Ingrid VOLLAN\nBorger With ........................... Nils Ole OFTEBRO\nEgil Gunneng .......................... Morten FALDAAS\nThomas Løvold ......................... Bjørn SUNDQUIST\nErik Brofoss .......................... Erik HIVJU\nSvein Foyn Bruun ...................... Alf NORDVANG\nFrithjof Bettum ....................... Per Theodor HAUGEN\nFor øvrig medvirker: Wilfred BREISTRAND, Per LILLO-STENBERG, Kalle ØBY,\nKjell KJÆR, Kyrre Haugen BAKKE,  Odd REMEN, Janken VARDEN, Knut RISAN,\nHenrik SCHEELE, Oda SCHJØLL, Nicolay LANGE-NIELSEN, Bertil MALMQUIST,\nAnders BRUSE og Lennart LAGERWALL.\nRegi: Tore Breda Thoresen.  Sminke: Kari Wigre.  Kostyme: Torkil Ranum.\nScenograf: Petter Bjerke-Lindstrøm.  Foto: Bengt Kristiansen.\nMusikk: Anne Grete Preus.",
+  "image": {
+    "imageInfo": {
+      "id": "5-e8fvhn4MTJkUT3NSKwhg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9984015
+      }
+    },
+    "imageWidthCropInfo": "5-e8fvhn4MTJkUT3NSKwhg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.99840153452685430",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5-e8fvhn4MTJkUT3NSKwhgflD8tY1NPeZkaRX3Ln2X8w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5-e8fvhn4MTJkUT3NSKwhgbm5poPWSn3VkaRX3Ln2X8w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5-e8fvhn4MTJkUT3NSKwhgBWOhziDIFpBkaRX3Ln2X8w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5-e8fvhn4MTJkUT3NSKwhg5oo_QcPONwxkaRX3Ln2X8w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "dramaserie",
+    "fjernsynsdrama",
+    "økonomisk kriminalitet"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "dramaserie",
+    "fjernsynsdrama",
+    "økonomisk kriminalitet"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Tore Breda Thoresen",
+      "role": "Regissør",
+      "givenName": "Tore Breda",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Tore Breda Thoresen",
+      "role": "Manusforfatter",
+      "givenName": "Tore Breda",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Alf R. Jacobsen",
+      "role": "Manusforfatter",
+      "givenName": "Alf R.",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Lars Borg",
+      "role": "Manusforfatter",
+      "givenName": "Lars",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Anne Grete Preus",
+      "role": "Komponist",
+      "givenName": "Anne Grete",
+      "familyName": "Preus"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Ingrid Vollan",
+      "role": "Skuespiller",
+      "givenName": "Ingrid",
+      "familyName": "Vollan"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Morten M. Faldaas",
+      "role": "Skuespiller",
+      "givenName": "Morten M.",
+      "familyName": "Faldaas"
+    },
+    {
+      "name": "Henrik Scheele",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Scheele"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Alf Nordvang",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Nordvang"
+    },
+    {
+      "name": "Odd Remen",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Remen"
+    },
+    {
+      "name": "Tor Blaha",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Blaha"
+    },
+    {
+      "name": "Per Hansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Janken Varden",
+      "role": "Skuespiller",
+      "givenName": "Janken",
+      "familyName": "Varden"
+    },
+    {
+      "name": "Bruce Alan",
+      "role": "Skuespiller",
+      "givenName": "Bruce",
+      "familyName": "Alan"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Kyrre Haugen Bakke",
+      "role": "Skuespiller",
+      "givenName": "Kyrre Haugen",
+      "familyName": "Bakke"
+    },
+    {
+      "name": "Kalle Øby",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Øby"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Nicolay Lange-Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Nicolay",
+      "familyName": "Lange-Nielsen"
+    },
+    {
+      "name": "Tønsberg Swing Jazz Group",
+      "role": "Orkester",
+      "givenName": "Tønsberg Swing Jazz",
+      "familyName": "Group"
+    },
+    {
+      "name": "Erna Mørch",
+      "role": "Skuespiller",
+      "givenName": "Erna",
+      "familyName": "Mørch"
+    },
+    {
+      "name": "Bertil Malmquist",
+      "role": "Skuespiller",
+      "givenName": "Bertil",
+      "familyName": "Malmquist"
+    },
+    {
+      "name": "Anders Bruse",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Bruse"
+    },
+    {
+      "name": "Lennart Lagerwall",
+      "role": "Skuespiller",
+      "givenName": "Lennart",
+      "familyName": "Lagerwall"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(689814000000+0100)/",
+    "actualTransmissionDate": "/Date(689814000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(689814000000+0100)/",
+    "actualTransmissionDate": "/Date(689814000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437623700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Tore Breda Thoresen",
+      "role": "Regissør",
+      "givenName": "Tore Breda",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Tore Breda Thoresen",
+      "role": "Manusforfatter",
+      "givenName": "Tore Breda",
+      "familyName": "Thoresen"
+    },
+    {
+      "name": "Alf R. Jacobsen",
+      "role": "Manusforfatter",
+      "givenName": "Alf R.",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Lars Borg",
+      "role": "Manusforfatter",
+      "givenName": "Lars",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Anne Grete Preus",
+      "role": "Komponist",
+      "givenName": "Anne Grete",
+      "familyName": "Preus"
+    },
+    {
+      "name": "Reidar Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Reidar",
+      "familyName": "Sørensen"
+    },
+    {
+      "name": "Ingrid Vollan",
+      "role": "Skuespiller",
+      "givenName": "Ingrid",
+      "familyName": "Vollan"
+    },
+    {
+      "name": "Nils Ole Oftebro",
+      "role": "Skuespiller",
+      "givenName": "Nils Ole",
+      "familyName": "Oftebro"
+    },
+    {
+      "name": "Morten M. Faldaas",
+      "role": "Skuespiller",
+      "givenName": "Morten M.",
+      "familyName": "Faldaas"
+    },
+    {
+      "name": "Henrik Scheele",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Scheele"
+    },
+    {
+      "name": "Oda Schjøll",
+      "role": "Skuespiller",
+      "givenName": "Oda",
+      "familyName": "Schjøll"
+    },
+    {
+      "name": "Bjørn Sundquist",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Sundquist"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Per Christensen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Alf Nordvang",
+      "role": "Skuespiller",
+      "givenName": "Alf",
+      "familyName": "Nordvang"
+    },
+    {
+      "name": "Odd Remen",
+      "role": "Skuespiller",
+      "givenName": "Odd",
+      "familyName": "Remen"
+    },
+    {
+      "name": "Tor Blaha",
+      "role": "Skuespiller",
+      "givenName": "Tor",
+      "familyName": "Blaha"
+    },
+    {
+      "name": "Per Hansen",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Hansen"
+    },
+    {
+      "name": "Janken Varden",
+      "role": "Skuespiller",
+      "givenName": "Janken",
+      "familyName": "Varden"
+    },
+    {
+      "name": "Bruce Alan",
+      "role": "Skuespiller",
+      "givenName": "Bruce",
+      "familyName": "Alan"
+    },
+    {
+      "name": "Wilfred Breistrand",
+      "role": "Skuespiller",
+      "givenName": "Wilfred",
+      "familyName": "Breistrand"
+    },
+    {
+      "name": "Kjell Kjær",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Kjær"
+    },
+    {
+      "name": "Per Lillo-Stenberg",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Lillo-Stenberg"
+    },
+    {
+      "name": "Kyrre Haugen Bakke",
+      "role": "Skuespiller",
+      "givenName": "Kyrre Haugen",
+      "familyName": "Bakke"
+    },
+    {
+      "name": "Kalle Øby",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Øby"
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Nicolay Lange-Nielsen",
+      "role": "Skuespiller",
+      "givenName": "Nicolay",
+      "familyName": "Lange-Nielsen"
+    },
+    {
+      "name": "Tønsberg Swing Jazz Group",
+      "role": "Orkester",
+      "givenName": "Tønsberg Swing Jazz",
+      "familyName": "Group"
+    },
+    {
+      "name": "Erna Mørch",
+      "role": "Skuespiller",
+      "givenName": "Erna",
+      "familyName": "Mørch"
+    },
+    {
+      "name": "Bertil Malmquist",
+      "role": "Skuespiller",
+      "givenName": "Bertil",
+      "familyName": "Malmquist"
+    },
+    {
+      "name": "Anders Bruse",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Bruse"
+    },
+    {
+      "name": "Lennart Lagerwall",
+      "role": "Skuespiller",
+      "givenName": "Lennart",
+      "familyName": "Lagerwall"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002690&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M34S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002690&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002690&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002690&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002690&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA012690-AR-199100989"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "11-11-1991",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA012690-AR-199100989",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1990
+}

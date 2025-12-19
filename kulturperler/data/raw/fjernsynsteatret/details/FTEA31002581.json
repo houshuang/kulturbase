@@ -1,0 +1,277 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA31002581"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00006883"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea31002581",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60027",
+  "seasonNumber": "1983",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "04.10.1983",
+  "episodeTitle": "Jenny 3:3",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA31002581",
+  "title": "Jenny 3:3",
+  "originalTitle": "Jenny 3:3",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Jenny 3:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Jenny 3:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jenny 3:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Jenny 3:3"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H10M51.96S",
+  "shortDescription": "Jenny er tilbake i Roma, men har mistet livsmotet og føler seg ute av stand til å male. Etter en roman av Sigrid Undset.",
+  "longDescription": "Etter en roman av Sigrid Undset.\nDramatisert for fjernsyn av Per Bronken.\n            Rolleliste:\n            Jenny ...................... Liv ULLMANN\n            Gunnar ..................... Knut HUSEBØ\n            Fru Rasmussen .............. Bodil UDSEN\n            Loulou ..................... Karen WEGENER\n            Helge ...................... Bjørn SKAGESTAD\n            Hjerrild ................... Jens OKKING",
+  "image": {
+    "imageInfo": {
+      "id": "Rrn6a9FJBzvgT5B3Qe5bVw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.870433
+      }
+    },
+    "imageWidthCropInfo": "Rrn6a9FJBzvgT5B3Qe5bVw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.87043298344771910",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Rrn6a9FJBzvgT5B3Qe5bVw4Tp1cyughIth3yOcilnkfg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rrn6a9FJBzvgT5B3Qe5bVwxXfRTD1RT4Rh3yOcilnkfg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rrn6a9FJBzvgT5B3Qe5bVw3tEYzBi7Fvhh3yOcilnkfg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Rrn6a9FJBzvgT5B3Qe5bVwKS3ZAg-9S0Jh3yOcilnkfg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Karen Wegener",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Wegener"
+    },
+    {
+      "name": "Bodil Udsen",
+      "role": "Skuespiller",
+      "givenName": "Bodil",
+      "familyName": "Udsen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Jens Okking",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Okking"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(434066400000+0200)/",
+    "actualTransmissionDate": "/Date(434066400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(434066400000+0200)/",
+    "actualTransmissionDate": "/Date(434066400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1428983700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Liv Ullmann",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Ullmann"
+    },
+    {
+      "name": "Karen Wegener",
+      "role": "Skuespiller",
+      "givenName": "Karen",
+      "familyName": "Wegener"
+    },
+    {
+      "name": "Bodil Udsen",
+      "role": "Skuespiller",
+      "givenName": "Bodil",
+      "familyName": "Udsen"
+    },
+    {
+      "name": "Bjørn Skagestad",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Skagestad"
+    },
+    {
+      "name": "Jens Okking",
+      "role": "Skuespiller",
+      "givenName": "Jens",
+      "familyName": "Okking"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA31002581&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H10M52S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA31002581&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA31002581&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA31002581&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA31002581&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA312581-AR-199006135"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "04-10-1983",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA312581-AR-199006135",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1981
+}

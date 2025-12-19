@@ -1,0 +1,279 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000368"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000970"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000368",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 10,
+  "episodeNumberOrDate": "30.06.1970",
+  "episodeTitle": "Politi, politi!",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00000368",
+  "title": "Politi, politi!",
+  "originalTitle": "Politi, politi!",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Politi, politi!"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Politi, politi!"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Politi, politi!"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Politi, politi!"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT52M46.92S",
+  "shortDescription": "Politistaten er kommet så vidt at det ikke lenger finnes revolusjonære. Politiet selv utfordrer til revolusjon. Av Slawomir Mrozek.",
+  "longDescription": "Av den polske dramatikeren Slawomir Mrozek.\nOversatt av Finn Havrevold.\nDekor: Christian Egemar.  Instruktør: Knut Thomassen.\nI stykket er politistaten kommet så vidt at det ikke lenger finnes\nrevolusjonære.  Politiet selv utfordrer til revolusjon, men ingen lar seg\nutfordre, og politiet må vende seg mot sine egne rekker og skape mistenkelige.\nTil sist arresterer alle politifolkene hverandre.\nDe som er med:\nPolitikommisæren ......... Rolf BERNTZEN\nFangen ................... Lothar LINDTNER\nPolitisersjanten ......... Svend von D??RING\nPolitisersjantens kone ... Elna KIMMESTAD\nGeneralen ................ Stener FOGGE\nEn politimann ............ Knut HUSEBØ",
+  "image": {
+    "imageInfo": {
+      "id": "KdGMdD5XlJFs7p-tz74uBA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.067906335,
+        "width": 1.0,
+        "height": 0.719008267
+      }
+    },
+    "imageWidthCropInfo": "KdGMdD5XlJFs7p-tz74uBA?x=0.00000000000000000&y=0.06790633608815426&w=1.00000000000000000&h=0.71900826446280990",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/KdGMdD5XlJFs7p-tz74uBAb2UcVhilF1u7X043ZYARJQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KdGMdD5XlJFs7p-tz74uBAGfYYSPWcH5q7X043ZYARJQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KdGMdD5XlJFs7p-tz74uBAY_SWUxc-o3y7X043ZYARJQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/KdGMdD5XlJFs7p-tz74uBAKrGiuDwSQHW7X043ZYARJQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "politi"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "politi"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Elna Kimmestad",
+      "role": "Skuespiller",
+      "givenName": "Elna",
+      "familyName": "Kimmestad"
+    },
+    {
+      "name": "Svend von Düring",
+      "role": "Skuespiller",
+      "givenName": "Svend von",
+      "familyName": "Düring"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Stener Fogge",
+      "role": "Skuespiller",
+      "givenName": "Stener",
+      "familyName": "Fogge"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(15544800000+0200)/",
+    "actualTransmissionDate": "/Date(15544800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(15544800000+0200)/",
+    "actualTransmissionDate": "/Date(15544800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Elna Kimmestad",
+      "role": "Skuespiller",
+      "givenName": "Elna",
+      "familyName": "Kimmestad"
+    },
+    {
+      "name": "Svend von Düring",
+      "role": "Skuespiller",
+      "givenName": "Svend von",
+      "familyName": "Düring"
+    },
+    {
+      "name": "Lothar Lindtner",
+      "role": "Skuespiller",
+      "givenName": "Lothar",
+      "familyName": "Lindtner"
+    },
+    {
+      "name": "Rolf Berntzen",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Berntzen"
+    },
+    {
+      "name": "Knut Husebø",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Husebø"
+    },
+    {
+      "name": "Stener Fogge",
+      "role": "Skuespiller",
+      "givenName": "Stener",
+      "familyName": "Fogge"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000368&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT52M46S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000368&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000368&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000368&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000368&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000368-AR-199311784"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "30-06-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000368-AR-199311784",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1968
+}

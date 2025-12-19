@@ -1,0 +1,229 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000374"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000574"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000374",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "27.08.1974",
+  "episodeTitle": "Landskap",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000374",
+  "title": "Landskap",
+  "originalTitle": "Landskap",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Landskap"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Landskap"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Landskap"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Landskap"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT49M48.52S",
+  "shortDescription": "Et romslig landsens kjøkken. Ved den ene enden av langbordet sitter Beth. Ved den andre Duff. Et middelaldrende ektepar. Det er kveld. Av Harold Pinter.",
+  "longDescription": "Av Harold Pinter.                                                              \nInstruktør:  Sverre Udnæs.                                                     \nFilmprogram:                                                                   \nEt romslig landsens kjøkken.  Ved den ene enden av det lange bordet sitter     \nBeth. Ved den andre Duff.  Et middelaldrende ektepar.  Det er kveld.           \nFortekst.                                                                      \nDuff forteller hva som har skjedd de siste par dagene, om hunden deres som er  \nblitt borte, om at han selv søkte ly under et tre da regnet kom, at han stakk  \ninnom en pub og kom i krangel med en gjest som klaget på ølet.                 \nBeth reagerer ikke.  Når hun snakker, er det ikke som svar på Duffs tale, men  \nsom en strøm av løsrevne minnesbrokker som hun gjenopplever for seg selv.      \nAlle sirkler rundt en mann hun engang har vært sterkt knyttet til.             \nDe som er med:                                                                 \nBeth .................... Monna TANDBERG                                       \nDuff .................... Svein SCHARFFENBERG",
+  "image": {
+    "imageInfo": {
+      "id": "V_if3CrPq1QOjWZpfE3BXw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.15086554,
+        "width": 1.0,
+        "height": 0.7339405
+      }
+    },
+    "imageWidthCropInfo": "V_if3CrPq1QOjWZpfE3BXw?x=0.00000000000000000&y=0.15086554505005560&w=1.00000000000000000&h=0.73394048943270300",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/V_if3CrPq1QOjWZpfE3BXwPugXjRXY9o0iY8Ph-ujIew",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/V_if3CrPq1QOjWZpfE3BXwSd5Kc9az4QkiY8Ph-ujIew",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/V_if3CrPq1QOjWZpfE3BXwIOa27PfmI9giY8Ph-ujIew",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/V_if3CrPq1QOjWZpfE3BXw-2xrHCsMePAiY8Ph-ujIew",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(146786400000+0200)/",
+    "actualTransmissionDate": "/Date(146786400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(146786400000+0200)/",
+    "actualTransmissionDate": "/Date(146786400000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Monna Tandberg",
+      "role": "Skuespiller",
+      "givenName": "Monna",
+      "familyName": "Tandberg"
+    },
+    {
+      "name": "Svein Scharffenberg",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Scharffenberg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000374&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT49M48S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000374&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000374&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000374&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000374&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000374-AR-199211936"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "27-08-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000374-AR-199211936",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1974
+}

@@ -1,0 +1,380 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA62002962"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA62000962"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea62002962",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60006",
+  "seasonNumber": "1962",
+  "episodeNumber": 4,
+  "episodeNumberOrDate": "01.02.1962",
+  "episodeTitle": "En handelsreisendes død",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 24,
+  "startNextEpisode": 10,
+  "id": "FTEA62002962",
+  "title": "En handelsreisendes død",
+  "originalTitle": "En handelsreisendes død",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "En handelsreisendes død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "En handelsreisendes død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En handelsreisendes død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En handelsreisendes død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Stjernespekket forestilling"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "En handelsreisendes død"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H26M16S",
+  "shortDescription": "Handelsmannen Willy Loman drømmer om å oppnå suksess og respekt, men etter et langt arbeidsliv ender han opp med å ha det bedre i løgnen enn i virkeligheten.",
+  "longDescription": "Av Arthur Miller.\nOversatt av: Peter Magnus.\nMusikk:  Finn Ludt.\nDekor:  Bjørn Næss.\nInstruktør: Arild Brinchmann.\nStykket er en varmhjertet og harmdirrende avsløring av hvor den ensidige og\nukritiske troen på popularitet og sosial og økonomisk suksess kan føre hen.\nFørst og fremst handler skuespillet om Willy Loman, en gammel utslitt\nhandelsreisende.  Han kunne sikkert ha blitt en ypperlig bonde eller\nhåndverker, for han har håndlag og evne til å få ting til å vokse, men troen på\nat det som er viktig er å \"gjøre det godt\" sammen med naturlig rappkjeftethet\nog sjarm, gjorde ham til handelsreisende.  Nå er han utslitt, uten å ha hatt\nden suksess han trodde på og strevet mot; ja han tror fremdeles på den, han\nklamrer seg til denne troen.  I stykket ramler hans verden i grus; i\navvekslende stormende, komiske, patetiske, ironiske og tragiske scener blir det\nklart at ingenting av det han bygget sitt liv på er som han trodde det var.\nDe som er med:\nWilly Loman ....................... Henki KOLSTAD\nLinda ............................. Ragnhild MICHELSEN\nBiff .............................. Toralv MAURSTAD\nHappy ............................. Magne BLENESS\nBernard ........................... Per BRONKEN\nKvinnen ........................... Astri JACOBSEN\nCharley ........................... Fridtjof MJØEN\nOnkel Ben ......................... Oscar EGEDE-NISSEN\nHoward Wagner ..................... Arne LIE\nJenny ............................. Wenche FÆHN\nStanley ........................... Roy BJØRNSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "orpBNk6uEZqDVXHf84pEWQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.06508605,
+        "width": 1.0,
+        "height": 0.7333768
+      }
+    },
+    "imageWidthCropInfo": "orpBNk6uEZqDVXHf84pEWQ?x=0.00000000000000000&y=0.06508605100000000&w=1.00000000000000000&h=0.73337679300000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/orpBNk6uEZqDVXHf84pEWQFk2kc54sss5DN-Z7IraKZw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/orpBNk6uEZqDVXHf84pEWQY7wo1ZNCncpDN-Z7IraKZw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/orpBNk6uEZqDVXHf84pEWQL9OCYcvWUilDN-Z7IraKZw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/orpBNk6uEZqDVXHf84pEWQcqyQDY5cgfJDN-Z7IraKZw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "teater",
+    "drama",
+    "fjernsynsteater",
+    "arthur miller"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "teater",
+    "drama",
+    "fjernsynsteater",
+    "arthur miller"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Astri Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Astri",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-249786000000+0100)/",
+    "actualTransmissionDate": "/Date(-249786000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-249786000000+0100)/",
+    "actualTransmissionDate": "/Date(-249786000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1418878500000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Henki Kolstad",
+      "role": "Skuespiller",
+      "givenName": "Henki",
+      "familyName": "Kolstad"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    },
+    {
+      "name": "Toralv Maurstad",
+      "role": "Skuespiller",
+      "givenName": "Toralv",
+      "familyName": "Maurstad"
+    },
+    {
+      "name": "Magne Bleness",
+      "role": "Skuespiller",
+      "givenName": "Magne",
+      "familyName": "Bleness"
+    },
+    {
+      "name": "Per Bronken",
+      "role": "Skuespiller",
+      "givenName": "Per",
+      "familyName": "Bronken"
+    },
+    {
+      "name": "Astri Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Astri",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Fridtjof Mjøen",
+      "role": "Skuespiller",
+      "givenName": "Fridtjof",
+      "familyName": "Mjøen"
+    },
+    {
+      "name": "Oscar Egede-Nissen",
+      "role": "Skuespiller",
+      "givenName": "Oscar",
+      "familyName": "Egede-Nissen"
+    },
+    {
+      "name": "Arne Lie",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Lie"
+    },
+    {
+      "name": "Wenche Fæhn",
+      "role": "Skuespiller",
+      "givenName": "Wenche",
+      "familyName": "Fæhn"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H9M7S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00010062-AR-199206065"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H17M9S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA62002962&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA62022962-AR-199206065"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-02-1962",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00010062-AR-199206065",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1962
+}

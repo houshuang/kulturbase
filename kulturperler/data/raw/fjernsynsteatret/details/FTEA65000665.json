@@ -1,0 +1,293 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65000665"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65001765"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65000665",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 1,
+  "episodeNumberOrDate": "19.01.1965",
+  "episodeTitle": "Hans Majestets Foged",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65000665",
+  "title": "Hans Majestets Foged",
+  "originalTitle": "Hans Majestets Foged",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Hans Majestets Foged"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Hans Majestets Foged"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hans Majestets Foged"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Hans Majestets Foged"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT56M23.96S",
+  "shortDescription": "Et muntert skuespill fra 1880 om embedsstanden i Norge og en skandaløs klassereise - en udugelig fogd vil helst bli en dugelig snekker. Av Alexander Kielland.",
+  "longDescription": "Av Alexander Kielland.\nDekor:  Bjørn Næss.  Instruktør: Sølve Kern.\nFogden Anders Gregersen føler seg mistilpasset som fogd og er mer interessert i\nsnekker-hobbyen sin.  Når det oppdages underslag på hans kontor, erkjenner han\nsin vantrivsel og manglende kontoristevner.  Med støtte fra datteren, hennes\nvenn urmakeren og en trofast standskollega, byråsjefen, overvinner han\nfordommene og tar steget ned i rang.  Han fratrer embetet for å bli\nsnekkermester, dette til sorenskriverens og marinekapteinens forargelse.\nStykket er spillt inn med skuespillere fra Den Nationale Scene i Bergen.\nI rollene:\nFoged A.Ø. Gregersen .............. Svend von DÜRING\nMargrete, hans datter ............. Inger Marie ANDERSEN\nUrmaker Reynholdt ................. Arne JACOBSEN\nSorenskriver Ross ................. Kjell STORMOEN\nMarinekaptein Tamp ................ Georg RICHTER\nByråsjef Lorentz .................. Stener FOGGE\nKornelius ærendsgutt .............. Thomas FASTING\n(Reprise: 19671225)",
+  "image": {
+    "imageInfo": {
+      "id": "7k53h3fHTa4oKS5qUGA4Hw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.128183514,
+        "width": 1.0,
+        "height": 0.853566
+      }
+    },
+    "imageWidthCropInfo": "7k53h3fHTa4oKS5qUGA4Hw?x=0.00000000000000000&y=0.12818351300000000&w=1.00000000000000000&h=0.85356600900000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4HwuBygugmXteMOCDwzCgdtig",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4HwhaNGLGFNOcAOCDwzCgdtig",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4HwEkVwp2hEH7gOCDwzCgdtig",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4HwOzPiktl6tLgOCDwzCgdtig",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "lystspill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill",
+    "lystspill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Svend von Düring",
+      "role": "Skuespiller",
+      "givenName": "Svend von",
+      "familyName": "Düring"
+    },
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Arne Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Stener Fogge",
+      "role": "Skuespiller",
+      "givenName": "Stener",
+      "familyName": "Fogge"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-156214800000+0100)/",
+    "actualTransmissionDate": "/Date(-156214800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-156214800000+0100)/",
+    "actualTransmissionDate": "/Date(-156214800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424148900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Inger Marie Andersen",
+      "role": "Skuespiller",
+      "givenName": "Inger Marie",
+      "familyName": "Andersen"
+    },
+    {
+      "name": "Georg Richter",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Richter"
+    },
+    {
+      "name": "Svend von Düring",
+      "role": "Skuespiller",
+      "givenName": "Svend von",
+      "familyName": "Düring"
+    },
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Arne Jacobsen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Jacobsen"
+    },
+    {
+      "name": "Kjell Stormoen",
+      "role": "Skuespiller",
+      "givenName": "Kjell",
+      "familyName": "Stormoen"
+    },
+    {
+      "name": "Stener Fogge",
+      "role": "Skuespiller",
+      "givenName": "Stener",
+      "familyName": "Fogge"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000665&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT56M24S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000665&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000665&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000665&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65000665&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65000665-AR-199405109"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "19-01-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65000665-AR-199405109",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

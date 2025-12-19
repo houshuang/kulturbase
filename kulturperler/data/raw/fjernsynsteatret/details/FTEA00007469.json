@@ -1,0 +1,259 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00007469"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000368"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00007469",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60014",
+  "seasonNumber": "1970",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "26.05.1970",
+  "episodeTitle": "Privattimen",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00007469",
+  "title": "Privattimen",
+  "originalTitle": "Privattimen",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Privattimen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Privattimen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Privattimen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Privattimen"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT38M56.96S",
+  "shortDescription": "På hver sin måte våger to mennesker, en professor og hans elev, seg på det vanskeligste uten først å kunne det grunnleggende. Av Eugène Ionesco.",
+  "longDescription": "Av Eug??ne Ionesco.  \"La Le??on\" fra 1951.\nOversatt av Mimi Omdahl.\nDekor: Per Fjeld.  Instruktør: Tore Breda Thoresen.\nTre personer er på scenen i stykket - en hushjelp, en professor og professorens\nprivatelev.  Temaet kan antydes gjennom ord som kommunikasjon, kontakt - eller\nmangel på kontakt - med virkeligheten.  På hver sin måte våger to mennesker seg\npå det vanskeligste uten først å kunne det grunnleggende.  Eleven går fra liv\ntil åndelig død.  Den puslete, korrekte og høflige professoren blir nervøst\nselvsikker, det selvundertykkende i ham viker for grov hensynsløshet.  Til sist\ndreper han eleven.\nDe som er med:\nProfessoren ............... Gisle STRAUME\nDen unge eleven ........... Eva von HANNO\nHushjelpen ................ Elsa LYSTAD\nDen nye eleven ............ Marit HAMDAHL\n(Reprise: 19721121 og 19860923).",
+  "image": {
+    "imageInfo": {
+      "id": "_ETLDFlvaRuN6XrqJP-Z5w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.171741769,
+        "width": 1.0,
+        "height": 0.562063932
+      }
+    },
+    "imageWidthCropInfo": "_ETLDFlvaRuN6XrqJP-Z5w?x=0.00000000000000000&y=0.17174176356589146&w=1.00000000000000000&h=0.56206395348837210",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/_ETLDFlvaRuN6XrqJP-Z5wAqK3IWv5PaXBhSOr3m8GkQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_ETLDFlvaRuN6XrqJP-Z5wUMdk_3nfK0jBhSOr3m8GkQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_ETLDFlvaRuN6XrqJP-Z5wYkrsm1sGRJbBhSOr3m8GkQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/_ETLDFlvaRuN6XrqJP-Z5wLj_cHt7OBdnBhSOr3m8GkQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "tragikomedier",
+    "makt",
+    "undervisning"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "teaterstykke",
+    "tragikomedier",
+    "makt",
+    "undervisning"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(12520800000+0200)/",
+    "actualTransmissionDate": "/Date(12520800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(12520800000+0200)/",
+    "actualTransmissionDate": "/Date(12520800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Marit Hamdahl",
+      "role": "Skuespiller",
+      "givenName": "Marit",
+      "familyName": "Hamdahl"
+    },
+    {
+      "name": "Eva von Hanno",
+      "role": "Skuespiller",
+      "givenName": "Eva von",
+      "familyName": "Hanno"
+    },
+    {
+      "name": "Gisle Straume",
+      "role": "Skuespiller",
+      "givenName": "Gisle",
+      "familyName": "Straume"
+    },
+    {
+      "name": "Elsa Lystad",
+      "role": "Skuespiller",
+      "givenName": "Elsa",
+      "familyName": "Lystad"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007469&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT38M57S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007469&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007469&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007469&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00007469&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA007469-AR-199311781"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-05-1970",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA007469-AR-199311781",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1969
+}

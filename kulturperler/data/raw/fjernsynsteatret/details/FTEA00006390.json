@@ -1,0 +1,194 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00006390"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00006390",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60034",
+  "seasonNumber": "1990",
+  "episodeNumber": 17,
+  "episodeNumberOrDate": "26.12.1990",
+  "episodeTitle": "Pass godt på hodene - slipp ikke taket",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 17,
+  "startNextEpisode": 10,
+  "id": "FTEA00006390",
+  "title": "Pass godt på hodene - slipp ikke taket",
+  "originalTitle": "Pass godt på hodene - slipp ikke taket",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Pass godt på hodene - slipp ikke taket"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Pass godt på hodene - slipp ikke taket"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Pass godt på hodene - slipp ikke taket"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Pass godt på hodene - slipp ikke taket"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT29M51.96S",
+  "shortDescription": "En musikalsk cabaret til 12 dikt av Rolf Jacobsen, sunget og lest av Tone Danielsen.",
+  "longDescription": "En musikalsk cabaret til 12 dikt av Rolf Jacobsen.\n10 dikt blir sunget av Tone DANIELSEN og 2 lest.\nKomponist og musikalsk ansvarlig: Guttorm Guttormsen.\nMusikere:  Guttorm Guttormsen, Bjørn Klakegg, Bjørn Kjellemyr, Leif Winther\nog Finn Sletten.\nKor:  Anne Marie Giørtz og Anne Danielsen.\nDiktene blir fremført i rekkefølge:\n1.  Om å vokse nedover  (leses)           0'49\"\n2.  Høye hus                              2'18\"\n3.  I bringebærtiden                      1'44\"\n4.  Du har det i deg                      2'46\"\n5.  I berg                                3'05\"\n6.  Bare tynne nåler                      3'12\"\n7.  Noen                                  2'11\"\n8.  Dine tanker - det du gjorde  (leses)  0'49\"\n9.  Stillheten etterpå                    3'36\"\n10. Lavmælt                               2'22\"\n11. Briefing                              2'15\"\n12. Når de sover                          3'34\"",
+  "image": {
+    "imageInfo": {
+      "id": "YBYZBtcLJ7PpkfS97KWX2g",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.00480769249,
+        "width": 1.0,
+        "height": 0.9951923
+      }
+    },
+    "imageWidthCropInfo": "YBYZBtcLJ7PpkfS97KWX2g?x=0.00000000000000000&y=0.00480769230769235&w=1.00000000000000000&h=0.99519230769230760",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/YBYZBtcLJ7PpkfS97KWX2g9A20MN2iwu0VYbGcKkwHrA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBYZBtcLJ7PpkfS97KWX2gF8cwMaQfmCYVYbGcKkwHrA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBYZBtcLJ7PpkfS97KWX2gwjQBf_VOpBcVYbGcKkwHrA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBYZBtcLJ7PpkfS97KWX2gK_pbSE-nvGIVYbGcKkwHrA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(662166000000+0100)/",
+    "actualTransmissionDate": "/Date(662166000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(662166000000+0100)/",
+    "actualTransmissionDate": "/Date(662166000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1437882900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006390&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT29M52S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006390&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006390&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006390&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00006390&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA006390-AR-199305375"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "26-12-1990",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA006390-AR-199305375",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1990
+}

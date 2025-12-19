@@ -1,0 +1,287 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003386"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003786"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003386",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60031",
+  "seasonNumber": "1987",
+  "episodeNumber": 7,
+  "episodeNumberOrDate": "17.03.1987",
+  "episodeTitle": "Enerom",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00003386",
+  "title": "Enerom",
+  "originalTitle": "Enerom",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Enerom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Enerom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Enerom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Enerom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT43M13.36S",
+  "shortDescription": "En yngre fraskilt og arbeidsløs mann kommer tilfeldig i kontakt med etmenneske som svever mellom liv og død på sykehus.",
+  "longDescription": "Lars MONSEN (mv) med hunder og slede før Finnmarksløpet i hundekjøring.\n\nIntv. MONSEN om deltakelsen i løpet og TV-serien han vil lage.\n\nDiverse shots fra løpet.",
+  "image": {
+    "imageInfo": {
+      "id": "ggg3EGrvcwRJk0fVR1-VlQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.73172003
+      }
+    },
+    "imageWidthCropInfo": "ggg3EGrvcwRJk0fVR1-VlQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.73172005571030650",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ggg3EGrvcwRJk0fVR1-VlQHFdZygZxq_0ahpi8M3C8MQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ggg3EGrvcwRJk0fVR1-VlQNfP2X1XNNoYahpi8M3C8MQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ggg3EGrvcwRJk0fVR1-VlQb-bMvymPGREahpi8M3C8MQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ggg3EGrvcwRJk0fVR1-VlQFJ7YfFfxhocahpi8M3C8MQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Trine Lossius Borg",
+      "role": "Skuespiller",
+      "givenName": "Trine Lossius",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Thorkild Thorkildsen",
+      "role": "Skuespiller",
+      "givenName": "Thorkild",
+      "familyName": "Thorkildsen"
+    },
+    {
+      "name": "Eva Eckblad",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Eckblad"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(542934000000+0100)/",
+    "actualTransmissionDate": "/Date(542934000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(542934000000+0100)/",
+    "actualTransmissionDate": "/Date(542934000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1433735700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Trine Lossius Borg",
+      "role": "Skuespiller",
+      "givenName": "Trine Lossius",
+      "familyName": "Borg"
+    },
+    {
+      "name": "Erik Hivju",
+      "role": "Skuespiller",
+      "givenName": "Erik",
+      "familyName": "Hivju"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Thorkild Thorkildsen",
+      "role": "Skuespiller",
+      "givenName": "Thorkild",
+      "familyName": "Thorkildsen"
+    },
+    {
+      "name": "Eva Eckblad",
+      "role": "Skuespiller",
+      "givenName": "Eva",
+      "familyName": "Eckblad"
+    },
+    {
+      "name": "Tone Danielsen",
+      "role": "Skuespiller",
+      "givenName": "Tone",
+      "familyName": "Danielsen"
+    },
+    {
+      "name": "Ivar Nørve",
+      "role": "Skuespiller",
+      "givenName": "Ivar",
+      "familyName": "Nørve"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003386&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003386&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003386&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003386&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003386&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003386-AR-199018506"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "17-03-1987",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003386-AR-199018506",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1986
+}

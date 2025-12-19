@@ -1,0 +1,293 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA65001165"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA65000165"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea65001165",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60009",
+  "seasonNumber": "1965",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "25.05.1965",
+  "episodeTitle": "Den forvandlede brudgom",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA65001165",
+  "title": "Den forvandlede brudgom",
+  "originalTitle": "Den forvandlede brudgom",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Den forvandlede brudgom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Den forvandlede brudgom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den forvandlede brudgom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Den forvandlede brudgom"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT37M2.68S",
+  "shortDescription": "Frue Terentia har kommet hjem fra København, fast bestemt på å gifte seg med en ung offiser, trass i hennes høye alder. En komedie oppført som dukketeater. Av Ludvig Holberg.",
+  "longDescription": "Av Ludvig Holberg.  En komedie oppført som dukketeater.\nDukker og dekorasjoner: Herman Bendixen.\nInstruktør: Alfred Solaas.\nFrue Terentia har hjemkommet fra København, fast bestemt på å gifte seg med en\nung offiser, trass i hennes høye alder.  Gjør seg til latter blant fold.\nDøtrene, sammen med tjenestepiken Pernille og Kirsten Giftekniv, legger planer.\nPernilles søster kler seg ut som offiser og forfører frue Terentia.\nMoral: Selv kvinner har en plass i historien.\nStemmene (rolleliste):\nFrue Terentia ............ Irene Thomsen\nLeonora .................. Synnøve Strigen\nLaurentia ................ Kalle Håkonsen\nPernille ................. Birgit Strøm\nElsebet .................. Rigmor Lange\nKirsten Giftekniv ........ Julian Strøm\nEn forkledt acteur ....... Julian Strøm",
+  "image": {
+    "imageInfo": {
+      "id": "1oDChUAFNYQJZJ4iq5R6Eg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.5562667
+      }
+    },
+    "imageWidthCropInfo": "1oDChUAFNYQJZJ4iq5R6Eg?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.55626671761559030",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/1oDChUAFNYQJZJ4iq5R6EgR51C-k6XMi1zsS_2pFDE4g",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1oDChUAFNYQJZJ4iq5R6Egwh9gE_kwQnlzsS_2pFDE4g",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1oDChUAFNYQJZJ4iq5R6EgFMIE8YlkO5VzsS_2pFDE4g",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/1oDChUAFNYQJZJ4iq5R6EgahEAYxieRAdzsS_2pFDE4g",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "teaterstykke",
+    "komedie",
+    "dukketeater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "teaterstykke",
+    "komedie",
+    "dukketeater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Rigmor Lange",
+      "role": "Skuespiller",
+      "givenName": "Rigmor",
+      "familyName": "Lange"
+    },
+    {
+      "name": "Synnøve Strigen",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Strigen"
+    },
+    {
+      "name": "Julian Strøm",
+      "role": "Skuespiller",
+      "givenName": "Julian",
+      "familyName": "Strøm"
+    },
+    {
+      "name": "Birgit Strøm",
+      "role": "Skuespiller",
+      "givenName": "Birgit",
+      "familyName": "Strøm"
+    },
+    {
+      "name": "Kalle Håkonsen",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Håkonsen"
+    },
+    {
+      "name": "Irene Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Irene",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Julian Strøm",
+      "role": "Skuespiller",
+      "givenName": "Julian",
+      "familyName": "Strøm"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-145332000000+0200)/",
+    "actualTransmissionDate": "/Date(-145332000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-145332000000+0200)/",
+    "actualTransmissionDate": "/Date(-145332000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1424321700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Rigmor Lange",
+      "role": "Skuespiller",
+      "givenName": "Rigmor",
+      "familyName": "Lange"
+    },
+    {
+      "name": "Synnøve Strigen",
+      "role": "Skuespiller",
+      "givenName": "Synnøve",
+      "familyName": "Strigen"
+    },
+    {
+      "name": "Julian Strøm",
+      "role": "Skuespiller",
+      "givenName": "Julian",
+      "familyName": "Strøm"
+    },
+    {
+      "name": "Birgit Strøm",
+      "role": "Skuespiller",
+      "givenName": "Birgit",
+      "familyName": "Strøm"
+    },
+    {
+      "name": "Kalle Håkonsen",
+      "role": "Skuespiller",
+      "givenName": "Kalle",
+      "familyName": "Håkonsen"
+    },
+    {
+      "name": "Irene Thomsen",
+      "role": "Skuespiller",
+      "givenName": "Irene",
+      "familyName": "Thomsen"
+    },
+    {
+      "name": "Julian Strøm",
+      "role": "Skuespiller",
+      "givenName": "Julian",
+      "familyName": "Strøm"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001165&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT37M2S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001165&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001165&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001165&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA65001165&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA65001165-AR-199405172"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "25-05-1965",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA65001165-AR-199405172",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1965
+}

@@ -1,0 +1,291 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000580"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000580",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60024",
+  "seasonNumber": "1980",
+  "episodeNumber": 16,
+  "episodeNumberOrDate": "09.12.1980",
+  "episodeTitle": "Ballerina",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00000580",
+  "title": "Ballerina",
+  "originalTitle": "Ballerina",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Ballerina"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Ballerina"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ballerina"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ballerina"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H8M44S",
+  "shortDescription": "Malin er et \"annerledes\" barn. Etter års trening har moren en nøkkel til hennes lukkede verden. Men hva vil skje med Malin i framtida? Av Arne Skouen.",
+  "longDescription": "Forfatter: Arne Skouen.  Musikk:  Åsmund Feidje.\nMalin er et \"annerledes\" barn.  Etter års trening har moen en nøkkel til hennes\nlukkede verden.  Men hva vil skje med Malin i framtida?  Når ingen lenger kan\nhennes språk?  Spørsmålet utløser en familiekrise der foreldrenes syn står\nsteilt mot hverandre.\nDe som er med:  Edith, Malins mor ........... Liv THORSEN\n                Malin ....................... Minken FOSHEIM\n                Birger ...................... Kaare KROPPAN\n                Audun ....................... Jan FROSTAD\n                Rutta ....................... Jannik BONNEVIE\n                Hanne ....................... Julie ØKSNES",
+  "image": {
+    "imageInfo": {
+      "id": "0wLOllai_jwFNU5WODTNnQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.16591467,
+        "width": 1.0,
+        "height": 0.7284059
+      }
+    },
+    "imageWidthCropInfo": "0wLOllai_jwFNU5WODTNnQ?x=0.00000000000000000&y=0.16591467696629214&w=1.00000000000000000&h=0.72840589887640450",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/0wLOllai_jwFNU5WODTNnQD-wyUnAC219eb7NylRqd3w",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/0wLOllai_jwFNU5WODTNnQJCVKPW2A_rdeb7NylRqd3w",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/0wLOllai_jwFNU5WODTNnQscyKNqVgSqteb7NylRqd3w",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/0wLOllai_jwFNU5WODTNnQvZ2A0r2zeYleb7NylRqd3w",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "anderledeshet",
+    "familiekrise",
+    "familiedrama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "anderledeshet",
+    "familiekrise",
+    "familiedrama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Julie Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Julie",
+      "familyName": "Øksnes"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(345164400000+0100)/",
+    "actualTransmissionDate": "/Date(345164400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(345164400000+0100)/",
+    "actualTransmissionDate": "/Date(345164400000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1433562900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jan Frostad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Frostad"
+    },
+    {
+      "name": "Kaare Kroppan",
+      "role": "Skuespiller",
+      "givenName": "Kaare",
+      "familyName": "Kroppan"
+    },
+    {
+      "name": "Liv Thorsen",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Thorsen"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Minken Fosheim",
+      "role": "Skuespiller",
+      "givenName": "Minken",
+      "familyName": "Fosheim"
+    },
+    {
+      "name": "Julie Øksnes",
+      "role": "Skuespiller",
+      "givenName": "Julie",
+      "familyName": "Øksnes"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT58M48S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00000580AU"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H9M56S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000580&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00000580BU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "09-12-1980",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00000580AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1980
+}

@@ -1,0 +1,323 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00003486"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00003586"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00003486",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60031",
+  "seasonNumber": "1987",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "12.05.1987",
+  "episodeTitle": "Fri",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FTEA00003486",
+  "title": "Fri",
+  "originalTitle": "Fri",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Fri"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Fri"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fri"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Fri"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H52M56.96S",
+  "shortDescription": "En ung kvinne slippes ut av fengsel. Hun står foran en ny framtid, det blir avgjørende hvordan hun mestrer sin første dag som fri.",
+  "longDescription": "Av den amerikanske forfatteren Marsha Norman.\n\nOversatt av Tom Remlov.\n\nEn ung kvinne slippes ut av fengsel etter en lang straff for ran og drap.\n\nTilbakeblikk på hennes liv avdekker årsakssammenhengen til hennes kriminalitet.\n\nHun står nå foran en nye framtid, det blir avgjørende hvordan hun mestrer sin\n\nførste dag som fri.\n\nDe som er med:\n\nArlene / Arlie ............. Marianne KROGH\n\nBennie ..................... Bjørn FLOBERG\n\nCarl ....................... Torfinn NAG\n\nMoren ...................... Kari SIMONSEN\n\nRuby ....................... Marie Louise TANK\n\nBestyreren /\n\nFengselsdirektøren ......... Sverre BENTZEN\n\nEn fengselsbetjent ......... Rolf Arly LUND\n\nEn fengselsbetjent ......... John S. KRISTENSEN\n\nLegen ...................... Henrik SCHEELE\n\nOverlæreren ................ Lieselotte HOLMENE",
+  "image": {
+    "imageInfo": {
+      "id": "Sj5hvHa-CnR7-R8gwhuBGw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "Sj5hvHa-CnR7-R8gwhuBGw?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/Sj5hvHa-CnR7-R8gwhuBGwEbmwE0ce98JdUsH9s2VPSw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Sj5hvHa-CnR7-R8gwhuBGwFD8vJWGlw4tdUsH9s2VPSw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Sj5hvHa-CnR7-R8gwhuBGw2eXwz4dgjPtdUsH9s2VPSw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/Sj5hvHa-CnR7-R8gwhuBGwZXeOS0kvIAFdUsH9s2VPSw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Henrik Scheele",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Scheele"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(547768800000+0200)/",
+    "actualTransmissionDate": "/Date(547768800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(547768800000+0200)/",
+    "actualTransmissionDate": "/Date(547768800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1433735700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "John Sigurd Kristensen",
+      "role": "Skuespiller",
+      "givenName": "John Sigurd",
+      "familyName": "Kristensen"
+    },
+    {
+      "name": "Rolf Arly Lund",
+      "role": "Skuespiller",
+      "givenName": "Rolf Arly",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Sverre Bentzen",
+      "role": "Skuespiller",
+      "givenName": "Sverre",
+      "familyName": "Bentzen"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Marianne Krogh",
+      "role": "Skuespiller",
+      "givenName": "Marianne",
+      "familyName": "Krogh"
+    },
+    {
+      "name": "Bjørn Floberg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Floberg"
+    },
+    {
+      "name": "Torfinn Nag",
+      "role": "Skuespiller",
+      "givenName": "Torfinn",
+      "familyName": "Nag"
+    },
+    {
+      "name": "Marie Louise Tank",
+      "role": "Skuespiller",
+      "givenName": "Marie Louise",
+      "familyName": "Tank"
+    },
+    {
+      "name": "Henrik Scheele",
+      "role": "Skuespiller",
+      "givenName": "Henrik",
+      "familyName": "Scheele"
+    },
+    {
+      "name": "Kari Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Kari",
+      "familyName": "Simonsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003486&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H52M57S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003486&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003486&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003486&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00003486&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA003486-AR-199305219"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "12-05-1987",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA003486-AR-199305219",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1986
+}

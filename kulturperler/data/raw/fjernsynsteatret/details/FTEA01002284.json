@@ -1,0 +1,489 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA01002284"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01002084"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea01002284",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60029",
+  "seasonNumber": "1985",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "01.10.1985",
+  "episodeTitle": "Blindgjenger",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA01002284",
+  "title": "Blindgjenger",
+  "originalTitle": "Blindgjenger",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Blindgjenger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Blindgjenger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Blindgjenger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Blindgjenger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Blindgjenger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H46M39.92S",
+  "shortDescription": "Tre gutter bor i en bygård i Oslo og i første etasje er det et helsestudio. Men stedet er et skalkeskjul og guttene vikles inn i et nynazistisk miljø.",
+  "longDescription": "Erik......... Anders HATLO         Sheera........ Romika SHARMA\n       Hans......... Thor AAMODT          Christian..... Tore WANG\n       Gundolfs mor. Kirsten HOFSETH\n       Gym.lærer.... Jan Ø. WIIG          Arb.formidler. Finn SCHAU\n       Mauritz...... Hans Jacob SAND      Rektor........ Arne AAS\n       Asgeir....... Frede FRIHAGEN       Hytteeier..... Knut M. HANSSON\n       Tom.......... Marius KOLBENSTVEDT  Kjell......... Svein MOEN\n       Stein........ Odin OLSTAD          Formann....... Bjørn JENSEG\nFramveksten av ny-nazistiske ungdomsgrupper har vært utgangspunktet\nfor forfatteren Erling Pedersen.\nTre skolegutter - Gundolf, Krister og Ola - bestevenner som er sammen i tykt\nog tynt.  Erik åpner helsestudio, guttene er med i treningsopplegget.  Etter\n10 uker avslører Erik at han er med i en organisasjon, Ungdomsfront, en ny-\nnazistisk gruppe, vil ha de tre med.  Samling på fjellet med trening og manøv-\nrer.  Skyteøvelser.  Kveldssamling.  Hytteeier forteller fra krigen.  Ola røm-\nmer hjem, Krister sier imot organisasjonen, blir sendt hjem.  Gundolf blir\nigjen.  Er med på sprengninger oppe i fjellet, Gundolf har stjålet\ndynamitten.  Hjemme igjen får Gundolf i oppdrag å sprenge noe i lufta,\nhan nekter.  Blir tvunget til å ta dynamitten med hjem, får panikk, gjemmer\ndynamitten i kjelleren, tenner en lunte, stykket er slutt.\nMedv.: Gundolf...... Espen DEKKO          Olas far...... Jan HÅRSTAD\n       Krister...... Frank YSTENES        Olas mor...... Lieselotte HOLMENE\n       Ola.......... Atle FRETHEIM        Kristers far.. Roy BJØRNSTAD",
+  "image": {
+    "imageInfo": {
+      "id": "o5Uk8Er6CmsWQ-2No3h2qA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "o5Uk8Er6CmsWQ-2No3h2qA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/o5Uk8Er6CmsWQ-2No3h2qAQH5BmqszdkHWOsJJ_wNaMw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/o5Uk8Er6CmsWQ-2No3h2qApnOv0HIYe5vWOsJJ_wNaMw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/o5Uk8Er6CmsWQ-2No3h2qAba0SExsbQvzWOsJJ_wNaMw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/o5Uk8Er6CmsWQ-2No3h2qAE3PV9LGlrlzWOsJJ_wNaMw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "nynazisme",
+    "treningsleir",
+    "vold",
+    "samfunnsproblemer",
+    "ungdom",
+    "ungdomsleir",
+    "sosiologi",
+    "dynamitt"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "nynazisme",
+    "treningsleir",
+    "vold",
+    "samfunnsproblemer",
+    "ungdom",
+    "ungdomsleir",
+    "sosiologi",
+    "dynamitt"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Jan Ø. Wiig",
+      "role": "Skuespiller",
+      "givenName": "Jan Ø.",
+      "familyName": "Wiig"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Jan Hårstad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Hårstad"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Finn Schau",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Schau"
+    },
+    {
+      "name": "Odin Olstad",
+      "role": "Skuespiller",
+      "givenName": "Odin",
+      "familyName": "Olstad"
+    },
+    {
+      "name": "Frede Frihagen",
+      "role": "Skuespiller",
+      "givenName": "Frede",
+      "familyName": "Frihagen"
+    },
+    {
+      "name": "Hans Jacob Sand",
+      "role": "Skuespiller",
+      "givenName": "Hans Jacob",
+      "familyName": "Sand"
+    },
+    {
+      "name": "Tore Wang",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Wang"
+    },
+    {
+      "name": "Romika Sharma",
+      "role": "Skuespiller",
+      "givenName": "Romika",
+      "familyName": "Sharma"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Frank Ystenes",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Ystenes"
+    },
+    {
+      "name": "Espen Dekko",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Dekko"
+    },
+    {
+      "name": "Atle Fretheim",
+      "role": "Skuespiller",
+      "givenName": "Atle",
+      "familyName": "Fretheim"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Marius Kolbenstvedt",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Kolbenstvedt"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(496965600000+0200)/",
+    "actualTransmissionDate": "/Date(496965600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(496965600000+0200)/",
+    "actualTransmissionDate": "/Date(496965600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1391057700000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jan Ø. Wiig",
+      "role": "Skuespiller",
+      "givenName": "Jan Ø.",
+      "familyName": "Wiig"
+    },
+    {
+      "name": "Svein Moen",
+      "role": "Skuespiller",
+      "givenName": "Svein",
+      "familyName": "Moen"
+    },
+    {
+      "name": "Knut M. Hansson",
+      "role": "Skuespiller",
+      "givenName": "Knut M.",
+      "familyName": "Hansson"
+    },
+    {
+      "name": "Jan Hårstad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Hårstad"
+    },
+    {
+      "name": "Kirsten Hofseth",
+      "role": "Skuespiller",
+      "givenName": "Kirsten",
+      "familyName": "Hofseth"
+    },
+    {
+      "name": "Thor Aamodt",
+      "role": "Skuespiller",
+      "givenName": "Thor",
+      "familyName": "Aamodt"
+    },
+    {
+      "name": "Bjørn Jenseg",
+      "role": "Skuespiller",
+      "givenName": "Bjørn",
+      "familyName": "Jenseg"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Finn Schau",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Schau"
+    },
+    {
+      "name": "Odin Olstad",
+      "role": "Skuespiller",
+      "givenName": "Odin",
+      "familyName": "Olstad"
+    },
+    {
+      "name": "Frede Frihagen",
+      "role": "Skuespiller",
+      "givenName": "Frede",
+      "familyName": "Frihagen"
+    },
+    {
+      "name": "Hans Jacob Sand",
+      "role": "Skuespiller",
+      "givenName": "Hans Jacob",
+      "familyName": "Sand"
+    },
+    {
+      "name": "Tore Wang",
+      "role": "Skuespiller",
+      "givenName": "Tore",
+      "familyName": "Wang"
+    },
+    {
+      "name": "Romika Sharma",
+      "role": "Skuespiller",
+      "givenName": "Romika",
+      "familyName": "Sharma"
+    },
+    {
+      "name": "Lieselotte Holmene",
+      "role": "Skuespiller",
+      "givenName": "Lieselotte",
+      "familyName": "Holmene"
+    },
+    {
+      "name": "Frank Ystenes",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Ystenes"
+    },
+    {
+      "name": "Espen Dekko",
+      "role": "Skuespiller",
+      "givenName": "Espen",
+      "familyName": "Dekko"
+    },
+    {
+      "name": "Atle Fretheim",
+      "role": "Skuespiller",
+      "givenName": "Atle",
+      "familyName": "Fretheim"
+    },
+    {
+      "name": "Anders Hatlo",
+      "role": "Skuespiller",
+      "givenName": "Anders",
+      "familyName": "Hatlo"
+    },
+    {
+      "name": "Marius Kolbenstvedt",
+      "role": "Skuespiller",
+      "givenName": "Marius",
+      "familyName": "Kolbenstvedt"
+    },
+    {
+      "name": "Arne Aas",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Aas"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H3M13S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA01012284-AR-199061014"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT43M27S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA01002284&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA01022284-AR-199061014"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "01-10-1985",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA01012284-AR-199061014",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1984
+}

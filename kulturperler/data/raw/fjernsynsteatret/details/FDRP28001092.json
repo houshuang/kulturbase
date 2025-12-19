@@ -1,0 +1,257 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP28001092"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP28002492"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp28001092",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60037",
+  "seasonNumber": "1993",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "24.01.1993",
+  "episodeTitle": "Reisen til Venezia",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 15,
+  "startNextEpisode": 10,
+  "id": "FDRP28001092",
+  "title": "Reisen til Venezia",
+  "originalTitle": "Reisen til Venezia",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Reisen til Venezia"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Reisen til Venezia"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Reisen til Venezia"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Reisen til Venezia"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H14M52.4S",
+  "shortDescription": "En pensjonert lektor og hans kone lever et liv med dårlig økonomi og minnene om bedre dager. Men til tross for forfallet reiser de i fantasien.",
+  "longDescription": "Den pensjonerte lektor Tellmann og hans kone Edith lever et liv preget av\ndårlig økonomi og med minnene om bedre dager.  Men til tross for forfallet\nrundt dem, reiser de i fantasien.\nI rollene: Edith Tellmann ........ Liv DOMMERSNES\n           Lektor Tellmann ....... Arne Thomas OLSEN\n           Karlsen ............... Oddvar HELLAN\n           Vivian ................ Eva DONS\nManuskript: Bjørg Vik.\nSendingen er et opptak fra Intimteatret i Oslo.  Stykket vant Ibsen-prisen i\n1992.",
+  "image": {
+    "imageInfo": {
+      "id": "N0_sU8DHjY61BLFYu8HZEg",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.117673181,
+        "width": 1.0,
+        "height": 0.8472469
+      }
+    },
+    "imageWidthCropInfo": "N0_sU8DHjY61BLFYu8HZEg?x=0.00000000000000000&y=0.11767317939609236&w=1.00000000000000000&h=0.84724689165186500",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/N0_sU8DHjY61BLFYu8HZEgcTZrNCm1yCy6oEjXYt9D-Q",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/N0_sU8DHjY61BLFYu8HZEgGs0UMnL_jfa6oEjXYt9D-Q",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/N0_sU8DHjY61BLFYu8HZEg-N-UzhZ8W6S6oEjXYt9D-Q",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/N0_sU8DHjY61BLFYu8HZEgnDpvLnrHfQe6oEjXYt9D-Q",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama",
+    "fjernsynsdrama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "skuespill",
+    "teaterstykke",
+    "tv-drama",
+    "fjernsynsdrama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Dons Eva",
+      "role": "Skuespiller",
+      "givenName": "Dons",
+      "familyName": "Eva"
+    },
+    {
+      "name": "Oddvar Hellan",
+      "role": "Skuespiller",
+      "givenName": "Oddvar",
+      "familyName": "Hellan"
+    },
+    {
+      "name": "Liv Dommersnes",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Dommersnes"
+    },
+    {
+      "name": "Arne Thomas Olsen",
+      "role": "Skuespiller",
+      "givenName": "Arne Thomas",
+      "familyName": "Olsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(727830000000+0100)/",
+    "actualTransmissionDate": "/Date(727830000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(727830000000+0100)/",
+    "actualTransmissionDate": "/Date(727830000000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1427172900000+0100)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Dons Eva",
+      "role": "Skuespiller",
+      "givenName": "Dons",
+      "familyName": "Eva"
+    },
+    {
+      "name": "Oddvar Hellan",
+      "role": "Skuespiller",
+      "givenName": "Oddvar",
+      "familyName": "Hellan"
+    },
+    {
+      "name": "Liv Dommersnes",
+      "role": "Skuespiller",
+      "givenName": "Liv",
+      "familyName": "Dommersnes"
+    },
+    {
+      "name": "Arne Thomas Olsen",
+      "role": "Skuespiller",
+      "givenName": "Arne Thomas",
+      "familyName": "Olsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001092&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H14M52S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001092&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001092&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001092&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP28001092&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP281092-AR-199407757"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "24-01-1993",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP281092-AR-199407757",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1992
+}

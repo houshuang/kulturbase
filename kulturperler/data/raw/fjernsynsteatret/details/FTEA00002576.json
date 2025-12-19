@@ -1,0 +1,257 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00002576"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001976"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00002576",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "12.04.1977",
+  "episodeTitle": "Se deg om i vrede",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00002576",
+  "title": "Se deg om i vrede",
+  "originalTitle": "Se deg om i vrede",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Se deg om i vrede"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Se deg om i vrede"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Se deg om i vrede"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Se deg om i vrede"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H14M20.96S",
+  "shortDescription": "Den ufordragelige Jimmy dominerer alt og alle. Handlingen foregår i leiligheten der han bor sammen med sin kone, Alison. Av John Osborne.",
+  "longDescription": "Av John Osborne.  Oversatt av Helge Krog.\nDen ufordragelige Jimmy dominerer alt og alle.  Handlingen foregår i leilig-\nheten der han bor sammen med sin kone, Alison.  Cliff er den eneste vennen som\nholder ut med ham.  Helena er en venninne av Alison.\nDe som er med:  Jimmy ........... Frank IVERSEN\n                Alison .......... Jannik BONNEVIE\n                Cliff ........... Bentein BAARDSON\n                Helena .......... Jorunn KJELLSBY",
+  "image": {
+    "imageInfo": {
+      "id": "PXzMGY6NMj4Y4zOaJX3gnA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.063085936,
+        "width": 1.0,
+        "height": 0.66796875
+      }
+    },
+    "imageWidthCropInfo": "PXzMGY6NMj4Y4zOaJX3gnA?x=0.00000000000000000&y=0.06308593750000001&w=1.00000000000000000&h=0.66796875000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/PXzMGY6NMj4Y4zOaJX3gnA0b3RuFnRHdUkCbXf1GIJdg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PXzMGY6NMj4Y4zOaJX3gnAXl1qbdaDm7AkCbXf1GIJdg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PXzMGY6NMj4Y4zOaJX3gnAZR6dH5yznwQkCbXf1GIJdg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/PXzMGY6NMj4Y4zOaJX3gnAKDSkXZlS_7ckCbXf1GIJdg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsteater",
+    "drama",
+    "skuespill",
+    "teaterstykke"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(229644000000+0200)/",
+    "actualTransmissionDate": "/Date(229644000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(229644000000+0200)/",
+    "actualTransmissionDate": "/Date(229644000000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Jorunn Kjellsby",
+      "role": "Skuespiller",
+      "givenName": "Jorunn",
+      "familyName": "Kjellsby"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002576&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H14M21S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002576&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002576&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002576&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00002576&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA002576-AR-199204038"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "12-04-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA002576-AR-199204038",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1976
+}

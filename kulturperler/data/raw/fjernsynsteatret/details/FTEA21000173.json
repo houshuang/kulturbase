@@ -1,0 +1,377 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA21000173"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00001074"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea21000173",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 14,
+  "episodeNumberOrDate": "13.11.1974",
+  "episodeTitle": "Edvard Munch",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA21000173",
+  "title": "Edvard Munch",
+  "originalTitle": "Edvard Munch",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Edvard Munch"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Edvard Munch"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Edvard Munch"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Edvard Munch"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H46M6.96S",
+  "shortDescription": "Edvard Munch (2:2). Filmen dekker tretti år av Munchs liv, og fokuserer på de ytre påvirkningene som formet kunsten hans. Av Peter Watkins.",
+  "longDescription": "Manus og regi:  Peter Watkins.  Arkitekt: Grethe Hejer.\nKostymer:  Ada Skolmen.  Sminke:  Karin Sæther.\nKommentarene blir lest av Svein Sturla Hungnes.\nFilmprogram.\nFILM del 3:\nEmanuel Goldstein i hans og Munchs hybel i St. Cloude, Paris - E.M. får beskjed\nom sin fars død.  Tanten forteller.  Vandring på kirkegård i Paris.  På kafe.\nI Louvre.  Rodins arbeider.  Munch maler.  \"Natt i St. Cloud\".  Om \"l'art pour\nl'art\" (kunst for kunstens skyld).  Munch på reise hjem til Norge.  Munch på\nsykehus.  \"Korsfestelse\" av Gauguin.  \"Kysset\" av Munch.  Chr. Krohg og Oda.\nJappe Nilssen.  Munchmaleri i Åsgårdstrand.  \"Melankoli\", \"Portrett av Inger\",\n\"Fortvilelse\".  Munch stiller ut i Berlin og det utløser skandale.  Munch i\nTyskland.  Strindberg og skandinavisk krets i \"Det sorte svin\".  Sigurd\nObstfelder, Chr. Krohg, Oda Krohg og Munch.  Ole Hansson og Strindberg om\nkvinner.  Dagny Juell.  Munch maler \"Madonna\".  Tyske kavallerister.\nPrzybyszewski om kjønnsliv.  Arbeidet på \"Dødsværelset\".  Munch i bordell.\nArbeide på \"Vampyren\".  Utstilling i København uten suksess. (52'37\").\nFILM del 4:\nHjemme hos Munchs.  Arbeidet med \"Madonna\".  Dagny Juell danser.  Strindberg\nog andre i Berlinkretsen.  \"Døden i sykeværelset\".  Selskap i \"Den sorte gris\".\nObstfelder leser \"Jeg ser\".  Tyske kavallerister.  \"Skriket\".  Chr. Krohg og\nOda Krohg.  \"Angst\".  Portrett av Dagny Juell.  Munch på bordell.  \"Piken og\ndøden\".  Kvinner på utstilling av Munchs arbeider om sine inntrykk.  Grafikk-\npresse og verksted.  Arbeidet med \"Dagen derpå\", \"Pubertet\".  Selvportrett.\nModellene til \"Pikene på broen\".  Utstilling i Kristiania som får dårlig\nomtale.\nArbeide med tresnitt.  \"Kysset\".  \"Synden\".  \"Jomfruene, skjøgen, enken\".\nKabaret.  Munch på stadig nye hotellrom.  Nye selvportrett.  \"Sjalusi\".\n(59'21\")\nI de viktigste rollene:\nEdvard Munch .................... Geir WESTBY\nFru Heiberg ..................... Gro FRAAS\nDr. Christian Munch ............. Johan HALSBOG\nTante Karen Bjølstad ............ Lotte TEIG\nLaura Catherine Munch ........... Gro JARTO\nInger Munch ..................... Rachel PEDERSEN\nLaura Munch ..................... Berit Rytter HASLE\nPeter Andreas Munch ............. Gunnar SKJETNE\nHans Jæger ...................... Kåre STORMARK\nDagny Juell ..................... Iselin BAST\nOda Lasson ...................... Eli RYG\nAugust Strindberg ............... Alf Kåre STRINDBERG\nStanislaw Przybyszewski ......... Ladislav Reznicek",
+  "image": {
+    "imageInfo": {
+      "id": "zTA2G0UezJep7AhinyBZxQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.728493869
+      }
+    },
+    "imageWidthCropInfo": "zTA2G0UezJep7AhinyBZxQ?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.72849387527839640",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/zTA2G0UezJep7AhinyBZxQtAEmvwUfmK0HCkL6oTqtwg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/zTA2G0UezJep7AhinyBZxQpEoqHBhwz2IHCkL6oTqtwg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/zTA2G0UezJep7AhinyBZxQ5B48E_MlmDsHCkL6oTqtwg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/zTA2G0UezJep7AhinyBZxQEAEpJkaHqpsHCkL6oTqtwg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "malerkunst",
+    "billedkunst",
+    "kunst",
+    "kunstnerstipend",
+    "paris",
+    "emanuel goldstein",
+    "underbevissthet",
+    "døden",
+    "høstutstillingen",
+    "sykdom"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "malerkunst",
+    "billedkunst",
+    "kunst",
+    "kunstnerstipend",
+    "paris",
+    "emanuel goldstein",
+    "underbevissthet",
+    "døden",
+    "høstutstillingen",
+    "sykdom"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Ladislav Reznicek",
+      "role": "Skuespiller",
+      "givenName": "Ladislav",
+      "familyName": "Reznicek"
+    },
+    {
+      "name": "Alf Kåre Strindberg",
+      "role": "Skuespiller",
+      "givenName": "Alf Kåre",
+      "familyName": "Strindberg"
+    },
+    {
+      "name": "Iselin Bast",
+      "role": "Skuespiller",
+      "givenName": "Iselin",
+      "familyName": "Bast"
+    },
+    {
+      "name": "Kåre Stormark",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Stormark"
+    },
+    {
+      "name": "Gunnar Skjetne",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Skjetne"
+    },
+    {
+      "name": "Berit Rytter Hasle",
+      "role": "Skuespiller",
+      "givenName": "Berit Rytter",
+      "familyName": "Hasle"
+    },
+    {
+      "name": "Rachel Pedersen",
+      "role": "Skuespiller",
+      "givenName": "Rachel",
+      "familyName": "Pedersen"
+    },
+    {
+      "name": "Gro Jarto",
+      "role": "Skuespiller",
+      "givenName": "Gro",
+      "familyName": "Jarto"
+    },
+    {
+      "name": "Lotte Teig",
+      "role": "Skuespiller",
+      "givenName": "Lotte",
+      "familyName": "Teig"
+    },
+    {
+      "name": "Johan Halsbog",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Halsbog"
+    },
+    {
+      "name": "Geir Westby",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Gro Fraas",
+      "role": "Skuespiller",
+      "givenName": "Gro",
+      "familyName": "Fraas"
+    },
+    {
+      "name": "Eli Ryg",
+      "role": "Skuespiller",
+      "givenName": "Eli",
+      "familyName": "Ryg"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(153529200000+0100)/",
+    "actualTransmissionDate": "/Date(153529200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(153529200000+0100)/",
+    "actualTransmissionDate": "/Date(153529200000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411530900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ladislav Reznicek",
+      "role": "Skuespiller",
+      "givenName": "Ladislav",
+      "familyName": "Reznicek"
+    },
+    {
+      "name": "Alf Kåre Strindberg",
+      "role": "Skuespiller",
+      "givenName": "Alf Kåre",
+      "familyName": "Strindberg"
+    },
+    {
+      "name": "Iselin Bast",
+      "role": "Skuespiller",
+      "givenName": "Iselin",
+      "familyName": "Bast"
+    },
+    {
+      "name": "Kåre Stormark",
+      "role": "Skuespiller",
+      "givenName": "Kåre",
+      "familyName": "Stormark"
+    },
+    {
+      "name": "Gunnar Skjetne",
+      "role": "Skuespiller",
+      "givenName": "Gunnar",
+      "familyName": "Skjetne"
+    },
+    {
+      "name": "Berit Rytter Hasle",
+      "role": "Skuespiller",
+      "givenName": "Berit Rytter",
+      "familyName": "Hasle"
+    },
+    {
+      "name": "Rachel Pedersen",
+      "role": "Skuespiller",
+      "givenName": "Rachel",
+      "familyName": "Pedersen"
+    },
+    {
+      "name": "Gro Jarto",
+      "role": "Skuespiller",
+      "givenName": "Gro",
+      "familyName": "Jarto"
+    },
+    {
+      "name": "Lotte Teig",
+      "role": "Skuespiller",
+      "givenName": "Lotte",
+      "familyName": "Teig"
+    },
+    {
+      "name": "Johan Halsbog",
+      "role": "Skuespiller",
+      "givenName": "Johan",
+      "familyName": "Halsbog"
+    },
+    {
+      "name": "Geir Westby",
+      "role": "Skuespiller",
+      "givenName": "Geir",
+      "familyName": "Westby"
+    },
+    {
+      "name": "Gro Fraas",
+      "role": "Skuespiller",
+      "givenName": "Gro",
+      "familyName": "Fraas"
+    },
+    {
+      "name": "Eli Ryg",
+      "role": "Skuespiller",
+      "givenName": "Eli",
+      "familyName": "Ryg"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000173&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H46M7S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000173&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000173&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000173&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA21000173&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA010173-AR-199211490"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "13-11-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA010173-AR-199211490",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1973
+}

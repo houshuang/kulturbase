@@ -1,0 +1,279 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FDRP23000194"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FDRP29000394"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/fdrp23000194",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "67247",
+  "seasonNumber": "1994",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "14.08.1994",
+  "episodeTitle": "Rød bil til salgs",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FDRP23000194",
+  "title": "Rød bil til salgs",
+  "originalTitle": "Rød bil til salgs",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Rød bil til salgs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Rød bil til salgs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rød bil til salgs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Rød bil til salgs"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT22M18.96S",
+  "shortDescription": "Hva kan skje fra en avisannonse? Ole vil selge bilen sin og en interessert melder seg. De avtaler å møtes og han viser seg å være blind.",
+  "longDescription": "Manuskript: John Luton og Dan Taxbro.\nProsjektleder: Dag Alveberg.\nOle vil selge bilen sin og setter inn en avisannonse.  Ganske raskt får han\nnapp.  En interessert melder seg på telefonen og de avtaler å møtes.  Til Oles\nstore overraskelse viser han seg å være blind.\nI rollene:  Ole Haug .................. Knut HAUGMARK\n            Frostad ................... Kai REMLOV\n            Liv ....................... Camilla STRØM-HENRIKSEN\n            Bruktbilhandler ........... Ulf MELSTAVIK\n            Fru Dahl .................. Anne Marie OTTERSEN\n            Drosjesjåfør .............. Arne SØRENSEN",
+  "image": {
+    "imageInfo": {
+      "id": "xu4clGhfeGzP3QkcFO1w-A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    },
+    "imageWidthCropInfo": "xu4clGhfeGzP3QkcFO1w-A?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=1.00000000000000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AwFsHNJfpET2I8rVsdxbFxA",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AeGD8CW1Z2LSI8rVsdxbFxA",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-A1ujT6eoZhjaI8rVsdxbFxA",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AqtuWQA6DkZ2I8rVsdxbFxA",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "fjernsynsdrama",
+    "tv-drama",
+    "drama"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "fjernsynsdrama",
+    "tv-drama",
+    "drama"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Ulf Melkstavik",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Melkstavik"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Camilla Strøm Henriksen",
+      "role": "Skuespiller",
+      "givenName": "Camilla Strøm",
+      "familyName": "Henriksen"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Arne Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Sørensen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(776815200000+0200)/",
+    "actualTransmissionDate": "/Date(776815200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(776815200000+0200)/",
+    "actualTransmissionDate": "/Date(776815200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1445486100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Knut Haugmark",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Haugmark"
+    },
+    {
+      "name": "Ulf Melkstavik",
+      "role": "Skuespiller",
+      "givenName": "Ulf",
+      "familyName": "Melkstavik"
+    },
+    {
+      "name": "Kai Remlov",
+      "role": "Skuespiller",
+      "givenName": "Kai",
+      "familyName": "Remlov"
+    },
+    {
+      "name": "Camilla Strøm Henriksen",
+      "role": "Skuespiller",
+      "givenName": "Camilla Strøm",
+      "familyName": "Henriksen"
+    },
+    {
+      "name": "Anne Marie Ottersen",
+      "role": "Skuespiller",
+      "givenName": "Anne Marie",
+      "familyName": "Ottersen"
+    },
+    {
+      "name": "Arne Sørensen",
+      "role": "Skuespiller",
+      "givenName": "Arne",
+      "familyName": "Sørensen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP23000194&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT22M19S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP23000194&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP23000194&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP23000194&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FDRP23000194&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FDRP230194-AR-199504801"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "14-08-1994",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FDRP230194-AR-199504801",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1994
+}

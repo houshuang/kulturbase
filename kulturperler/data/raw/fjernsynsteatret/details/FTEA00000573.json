@@ -1,0 +1,346 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000573"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000873"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000573",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60017",
+  "seasonNumber": "1973",
+  "episodeNumber": 12,
+  "episodeNumberOrDate": "23.10.1973",
+  "episodeTitle": "Et dukkehjem",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 14,
+  "startNextEpisode": 10,
+  "id": "FTEA00000573",
+  "title": "Et dukkehjem",
+  "originalTitle": "Et dukkehjem",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Et dukkehjem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Et dukkehjem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Et dukkehjem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Et dukkehjem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Ibsen i farger"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Et dukkehjem"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H26M37.76S",
+  "shortDescription": "Av Henrik Ibsen. Stykket foregår en julehelg etter åtte års ekteskap, hvor det ender med at Nora går fra mann og barn for å finne ut hvem hun selv er.",
+  "longDescription": "",
+  "image": {
+    "imageInfo": {
+      "id": "RKIOyNRzC2VNX23T8MkIEw",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0298898853,
+        "width": 1.0,
+        "height": 0.384221315
+      }
+    },
+    "imageWidthCropInfo": "RKIOyNRzC2VNX23T8MkIEw?x=0.00000000000000000&y=0.02988988600000000&w=1.00000000000000000&h=0.38422131100000000",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/RKIOyNRzC2VNX23T8MkIEwhLdtJuAUBTFkE_4G6oii0A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RKIOyNRzC2VNX23T8MkIEwlHyFy9WGr0pkE_4G6oii0A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RKIOyNRzC2VNX23T8MkIEwMd3q6oy3rQRkE_4G6oii0A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/RKIOyNRzC2VNX23T8MkIEwd-STAgm8YT1kE_4G6oii0A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Hallvard Blekastad",
+      "role": "Rapportansvarlig",
+      "givenName": "Hallvard",
+      "familyName": "Blekastad"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Ingrid Øvre Wiik",
+      "role": "Skuespiller",
+      "givenName": "Ingrid Øvre",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Henrik Ibsen",
+      "role": "Forfatter",
+      "givenName": "Henrik",
+      "familyName": "Ibsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(120175200000+0200)/",
+    "actualTransmissionDate": "/Date(120175200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(1160310600000+0200)/",
+    "actualTransmissionDate": "/Date(1160310623040+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": true
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411012500000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Hallvard Blekastad",
+      "role": "Rapportansvarlig",
+      "givenName": "Hallvard",
+      "familyName": "Blekastad"
+    },
+    {
+      "name": "/Ukjent/",
+      "role": "Rapportansvarlig",
+      "givenName": null,
+      "familyName": null
+    },
+    {
+      "name": "Knut Risan",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Risan"
+    },
+    {
+      "name": "Lise Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Lise",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Per Theodor Haugen",
+      "role": "Skuespiller",
+      "givenName": "Per Theodor",
+      "familyName": "Haugen"
+    },
+    {
+      "name": "Bente Børsum",
+      "role": "Skuespiller",
+      "givenName": "Bente",
+      "familyName": "Børsum"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Ingrid Øvre Wiik",
+      "role": "Skuespiller",
+      "givenName": "Ingrid Øvre",
+      "familyName": "Wiik"
+    },
+    {
+      "name": "Unn Vibeke Hol",
+      "role": "Skuespiller",
+      "givenName": "Unn Vibeke",
+      "familyName": "Hol"
+    },
+    {
+      "name": "Henrik Ibsen",
+      "role": "Forfatter",
+      "givenName": "Henrik",
+      "familyName": "Ibsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H35M42S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00010573-AR-199305464"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT50M55S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000573&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA00020573-AR-199305464"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "23-10-1973",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA00010573-AR-199305464",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1973
+}

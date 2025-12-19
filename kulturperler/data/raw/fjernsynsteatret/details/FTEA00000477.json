@@ -1,0 +1,448 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00000477"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000577"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00000477",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60021",
+  "seasonNumber": "1977",
+  "episodeNumber": 13,
+  "episodeNumberOrDate": "06.09.1977",
+  "episodeTitle": "Meister Olof",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 18,
+  "startNextEpisode": 10,
+  "id": "FTEA00000477",
+  "title": "Meister Olof",
+  "originalTitle": "Meister Olof",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Meister Olof"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Meister Olof"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Meister Olof"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Meister Olof"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT2H22M11.16S",
+  "shortDescription": "Unge magister Olof er i teneste både hos kyrkja og kongemakta. Begge vil bruke evnene hans til sine formål. Av August Strindberg.",
+  "longDescription": "Av August Strindberg.  Oversatt av Bjørn Endreson (nynorsk).\n\"Mester Olof\" er først og fremst et idedrama, om idealisme som taper i det\npolitiske spillet.  Selv om kirkereformasjonen formelt ble vedtatt av\nriksdagen i Vesterås i 1527, så var kampen før og etter reformasjonen lang\nog hard.  Det er denne maktkampen Strindberg har fortettet i et vel to\ntimer langt skuespill, som er spekket med konflikter - og hele veien med\nden unge magister Olof som midtpunkt.\nDe som er med:  Mester Olof ................ Vidar SANDEM\n                Gert boktrykker ............ Rolf SØDER\n                Gustav Vasa ................ Jon HEGGEDAL\n                Biskop Hans Brask .......... Georg LØKKEBERG\n                Marskalken ................. Finn KVALEM\n                Lars kansler ............... Ragnar OLASON\n                Lars Petri ................. Jan Erik AUNE\n                Hans Windrank .............. Roy BJØRNSTAD\n                Smålendingen ............... Jan HÅRSTAD\n                Mårten svartebror .......... Frank IVERSEN\n                Nils svartebror ............ Sigmund A. SIMONSEN\n                Vilhelm .................... Bentein BAARDSON\n                Bengt kirketjener .......... Frimann Falck CLAUSEN\n                Moren til Olof ............. Evy ENGELSBORG\n                Kristina, kona til Olof .... Jannik BONNEVIE",
+  "image": {
+    "imageInfo": {
+      "id": "ROyjDxsdKyzm6YdrzXFZ7w",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.018930288,
+        "width": 1.0,
+        "height": 0.681490362
+      }
+    },
+    "imageWidthCropInfo": "ROyjDxsdKyzm6YdrzXFZ7w?x=0.00000000000000000&y=0.01893028846153846&w=1.00000000000000000&h=0.68149038461538460",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/ROyjDxsdKyzm6YdrzXFZ7wYkwP2kjMKItUWNdiveLtJw",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ROyjDxsdKyzm6YdrzXFZ7w02wkueBQ_LxUWNdiveLtJw",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ROyjDxsdKyzm6YdrzXFZ7wnGpDQzRKXMRUWNdiveLtJw",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/ROyjDxsdKyzm6YdrzXFZ7wXKmmmR1pleRUWNdiveLtJw",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Jan Hårstad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Hårstad"
+    },
+    {
+      "name": "Ludvig Eikaas",
+      "role": "Skuespiller",
+      "givenName": "Ludvig",
+      "familyName": "Eikaas"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Sigmund A. Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Sigmund A.",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Jan Erik Aune",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Aune"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(242344800000+0200)/",
+    "actualTransmissionDate": "/Date(242344800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(242344800000+0200)/",
+    "actualTransmissionDate": "/Date(242344800000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438919700000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "IKKE UTFYLT",
+      "role": "Rapportansvarlig",
+      "givenName": "IKKE",
+      "familyName": "UTFYLT"
+    },
+    {
+      "name": "Vidar Sandem",
+      "role": "Skuespiller",
+      "givenName": "Vidar",
+      "familyName": "Sandem"
+    },
+    {
+      "name": "Bentein Baardson",
+      "role": "Skuespiller",
+      "givenName": "Bentein",
+      "familyName": "Baardson"
+    },
+    {
+      "name": "Ragnar Olason",
+      "role": "Skuespiller",
+      "givenName": "Ragnar",
+      "familyName": "Olason"
+    },
+    {
+      "name": "Rolf Søder",
+      "role": "Skuespiller",
+      "givenName": "Rolf",
+      "familyName": "Søder"
+    },
+    {
+      "name": "Vilhelm Lund",
+      "role": "Skuespiller",
+      "givenName": "Vilhelm",
+      "familyName": "Lund"
+    },
+    {
+      "name": "Georg Løkkeberg",
+      "role": "Skuespiller",
+      "givenName": "Georg",
+      "familyName": "Løkkeberg"
+    },
+    {
+      "name": "Knut Hultgren",
+      "role": "Skuespiller",
+      "givenName": "Knut",
+      "familyName": "Hultgren"
+    },
+    {
+      "name": "Jon Heggedal",
+      "role": "Skuespiller",
+      "givenName": "Jon",
+      "familyName": "Heggedal"
+    },
+    {
+      "name": "Roy Bjørnstad",
+      "role": "Skuespiller",
+      "givenName": "Roy",
+      "familyName": "Bjørnstad"
+    },
+    {
+      "name": "Jan Hårstad",
+      "role": "Skuespiller",
+      "givenName": "Jan",
+      "familyName": "Hårstad"
+    },
+    {
+      "name": "Ludvig Eikaas",
+      "role": "Skuespiller",
+      "givenName": "Ludvig",
+      "familyName": "Eikaas"
+    },
+    {
+      "name": "Frank Iversen",
+      "role": "Skuespiller",
+      "givenName": "Frank",
+      "familyName": "Iversen"
+    },
+    {
+      "name": "Sigmund A. Simonsen",
+      "role": "Skuespiller",
+      "givenName": "Sigmund A.",
+      "familyName": "Simonsen"
+    },
+    {
+      "name": "Frimann Falck Clausen",
+      "role": "Skuespiller",
+      "givenName": "Frimann Falck",
+      "familyName": "Clausen"
+    },
+    {
+      "name": "Evy Engelsborg",
+      "role": "Skuespiller",
+      "givenName": "Evy",
+      "familyName": "Engelsborg"
+    },
+    {
+      "name": "Jannik Bonnevie",
+      "role": "Skuespiller",
+      "givenName": "Jannik",
+      "familyName": "Bonnevie"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    },
+    {
+      "name": "Jan Erik Aune",
+      "role": "Skuespiller",
+      "givenName": "Jan Erik",
+      "familyName": "Aune"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H14M59S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000477AU"
+    },
+    {
+      "part": 2,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H7M12S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00000477&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA000477BU"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "06-09-1977",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA000477AU",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1977
+}

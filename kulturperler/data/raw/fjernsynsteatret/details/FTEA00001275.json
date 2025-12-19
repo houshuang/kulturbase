@@ -1,0 +1,265 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001275"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA01000475"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001275",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60020",
+  "seasonNumber": "1976",
+  "episodeNumber": 3,
+  "episodeNumberOrDate": "10.02.1976",
+  "episodeTitle": "Visittid",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001275",
+  "title": "Visittid",
+  "originalTitle": "Visittid",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Visittid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Visittid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Visittid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Visittid"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H50M31.96S",
+  "shortDescription": "William, venninnen Lisbeth, datteren og svigersønnen venter på at familiens yngste medlem, Lille Lene, skal komme hjem etter et lengre sykehusopphold. Av Sverre Udnæs.",
+  "longDescription": "Av Sverre Udnæs.  Instruktør: Arild Brinchmann.\nDekor:  Grethe Hejer.\nKostymer:  Mabi Helweg.\nOm sitt stykke skriver forfatteren:  Et hverdagsbilde - en\ngjennomsnittsfamilie.\nEtter konens død noen år tilbake i tiden har faren, William, knyttet seg til en\nvenninne fra sin arbeidsplass - og Lisbeth, er blitt boende hos ham - blitt en\ndel av hans hverdag.  Denne ettermiddagen i mai duker datteren Karin og sviger-\nsønnen Martin opp.  Sammen med William og Lisbeth venter de på at familiens\nyngste medlem - Lille Lene (ca 20 år) - skal komme hjem etter et lengre\nsykehus-\nopphold.  Stykket sisserer noen mennesker fra en samtidig norsk virkelighet.\nJeg har prøvd å fortelle noe om den ensomhet vi alle opplever - alene eller\nsammen med andre.  Depresjonen.  Familiesituasjonen er valgt fordi den er\nlangt fra utforsket, nærliggende og viktigst, fordi - tror jeg - for svært\nmange\nmennesker oppleves den som innsnevring av personlig frihet.  Dette har vært\nmitt utgangspunkt.\nDe som er med:\nWilliam ............ Jack FJELDSTAD\nLisbeth ............ Mona HOFLAND\nKarin .............. Ane HOEL\nMartin ............. Ole-Jørgen NILSEN\nLille Lene ......... Maryon EILERTSEN\n(Reprise: 771206)",
+  "image": {
+    "imageInfo": {
+      "id": "5vQSmmsL1pZlwSI-eyxtsA",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.7179043
+      }
+    },
+    "imageWidthCropInfo": "5vQSmmsL1pZlwSI-eyxtsA?x=0.00000000000000000&y=0.00000000000000000&w=1.00000000000000000&h=0.71790434235368150",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/5vQSmmsL1pZlwSI-eyxtsAy4DyMMuSOlHfSZHVi0iRTQ",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5vQSmmsL1pZlwSI-eyxtsA1MjWFO6dkj_fSZHVi0iRTQ",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5vQSmmsL1pZlwSI-eyxtsAcPLte76hBkTfSZHVi0iRTQ",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/5vQSmmsL1pZlwSI-eyxtsAFnVUdXqZzl7fSZHVi0iRTQ",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Maryon Eilertsen",
+      "role": "Skuespiller",
+      "givenName": "Maryon",
+      "familyName": "Eilertsen"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Ane Hoel",
+      "role": "Skuespiller",
+      "givenName": "Ane",
+      "familyName": "Hoel"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(192754800000+0100)/",
+    "actualTransmissionDate": "/Date(192754800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(192754800000+0100)/",
+    "actualTransmissionDate": "/Date(192754800000+0100)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1411098900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Maryon Eilertsen",
+      "role": "Skuespiller",
+      "givenName": "Maryon",
+      "familyName": "Eilertsen"
+    },
+    {
+      "name": "Mona Hofland",
+      "role": "Skuespiller",
+      "givenName": "Mona",
+      "familyName": "Hofland"
+    },
+    {
+      "name": "Ole-Jørgen Nilsen",
+      "role": "Skuespiller",
+      "givenName": "Ole-Jørgen",
+      "familyName": "Nilsen"
+    },
+    {
+      "name": "Jack Fjeldstad",
+      "role": "Skuespiller",
+      "givenName": "Jack",
+      "familyName": "Fjeldstad"
+    },
+    {
+      "name": "Ane Hoel",
+      "role": "Skuespiller",
+      "givenName": "Ane",
+      "familyName": "Hoel"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001275&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H50M32S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001275&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001275&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001275&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001275&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001275-AR-199206354"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "10-02-1976",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001275-AR-199206354",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1975
+}

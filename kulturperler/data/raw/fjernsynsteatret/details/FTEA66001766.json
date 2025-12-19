@@ -1,0 +1,235 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA66001766"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA66001466"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea66001766",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60011",
+  "seasonNumber": "1967",
+  "episodeNumber": 9,
+  "episodeNumberOrDate": "02.05.1967",
+  "episodeTitle": "Naboer",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 20,
+  "startNextEpisode": 10,
+  "id": "FTEA66001766",
+  "title": "Naboer",
+  "originalTitle": "Naboer",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Naboer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Naboer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Naboer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Naboer"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT1H4M11.96S",
+  "shortDescription": "En enslig hvit kvinne får besøk av sin fargede nabo. Gjennom samtalen blir hennes liberale holdning overfor svarte utfordret.",
+  "longDescription": "Av den britiske dramatikeren James Sauders.\nOversatt av Jan Erik Vold.\nDekor: Erik Hagen.  Masker: Torbjørg Amundsen.\nInstruktør: Knut H. Hansson-\nEt stykke om raseproblematikk og kulturkonflikter.\nEn enslig hvit kvinne får besøk av sin fargede nabo. Gjennom en\nsamtale med seksuelle overtoner blir hennes liberale holdning\noverfor svarte utfordret.  Moralen må være at også svarte må\ngodtas som individer, ikke bare som en masse.\nSkuespillere :\n               Bab CHRISTENSEN\n               Finn KVALEM",
+  "image": {
+    "imageInfo": {
+      "id": "YBI9RXxh_i4kbi0iuQrhpQ",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.157605529,
+        "width": 1.0,
+        "height": 0.5562548
+      }
+    },
+    "imageWidthCropInfo": "YBI9RXxh_i4kbi0iuQrhpQ?x=0.00000000000000000&y=0.15760552258805513&w=1.00000000000000000&h=0.55625478560490050",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/YBI9RXxh_i4kbi0iuQrhpQkFf-_XtwhwvKufCBAfUumg",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBI9RXxh_i4kbi0iuQrhpQaUUO3COaiPvKufCBAfUumg",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBI9RXxh_i4kbi0iuQrhpQSGHjvLiYma3KufCBAfUumg",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/YBI9RXxh_i4kbi0iuQrhpQnJhyGmr_mgjKufCBAfUumg",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "diskriminering",
+    "rasisme"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "fjernsynsdrama",
+    "skuespill",
+    "diskriminering",
+    "rasisme"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(-84247200000+0200)/",
+    "actualTransmissionDate": "/Date(-84247200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(-84247200000+0200)/",
+    "actualTransmissionDate": "/Date(-84247200000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "12",
+    "displayValue": "Aldersgrense 12 år",
+    "displayAge": "12+"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1438746900000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Bab Christensen",
+      "role": "Skuespiller",
+      "givenName": "Bab",
+      "familyName": "Christensen"
+    },
+    {
+      "name": "Finn Kvalem",
+      "role": "Skuespiller",
+      "givenName": "Finn",
+      "familyName": "Kvalem"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001766&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT1H4M12S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001766&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001766&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001766&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA66001766&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA66001766-AR-199001043"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "02-05-1967",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA66001766-AR-199001043",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1966
+}

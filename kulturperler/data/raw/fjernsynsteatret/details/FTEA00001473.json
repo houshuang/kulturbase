@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "self": {
+      "href": "/programs/FTEA00001473"
+    },
+    "parent": {
+      "href": "/"
+    },
+    "next": {
+      "href": "/programs/FTEA00000374"
+    },
+    "share": {
+      "href": "https://tv.nrk.no/program/ftea00001473",
+      "type": "text/html"
+    }
+  },
+  "seriesId": "fjernsynsteatret",
+  "seasonDisplayType": 3,
+  "seasonId": "60018",
+  "seasonNumber": "1974",
+  "episodeNumber": 8,
+  "episodeNumberOrDate": "07.05.1974",
+  "episodeTitle": "Gammel",
+  "seriesTitle": "Fjernsynsteatret",
+  "seriesDescription": "Filmer og teateroppsetninger fra NRKs faste scene.",
+  "totalEpisodesInSeason": 16,
+  "startNextEpisode": 10,
+  "id": "FTEA00001473",
+  "title": "Gammel",
+  "originalTitle": "Gammel",
+  "otherTitles": [
+    {
+      "type": {
+        "reference": null,
+        "type": "mainTitle"
+      },
+      "value": "Gammel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "originalTitle"
+      },
+      "value": "Gammel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Gammel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "secondaryTitle"
+      },
+      "value": "Gammel"
+    },
+    {
+      "type": {
+        "reference": null,
+        "type": "seriesTitle"
+      },
+      "value": "Fjernsynsteatret"
+    }
+  ],
+  "sourceMedium": 1,
+  "duration": "PT24M41.52S",
+  "shortDescription": "En eldre kvinne får besøk av en unggutt som skal montere en ekstra ringeklokke i leiligheten hennes. Av Werner Aspenström.",
+  "longDescription": "Av Kent Andersson og Bengt Bratt.  (Svenske satirikere).\nBearbeidet for fjernsyn av Karen Lisa Castberg.\nDekor:  Kristin Sundt-Hansen.  Instruktør:  Janken Varden.\nStykket forteller om \"tilstanden\" på et mentalsykehus, men også om tilstanden\nutenfor - i det samfunn som får såpass mange til å bryte sammen.  Pasientene\ner oss selv mer nakne og mer tydelige.  Et mentalsykehus kan være et trygt\nsted, et sted der en slipper å prøve å være \"normal\", et sted å gråte, skrike,\nsi det en mener uten å skamme seg eller være redd.\nMen  hvor mange leger ville selv unerkaste seg den behandling han gir andre?\nForfatterne kommenterer kritisk den medikamentelle terapi, som de mener\nangriper bare symptomer og ikke årsaker.  Alt står egentlig på hodet i det\nsykehuset det her fortelles om:  de mest livredde og uvirkelige og de egent-\nlige flyktninger er (med ett unntak) sykehusets stab.  De unndrar seg\npasientenes problemer og dypere kontakt med pasienten selv.  Å være psykisk\nsyk er pinlig, nesten usømmelig - best å skape avstand mellom seg selv og\nklientellet.\nDe som er med:\nUlla .................. Bente BØRSUM\nIngrid ................ Lise FJELDSTAD\nBirgit ................ Ragnhild MICHELSEN\nAnita ................. Jorunn KJELLSBY\nGustav ................ Roy BJØRNSTAD\nGøte .................. Arne BANG-HANSEN\nCharles ............... Sverre HANSEN\nHolger ................ Nils Ole OFTEBRO\nTerapeuten ............ Arne AAS\nOverlegen ............. Øyvind ØYEN\nDirektøren ............ Per CHRISTENSEN\nAssistentlegen ........ Kai REMLOV\nPleieren .............. Bjarne THOMSEN",
+  "image": {
+    "imageInfo": {
+      "id": "u2Zz0ZcGsT6ICAucF39k_A",
+      "cropInfo": {
+        "x": 0.0,
+        "y": 0.1532234,
+        "width": 1.0,
+        "height": 0.725795031
+      }
+    },
+    "imageWidthCropInfo": "u2Zz0ZcGsT6ICAucF39k_A?x=0.00000000000000000&y=0.15322339420654912&w=1.00000000000000000&h=0.72579502518891690",
+    "webImages": [
+      {
+        "imageUrl": "https://gfx.nrk.no/u2Zz0ZcGsT6ICAucF39k_AeSAop68SOXhDYxOchkbD1A",
+        "pixelWidth": 300
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/u2Zz0ZcGsT6ICAucF39k_AV_n9h8R9k4dDYxOchkbD1A",
+        "pixelWidth": 600
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/u2Zz0ZcGsT6ICAucF39k_AEZOBFh-pinxDYxOchkbD1A",
+        "pixelWidth": 960
+      },
+      {
+        "imageUrl": "https://gfx.nrk.no/u2Zz0ZcGsT6ICAucF39k_AGWjnrSeCQm9DYxOchkbD1A",
+        "pixelWidth": 1920
+      }
+    ],
+    "isDefaultImage": false
+  },
+  "subjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "mentionedList": [],
+  "programAndIndexPointsSubjectList": [
+    "drama",
+    "teater",
+    "skuespill"
+  ],
+  "programAndIndexPointsContributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    }
+  ],
+  "programAndIndexPointsMentionedList": [],
+  "firstTimeTransmitted": {
+    "publicationDate": "/Date(137109600000+0200)/",
+    "actualTransmissionDate": "/Date(137109600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "nextPlannedTransmissions": [],
+  "lastTimeTransmitted": {
+    "publicationDate": "/Date(137109600000+0200)/",
+    "actualTransmissionDate": "/Date(137109600000+0200)/",
+    "channelId": "nrk1",
+    "channelName": "NRK1",
+    "isRerun": false
+  },
+  "legalAge": {
+    "id": "A",
+    "displayValue": "Tillatt for alle",
+    "displayAge": "A"
+  },
+  "category": {
+    "id": "kultur",
+    "displayValue": "Kultur",
+    "isTvCategory": true,
+    "isRadioCategory": true
+  },
+  "externalLinks": [],
+  "usageRights": {
+    "isGeoBlocked": false,
+    "availableFrom": "/Date(1432094100000+0200)/",
+    "availableTo": "/Date(4102437600000+0100)/",
+    "hasRightsNow": true
+  },
+  "availability": {
+    "status": "available",
+    "hasLabel": false,
+    "label": null
+  },
+  "indexPoints": null,
+  "categories": [
+    {
+      "id": "kultur",
+      "displayValue": "Kultur",
+      "isTvCategory": true,
+      "isRadioCategory": true
+    },
+    {
+      "id": "nrk-arkivet",
+      "displayValue": "NRK-arkivet",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    },
+    {
+      "id": "drama-serier",
+      "displayValue": "Drama/serier",
+      "isTvCategory": true,
+      "isRadioCategory": false
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thomas Fasting",
+      "role": "Skuespiller",
+      "givenName": "Thomas",
+      "familyName": "Fasting"
+    },
+    {
+      "name": "Ragnhild Michelsen",
+      "role": "Skuespiller",
+      "givenName": "Ragnhild",
+      "familyName": "Michelsen"
+    }
+  ],
+  "mediaAssetsOnDemand": [
+    {
+      "part": 1,
+      "urlPattern": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001473&property=UrlPattern&useragent=python-requests%2f2.32.5",
+      "duration": "PT24M41S",
+      "bitrates": [
+        0
+      ],
+      "webVttSubtitles": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001473&property=WebVttSubtitles&useragent=python-requests%2f2.32.5",
+      "timedTextSubtitlesUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001473&property=TimedTextSubtitlesUrl&useragent=python-requests%2f2.32.5",
+      "hdsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001473&property=HdsUrl&useragent=python-requests%2f2.32.5",
+      "hlsUrl": "https://psapi.nrk.no/obsoleteproperty?endpoint=programs/FTEA00001473&property=HlsUrl&useragent=python-requests%2f2.32.5",
+      "carrierId": "FTEA001473-AR-199211512"
+    }
+  ],
+  "relatedProgramsBox": 1,
+  "hasReview": false,
+  "programUrlMetadata": "07-05-1974",
+  "isInLiveBuffer": false,
+  "liveBufferTransmissionChannel": null,
+  "liveBufferTransmissionStartTime": null,
+  "showLiveBuffer": false,
+  "hasSubtitles": false,
+  "subtitlesDefaultOn": false,
+  "carrierId": "FTEA001473-AR-199211512",
+  "isInSuperUniverse": false,
+  "reviewUrl": null,
+  "promoLabels": [],
+  "productionYear": 1973
+}

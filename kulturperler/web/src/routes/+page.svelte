@@ -2,6 +2,9 @@
 	import { searchPerformances, getYearRange, getPersonsByRole, getPerformanceCount, getPlaywrightsWithCounts, searchAuthors, getMediumCounts, getAllPlays, getAllPlaywrights, getPlayCount, getAuthorCount, type PlaywrightWithCount, type PlayWithDetails, type PlaywrightWithDetails } from '$lib/db';
 	import type { PerformanceWithDetails, Person, SearchFilters } from '$lib/types';
 	import { onMount } from 'svelte';
+	import { page as pageStore } from '$app/stores';
+	import { goto } from '$app/navigation';
+	import { browser } from '$app/environment';
 
 	type Tab = 'opptak' | 'skuespill' | 'forfattere';
 	let activeTab: Tab = 'opptak';
@@ -41,6 +44,78 @@
 	let authorsFilter = '';
 	let authorCount = 0;
 
+	// Track if we're initializing from URL (to avoid double-updating)
+	let initialized = false;
+
+	// Update URL with current state
+	function updateUrl(params: Record<string, string | number | undefined>, replace = true) {
+		if (!browser) return;
+		const url = new URL(window.location.href);
+		for (const [key, value] of Object.entries(params)) {
+			if (value === undefined || value === '' || value === 0) {
+				url.searchParams.delete(key);
+			} else {
+				url.searchParams.set(key, String(value));
+			}
+		}
+		goto(url.toString(), { replaceState: replace, noScroll: true, keepFocus: true });
+	}
+
+	// Read state from URL params
+	function readUrlParams() {
+		const params = $pageStore.url.searchParams;
+
+		// Tab
+		const tab = params.get('tab');
+		if (tab === 'skuespill' || tab === 'forfattere') {
+			activeTab = tab;
+		} else {
+			activeTab = 'opptak';
+		}
+
+		// Opptak filters
+		filters.query = params.get('q') || '';
+		filters.yearFrom = params.get('yearFrom') ? parseInt(params.get('yearFrom')!) : undefined;
+		filters.yearTo = params.get('yearTo') ? parseInt(params.get('yearTo')!) : undefined;
+		filters.playwrightId = params.get('playwright') ? parseInt(params.get('playwright')!) : undefined;
+		filters.directorId = params.get('director') ? parseInt(params.get('director')!) : undefined;
+		page = params.get('page') ? parseInt(params.get('page')!) : 0;
+
+		// Medium filter
+		const medium = params.get('medium');
+		if (medium === 'tv') {
+			showTv = true;
+			showRadio = false;
+			filters.mediums = ['tv'];
+		} else if (medium === 'radio') {
+			showTv = false;
+			showRadio = true;
+			filters.mediums = ['radio'];
+		} else {
+			showTv = true;
+			showRadio = true;
+			filters.mediums = undefined;
+		}
+
+		// Skuespill tab
+		const playsSort = params.get('playsSort');
+		if (playsSort === 'year' || playsSort === 'playwright') {
+			playsSortBy = playsSort;
+		} else {
+			playsSortBy = 'title';
+		}
+		playsFilter = params.get('playsFilter') || '';
+
+		// Forfattere tab
+		const authorsSort = params.get('authorsSort');
+		if (authorsSort === 'plays' || authorsSort === 'birth') {
+			authorsSortBy = authorsSort;
+		} else {
+			authorsSortBy = 'name';
+		}
+		authorsFilter = params.get('authorsFilter') || '';
+	}
+
 	onMount(() => {
 		try {
 			yearRange = getYearRange();
@@ -50,11 +125,35 @@
 			mediumCounts = getMediumCounts();
 			playCount = getPlayCount();
 			authorCount = getAuthorCount();
-			search();
+
+			// Read URL params on mount
+			readUrlParams();
+
+			// Load data based on active tab
+			if (activeTab === 'skuespill') {
+				loadPlays();
+			} else if (activeTab === 'forfattere') {
+				loadAuthors();
+			}
+			loadPerformances();
+
+			initialized = true;
 		} catch (e) {
 			console.error('Failed to load initial data:', e);
 		}
 	});
+
+	// React to URL changes (browser back/forward)
+	$: if (browser && initialized && $pageStore.url) {
+		readUrlParams();
+		if (activeTab === 'opptak') {
+			loadPerformances();
+		} else if (activeTab === 'skuespill') {
+			loadPlays();
+		} else if (activeTab === 'forfattere') {
+			loadAuthors();
+		}
+	}
 
 	function switchTab(tab: Tab) {
 		activeTab = tab;
@@ -64,6 +163,8 @@
 		if (tab === 'forfattere' && authors.length === 0) {
 			loadAuthors();
 		}
+		// Update URL with new tab (push new history entry)
+		updateUrl({ tab: tab === 'opptak' ? undefined : tab }, false);
 	}
 
 	function loadPlays() {
@@ -110,6 +211,16 @@
 	function search() {
 		page = 0;
 		loadPerformances();
+		// Update URL with search filters
+		updateUrl({
+			q: filters.query || undefined,
+			yearFrom: filters.yearFrom,
+			yearTo: filters.yearTo,
+			playwright: filters.playwrightId,
+			director: filters.directorId,
+			medium: showTv && showRadio ? undefined : (showTv ? 'tv' : (showRadio ? 'radio' : undefined)),
+			page: undefined
+		});
 	}
 
 	function loadPerformances() {
@@ -146,13 +257,25 @@
 		};
 		showTv = true;
 		showRadio = true;
-		search();
+		page = 0;
+		loadPerformances();
+		// Clear all filter params from URL
+		updateUrl({
+			q: undefined,
+			yearFrom: undefined,
+			yearTo: undefined,
+			playwright: undefined,
+			director: undefined,
+			medium: undefined,
+			page: undefined
+		});
 	}
 
 	function nextPage() {
 		if ((page + 1) * pageSize < totalCount) {
 			page++;
 			loadPerformances();
+			updateUrl({ page: page > 0 ? page : undefined });
 		}
 	}
 
@@ -160,6 +283,7 @@
 		if (page > 0) {
 			page--;
 			loadPerformances();
+			updateUrl({ page: page > 0 ? page : undefined });
 		}
 	}
 
@@ -178,10 +302,20 @@
 
 	function handlePlaysSortChange() {
 		loadPlays();
+		updateUrl({ playsSort: playsSortBy === 'title' ? undefined : playsSortBy });
 	}
 
 	function handleAuthorsSortChange() {
 		loadAuthors();
+		updateUrl({ authorsSort: authorsSortBy === 'name' ? undefined : authorsSortBy });
+	}
+
+	function handlePlaysFilterChange() {
+		updateUrl({ playsFilter: playsFilter || undefined });
+	}
+
+	function handleAuthorsFilterChange() {
+		updateUrl({ authorsFilter: authorsFilter || undefined });
 	}
 </script>
 
@@ -367,6 +501,7 @@
 					<input
 						type="search"
 						bind:value={playsFilter}
+						on:input={handlePlaysFilterChange}
 						placeholder="Søk i skuespill..."
 						class="plays-search"
 					/>
@@ -401,6 +536,7 @@
 					<input
 						type="search"
 						bind:value={authorsFilter}
+						on:input={handleAuthorsFilterChange}
 						placeholder="Søk i forfattere..."
 						class="authors-search"
 					/>

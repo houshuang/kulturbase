@@ -5,7 +5,7 @@
 	import { onMount } from 'svelte';
 
 	let person: Person | null = null;
-	let episodes: { role: string; episodes: EpisodeWithDetails[] }[] = [];
+	let playsByRole: { role: string; plays: { play_id: number; title: string; image_url: string | null; episode_count: number; year: number | null; playwright_name: string | null }[] }[] = [];
 	let playsWritten: { id: number; title: string; year_written: number | null; episode_count: number; image_url: string | null }[] = [];
 	let nrkAboutPrograms: NrkAboutProgram[] = [];
 	let loading = true;
@@ -39,7 +39,7 @@
 				}
 				playsStmt.free();
 
-				// Get episodes by role (excluding playwright since we show plays separately)
+				// Get plays by role (excluding playwright since we show plays separately)
 				const rolesStmt = db.prepare(`
 					SELECT DISTINCT role FROM episode_persons
 					WHERE person_id = ? AND role != 'playwright'
@@ -51,25 +51,32 @@
 				}
 				rolesStmt.free();
 
-				episodes = [];
+				playsByRole = [];
 				for (const role of roles) {
-					const epStmt = db.prepare(`
-						SELECT DISTINCT e.*, p.title as play_title, pw.name as playwright_name
+					const playsStmt = db.prepare(`
+						SELECT
+							p.id as play_id,
+							p.title,
+							MIN(e.image_url) as image_url,
+							COUNT(*) as episode_count,
+							MIN(e.year) as year,
+							pw.name as playwright_name
 						FROM episodes e
 						JOIN episode_persons ep ON e.prf_id = ep.episode_id
-						LEFT JOIN plays p ON e.play_id = p.id
+						JOIN plays p ON e.play_id = p.id
 						LEFT JOIN persons pw ON p.playwright_id = pw.id
 						WHERE ep.person_id = ? AND ep.role = ?
-						ORDER BY e.year DESC
+						GROUP BY p.id
+						ORDER BY year DESC
 					`);
-					epStmt.bind([personId, role]);
-					const eps: EpisodeWithDetails[] = [];
-					while (epStmt.step()) {
-						eps.push(epStmt.getAsObject() as unknown as EpisodeWithDetails);
+					playsStmt.bind([personId, role]);
+					const plays: { play_id: number; title: string; image_url: string | null; episode_count: number; year: number | null; playwright_name: string | null }[] = [];
+					while (playsStmt.step()) {
+						plays.push(playsStmt.getAsObject() as any);
 					}
-					epStmt.free();
-					if (eps.length > 0) {
-						episodes.push({ role, episodes: eps });
+					playsStmt.free();
+					if (plays.length > 0) {
+						playsByRole.push({ role, plays });
 					}
 				}
 
@@ -217,23 +224,32 @@
 			</section>
 		{/if}
 
-		{#each episodes as group}
+		{#each playsByRole as group}
 			<section class="role-section">
-				<h2>{getRoleLabel(group.role)} ({group.episodes.length})</h2>
+				<h2>{getRoleLabel(group.role)} ({group.plays.length})</h2>
 
-				<div class="episodes-grid">
-					{#each group.episodes as episode}
-						<a href="/episode/{episode.prf_id}" class="episode-card">
-							<div class="episode-image">
-								<img src={getImageUrl(episode.image_url)} alt={episode.title} loading="lazy" />
-							</div>
-							<div class="episode-info">
-								<h3>{episode.title}</h3>
-								{#if episode.year}
-									<span class="year">{episode.year}</span>
+				<div class="plays-grid">
+					{#each group.plays as play}
+						<a href="/play/{play.play_id}" class="play-card">
+							<div class="play-image">
+								{#if play.image_url}
+									<img src={getImageUrl(play.image_url)} alt={play.title} loading="lazy" />
+								{:else}
+									<div class="play-placeholder">
+										<span>🎭</span>
+									</div>
 								{/if}
-								{#if episode.playwright_name && group.role !== 'playwright'}
-									<span class="playwright">{episode.playwright_name}</span>
+							</div>
+							<div class="play-info">
+								<h3>{play.title}</h3>
+								{#if play.year}
+									<span class="play-year">{play.year}</span>
+								{/if}
+								{#if play.episode_count > 1}
+									<span class="play-count">{play.episode_count} deler</span>
+								{/if}
+								{#if play.playwright_name}
+									<span class="playwright">{play.playwright_name}</span>
 								{/if}
 							</div>
 						</a>
@@ -560,7 +576,8 @@
 		margin-right: 0.5rem;
 	}
 
-	.episode-info .playwright {
+	.episode-info .playwright,
+	.play-info .playwright {
 		display: block;
 		font-size: 0.85rem;
 		color: #666;

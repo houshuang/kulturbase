@@ -1,0 +1,729 @@
+# Archive.org items that could not be matched to existing episodes
+# Total: 107 items
+#======================================================================
+
+Title: De hvite bussene 26.01.1988 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00025387-AR-199025897
+NRK: https://tv.nrk.no/se?v=FTEA00025387
+Description: Et fjernsynsspill om forhistorien til Folke Bernadotte-aksjonen som reddet danske og norske sivile fanger fra tyske konsentrasjonsleire våren 1945. I forestillingen benyttes dokumentarmateriale og rek...
+
+----------------------------------------------------------------------
+
+Title: Semmelweis 30.08.1983 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00015183-AR-199006138
+NRK: https://tv.nrk.no/se?v=FTEA00015183
+Description: Ignaz Philipp Semmelweis (1818 - 1865) var en foregangsmann i medisinens historie, særlig kjent for sin forskning omkring barselfeberens årsaker. Jens Bjørneboes skuespill fra 1968 beskriver den sterk...
+
+----------------------------------------------------------------------
+
+Title: Semmelweis 30.08.1983 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00025183-AR-199006138
+NRK: https://tv.nrk.no/se?v=FTEA00025183
+Description: Ignaz Philipp Semmelweis (1818 - 1865) var en foregangsmann i medisinens historie, særlig kjent for sin forskning omkring barselfeberens årsaker. Jens Bjørneboes skuespill fra 1968 beskriver den sterk...
+
+----------------------------------------------------------------------
+
+Title: Bård Skolemesters historie 25.12.1982
+Archive.org: https://archive.org/details/NRKTV-FTEA007281-199103058-ST
+NRK: https://tv.nrk.no/se?v=FTEA007281
+Description: Marie Louise Tank leser historien om Bård skolemester fra romanen "En glad gutt" av Bjørnstjerne Bjørnson. Sendt i Fjernsynsteatret, første gang i 1982. Source: https://tv.nrk.no/serie/fjernsynsteatre...
+
+----------------------------------------------------------------------
+
+Title: Spider 13.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720797-AR-199718128
+NRK: https://tv.nrk.no/se?v=XTRF720797
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Tre søstre 02.10.1973 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00020673-AR-199305458
+NRK: https://tv.nrk.no/se?v=FTEA00020673
+Description: Fjernsynsteatret viser "Tre søstre" av Anton Tsjekov (1900). Tilrettelagt for fjernsyn av Sverre Udnæs, etter en oversettelse av Ejnar Thomassen. Stykket handler om offiserfamilien Prosorov som drives...
+
+----------------------------------------------------------------------
+
+Title: Ælle menneskja mine (Alle menneskene mine) 11.12.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA004789-AR-199049296
+NRK: https://tv.nrk.no/se?v=FTEA004789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00004789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Skuggen av ein helt (Skyggen av en helt) 19.12.1972
+Archive.org: https://archive.org/details/NRKTV-FTEA001272-AR-199311328
+NRK: https://tv.nrk.no/se?v=FTEA001272
+Description: Fjernsynsteatret syner "Skuggen av ein helt" av Sean O'Casey. (The shadow of a gunman). Omsett av Hartvig Kiran. Sminke: Kari Hermansen. Kostymer: Nan Austin. Dekorasjoner: Willi Nordraa. Handlinga er...
+
+----------------------------------------------------------------------
+
+Title: Spider 23.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722496-AR-199617205
+NRK: https://tv.nrk.no/se?v=XTRF722496
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002496 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 23.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720497-AR-199717886
+NRK: https://tv.nrk.no/se?v=XTRF720497
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 10.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721597-AR-199718823
+NRK: https://tv.nrk.no/se?v=XTRF721597
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Don Carlos 07.02.1967 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA66022166-AR-199314092
+NRK: https://tv.nrk.no/se?v=FTEA66022166
+Description: Fjernsynsteatret viser "Don Carlos", sørgespill av Friedrich Schiller. Oversatt av Gunnar Reiss-Andersen. Musikk: Arne Nordheim. Kostymer: Ivar Karlsen. Dekorasjoner: Guy Krohg. Stykket handler om Fil...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722296-AR-199617200
+NRK: https://tv.nrk.no/se?v=XTRF722296
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002296 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 06.03.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721097-AR-199718519
+NRK: https://tv.nrk.no/se?v=XTRF721097
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones Hundåla og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: http...
+
+----------------------------------------------------------------------
+
+Title: Spider 13.03.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721197-AR-199718764
+NRK: https://tv.nrk.no/se?v=XTRF721197
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 24.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721797-AR-199719155
+NRK: https://tv.nrk.no/se?v=XTRF721797
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722396-AR-199616708
+NRK: https://tv.nrk.no/se?v=XTRF722396
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002396 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Måken 03.04.1984 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00025883-AR-199056254
+NRK: https://tv.nrk.no/se?v=FTEA00025883
+Description: "En masse snakk om litteratur, lite handling og hundre kilo kjærlighet". Slik beskrev Anton Tsjekhov sitt eget stykke, Måken. I dette stykket viser Tsjekhov for første gang sin spesielle innsikt i men...
+
+----------------------------------------------------------------------
+
+Title: Ambassadøren 07.01.1986 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00015085-AR-199011327
+NRK: https://tv.nrk.no/se?v=FTEA00015085
+Description: Fjernsynsteatret viser "Ambassadøren" av Slawomir Mrozek. Oversatt av Kjell Askildsen. En ambassadør opplever at virkeligheten utenfor ambassaden plutselig trenger seg inn til ham - en asylsøkende fly...
+
+----------------------------------------------------------------------
+
+Title: Spider 14.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722796-AR-199616927
+NRK: https://tv.nrk.no/se?v=XTRF722796
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002796 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 02.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723496-AR-199702056
+NRK: https://tv.nrk.no/se?v=XTRF723496
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003496 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Et dukkehjem 23.10.1973 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00010573-AR-199305464
+NRK: https://tv.nrk.no/se?v=FTEA00010573
+Description: Drama av Henrik Ibsen (1879). Stykket er språklig bearbeidet av Hans Heiberg. Temaet i skuespillet er kvinnens vanskelige posisjon i det borgerlige ekteskapet. Nora har følt seg som en artig liten duk...
+
+----------------------------------------------------------------------
+
+Title: Tre søstre 02.10.1973 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00010673-AR-199305458
+NRK: https://tv.nrk.no/se?v=FTEA00010673
+Description: Fjernsynsteatret viser "Tre søstre" av Anton Tsjekov (1900). Tilrettelagt for fjernsyn av Sverre Udnæs, etter en oversettelse av Ejnar Thomassen. Stykket handler om offiserfamilien Prosorov som drives...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 7:13
+Archive.org: https://archive.org/details/NRK-FBUA031385-AR-199052132
+Description: Humoristisk serie av og med Tramteatret. (7) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Peer Gynt 26.12.1986 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FUHA03010086-AR-199010674
+NRK: https://tv.nrk.no/se?v=FUHA03010086
+Description: Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret. Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Gengangere 29.08.1978 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00021078-AR-199203871
+NRK: https://tv.nrk.no/se?v=FTEA00021078
+Description: Drama i tre akter av Henrik Ibsen (1881). Skuespillet behandler blant annet dobbeltmoral, utroskap og kjønnssykdommer, og var et kontroversielt verk da det ble utgitt. Medvirkende: Henny Moan (Fru Hel...
+
+----------------------------------------------------------------------
+
+Title: Spider 30.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722596-AR-199616726
+NRK: https://tv.nrk.no/se?v=XTRF722596
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002596 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 11.11.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723196-AR-199701373
+NRK: https://tv.nrk.no/se?v=XTRF723196
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Nostalgi når du vil! Gjensyn med NRK-historie. Source: https://tv.nrk.no/serie/sp...
+
+----------------------------------------------------------------------
+
+Title: Smeltedigelen 31.08.1965 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA65021565-AR-199405178
+NRK: https://tv.nrk.no/se?v=FTEA65021565
+Description: Fjernsynsteatret viser skuespillet "Smeltedigelen" av den amerikanske forfatteren og dramatikeren Arthur Miller. Original tittel: "The Crucible". Handlingen i stykket foregår i hekseprosessenes tid i ...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 8:10
+Archive.org: https://archive.org/details/NRK-OBUI53000806AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000806 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Don Carlos 07.02.1967 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA66012166-AR-199314092
+NRK: https://tv.nrk.no/se?v=FTEA66012166
+Description: Fjernsynsteatret viser "Don Carlos", sørgespill av Friedrich Schiller. Oversatt av Gunnar Reiss-Andersen. Musikk: Arne Nordheim. Kostymer: Ivar Karlsen. Dekorasjoner: Guy Krohg. Stykket handler om Fil...
+
+----------------------------------------------------------------------
+
+Title: Ambassadøren 07.01.1986 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00025085-AR-199011327
+NRK: https://tv.nrk.no/se?v=FTEA00025085
+Description: Fjernsynsteatret viser "Ambassadøren" av Slawomir Mrozek. Oversatt av Kjell Askildsen. En ambassadør opplever at virkeligheten utenfor ambassaden plutselig trenger seg inn til ham - en asylsøkende fly...
+
+----------------------------------------------------------------------
+
+Title: Peer Gynt 26.12.1986 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FUHA03020086-AR-199010674
+NRK: https://tv.nrk.no/se?v=FUHA03020086
+Description: Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret. Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Meister Olof (Mester Olof) 06.09.1977 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA000477AU
+NRK: https://tv.nrk.no/se?v=FTEA000477
+Description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster Olof). Omsett av Bjørn Endreson. Lagt til rette for fjernsyn av Svein Scharffenberg og Åse Vikene. Sminke: Tobben Amundsen. Kostyme:...
+
+----------------------------------------------------------------------
+
+Title: Spel utan ord (Spill uten ord) 10.05.1988
+Archive.org: https://archive.org/details/NRKTV-FTEA006487-AR-199305268
+NRK: https://tv.nrk.no/se?v=FTEA006487
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00006487 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Den fjerde nattevakt 07.04.1960 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA60020060-AR-199206204
+NRK: https://tv.nrk.no/se?v=FTEA60020060
+Description: Fjernsynsteater etter en roman av Johan Falkberget, om kjærligheten mellom presten Sigismund og Gunhild, som begge er gift på hver sin kant. Handlingen er lagt til bergstaden Røros. I hovedrollene: Ar...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 1:6
+Archive.org: https://archive.org/details/NRK-FBUA03015079-AR-199210211
+Description: Dramaserie i seks deler av og med Tramteatret. Ragna Rekkverk, Frida Frosk og Sandra Salamander vil synge med Pelle Parafins Bøljeband, men gutta vil ikke ha dem med. Ved et genialt slumpetreff finner...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 4:6
+Archive.org: https://archive.org/details/NRK-FBUA03045079-AR-199210634
+Description: Dramaserie i seks deler av og med Tramteatret. En spennende fortelling om Ragna Rekkverk, Frida Frosk og Sandra Salamander som finner opp et sannhetsserum, nærmest ved et genialt slumpetreff. Jakten p...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 6:10
+Archive.org: https://archive.org/details/NRK-OBUI53000606AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000606 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Skolkamerater (Skolekamerater) 09.06.1962
+Archive.org: https://archive.org/details/NRKTV-FTEA000062-AR-199416101
+NRK: https://tv.nrk.no/se?v=FTEA000062
+Description: Stig Järell leser en monolog av Kar de Mumma - om gjensyn med en gammel skolekamerat. Gjestespill fra Lilla Teatern, Helsinki. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62003162 Upload...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 6:13
+Archive.org: https://archive.org/details/NRK-FBUA031285-AR-199052139
+Description: Humoristisk serie av og med Tramteatret. (6) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Læraren 21.11.1963 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA63021463-AR-199416080
+NRK: https://tv.nrk.no/se?v=FTEA63021463
+Description: Drama av den norske forfatteren Arne Garborg (1896). Handlingen foregår på Jæren i 1890. Fariseeren Paulus Hove vil selge farsgården for å dra ut som predikant, men møter motstand i lokalsamfunnet og ...
+
+----------------------------------------------------------------------
+
+Title: Klaar.... en... too... kjøøør (Klar, en, to, kjør) 19.02.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA014190-AR-199305365
+NRK: https://tv.nrk.no/se?v=FTEA014190
+Description: Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004190 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 07.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721497-AR-199718777
+NRK: https://tv.nrk.no/se?v=XTRF721497
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 25.11.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723396-AR-199701473
+NRK: https://tv.nrk.no/se?v=XTRF723396
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003396 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723596-AR-199702057
+NRK: https://tv.nrk.no/se?v=XTRF723596
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003596 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 07.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722696-AR-199616869
+NRK: https://tv.nrk.no/se?v=XTRF722696
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002696 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Lat ugraset vekse (La ugresset vokse) 30.01.1973
+Archive.org: https://archive.org/details/NRKTV-FTEA001972-AR-199212243
+NRK: https://tv.nrk.no/se?v=FTEA001972
+Description: Fjernsynsteatret syner "Lat ugraset vekse" av Olle Mattson. (Låt ogräset växe, 1971). Omsett av Jo Ørjasæter. Dekorasjoner: Lajla Hovland. Kostyme: Nan Austin. Det er byen sin krig mot bygda svensken ...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 11:13
+Archive.org: https://archive.org/details/NRK-FBUA031785-AR-199052136
+Description: Humoristisk serie av og med Tramteatret. (11) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? ...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 4:10
+Archive.org: https://archive.org/details/NRK-OBUI53000406AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000406 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 5:10
+Archive.org: https://archive.org/details/NRK-OBUI53000506AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000506 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Peer Gynt 26.12.1986 (Part 3)
+Archive.org: https://archive.org/details/NRKTV-FUHA03030086-AR-199010674
+NRK: https://tv.nrk.no/se?v=FUHA03030086
+Description: Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret. Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720397-AR-199717859
+NRK: https://tv.nrk.no/se?v=XTRF720397
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Den fjerde nattevakt 07.04.1960 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA60010060-AR-199206204
+NRK: https://tv.nrk.no/se?v=FTEA60010060
+Description: Fjernsynsteater etter en roman av Johan Falkberget, om kjærligheten mellom presten Sigismund og Gunhild, som begge er gift på hver sin kant. Handlingen er lagt til bergstaden Røros. I hovedrollene: Ar...
+
+----------------------------------------------------------------------
+
+Title: Raude roser åt meg (Røde roser til meg) 27.04.1965 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA65011265-AR-199405171
+NRK: https://tv.nrk.no/se?v=FTEA65011265
+Description: Fjernsynsteatret viser "Raude roser åt meg" av Sean O'Casey. (Red roses for me). Oversatt av Hartvig Kiran. Dekorasjon: Olav Ile. Lagt til rette for fjernsyn av Knut Thomassen. I fattigkvarteret i Dub...
+
+----------------------------------------------------------------------
+
+Title: Spider 17.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721697-AR-199719113
+NRK: https://tv.nrk.no/se?v=XTRF721697
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 21.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722896-AR-199616978
+NRK: https://tv.nrk.no/se?v=XTRF722896
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002896 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Fjernsynsteatret viser 23.08.1977
+Archive.org: https://archive.org/details/NRKTV-FTEA001577-ST199000002
+NRK: https://tv.nrk.no/se?v=FTEA001577
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00001577 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Kirsebærhaven 06.03.1973 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00012372-AR-199212249
+NRK: https://tv.nrk.no/se?v=FTEA00012372
+Description: Fjernsynsteatret viser "Kirsebærhaven" av Anton Tsjekhov. Skuespill fra 1904. Oversatt fra russisk av Nicolai Geelmuyden. Dekorasjoner: Christian Egemar. Kostymer: Nan Austin. Handlingen er lagt til d...
+
+----------------------------------------------------------------------
+
+Title: De hvite bussene 26.01.1988 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00015387-AR-199025897
+NRK: https://tv.nrk.no/se?v=FTEA00015387
+Description: Et fjernsynsspill om forhistorien til Folke Bernadotte-aksjonen som reddet danske og norske sivile fanger fra tyske konsentrasjonsleire våren 1945. I forestillingen benyttes dokumentarmateriale og rek...
+
+----------------------------------------------------------------------
+
+Title: Kirsebærhaven 06.03.1973 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00022372-AR-199212249
+NRK: https://tv.nrk.no/se?v=FTEA00022372
+Description: Fjernsynsteatret viser "Kirsebærhaven" av Anton Tsjekhov. Skuespill fra 1904. Oversatt fra russisk av Nicolai Geelmuyden. Dekorasjoner: Christian Egemar. Kostymer: Nan Austin. Handlingen er lagt til d...
+
+----------------------------------------------------------------------
+
+Title: Kva Joe? (Hva Joe?) 10.05.1977
+Archive.org: https://archive.org/details/NRKTV-FTEA001976-AR-199204039
+NRK: https://tv.nrk.no/se?v=FTEA001976
+Description: Fjernsynsteatret viser "Kva Joe?" av Samuel Beckett. (S-hv). Omsett og instruert av Bjørn Endreson. Becketts første TV-spel, enakter skrevet 1965. Å sjå stykket er som å vere inne i eit menneske som e...
+
+----------------------------------------------------------------------
+
+Title: Kreditorene 26.03.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA014490-AR-199305369
+NRK: https://tv.nrk.no/se?v=FTEA014490
+Description: Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004490 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 27.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720997-AR-199718445
+NRK: https://tv.nrk.no/se?v=XTRF720997
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: gnr 16.09.1991
+Archive.org: https://archive.org/details/NRKTV-FTEA006190-AR-199305380
+NRK: https://tv.nrk.no/se?v=FTEA006190
+Description: Av den danske forfatteren Vita Andersen, oversatt av IdaLou Larsen. En ung jente har lørdagsfri og skal planlegge dagen så den får mening og gjør henne glad. Hvordan? Det finnes så mange oppskrifter, ...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 3:6
+Archive.org: https://archive.org/details/NRK-FBUA03035079-AR-199210500
+Description: Dramaserie i seks deler av og med Tramteatret. En spennende fortelling om Ragna Rekkverk, Frida Frosk og Sandra Salamander som finner opp et sannhetsserum, nærmest ved et genialt slumpetreff. Serumet ...
+
+----------------------------------------------------------------------
+
+Title: Spider 30.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720597-AR-199717917
+NRK: https://tv.nrk.no/se?v=XTRF720597
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Sabeltigerens sønn 14.11.1989 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00018188-AR-199034772
+NRK: https://tv.nrk.no/se?v=FTEA00018188
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00008188 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Den 25. time 04.12.1990 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00023590-AR-199049275
+NRK: https://tv.nrk.no/se?v=FTEA00023590
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003590 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720297-AR-199717812
+NRK: https://tv.nrk.no/se?v=XTRF720297
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: I de hvites Amerika 28.09.1965 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA65010565-AR-199405450
+NRK: https://tv.nrk.no/se?v=FTEA65010565
+Description: Fjernsynsteatret viser dokumentardramaet "I de hvites Amerika" av den amerikanske historikeren og dramatikeren Martin B. Duberman. Et dokumentarskuespill om rasemotsetninger og kampen for frihet og fu...
+
+----------------------------------------------------------------------
+
+Title: Spider 06.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF72000697AW
+NRK: https://tv.nrk.no/se?v=XTRF72000697
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Blindgjenger 01.10.1985 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA01012284-AR-199061014
+NRK: https://tv.nrk.no/se?v=FTEA01012284
+Description: Fjernsynsteatret viser Blindgjenger av Erling Pedersen. Hvilke psykologiske og sosiale mekanismer ligger bak voldshandlinger som ikke har mål eller mening for utenforstående? Framveksten av nynazistis...
+
+----------------------------------------------------------------------
+
+Title: Gengangere 29.08.1978 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00011078-AR-199203871
+NRK: https://tv.nrk.no/se?v=FTEA00011078
+Description: Drama i tre akter av Henrik Ibsen (1881). Skuespillet behandler blant annet dobbeltmoral, utroskap og kjønnssykdommer, og var et kontroversielt verk da det ble utgitt. Medvirkende: Henny Moan (Fru Hel...
+
+----------------------------------------------------------------------
+
+Title: Ransakningen 21.11.1967 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00011067-AR-199001008
+NRK: https://tv.nrk.no/se?v=FTEA00011067
+Description: Fjernsynsteatret viser "Ransakningen", et oratorium i 11 sanger av Peter Weiss. Oversatt av Ole Grepp. Symbolsk "rekonstruksjon" av Auschwitzprosessen i Frankfurt i 1963 - 1965. Rettssaker mot de ansv...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 4:13
+Archive.org: https://archive.org/details/NRK-FBUA031085-AR-199052130
+Description: Humoristisk serie av og med Tramteatret. (4) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Klaar.... en... too... kjøøør (Klar, en, to, kjør) 20.02.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA002789-AR-199305366
+NRK: https://tv.nrk.no/se?v=FTEA002789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00002789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Nederlaget 21.03.1966 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00010066-AR-199316241
+NRK: https://tv.nrk.no/se?v=FTEA00010066
+Description: Nordisk teater i TV - Dikteren og tiden. Fjernsynsteatret viser "Nederlaget" av Nordahl Grieg. Skuespill fra 1937. Bearbeidet for fjernsyn av Per Bronken. Kostymer: Guy Krohg. Dekorasjoner: Guy Krohg ...
+
+----------------------------------------------------------------------
+
+Title: Vildanden 08.09.1970 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00010970-AR-199311805
+NRK: https://tv.nrk.no/se?v=FTEA00010970
+Description: Av Henrik Ibsen. Det klassiske drama om "livsløgnen". Gregers Werle har satt sin livsoppgave i å avsløre "livsløgnen" og fremme "den ideale forandring". Avslører at Hedvig ikke er Hjalmar Ekdals datte...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 7:10
+Archive.org: https://archive.org/details/NRK-OBUI53000706AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000706 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 10:10
+Archive.org: https://archive.org/details/NRK-OBUI53001006AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53001006 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 9:13
+Archive.org: https://archive.org/details/NRK-FBUA031585-AR-199052134
+Description: Humoristisk serie av og med Tramteatret. (9) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: I de hvites Amerika 28.09.1965 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA65020565-AR-199405450
+NRK: https://tv.nrk.no/se?v=FTEA65020565
+Description: Fjernsynsteatret viser dokumentardramaet "I de hvites Amerika" av den amerikanske historikeren og dramatikeren Martin B. Duberman. Et dokumentarskuespill om rasemotsetninger og kampen for frihet og fu...
+
+----------------------------------------------------------------------
+
+Title: Kodemus 07.12.1971
+Archive.org: https://archive.org/details/NRKTV-FTEA001271-AR-199001040
+NRK: https://tv.nrk.no/se?v=FTEA001271
+Description: Fjernsynsteatret viser "Kodémus" av Tor Åge Bringsværd. Et norsk fjernsynsspill, science fiction, hvor Morten Kolstad har laget dreiebok etter Bringsværds novelle utgitt i "Probok" (1968). I framtidsv...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 6:6
+Archive.org: https://archive.org/details/NRK-FBUA03065079-AR-199210692
+Description: Dramaserie i seks deler av og med Tramteatret. Siste episode i den spennende fortellingen om Ragna Rekkverk, Frida Frosk og Sandra Salamander som finner opp et sannhetsserum, nærmest ved et genialt sl...
+
+----------------------------------------------------------------------
+
+Title: Måken 03.04.1984 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00015883-AR-199056254
+NRK: https://tv.nrk.no/se?v=FTEA00015883
+Description: "En masse snakk om litteratur, lite handling og hundre kilo kjærlighet". Slik beskrev Anton Tsjekhov sitt eget stykke, Måken. I dette stykket viser Tsjekhov for første gang sin spesielle innsikt i men...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723696-AR-199702059
+NRK: https://tv.nrk.no/se?v=XTRF723696
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003696 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Vintersolhverv 10.01.1963 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA63011163-AR-199415920
+NRK: https://tv.nrk.no/se?v=FTEA63011163
+Description: Fjernsynsteatret viser "Vintersolhverv" av Maxwell Anderson. Oversatt av Harald Sverdrup. Et forbryterdrama fra slumkvarterene i Brooklyn på 1920-tallet. Langtidsfangen Trock blir løslatt fra fengsele...
+
+----------------------------------------------------------------------
+
+Title: Læraren 21.11.1963 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA63011463-AR-199416080
+NRK: https://tv.nrk.no/se?v=FTEA63011463
+Description: Drama av den norske forfatteren Arne Garborg (1896). Handlingen foregår på Jæren i 1890. Fariseeren Paulus Hove vil selge farsgården for å dra ut som predikant, men møter motstand i lokalsamfunnet og ...
+
+----------------------------------------------------------------------
+
+Title: Et dukkehjem 23.10.1973 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00020573-AR-199305464
+NRK: https://tv.nrk.no/se?v=FTEA00020573
+Description: Drama av Henrik Ibsen (1879). Stykket er språklig bearbeidet av Hans Heiberg. Temaet i skuespillet er kvinnens vanskelige posisjon i det borgerlige ekteskapet. Nora har følt seg som en artig liten duk...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 2:6
+Archive.org: https://archive.org/details/NRK-FBUA03025079-AR-199210213
+Description: Dramaserie i seks deler av og med Tramteatret. En spennende fortelling om Ragna Rekkverk, Frida Frosk og Sandra Salamander som finner opp et sannhetsserum, nærmest ved et genialt slumpetreff. Pelle Pa...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 3:13
+Archive.org: https://archive.org/details/NRK-FBUA030985-AR-199052129
+Description: Humoristisk serie av og med Tramteatret. (3) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 1:10
+Archive.org: https://archive.org/details/NRK-OBUI53000106AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000106 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Pelle Parafins bøljeband og automatspøkelsene 9:10
+Archive.org: https://archive.org/details/NRK-OBUI53000906AA
+Description: - av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk, Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny. Source: nrk:OBUI53000906 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 28.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722996-AR-199617018
+NRK: https://tv.nrk.no/se?v=XTRF722996
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002996 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Vildanden 08.09.1970 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA00020970-AR-199311805
+NRK: https://tv.nrk.no/se?v=FTEA00020970
+Description: Av Henrik Ibsen. Det klassiske drama om "livsløgnen". Gregers Werle har satt sin livsoppgave i å avsløre "livsløgnen" og fremme "den ideale forandring". Avslører at Hedvig ikke er Hjalmar Ekdals datte...
+
+----------------------------------------------------------------------
+
+Title: Serum Serum 5:6
+Archive.org: https://archive.org/details/NRK-FBUA03055079-AR-199407899
+Description: Dramaserie i seks deler av og med Tramteatret. En spennende fortelling om Ragna Rekkverk, Frida Frosk og Sandra Salamander som finner opp et sannhetsserum, nærmest ved et genialt slumpetreff. Jentene ...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 1:13
+Archive.org: https://archive.org/details/NRK-FBUA030785-AR-199052127
+Description: Humoristisk serie av og med Tramteatret. (1) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 5:13
+Archive.org: https://archive.org/details/NRK-FBUA031185-AR-199052131
+Description: Humoristisk serie av og med Tramteatret. (5) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Nederlaget 21.03.1966 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA66022966-AR-199316241
+NRK: https://tv.nrk.no/se?v=FTEA66022966
+Description: Nordisk teater i TV - Dikteren og tiden. Fjernsynsteatret viser "Nederlaget" av Nordahl Grieg. Skuespill fra 1937. Bearbeidet for fjernsyn av Per Bronken. Kostymer: Guy Krohg. Dekorasjoner: Guy Krohg ...
+
+----------------------------------------------------------------------
+
+Title: Spider 20.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720897-AR-199718277
+NRK: https://tv.nrk.no/se?v=XTRF720897
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Kreditorene 27.03.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA003789-AR-199305370
+NRK: https://tv.nrk.no/se?v=FTEA003789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Parkbänk (Parkbenk) 11.01.1962
+Archive.org: https://archive.org/details/NRKTV-FTEA000062-AR-199416089
+NRK: https://tv.nrk.no/se?v=FTEA000062
+Description: Drama av den finske dramatikeren Solveig von Schoultz. Gjestespill fra Lilla Teatern, Helsinki. Fra oppførelse i Centralteatret i Oslo. Et tilfeldig møte mellom to mennesker, fra så forskjellig miljø ...
+
+----------------------------------------------------------------------
+
+Title: Meister Olof (Mester Olof) 06.09.1977 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA000477BU
+NRK: https://tv.nrk.no/se?v=FTEA000477
+Description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster Olof). Omsett av Bjørn Endreson. Lagt til rette for fjernsyn av Svein Scharffenberg og Åse Vikene. Sminke: Tobben Amundsen. Kostyme:...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 8:13
+Archive.org: https://archive.org/details/NRK-FBUA031485-AR-199052133
+Description: Humoristisk serie av og med Tramteatret. (8) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? M...
+
+----------------------------------------------------------------------
+
+Title: Randi og Ronnys restaurant 12:13
+Archive.org: https://archive.org/details/NRK-FBUA031885-AR-199052137
+Description: Humoristisk serie av og med Tramteatret. (12) Alle kjenner skurkene Randi og Ronny, så det er ikke lett å få til skurkestreker lenger. De må slå inn på ærlige veier - hvorfor ikke restaurantbransjen? ...
+
+----------------------------------------------------------------------
+
+Title: Det store vi - innledning 24.10.1983
+Archive.org: https://archive.org/details/NRKTV-FTEA006883-AR-199006134
+NRK: https://tv.nrk.no/se?v=FTEA006883
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00006883 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+

@@ -1,0 +1,326 @@
+# Archive.org items that could not be matched or imported
+# Total: 46 items
+#======================================================================
+
+Title: Bård Skolemesters historie 25.12.1982
+Archive.org: https://archive.org/details/NRKTV-FTEA007281-199103058-ST
+NRK: https://tv.nrk.no/se?v=FTEA007281
+Description: Marie Louise Tank leser historien om Bård skolemester fra romanen "En glad gutt" av Bjørnstjerne Bjørnson. Sendt i Fjernsynsteatret, første gang i 1982. Source: https://tv.nrk.no/serie/fjernsynsteatre...
+
+----------------------------------------------------------------------
+
+Title: Spider 13.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720797-AR-199718128
+NRK: https://tv.nrk.no/se?v=XTRF720797
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Ælle menneskja mine (Alle menneskene mine) 11.12.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA004789-AR-199049296
+NRK: https://tv.nrk.no/se?v=FTEA004789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00004789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Skuggen av ein helt (Skyggen av en helt) 19.12.1972
+Archive.org: https://archive.org/details/NRKTV-FTEA001272-AR-199311328
+NRK: https://tv.nrk.no/se?v=FTEA001272
+Description: Fjernsynsteatret syner "Skuggen av ein helt" av Sean O'Casey. (The shadow of a gunman). Omsett av Hartvig Kiran. Sminke: Kari Hermansen. Kostymer: Nan Austin. Dekorasjoner: Willi Nordraa. Handlinga er...
+
+----------------------------------------------------------------------
+
+Title: Spider 23.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722496-AR-199617205
+NRK: https://tv.nrk.no/se?v=XTRF722496
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002496 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 23.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720497-AR-199717886
+NRK: https://tv.nrk.no/se?v=XTRF720497
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 10.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721597-AR-199718823
+NRK: https://tv.nrk.no/se?v=XTRF721597
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722296-AR-199617200
+NRK: https://tv.nrk.no/se?v=XTRF722296
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002296 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 06.03.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721097-AR-199718519
+NRK: https://tv.nrk.no/se?v=XTRF721097
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones Hundåla og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: http...
+
+----------------------------------------------------------------------
+
+Title: Spider 13.03.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721197-AR-199718764
+NRK: https://tv.nrk.no/se?v=XTRF721197
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 24.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721797-AR-199719155
+NRK: https://tv.nrk.no/se?v=XTRF721797
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722396-AR-199616708
+NRK: https://tv.nrk.no/se?v=XTRF722396
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002396 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 14.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722796-AR-199616927
+NRK: https://tv.nrk.no/se?v=XTRF722796
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002796 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 02.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723496-AR-199702056
+NRK: https://tv.nrk.no/se?v=XTRF723496
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003496 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 30.09.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722596-AR-199616726
+NRK: https://tv.nrk.no/se?v=XTRF722596
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002596 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 11.11.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723196-AR-199701373
+NRK: https://tv.nrk.no/se?v=XTRF723196
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Nostalgi når du vil! Gjensyn med NRK-historie. Source: https://tv.nrk.no/serie/sp...
+
+----------------------------------------------------------------------
+
+Title: Meister Olof (Mester Olof) 06.09.1977 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA000477AU
+NRK: https://tv.nrk.no/se?v=FTEA000477
+Description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster Olof). Omsett av Bjørn Endreson. Lagt til rette for fjernsyn av Svein Scharffenberg og Åse Vikene. Sminke: Tobben Amundsen. Kostyme:...
+
+----------------------------------------------------------------------
+
+Title: Spel utan ord (Spill uten ord) 10.05.1988
+Archive.org: https://archive.org/details/NRKTV-FTEA006487-AR-199305268
+NRK: https://tv.nrk.no/se?v=FTEA006487
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00006487 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Skolkamerater (Skolekamerater) 09.06.1962
+Archive.org: https://archive.org/details/NRKTV-FTEA000062-AR-199416101
+NRK: https://tv.nrk.no/se?v=FTEA000062
+Description: Stig Järell leser en monolog av Kar de Mumma - om gjensyn med en gammel skolekamerat. Gjestespill fra Lilla Teatern, Helsinki. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62003162 Upload...
+
+----------------------------------------------------------------------
+
+Title: Klaar.... en... too... kjøøør (Klar, en, to, kjør) 19.02.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA014190-AR-199305365
+NRK: https://tv.nrk.no/se?v=FTEA014190
+Description: Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004190 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 07.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721497-AR-199718777
+NRK: https://tv.nrk.no/se?v=XTRF721497
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 25.11.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723396-AR-199701473
+NRK: https://tv.nrk.no/se?v=XTRF723396
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003396 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723596-AR-199702057
+NRK: https://tv.nrk.no/se?v=XTRF723596
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003596 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 07.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722696-AR-199616869
+NRK: https://tv.nrk.no/se?v=XTRF722696
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002696 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Lat ugraset vekse (La ugresset vokse) 30.01.1973
+Archive.org: https://archive.org/details/NRKTV-FTEA001972-AR-199212243
+NRK: https://tv.nrk.no/se?v=FTEA001972
+Description: Fjernsynsteatret syner "Lat ugraset vekse" av Olle Mattson. (Låt ogräset växe, 1971). Omsett av Jo Ørjasæter. Dekorasjoner: Lajla Hovland. Kostyme: Nan Austin. Det er byen sin krig mot bygda svensken ...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720397-AR-199717859
+NRK: https://tv.nrk.no/se?v=XTRF720397
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 17.04.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF721697-AR-199719113
+NRK: https://tv.nrk.no/se?v=XTRF721697
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 21.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722896-AR-199616978
+NRK: https://tv.nrk.no/se?v=XTRF722896
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002896 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Fjernsynsteatret viser 23.08.1977
+Archive.org: https://archive.org/details/NRKTV-FTEA001577-ST199000002
+NRK: https://tv.nrk.no/se?v=FTEA001577
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00001577 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Kva Joe? (Hva Joe?) 10.05.1977
+Archive.org: https://archive.org/details/NRKTV-FTEA001976-AR-199204039
+NRK: https://tv.nrk.no/se?v=FTEA001976
+Description: Fjernsynsteatret viser "Kva Joe?" av Samuel Beckett. (S-hv). Omsett og instruert av Bjørn Endreson. Becketts første TV-spel, enakter skrevet 1965. Å sjå stykket er som å vere inne i eit menneske som e...
+
+----------------------------------------------------------------------
+
+Title: Kreditorene 26.03.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA014490-AR-199305369
+NRK: https://tv.nrk.no/se?v=FTEA014490
+Description: Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004490 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 27.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720997-AR-199718445
+NRK: https://tv.nrk.no/se?v=XTRF720997
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: gnr 16.09.1991
+Archive.org: https://archive.org/details/NRKTV-FTEA006190-AR-199305380
+NRK: https://tv.nrk.no/se?v=FTEA006190
+Description: Av den danske forfatteren Vita Andersen, oversatt av IdaLou Larsen. En ung jente har lørdagsfri og skal planlegge dagen så den får mening og gjør henne glad. Hvordan? Det finnes så mange oppskrifter, ...
+
+----------------------------------------------------------------------
+
+Title: Spider 30.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720597-AR-199717917
+NRK: https://tv.nrk.no/se?v=XTRF720597
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 09.01.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720297-AR-199717812
+NRK: https://tv.nrk.no/se?v=XTRF720297
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Spider 06.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF72000697AW
+NRK: https://tv.nrk.no/se?v=XTRF72000697
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Klaar.... en... too... kjøøør (Klar, en, to, kjør) 20.02.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA002789-AR-199305366
+NRK: https://tv.nrk.no/se?v=FTEA002789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00002789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Nederlaget 21.03.1966 (Part 1)
+Archive.org: https://archive.org/details/NRKTV-FTEA00010066-AR-199316241
+NRK: https://tv.nrk.no/se?v=FTEA00010066
+Description: Nordisk teater i TV - Dikteren og tiden. Fjernsynsteatret viser "Nederlaget" av Nordahl Grieg. Skuespill fra 1937. Bearbeidet for fjernsyn av Per Bronken. Kostymer: Guy Krohg. Dekorasjoner: Guy Krohg ...
+
+----------------------------------------------------------------------
+
+Title: Kodemus 07.12.1971
+Archive.org: https://archive.org/details/NRKTV-FTEA001271-AR-199001040
+NRK: https://tv.nrk.no/se?v=FTEA001271
+Description: Fjernsynsteatret viser "Kodémus" av Tor Åge Bringsværd. Et norsk fjernsynsspill, science fiction, hvor Morten Kolstad har laget dreiebok etter Bringsværds novelle utgitt i "Probok" (1968). I framtidsv...
+
+----------------------------------------------------------------------
+
+Title: Spider 16.12.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF723696-AR-199702059
+NRK: https://tv.nrk.no/se?v=XTRF723696
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72003696 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 28.10.1996
+Archive.org: https://archive.org/details/NRKTV-XTRF722996-AR-199617018
+NRK: https://tv.nrk.no/se?v=XTRF722996
+Description: Direktesendt interaktivt program med Erik Meyn i spissen. Programmet er et prøveprosjekt mellom NRK2, UiTø og Telenor. Source: https://tv.nrk.no/serie/spider/1996/XTRF72002996 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Spider 20.02.1997
+Archive.org: https://archive.org/details/NRKTV-XTRF720897-AR-199718277
+NRK: https://tv.nrk.no/se?v=XTRF720897
+Description: Interaktivt program med og om internett, informasjons-teknologi og nyheter fra dataverdenen. Programledere er Heidi Villmones og Lars Sigurd Eide. Ved Esben Holm og Kåre Sørensen. Source: https://tv.n...
+
+----------------------------------------------------------------------
+
+Title: Kreditorene 27.03.1990
+Archive.org: https://archive.org/details/NRKTV-FTEA003789-AR-199305370
+NRK: https://tv.nrk.no/se?v=FTEA003789
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003789 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+
+Title: Parkbänk (Parkbenk) 11.01.1962
+Archive.org: https://archive.org/details/NRKTV-FTEA000062-AR-199416089
+NRK: https://tv.nrk.no/se?v=FTEA000062
+Description: Drama av den finske dramatikeren Solveig von Schoultz. Gjestespill fra Lilla Teatern, Helsinki. Fra oppførelse i Centralteatret i Oslo. Et tilfeldig møte mellom to mennesker, fra så forskjellig miljø ...
+
+----------------------------------------------------------------------
+
+Title: Meister Olof (Mester Olof) 06.09.1977 (Part 2)
+Archive.org: https://archive.org/details/NRKTV-FTEA000477BU
+NRK: https://tv.nrk.no/se?v=FTEA000477
+Description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster Olof). Omsett av Bjørn Endreson. Lagt til rette for fjernsyn av Svein Scharffenberg og Åse Vikene. Sminke: Tobben Amundsen. Kostyme:...
+
+----------------------------------------------------------------------
+
+Title: Det store vi - innledning 24.10.1983
+Archive.org: https://archive.org/details/NRKTV-FTEA006883-AR-199006134
+NRK: https://tv.nrk.no/se?v=FTEA006883
+Description: Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00006883 Uploader: tubeup.py...
+
+----------------------------------------------------------------------
+

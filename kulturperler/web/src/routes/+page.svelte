@@ -295,9 +295,8 @@
 		return `${m} min`;
 	}
 
-	function getImageUrl(url: string | null): string {
-		if (!url) return '/placeholder.jpg';
-		return url;
+	function hasImage(url: string | null | undefined): boolean {
+		return !!url && url.length > 0;
 	}
 
 	function handlePlaysSortChange() {
@@ -451,11 +450,15 @@
 					{#each performances as perf}
 						<a href="/performance/{perf.id}" class="performance-card">
 							<div class="performance-image">
-								<img
-									src={getImageUrl(perf.image_url)}
-									alt={perf.title || ''}
-									loading="lazy"
-								/>
+								{#if hasImage(perf.image_url)}
+									<img src={perf.image_url} alt={perf.title || ''} loading="lazy" />
+								{:else}
+									<div class="image-placeholder">
+										<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
+											<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
+										</svg>
+									</div>
+								{/if}
 								{#if perf.total_duration}
 									<span class="duration">{formatDuration(perf.total_duration)}</span>
 								{/if}
@@ -830,6 +833,21 @@
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
+	}
+
+	.image-placeholder {
+		width: 100%;
+		height: 100%;
+		background: linear-gradient(135deg, #2a2a3e 0%, #1a1a2e 100%);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.placeholder-icon {
+		width: 48px;
+		height: 48px;
+		color: rgba(233, 69, 96, 0.6);
 	}
 
 	.duration {

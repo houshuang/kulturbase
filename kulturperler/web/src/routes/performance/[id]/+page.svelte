@@ -59,9 +59,8 @@
 		return `${m} minutter`;
 	}
 
-	function getImageUrl(url: string | null): string {
-		if (!url) return '/placeholder.jpg';
-		return url;
+	function hasImage(url: string | null | undefined): boolean {
+		return !!url && url.length > 0;
 	}
 
 	function getRoleLabel(role: string | null): string {
@@ -119,10 +118,15 @@
 					rel="noopener"
 					class="performance-image playable"
 				>
-					<img
-						src={getImageUrl(performance.image_url)}
-						alt={performance.title || ''}
-					/>
+					{#if hasImage(performance.image_url)}
+						<img src={performance.image_url} alt={performance.title || ''} />
+					{:else}
+						<div class="image-placeholder">
+							<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
+								<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
+							</svg>
+						</div>
+					{/if}
 					<div class="header-play-icon">
 						<svg viewBox="0 0 24 24" fill="currentColor">
 							<path d="M8 5v14l11-7z"/>
@@ -134,10 +138,15 @@
 				</a>
 			{:else}
 				<div class="performance-image">
-					<img
-						src={getImageUrl(performance.image_url)}
-						alt={performance.title || ''}
-					/>
+					{#if hasImage(performance.image_url)}
+						<img src={performance.image_url} alt={performance.title || ''} />
+					{:else}
+						<div class="image-placeholder">
+							<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
+								<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
+							</svg>
+						</div>
+					{/if}
 				</div>
 			{/if}
 
@@ -200,7 +209,15 @@
 							class="media-card"
 						>
 							<div class="media-thumbnail">
-								<img src={getImageUrl(item.image_url)} alt={item.title} loading="lazy" />
+								{#if hasImage(item.image_url)}
+									<img src={item.image_url} alt={item.title} loading="lazy" />
+								{:else}
+									<div class="image-placeholder small">
+										<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
+											<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
+										</svg>
+									</div>
+								{/if}
 								<div class="play-icon">
 									<svg viewBox="0 0 24 24" fill="currentColor">
 										<path d="M8 5v14l11-7z"/>
@@ -263,7 +280,15 @@
 					{#each otherPerformances as other}
 						<a href="/performance/{other.id}" class="other-performance-card">
 							<div class="other-thumbnail">
-								<img src={getImageUrl(other.image_url)} alt={other.title || ''} loading="lazy" />
+								{#if hasImage(other.image_url)}
+									<img src={other.image_url} alt={other.title || ''} loading="lazy" />
+								{:else}
+									<div class="image-placeholder small">
+										<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
+											<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
+										</svg>
+									</div>
+								{/if}
 							</div>
 							<div class="other-info">
 								<span class="other-year">{other.year}</span>
@@ -704,6 +729,32 @@
 		color: white;
 	}
 
+	/* Image placeholder */
+	.image-placeholder {
+		width: 100%;
+		aspect-ratio: 16/9;
+		background: linear-gradient(135deg, #2a2a3e 0%, #1a1a2e 100%);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 8px;
+	}
+
+	.image-placeholder.small {
+		border-radius: 0;
+	}
+
+	.placeholder-icon {
+		width: 64px;
+		height: 64px;
+		color: rgba(233, 69, 96, 0.6);
+	}
+
+	.image-placeholder.small .placeholder-icon {
+		width: 40px;
+		height: 40px;
+	}
+
 	@media (max-width: 768px) {
 		.performance-header {
 			grid-template-columns: 1fr;
@@ -715,6 +766,16 @@
 
 		.media-grid {
 			grid-template-columns: repeat(2, 1fr);
+		}
+
+		.placeholder-icon {
+			width: 48px;
+			height: 48px;
+		}
+
+		.image-placeholder.small .placeholder-icon {
+			width: 32px;
+			height: 32px;
 		}
 	}
 </style>

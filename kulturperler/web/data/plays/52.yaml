@@ -2,3 +2,11 @@ id: 52
 title: Den hvite stenen
 original_title: Den hvite stenen
 playwright_id: 2903
+external_links:
+- url: https://applausscene.no/permalib/VO9NPds2NA7b
+  title: Applaus Scene
+  type: streaming
+  access_note: Kun for deltakende skoler
+- url: https://www.bokselskap.no/boker/peergynt
+  title: Bokselskap.no
+  type: bokselskap

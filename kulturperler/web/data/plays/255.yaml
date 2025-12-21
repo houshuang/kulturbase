@@ -2,3 +2,11 @@ id: 255
 title: Operasjon Jordsøk
 original_title: Operasjon Jordsoek
 playwright_id: 2466
+external_links:
+- url: https://applausscene.no/permalib/5dPNvas6q26E
+  title: Applaus Scene
+  type: streaming
+  access_note: Kun for deltakende skoler
+- url: https://www.bokselskap.no/boker/dukkehjem
+  title: Bokselskap.no
+  type: bokselskap

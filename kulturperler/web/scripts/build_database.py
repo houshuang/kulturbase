@@ -284,6 +284,7 @@ def build_database():
     # Load and insert plays
     print("Loading plays...")
     plays = load_yaml_dir(DATA_DIR / 'plays')
+    play_external_links = []
     for p in plays:
         conn.execute("""
             INSERT INTO plays (id, title, original_title, playwright_id, year_written,
@@ -292,8 +293,23 @@ def build_database():
         """, (p['id'], p['title'], p.get('original_title'), p.get('playwright_id'),
               p.get('year_written'), p.get('synopsis'), p.get('wikidata_id'),
               p.get('sceneweb_id'), p.get('sceneweb_url'), p.get('wikipedia_url')))
+        for link in p.get('external_links', []):
+            play_external_links.append((
+                p['id'], link['url'], link.get('title'), link.get('type'), link.get('access_note')
+            ))
     stats['plays'] = len(plays)
     print(f"  Inserted {len(plays)} plays")
+
+    # Insert play external links
+    if play_external_links:
+        print("  Inserting play external links...")
+        for link in play_external_links:
+            conn.execute("""
+                INSERT INTO play_external_links (play_id, url, title, type, access_note)
+                VALUES (?, ?, ?, ?, ?)
+            """, link)
+        stats['play_external_links'] = len(play_external_links)
+        print(f"  Inserted {len(play_external_links)} play external links")
 
     # Load and insert performances
     print("Loading performances...")

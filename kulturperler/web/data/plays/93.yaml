@@ -2,3 +2,7 @@ id: 93
 title: En vanskelig sak for politiet i Amsterdam
 original_title: 'En vanskelig sak for politiet i Amsterdam '
 playwright_id: 1677
+external_links:
+- url: https://www.bokselskap.no/boker/fallit/tittelside
+  title: Bokselskap.no
+  type: bokselskap

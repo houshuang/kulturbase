@@ -2,3 +2,7 @@ id: 96
 title: En vise om brennevin
 original_title: En vise om brennevin
 playwright_id: 2209
+external_links:
+- url: https://www.bokselskap.no/boker/rosmersholm
+  title: Bokselskap.no
+  type: bokselskap

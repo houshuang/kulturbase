@@ -1,0 +1,26 @@
+id: 819
+work_id: 769
+source: nrk
+year: 1965
+title: Stoppested
+description: En film av Tore Breda Thoresen etter en novelle av Torborg Nedreaas.
+total_duration: 1744
+image_url: https://gfx.nrk.no/lLPiRS5pHlfHKFBkblr9gwT3gDS8Vng-sfVcERa2B-zA
+medium: tv
+credits:
+- person_id: 54
+  role: actor
+- person_id: 1065
+  role: actor
+- person_id: 1029
+  role: actor
+- person_id: 891
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 648
+  role: actor

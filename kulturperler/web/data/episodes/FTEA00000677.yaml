@@ -1,0 +1,18 @@
+prf_id: FTEA00000677
+title: Vinterens og vårens sendinger i Fjernsynsteatret
+description: Introduksjonsprogram med omtale og kutt fra forestillingene.
+year: 1977
+duration_seconds: 1499
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000677
+play_id: 589
+performance_id: 626
+source: nrk
+medium: tv
+resources:
+- id: 333
+  url: https://archive.org/details/NRKTV-FTEA000677-ST199000003
+  title: Vinterens og vårens sendinger i Fjernsynsteatret 03.01.1977
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00000677
+    Uploader: tubeup.py'

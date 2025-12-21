@@ -1,0 +1,77 @@
+prf_id: FUHA03000086
+title: Peer Gynt
+description: 'Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret.
+  Regi: Edith Roger.'
+year: 1986
+duration_seconds: 11991
+image_url: https://gfx.nrk.no/yVIc4bGkFnw56el6y45BsgZc7BHHE83eJQ005drn_BMw
+nrk_url: https://tv.nrk.no/se?v=FUHA03000086
+play_id: 264
+performance_id: 476
+source: nrk
+medium: tv
+credits:
+- person_id: 543
+  role: actor
+- person_id: 544
+  role: actor
+- person_id: 545
+  role: actor
+- person_id: 546
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 342
+  role: actor
+- person_id: 429
+  role: actor
+- person_id: 149
+  role: actor
+- person_id: 547
+  role: actor
+- person_id: 461
+  role: actor
+- person_id: 548
+  role: actor
+- person_id: 383
+  role: actor
+- person_id: 549
+  role: actor
+- person_id: 550
+  role: actor
+- person_id: 119
+  role: actor
+- person_id: 551
+  role: actor
+- person_id: 552
+  role: actor
+- person_id: 297
+  role: actor
+- person_id: 553
+  role: actor
+- person_id: 554
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 464
+  url: https://archive.org/details/NRKTV-FUHA03010086-AR-199010674
+  title: Peer Gynt 26.12.1986 (Part 1)
+  type: archive_fallback
+  description: 'Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret.
+    Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086
+    Uploader: tubeup.py...'
+- id: 470
+  url: https://archive.org/details/NRKTV-FUHA03020086-AR-199010674
+  title: Peer Gynt 26.12.1986 (Part 2)
+  type: archive_fallback
+  description: 'Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret.
+    Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086
+    Uploader: tubeup.py...'
+- id: 480
+  url: https://archive.org/details/NRKTV-FUHA03030086-AR-199010674
+  title: Peer Gynt 26.12.1986 (Part 3)
+  type: archive_fallback
+  description: 'Et dramatisk dikt av Henrik Ibsen. Opptak av forestilling på Nationaltheatret.
+    Regi: Edith Roger. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FUHA03000086
+    Uploader: tubeup.py...'

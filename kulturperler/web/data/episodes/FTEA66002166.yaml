@@ -1,0 +1,58 @@
+prf_id: FTEA66002166
+title: Don Carlos
+description: Filip II utvidet det spanske riket med vold og inkvisisjon. Hans sønn,
+  Don Carlos, lider under tyranniet og forsøker et opprør mot sin far.
+year: 1966
+duration_seconds: 8999
+image_url: https://gfx.nrk.no/e-4jLjxaZma7bOySoWggLwJPWMNGVWXnNZYX7DOVJzcw
+nrk_url: https://tv.nrk.no/se?v=FTEA66002166
+play_id: 745
+performance_id: 794
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 797
+  role: actor
+- person_id: 817
+  role: actor
+- person_id: 1016
+  role: actor
+- person_id: 988
+  role: actor
+- person_id: 808
+  role: actor
+- person_id: 928
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 1053
+  role: actor
+- person_id: 591
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 311
+  role: actor
+resources:
+- id: 458
+  url: https://archive.org/details/NRKTV-FTEA66022166-AR-199314092
+  title: Don Carlos 07.02.1967 (Part 2)
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Don Carlos", sørgespill av Friedrich Schiller.
+    Oversatt av Gunnar Reiss-Andersen. Musikk: Arne Nordheim. Kostymer: Ivar Karlsen.
+    Dekorasjoner: Guy Krohg. Stykket handler om Fil...'
+- id: 468
+  url: https://archive.org/details/NRKTV-FTEA66012166-AR-199314092
+  title: Don Carlos 07.02.1967 (Part 1)
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Don Carlos", sørgespill av Friedrich Schiller.
+    Oversatt av Gunnar Reiss-Andersen. Musikk: Arne Nordheim. Kostymer: Ivar Karlsen.
+    Dekorasjoner: Guy Krohg. Stykket handler om Fil...'

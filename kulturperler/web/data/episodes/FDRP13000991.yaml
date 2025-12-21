@@ -1,0 +1,29 @@
+prf_id: FDRP13000991
+title: Saft
+description: Anne Mali Sæther, Pernille Anker og Berte Hilmo vant konkurransen Scenario
+  91 med stykket "Saft. Fra Det Åpne Teatret i Oslo.
+year: 1991
+duration_seconds: 2193
+image_url: https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKg6b7NqlPEOKajhpiW7OsTQQ
+nrk_url: https://tv.nrk.no/se?v=FDRP13000991
+play_id: 390
+performance_id: 400
+source: nrk
+medium: tv
+credits:
+- person_id: 337
+  role: other
+- person_id: 338
+  role: actor
+- person_id: 339
+  role: actor
+resources:
+- id: 23
+  url: https://archive.org/details/NRKTV-FDRP13000991-AR-199407419
+  title: Et drama er et drama ... eller er det det? 15.12.1991
+  type: archive_fallback
+  description: 'Fredag den 13. fikk vi vite hvem som gikk seirende ut av konkurransen
+    Scenario 91. Etter to dagers intense prøver, sendes vinnerstykket "Saft" fra Det
+    Åpne Teatret i Oslo. Skuespillere er Anne Mali Sæther og Pernille Anker, regien
+    er ved Berte Hilmo. Programleder: Petter Nome. Ved Roald Øyen og Christian Brym.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1991/FDRP13000991 Uploader: tubeup.py'

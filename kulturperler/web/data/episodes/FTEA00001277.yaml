@@ -1,0 +1,44 @@
+prf_id: FTEA00001277
+title: Fruens salige mor
+description: En satirisk komedie om ekteparet Lucien og Yvonnes egoisme og hykleri,
+  og en trette som bare blir verre og verre. Av Georges Feydeau.
+year: 1977
+duration_seconds: 2782
+image_url: https://gfx.nrk.no/z2p8BJ1ed-F43SZmnDSF_g8yXam9ivRmRF5UDkecyX0g
+nrk_url: https://tv.nrk.no/se?v=FTEA00001277
+play_id: 565
+performance_id: 601
+source: nrk
+medium: tv
+credits:
+- person_id: 768
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 771
+  role: actor
+resources:
+- id: 284
+  url: https://archive.org/details/NRKTV-FTEA001277-AR-199203757
+  title: Fruens salige mor 06.06.1978
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fruens salige mor" av Georges Feydeau. (Feu
+    la mère de Madame). Oversatt av Jan Hogne Sandven. Sminke: Janine Strand. Kostymer:
+    Ivar Karlsen. Dekorasjoner: Lajla Hovland. En satirisk komedie om et ektepars
+    egoisme og hykleri og en trette som bare blir verre og verre. Handlingen finner
+    sted hos hertugskapet Lucien og Yvonne, i løpet av en eneste natt, med meget søvnige
+    personer. Lucien lister seg hjem en tidlig morgentime. Han har vært ute på livet
+    alene og har ikke noe høyere ønske enn å smette ubemerket under dynen. Men uheldig
+    er han bestandig, nøklene til inngangsdøren er borte. De nattlige fortredeligheter
+    og intriger blir mange. Yvonne tar lenge de fleste stikk, men maktforholdet skifter.
+    Lucien får overtaket. Ikke i kraft av høy intelligens eller utpreget taktfullhet.
+    Snarere på grunn av sin sedvanlige åndsfraværenhet, som tillater ham å beskrive
+    sin hustrus edlere deler sårende objektivt. Utpå natten ringer det enda en gang
+    på døren. Joseph, tjener hos Yvonnes mor, avbryter krangelen. Han forteller at
+    fruens mor er blitt salig. Et dødsfall, som selvfølgelig er sterkt å beklage,
+    men som også kommer nokså beleilig - arven er i anmarsj. De som er med: Henny
+    Moan (Yvonne), Rolf Just Nilsen (Lucien), Marie Louise Tank (tjener Annette),
+    Carsten Winger (tjener Joseph). Instruktør: Jon Heggedal. Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00001277
+    Uploader: tubeup.py'

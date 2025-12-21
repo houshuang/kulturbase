@@ -1,0 +1,30 @@
+prf_id: FDRP28003793
+title: Milde himmel
+description: To eldre mennesker møtes ved en benk. Hun, en pågående, åpen frisørdame
+  sjekker opp ham, en stille og tilbaketrukken lektor. Av Lennart Lidström.
+year: 1993
+duration_seconds: 2809
+image_url: https://gfx.nrk.no/_TsEZJ9eV1ER5FOLSCnCRg1CzjFNrwnj-bHY3KQSlLEw
+nrk_url: https://tv.nrk.no/se?v=FDRP28003793
+play_id: 351
+performance_id: 359
+source: nrk
+medium: tv
+credits:
+- person_id: 70
+  role: actor
+- person_id: 71
+  role: actor
+- person_id: 72
+  role: actor
+resources:
+- id: 313
+  url: https://archive.org/details/NRKTV-FDRP283793-AR-199700046
+  title: Milde himmel 01.10.1995
+  type: archive_fallback
+  description: 'Et skuespill av Lennart Lidström. To eldre mennesker møtes ved en
+    benk i parken. Hun, en pågående, åpen frisørdame sjekker opp ham, en stille og
+    tilbaketrukken lektor. "Kjærlighet ved første blikk" ville være en overdrivelse.
+    Instruktør: Anne-Karen Hytten. Fjernsynsregi: Roald Øyen. I rollene medvirker
+    Sossen Krohg og Adolf Bjerke. Overføring fra Det Åpne Teater i Oslo. Source: https://tv.nrk.no/serie/fjernsynsteatret/1995/FDRP28003793
+    Uploader: tubeup.py'

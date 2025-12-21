@@ -1,0 +1,19 @@
+prf_id: FTEA00003389
+title: Frihetens pris
+description: Ståle er på rømmen fra omsorgsapparatet. Han oppsøker tanten sin, Bebe,
+  i Oslo. Men hun er i klemme selv, både økonomisk og personlig.
+year: 1989
+duration_seconds: 5757
+image_url: https://gfx.nrk.no/EyI9a9Bli_bSzki5xIXITw7U2tlJsPwl6xnWLc8WOE9A
+nrk_url: https://tv.nrk.no/se?v=FTEA00003389
+play_id: 413
+performance_id: 428
+source: nrk
+medium: tv
+resources:
+- id: 149
+  url: https://archive.org/details/NRKTV-FTEA003389-AR-199305368
+  title: Frihetens pris 27.02.1990
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003389
+    Uploader: tubeup.py'

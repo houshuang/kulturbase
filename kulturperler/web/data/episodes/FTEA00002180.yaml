@@ -1,0 +1,19 @@
+prf_id: FTEA00002180
+title: Århundrets kjærlighetssaga
+description: Kjærlighet, alkoholisme, og om å leve sammen med en alkoholiker. Et program
+  bygget på tekster av Märta Tikkanen fra boka Århundrets kjærlighetssaga.
+year: 1980
+duration_seconds: 1689
+image_url: https://gfx.nrk.no/2qv7u3fKfJ8IKHiYCLuYBQmnpn1kaRO09qS4gZkojVNw
+nrk_url: https://tv.nrk.no/se?v=FTEA00002180
+play_id: 522
+performance_id: 554
+source: nrk
+medium: tv
+resources:
+- id: 67
+  url: https://archive.org/details/NRKTV-FTEA00002180AU
+  title: Århundrets kjærlighetssaga 09.06.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00002180
+    Uploader: tubeup.py'

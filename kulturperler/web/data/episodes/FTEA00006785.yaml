@@ -1,0 +1,18 @@
+prf_id: FTEA00006785
+title: 'Fjernsynsteatret viser: Til glede og forargelse i 25 år'
+description: Glimt fra tidligere sendte fjernsynsteatreforestillinger.
+year: 1985
+duration_seconds: 2352
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00006785
+play_id: 464
+performance_id: 492
+source: nrk
+medium: tv
+resources:
+- id: 334
+  url: https://archive.org/details/NRKTV-FTEA006785-AR-200620335
+  title: 'Fjernsynsteatret viser: Til glede og forargelse i 25 år 26.12.1985'
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA00006785
+    Uploader: tubeup.py'

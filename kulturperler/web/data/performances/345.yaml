@@ -1,0 +1,33 @@
+id: 345
+work_id: 339
+source: nrk
+year: 1996
+title: Erasmus Montanus
+description: Bondesønnen Rasmus Berg vender hjem etter studier i København. Han heter
+  nå Erasmus Montanus, og brisker seg med sine ferdigheter til å disputere.
+total_duration: 5990
+image_url: https://gfx.nrk.no/d2uHPCSLXRBKeUCSct0W_QHfLsY4MFOX7fC0L2a3yxwg
+medium: tv
+credits:
+- person_id: 9
+  role: actor
+- person_id: 10
+  role: actor
+- person_id: 11
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 13
+  role: actor
+- person_id: 14
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 16
+  role: actor
+- person_id: 17
+  role: actor
+- person_id: 18
+  role: actor

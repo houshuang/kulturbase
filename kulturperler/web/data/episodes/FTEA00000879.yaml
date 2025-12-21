@@ -1,0 +1,38 @@
+prf_id: FTEA00000879
+title: Til odel og eie
+description: På et lite småbruk lever Anna og Johan, et eldre ektepar. De kan ikke
+  drive gården lenger. Hva skal skje med det bruket, med fars- og morsarven?
+year: 1979
+duration_seconds: 5003
+image_url: https://gfx.nrk.no/AQoii8f68qGgXwIWJv52vQMbrrGJNa22JZ0pPr9mM-aQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00000879
+play_id: 537
+performance_id: 572
+source: nrk
+medium: tv
+credits:
+- person_id: 741
+  role: actor
+- person_id: 380
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 726
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 683
+  role: actor
+resources:
+- id: 186
+  url: https://archive.org/details/NRKTV-FTEA000879-AR-199102094
+  title: Til odel og eie 06.05.1980
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Til odel og eie" av Erling Pedersen. Dramaturg:
+    Åse Vikene. Dekorasjoner: Erik Hagen. Pedersens debutantstykke handler om et arve-
+    og familieoppgjør. På et lite småbruk på Vestlandet lever Anna og Johan, et eldre
+    ektepar. De kan ikke drive gården lenger. Men hva skal skje med det vesle bruket,
+    med fars- og morsarven, med menneskene? De som er med: Elisabeth Bang (Anna),
+    Kjell Stormoen (Johan), Jon Eikemo (Hans), Karl Bomann-Larsen (Bjørn), Marit Grønhaug
+    (Kirsten), Jan Frostad (Stein). Regi: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00000879
+    Uploader: tubeup.py'

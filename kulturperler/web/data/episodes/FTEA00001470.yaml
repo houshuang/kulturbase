@@ -1,0 +1,38 @@
+prf_id: FTEA00001470
+title: Rivalen
+description: En selskapslek på en sønns 21-års dag utvikler seg til det endelige oppgjøret
+  mellom far og sønn. Av Klaus Hagerup.
+year: 1970
+duration_seconds: 3053
+image_url: https://gfx.nrk.no/S0jMAJaYD7UQR1RVykMwdgjRywy7211zVXs3gqpJ3TEQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00001470
+play_id: 677
+performance_id: 722
+source: nrk
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 956
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 336
+  role: actor
+resources:
+- id: 278
+  url: https://archive.org/details/NRKTV-FTEA001470-AR-199001022
+  title: Rivalen 15.12.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rivalen" av Klaus Hagerup, etter en idé av
+    Kirsten Sørlie. Et stykke om en enslig far og hans 21 år gamle sønn. En selskapslek
+    på 21-årsdagen til sønnen utvikler seg til det endelige oppgjøret mellom far og
+    sønn. I rollene medvirker Arne Lie (Anker Nilsen), Klaus Hagerup (Jan), Svein
+    Scharffenberg (Svein), Eva von Hanno (Rita) og Marit Hamdahl (Nina). Musikk av
+    gruppen Rain. Instruktør: Hans Dahlin. Opptaket inneholder filmklipp fra Oslos
+    gater, mennesker og utesteder i 1970. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00001470
+    Uploader: tubeup.py'

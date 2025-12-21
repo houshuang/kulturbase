@@ -1,0 +1,41 @@
+id: 44
+work_id: 42
+source: nrk
+title: De Dødes Tjern
+description: Bjørn Werner er savnet etter en hyttetur. En vennegjeng drar opp for
+  å undersøke. Snart merker de at stedet lever opp til sitt uhyggelige rykte.
+total_duration: 11933
+image_url: https://gfx.nrk.no/_-AgXgvLAdJArVrioiQ_QAv85EE7Rs9KWbQPND5mqXhw
+medium: radio
+series_id: de-doedes-tjern
+credits:
+- person_id: 1352
+  role: other
+- person_id: 1276
+  role: other
+- person_id: 1433
+  role: playwright
+- person_id: 1271
+  role: director
+- person_id: 1242
+  role: actor
+- person_id: 1434
+  role: actor
+- person_id: 1302
+  role: actor
+- person_id: 1249
+  role: actor
+- person_id: 65
+  role: actor
+- person_id: 1335
+  role: actor
+- person_id: 1435
+  role: actor
+- person_id: 1225
+  role: director
+- person_id: 1436
+  role: other
+- person_id: 1376
+  role: actor
+- person_id: 775
+  role: actor

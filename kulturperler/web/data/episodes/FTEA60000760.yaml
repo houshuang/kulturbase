@@ -1,0 +1,33 @@
+prf_id: FTEA60000760
+title: Frøken Julie
+description: Overklassekvinnen Julie lar seg forføre av den ambisiøse tjeneren Jean.
+  Det utspiller seg en intens maktkamp mellom dem. Skuespill av August Strindberg.
+year: 1960
+duration_seconds: 4631
+image_url: https://gfx.nrk.no/bz0MWEtXvY-sxp2NKQNJZwa4TdgimF3vNHiwbN9Vv29g
+nrk_url: https://tv.nrk.no/se?v=FTEA60000760
+play_id: 583
+performance_id: 915
+source: nrk
+medium: tv
+credits:
+- person_id: 1164
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 33
+  url: https://archive.org/details/NRKTV-FTEA60000760-AR-199421263
+  title: Frøken Julie 27.10.1960
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Frøken Julie" av August Strindberg. Stykket
+    er oversatt av Ellen Isefiær. Overklassekvinnen Julie er betatt av tjeneren Jean.
+    Hun lar seg forføre, og det utspiller seg en intens maktkamp mellom den ambisiøse
+    tjeneren og den mistilpassede Julie. I rollene: Urda Arneberg (frøken Julie),
+    Arne Lie (Jean) og Ragnhild Michelsen (Kristin). Instruktør: Arild Brinchmann.
+    Filmopptaket eksteriørt er gjort på Fritzøehus i Larvik. Source: https://tv.nrk.no/serie/fjernsynsteatret/1960/FTEA60000760
+    Uploader: tubeup.py'

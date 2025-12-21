@@ -1,0 +1,45 @@
+prf_id: FTEA00000373
+title: Pendlerne
+description: En gruppe ved Nationaltheatret lagde i 1972 stykket "Pendlerne". Det
+  ble beskrevet som både dokumentarteater, besøksteater og politisk teater.
+year: 1973
+duration_seconds: 4201
+image_url: https://gfx.nrk.no/-1E2cYMR04hW8z01MWxTwQj0dirJ2sVOWULUMG7crqNQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00000373
+play_id: 635
+performance_id: 674
+source: nrk
+medium: tv
+credits:
+- person_id: 400
+  role: actor
+- person_id: 168
+  role: actor
+- person_id: 375
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 376
+  role: actor
+- person_id: 383
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 822
+  role: actor
+- person_id: 774
+  role: actor
+- person_id: 877
+  role: actor
+- person_id: 775
+  role: actor
+resources:
+- id: 288
+  url: https://archive.org/details/NRKTV-FTEA000373-AR-199211257
+  title: Pendlerne 08.01.1974
+  type: archive_fallback
+  description: 'En gruppe ved Nationaltheatret lagde i 1972 stykket "Pendlerne". Det
+    ble beskrevet som både dokumentarteater, besøksteater og politisk teater. Her
+    vises fjernsynsforestillingen, sendt i Fjernsynsteatret i 1974. Manus: Arnljot
+    Eggen. Instruktør: Janken Varden. Musikk: Finn Ludt. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00000373
+    Uploader: tubeup.py'

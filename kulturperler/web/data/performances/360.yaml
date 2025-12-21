@@ -1,0 +1,21 @@
+id: 360
+work_id: 352
+source: nrk
+year: 1995
+title: Den siste amerikaner
+description: To ektemenn, som ikke kjenner hverandre, besøker sine hustruer på et
+  psykiatrisk sykehus. Parene kommer i kontakt med hverandre. Av Arthur Miller.
+total_duration: 4826
+image_url: https://gfx.nrk.no/2xqndibHSRUjfQiJvmePIw3Pp33UVEueNQ-V2f_iBYHQ
+medium: tv
+credits:
+- person_id: 73
+  role: actor
+- person_id: 56
+  role: actor
+- person_id: 74
+  role: actor
+- person_id: 75
+  role: actor
+- person_id: 76
+  role: actor

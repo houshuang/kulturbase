@@ -1,0 +1,36 @@
+prf_id: FTEA00000375
+title: De landflyktige
+description: En irsk forfatter, Richard Rowan, og hans kone Bertha, kommer tilbake
+  til Dublin etter flere års eksil i Italia. Av James Joyce.
+year: 1975
+duration_seconds: 4989
+image_url: https://gfx.nrk.no/NiOOLW74qPbM2zlBPtSU2gNBw8ZRbjxXpQprhMte8Q6w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000375
+play_id: 609
+performance_id: 646
+source: nrk
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 126
+  role: actor
+resources:
+- id: 360
+  url: https://archive.org/details/NRKTV-FTEA000375-AR-199211235
+  title: De landflyktige 28.10.1975
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "De landflyktige" av den irske forfatteren
+    James Joyce. Skuespillet med originaltittel "Exiles" ble publisert i 1915 og er
+    det eneste skuespillet av den berømte forfatteren. Stykket handler om en irsk
+    forfatter, Richard Rowan, og hans kone Bertha, som kommer tilbake til Dublin etter
+    flere års eksil i Italia. Den litterære inspirasjonskilden til stykket sies å
+    være "Når vi døde vågner" av Henrik Ibsen. I rollene medvirker: Ole-Jørgen Nilsen
+    (Richard Rowan), Bente Børsum (Bertha Rowan), Tone Schwarzott (Beatrice Justice)
+    og Per Christensen (Robert Hand). Oversatt av Elisabeth Thams. Dekor: Grethe Hejer.
+    Kostymer: Mabi Helweg. Instruktør: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1975/FTEA00000375
+    Uploader: tubeup.py'

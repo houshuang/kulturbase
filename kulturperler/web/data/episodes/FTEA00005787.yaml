@@ -1,0 +1,18 @@
+prf_id: FTEA00005787
+title: Syx
+description: En ung jente og en eldre kvinne møtes i en togkupe. Har de noe felles?
+year: 1987
+duration_seconds: 2435
+image_url: https://gfx.nrk.no/0eh6x3vavSEGH7wH7b8MrgxUjaNHFHe3VKcPvQ_6LxIg
+nrk_url: https://tv.nrk.no/se?v=FTEA00005787
+play_id: 433
+performance_id: 458
+source: nrk
+medium: tv
+resources:
+- id: 356
+  url: https://archive.org/details/NRKTV-FTEA005787-AR-199305239
+  title: Syx 16.02.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00005787
+    Uploader: tubeup.py'

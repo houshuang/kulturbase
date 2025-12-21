@@ -1,0 +1,36 @@
+prf_id: FTEA62001062
+title: Stolene
+description: Farse av Eugène Ionesco. Et eldre ektepar bor alene i et hus ved sjøen.
+  I sin ensomhet holder de seg travle med gamle minner, rester av sin tidligere ungdom
+  og vitser de gjentar.
+year: 1962
+duration_seconds: 4568
+image_url: https://gfx.nrk.no/JZRTmyFwsigxJDguOZ57iQeHzjek5X6GLkW2Dl5kPFLA
+nrk_url: https://tv.nrk.no/se?v=FTEA62001062
+play_id: 823
+performance_id: 876
+source: nrk
+medium: tv
+credits:
+- person_id: 587
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 720
+  role: actor
+resources:
+- id: 54
+  url: https://archive.org/details/NRKTV-FTEA62001062-AR-199416126
+  title: Stolene 08.11.1962
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Stolene" av Eugène Ionesco. (Les Chaises,
+    1952) Oversatt av Stein Bugge. Dekorasjon: Hermann Bendixen. En tragisk farse
+    om livet som en absurd venten på intet. Et ektepar, i alderen 94 og 95 år, bor
+    alene i et hus ved sjøen. I sin ensomhet holder de seg travel ved gamle minner,
+    rester av sin tidligere ungdom og vitser de gjentar. Den gamle mannen, forfatter
+    og tenker, har et universelt budskap han ønsker å avsløre for menneskeheten. De
+    holder et innbilt selskap med innbilte, fornemme gjester og en foredragsholder
+    skal forkynne den gamle mannens revolusjonerende budskap. Stykket blottlegger
+    to gamle menneskers tapte drømmer. I rollene: Per Gjersøe (Den gamle mannen),
+    Randi Nordby (Den gamle konen), Knut M. Hansson (Taleren). Instruktør: Yngve Nordwall.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62001062 Uploader: tubeup.py'

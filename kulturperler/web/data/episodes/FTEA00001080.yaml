@@ -1,0 +1,45 @@
+prf_id: FTEA00001080
+title: Vinger
+description: Handlingen finner sted på en psykiatrisk avdeling. En munter analyse
+  av kommunikasjonens vanskelige kunst. Av Sverre Udnæs.
+year: 1980
+duration_seconds: 6106
+image_url: https://gfx.nrk.no/dTPwt_HKwMesiMvvFgdzfgB9UrjjEwdDdKfTL68Eh_6A
+nrk_url: https://tv.nrk.no/se?v=FTEA00001080
+play_id: 521
+performance_id: 553
+source: nrk
+medium: tv
+credits:
+- person_id: 71
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 714
+  role: actor
+- person_id: 522
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 380
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 668
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 42
+  url: https://archive.org/details/NRKTV-FTEA00001080AU
+  title: Vinger 26.06.1981
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Vinger" av Sverre Udnæs. Handlingen finner
+    sted på en psykiatrisk avdeling. En munter analyse av kommunikasjonens vanskelige
+    kunst, og historien om et ekteskap. De som er med: Erik Hivju (Peter), Jan Frostad
+    Hugo), Jannik Bonnevie (Christine), Adolf Bjerke (Roos), Kaare Kroppan (Andreassen),
+    Frimann Falck Clausen (Sundt), Erik Lassen (Eriksen), Ragnhild Michelsen (Sykepleieren),
+    Erik Lie (Pleier), Lars Brunborg (Pleier). Regi: Odd Geir Sæther. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00001080
+    Uploader: tubeup.py'

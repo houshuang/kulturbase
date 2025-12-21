@@ -1,0 +1,19 @@
+prf_id: FTEA00000574
+title: Svaleredet
+description: Germaine reiser fra provinsen og inn til storbyen. Der konfronteres hun
+  med mennesker hun ikke skjønner stort av. Av Roland Dubillard.
+year: 1974
+duration_seconds: 5327
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000574
+play_id: 627
+performance_id: 666
+source: nrk
+medium: tv
+resources:
+- id: 265
+  url: https://archive.org/details/NRKTV-FTEA000574-AR-199211939
+  title: Svaleredet 03.09.1974
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00000574
+    Uploader: tubeup.py'

@@ -1,0 +1,38 @@
+prf_id: FTEA00004368
+title: Mødrekupe
+description: To mennesker på et tog. En hverdagsituasjon som viser kløften mellom
+  unge og voksne mennesker. Av Hansmagnus Ystgaard.
+year: 1968
+duration_seconds: 1365
+image_url: https://gfx.nrk.no/soBHP1n8HKJ1uRe0xYlpbwLjYJKZx2EDlf7rIMjeU5PA
+nrk_url: https://tv.nrk.no/se?v=FTEA00004368
+play_id: 704
+performance_id: 752
+source: nrk
+medium: tv
+credits:
+- person_id: 892
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 542
+  role: actor
+resources:
+- id: 330
+  url: https://archive.org/details/NRKTV-FTEA004368-AR-199313186
+  title: Mødrekupe 21.01.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Mødrekupe" av Hansmagnus Ystgaard. Fotograf:
+    Janos Csak. Kostymer: Beate Berntsen. Dekorasjoner: Sverre Andersen. Musikk: Arild
+    Bomann. Sted: En kupé i et tog i fart. TV-spilldebutanten Hansmagnus Ystgaard
+    skildrer en liten hverdagssituasjon mellom to mennesker. Men den enkle situasjonen
+    rommer mer enn det konkrete innhold, den viser de unges uklare skepsis overfor
+    det samfunn de skal inn i som voksne og de roller de skal spille der. Og den antyder
+    i forte glimt kløften mellom disse unge og de voksne som forlengst har funnet
+    sine "roller". De som er med: Anne Marit Jacobsen, Svein Sturla Hungnes, Gisle
+    Straume, Else Heiberg, Arne Lie. Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00004368
+    Uploader: tubeup.py'

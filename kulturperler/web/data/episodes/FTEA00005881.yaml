@@ -1,0 +1,19 @@
+prf_id: FTEA00005881
+title: Lever du'a Karlsen?
+description: Karlsen er 68 år, pensjonist og oplever kontaktløsheten med omverdenen.
+  Ingen har bruk for ham mer, og alle dører er lukket helt til han gjør opprør.
+year: 1981
+duration_seconds: 6381
+image_url: https://gfx.nrk.no/gBCciF4vWOifvYrYL9LQhQhM01-jOnWzYhKNhpHIgWsA
+nrk_url: https://tv.nrk.no/se?v=FTEA00005881
+play_id: 519
+performance_id: 551
+source: nrk
+medium: tv
+resources:
+- id: 155
+  url: https://archive.org/details/NRKTV-FTEA005881-ST199102916
+  title: Lever du'a Karlsen? 01.09.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00005881
+    Uploader: tubeup.py'

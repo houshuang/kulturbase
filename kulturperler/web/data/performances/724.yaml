@@ -1,0 +1,29 @@
+id: 724
+work_id: 342
+source: nrk
+year: 1970
+title: Antigone
+description: Folket i Theben begraver kong Eteokles og hyller Kreon, den nye kongen.
+  Antigone ønsker å begrave sin bror Polyneikes, men Kreon forbyr det. Av Sofokles.
+total_duration: 3104
+image_url: https://gfx.nrk.no/hOCiofyeK52NbJkOt56I1gqImmKm0PMDcS2CBYck5zEA
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 727
+  role: actor
+- person_id: 873
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 671
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 237
+  role: actor

@@ -1,0 +1,55 @@
+prf_id: FTEA00001683
+title: Lille Eyolf
+description: Rottejomfruen kommer til familien Allmers for å spørre om de har noe
+  som nager og gnager i det allmerske hus. Drama av Henrik Ibsen.
+year: 1983
+duration_seconds: 5845
+image_url: https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90w9EZ9sdKek3ZUsl0vDsn7Zw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001683
+play_id: 198
+performance_id: 530
+source: nrk
+medium: tv
+credits:
+- person_id: 10
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 569
+  role: actor
+- person_id: 531
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 534
+  role: actor
+resources:
+- id: 166
+  url: https://archive.org/details/NRKTV-FTEA003368-AR-199314029
+  title: Lille Eyolf 03.09.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Lille Eyolf" av Henrik Ibsen (1894). Dekor:
+    Olav Ile. Rita og Alfred Allmers har en lam sønn, Eyolf. Da gutten var spedbarn,
+    hadde foreldrene het elskov som fikk dem til å glemme alt rundt seg, og sønnen
+    falt ned fra bordet. Skyldfølelsen uthuler ekteskapet, og sønnen forsømmes. Alfred
+    fordyper seg i arbeidet fordi han ikke klarer å tilgi seg selv, hans kone ønsker
+    oppmerksomhet og mannen slik han en gang var. Hun føler seg avvist, og blir sjalu
+    på sønnen og Alfreds halvsøster Asta, som han er sterkt knyttet til. Rottejomfruen,
+    en gammel kone, kommer til huset og spør "Har herskapet noe som gnager i huset",
+    og tilbyr seg å lokke rottene med seg ut på fjorden så de drukner. Hos familien
+    Allmers nager og gnager det helt ned i røttene. Under den polerte overflaten blir
+    Lille Eyolf et offer for de voksnes fortvilelse, behov og ambisjoner. I rollene:
+    Joachim Calmeyer (Alfred Allmers), Rut Tellefsen (Rita Allmers), Hans Petter Knagenhjelm
+    (Eyolf), Lise Fjeldstad (Frøken Asta Allmers), Arne Aas (Ingeniør Borgheim) og
+    Ragnhild Michelsen (Rottejomfruen). Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00003368
+    Uploader: tubeup.py'
+- id: 241
+  url: https://archive.org/details/NRKTV-FTEA001683-AR-199006139
+  title: Lille Eyolf 12.04.1983
+  type: archive_fallback
+  description: 'Drama av Henrik Ibsen (1894). Rottejomfruen er kommet til familien
+    Allmers. Hun er spesialist på å bli kvitt rotter, og nå vil hun vite om det er
+    noe som nager og gnager i det allmerske hus. Regi: Eli Ryg. Med Anne Marie Ottersen,
+    Tone Danielsen, Bjørn Skagestad, Per Frisch, Kirsten Hofseth og Marcus Strand
+    Kiønig. Første gang sendt i Fjernsynsteatret i 1983. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00001683
+    Uploader: tubeup.py'

@@ -1,0 +1,27 @@
+prf_id: FTEA00001882
+title: Trenger vi sånne bomber?
+description: Et musikalsk eventyr for barn og voksne i alle aldre. Tekst fra "Fredsboka"
+  av Bernard Benson, valgt ut og lest av Katja Medbøe.
+year: 1982
+duration_seconds: 1652
+image_url: https://gfx.nrk.no/2MffMxQz4wZTUGq4eCdHPgRRLEggl3-XHIfHl86KBBLA
+nrk_url: https://tv.nrk.no/se?v=FTEA00001882
+play_id: 502
+performance_id: 533
+source: nrk
+medium: tv
+credits:
+- person_id: 722
+  role: actor
+- person_id: 723
+  role: actor
+resources:
+- id: 258
+  url: https://archive.org/details/NRKTV-FTEA001882-AR-199103077
+  title: Trenger vi sånne bomber? 02.01.1983
+  type: archive_fallback
+  description: 'Et musikalsk eventyr for barn og voksne i alle aldre. Tekst fra "Fredsboka"
+    av Bernard Benson, valgt ut og lest av Katja Medbøe. Barnetegningene er hentet
+    fra boka "Livets tre", utgitt i samarbeid med Redd Barna. Musikk: Steinar Ofsdal
+    og Lasse Englund. Ved Terje Haglund. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00001882
+    Uploader: tubeup.py'

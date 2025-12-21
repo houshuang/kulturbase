@@ -1,0 +1,19 @@
+prf_id: FTEA01002681
+title: Den vanskelege vegen
+description: En lyd- og billedramme omkring dikt av Tarjei Vesaas og musikk av Anton
+  Bruckner. Diktene er fra samlingen Liv ved straumen og leses av Finn Kvalem.
+year: 1981
+duration_seconds: 3592
+image_url: https://gfx.nrk.no/4rbHyIeLrohTCNnmoUeanwTaeosTUlb0tfUnsI5B6HxA
+nrk_url: https://tv.nrk.no/se?v=FTEA01002681
+play_id: 504
+performance_id: 535
+source: nrk
+medium: tv
+resources:
+- id: 370
+  url: https://archive.org/details/NRKTV-FTEA012681-AR-199103060
+  title: Den vanskelege vegen 26.12.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA01002681
+    Uploader: tubeup.py'

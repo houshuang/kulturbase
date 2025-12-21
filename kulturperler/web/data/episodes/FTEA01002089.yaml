@@ -1,0 +1,19 @@
+prf_id: FTEA01002089
+title: Elsk meg bort fra min bristende barndom
+description: Foran Fjernsynsteatrets forestilling "Elsk meg bort fra min bristende
+  barndom". Intervju med Johan Borgen fra NRK-arkivet.
+year: 1989
+duration_seconds: 647
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA01002089
+play_id: 424
+performance_id: 448
+source: nrk
+medium: tv
+resources:
+- id: 7
+  url: https://archive.org/details/NRKTV-FTEA01002089AU
+  title: Elsk meg bort fra min bristende barndom 20.02.1989
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA01002089
+    Uploader: tubeup.py'

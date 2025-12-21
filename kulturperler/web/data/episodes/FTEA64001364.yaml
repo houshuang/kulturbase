@@ -1,0 +1,44 @@
+prf_id: FTEA64001364
+title: Fangen i det blå tårn
+description: Et drama om menneskets streben etter sine drømmer, om livsløgn og tapte
+  illusjoner om livet. Av Finn Carling.
+year: 1964
+duration_seconds: 4632
+image_url: https://gfx.nrk.no/DPDcDsjxMUh308gZpiHLrgrOdashgOsomov3KyXJsbcQ
+nrk_url: https://tv.nrk.no/se?v=FTEA64001364
+play_id: 800
+performance_id: 852
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 517
+  role: actor
+- person_id: 996
+  role: actor
+- person_id: 671
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 509
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 1073
+  role: actor
+resources:
+- id: 98
+  url: https://archive.org/details/NRKTV-FTEA64001364-AR-199405518
+  title: Fangen i det blå tårn 02.01.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fangen i det blå tårn" av Finn Carling. Bearbeidet
+    for fjernsyn av Per Bronken. Dekorasjon: Erik Hagen. Et drama om menneskets streben
+    etter sine drømmer, om livsløgn og tapte illusjoner om livet. "Fangen" hjelper
+    en ung pike - kafevertens datter - til å realisere hennes drøm om å spille gitar
+    og synge. Han blir fengslet, anklaget for konedrap, og finner senere ut at piken
+    aldri realiserte sine drømmer - hennes far har brukt pengene på vertshuset sitt.
+    I rollene: Tor Stokke (Fangen), Monna Tandberg (Kvinnen), Wenche Thorsby (Piken),
+    Thor Hjorth-Jenssen (Medfangen), Per Lillo-Stenberg (Maleren), Jens Bolling (Verten),
+    Johan Holst (Roberto), Alf Malland (Giovanni). Instruktør: Per Bronken. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64001364 Uploader: tubeup.py'

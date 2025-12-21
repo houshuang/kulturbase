@@ -1,0 +1,44 @@
+prf_id: FTEA00000573
+title: Et dukkehjem
+description: Av Henrik Ibsen. Stykket foregår en julehelg etter åtte års ekteskap,
+  hvor det ender med at Nora går fra mann og barn for å finne ut hvem hun selv er.
+year: 1973
+duration_seconds: 8797
+image_url: https://gfx.nrk.no/RKIOyNRzC2VNX23T8MkIEwTC3Vt-rPbK9kE_4G6oii0A
+nrk_url: https://tv.nrk.no/se?v=FTEA00000573
+play_id: 638
+performance_id: 677
+source: nrk
+medium: tv
+credits:
+- person_id: 879
+  role: playwright
+- person_id: 500
+  role: actor
+- person_id: 516
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 350
+  role: actor
+- person_id: 814
+  role: actor
+resources:
+- id: 461
+  url: https://archive.org/details/NRKTV-FTEA00010573-AR-199305464
+  title: Et dukkehjem 23.10.1973 (Part 1)
+  type: archive_fallback
+  description: Drama av Henrik Ibsen (1879). Stykket er språklig bearbeidet av Hans
+    Heiberg. Temaet i skuespillet er kvinnens vanskelige posisjon i det borgerlige
+    ekteskapet. Nora har følt seg som en artig liten duk...
+- id: 503
+  url: https://archive.org/details/NRKTV-FTEA00020573-AR-199305464
+  title: Et dukkehjem 23.10.1973 (Part 2)
+  type: archive_fallback
+  description: Drama av Henrik Ibsen (1879). Stykket er språklig bearbeidet av Hans
+    Heiberg. Temaet i skuespillet er kvinnens vanskelige posisjon i det borgerlige
+    ekteskapet. Nora har følt seg som en artig liten duk...

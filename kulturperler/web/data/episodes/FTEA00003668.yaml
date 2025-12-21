@@ -1,0 +1,29 @@
+prf_id: FTEA00003668
+title: De fire årstider
+description: En mann og en kvinne går sammen inn i et tomt hus og begynner et liv
+  der. De har begge skuffelser bak seg i tidligere kjærlighetsopplevelser. Av Arnold
+  Wesker.
+year: 1968
+duration_seconds: 4838
+image_url: https://gfx.nrk.no/HIF8J5_z3Zw6WQ5pu9iRQALcZR8lN5caWc-sFEhUnPsA
+nrk_url: https://tv.nrk.no/se?v=FTEA00003668
+play_id: 708
+performance_id: 756
+source: nrk
+medium: tv
+credits:
+- person_id: 515
+  role: actor
+- person_id: 442
+  role: actor
+resources:
+- id: 319
+  url: https://archive.org/details/NRKTV-FTEA003668-AR-199314081
+  title: De fire årstider 17.12.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "De fire årstider" av Arnold Wesker. Oversatt
+    av Jan Erik Vold. En mann og en kvinne går sammen inn i et tomt hus og begynner
+    et liv der. De har begge skuffelser bak seg i tidligere kjærlighetsopplevelser.
+    I rollene: Lise Fjeldstad (hun) og Finn Kvalem (han). Musikk: Gunnar Sønstevold.
+    Bearbeidet for fjernsyn og instruert av Lars Löfgren. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00003668
+    Uploader: tubeup.py'

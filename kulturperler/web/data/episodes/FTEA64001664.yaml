@@ -1,0 +1,47 @@
+prf_id: FTEA64001664
+title: Bernardas hus
+description: Den herskesyke Bernarda holder seg selv og sine fem døtre isolert i sitt
+  hus og lar ingen av dem finne seg menn. Av Federico Garcia Lorca.
+year: 1964
+duration_seconds: 4093
+image_url: https://gfx.nrk.no/RgwftKqD1eRKhgBbOp-nWAqWX7gwhr4UCsQzIjxL7tNA
+nrk_url: https://tv.nrk.no/se?v=FTEA64001664
+play_id: 790
+performance_id: 840
+source: nrk
+medium: tv
+credits:
+- person_id: 756
+  role: actor
+- person_id: 712
+  role: actor
+- person_id: 97
+  role: actor
+- person_id: 1052
+  role: actor
+- person_id: 1099
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 462
+  role: actor
+- person_id: 1073
+  role: actor
+- person_id: 882
+  role: actor
+resources:
+- id: 25
+  url: https://archive.org/details/NRKTV-FTEA64001664-AR-199412493
+  title: Bernardas hus 27.08.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser skuespillet "Bernardas hus" av den spanske
+    dramatikeren Federico García Lorca. Den herskesyke Bernarda, holder seg selv og
+    sine fem døtre isolert i sitt hus og lar ingen av dem finne seg menn. Alle døtrene
+    er forelsket i samme mann, Pepe, som den eldste av dem får gifte seg med. Den
+    yngste, Adela, har et forhold til Pepe og møter ham i smug. Martirio narrer henne
+    til å tro at Pepe er skutt, og Adela henger seg. Døtrene rives og slites av lengsel,
+    mens Bernarda vokter over dem og den gale bestemoren, i moralens navn. I rollene
+    medvirker blant andre Ada Kramm (Bernarda), Merete Skavlan (Angustias), Wenche
+    Thorsby (Adela) og Urda Arneberg (Martirio). Oversatt av Carl Keilhau. Dekor:
+    Christian Egemar. Regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64001664
+    Uploader: tubeup.py'

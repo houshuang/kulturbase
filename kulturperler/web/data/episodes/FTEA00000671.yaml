@@ -1,0 +1,19 @@
+prf_id: FTEA00000671
+title: Stakkars helt
+description: Skuespill av av Aleksej Arbusov. Et drama om en krig, som ikke tok slutt
+  selv for dem som overlevde.
+year: 1971
+duration_seconds: 4967
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000671
+play_id: 658
+performance_id: 697
+source: nrk
+medium: tv
+resources:
+- id: 448
+  url: https://archive.org/details/NRKTV-FTEA000671-AR-199311120
+  title: Stakkars helt 25.04.1972
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00000671
+    Uploader: tubeup.py'

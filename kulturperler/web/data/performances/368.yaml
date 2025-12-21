@@ -1,0 +1,27 @@
+id: 368
+work_id: 360
+source: nrk
+year: 1994
+title: De gamle mestrene
+description: Hva kan skje fra en avisannonse? Et ektepar kvitter seg med gammelt innbo,
+  og en kunsthandler mistenker at et maleri kan skjule et som er mer verdt.
+total_duration: 2081
+image_url: https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AJxgcLmFZUYaI8rVsdxbFxA
+medium: tv
+credits:
+- person_id: 68
+  role: actor
+- person_id: 142
+  role: actor
+- person_id: 102
+  role: actor
+- person_id: 133
+  role: actor
+- person_id: 143
+  role: actor
+- person_id: 144
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 145
+  role: actor

@@ -1,0 +1,30 @@
+prf_id: FTEA00005887
+title: Colaengelen
+description: Et ektepar kommer hjem etter et restaurantbesøk. De har kranglet, men
+  har roet seg ned. Bak roen ulmer det fortsatt. Av Torun Lian.
+year: 1987
+duration_seconds: 2891
+image_url: https://gfx.nrk.no/fF_sMgJaaQK2p016GQMhSQ5nrdahCYT-VC8Aqu00kLIg
+nrk_url: https://tv.nrk.no/se?v=FTEA00005887
+play_id: 435
+performance_id: 460
+source: nrk
+medium: tv
+credits:
+- person_id: 345
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 321
+  role: actor
+resources:
+- id: 176
+  url: https://archive.org/details/NRKTV-FTEA005887-AR-199305236
+  title: Colaengelen 24.11.1987
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Colaengelen" av Torun Lian. Dramaturg: Erlend
+    Jonassen. Et ektepar kommer hjem etter et restaurantbesøk. De har kranglet, men
+    har roet seg ned. Bak roen ulmer det fortsatt, og en flaske på gulvet får det
+    til å flamme opp igjen. De som er med: Marianne Krogh (Kvinnen), Henrik Scheele
+    (Mannen), Torfinn Nag (Den fremmede). Regi: Harry Guttormsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00005887
+    Uploader: tubeup.py'

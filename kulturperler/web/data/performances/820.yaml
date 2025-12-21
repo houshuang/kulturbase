@@ -1,0 +1,29 @@
+id: 820
+work_id: 770
+source: nrk
+year: 1965
+title: I de hvites Amerika
+description: Et dokumentarskuespill om rasemotsetninger og kampen for frihet og fulle
+  menneskerettigheter i USA. Av Martin B. Duberman.
+total_duration: 6588
+image_url: https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQy74l20iGgACUkFR1nLgVwQ
+medium: tv
+credits:
+- person_id: 1066
+  role: actor
+- person_id: 1067
+  role: playwright
+- person_id: 997
+  role: director
+- person_id: 62
+  role: actor
+- person_id: 541
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 648
+  role: actor

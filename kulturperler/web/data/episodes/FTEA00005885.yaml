@@ -1,0 +1,38 @@
+prf_id: FTEA00005885
+title: Columbus' ankomst
+description: Karl har overtatt en leilighet etter en avdød tante og har hatt Innflyttingsfest.
+  Verten og tre av hans venner arbeider seg langsomt ut av bakrusen.
+year: 1985
+duration_seconds: 4166
+image_url: https://gfx.nrk.no/FRqj_PxrtKiXxOFKNmlcbQGCF1qg9jmPXFx8F5tXUT4A
+nrk_url: https://tv.nrk.no/se?v=FTEA00005885
+play_id: 453
+performance_id: 481
+source: nrk
+medium: tv
+credits:
+- person_id: 142
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 542
+  role: actor
+resources:
+- id: 191
+  url: https://archive.org/details/NRKTV-FTEA005885-AR-199011763
+  title: Columbus' ankomst 30.09.1986
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Columbus'' ankomst" av Lars Saabye Christensen.
+    Karl har overtatt en leilighet etter en avdød tante. Innflyttingen er blitt feiret
+    med et heidundrende selskap. Verten og tre av hans venner, Synnøve, Kirsten og
+    Hans arbeider seg langsomt ut av bakrusen. De gripes av en følelse av å ha lagt
+    ut på en lang reise sammen. I rollene medvirker blant andre Lasse Lindtner (Karl),
+    Marianne Krogh (Synnøve), Svein Sturla Hungnes (Hans) og Lieselotte Holmene. Bearbeidelse
+    og regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00005885
+    Uploader: tubeup.py'

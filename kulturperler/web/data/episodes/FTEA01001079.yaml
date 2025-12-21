@@ -1,0 +1,41 @@
+prf_id: FTEA01001079
+title: Fruen fra havet
+description: Hvilke konsekvenser får valgene vi tar for oss selv og andre? Av Henrik
+  Ibsen.
+year: 1979
+duration_seconds: 7286
+image_url: https://gfx.nrk.no/j91AOaAMtUaMlHzfKiMmPwaySCgHTFBmbEEvk4mFLTkw
+nrk_url: https://tv.nrk.no/se?v=FTEA01001079
+play_id: 119
+performance_id: 585
+source: nrk
+medium: tv
+credits:
+- person_id: 59
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 686
+  role: actor
+- person_id: 688
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 752
+  role: actor
+resources:
+- id: 213
+  url: https://archive.org/details/NRKTV-FTEA011079-AR-199102859
+  title: Fruen fra havet 06.11.1979
+  type: archive_fallback
+  description: 'Drama av Henrik Ibsen (1888). Hvilke konsekvenser får valgene vi tar
+    for oss selv og andre? I hovedrollene: Finn Kvalem (Doktor Wangel), Liv Ullmann
+    (Ellida Wangel), Marie Louise Tank (Bolette), Minken Fosheim (Hilde) og Odd Furøy
+    (Overlærer Arnholm). Musikk: Gustav Mahler - ''''Symphoni nr. 9''''. Sminke: Torbjørg
+    Amundsen. Kostymer: Mabi Helweg. Dekor: Grethe Hejer. Regi: Per Bronken. Sendt
+    i Fjernsynsteatret. Source: https://tv.nrk.no/serie/fjernsynsteatret/1979/FTEA01001079
+    Uploader: tubeup.py'

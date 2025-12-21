@@ -1,0 +1,51 @@
+prf_id: FDRP19006194
+title: Michael Jordan og hun med håret
+description: Tommy, 11 år, er en kortvokst og ambisiøs basketballspiller. Paula, 75
+  år, lukter mugg og har lagt seg ned for å dø. Møtet mellom dem gir dem styrke.
+year: 1994
+duration_seconds: 2096
+image_url: https://gfx.nrk.no/0zAoUK7sfWQ9YM-2f272kQbXup67AEO-HnTbvIovDWRw
+nrk_url: https://tv.nrk.no/se?v=FDRP19006194
+play_id: 355
+performance_id: 363
+source: nrk
+medium: tv
+credits:
+- person_id: 97
+  role: actor
+- person_id: 98
+  role: actor
+- person_id: 99
+  role: actor
+- person_id: 100
+  role: actor
+- person_id: 101
+  role: actor
+- person_id: 102
+  role: actor
+- person_id: 103
+  role: actor
+- person_id: 104
+  role: actor
+- person_id: 105
+  role: actor
+- person_id: 106
+  role: actor
+- person_id: 107
+  role: actor
+- person_id: 108
+  role: actor
+- person_id: 109
+  role: actor
+- person_id: 110
+  role: actor
+resources:
+- id: 239
+  url: https://archive.org/details/NRKTV-FDRP196194-AR-199504901
+  title: Michael Jordan og hun med håret 25.12.1994
+  type: archive_fallback
+  description: 'Tommy, 11 år, er en kortvokst og ambisiøs basketballspiller. Paula,
+    75 år, lukter mugg og har lagt seg ned for å dø. Det underlige møtet mellom dem
+    gir styrke til å mestre det uoppnåelige ... I hovedrollene: Kim André Scharff
+    og Astrid Folstad. Manuskript: Vibeke Idsøe. Regi: Are Kalmar. Source: https://tv.nrk.no/serie/fjernsynsteatret/1994/FDRP19006194
+    Uploader: tubeup.py'

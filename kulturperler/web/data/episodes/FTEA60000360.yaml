@@ -1,0 +1,50 @@
+prf_id: FTEA60000360
+title: Apollon fra Bellac
+description: Komedie av den franske dramatikeren Jean Giraudoux. Handler bl.a. om
+  skjønnhetsbegreper og forviklinger, og forholdet mellom mann og kvinne.
+year: 1960
+duration_seconds: 3016
+image_url: https://gfx.nrk.no/eaSUdEjkf4aa62-RrO0nKwl5HpWUL3mvqar-GccZnG7Q
+nrk_url: https://tv.nrk.no/se?v=FTEA60000360
+play_id: 861
+performance_id: 916
+source: nrk
+medium: tv
+credits:
+- person_id: 68
+  role: actor
+- person_id: 1153
+  role: actor
+- person_id: 1002
+  role: actor
+- person_id: 797
+  role: actor
+- person_id: 1016
+  role: actor
+- person_id: 1089
+  role: actor
+- person_id: 1090
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 1025
+  role: actor
+- person_id: 72
+  role: actor
+- person_id: 1151
+  role: actor
+resources:
+- id: 114
+  url: https://archive.org/details/NRKTV-FTEA60000360-AR-199421260
+  title: Apollon fra Bellac 06.10.1960
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Apollon fra Bellac" av den franske dramatikeren
+    Jean Giraudoux. En liten komedie, enakteren "L''Apollon de Bellac", oversatt av
+    Pål Løkkeberg. Handlingen er lagt til et patentkontor. Skjønnhetsbegreper og forviklinger.
+    "Åndens foredling". Mennenes forfengelighet. Forholdet mellom mann og kvinne.
+    Illusjon kontra virkelighet. I rollene: Georg Løkkeberg (Herren fra Bellac), Carl
+    Struve (Dørvakten), Wenche Tønseth (Agnes), Per Gjersøe (Byråsjefen), Egil Lorck
+    (Herr Cracheton), Otto Lundh (Herr Lepedura), Henrik Anker Steen (Herr Rasemutte),
+    Oscar Amundsen (Herr Schulze), Ragnar Schreiner (Generaldirektøren), Aud Schønemann
+    (Frøken Chevredent), Sossen Krohg (Therese). Instruktør: Pål Løkkeberg. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1960/FTEA60000360 Uploader: tubeup.py'

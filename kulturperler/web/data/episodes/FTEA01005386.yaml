@@ -1,0 +1,25 @@
+prf_id: FTEA01005386
+title: Galskapens stillhet 2:2
+description: 'Når datteren blir pønker, forskanser faren seg bak en velordnet fasade
+  mens moren engasjerer seg politisk og kommer nærmere datteren. Del 2: Galskap.'
+year: 1986
+duration_seconds: 3896
+image_url: https://gfx.nrk.no/ISmUju6_v7C9FF-SWwwhpwtDUxEjH9sEAjvbO8KQfWaA
+nrk_url: https://tv.nrk.no/se?v=FTEA01005386
+play_id: 450
+performance_id: 479
+source: nrk
+medium: tv
+resources:
+- id: 184
+  url: https://archive.org/details/NRKTV-FTEA015286-AR-199011771
+  title: Galskapens stillhet 1:2 04.11.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA01005286
+    Uploader: tubeup.py'
+- id: 211
+  url: https://archive.org/details/NRKTV-FTEA015386-AR-199011770
+  title: Galskapens stillhet 2:2 05.11.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA01005386
+    Uploader: tubeup.py'

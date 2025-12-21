@@ -1,0 +1,31 @@
+prf_id: FTEA65001465
+title: Lek
+description: En novellefilm uten handling. Det som teller er å gi et adekvat bilde
+  av unge mennesker i et bestemt miljø, den form de har, deres forhold til omverdenen.
+year: 1966
+duration_seconds: 1928
+image_url: https://gfx.nrk.no/7DfFVRboQaMJDFswMBy-egDv6DEX6GlFFXLILZ0Ljrfg
+nrk_url: https://tv.nrk.no/se?v=FTEA65001465
+play_id: 764
+performance_id: 813
+source: nrk
+medium: tv
+credits:
+- person_id: 689
+  role: actor
+- person_id: 375
+  role: actor
+resources:
+- id: 137
+  url: https://archive.org/details/NRKTV-FTEA000066-AR-199211694
+  title: Lek 23.02.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Lek", en film av Egil Kolstø (regi og montasje)
+    og Sverre Udnæs (manus og personinstruksjon). ''''Lek'''' er en novellefilm uten
+    handling. Det som teller er å gi et adekvat bilde av unge mennesker i et bestemt
+    miljø, den form de har, deres forhold til omverdenen. Det skal improviseres. I
+    rollene: Katja Medbøe (Hun) og Kjell Kjær (Han). Sverre Udnæs (og Rolv Wesenlund)
+    opptrer som statister i en av kafescenene. Musikk: Svein Erik Børja. Musikere:
+    Boysens Trio. Vokalist: Karin Krog. Dekor: Mia Holmedal. Kamera ass.: Jan Horne.
+    Script/prod.leder: Anja Breien. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA65001465
+    Uploader: tubeup.py'

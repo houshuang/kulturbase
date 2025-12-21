@@ -1,0 +1,40 @@
+prf_id: FTEA66001666
+title: En hyggelig fyr
+description: Trekantdrama av James Broom Lynne. De to gamle vennene Basil og Arthur
+  bor sammen og lever i sin egen lykkelige, men virkelighetsfjerne verden.
+year: 1966
+duration_seconds: 6142
+image_url: https://gfx.nrk.no/Vi9thbmVEplZfPOvuZtxfAQzfkuo89NQn-eLdjvqsexA
+nrk_url: https://tv.nrk.no/se?v=FTEA66001666
+play_id: 761
+performance_id: 810
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 688
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 311
+  role: actor
+resources:
+- id: 116
+  url: https://archive.org/details/NRKTV-FTEA66001666-AR-199316245
+  title: En hyggelig fyr 03.05.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En hyggelig fyr" av den engelske dramatikeren
+    James Broom Lynne. (The Trigon). Oversatt av Carl Hambro. Dekor: Christian Egemar.
+    Kostymer: Ivar Karlsen. Et trekantdrama. De to gamle vennene Basil og Arthur bor
+    sammen og lever i sin egen lykkelige, men virkelighetsfjerne verden. Arthur er
+    en barnslig, unnfallende speidergutt som forsøker å leve etter speiderbevegelsens
+    idealer. Hans motpol, Basil, er låst fast i drømmen om krigens spenninger og voldsomme
+    begivenheter. Begge drømmer om å erobre Mabel - den uskyldsrene, men er for lite
+    handlingsdyktige. Mabel opprettholder trekantforholdets ufarlige karakter ved
+    å la være å favorisere noen av dem. Så forskjellige disse tre enn er, så har de
+    i et fellesskap funnet en eksistensform. Inntil Charles dukker opp - en slags
+    Gregers Werle-skikkelse uten ideale hensikter. I rollene: Arne Lie (Arthur), Rolf
+    Søder (Basil), Tor Stokke (Charles), Liv Ullmann (Mabel). Musikk: Gunnar Sønstevold.
+    Instruktør: Arne Thomas Olsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66001666
+    Uploader: tubeup.py'

@@ -1,0 +1,43 @@
+id: 20
+work_id: 20
+source: nrk
+title: Bare ta og riv det ned
+description: Gerd, Joffen og Arne er bestevenner med byens gamle skomaker. En dag
+  blir han plutselig syk, og ber barna passe på huset sitt.
+total_duration: 3319
+image_url: https://gfx.nrk.no/7kZjVFtaOjz9OorNbdfpfQRRFGGhEbgzb4S2RTX_S2xQ
+medium: radio
+series_id: bare-ta-og-riv-det-ned
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2206
+  role: playwright
+- person_id: 2207
+  role: director
+- person_id: 566
+  role: actor
+- person_id: 2207
+  role: actor
+- person_id: 841
+  role: actor
+- person_id: 88
+  role: actor
+- person_id: 890
+  role: actor
+- person_id: 517
+  role: actor
+- person_id: 550
+  role: actor
+- person_id: 623
+  role: actor
+- person_id: 2208
+  role: actor
+- person_id: 447
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 1744
+  role: other
+- person_id: 1553
+  role: director

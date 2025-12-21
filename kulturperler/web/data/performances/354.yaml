@@ -1,0 +1,25 @@
+id: 354
+work_id: 346
+source: nrk
+year: 1996
+title: Frieren
+description: Einstøingen Jack bor i en bygård i Oslo. En dag flytter den unge Susanne
+  inn i leiligheten ved siden av. Hun trekker ham inn i et forvirrende spill.
+total_duration: 3525
+image_url: https://gfx.nrk.no/5jecDHFtWw4oo9T7hJySswfq685gz7zvExh9NgOl1vnw
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 64
+  role: actor
+- person_id: 65
+  role: actor
+- person_id: 66
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 67
+  role: actor

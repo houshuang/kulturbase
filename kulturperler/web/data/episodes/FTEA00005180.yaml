@@ -1,0 +1,19 @@
+prf_id: FTEA00005180
+title: Audiens
+description: En skildring av kamp mot løgn og undertrykkelse i et samfunn der opposisjonelle
+  stilles utenfor fellesskapet. Av Vaclav Havel.
+year: 1980
+duration_seconds: 3409
+image_url: https://gfx.nrk.no/MNVyn_acekKpxYv5UI5ghQGAZBqxZ5Gxd4mIAovsLftQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00005180
+play_id: 518
+performance_id: 550
+source: nrk
+medium: tv
+resources:
+- id: 307
+  url: https://archive.org/details/NRKTV-FTEA005180-AR-199102917
+  title: Audiens 29.09.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00005180
+    Uploader: tubeup.py'

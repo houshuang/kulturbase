@@ -1,0 +1,63 @@
+prf_id: FTEA00000291
+title: Seks personer søker en forfatter
+description: En dramatiker har utformet handling og personer i et skuespill, men gjør
+  aldri stykket ferdig. Så dukker disse personene plutselig opp i et tv-studio.
+year: 1991
+duration_seconds: 5856
+image_url: https://gfx.nrk.no/js7RuwjGRg1B7vuA6FvUpAYEnkFbE3J1FAaMAAcZNulA
+nrk_url: https://tv.nrk.no/se?v=FTEA00000291
+play_id: 389
+performance_id: 398
+source: nrk
+medium: tv
+credits:
+- person_id: 7
+  role: actor
+- person_id: 253
+  role: actor
+- person_id: 328
+  role: actor
+- person_id: 329
+  role: actor
+- person_id: 330
+  role: actor
+- person_id: 331
+  role: actor
+- person_id: 332
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 333
+  role: actor
+- person_id: 26
+  role: actor
+- person_id: 334
+  role: actor
+- person_id: 135
+  role: actor
+- person_id: 242
+  role: actor
+- person_id: 335
+  role: actor
+- person_id: 72
+  role: actor
+- person_id: 336
+  role: actor
+resources:
+- id: 428
+  url: https://archive.org/details/NRKTV-FTEA000291-AR-199407427
+  title: Seks personer søker en forfatter 06.01.1992
+  type: archive_fallback
+  description: 'Drama av Luigi Pirandello. (Sei personaggi in cerca d''autore). Skuespill
+    fra 1921. En fjernsynsversjon av Jan Hogne Sandven, omarbeidet og videreført av
+    Pål Løkkeberg. Dette er den italienske dramatikerens mest kjente og mest spilte
+    teaterstykke. Det bygger på en meget original idé: En dramatiker har arbeidet
+    med et utkast til et skuespill. Han har utformet personene og handlingen. Men
+    av en eller annen grunn gjør han aldri stykket ferdig. Så dukker disse personene
+    plutselig opp i et tv-studio midt under innspillingen av en ny såpeopera. I rollene:
+    Svein Scharffenberg (Faren), Ellen Horn (Moren), Iren Reppen (Stedatteren), Lasse
+    Kolsrud (Sønnen), Neil Mac Donald Berge (Gutten), Bianca Bernhoft Løkkeberg (Piken).
+    Ellers medvirker: Sossen Krohg, Bentein Baardson, Sigrid Huun, Helen Vikstvedt,
+    Reidar Sørensen, Kari-Ann Grønsund, Guri Schanke, Ivar Nørve, Anders Hatlo og
+    Nicolay Lange-Nielsen. Regi: Pål Løkkeberg. Source: https://tv.nrk.no/serie/fjernsynsteatret/1992/FTEA00000291
+    Uploader: tubeup.py'

@@ -1,0 +1,57 @@
+prf_id: FTEA00003786
+title: Systuen
+description: Seks kvinner arbeider i et skredderverksted for herreklær i Paris like
+  etter freden i 1945. Alle, også den jødiske eieren Léon, er berørt av krigen.
+year: 1986
+duration_seconds: 6775
+image_url: https://gfx.nrk.no/ZGR2ts62wBb1mjvHPAm6YQoapyK-lowEP3lDZr3HjKLw
+nrk_url: https://tv.nrk.no/se?v=FTEA00003786
+play_id: 440
+performance_id: 467
+source: nrk
+medium: tv
+credits:
+- person_id: 7
+  role: actor
+- person_id: 524
+  role: actor
+- person_id: 530
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 531
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 361
+  role: actor
+- person_id: 94
+  role: actor
+- person_id: 126
+  role: actor
+- person_id: 110
+  role: actor
+resources:
+- id: 352
+  url: https://archive.org/details/NRKTV-FTEA003786-AR-199305216
+  title: Systuen 07.04.1987
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Systuen" av den franske dramatikeren Jean-Claude
+    Grumberg. (L''Atelier, 1979). Oversatt av Elisabeth Thams. Bearbeidet for fjernsyn
+    av Terje Mærli. Kostymer: Gerd Johnsrud. En sorg-munter komedie om etterkrigstidens
+    Frankrike, og hverdagen i en liten konfeksjonsfabrikk. Hovedvekten er lagt på
+    den grusomme skjebne som jøder ble utsatt for i tyske konsentrasjonsleire. Få
+    vendte tilbake, men de etterlatte skulle også leve sitt liv i det nye samfunnet
+    som etter hvert fikk sin form. Seks kvinner arbeider i et skredderverksted for
+    herreklær i Paris like etter freden i 1945. Alle, også den jødiske eieren Léon,
+    er berørt av krigen. Vi følger kvinnene og Léon fra frigjøringsåret og til 1952:
+    I løpet av denne tiden er vi vitne til krangler, giftemål, fester og grå arbeidsdager.
+    Alle har sin fortid fra det okkuperte Frankrike, og sine drømmer om en ny tid.
+    De som er med: Oda Schjøll (Helène), Lieselotte Holmene (Simone), Sylvia Salvesen
+    (Gisèle), Inger Schjoldager (Marie), Tone Schwarzott (Laurence), Marianne Krogh
+    (Mimi), Jan Ø. Wiig (Léon), Lasse Lindtner (Første presser), Øyvin Berven (Jean,
+    annen presser), Anders Hatlo (Max), Markus Strand Kiønig (Den lille gutten). Musikk:
+    Henning Sommerro. Regi: Terje Mærli. Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00003786
+    Uploader: tubeup.py'

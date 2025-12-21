@@ -1,0 +1,51 @@
+prf_id: FTEA62001562
+title: Den uskyldige
+description: Direktør Erdmann frifinnes for et mord. Men underveis fremkommer det
+  antydninger - er han likevel skyldig?
+year: 1962
+duration_seconds: 5283
+image_url: https://gfx.nrk.no/_HU5GKw4NG7bSyxU8W8jiQitO8GjUSkgqOIzNyKPFxrA
+nrk_url: https://tv.nrk.no/se?v=FTEA62001562
+play_id: 827
+performance_id: 880
+source: nrk
+medium: tv
+credits:
+- person_id: 71
+  role: actor
+- person_id: 1135
+  role: actor
+- person_id: 768
+  role: actor
+- person_id: 1031
+  role: actor
+- person_id: 1105
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 997
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 1133
+  role: actor
+resources:
+- id: 71
+  url: https://archive.org/details/NRKTV-FTEA62001562-AR-199416108
+  title: Den uskyldige 06.09.1962
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den uskyldige" av Fritz Hochwälder. Oversatt
+    av Carl Fredrik Engelstad. Dekorasjon: Sverre Andersen. Det kommunale vannverket
+    graver opp et skjelett av en mann med knust hjerneskalle i direktør Erdmann, en
+    respektert borger og familiemann men også en hustyrann, sitt rosenbed. Det sladres
+    i byen og direktøren ser sin renhet i fare. Han kan ikke forstå hvordan andre
+    kan våge å mistenke ham, selv familien anser han som en kriminell. Tilliten til
+    ham er som blåst bort. Herr direktør plages og under politiavhør anklager han
+    seg selv for mord - og overlater bevisbyrden til politiet. Det viser seg at skjelettet
+    stammer fra 1700-tallet, og direktøren frifinnes. Men underveis fremkommer det
+    antydninger, den uskyldige - er han likevel skyldig? I rollene: Carsten Winger
+    (Christian Erdmann), Ragnhild Michelsen (Charlotte Erdmann), Gudrun Waadeland
+    (Christine Erdmann), Fridtjof Mjøen (Julius), Egil Hjorth-Jenssen (Krott), Alf
+    Sommer (Petternigg), Adolf Bjerke (Stark), Magne Blenes (Breitnadler), Wenche
+    Fæhn (Mizzi). Instruktør: Toralf Sandø. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62001562
+    Uploader: tubeup.py'

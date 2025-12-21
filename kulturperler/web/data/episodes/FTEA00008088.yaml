@@ -1,0 +1,19 @@
+prf_id: FTEA00008088
+title: Spor
+description: En nysgjerrig ung mann med kamera kan snu opp ned på en kvinnes liv,
+  særlig når hun er hans mor. Av Torun Lian.
+year: 1988
+duration_seconds: 3092
+image_url: https://gfx.nrk.no/O-TqLbSFqlmMatBzQoPY8wr5CiIeWdqwwHAQFq0etDkA
+nrk_url: https://tv.nrk.no/se?v=FTEA00008088
+play_id: 419
+performance_id: 439
+source: nrk
+medium: tv
+resources:
+- id: 291
+  url: https://archive.org/details/NRKTV-FTEA008088-AR-199035921
+  title: Spor 29.08.1989
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00008088
+    Uploader: tubeup.py'

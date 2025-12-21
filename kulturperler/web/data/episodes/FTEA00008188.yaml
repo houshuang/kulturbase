@@ -1,0 +1,19 @@
+prf_id: FTEA00008188
+title: Sabeltigerens sønn
+description: Familiespill med en mor, hennes venn og hennes sønn. Tiden er 1959-1965.
+  Faren til sønnen, en oppløpen tenåring, døde i tysk fangenskap under krigen.
+year: 1988
+duration_seconds: 9828
+image_url: https://gfx.nrk.no/xZpMS0LsenxKnlXZRq0-EA7ktRpjuJ7f5x3ii1pE3reQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00008188
+play_id: 417
+performance_id: 435
+source: nrk
+medium: tv
+resources:
+- id: 487
+  url: https://archive.org/details/NRKTV-FTEA00018188-AR-199034772
+  title: Sabeltigerens sønn 14.11.1989 (Part 1)
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00008188
+    Uploader: tubeup.py...'

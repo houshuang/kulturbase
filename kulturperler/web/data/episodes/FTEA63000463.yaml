@@ -1,0 +1,28 @@
+prf_id: FTEA63000463
+title: Kjøkkenheisen
+description: Handlingen foregår i et kjellerrom hvor to gangstere venter på en ordre.
+  Av den engelske dramatikeren Harold Pinter.
+year: 1963
+duration_seconds: 3182
+image_url: https://gfx.nrk.no/t0-87YccKHn3WAqZqgMXWA5WfLFc_Vi1O90caavLra0w
+nrk_url: https://tv.nrk.no/se?v=FTEA63000463
+play_id: 810
+performance_id: 863
+source: nrk
+medium: tv
+credits:
+- person_id: 541
+  role: actor
+- person_id: 997
+  role: actor
+resources:
+- id: 62
+  url: https://archive.org/details/NRKTV-FTEA63000463-AR-199416067
+  title: Kjøkkenheisen 13.06.1963
+  type: archive_fallback
+  description: 'Skuespill av den britiske dramatikeren og Nobelprisvinneren Harold
+    Pinter. Handlingen foregår i et kjellerrom hvor to gangstere venter på en ordre.
+    I rollene: Lasse Kolstad (Ben) og Magne Bleness (Gus). Originaltittel: The Dumb
+    Waiter. Oversatt av Per Bronken. Dekor: Bjørn Næss. Instruktør: Tore Breda Thoresen.
+    Sendt i Fjernsynsteatret i 1963. Source: https://tv.nrk.no/serie/fjernsynsteatret/1963/FTEA63000463
+    Uploader: tubeup.py'

@@ -1,0 +1,19 @@
+prf_id: FTRO00003681
+title: Hålogaland Teater i fokus
+description: Utdrag fra en forestilling på Hålogaland Teater. Kavalkade over ti års
+  forestilling med skuespillere som har vært knyttet til teateret gjennom årene.
+year: 1981
+duration_seconds: 6344
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTRO00003681
+play_id: 510
+performance_id: 541
+source: nrk
+medium: tv
+resources:
+- id: 292
+  url: https://archive.org/details/NRKTV-FTRO003681-AR-199504039
+  title: Hålogaland Teater i fokus 25.05.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTRO00003681
+    Uploader: tubeup.py'

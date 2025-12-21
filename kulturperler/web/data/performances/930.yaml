@@ -1,0 +1,32 @@
+id: 930
+work_id: 874
+source: nrk
+year: 2011
+title: Den andre mannen i meg
+description: Et møte med lyrikeren Olav H. Hauge, bygd på dagbøkene hans fra 1924-1994.
+  Av og med Henrik Mestad.
+total_duration: 2430
+image_url: https://gfx.nrk.no/20N6CHV7sgdPloLv48w54AKR2TZ4veHarUUVxoVXGOqA
+medium: radio
+series_id: radioteatret_MKDR62090011
+credits:
+- person_id: 1170
+  role: director
+- person_id: 123
+  role: playwright
+- person_id: 1236
+  role: composer
+- person_id: 1237
+  role: composer
+- person_id: 123
+  role: actor
+- person_id: 1238
+  role: other
+- person_id: 1224
+  role: producer
+- person_id: 1179
+  role: other
+- person_id: 1239
+  role: other
+- person_id: 1228
+  role: producer

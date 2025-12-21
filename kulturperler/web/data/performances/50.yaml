@@ -1,0 +1,59 @@
+id: 50
+work_id: 48
+source: nrk
+title: Den Døde Er Ikke Identifisert
+description: En mann blir funnet drept i sin egen leilighet. Hvem drepte ham? Og hvorfor?
+  Og hvem er egentlig den døde?
+total_duration: 10251
+image_url: https://gfx.nrk.no/Obf1ZEucPxAIZoDOPO4IngGMkNvCezAlWK4r17o-OkFw
+medium: radio
+series_id: den-doede-er-ikke-identifisert
+credits:
+- person_id: 1276
+  role: other
+- person_id: 1295
+  role: other
+- person_id: 1449
+  role: playwright
+- person_id: 1322
+  role: other
+- person_id: 1276
+  role: director
+- person_id: 139
+  role: actor
+- person_id: 111
+  role: actor
+- person_id: 114
+  role: actor
+- person_id: 25
+  role: actor
+- person_id: 1402
+  role: actor
+- person_id: 1335
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 326
+  role: actor
+- person_id: 189
+  role: actor
+- person_id: 1200
+  role: director
+- person_id: 1305
+  role: other
+- person_id: 9
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 1450
+  role: actor
+- person_id: 1451
+  role: actor
+- person_id: 1452
+  role: actor
+- person_id: 1453
+  role: actor
+- person_id: 18
+  role: actor

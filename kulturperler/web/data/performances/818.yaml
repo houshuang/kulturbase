@@ -1,0 +1,21 @@
+id: 818
+work_id: 768
+source: nrk
+year: 1965
+title: Trappen, eller Imperiebyggerne
+description: Et absurd skuespill om en familie på evig flukt opp trappen i en leiegård,
+  fra den ene etasjen til den andre, jaget av en forferdelig larm.
+total_duration: 5863
+image_url: https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJA1G0lyw9I6UiCUuKlhGZLZg
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 507
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 730
+  role: actor

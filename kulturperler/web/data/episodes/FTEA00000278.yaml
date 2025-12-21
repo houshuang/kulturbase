@@ -1,0 +1,51 @@
+prf_id: FTEA00000278
+title: Rosmersholm
+description: Johannes Rosmer er den siste i en gammel slekt av prester og offiserer.
+  Hans hustru har tatt livet av seg ved å kaste seg i en foss. Av Henrik Ibsen.
+year: 1978
+duration_seconds: 7229
+image_url: https://gfx.nrk.no/nr98wZNIOvym6m0W27FaLgQ3cHln9FE0NpINOZ2vpY0w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000278
+play_id: 560
+performance_id: 596
+source: nrk
+medium: tv
+credits:
+- person_id: 515
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 168
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 197
+  url: https://archive.org/details/NRKTV-FTEA000278-AR-199203892
+  title: Rosmersholm 14.11.1978
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rosmersholm" av Henrik Ibsen. Skuespill fra
+    1886. Bearbeidet av Per Bronken. Sminke: Karin Sæther. Kostymer: Ada Skolmen.
+    Dekorasjoner: Grethe Hejer. Eier av Rosmersholm, pastor Johannes Rosmer - en forfinet,
+    idealistisk men handlingsveik mann, er den siste av en gammel, innflytelsesrik
+    slekt. Hans hustru Beate har druknet seg i Møllerfossen, av sykelig sinn mener
+    man. I sin ungdom var Rosmer påvirket av Ulrik Brendel, hans huslærer, en fritenker
+    og idealist. Gjennom svogeren rektor Kroll har en ung, sterk og livshungrende
+    kvinne fått innpass på Rosmersholm - Rebekka West. Hun har fått ham med på sine
+    nye, radikale tanker og vil hjelpe ham med å virkeliggjøre hans tanker om en verden
+    av glade adelsmennesker. Han blir forelsket, og føler seg frigjort fra alle gamle
+    normer påtvunget gjennom oppdragelse og samfunnet ellers. Rektor Kroll setter
+    alle krefter inn på å redde ham fra slikt frafall. Rosmer oppdager at Beate ble
+    lurt og manipulert av Rebekka. Han fylles av tvil, selvanklager. Og i en konfrontasjon
+    med rektor Kroll oppdager Rebekka at hennes pleiefar, doktor West, er hennes virkelige
+    far. Hun tilstår at hun indirekte sto bak Beates selvmord for å ta fruens plass.
+    Når han nå ber Rebekka bli hans kone, kan hun ikke på grunn av skyldfølelsen.
+    De som er med: Jan Hårstad (Johannes Rosmer, eier av Rosmersholm), Marie Louise
+    Tank (Rebekka West), Finn Kvalem (Rektor Kroll, Rosmers svoger), Gisle Straume
+    (Ulrik Brendel), Ragnhild Michelsen (Madam Helseth, husholderske), Odd Furøy (Peder
+    Mortensgård). Regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00000278
+    Uploader: tubeup.py'

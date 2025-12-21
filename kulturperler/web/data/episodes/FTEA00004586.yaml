@@ -1,0 +1,20 @@
+prf_id: FTEA00004586
+title: Vi sitter ikke med hendene i fanget og venter
+description: Etter fjernsynsteatret "Du har ikke en sjans! - Ta'n!". Ungdommer fra
+  filmen intervjues vinteren 1986.
+year: 1986
+duration_seconds: 951
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00004586
+play_id: 458
+performance_id: 486
+source: nrk
+medium: tv
+resources:
+- id: 301
+  url: https://archive.org/details/NRKTV-FTEA004586-AR-199011782
+  title: Vi sitter ikke med hendene i fanget og venter 11.03.1986
+  type: archive_fallback
+  description: 'Etter fjernsynsteatret. Ungdommer fra "Du har ikke en sjans! - Ta''n!"
+    intervjues vinteren 1986. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00004586
+    Uploader: tubeup.py'

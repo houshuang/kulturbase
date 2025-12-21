@@ -1,0 +1,48 @@
+prf_id: FTEA65000665
+title: Hans Majestets Foged
+description: Et muntert skuespill fra 1880 om embedsstanden i Norge og en skandaløs
+  klassereise - en udugelig fogd vil helst bli en dugelig snekker. Av Alexander Kielland.
+year: 1965
+duration_seconds: 3383
+image_url: https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4Hw5Yoa4-I56_MOCDwzCgdtig
+nrk_url: https://tv.nrk.no/se?v=FTEA65000665
+play_id: 783
+performance_id: 833
+source: nrk
+medium: tv
+credits:
+- person_id: 54
+  role: actor
+- person_id: 972
+  role: actor
+- person_id: 308
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 969
+  role: actor
+- person_id: 970
+  role: actor
+- person_id: 858
+  role: actor
+resources:
+- id: 5
+  url: https://archive.org/details/NRKTV-FTEA65000665-AR-199405109
+  title: Hans Majestets Foged 19.01.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Hans Majestets Foged" av Alexander Kielland.
+    Et muntert skuespill fra 1880 om embedsstanden i Norge og en skandaløs klassereise
+    - en udugelig fogd vil helst bli en dugelig snekker. Spilt inn med skuespillere
+    fra Den Nationale Scene i Bergen. Dekorasjon: Bjørn Næss. Fogden Gregersen føler
+    seg mistilpasset som fogd, og har overlatt fogderiet til sin fullmektig. Han trives
+    best i snekkerverkstedet, der han lager møbler - nesten i skjul, for slikt håndens
+    arbeid kan jo ikke en embedsmann drive med. Når det oppdages underslag på hans
+    kontor, erkjenner han sin vantrivsel og manglende kontoristevner. Med støtte fra
+    datteren, hennes venn urmakeren og en trofast standskollega, byråsjefen, overvinner
+    han fordommer og tar steget ned i rang. Han fratrer embetet for å bli snekkermester,
+    dette til sorenskriverens og marinekapteinens forargelse. I rollene: Svend von
+    Düring (Foged A.Ø. Gregersen), Inger Marie Andersen (Fogdens datter Margrete),
+    Arne Jacobsen (Urmaker Reynholdt), Kjell Stormoen (Sorenskriver Ross), Georg Richter
+    (Kaptein Tamp av Marinen), Stener Fogge (Byråsjef Lorentz), Thomas Fasting (Kornelius
+    ærendsgutt). Instruktør: Sølve Kern. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000665
+    Uploader: tubeup.py'

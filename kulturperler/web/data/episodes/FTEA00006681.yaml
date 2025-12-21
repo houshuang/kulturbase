@@ -1,0 +1,19 @@
+prf_id: FTEA00006681
+title: Tolv edsvorne menn
+description: En amerikansk jury skal ta stilling til skyldsspørsmålet. Om demokrati
+  og rettsprinsipp. Av Reginald Rose.
+year: 1981
+duration_seconds: 4382
+image_url: https://gfx.nrk.no/Rho_GiPpQLJ72oJwyzUTewNx-G7Yx2dHz-gWwh_wzaaA
+nrk_url: https://tv.nrk.no/se?v=FTEA00006681
+play_id: 511
+performance_id: 542
+source: nrk
+medium: tv
+resources:
+- id: 298
+  url: https://archive.org/details/NRKTV-FTEA006681-AR-199103018
+  title: Tolv edsvorne menn 11.05.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA00006681
+    Uploader: tubeup.py'

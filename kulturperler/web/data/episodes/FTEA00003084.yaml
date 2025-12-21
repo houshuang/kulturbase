@@ -1,0 +1,35 @@
+prf_id: FTEA00003084
+title: Benken
+description: På en parkbenk styrker to alkoholikere seg til møtet med en ny dag. Så
+  dukker Erik opp, en mann fra et tilsynelatende helt annet samfunnssjikt.
+year: 1984
+duration_seconds: 3979
+image_url: https://gfx.nrk.no/hJOTucJO4V_lWvFs0cBcSwrvMy4EKXj6yhNEDHuRfMTg
+nrk_url: https://tv.nrk.no/se?v=FTEA00003084
+play_id: 473
+performance_id: 502
+source: nrk
+medium: tv
+credits:
+- person_id: 124
+  role: actor
+- person_id: 604
+  role: actor
+- person_id: 605
+  role: actor
+resources:
+- id: 151
+  url: https://archive.org/details/NRKTV-ftea003084-ar-199061603
+  title: Benken 11.06.1985
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Benken" av Roland Janson. (Bänken). Oversatt
+    av Kjell Askildsen. Kostymer: Else Lund. Scenografi: Hilde Hauan Johnsen. Handlingen
+    foregår en morgenstund på en parkbenk der to nedkjørte alkoholikere styrker seg
+    til møtet med en ny dag. Så dukker Erik opp - en mann fra et tilsynelatende helt
+    annet samfunnssjikt. Hvem er denne fremtoningen som er så full av medfølelse og
+    sympati, og samtidig så skarp og uforsonlig at han blir som en katalysator for
+    deres følelser, får dem til å blottstille seg åpenlyst og skamløst? Det er Biggen
+    som forstår hvem mannen er, men røper det ikke engang for seg selv, for har han
+    først gjort det er det ingen vei tilbake. I rollene: Joachim Calmeyer (Biggen),
+    Stig Ryste Amdam (Johnny), Sigmund Sæverud (Erik). Regi: Ola Moum. Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA00003084
+    Uploader: tubeup.py'

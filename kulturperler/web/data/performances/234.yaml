@@ -1,0 +1,71 @@
+id: 234
+work_id: 229
+source: nrk
+title: Mio, min Mio (1975)
+description: "Bo Vilhelm Olsson, også kalt Bosse, bærer på et håp om å finne sin egentlige\
+  \ far. En dag finner han en flaske med en ånd i. \n\nMed: Simen Sand (Bosse/Mio),\
+  \ Torgeir Kjos (Jum-Jum), Mona Hofland (Fru Lundin), Per Sunderland (Ånden), Per\
+  \ Theodor Haugen (Kongen, Mios far) og Espen Skjønberg (Forteller). Sendt i Barnetimen."
+total_duration: 8504
+image_url: https://gfx.nrk.no/NN7cDdk6r58GtiZCf4gZIwoacJp_iNH_6e8FEFvFtCNg
+medium: radio
+series_id: mio-min-mio-1975
+credits:
+- person_id: 2900
+  role: playwright
+- person_id: 2913
+  role: other
+- person_id: 1068
+  role: composer
+- person_id: 2914
+  role: other
+- person_id: 1048
+  role: director
+- person_id: 7
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 2915
+  role: actor
+- person_id: 873
+  role: actor
+- person_id: 2916
+  role: actor
+- person_id: 350
+  role: actor
+- person_id: 706
+  role: actor
+- person_id: 2917
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 1710
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 2918
+  role: actor
+- person_id: 1778
+  role: director
+- person_id: 80
+  role: actor
+- person_id: 1280
+  role: other
+- person_id: 2919
+  role: composer
+- person_id: 1536
+  role: director
+- person_id: 734
+  role: actor
+- person_id: 2920
+  role: actor
+- person_id: 2921
+  role: actor
+- person_id: 2922
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 443
+  role: actor

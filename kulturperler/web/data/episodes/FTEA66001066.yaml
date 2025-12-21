@@ -1,0 +1,43 @@
+prf_id: FTEA66001066
+title: Misforståelsen
+description: Skuespill av Albert Camus. En mann vender tilbake med sin kone og sitt
+  barn etter 20 år. Hans mor og søster driver nå et pensjonat der de tar livet av
+  rike gjester.
+year: 1966
+duration_seconds: 5170
+image_url: https://gfx.nrk.no/P0OrxuACD5RrSDq0s-ZJvgQU2ziOgOj27BR0K8o2RUNA
+nrk_url: https://tv.nrk.no/se?v=FTEA66001066
+play_id: 757
+performance_id: 806
+source: nrk
+medium: tv
+credits:
+- person_id: 153
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 1044
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 1059
+  role: actor
+resources:
+- id: 72
+  url: https://archive.org/details/NRKTV-FTEA66001066-AR-199316253
+  title: Misforståelsen 16.08.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Misforståelsen" av Albert Camus. (Le Malentendu).
+    Skuespill i tre akter. Bearbeidet og oversatt av Jan Bull. Dekorasjon: Gunnar
+    Alme. En mann vender tilbake med sin kone og sitt barn etter 20 år. Hans mor og
+    søster driver nå et pensjonat - de føler de lever i eksil, i et kaldt land, og
+    det er for å unnslippe til en solrik kyst at de tar livet av rike gjester. For
+    gøy beslutter sønnen å innlosjere seg på pensjonatet uten å avsløre sin identitet.
+    Han etterlater kone og barn på et annet pensjonat. Verken moren eller søsteren
+    gjenkjenner ham, og i løpet av natten slår de ham ihjel og tar hans penger. Neste
+    morgen kommer konen, og den reisendes identitet avsløres. I stykket finner man
+    Camus'' tanker om den meningsløse verden og den enkeltes forsøk på å skape sitt
+    eget innhold, uttrykt bittert og vemodig. I rollene: Else Heiberg (Moren), Henny
+    Moan (Martha), Thea Stabell (Maria), Arne Aas (Jan), Finn Mehlum (Den gamle tjeneren).
+    Instruktør: Jan Bull. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66001066
+    Uploader: tubeup.py'

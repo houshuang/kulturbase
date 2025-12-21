@@ -1,0 +1,53 @@
+prf_id: FDRP70000296
+title: Antigone
+description: Antigone er i gresk mytologi datter av kong Oidipus og hans mor Iokaste.
+  Da broren Polyneikes dør trosser hun forbudet om ikke å gravlegge ham.
+year: 1996
+duration_seconds: 4637
+image_url: https://gfx.nrk.no/_b6K5Jws5ry7ExsJ5L4WjA-tH2zecYELJifgWET5eOpw
+nrk_url: https://tv.nrk.no/se?v=FDRP70000296
+play_id: 342
+performance_id: 348
+source: nrk
+medium: tv
+credits:
+- person_id: 30
+  role: actor
+- person_id: 31
+  role: actor
+- person_id: 32
+  role: actor
+- person_id: 33
+  role: actor
+- person_id: 34
+  role: actor
+- person_id: 35
+  role: actor
+- person_id: 36
+  role: actor
+- person_id: 37
+  role: actor
+- person_id: 38
+  role: actor
+- person_id: 39
+  role: actor
+- person_id: 40
+  role: actor
+- person_id: 41
+  role: actor
+resources:
+- id: 126
+  url: https://archive.org/details/NRKTV-FTEA000570-AR-199311832
+  title: Antigone 17.11.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser tragedien "Antigone" av den greske dramatikeren
+    Sofokles. Folket i Theben begraver kong Eteokles og hyller Kreon, den nye kongen.
+    Antigone, datter av kong Oidipus og søster av Eteokles og Polyneikes, ønsker å
+    begrave sin bror Polyneikes, som døde i kamp med sin bror om tronen. Kreon forbyr
+    Antigone å gravlegge Polyneikes, noe som får store konsekvenser for Kreon og hans
+    familie. I rollene medvirker blant andre Monna Tandberg (Antigone), Jørn Ording
+    (Kreon), Bab Christensen (Evrydike), Lise Fjeldstad (Ismene) og Nils Ole Oftebro
+    (Haimon). Til nynorsk ved Erik Vandvik. Musikk: Gunnar Sønstevold. Dekor: Christian
+    Egemar. Kostymer: Christian Egemar og Nan Austin. Tilrettelagt for fjernsyn og
+    instruert av Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00000570
+    Uploader: tubeup.py'

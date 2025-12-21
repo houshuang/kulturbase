@@ -1,0 +1,19 @@
+prf_id: FTEA00000772
+title: Fru Warrens virksomhet
+description: Stykket handler om underbetaling, utnyttelse og undervurdering av enkelte
+  sosiale lag. Av den engelske dramatikeren George Bernard Shaw.
+year: 1972
+duration_seconds: 4986
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000772
+play_id: 655
+performance_id: 694
+source: nrk
+medium: tv
+resources:
+- id: 323
+  url: https://archive.org/details/NRKTV-FTEA000772-AR-199311310
+  title: Fru Warrens virksomhet 05.09.1972
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00000772
+    Uploader: tubeup.py'

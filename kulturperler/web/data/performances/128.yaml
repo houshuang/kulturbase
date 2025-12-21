@@ -1,0 +1,27 @@
+id: 128
+work_id: 123
+source: nrk
+title: God jul, granne!
+description: Det er ein kveld i jula, heime hos Ola og Birte. Med Lars Tvinde (Ola
+  ), Astrid Sommer (Birte), Alf Sommer (Per) og Lydia Opøien (Kristina).
+total_duration: 2425
+image_url: https://gfx.nrk.no/2ygrrP-5xsOMddEp4Zz_5AxNVcaXXkJSIC8aMRZRXhyg
+medium: radio
+series_id: god-jul-granne
+credits:
+- person_id: 2121
+  role: playwright
+- person_id: 670
+  role: director
+- person_id: 1135
+  role: actor
+- person_id: 734
+  role: actor
+- person_id: 1010
+  role: actor
+- person_id: 2123
+  role: actor
+- person_id: 2124
+  role: director
+- person_id: 2125
+  role: director

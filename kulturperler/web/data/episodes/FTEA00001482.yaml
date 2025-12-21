@@ -1,0 +1,19 @@
+prf_id: FTEA00001482
+title: Forsvarsadvokaten
+description: Monolog. Den amerikanske advokaten Clarence Darrow startet sin karriere
+  i Chicago mot slutten av forrige århundre i en sosialt og politisk urolig tid.
+year: 1982
+duration_seconds: 5962
+image_url: https://gfx.nrk.no/4Y6xagSsS2eTiEjRGGzpwQ60YGawLJNr3HiRPARBdMNg
+nrk_url: https://tv.nrk.no/se?v=FTEA00001482
+play_id: 503
+performance_id: 534
+source: nrk
+medium: tv
+resources:
+- id: 60
+  url: https://archive.org/details/NRKTV-FTEA00001482AU
+  title: Forsvarsadvokaten 28.12.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA00001482
+    Uploader: tubeup.py'

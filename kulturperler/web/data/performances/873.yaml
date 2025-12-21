@@ -1,0 +1,22 @@
+id: 873
+work_id: 820
+source: nrk
+year: 1962
+title: Gengangere (Gjengangere)
+description: Drama av Henrik Ibsen. Helene Alving har aldri fortalt sannheten om sin
+  mann. Når sønnen Osvald kommer hjem fra Paris, blir ikke gjensynet den lykken moren
+  har sett frem til.
+total_duration: 7491
+image_url: https://gfx.nrk.no/Tv9HOQ-PdJLe3wwIDo5WiQ16nljcjpt8EgjnNyTzQsuQ
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 297
+  role: actor
+- person_id: 800
+  role: actor

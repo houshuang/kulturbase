@@ -1,0 +1,18 @@
+prf_id: FTEA00006885
+title: Etter fjernsynsteatret
+description: En samtale om forestillingen "Du kan da ikke bare gå..."
+year: 1985
+duration_seconds: 708
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00006885
+play_id: 468
+performance_id: 497
+source: nrk
+medium: tv
+resources:
+- id: 252
+  url: https://archive.org/details/NRKTV-FTEA006885-AR-199061634
+  title: Etter fjernsynsteatret 22.10.1985
+  type: archive_fallback
+  description: 'En samtale om forestillingen "Du kan da ikke bare gå..." Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA00006885
+    Uploader: tubeup.py'

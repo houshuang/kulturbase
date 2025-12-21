@@ -1,0 +1,28 @@
+prf_id: FTEA00001782
+title: Galgemannen
+description: En historie om overtro, helvetesredsel og lydighet flettet inn i det
+  gamle temaet om offiseren og jomfruen. Av Runar Schildt.
+year: 1982
+duration_seconds: 3890
+image_url: https://gfx.nrk.no/D4FG6a-lSCmOqOotR2O2_AZbcxB6cFssOisfcmCSA1jg
+nrk_url: https://tv.nrk.no/se?v=FTEA00001782
+play_id: 500
+performance_id: 531
+source: nrk
+medium: tv
+credits:
+- person_id: 618
+  role: actor
+- person_id: 233
+  role: actor
+resources:
+- id: 242
+  url: https://archive.org/details/NRKTV-FTEA001782-AR-199006140
+  title: Galgemannen 22.02.1983
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Galgemannen" av den finlandssvenske forfatteren
+    Runar Schildt. En historie om overtro, helvetesredsel og lydighet flettet inn
+    i det gamle temaet om offiseren og jomfruen. I rollene: Knut Wigert (oberst Christoffer
+    Toll) og Birgitte Victoria Svendsen (Maria). Oversatt av Karen Lisa Castberg.
+    Regi : Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00001782
+    Uploader: tubeup.py'

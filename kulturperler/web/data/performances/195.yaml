@@ -1,0 +1,71 @@
+id: 195
+work_id: 190
+source: nrk
+title: Kriminalforfatteren
+description: Sidney Bartleby er en tøffelhelt og hanrei som i fantasien kompenserer
+  for sine svakheter. Han fantaserer om å myrde sin kone.
+total_duration: 7301
+image_url: https://gfx.nrk.no/14dLLcdskRsXwulHELiB7ge4jDXze4ze1N6f61pW7ekg
+medium: radio
+series_id: kriminalforfatteren
+credits:
+- person_id: 1280
+  role: other
+- person_id: 2577
+  role: other
+- person_id: 2578
+  role: playwright
+- person_id: 1660
+  role: other
+- person_id: 2207
+  role: other
+- person_id: 141
+  role: director
+- person_id: 544
+  role: actor
+- person_id: 441
+  role: actor
+- person_id: 522
+  role: actor
+- person_id: 331
+  role: actor
+- person_id: 807
+  role: actor
+- person_id: 65
+  role: actor
+- person_id: 431
+  role: actor
+- person_id: 25
+  role: actor
+- person_id: 119
+  role: actor
+- person_id: 335
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 2085
+  role: actor
+- person_id: 1832
+  role: other
+- person_id: 2579
+  role: other
+- person_id: 143
+  role: other
+- person_id: 1235
+  role: director
+- person_id: 1276
+  role: actor
+- person_id: 1832
+  role: actor
+- person_id: 536
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 239
+  role: actor
+- person_id: 96
+  role: actor
+- person_id: 807
+  role: other

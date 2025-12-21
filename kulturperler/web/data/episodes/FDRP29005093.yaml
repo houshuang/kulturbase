@@ -1,0 +1,40 @@
+prf_id: FDRP29005093
+title: Høstens første bilde
+description: Sara er 17 år. Foreldrenes ekteskap er konfliktfylt og hun lider av spiseforstyrrelse.
+  Hun opplever sin første forelskelse, kanskje blir det redningen.
+year: 1993
+duration_seconds: 3968
+image_url: https://gfx.nrk.no/l_Kb9tXNcZkVN4z8PjdWew9AQMWTX0nTz1PIQ7bPPMhA
+nrk_url: https://tv.nrk.no/se?v=FDRP29005093
+play_id: 375
+performance_id: 383
+source: nrk
+medium: tv
+credits:
+- person_id: 290
+  role: actor
+- person_id: 291
+  role: actor
+- person_id: 292
+  role: actor
+- person_id: 293
+  role: actor
+- person_id: 294
+  role: actor
+- person_id: 168
+  role: actor
+- person_id: 295
+  role: actor
+resources:
+- id: 254
+  url: https://archive.org/details/NRKTV-FDRP295093-AR-199407814
+  title: Høstens første bilde 26.09.1993
+  type: archive_fallback
+  description: 'Sara er 17 år og bor sammen med sine foreldre i et vakkert hus ved
+    sjøen. Foreldrenes ekteskap er konfliktfylt, og det er kjærligheten til Sara som
+    holder familien sammen. Men Sara bærer på en stor hemmelighet, hun lider av spiseforstyrrelse.
+    Denne sommeren opplever hun sin første forelskelse, og kanskje blir det redningen
+    for Sara ... I rollene medvirker blant andre: Benedikte Lindbeck (Sara), Gard
+    Eidsvold (Henning), Inger Heldal (moren) og Jan Hårstad (faren). Manuskript: Vibeke
+    Idsøe. Regi: Mona Hoel. Prosjektleder: Bente Simonsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1993/FDRP29005093
+    Uploader: tubeup.py'

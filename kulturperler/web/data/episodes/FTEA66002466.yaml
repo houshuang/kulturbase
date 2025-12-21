@@ -1,0 +1,40 @@
+prf_id: FTEA66002466
+title: Søndag ettermiddag
+description: Etter en novelle av Bjørg Vik. En biltur en søndag ettermiddag avslører
+  et ungt pars følelsesfattigdom gjennom små opplevelser og samtaler.
+year: 1966
+duration_seconds: 2432
+image_url: https://gfx.nrk.no/Cu4CjSLBp6H4UFblWmp8MwCK9ZTJyo4BialzjV5DdAew
+nrk_url: https://tv.nrk.no/se?v=FTEA66002466
+play_id: 746
+performance_id: 795
+source: nrk
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 894
+  role: actor
+- person_id: 988
+  role: actor
+- person_id: 1054
+  role: actor
+- person_id: 955
+  role: actor
+- person_id: 245
+  role: actor
+- person_id: 311
+  role: actor
+resources:
+- id: 85
+  url: https://archive.org/details/NRKTV-FTEA66002466-AR-199314088
+  title: Søndag ettermiddag 17.01.1967
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Søndag ettermiddag", fritt etter en novelle
+    av Bjørg Vik. Et ungt ektepar drar på biltur en søndag ettermiddag. En kopp kaffe
+    på en kafeteria, en sommervarm skog langs veien - det hender ikke så mye, men
+    turen blir en konfrontasjon med parets følelsesfattigdom. I rollene: Ingebjørg
+    Sem (hun) og Tor Stokke (han). Manuskript, klipping og regi: Tore Breda Thoresen.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1967/FTEA66002466 Uploader: tubeup.py'

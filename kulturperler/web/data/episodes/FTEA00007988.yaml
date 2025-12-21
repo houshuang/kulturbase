@@ -1,0 +1,19 @@
+prf_id: FTEA00007988
+title: Straffe!
+description: Etter en viktig fotballkamp samles noen av de største entusiastene på
+  en kafé. Diskusjonen går høyt. Inn kommer et ungt par med andre verdier i livet.
+year: 1988
+duration_seconds: 2503
+image_url: https://gfx.nrk.no/c-7GXNOvERUdxFnBa0UZtwnclVp5NFbyfk4Et7LG1Vbg
+nrk_url: https://tv.nrk.no/se?v=FTEA00007988
+play_id: 429
+performance_id: 453
+source: nrk
+medium: tv
+resources:
+- id: 253
+  url: https://archive.org/details/NRKTV-FTEA007988-AR-199305346
+  title: Straffe! 30.08.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00007988
+    Uploader: tubeup.py'

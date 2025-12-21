@@ -1,0 +1,27 @@
+id: 623
+work_id: 586
+source: nrk
+year: 1976
+title: Fedra
+description: Tragedie på vers av Jean Racine. Stykket handlar om dronning Fedras kjærleik
+  til stesonen Hippolytos, og hemnen hennar når han avviser henne.
+total_duration: 5431
+image_url: https://gfx.nrk.no/wochVWNdlqoI-xUk7hmT8Q0t3_9-H2TkbMz0hnHv5ztw
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 574
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 542
+  role: actor

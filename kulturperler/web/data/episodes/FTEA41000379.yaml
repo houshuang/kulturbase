@@ -1,0 +1,63 @@
+prf_id: FTEA41000379
+title: Medmenneske
+description: 'Serie i fire deler etter romanen av Olav Duun. Musikk: Ketil Hvoslef.
+  Musikken er spillt inn av Kringkastingsorkestret. Del 4.'
+year: 1979
+duration_seconds: 6633
+image_url: https://gfx.nrk.no/NrSKylk_O_5t3AWc7nCSng-8ZMYx5NVaKLKjzPcc5PrQ
+nrk_url: https://tv.nrk.no/se?v=FTEA41000379
+play_id: 526
+performance_id: 558
+source: nrk
+medium: tv
+credits:
+- person_id: 255
+  role: actor
+- person_id: 732
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 73
+  role: actor
+- person_id: 517
+  role: actor
+- person_id: 569
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 519
+  role: actor
+- person_id: 237
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 186
+  role: actor
+resources:
+- id: 142
+  url: https://archive.org/details/NRKTV-FTEA110379-AR-199102881
+  title: Medmenneske 03.02.1981
+  type: archive_fallback
+  description: 'Serie i fire deler etter romanen av Olav Duun. Lagt til rette for
+    fjernsyn av Arild Brinchmann (1:4) I hovedrollene Britt Langlie, Ståle Bjørnhaug,
+    Grete Nordrå, Espen Skjønberg. Musikk: Ketil Hvoslef. Musikken er spillt inn av
+    Kringkastingsorkestret. Dirigent: Sverre Bruland. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA11000379
+    Uploader: tubeup.py'
+- id: 338
+  url: https://archive.org/details/NRKTV-FTEA310379-AR-199102884
+  title: Medmenneske 17.02.1981
+  type: archive_fallback
+  description: 'Serie i fire deler etter romanen av Olav Duun. Lagt til rette for
+    fjernsyn av Arild Brinchmann (3:4) I hovedrollene Britt Langlie, Ståle Bjørnhaug,
+    Grete Nordrå, Espen Skjønberg. Musikk: Ketil Hvoslef. Musikken er spillt inn av
+    Kringkastingsorkestret. Dirigent: Sverre Bruland Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA31000379
+    Uploader: tubeup.py'
+- id: 431
+  url: https://archive.org/details/NRKTV-FTEA210379-AR-199102882
+  title: Medmenneske 10.02.1981
+  type: archive_fallback
+  description: 'Serie i fire deler etter romanen av Olav Duun. Lagt til rette for
+    fjernsyn av Arild Brinchmann (2:4) I hovedrollene Britt Langlie, Ståle Bjørnhaug,
+    Grete Nordrå, Espen Skjønberg. Musikk: Ketil Hvoslef. Musikken er spillt inn av
+    Kringkastingsorkestret. Dirigent: Sverre Bruland. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA21000379
+    Uploader: tubeup.py'

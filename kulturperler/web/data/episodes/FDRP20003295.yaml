@@ -1,0 +1,20 @@
+prf_id: FDRP20003295
+title: 'Fjernsynsteatret viste: Hjem - Introduksjon'
+description: En introduksjon til forestillingen hvor medvirkende skuespillere snakker
+  om "gamle dager".
+year: 1995
+duration_seconds: 499
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FDRP20003295
+play_id: 349
+performance_id: 690
+source: nrk
+medium: tv
+resources:
+- id: 129
+  url: https://archive.org/details/NRKTV-FDRP203295-AR-199700048
+  title: 'Fjernsynsteatret viste: Hjem - Introduksjon 22.10.1995'
+  type: archive_fallback
+  description: 'En introduksjon til kveldens forestilling hvor medvirkende skuespillere
+    snakker om ''''gamle dager''''. Source: https://tv.nrk.no/serie/fjernsynsteatret/1995/FDRP20003295
+    Uploader: tubeup.py'

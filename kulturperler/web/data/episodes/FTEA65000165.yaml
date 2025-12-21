@@ -1,0 +1,28 @@
+prf_id: FTEA65000165
+title: Paria
+description: Av August Strindberg. Herr Y har tatt inn hos herr X, arkeologen. Herr
+  X avslører Y som dokumentfalskner, men betror samtidig at han selv er morder.
+year: 1965
+duration_seconds: 2190
+image_url: https://gfx.nrk.no/ZdIZ6UVQ4CR7D2cmL81v1Abx_JS1iD2hp0RFjC7GvGqw
+nrk_url: https://tv.nrk.no/se?v=FTEA65000165
+play_id: 774
+performance_id: 824
+source: nrk
+medium: tv
+credits:
+- person_id: 670
+  role: actor
+- person_id: 75
+  role: actor
+resources:
+- id: 111
+  url: https://archive.org/details/NRKTV-FTEA65000165-AR-199405174
+  title: Paria 10.08.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser skuespillet "Paria" av den svenske forfatteren
+    og dramatikeren August Strindberg. Herr Y, en reisende fra Amerika, har tatt inn
+    hos herr X, arkeologen. Herr X avslører Y som dokumentfalskner, men betror samtidig
+    at han selv er morder. I rollene medvirker Gisle Straume (Herr X) og Lothar Lindtner
+    (Herr Y). Oversatt og instruert av Ole Grepp. Dekor: Bjørn Næss. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000165
+    Uploader: tubeup.py'

@@ -1,0 +1,50 @@
+prf_id: FTEA00003386
+title: Enerom
+description: En yngre fraskilt og arbeidsløs mann kommer tilfeldig i kontakt med etmenneske
+  som svever mellom liv og død på sykehus.
+year: 1986
+duration_seconds: 2593
+image_url: https://gfx.nrk.no/ggg3EGrvcwRJk0fVR1-VlQnJd-iEcLj30ahpi8M3C8MQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00003386
+play_id: 441
+performance_id: 468
+source: nrk
+medium: tv
+credits:
+- person_id: 89
+  role: actor
+- person_id: 532
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 440
+  role: actor
+- person_id: 533
+  role: actor
+- person_id: 534
+  role: actor
+- person_id: 498
+  role: actor
+resources:
+- id: 351
+  url: https://archive.org/details/NRKTV-FTEA003386-AR-199018506
+  title: Enerom 17.03.1987
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Enerom" av Bjørn Høvik. Bearbeidet for fjernsyn
+    av Bjørn Engvik og Eli Ryg. Stykket handler om en ung fraskilt og arbeidsløs mann
+    som tilfeldig kommer i kontakt med et menneske som svever mellom liv og død på
+    sykehus. Arvid er i 40-åra, kona har funnet en annen, dattera fulgte moren, og
+    nå bor han alene i en trøstesløs hybelleilighet på Oslos østkant. Han mangler
+    overskudd og tiltak, greier ikke livet, ikke engang de praktiske tingene. Han
+    er nesten blitt apatisk, sliter med nerveproblemer, og lengter etter familien.
+    En dag møter Arvid tilfeldigvis sin Eva - en Eva som er "Eva": alt han forbinder
+    med en kvinne, som han lengter slik mot. På Rikshospitalet fanges Arvid inn av
+    en nødløgn. Han utgir seg for å være en pårørende til en tilfeldig pasient, Anna
+    Hansen, og havner på insentivavdelingen der Eva er sykepleier. Her - på sykehuset
+    - får Arvid nesten et hjem. Han åpner seg for Eva - som også trenger noen. De
+    som er med: Erik Hivju (Arvid), Tone Danielsen (Eva), Edel Eckblad (Anna Hansen),
+    Thor Aamodt (Personalsjefen), Ivar Nørve (Legen), Trine Lossius Borg (Sykepleieren),
+    Thorkild Thorkildsen (Arbeidskameraten). Musikk: Christian Eggen. Regi: Eli Ryg.
+    Stykket var et bidrag til Fjernsynsteatrets manuskriptkonkurranse og er innkjøpt
+    av Nordvisjonen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00003386
+    Uploader: tubeup.py'

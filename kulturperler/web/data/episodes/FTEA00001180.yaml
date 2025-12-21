@@ -1,0 +1,18 @@
+prf_id: FTEA00001180
+title: Barnet - i veien?
+description: Cabaret med tekster og musikk om barn og trafikk.
+year: 1980
+duration_seconds: 2641
+image_url: https://gfx.nrk.no/tJ7iw2rWsEljeny8N5IghQPhSIZZU75WvEJHXxoxbNJg
+nrk_url: https://tv.nrk.no/se?v=FTEA00001180
+play_id: 520
+performance_id: 552
+source: nrk
+medium: tv
+resources:
+- id: 296
+  url: https://archive.org/details/NRKTV-FTEA001180-AR-199102913
+  title: Barnet - i veien? 25.08.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00001180
+    Uploader: tubeup.py'

@@ -1,0 +1,65 @@
+prf_id: FTEA00005083
+title: Etterbyrden
+description: Et ektepar har fått sitt første barn og støter på problemer. Hun er student,
+  han arkitekt. Især for henne er den psykiske etterbyrden noe av et sjokk.
+year: 1983
+duration_seconds: 4623
+image_url: https://gfx.nrk.no/aznXZwVYWVTqFLcIBFobXg29AiUSw61GtU__ILtgA7Fw
+nrk_url: https://tv.nrk.no/se?v=FTEA00005083
+play_id: 481
+performance_id: 510
+source: nrk
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 111
+  role: actor
+- person_id: 567
+  role: actor
+- person_id: 650
+  role: actor
+- person_id: 651
+  role: actor
+- person_id: 652
+  role: actor
+- person_id: 653
+  role: actor
+- person_id: 518
+  role: actor
+- person_id: 150
+  role: actor
+- person_id: 37
+  role: actor
+- person_id: 654
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 324
+  role: actor
+- person_id: 604
+  role: actor
+- person_id: 335
+  role: actor
+- person_id: 186
+  role: actor
+- person_id: 655
+  role: actor
+- person_id: 656
+  role: actor
+resources:
+- id: 353
+  url: https://archive.org/details/NRKTV-FTEA005083-AR-199103084
+  title: Etterbyrden 04.09.1984
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Etterbyrden" av Ragnhild Nilstun, bygget på
+    hennes debutroman fra 1979. Kostymer: Ellen Andreassen. Scenograf: Kristin Sundt-Hansen.
+    Stykket handler om et ektepar som har fått sitt første barn og som støter på ukjente
+    og overraskende problemer. Hun er student, han arkitekt. Især for henne er den
+    psykiske "etterbyrden" noe av et sjokk. I noen av rollene: Sigrid Huun (Helene),
+    Bjørn Sundquist (Martin), Bente Børsum (Moren), Maryon Eilertsen (Inger), Tone
+    Gullvåg (Anne-Lise), Åshild Åsen (Helsesøsteren), Karin Haugen (Kvinne i kassa),
+    Per Frisch (Johan), Sigmund Sæverud (Professoren), Marianne Mørk (Anne), Hans
+    Ola Sørlie (Kåre), Ståle Bjørnhaug (Legen). Musikk: Christian Eggen. Regi: Eli
+    Ryg. Source: https://tv.nrk.no/serie/fjernsynsteatret/1984/FTEA00005083 Uploader:
+    tubeup.py'

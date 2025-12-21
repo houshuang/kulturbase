@@ -1,0 +1,32 @@
+prf_id: FTEA00000967
+title: Den ensomme vei
+description: Konemorderen herr Raven har nettopp sluppet ut fra fengsel. Ensom og
+  selskapssyk trenger han seg på den stive Charles. Av Giles Cooper.
+year: 1967
+duration_seconds: 3075
+image_url: https://gfx.nrk.no/DhlCi-gmcL6tH7ukIdZR9Ad3FNnXp9z4TKi-ImR3ZorA
+nrk_url: https://tv.nrk.no/se?v=FTEA00000967
+play_id: 728
+performance_id: 777
+source: nrk
+medium: tv
+credits:
+- person_id: 153
+  role: actor
+- person_id: 995
+  role: actor
+- person_id: 350
+  role: actor
+- person_id: 1040
+  role: actor
+resources:
+- id: 372
+  url: https://archive.org/details/NRKTV-FTEA000967-199001039-ST
+  title: Den ensomme vei 19.12.1967
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den ensomme vei" av den engelske dramatikeren
+    Giles Cooper. Oversatt av Roar Petersen. Konemorderen herr Raven har nettopp sluppet
+    ut fra fengsel. Ensom og selskapssyk trenger han seg på den stive Charles. I rollene
+    møter vi Per Theodor Haugen (Raven), Arne Aas (Charles), Inger Lise Westby (Jean)
+    og Svein Wickstrøm (en kelner). Instruktør: Jon Heggedal. Source: https://tv.nrk.no/serie/fjernsynsteatret/1967/FTEA00000967
+    Uploader: tubeup.py'

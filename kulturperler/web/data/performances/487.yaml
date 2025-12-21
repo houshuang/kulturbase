@@ -1,0 +1,25 @@
+id: 487
+work_id: 459
+source: nrk
+year: 1985
+title: Rose
+description: Rose er en selvstendig kvinne, men får seg den ene trøkk etter den andre.
+  Det er ikke så enkelt å være annerledes i en verden full av formaliteter.
+total_duration: 5888
+image_url: https://gfx.nrk.no/r7AjE1xzABTCyicr3pBj_Aj5cKRzLIk0HAOgazB6wwaA
+medium: tv
+credits:
+- person_id: 4
+  role: actor
+- person_id: 530
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 361
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 17
+  role: actor
+- person_id: 94
+  role: actor

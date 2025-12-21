@@ -1,0 +1,36 @@
+prf_id: FTEA00001070
+title: Fridagen
+description: Et maktspill mellom en leirkommandant og oppasseren hans, som dels er
+  av jødisk opphav. De har vært skolekamerater, og har lenge hatt et gjensidig avhengighetsforhold.
+  Av Terje Stigen.
+year: 1970
+duration_seconds: 2366
+image_url: https://gfx.nrk.no/De9LRZv0Zq5GvK1G0_EX_AgdoWGj49DKsAl8OuoO1xDA
+nrk_url: https://tv.nrk.no/se?v=FTEA00001070
+play_id: 679
+performance_id: 725
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 349
+  role: actor
+resources:
+- id: 451
+  url: https://archive.org/details/NRKTV-FTEA001070-AR-199311821
+  title: Fridagen 20.10.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fridagen" av Terje Stigen. Stykket beskriver
+    et maktspill mellom en leirkommandant og oppasseren hans, som dels er av jødisk
+    opphav. De to har vært skolekamerater, og det har helt fra barndommen av eksistert
+    et gjensidig avhengighetsforhold mellom dem. De har dengang hjulpet hverandre,
+    men - som det heter i stykket "man kan herske over mennesker med velgjerninger".
+    Under krigen tilspisses forholdet mellom de to. Tiden er krigens siste time, og
+    mens de allerte rykker stadig nærmere, forteller kommandanten om hva som egentlig
+    foregikk på skolen. I rollene: Arne Lie (Hans Meyer, leirkommandant), Per Christensen
+    (Ernst Gruber, kalfaktor) og Frimann Falck Clausen (en vaktsoldat). Dekor: Willi
+    Nordraa. Instruktør: Sølve Kern. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00001070
+    Uploader: tubeup.py'

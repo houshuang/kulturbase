@@ -1,0 +1,35 @@
+prf_id: FTEA63000763
+title: Bacchusfesten
+description: Fru Agnes Staufner vil skilles fra sin mann dr. Felix Staufner, og venter
+  på ham på jernbanestasjonen sammen med sin nye elsker. Av Arthur Schnitzler.
+year: 1963
+duration_seconds: 2950
+image_url: https://gfx.nrk.no/cXan_eymX7qsuHkgZoCD0wopc1PHNgdcJSsfngBsZyCg
+nrk_url: https://tv.nrk.no/se?v=FTEA63000763
+play_id: 805
+performance_id: 858
+source: nrk
+medium: tv
+credits:
+- person_id: 753
+  role: actor
+- person_id: 996
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 311
+  role: actor
+resources:
+- id: 20
+  url: https://archive.org/details/NRKTV-FTEA63000763-AR-199416075
+  title: Bacchusfesten 17.10.1963
+  type: archive_fallback
+  description: 'Drama av den østerrikske forfatteren Arthur Schnitzler. Fru Agnes
+    Staufner vil skilles fra sin mann dr. Felix Staufner, og venter ham på jernbanestasjonen
+    sammen med sin nye elsker dr. Wernig. Det erotiske trekantdramaet er en allegori
+    til Bacchusfesten i gresk tradisjon. I hovedrollene: Knut M. Hansson (Felix Staufner),
+    Henny Moan (Agnes) og Tor Stokke (Guido Wernig). Oversatt av Odd Bang-Hansen.
+    Dekor: Herman Bendixen. Instruktør: Toralf Sandø. Sendt i Fjernsynsteatret i 1963.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1963/FTEA63000763 Uploader: tubeup.py'

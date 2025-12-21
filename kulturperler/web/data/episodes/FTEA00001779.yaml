@@ -1,0 +1,38 @@
+prf_id: FTEA00001779
+title: Påske
+description: Faren sitter i fengsel for underslag og datteren er lagt inn på sykehus
+  med depresjon. Tre påskedager med uro, angst og lidelse. Av August Strindberg.
+year: 1979
+duration_seconds: 5841
+image_url: https://gfx.nrk.no/mu0e8oG1gKZILosgO9wzQgpNlxTM7nS9hAAuAR8mTL3Q
+nrk_url: https://tv.nrk.no/se?v=FTEA00001779
+play_id: 538
+performance_id: 573
+source: nrk
+medium: tv
+credits:
+- person_id: 658
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 246
+  role: actor
+resources:
+- id: 130
+  url: https://archive.org/details/NRKTV-FTEA001779-AR-199102077
+  title: Påske 25.03.1980
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Påske" av August Strindberg. Oversatt og instruert
+    av Per Bronken. Kostymer: Mabi Helweg. Dekor: Grethe Hejer. Handlingen utspiller
+    seg hos en småborgerlig familie på begynnelsen av 1900-tallet. Faren sitter i
+    fengsel for underslag og datteren er lagt inn på sykehus med depresjon. Familien
+    Heyst gjennomlever tre påskedager med uro, angst og lidelse og til slutt nåde
+    og forsoning. I rollene medvirker blant andre Odd Furøy (Elis), Marie Louise Tank
+    (Kristina), Svein Tindberg (Benjamin) og Minken Fosheim (Eleonora). Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00001779
+    Uploader: tubeup.py'

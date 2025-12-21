@@ -1,0 +1,53 @@
+prf_id: FTEA00001279
+title: Toreadorvalsen
+description: General Saint-Pé bærer på en drøm om en ung pike han engang danset med.
+  Men gjensynet blir ikke helt slik han har tenkt. Av Jean Anouilh.
+year: 1979
+duration_seconds: 6374
+image_url: https://gfx.nrk.no/3TmY_80EZmiKIF2Al7KMFQ_H0jc9Bq2Xs6w3VDDNF7ug
+nrk_url: https://tv.nrk.no/se?v=FTEA00001279
+play_id: 544
+performance_id: 579
+source: nrk
+medium: tv
+credits:
+- person_id: 566
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 665
+  role: actor
+- person_id: 380
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 660
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 683
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 354
+  url: https://archive.org/details/NRKTV-FTEA001279-AR-199102054
+  title: Toreadorvalsen 29.01.1980
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Toreadorvalsen" av Jean Anouilh. Oversatt
+    og bearbeidet av Per Bronken. Sminke: Anne-Beth Thoeneie. Kostymer: Ivar Karlsen.
+    Dekorasjoner: Grethe Hejer. Komedie, farse. General Saint Pé møtte Ghislaine for
+    17 år siden. Han han drømt om henne siden da. Men gjensynet blir ikke helt slik
+    han har tenkt. Og da noen bortkomne brev kommer doktoren - generalens fortrolige
+    - i hende, settes intrigen i gang. Et stykke om den umulige renhet. Om drømmen
+    om kjærlighet og lykke og drømmens smertefulle møte med livets heslighet. De som
+    er med: Frank Robert (General Saint-Pé), Bab Christensen (Generalinnen), Minken
+    Fosheim (Estelle), Jannik Bonnevie (Sidonie), Marie Louise Tank (Frk de Sainte-Euverte),
+    Jan Frostad (Gaston), Odd Furøy (Doktor Bonfant), Marit Grønhaug (Fru Bladan),
+    Arne Bang-Hansen (Presten), Ragnhild Michelsen (Husholdersken), Lella Nilssen
+    (Pamela). Regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00001279
+    Uploader: tubeup.py'

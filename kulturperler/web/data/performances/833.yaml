@@ -1,0 +1,25 @@
+id: 833
+work_id: 783
+source: nrk
+year: 1965
+title: Hans Majestets Foged
+description: Et muntert skuespill fra 1880 om embedsstanden i Norge og en skandaløs
+  klassereise - en udugelig fogd vil helst bli en dugelig snekker. Av Alexander Kielland.
+total_duration: 3383
+image_url: https://gfx.nrk.no/7k53h3fHTa4oKS5qUGA4Hw5Yoa4-I56_MOCDwzCgdtig
+medium: tv
+credits:
+- person_id: 54
+  role: actor
+- person_id: 972
+  role: actor
+- person_id: 308
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 969
+  role: actor
+- person_id: 970
+  role: actor
+- person_id: 858
+  role: actor

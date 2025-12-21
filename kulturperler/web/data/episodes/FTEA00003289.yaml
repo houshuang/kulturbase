@@ -1,0 +1,30 @@
+prf_id: FTEA00003289
+title: Maria er så liten
+description: Maria har en mor som er syk. Det har krevd mye av hennes tid. Men så
+  møter den 25-årige Maria barndomsvennen Tom. Det møtet utløser noe nytt i henne.
+year: 1989
+duration_seconds: 3288
+image_url: https://gfx.nrk.no/FQd6wmGmI-zpMtH2nc4ghAk3tKrVX86zl7LBLOmW_08A
+nrk_url: https://tv.nrk.no/se?v=FTEA00003289
+play_id: 416
+performance_id: 434
+source: nrk
+medium: tv
+credits:
+- person_id: 127
+  role: actor
+- person_id: 186
+  role: actor
+- person_id: 326
+  role: actor
+- person_id: 457
+  role: actor
+- person_id: 458
+  role: actor
+resources:
+- id: 247
+  url: https://archive.org/details/NRKTV-FTEA003289-AR-199034635
+  title: Maria er så liten 05.12.1989
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00003289
+    Uploader: tubeup.py'

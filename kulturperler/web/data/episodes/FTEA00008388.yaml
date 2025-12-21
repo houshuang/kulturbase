@@ -1,0 +1,33 @@
+prf_id: FTEA00008388
+title: Himmelplaneten
+description: En student har sommerjobb på et psykiatrisk sykehus og blir kjent med
+  en pasient. Sommerjobben blir en vanskelig utfordring for den unge mannen.
+year: 1988
+duration_seconds: 4823
+image_url: https://gfx.nrk.no/ZVHALLBowAzSV7rIKLafqQrZ3ABTjZ5VyCtO634rHq3Q
+nrk_url: https://tv.nrk.no/se?v=FTEA00008388
+play_id: 421
+performance_id: 442
+source: nrk
+medium: tv
+credits:
+- person_id: 242
+  role: actor
+- person_id: 321
+  role: actor
+resources:
+- id: 58
+  url: https://archive.org/details/NRKTV-FTEA00008388AA
+  title: Himmelplaneten 18.04.1989
+  type: archive_fallback
+  description: 'av Edvard Rønning. En student tar sommerjobb som pleier på et psykiatrisk
+    sykehus. Han blir kjent med Bjørn som har vært pasient der i mange år. Møtet med
+    Bjørn og med sykehusets rutiner blir en vanskelig utfordring for den unge mannen.
+    Regi: Jarl Emsell Larsen. I rollene: Reidar Sørensen og Torfinn Nag. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00008388
+    Uploader: tubeup.py'
+- id: 369
+  url: https://archive.org/details/NRKTV-FTEA012389-AR-199038278
+  title: Himmelplaneten 17.04.1989
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA01002389
+    Uploader: tubeup.py'

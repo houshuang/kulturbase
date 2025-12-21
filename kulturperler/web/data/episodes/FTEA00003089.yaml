@@ -1,0 +1,25 @@
+prf_id: FTEA00003089
+title: Canto Libre
+description: Fire kvinner sitter fenglset i militærdiktaturets Chile. De er avhengig
+  av hverandre, samtidig som sterke motsetninger splitter dem. Av Jorge Diaz.
+year: 1989
+duration_seconds: 5538
+image_url: https://gfx.nrk.no/VAABlRlJnYwYkmsW2kyjDgCa61Javwbhs8azMA-gm60A
+nrk_url: https://tv.nrk.no/se?v=FTEA00003089
+play_id: 418
+performance_id: 437
+source: nrk
+medium: tv
+resources:
+- id: 180
+  url: https://archive.org/details/NRKTV-FTEA012489-AR-199046961
+  title: Canto Libre 23.10.1989
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA01002489
+    Uploader: tubeup.py'
+- id: 449
+  url: https://archive.org/details/NRKTV-FTEA003089-AR-199046959
+  title: Canto Libre 24.10.1989
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00003089
+    Uploader: tubeup.py'

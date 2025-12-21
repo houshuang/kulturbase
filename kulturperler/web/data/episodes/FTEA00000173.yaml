@@ -1,0 +1,19 @@
+prf_id: FTEA00000173
+title: Juno og påfuglen
+description: Dublin 1922. En tid med vilkårlige fengslinger og politiske likvidasjoner.
+  Enkle arbeidsfolk prøver å finne seg til rette i en innviklet verden.
+year: 1973
+duration_seconds: 6061
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000173
+play_id: 636
+performance_id: 675
+source: nrk
+medium: tv
+resources:
+- id: 282
+  url: https://archive.org/details/NRKTV-FTEA000173-AR-199305486
+  title: Juno og påfuglen 04.12.1973
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1973/FTEA00000173
+    Uploader: tubeup.py'

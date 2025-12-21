@@ -1,0 +1,37 @@
+prf_id: FTEA65000865
+title: Trappen, eller Imperiebyggerne
+description: Et absurd skuespill om en familie på evig flukt opp trappen i en leiegård,
+  fra den ene etasjen til den andre, jaget av en forferdelig larm.
+year: 1965
+duration_seconds: 5863
+image_url: https://gfx.nrk.no/n3c5tlqk85NK0KeMmSekJA1G0lyw9I6UiCUuKlhGZLZg
+nrk_url: https://tv.nrk.no/se?v=FTEA65000865
+play_id: 768
+performance_id: 818
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 507
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 61
+  url: https://archive.org/details/NRKTV-FTEA65000865-AR-199405468
+  title: Trappen, eller Imperiebyggerne 09.11.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Trappen, eller Imperiebyggerne", et absurd
+    skuespill av den franske forfatteren Boris Vian. Stykket handler om en familie
+    som befinner seg på evig flukt opp trappen i en leiegård, fra den ene etasjen
+    til den andre. I panisk angst flykter de fra en forferdelig larm som later til
+    å forfølge dem. Men det merkelige er at de aldri våger å vedstå seg sin flukt
+    og sin angst. I rollene medvirker blant andre Arne Lie (Faren), Ragnhild Michelsen
+    (Moren) og Karen Randers-Pehrson (Zenobie). Oversatt av Eivind Hauge. Dekor: Herman
+    Bendixen. Regi: Yngve Nordwall. Innledning ved Yngvar Ustvedt. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000865
+    Uploader: tubeup.py'

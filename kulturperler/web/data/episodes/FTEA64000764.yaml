@@ -1,0 +1,19 @@
+prf_id: FTEA64000764
+title: Siesta
+description: Claes Gill leser novellen "Siesta" av Alexander L. Kielland.
+year: 1964
+duration_seconds: 1277
+image_url: https://gfx.nrk.no/83zyBRD6DFZytMukjA5t6wgBgBcbBhihFkPd8_4Lk_3w
+nrk_url: https://tv.nrk.no/se?v=FTEA64000764
+play_id: 748
+performance_id: 797
+source: nrk
+medium: tv
+resources:
+- id: 47
+  url: https://archive.org/details/NRKTV-FTEA64000764-AR-199102187
+  title: Siesta 27.12.1966
+  type: archive_fallback
+  description: 'Claes Gill leser novellen "Siesta" av Alexander L. Kielland. Billedregi:
+    Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA64000764
+    Uploader: tubeup.py'

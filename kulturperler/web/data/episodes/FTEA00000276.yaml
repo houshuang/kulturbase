@@ -1,0 +1,68 @@
+prf_id: FTEA00000276
+title: Gruer-saken
+description: Helge Gruer våkner i bakrus og finner at han antakelig har drept et menneske,
+  sin tidligere kone. Han var full da mordet skjedde og husker ingen ting.
+year: 1976
+duration_seconds: 4120
+image_url: https://gfx.nrk.no/M1vhlPTdqJP2DzmxOw0CJA3TQcBA5kAbr6wNwDCSIfiA
+nrk_url: https://tv.nrk.no/se?v=FTEA00000276
+play_id: 585
+performance_id: 622
+source: nrk
+medium: tv
+credits:
+- person_id: 81
+  role: actor
+- person_id: 88
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 342
+  role: actor
+- person_id: 665
+  role: actor
+- person_id: 73
+  role: actor
+- person_id: 431
+  role: actor
+- person_id: 507
+  role: actor
+- person_id: 518
+  role: actor
+- person_id: 683
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 93
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 800
+  role: actor
+resources:
+- id: 380
+  url: https://archive.org/details/NRKTV-FTEA000276-AR-199204035
+  title: Gruer-saken 15.02.1977
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Gruer-saken". Etter en roman fra 1974 av Arild
+    Kolstad. Bearbeidet for fjernsyn av Janken Varden. Kostymer: Tull Engø. Dekorasjoner:
+    Erik Hagen. En sosialpolitisk roman med kriminalfortellingens spenningselementer
+    er "Gruer-saken" kalt. Helge Gruer våkner i bakrus og finner at han antakelig
+    har drept et menneske, sin tidligere kone. Han var full da mordet skjedde, husker
+    ingen ting og hadde ingen grunn til å drepe. Han mistenkes for mord og blir fengslet.
+    Den unge juristen Knut Brekke blir hans forsvarer. Han kommer fra arbeiderklassen,
+    som klienten, men har gjennom studier og ekteskap skiftet miljø. Gruer-saken konfronterer
+    ham med sitt opprinnelige miljø. Brekke leter etter beviser for om Gruer er skyldig
+    eller uskyldig. Møter mennesker som kanskje kan hjelpe ham med å oppklare mordet.
+    Får glimt inn i deres liv og skjebne, og begynner å oppleve dem som mennesker
+    og ikke bare som et oppklaringsspill. I noen av rollene: Frank Iversen (Helge
+    Gruer), Erik Hivju (Knut Brekke), Ane Hoel (Kjersti Brekke), Elsa Lystad (Hanna
+    Svendsen), Nils Ole Oftebro (Arvid Svendsen), Elna Hallenberg Næss (Fru Karlsen),
+    Roy Bjørnstad (John Karlsen). Instruktør: Janken Varden. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00000276
+    Uploader: tubeup.py'

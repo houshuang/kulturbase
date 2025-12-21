@@ -1,0 +1,24 @@
+prf_id: FTEA00006490
+title: Du verden
+description: 'Tom Tellefsen forteller to noveller av Kjell Askildsen: "Du verden"
+  og "Hos barberen" hentet fra boken "En plutselig frigjørende tanke".'
+year: 1990
+duration_seconds: 1060
+image_url: https://gfx.nrk.no/m0vSBOaBRXfOYVmrNzMpawBI_o2FV9vO-Da882yrkOWQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00006490
+play_id: 403
+performance_id: 417
+source: nrk
+medium: tv
+credits:
+- person_id: 447
+  role: actor
+resources:
+- id: 275
+  url: https://archive.org/details/NRKTV-FTEA006490-AR-199305374
+  title: Du verden 25.12.1990
+  type: archive_fallback
+  description: 'Tom Tellefsen forteller to noveller av Kjell Askildsen: ''''Du verden''''
+    og ''''Hos barberen'''' hentet fra boken ''''En plutselig frigjørende tanke'''',
+    (Oktober Forlag, 1987). Sendt i Fjernsynsteatret, 1990. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00006490
+    Uploader: tubeup.py'

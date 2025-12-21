@@ -1,0 +1,27 @@
+prf_id: FTEA00001876
+title: Frøken Julie
+description: Frøken Julie, en kvinneskikkelse fra 1880-årene,viser hvor bundet den
+  tids kvinner var av samfunnsmønster og kjønnsmønster. Av August Strindberg.
+year: 1976
+duration_seconds: 6308
+image_url: https://gfx.nrk.no/7Nysovq_HuaQKoO3TlmbqwdhqrHusuZPqB4lnQVovFjw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001876
+play_id: 583
+performance_id: 620
+source: nrk
+medium: tv
+credits:
+- person_id: 81
+  role: actor
+- person_id: 116
+  role: actor
+- person_id: 336
+  role: actor
+resources:
+- id: 147
+  url: https://archive.org/details/NRKTV-ftea001876-ar-199204037
+  title: Frøken Julie 22.03.1977
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser Frøken Julie av August Strindberg. Sendt i
+    1977. Stykket er oversatt av Jens Bjørneboe. Instruktør: Arild Brinchmann. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00001876 Uploader: tubeup.py'

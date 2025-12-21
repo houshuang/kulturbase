@@ -1,0 +1,19 @@
+prf_id: FTEA00008288
+title: Konsultasjon eller helbredelsens kunst
+description: En lege har det så travelt at han helst ikke vil ta imot pasienter. Han
+  får en pasient i krise, men det er ikke lett å forstå hva krisen består i.
+year: 1988
+duration_seconds: 3748
+image_url: https://gfx.nrk.no/ITymVooKWm6yy54DKcZKWgr9Xkn9YM_AYbm7V4lD5eig
+nrk_url: https://tv.nrk.no/se?v=FTEA00008288
+play_id: 426
+performance_id: 450
+source: nrk
+medium: tv
+resources:
+- id: 325
+  url: https://archive.org/details/NRKTV-FTEA008288-AR-199305358
+  title: Konsultasjon eller helbredelsens kunst 08.11.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00008288
+    Uploader: tubeup.py'

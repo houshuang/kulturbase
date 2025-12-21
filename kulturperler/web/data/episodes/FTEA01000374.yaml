@@ -1,0 +1,19 @@
+prf_id: FTEA01000374
+title: Prototypen - en av mange
+description: 'Om lagerarbeideren Arne Espenstad. Manuskript: Sam O. Kjenne og Jahn
+  Pedersen.'
+year: 1974
+duration_seconds: 5467
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA01000374
+play_id: 617
+performance_id: 654
+source: nrk
+medium: tv
+resources:
+- id: 159
+  url: https://archive.org/details/NRKTV-FTEA010374-AR-199206635
+  title: Prototypen - en av mange 22.04.1975
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1975/FTEA01000374
+    Uploader: tubeup.py'

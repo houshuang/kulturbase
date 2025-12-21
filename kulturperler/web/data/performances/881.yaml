@@ -1,0 +1,21 @@
+id: 881
+work_id: 828
+source: nrk
+year: 1962
+title: Frankrikes dronninger
+description: Enakter av Thornton Wilder. Svindleren Cahusac lurer en rekke kvinner
+  for penger ved å innbille dem at de er Frankrikes savnede tronarvinger.
+total_duration: 1522
+image_url: https://gfx.nrk.no/8RfvTnVce68VVRjvH8PxHguA3cPjqaEuxijNJPqLLbPA
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 88
+  role: actor
+- person_id: 1136
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 509
+  role: actor

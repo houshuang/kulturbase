@@ -1,0 +1,38 @@
+prf_id: FTEA65000265
+title: Stoppested
+description: En film av Tore Breda Thoresen etter en novelle av Torborg Nedreaas.
+year: 1965
+duration_seconds: 1744
+image_url: https://gfx.nrk.no/lLPiRS5pHlfHKFBkblr9gwT3gDS8Vng-sfVcERa2B-zA
+nrk_url: https://tv.nrk.no/se?v=FTEA65000265
+play_id: 769
+performance_id: 819
+source: nrk
+medium: tv
+credits:
+- person_id: 54
+  role: actor
+- person_id: 1065
+  role: actor
+- person_id: 1029
+  role: actor
+- person_id: 891
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 648
+  role: actor
+resources:
+- id: 39
+  url: https://archive.org/details/NRKTV-FTEA65000265-AR-199405456
+  title: Stoppested 12.10.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Stoppested", en film av Tore Breda Thoresen
+    etter en novelle av Torborg Nedreaas. I hovedrollen som Kvinnen: Veslemøy Haslund.
+    Ellers medvirker blant andre Rolf Berntzen, Joachim Calmeyer og Arne Jacobsen.
+    Musikk: Arne Nordheim. Dekor: Willi Nordraa. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000265
+    Uploader: tubeup.py'

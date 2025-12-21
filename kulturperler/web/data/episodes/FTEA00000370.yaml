@@ -1,0 +1,39 @@
+prf_id: FTEA00000370
+title: Før sjøforklaringen
+description: Stykket bygger på en novelle av Vigdis Stokkelien. Handlingen finner
+  sted på en liten restaurant, to menn og en kvinne før sjøretten.
+year: 1970
+duration_seconds: 1740
+image_url: https://gfx.nrk.no/mIFxuz3IeazqK9jr44Ba0QaYpkeBSvEPgP8wLv_Wbo-Q
+nrk_url: https://tv.nrk.no/se?v=FTEA00000370
+play_id: 685
+performance_id: 733
+source: nrk
+medium: tv
+credits:
+- person_id: 975
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 976
+  role: actor
+resources:
+- id: 88
+  url: https://archive.org/details/NRKTV-FTEA00000370AU
+  title: Før sjøforklaringen 31.03.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Før sjøforklaringen" av Vigdis Stokkelien.
+    Stykket bygger på en novelle av samme navn som sto trykt i hennes første novellesamling
+    "Dragsug", som utkom i 1967. Dekorasjoner: Christian Egemar. Kostymer: Mabi Helweg.
+    Handlingen finner sted på en liten restaurant, to menn og en kvinne før sjøretten.
+    Et lite, realistisk stykke, formet som en knapp liten situasjon i en sjømanns
+    tilværelse. Situasjonen er høyst konkret, tilfellet det dreier seg om svært spesielt,
+    men den oppfordrer tilskueren til mange slags ettertanker omkring de belastninger
+    en sjømann kan være utsatt for. De som er med: Gisle Straume (Kapteinen), Arne
+    Aas (Styrmannen), Eva von Hanno (Telegrafisten), Arne Knutsen (Matrosen), Pai-Sha
+    Liu (Serveringsdamen). Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00000370
+    Uploader: tubeup.py'

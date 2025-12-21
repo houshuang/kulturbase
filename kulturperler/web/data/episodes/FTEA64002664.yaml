@@ -1,0 +1,25 @@
+prf_id: FTEA64002664
+title: Per Aabel leser
+description: 'Per Aabel leser: Johan Herman Wessel, H.C. Andersen, Alexander Kielland
+  og folkeeventyr. Vi får bl.a høre "Herremanden", "Tepotten", "Torvmyr" og "Presten
+  og klokkeren".'
+year: 1964
+duration_seconds: 1795
+image_url: https://gfx.nrk.no/prAyKDl459emQWFPx5mf9wkfpmvhI4zwU-r_msmIUtWg
+nrk_url: https://tv.nrk.no/se?v=FTEA64002664
+play_id: 798
+performance_id: 849
+source: nrk
+medium: tv
+credits:
+- person_id: 551
+  role: actor
+resources:
+- id: 399
+  url: https://archive.org/details/NRKTV-FTEA000264-AR-199405578
+  title: Per Aabel leser 20.02.1964
+  type: archive_fallback
+  description: 'Per Aabel leser: Johan Herman Wessel, H.C. Andersen, Alexander Kielland
+    og folkeeventyr. Vi får bl.a høre "Herremanden", "Tepotten", "Torvmyr" og "Presten
+    og klokkeren". Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64002664
+    Uploader: tubeup.py'

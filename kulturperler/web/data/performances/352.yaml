@@ -1,0 +1,25 @@
+id: 352
+work_id: 344
+source: nrk
+year: 1995
+title: Namnet
+description: Av Jon Fosse. Dottera skal ha barn. Systera og mora veit det. Men ikkje
+  far. Og ingen har møtt kjærasten hennar. Frå Den Nationale Scene i Bergen.
+total_duration: 3742
+image_url: https://gfx.nrk.no/EiRI-nrjf3tL74iacOEb3w5V_18EjpsuainFNFvXuirA
+medium: tv
+credits:
+- person_id: 53
+  role: director
+- person_id: 54
+  role: actor
+- person_id: 19
+  role: actor
+- person_id: 55
+  role: actor
+- person_id: 56
+  role: actor
+- person_id: 57
+  role: actor
+- person_id: 58
+  role: actor

@@ -1,0 +1,23 @@
+id: 815
+work_id: 560
+source: nrk
+year: 1966
+title: Rosmersholm
+description: Drama av Henrik Ibsen. Den unge og frigjorte Rebekka West vil ha pastor
+  Rosmer, men vil hans grublerier og hans kones selvmord ødelegge deres forhold?
+total_duration: 7381
+image_url: https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwgHiYu1P5RxmdScvvkVzjX9w
+medium: tv
+credits:
+- person_id: 735
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 1055
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 443
+  role: actor

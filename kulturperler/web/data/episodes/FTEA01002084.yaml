@@ -1,0 +1,73 @@
+prf_id: FTEA01002084
+title: Du kan da ikke bare gå...
+description: Irmelin går hjemme og venter på ektemannen som er sen. Det er ikke første
+  gang, og hver gang venter hun i angst. Har han drukket? Vil han slå henne?
+year: 1984
+duration_seconds: 5687
+image_url: https://gfx.nrk.no/Rt7YeDPfHyTjB0BHGc3AvQjY2hU9XKHpsN4KNs3LssrA
+nrk_url: https://tv.nrk.no/se?v=FTEA01002084
+play_id: 467
+performance_id: 496
+source: nrk
+medium: tv
+credits:
+- person_id: 572
+  role: actor
+- person_id: 139
+  role: actor
+- person_id: 573
+  role: actor
+- person_id: 84
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 574
+  role: actor
+- person_id: 567
+  role: actor
+- person_id: 575
+  role: actor
+- person_id: 576
+  role: actor
+- person_id: 577
+  role: actor
+- person_id: 578
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 579
+  role: actor
+- person_id: 526
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 361
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 508
+  role: actor
+- person_id: 580
+  role: actor
+- person_id: 581
+  role: actor
+- person_id: 458
+  role: actor
+resources:
+- id: 199
+  url: https://archive.org/details/NRKTV-FTEA012084-AR-199061016
+  title: Du kan da ikke bare gå... 22.10.1985
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Du kan da ikke bare gå...". En TV-film av
+    Terje Mærli, etter en roman av Margaret Johansen. Scenografi: Grethe Hejer. Irmelin
+    går hjemme og venter på ektemannen Johan. Han er sen. Det er ikke første gang,
+    og hver gang venter hun i samme angst: Har han drukket? Vil han slå henne? I glimtvise
+    brokker blir vi presentert for bakgrunnen til denne vanskelige samlivssituasjonen.
+    I noen av rollene: Oda Schjøll (Irmelin), Nils Ole Oftebro (Johan), Frøydis Armand
+    (Barbara), Arne Lindtner Næss (Nils), Ragnhild Nygaard (Irmelins mor), Odd Furøy
+    (Irmelins far), Unni Evjen (Johans mor), Morten Borgersen (Johans far), Lieselotte
+    Holmene (Kirsten), Erik Hivju (Knut), Hans Ola Sørlie (Barbaras venn). Musik:
+    Jan Garbarek. Regi: Terje Mærli. Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA01002084
+    Uploader: tubeup.py'

@@ -1,0 +1,37 @@
+prf_id: FTEA00002267
+title: Rommet
+description: Vi møter et eldre ektepar i et fattig rom i en ussel leiegård og blir
+  vitne til deres møte med den fiendtlige og farlige verden utenfor døren.
+year: 1967
+duration_seconds: 3263
+image_url: https://gfx.nrk.no/DVzObcMEk_eClG3xptUjygFqcu8cHboXO2UHCPYUvs3A
+nrk_url: https://tv.nrk.no/se?v=FTEA00002267
+play_id: 726
+performance_id: 775
+source: nrk
+medium: tv
+credits:
+- person_id: 1031
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 894
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 509
+  role: actor
+resources:
+- id: 260
+  url: https://archive.org/details/NRKTV-FTEA002267-AR-199313544
+  title: Rommet 09.01.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rommet" av den britiske dramatikeren Harold
+    Pinter; dette er hans første skuespill, skrevet i 1957. Oversatt av Helge Hagerup.
+    Vi møter et eldre ektepar i et fattig rom i en ussel leiegård og blir vitne til
+    deres møte med den fiendtlige og farlige verden utenfor døren. I rollene medvirker
+    blant andre Else Heiberg (Rose Hudd), Frimann Falck Clausen (Bert Hudd) og Egil
+    Hjorth-Jenssen (Mr. Kidd). Instruktør: Lars Löfgren. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00002267
+    Uploader: tubeup.py'

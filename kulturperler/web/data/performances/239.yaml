@@ -1,0 +1,77 @@
+id: 239
+work_id: 234
+source: nrk
+title: Monkey Do
+description: Oslo er ikke lenger hva den var. Alle norske ungdommer er sløvet på et
+  elektronisk spill som gjør dem til søvngjengere.
+total_duration: 3367
+image_url: https://gfx.nrk.no/XmfGau0xvQfZ8TXPQTkH2QHyhlMLzONikCgbpv8vH0dQ
+medium: radio
+series_id: monkey-do
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2218
+  role: playwright
+- person_id: 2219
+  role: playwright
+- person_id: 2220
+  role: composer
+- person_id: 2221
+  role: composer
+- person_id: 2220
+  role: other
+- person_id: 2221
+  role: other
+- person_id: 2222
+  role: other
+- person_id: 18
+  role: director
+- person_id: 2223
+  role: actor
+- person_id: 298
+  role: actor
+- person_id: 634
+  role: actor
+- person_id: 2224
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 707
+  role: actor
+- person_id: 2225
+  role: actor
+- person_id: 2226
+  role: actor
+- person_id: 2227
+  role: actor
+- person_id: 2228
+  role: actor
+- person_id: 2229
+  role: actor
+- person_id: 1290
+  role: director
+- person_id: 713
+  role: actor
+- person_id: 1194
+  role: actor
+- person_id: 1346
+  role: actor
+- person_id: 1309
+  role: actor
+- person_id: 2230
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 18
+  role: actor
+- person_id: 554
+  role: actor
+- person_id: 1745
+  role: actor

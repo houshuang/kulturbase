@@ -1,0 +1,19 @@
+prf_id: FTEA01004290
+title: Frihetens pris
+description: Foran Fjernsynsteatrets forestilling "Frihetens pris". Samtale med Erling
+  Pedersen.
+year: 1990
+duration_seconds: 495
+image_url: https://gfx.nrk.no/yLq0FhVBoCZxCtCio8QbWQEwXghZUGB1c5U47lBEEdRg
+nrk_url: https://tv.nrk.no/se?v=FTEA01004290
+play_id: 413
+performance_id: 429
+source: nrk
+medium: tv
+resources:
+- id: 80
+  url: https://archive.org/details/NRKTV-FTEA01004290-AR-199305367
+  title: Frihetens pris 26.02.1990
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004290
+    Uploader: tubeup.py'

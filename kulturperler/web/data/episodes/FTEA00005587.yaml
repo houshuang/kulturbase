@@ -1,0 +1,64 @@
+prf_id: FTEA00005587
+title: Tartuffe
+description: Tartuffe er en sleip bedrager som lurer til seg penger ved å si at han
+  er edel og god, og alt han ønsker er å være tro mot Gud.
+year: 1987
+duration_seconds: 5659
+image_url: https://gfx.nrk.no/qisSGilgjt6gChMjGzGO8A3lEywJGYykdi3hSwpHHxdg
+nrk_url: https://tv.nrk.no/se?v=FTEA00005587
+play_id: 436
+performance_id: 461
+source: nrk
+medium: tv
+credits:
+- person_id: 505
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 429
+  role: actor
+- person_id: 506
+  role: actor
+- person_id: 8
+  role: actor
+- person_id: 507
+  role: actor
+- person_id: 149
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 118
+  role: actor
+- person_id: 508
+  role: actor
+- person_id: 509
+  role: actor
+- person_id: 321
+  role: actor
+resources:
+- id: 237
+  url: https://archive.org/details/NRKTV-FTEA005587-AR-199305233
+  title: Tartuffe 17.11.1987
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Tartuffe" av Jean-Baptiste Molière. Komedie
+    i 5 akter, fra 1664. Norsk gjendiktning ved André Bjerke. Masker: Karin Sæther.
+    Kostymer: Helge Hoff Monsen og Torkil Ranum. Scenografi: Christian Egemar. Kristelighet
+    kan brukes til så mangt, også til å skaffe seg penger og makt. Tartuffe er hykleren
+    som ikke skyr noe knep for å få herredømme over hus og familieformue. Ved hjelp
+    av en kløktig hushjelp og årvåkne familiemedlemmer fanges hykleren i egne garn:
+    Handlingen finner sted i den velstående borger herr Orgons hus. Presten Tartuffe
+    - en svindler og bedrager - har under skinn av from religiøsitet innyndet seg
+    hos den naive Orgon. Tartuffe forsurer familiens liv ved å preke moral og fordømme
+    deres livsstil - selskapelig og sorgløs. Den skinnhellige vil så gifte seg med
+    Orgons datter Mariane. Hun elsker imidlertid Valère, og er ikke interessert i
+    giftemålet. Intriger og narrespill begynner for å få husets herre på bedre tanker,
+    og den forhatte hykleren avsløres når han blir fristet av Elmire, fruen i huset.
+    De som er med: Erik Hivju (Tartuffe), Thor Hjorth-Jenssen (Herr Orgon), Marit
+    Østbye (Fru Elmire), Lieselotte Holmene (Dorine), Hilde Grythe (Mariane), Torfinn
+    Nag (Damis), Lasse Lindtner (Valère), Andreas Kolstad (Cléante), Karen Randers-Pehrson
+    (Fru Pernelle), Johan Brun Kjeldsberg (Herr Loyal), Johannes Joner (Politikommisæren),
+    Knut Haugmark (Laurent), Ragnhild Nygaard (Flipote). Musikk: Kåre Kolberg. Regi:
+    Ola B. Johannessen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00005587
+    Uploader: tubeup.py'

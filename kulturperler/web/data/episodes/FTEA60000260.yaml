@@ -1,0 +1,53 @@
+prf_id: FTEA60000260
+title: Scapins skøyerstreker
+description: Scapin er en kløpper i å lure, trikse og vri på sannheten. Han må hjelpe
+  Octavio og Leander med deres kjærlighetsaffærer. Komedie av Molière.
+year: 1960
+duration_seconds: 5286
+image_url: https://gfx.nrk.no/yRJk2Z7heeAF-_zFgHtC2Q6_YyduAQgcjdI1e2PQScPQ
+nrk_url: https://tv.nrk.no/se?v=FTEA60000260
+play_id: 859
+performance_id: 913
+source: nrk
+medium: tv
+credits:
+- person_id: 1135
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 1025
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 623
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 898
+  role: actor
+- person_id: 439
+  role: actor
+- person_id: 1151
+  role: actor
+resources:
+- id: 18
+  url: https://archive.org/details/NRKTV-FTEA60000260-AR-199421272
+  title: Scapins skøyerstreker 01.12.1960
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Scapins skøyerstreker" av Molière. En farseaktig
+    intrigekomedie. (Les Fourberies de Scapin). Oversatt av Paul René Gauguin. Handlingen
+    utspilles i Neapel. To unge menn - Octavio og Leander - har inntatt seg på kjærlighetsaffærer
+    mens deres fedre har vært bortreist. Leander har forelsket seg i en fattig sigøynerpike
+    ved navn Zerbinette, mens Octavio har inngått hemmelig ekteskap med en annen ung
+    pike, Hyacint. Fedrene hadde imidlertid ganske andre planer med sine to sønner,
+    og da de nå kommer hjem, må Leanders tjener Scapin bruke all sin kløkt for å hjelpe
+    de to unge ut av den vanskelige situasjon. I rollene: Ragnar Schreiner (Argant),
+    Alf Sommer (Geront), Roy Bjørnstad (Octavio), Sigurd Werring (Leander), Wenche
+    Tønseth (Zerbinette), Gudrun Waadeland (Hyacint), Arne Lie (Scapin), Rolf Sand
+    (Sylvester), Ragnhild Michelsen (Nerina), Sverre Holm (Carlo), Elsa Lystad (Krovertinne).
+    Dekorasjon: Erik Hagen. Instruktør: Barthold Halle. Source: https://tv.nrk.no/serie/fjernsynsteatret/1960/FTEA60000260
+    Uploader: tubeup.py'

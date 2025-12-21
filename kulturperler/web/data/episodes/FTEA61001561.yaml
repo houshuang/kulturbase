@@ -1,0 +1,58 @@
+prf_id: FTEA61001561
+title: Den store barnedåpen
+description: Nervøse Harald bor hos Dobbelt-Petra. Der bor også fabrikkjenta Alvilde
+  med sitt "uekte" barn. Hun vil døpe det i kirken. Men det er ikke lett.
+year: 1961
+duration_seconds: 5783
+image_url: https://gfx.nrk.no/9ZEP7usrjr3ZmzKZe6T33wb0YPANnUJoSnKDiYIAdH5Q
+nrk_url: https://tv.nrk.no/se?v=FTEA61001561
+play_id: 848
+performance_id: 901
+source: nrk
+medium: tv
+credits:
+- person_id: 957
+  role: actor
+- person_id: 1153
+  role: actor
+- person_id: 1031
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 1125
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 1075
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 245
+  role: actor
+- person_id: 973
+  role: actor
+- person_id: 648
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 82
+  url: https://archive.org/details/NRKTV-FTEA61001561-AR-199416181
+  title: Den store barnedåpen 28.09.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den store barnedåpen" av Oskar Braaten. En
+    komedie fra 1925. Skuespillet handler om statskirkens tjenere, og arbeiderfolkets
+    hverdag - som ikke alltid går overens. I dette tilfellet gjelder det spørsmålet
+    om hva som kommer først, bryllupet eller barnedåpen. Arbeidsløse og nervøse Harald
+    bor hos Dobbelt-Petra, hvor også fabrikkjenta Alvilde bor - med sitt barn født
+    utenfor ekteskap. Hun vil gjerne få det døpt i kirken. Men den strenge kapellan
+    refser de ugifte mødre og nekter å døpe uekte barn, lausunger. Kirketjener Evensen,
+    en tidligere høker, sier derimot "kom til vårs". Harald viser seg å være sterk
+    - han tar et oppgjør med barnefaren, og det blir barnedåp og bryllup til slutt.
+    I rollene: Carl Struve (Sognepresten), Erna Schøyen (Prestefruen), Bente Liseth
+    (Prestedatter Astrid), Wilfred Breistrand (Kapellan Storm), Egil Hjorth-Jenssen
+    (Kirketjener Evensen), Synnøve Gleditsch (Jomfru Jahr), Else Heiberg (Dobbelt-Petra),
+    Gudrun Waadeland (Alvilde), Veslemøy Haslund (Toralfa), Irene Thomsen (Georgine),
+    Svein Erik Brodal (Harald), Roy Bjørnstad (Hans "Gjøken"). Dekor: Erik Hagen.
+    Instruktør: Toralf Sandø. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61001561
+    Uploader: tubeup.py'

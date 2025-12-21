@@ -1,0 +1,43 @@
+prf_id: FTEA00000978
+title: Våg å kjempe! Våg å vinne!
+description: Gamle arbeidersanger fra middelalderen og fram til oktoberrevolusjonen
+  fremført av Sigve Bøe, Per Jansen og Wenche Kvamme.
+year: 1978
+duration_seconds: 2274
+image_url: https://gfx.nrk.no/c_XoEvh64KnHBZDCADxSggJp4TFxk9jA44SFFeY4KQtw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000978
+play_id: 567
+performance_id: 603
+source: nrk
+medium: tv
+credits:
+- person_id: 772
+  role: actor
+- person_id: 773
+  role: actor
+- person_id: 774
+  role: actor
+- person_id: 775
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 137
+  role: actor
+- person_id: 412
+  role: actor
+resources:
+- id: 148
+  url: https://archive.org/details/NRKTV-FTEA000978-AR-199203746
+  title: Våg å kjempe! Våg å vinne! 01.05.1978
+  type: archive_fallback
+  description: 'Sanger fra arbeidsfolks historie. Fremført av Sigve Bøe, Per Jansen
+    og Wenche Kvamme. I programmet får vi høre gamle arbeidersanger fra middelalderen
+    og fram til oktoberrevolusjonen. Det begynner med sanger fra bondeopprøret i Tyskland
+    i 1520-årene, og fortsetter med "carmagnole" fra den franske revolusjon. En sang
+    stammer fra den industrielle revolusjon, og "Åtte timers dagen" forteller om kampen
+    for kortere arbeidstid i USA. Fra Norge får vi en skillingsvise av Marcus Thrane
+    og en sang fra fyrstikkarbeiderskenes streik. En soldatsang fra den første verdenskrig
+    er en av de siste i programmet. Sangene blir satt i historisk perspektiv og illustreres
+    med bilder fra den tid da de oppsto. Musikere: Åsmund Feidje, Sigurd Haugen, Guttorm
+    Kittelsen, Laila Sjørbotten. Musikalsk ledelse: Sigurd Haugen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00000978
+    Uploader: tubeup.py'

@@ -1,0 +1,50 @@
+prf_id: FTEA61000861
+title: Fru Inger til Østraat
+description: Adelskvinnen fru Inger til Østråt støtter opprøret mot den svenske kongen
+  Gustav Vasa. Men Fru Inger har hemmeligheter fra fortiden. Av Henrik Ibsen.
+year: 1961
+duration_seconds: 7245
+image_url: https://gfx.nrk.no/5H_6YLXUPwoYLYXAtXSTZQGkBGif1oRbEbbDiVo0bf1w
+nrk_url: https://tv.nrk.no/se?v=FTEA61000861
+play_id: 856
+performance_id: 909
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 1002
+  role: actor
+- person_id: 997
+  role: actor
+- person_id: 1158
+  role: actor
+- person_id: 1159
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 895
+  role: actor
+- person_id: 1160
+  role: actor
+- person_id: 1151
+  role: actor
+- person_id: 1161
+  role: actor
+resources:
+- id: 107
+  url: https://archive.org/details/NRKTV-FTEA61000861-AR-199416133
+  title: Fru Inger til Østraat 09.02.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fru Inger til Østråt" av Henrik Ibsen. Historisk
+    skuespill. Tilrettelagt for fjernsyn og instruert av Toralf Sandø. Stykket foregår
+    i 1520-årene og tar utgangspunkt i den innflytelsesrike adelskvinnen fru Inger
+    til Østråt og hennes støtte til opprøret mot den svenske kongen Gustav Vasa. Men
+    Fru Inger har hemmeligheter fra fortiden. I rollene: Aase Bye (Fru Inger Gyldenløve,
+    rikshovmester Nils Gyldenløves enke), Wenche Tønseth (Eline Gyldenløve, hennes
+    datter), Mogens Wieth (Riksråden Nils Lykke, dansk ridder), Stig Egede-Nissen
+    (Olaf Skaktavl, en fredløs norsk adelsmann), Magne Bleness (Nils Stenssøn), Tor
+    Isedal, Bjørn (Herr Jens Bjelke, svensk befalingsmann), Martin Gisti (Bjørn, kammersvenn),
+    Arne Lie (Finn, hustjener), Roy Bjørnstad (Ejnar Huk, gårdsfogd), Egil Lorck (
+    En svensk krigsknekt). Musikk: Finn Ludt. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000861
+    Uploader: tubeup.py'

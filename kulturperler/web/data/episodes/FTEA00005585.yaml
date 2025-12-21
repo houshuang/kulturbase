@@ -1,0 +1,44 @@
+prf_id: FTEA00005585
+title: Rose
+description: Rose er en selvstendig kvinne, men får seg den ene trøkk etter den andre.
+  Det er ikke så enkelt å være annerledes i en verden full av formaliteter.
+year: 1985
+duration_seconds: 5888
+image_url: https://gfx.nrk.no/r7AjE1xzABTCyicr3pBj_Aj5cKRzLIk0HAOgazB6wwaA
+nrk_url: https://tv.nrk.no/se?v=FTEA00005585
+play_id: 459
+performance_id: 487
+source: nrk
+medium: tv
+credits:
+- person_id: 4
+  role: actor
+- person_id: 530
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 361
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 17
+  role: actor
+- person_id: 94
+  role: actor
+resources:
+- id: 395
+  url: https://archive.org/details/NRKTV-FTEA005585-AR-199011765
+  title: Rose 04.03.1986
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rose" av Andrew Davies. Oversatt av Merete
+    Alfsen og Else Michelet. Rose er en selvstendig kvinne med krav om å forme sitt
+    eget liv. Full av gå-på-mot. Men både i arbeidet som lærer, i ekteskapet og hos
+    moren møter hun motstand mot eventuelle former for frigjøringskamp. Hun mener
+    den gammeldagse måten å behandle barn på er gal. En må ta barn på alvor. Vise
+    hva en selv er. Vise hvor en står. Og ekteskapet er slitt, ikke dødt, bare halvdødt.
+    Hun får seg den ene trøkk etter den andre, og erfarer at det ikke er så enkelt
+    å være annerledes - i en verden full av formaliteter. De som er med: Sylvia Salvesen
+    (Rose), Elsa Lystad (Moren), Lise Fjeldstad (Smale), Oda Schjøll (Malpass), Jan
+    Ø. Wiig (Geoffrey), Per Frisch (Jim Beam), Rolf Arly Lund (Faren). Kostymer: Gerd
+    Johnsrud. Scenografi: Christian Egemar. Regi: Eli Ryg. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00005585
+    Uploader: tubeup.py'

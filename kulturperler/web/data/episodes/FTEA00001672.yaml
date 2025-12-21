@@ -1,0 +1,20 @@
+prf_id: FTEA00001672
+title: Hjem
+description: Et stykke som skildrer avstanden mellom mennesker i det engelske klassesamfunnet.
+  Av den engelske forfatteren David Storey.
+year: 1972
+duration_seconds: 5679
+image_url: https://gfx.nrk.no/E2RSpkhqGYUBJQ6s7JOBMQZodstxkKQlzlb9er_fNzxQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00001672
+play_id: 651
+performance_id: 690
+source: nrk
+medium: tv
+resources:
+- id: 280
+  url: https://archive.org/details/NRKTV-FTEA001672-AR-199311327
+  title: Hjem 28.11.1972
+  type: archive_fallback
+  description: 'Et stykke som skildrer avstanden mellom mennesker i det engelske klassesamfunnet.
+    Av den engelske forfatteren David Storey. Sendt i Fjernsynsteatret i 1972. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00001672 Uploader: tubeup.py'

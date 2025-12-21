@@ -1,0 +1,25 @@
+prf_id: FTEA00007688
+title: Fugleelskerne
+description: Torre Rosse livnærer seg på småfugljakt og turisme. Dyrenes Beskyttelse,
+  Fugleelskerne, bestemmer seg for å legge sitt feriested til dette distriktet.
+year: 1988
+duration_seconds: 6014
+image_url: https://gfx.nrk.no/V2cpZjzReWs5X1bf-uEigg6gqpUgo-kn2eJQET5Dz1dQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00007688
+play_id: 423
+performance_id: 445
+source: nrk
+medium: tv
+resources:
+- id: 302
+  url: https://archive.org/details/NRKTV-FTEA007688-AR-199037566
+  title: Fugleelskerne 28.03.1989
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA00007688
+    Uploader: tubeup.py'
+- id: 345
+  url: https://archive.org/details/NRKTV-FTEA012189-AR-199038762
+  title: Fugleelskerne 27.03.1989
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA01002189
+    Uploader: tubeup.py'

@@ -1,0 +1,29 @@
+id: 37
+work_id: 36
+source: nrk
+title: Copenhagen
+description: Midt under 2. verdenskrig reiser den tyske atomfysikeren Werner Heisenberg
+  til det okkuperte København for å treffe sin venn og kollega Niels Bohr.
+total_duration: 8430
+image_url: https://gfx.nrk.no/9jjlAcCGvisnTHTERDhSrgwRbpcQSkI7ya1496hVhOgA
+medium: radio
+series_id: copenhagen
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2268
+  role: playwright
+- person_id: 1271
+  role: other
+- person_id: 1106
+  role: director
+- person_id: 671
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 325
+  role: actor
+- person_id: 1295
+  role: director
+- person_id: 1305
+  role: other

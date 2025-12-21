@@ -1,0 +1,46 @@
+prf_id: FTEA65000565
+title: I de hvites Amerika
+description: Et dokumentarskuespill om rasemotsetninger og kampen for frihet og fulle
+  menneskerettigheter i USA. Av Martin B. Duberman.
+year: 1965
+duration_seconds: 6588
+image_url: https://gfx.nrk.no/ubl3uKlLPOZydoNcQ1ffBQy74l20iGgACUkFR1nLgVwQ
+nrk_url: https://tv.nrk.no/se?v=FTEA65000565
+play_id: 770
+performance_id: 820
+source: nrk
+medium: tv
+credits:
+- person_id: 1066
+  role: actor
+- person_id: 1067
+  role: playwright
+- person_id: 997
+  role: director
+- person_id: 62
+  role: actor
+- person_id: 541
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 648
+  role: actor
+resources:
+- id: 489
+  url: https://archive.org/details/NRKTV-FTEA65010565-AR-199405450
+  title: I de hvites Amerika 28.09.1965 (Part 1)
+  type: archive_fallback
+  description: Fjernsynsteatret viser dokumentardramaet "I de hvites Amerika" av den
+    amerikanske historikeren og dramatikeren Martin B. Duberman. Et dokumentarskuespill
+    om rasemotsetninger og kampen for frihet og fu...
+- id: 498
+  url: https://archive.org/details/NRKTV-FTEA65020565-AR-199405450
+  title: I de hvites Amerika 28.09.1965 (Part 2)
+  type: archive_fallback
+  description: Fjernsynsteatret viser dokumentardramaet "I de hvites Amerika" av den
+    amerikanske historikeren og dramatikeren Martin B. Duberman. Et dokumentarskuespill
+    om rasemotsetninger og kampen for frihet og fu...

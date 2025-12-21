@@ -1,0 +1,32 @@
+prf_id: FTEA66002666
+title: En svanesang
+description: Enakter av Anton Tsjekhov. En vemodig og dramatisk studie om en 86 år
+  gammel skuespiller i provinsen som forteller sin historie.
+year: 1966
+duration_seconds: 1625
+image_url: https://gfx.nrk.no/9-WvNr2suYyJWGSAOt2qXAmuViHcuchcje28TrhnhvjQ
+nrk_url: https://tv.nrk.no/se?v=FTEA66002666
+play_id: 758
+performance_id: 807
+source: nrk
+medium: tv
+credits:
+- person_id: 787
+  role: actor
+- person_id: 80
+  role: actor
+resources:
+- id: 24
+  url: https://archive.org/details/NRKTV-ftea66002666-ar-199055314
+  title: En svanesang 28.06.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En svanesang" av Anton Tsjekhov. Skuespill
+    fra 1887. Oversatt av Lisa Thomas Olsen. Instudering: Sverre Hansen. Enakter,
+    en vemodig dramatisk studie om en 86 år gammel skuespiller i provinsen. Handlingen
+    foregår på scenen i et annenrangs teater om natten etter en forestilling. Den
+    gamle skuespilleren forteller sin historie med en like gammel sufflør som eneste
+    publikum. Han opplever den sene aften en livskrise, minnes sine triumfer og nederlag.
+    Hva er det blitt av alt? "Jeg er hjelpeløs" sier skuespilleren, som føler tomhet
+    og frustrasjon og må erkjenne ofre han har gjort for å lykkes. I rollene: Sverre
+    Hansen (Vassilij Vassiljevitsj), Ragnar Olason (Nikita Ivanitsj). Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66002666
+    Uploader: tubeup.py'

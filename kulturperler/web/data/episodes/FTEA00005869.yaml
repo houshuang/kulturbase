@@ -1,0 +1,47 @@
+prf_id: FTEA00005869
+title: Røter
+description: Landarbeiderfamilien Bryant har ingen politisk ideologi, de lever isolert,
+  er avhengige av godseieren og bare opptatt av det som hører hverdagen til. Av Arnold
+  Wesker.
+year: 1969
+duration_seconds: 7168
+image_url: https://gfx.nrk.no/L7ZKUhiJT2g8PxkzKVvalAHIKZTTof3fQtwi1F644JvQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00005869
+play_id: 696
+performance_id: 744
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 676
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 995
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 1010
+  role: actor
+- person_id: 974
+  role: actor
+- person_id: 1011
+  role: actor
+- person_id: 591
+  role: actor
+resources:
+- id: 436
+  url: https://archive.org/details/NRKTV-FTEA005869-AR-199313234
+  title: Røter 16.09.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Røter" av den engelske dramatikeren Arnold
+    Wesker. Oversatt av Jo Ørjasæter. Stykket er det andre i en trilogi om to familier
+    fra arbeiderklassen og deres sosialistiske idealer. Landarbeiderfamilien Bryant
+    har ingen politisk ideologi, de lever isolert, er avhengige av godseieren og er
+    bare opptatt av det som hører hverdagen til. Så kommer datteren Beatie hjem på
+    besøk fra London. Hun har forlovet seg med Ronnie Kahn og har med seg hans politiske
+    idealer til sin familie. I rollene medvirker blant andre Inger Lise Westby (Beatie
+    Bryant), Eva von Hanno (Jenny Bales), Jon Eikemo (Jimmy Bales), Ella Hval (Mrs.
+    Bryant) og Alf Malland (Mr. Bryant). Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00005869
+    Uploader: tubeup.py'

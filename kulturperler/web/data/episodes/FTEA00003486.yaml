@@ -1,0 +1,52 @@
+prf_id: FTEA00003486
+title: Fri
+description: En ung kvinne slippes ut av fengsel. Hun står foran en ny framtid, det
+  blir avgjørende hvordan hun mestrer sin første dag som fri.
+year: 1986
+duration_seconds: 6776
+image_url: https://gfx.nrk.no/Sj5hvHa-CnR7-R8gwhuBGwKUE1OED9YHBdUsH9s2VPSw
+nrk_url: https://tv.nrk.no/se?v=FTEA00003486
+play_id: 439
+performance_id: 466
+source: nrk
+medium: tv
+credits:
+- person_id: 528
+  role: actor
+- person_id: 345
+  role: actor
+- person_id: 529
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 17
+  role: actor
+- person_id: 326
+  role: actor
+- person_id: 321
+  role: actor
+resources:
+- id: 171
+  url: https://archive.org/details/NRKTV-FTEA003486-AR-199305219
+  title: Fri 12.05.1987
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fri" av Marsha Norman. (Getting Out). Oversatt
+    av Tom Remlov. Bearbeidet for fjernsyn av Carl Jørgen Kiønig. En ung kvinne, Arlene
+    Holsclaw, slippes ut av fengsel etter en lang straff for ran og drap. Hun er i
+    slutten av 20-årene. Sin unge alder til tross har hun en fortid som hardbarket
+    kriminell og prostituert, og har tilbrakt lang tid innenfor institusjoner og fengsler.
+    Tilbakeblikk på hennes liv avdekker årsakssammenhengen til hennes kriminalitet.
+    Arlene som kommer ut av fengselet er en annen enn den forherdede tenåringen Arlie
+    som ble satt inn. Hun står nå foran en ny framtid, det blir avgjørende hvordan
+    hun mestrer sin første dag som fri. De som er med: Marianne Krogh (Arlene / Arlie),
+    Bjørn Floberg (Bennie), Torfinn Nag (Carl), Kari Simonsen (Moren), Marie Louise
+    Tank (Ruby), Sverre Bentzen (Bestyreren / Fengselsdirektøren), Rolf Arly Lund
+    (En fengselsbetjent), John S. Kristensen (En fengselsbetjent), Henrik Scheele
+    (Legen), Lieselotte Holmene (Overlæreren). Musikk: Rain. Regi: Carl Jørgen Kiønig.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00003486 Uploader: tubeup.py'

@@ -1,0 +1,31 @@
+prf_id: FTEA01008585
+title: Lørdag ..... søndag
+description: En gutt kommer i klemme mellom mor og far etter en skilsmisse. En helg
+  finner far og sønn hverandre igjen. Så kommer oppbruddet igjen søndag kveld.
+year: 1985
+duration_seconds: 1720
+image_url: https://gfx.nrk.no/zVjrcIUvofAzOEQ2vvj9hw9Jv9K8D1BdVXr4q-akZzXg
+nrk_url: https://tv.nrk.no/se?v=FTEA01008585
+play_id: 462
+performance_id: 490
+source: nrk
+medium: tv
+credits:
+- person_id: 555
+  role: actor
+- person_id: 556
+  role: actor
+- person_id: 335
+  role: actor
+- person_id: 557
+  role: actor
+resources:
+- id: 270
+  url: https://archive.org/details/NRKTV-FTEA018585-AR-199011757
+  title: Lørdag ..... søndag 31.01.1986
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Lørdag... søndag". En novellefilm av Nina
+    Sandås og Leidulv Risan. En gutt kommer i klemme mellom mor og far etter en skilsmisse.
+    Filmen skildrer et weekendbesøk der far og sønn "finner hverandre igjen". Så kommer
+    oppbruddet igjen søndag kveld. Produsert av Norsk Film i samarbeid med NRK. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA01008585 Uploader: tubeup.py'

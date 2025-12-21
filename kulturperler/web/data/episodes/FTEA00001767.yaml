@@ -1,0 +1,47 @@
+prf_id: FTEA00001767
+title: Den sorte svane
+description: En ung mann oppdager ved en tilfeldighet at hans omsorgsfulle far arbeidet
+  med avlivning av fanger under den andre verdenskrig. Av Martin Walser.
+year: 1967
+duration_seconds: 6425
+image_url: https://gfx.nrk.no/ncXfESSe2pTDlp7kY8QWVQnYfkOqM6RpMDQzSn3_hFyw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001767
+play_id: 717
+performance_id: 766
+source: nrk
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 834
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 356
+  role: actor
+- person_id: 873
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 126
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 232
+  url: https://archive.org/details/NRKTV-FTEA001767-AR-199313578
+  title: Den sorte svane 09.04.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den sorte svane" av den tyske forfatteren
+    Martin Walser. Oversatt, bearbeidet og instruert av Knut M. Hansson. En ung mann
+    oppdager ved en tilfeldighet at hans omsorgsfulle far arbeidet med avlivning av
+    fanger under den andre verdenskrig. I rollene medvirker blant andre Gerhard Bjelland
+    (Rudi Goothein), Jørn Ording (professor Goothein, Rudis far), Harald Heide Steen
+    (professor Libere) og Tone Schwarzott (Irm, Liberes datter). Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00001767
+    Uploader: tubeup.py'

@@ -1,0 +1,37 @@
+prf_id: FTEA00005469
+title: De gamle damene
+description: Tre portretter av gamle, ensomme mennesker. Problemer avtar ikke med
+  alderdommen, følelser svalner ikke, skuffelser og angst river like ondt som før.
+  Av Hugh Walpole.
+year: 1969
+duration_seconds: 6176
+image_url: https://gfx.nrk.no/FTtsyY4Trn0dW5nc1v79vQW6XmdO-mQYq17B1Iz1A0lw
+nrk_url: https://tv.nrk.no/se?v=FTEA00005469
+play_id: 692
+performance_id: 740
+source: nrk
+medium: tv
+credits:
+- person_id: 999
+  role: actor
+- person_id: 888
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 139
+  url: https://archive.org/details/NRKTV-FTEA005469-AR-199313240
+  title: De gamle damene 02.12.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "De gamle damene". (The Old Ladies). Dramatisert
+    av Rodney Ackland etter en roman av Hugh Walpole. Oversatt av Johan Borgen. Kostymer:
+    Grethe Wang. Dekorasjoner: Sverre Andersen. Like før jul, i en gammel bygård i
+    Polchester hvor tre gamle damer lever som leietakere. Stykket gir tre portretter
+    av gamle ensomme mennesker. Det forsøker å vise at problemer ikke avtar med alderdommen,
+    følelser svalner ikke, skuffelser og angst river like ondt som før, mens håp livet
+    igjennom rettes framover. Problemer kan se små ut for dem de ikke angår, men de
+    kan slite hardt nok på de menneskene som har dem, også når man har nådd den tilstand
+    i livet som blir beskrevet som en klisje: "alderdommens klarhet og ro". De som
+    er med: Ragnhild Michelsen (Lucy Amorest), Helga Backe (May Beringer), Guri Stormoen
+    (Agatha Payne). Instruktør: Arne Thomas Olsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00005469
+    Uploader: tubeup.py'

@@ -1,0 +1,19 @@
+prf_id: FTEA00002680
+title: Du er ferdig
+description: Ungdomsskolen er slutt og vitnemål blir delt ut. Hvordan føles det å
+  lese at man er uoppmerksom og lat. Om det pedagogiske hykleri. Av Barrie Keeffe.
+year: 1980
+duration_seconds: 4294
+image_url: https://gfx.nrk.no/oAPgrtidwj8YR9VjQZrGvgBvb_B90SCJ3JS5o4Yg-dOQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00002680
+play_id: 516
+performance_id: 548
+source: nrk
+medium: tv
+resources:
+- id: 131
+  url: https://archive.org/details/NRKTV-FTEA002680-AR-199102929
+  title: Du er ferdig 27.10.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00002680
+    Uploader: tubeup.py'

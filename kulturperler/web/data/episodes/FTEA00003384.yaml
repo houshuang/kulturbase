@@ -1,0 +1,19 @@
+prf_id: FTEA00003384
+title: Den sultende klasses forbannelse
+description: Et stykke om den amerikanske familien i krise, om den enkeltes verdinormer
+  og forventninger i et samfunn i omveltning. Av Sam Shepard.
+year: 1984
+duration_seconds: 7094
+image_url: https://gfx.nrk.no/D3yHFnP7A4QxCfMwwx9QtQLvuCrTwrfQ5XXyN28oRbcw
+nrk_url: https://tv.nrk.no/se?v=FTEA00003384
+play_id: 456
+performance_id: 484
+source: nrk
+medium: tv
+resources:
+- id: 193
+  url: https://archive.org/details/NRKTV-FTEA003384-AR-199011764
+  title: Den sultende klasses forbannelse 20.05.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00003384
+    Uploader: tubeup.py'

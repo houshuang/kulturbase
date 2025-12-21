@@ -1,0 +1,23 @@
+id: 599
+work_id: 563
+source: nrk
+year: 1978
+title: Hotell Tajgaen
+description: Fotballgale Potapov trenger seg inn på en dames hotellrom for å få med
+  seg overføring av en kamp. Hotelldirektøren, en maktglad byråkrat, kaster ham ut.
+total_duration: 3100
+image_url: https://gfx.nrk.no/zFvdsNkt7HNqfXOtoo20VQ8Sh_R33su1e74Ie9M_7DlA
+medium: tv
+credits:
+- person_id: 768
+  role: actor
+- person_id: 523
+  role: actor
+- person_id: 511
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 769
+  role: actor
+- person_id: 751
+  role: actor

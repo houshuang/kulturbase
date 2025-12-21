@@ -1,0 +1,19 @@
+prf_id: FTEA00006881
+title: Kvinnen og den svarte fuglen
+description: En kvinne sitter i fengsel fordi hun har hjulpet sønnen som har desertert.
+  Nå tenker hun tilbake på livet sitt. Etter en roman av Nini Roll Anker.
+year: 1981
+duration_seconds: 4628
+image_url: https://gfx.nrk.no/_XAHIgkntjpOJl2AQBrqRwz6yN3lXylcZPHxZPoaZ8xA
+nrk_url: https://tv.nrk.no/se?v=FTEA00006881
+play_id: 507
+performance_id: 538
+source: nrk
+medium: tv
+resources:
+- id: 207
+  url: https://archive.org/details/NRKTV-FTEA006881-AR-199103023
+  title: Kvinnen og den svarte fuglen 05.10.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA00006881
+    Uploader: tubeup.py'

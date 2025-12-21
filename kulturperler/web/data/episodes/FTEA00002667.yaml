@@ -1,0 +1,31 @@
+prf_id: FTEA00002667
+title: Fordringshavere
+description: Den deprimerte maleren Adolf har ekteskapelige problemer med Tekla, som
+  bedrar ham og leker med ham. Av August Strindberg.
+year: 1967
+duration_seconds: 4919
+image_url: https://gfx.nrk.no/2QNyjzThXS8A_-8kH_GNvgD1FKW3uOfzBrVTnGgzmKVA
+nrk_url: https://tv.nrk.no/se?v=FTEA00002667
+play_id: 727
+performance_id: 776
+source: nrk
+medium: tv
+credits:
+- person_id: 124
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 309
+  role: actor
+resources:
+- id: 425
+  url: https://archive.org/details/NRKTV-FTEA002667-ST199001041
+  title: Fordringshavere 02.01.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fordringshavere" av August Strindberg. Oversatt
+    av Axel Kielland. Den deprimerte maleren Adolf har ekteskapelige problem med Tekla,
+    som bedrar ham og leker med ham. Gustav, en ny venn Adolf møter, inntar rollen
+    som mekler og sannhetsvitne. Men Gustav skjuler noe for ham. I rollene: Joachim
+    Calmeyer (Adolf), Knut M. Hansson (Gustav) og Rut Tellefsen (Tekla). Instruktør:
+    Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00002667
+    Uploader: tubeup.py'

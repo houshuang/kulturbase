@@ -1,0 +1,44 @@
+prf_id: FTEA00000180
+title: Løvfall
+description: Møtet mellom en pensjonert bibliotekar og en ung kvinne som lever i skyggen
+  av en sorg viser seg også å bli en konfrontasjon mellom to livsholdninger.
+year: 1980
+duration_seconds: 5921
+image_url: https://gfx.nrk.no/UwvNM7BX-zQu1heifm-GnAQ4OtTERmhDC044tthp24Cg
+nrk_url: https://tv.nrk.no/se?v=FTEA00000180
+play_id: 534
+performance_id: 569
+source: nrk
+medium: tv
+credits:
+- person_id: 566
+  role: actor
+- person_id: 68
+  role: actor
+- person_id: 676
+  role: actor
+- person_id: 658
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 120
+  role: actor
+resources:
+- id: 358
+  url: https://archive.org/details/NRKTV-FTEA000180-AR-199102139
+  title: Løvfall 30.09.1980
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Løvfall". Manus og regi ved Sverre Udnæs.
+    Vi er alt og intet, sa Blaise Pascal - og det er Pascal-motiver i "Løvfall". Sentralt
+    i stykket står møtet mellom Johannes, en pensjonert bibliotekar, og Elin, en ung
+    kvinne som lever i skyggen av en stor sorg. Dette møtet mellom to mennesker viser
+    seg også å bli en konfrontasjon mellom to livsholdninger. Vi møter også en ung
+    mann som på sin måte er et pascalsk motiv. Han sitter på en kafe og leser en "western".
+    I en dialog mellom ham og Johannes - møtet mellom "kioskromanen" og verdenslitteraturen
+    - røper den unge mannen sitt motiv for å lese "Skyt først, Jerry!". Han gjør det
+    for å "få tida til å gå". Og han lurer på om ikke Johannes er i samme situasjon
+    som han selv: "Kjeder du deg?" De som er med: Arne Bang-Hansen (Johannes), Jannik
+    Bonnevie (Elin), Per Jansen (Ung mann), Aud Schønemann (Serveringsdamen), Ella
+    Hval (Kvinnelig kunde), Gunnar Olram (Mannlig kunde). Musikk: Alfred Janson, spilt
+    av Kringkastingsorkestret. Dirigent: Sverre Bruland. Instruktør: Sverre Udnæs.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00000180 Uploader: tubeup.py'

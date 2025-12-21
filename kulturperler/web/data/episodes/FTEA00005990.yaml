@@ -1,0 +1,39 @@
+prf_id: FTEA00005990
+title: Den blå koppen
+description: Kjærligheten går sine egne veier. Hva ville skjedd hvis en hadde møtt
+  en annen litt før, eller hadde forstått hva som lå i en gave. Av Alf Prøysen.
+year: 1990
+duration_seconds: 1397
+image_url: https://gfx.nrk.no/dvqpx7yVp-XtyBKHF4gb4Q-xQhg0jtgwVwdJaqn6aapQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00005990
+play_id: 404
+performance_id: 418
+source: nrk
+medium: tv
+credits:
+- person_id: 448
+  role: actor
+- person_id: 139
+  role: actor
+- person_id: 312
+  role: actor
+- person_id: 68
+  role: actor
+- person_id: 449
+  role: actor
+- person_id: 450
+  role: actor
+- person_id: 440
+  role: actor
+- person_id: 451
+  role: actor
+resources:
+- id: 188
+  url: https://archive.org/details/NRKTV-ftea005990-ar-199049692
+  title: Den blå koppen 18.12.1990
+  type: archive_fallback
+  description: 'Kjærligheten går sine egne veier, og av og til må en stanse opp og
+    undre seg litt over hvordan det ville blitt her i livet hvis en hadde møtt en
+    annen litt før, eller hadde forstått hva som lå i en overraskende gave, for eksempel
+    en blå kopp. Sendt i Fjernsynsteatret. Av Alf Prøysen. Regi: Svein Erik Brodal.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00005990 Uploader: tubeup.py'

@@ -1,0 +1,34 @@
+prf_id: FTEA00002567
+title: Lik til salgs
+description: Handlingen foregår på et vertshus der flere falskspillere holder til
+  og alle svindler alle. Av Dario Fo.
+year: 1967
+duration_seconds: 2998
+image_url: https://gfx.nrk.no/UBQLwj2p2ZrNqS2x50HmUAbLGeBRvTiO2SQHXlfPqcfw
+nrk_url: https://tv.nrk.no/se?v=FTEA00002567
+play_id: 724
+performance_id: 773
+source: nrk
+medium: tv
+credits:
+- person_id: 894
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 771
+  role: actor
+- person_id: 80
+  role: actor
+resources:
+- id: 281
+  url: https://archive.org/details/NRKTV-FTEA002567-199001042-ST
+  title: Lik til salgs 13.02.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Lik til salgs", en farse av den italienske
+    dramatikeren Dario Fo. Oversatt av Eivind Hauge. Handlingen foregår på et vertshus
+    der flere falskspillere holder til og alle svindler alle. I rollene: Sverre Hansen
+    (den berusede), Per Gjersøe (Marco), Rolf Berntzen (faren), Ingebjørg Sem (Maria)
+    og Rolf Just Nilsen (gjesten). Instruktør: Aloysius Valente. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00002567
+    Uploader: tubeup.py'

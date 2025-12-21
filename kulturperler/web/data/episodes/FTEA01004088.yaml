@@ -1,0 +1,53 @@
+prf_id: FTEA01004088
+title: Når den ny vin blomstrer
+description: Avskjedsforestillingen til Wenche Foss. "Når den ny vin blomstrer, gjærer
+  det i den gamle", i dette tilfellet menn når de betrakter de unge pikene.
+year: 1988
+duration_seconds: 6599
+image_url: https://gfx.nrk.no/dg_xjyUWlB2stlT8IBGIlQZOSr6iqN4OT73iE79j8pVg
+nrk_url: https://tv.nrk.no/se?v=FTEA01004088
+play_id: 422
+performance_id: 444
+source: nrk
+medium: tv
+credits:
+- person_id: 456
+  role: actor
+- person_id: 139
+  role: actor
+- person_id: 459
+  role: actor
+- person_id: 23
+  role: actor
+- person_id: 148
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 461
+  role: actor
+- person_id: 20
+  role: actor
+- person_id: 118
+  role: actor
+- person_id: 443
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 462
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 200
+  url: https://archive.org/details/NRKTV-FTEA014088-AR-199037564
+  title: Når den ny vin blomstrer 11.04.1989
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Når den ny vin blomstrer" av Bjørnstjerne
+    Bjørnson. Dette er en overføring av Nationaltheatrets forestilling som var avskjedsforestillingen
+    til Wenche Foss. "Når den ny vin blomstrer, gjærer det i den gamle" - i dette
+    tilfellet i tilårskomne menn når de betrakter alle de tiltrekkende unge pikene
+    som vokser opp omkring dem i ly av den borgerlige familie. I rollene medvirker
+    blant andre Per Sunderland (Arvik), Wenche Foss (fru Arvik), Marit Østbye (Marna),
+    Anitra Eriksen (Alberta) og Lene Bragli (Helene). Scenografi og kostymer: Helge
+    Hoff Monsen. Instruktør: Edith Roger. Fjernsynsregi: Ida Simonsen og Per Bronken.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1989/FTEA01004088 Uploader: tubeup.py'

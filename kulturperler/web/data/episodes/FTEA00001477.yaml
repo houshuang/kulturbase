@@ -1,0 +1,21 @@
+prf_id: FTEA00001477
+title: Dikt og fortellinger av Alf Prøysen
+description: Ane Hoel leser utvalgte tekster av Alf Prøysen på Hedmark-dialekt.
+year: 1977
+duration_seconds: 2027
+image_url: https://gfx.nrk.no/038pGuthex58NJSKXik7gA3rWm9VkQBk57qFffBOxKvA
+nrk_url: https://tv.nrk.no/se?v=FTEA00001477
+play_id: 566
+performance_id: 602
+source: nrk
+medium: tv
+credits:
+- person_id: 81
+  role: actor
+resources:
+- id: 361
+  url: https://archive.org/details/NRKTV-ftea001477-ar-199203749
+  title: Dikt og fortellinger av Alf Prøysen 09.05.1978
+  type: archive_fallback
+  description: 'Ane Hoel leser utvalgte tekster av Alf Prøysen på Hedmark-dialekt.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00001477 Uploader: tubeup.py'

@@ -1,0 +1,19 @@
+prf_id: FTEA00003590
+title: Den 25. time
+description: En gutts verden raste sammen da morfaren falt fra. Nå er han en farlig
+  sikringsfange som presten og psykologen forsøker å forstå. Av Per Olov Enquist.
+year: 1990
+duration_seconds: 6572
+image_url: https://gfx.nrk.no/k1Xpcy7JLfzyI2c6Vi2zyAcVlPQgROcTQSL-jMFg31qA
+nrk_url: https://tv.nrk.no/se?v=FTEA00003590
+play_id: 407
+performance_id: 421
+source: nrk
+medium: tv
+resources:
+- id: 488
+  url: https://archive.org/details/NRKTV-FTEA00023590-AR-199049275
+  title: Den 25. time 04.12.1990 (Part 2)
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003590
+    Uploader: tubeup.py...'

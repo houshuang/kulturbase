@@ -1,0 +1,18 @@
+prf_id: FTEA00001376
+title: Jan Herwitz
+description: En sjarmerende komedie av Hans Wiers-Jenssen.
+year: 1976
+duration_seconds: 5396
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00001376
+play_id: 594
+performance_id: 631
+source: nrk
+medium: tv
+resources:
+- id: 133
+  url: https://archive.org/details/NRKTV-FTEA001376-AR-199206373
+  title: Jan Herwitz 26.10.1976
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00001376
+    Uploader: tubeup.py'

@@ -1,0 +1,59 @@
+id: 26
+work_id: 26
+source: nrk
+title: Blindspor
+description: Janne Birk venter på sin venninne da hun overhører et skjærende skrik.
+  Kort tid etter får hun beskjed om en fryktelig nyhet.
+total_duration: 9852
+image_url: https://gfx.nrk.no/aBDqptx1Lc3_2omaLTuhcwxyoJ7dItoXbAfuj-E0iHyA
+medium: radio
+series_id: blindspor
+credits:
+- person_id: 1305
+  role: other
+- person_id: 1276
+  role: other
+- person_id: 1295
+  role: other
+- person_id: 1347
+  role: playwright
+- person_id: 1348
+  role: other
+- person_id: 1276
+  role: director
+- person_id: 147
+  role: actor
+- person_id: 87
+  role: actor
+- person_id: 1284
+  role: actor
+- person_id: 23
+  role: actor
+- person_id: 1250
+  role: actor
+- person_id: 65
+  role: actor
+- person_id: 1288
+  role: actor
+- person_id: 350
+  role: actor
+- person_id: 335
+  role: actor
+- person_id: 1349
+  role: actor
+- person_id: 1350
+  role: actor
+- person_id: 775
+  role: actor
+- person_id: 1315
+  role: director
+- person_id: 534
+  role: actor
+- person_id: 1351
+  role: actor
+- person_id: 715
+  role: actor
+- person_id: 1271
+  role: other
+- person_id: 1306
+  role: other

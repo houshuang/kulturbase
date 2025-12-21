@@ -1,0 +1,34 @@
+prf_id: FTEA00004668
+title: Et daghjem
+description: Enakter om tre voksne menn i hver sin sandkasse, som er deres hjem og
+  miljø. Situasjonen er statisk, dialogen er springende. Av Bjørn Høvik.
+year: 1968
+duration_seconds: 2346
+image_url: https://gfx.nrk.no/znJ8-IdnEKGXKR2XmS8jEgXCUKY6nOkbmAFFcvYC6aMw
+nrk_url: https://tv.nrk.no/se?v=FTEA00004668
+play_id: 705
+performance_id: 753
+source: nrk
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 142
+  role: actor
+- person_id: 350
+  role: actor
+- person_id: 351
+  role: actor
+resources:
+- id: 205
+  url: https://archive.org/details/NRKTV-FTEA004668-AR-199313187
+  title: Et daghjem 21.01.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Et daghjem" av Bjørn Høvik. Musikk: Ragnar
+    Söderlind. Dekorasjoner: Dag Frogner. Koreograf: Randi Baalsrud. TV-spilldebutanten
+    Bjørn Høvik har valgt en såkalt absurd situasjon for sin enakter - tre voksne
+    menn i hver sin sandkasse, som er deres hjem og miljø. Situasjonen er statisk,
+    dialogen er springende og full av utfall mot vår forvirrede begrepsverden og vårt
+    klisjefylte språk. De som er med: Per Theodor Haugen, Roy Bjørnstad, Bjørn Jenseg,
+    Bab Christensen. Instruktør: Sølve Kern. Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00004668
+    Uploader: tubeup.py'

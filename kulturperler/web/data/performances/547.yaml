@@ -1,0 +1,27 @@
+id: 547
+work_id: 32
+source: nrk
+year: 1981
+title: Byggmester Solness
+description: Drama av Henrik Ibsen. Byggmesteren er en gammel mann som opplever offentlig
+  suksess, men også private demoner.
+total_duration: 6840
+image_url: https://gfx.nrk.no/HNalScZDVoURzZa5XsA0SwKNXfj_HZLzaF-Xq9U0lmLA
+medium: tv
+credits:
+- person_id: 727
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 728
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 534
+  role: actor

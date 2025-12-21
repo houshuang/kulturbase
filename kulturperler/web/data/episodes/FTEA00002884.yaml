@@ -1,0 +1,37 @@
+prf_id: FTEA00002884
+title: Fribillett til Soria Moria
+description: Oslo på 50-tallet. To venninner er så forskjellig som mulig. Lettlivede
+  og overfladiske Mabel er kontrasten til omsorgsfulle Elise. Så kommer en mann.
+year: 1984
+duration_seconds: 5101
+image_url: https://gfx.nrk.no/ZpnosplqXN5JO-DtVpv6DQyy7W5ZsnYK55Kv6Ar-FY3A
+nrk_url: https://tv.nrk.no/se?v=FTEA00002884
+play_id: 483
+performance_id: 512
+source: nrk
+medium: tv
+credits:
+- person_id: 8
+  role: actor
+- person_id: 569
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 663
+  role: actor
+resources:
+- id: 257
+  url: https://archive.org/details/NRKTV-ftea002884-ar-199056238
+  title: Fribillett til Soria Moria 15.05.1984
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fribillett til Soria Moria" av Bjørg Vik.
+    Stykket er skrevet direkte for fjernsyn. Kostymer: Nan Austin. Scenograf: Grethe
+    Hejer. Oslo i begynnelsen av 50-tallet. To kvinner i 40-årsalderen lever sammen
+    i en leilighet og er blitt avhengig av hverandre. Elise og Mabel er venninner,
+    men så forskjellig som vel mulig. Den lettlivede, livsbejaende men også overfladiske
+    og egoistiske Mabel er kontrasten til sin omsorgsfulle og oppofrende venninne
+    Elise, som lever mer for andre enn seg selv. Hva skjer når en mann kommer inn
+    i bildet? I rollene: Marit Syversen (Mabel Andersen), Kirsten Hofseth (Elise Vangen),
+    Knut M. Hansson (blomsterhandler Hjalmar Bull), Johannes Joner (Tom Andersen).
+    Regi: Kirsten Sørlie. Source: https://tv.nrk.no/serie/fjernsynsteatret/1984/FTEA00002884
+    Uploader: tubeup.py'

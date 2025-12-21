@@ -1,0 +1,45 @@
+prf_id: FTEA65001865
+title: Bleikeplassen
+description: Johan Tander tror at ingen bryr seg om ham, de svarte tankene blir så
+  sterke at han blir farlig. Etter en roman av Tarjei Vesaas.
+year: 1966
+duration_seconds: 6167
+image_url: https://gfx.nrk.no/8KPp9HEWhfadA7S1_Y_YmgeWm2wJz-w9BdIq0BOwPnWQ
+nrk_url: https://tv.nrk.no/se?v=FTEA65001865
+play_id: 766
+performance_id: 816
+source: nrk
+medium: tv
+credits:
+- person_id: 1063
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 762
+  role: actor
+- person_id: 1061
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 808
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 462
+  role: actor
+- person_id: 648
+  role: actor
+resources:
+- id: 392
+  url: https://archive.org/details/NRKTV-FTEA000065-AR-199405508
+  title: Bleikeplassen 13.12.1965
+  type: archive_fallback
+  description: 'Av Tarjei Vesaas. En roman skrevet i 1946, dramatisert for teater
+    av Vesaas i 1953. Nydramatisert for fjernsyn og instruert av Knut Thomassen. Handler
+    om Johan Tander som tror at ingen bryr seg om ham; de svarte tankene blir så sterke
+    at han blir farlig. I siste øyeblikk, før skredet løsner i hans sinn, får han
+    visshet om noen virkelig bryr seg om ham. Med frigjørelsen våkner bevissheten
+    av å ha dummet seg ut, dermed også trangen til å renvaske seg, til å sone, samme
+    hvor dyrt det måtte koste. Musikk: Gunnar Sønstevold. Dekor: Olav Ile. Kostyme:
+    Kari Bjørg Ile. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65001865
+    Uploader: tubeup.py'

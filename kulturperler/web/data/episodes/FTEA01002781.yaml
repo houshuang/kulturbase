@@ -1,0 +1,19 @@
+prf_id: FTEA01002781
+title: Kan du elske?
+description: 'En ung kvinnes opplevelse av andre mennesker som kommer henne nær, fortalt
+  i en egenartet visuell form. Av Cecilie Løveid. Musikk: Gunnar Sønstevold.'
+year: 1981
+duration_seconds: 3734
+image_url: https://gfx.nrk.no/9PL7AdNgp3mnucykdGhRrgxMYe14vUUcN3RCL3DMd_0Q
+nrk_url: https://tv.nrk.no/se?v=FTEA01002781
+play_id: 505
+performance_id: 536
+source: nrk
+medium: tv
+resources:
+- id: 378
+  url: https://archive.org/details/NRKTV-FTEA012781-AR-199103026
+  title: Kan du elske? 14.12.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA01002781
+    Uploader: tubeup.py'

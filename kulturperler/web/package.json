@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite dev",
-    "build": "vite build",
+    "build": "python3 scripts/build_database.py && vite build",
+    "build:db": "python3 scripts/build_database.py",
+    "validate": "python3 scripts/validate_data.py",
+    "query": "python3 scripts/query.py",
     "preview": "vite preview",
-    "sync-db": "cp ../data/kulturperler.db static/",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "keywords": [],

@@ -1,0 +1,25 @@
+prf_id: FTEA00000780
+title: Hele dager i trærne
+description: Mor og sønn møtes igjen etter mange års adskillelse. Moren har samlet
+  seg rikdommer i koloniene. Opprør truer morens rikdommer. Av Marguerite Duras
+year: 1980
+duration_seconds: 7421
+image_url: https://gfx.nrk.no/_PamV-4x2Ghx-XWy2Ox0ngCk1Sv5hTq8L5PvKmBkS2Jw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000780
+play_id: 533
+performance_id: 568
+source: nrk
+medium: tv
+resources:
+- id: 43
+  url: https://archive.org/details/NRKTV-FTEA00000780BU
+  title: Hele dager i trærne 14.10.1980 (Part 2)
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00000780
+    Uploader: tubeup.py'
+- id: 89
+  url: https://archive.org/details/NRKTV-FTEA00000780AU
+  title: Hele dager i trærne 14.10.1980 (Part 1)
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA00000780
+    Uploader: tubeup.py'

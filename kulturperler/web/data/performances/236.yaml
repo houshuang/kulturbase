@@ -1,0 +1,61 @@
+id: 236
+work_id: 231
+source: nrk
+title: Mørklegging
+description: En kjent filmprodusent blir skutt ned. Er det et vanlig mord, eller blir
+  han likvidert for sin forbindelse med tyskerne?
+total_duration: 5018
+image_url: https://gfx.nrk.no/17xIyViJZAcGGLAyqZE36QRPz3Bl_zcB9UlxRj7uku5A
+medium: radio
+series_id: moerklegging
+credits:
+- person_id: 1959
+  role: playwright
+- person_id: 1295
+  role: other
+- person_id: 1810
+  role: other
+- person_id: 1469
+  role: other
+- person_id: 1342
+  role: director
+- person_id: 1960
+  role: actor
+- person_id: 715
+  role: actor
+- person_id: 1961
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 940
+  role: other
+- person_id: 948
+  role: other
+- person_id: 669
+  role: other
+- person_id: 602
+  role: other
+- person_id: 137
+  role: other
+- person_id: 1239
+  role: director
+- person_id: 1517
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 602
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 482
+  role: other
+- person_id: 322
+  role: other
+- person_id: 431
+  role: other
+- person_id: 148
+  role: other
+- person_id: 1079
+  role: other

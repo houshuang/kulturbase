@@ -1,0 +1,27 @@
+prf_id: FTEA01000274
+title: Møte i parken
+description: En park vinterstid - uten benker, uten fugler, uten susende løv. To menn
+  nærmer seg hverandre - to menn med et felles ærend i en vinterpark... Av Peder Sjögren.
+year: 1974
+duration_seconds: 1326
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA01000274
+play_id: 622
+performance_id: 660
+source: nrk
+medium: tv
+credits:
+- person_id: 834
+  role: actor
+- person_id: 768
+  role: actor
+resources:
+- id: 40
+  url: https://archive.org/details/NRKTV-FTEA01000274-AR-199212197
+  title: Møte i parken 17.12.1974
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Møte i parken" av Peder Sjögren. En samarbeidsprosjekt
+    mellom Fjernsynsteatret og Underholdningsavdelingen. Instruktør: Bo Hermansson.
+    En park vinterstid - uten benker, uten fugler, uten susende løv. En grå kveld
+    i desember. To menn nærmer seg hverandre - to menn med et felles ærend i en vinterpark...
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA01000274 Uploader: tubeup.py'

@@ -1,0 +1,25 @@
+prf_id: FTEA00002082
+title: Gjøglerne kommer 2:2
+description: Monologer av Dario Fo. Forsvarsadvokaten, fremført av Frode Rasmussen,
+  og Vi har alle samme historie, fremført av Anne Marie Ottersen.
+year: 1982
+duration_seconds: 2910
+image_url: https://gfx.nrk.no/JI5Rw6XRmRcrdyWDmK7AdwaAqQvoKyNG8k8MzJT-w67g
+nrk_url: https://tv.nrk.no/se?v=FTEA00002082
+play_id: 508
+performance_id: 540
+source: nrk
+medium: tv
+resources:
+- id: 158
+  url: https://archive.org/details/NRKTV-FTEA002082-AR-199103021
+  title: Gjøglerne kommer 2:2 07.09.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA00002082
+    Uploader: tubeup.py'
+- id: 228
+  url: https://archive.org/details/NRKTV-FTEA002182-AR-199103019
+  title: Gjøglerne kommer 1:2 31.08.1982
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1982/FTEA00002182
+    Uploader: tubeup.py'

@@ -1,0 +1,31 @@
+prf_id: FTEA66002866
+title: Kontoristene
+description: Enakter av Murray Schisgal. Kontoristene Sylvia og Paul er i slutten
+  av 20-årene, med drømmer og ambisjoner i behold.
+year: 1966
+duration_seconds: 3678
+image_url: https://gfx.nrk.no/BYeNioFLxtJZSkmKfF1_8gzTO0AMdrzsIyjllRisXkCg
+nrk_url: https://tv.nrk.no/se?v=FTEA66002866
+play_id: 765
+performance_id: 814
+source: nrk
+medium: tv
+credits:
+- person_id: 540
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 235
+  url: https://archive.org/details/NRKTV-ftea000066-ar-199055323
+  title: Kontoristene 01.02.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser Nationaltheatrets forestilling "Kontoristene"
+    av Murray Schisgal. (The Typists). Skuespill fra 1963. Oversatt av Kirsten Sørlie.
+    Dekorasjon: Bjørn Næss. Enakter om ganske alminnelige mennesker og deres hverdagsliv
+    - kontoristene Sylvia og Paul. Vi følger dem fra de er i slutten av 20-årene,
+    med drømmer og ambisjoner i behold. Men ambisjonene blekner ettersom årene går
+    og håpløsheten trenger seg på. Det blir med drømmen om opprør, drømmen om å bryte
+    lenkene og enstonigheten. I rollene: Wenche Foss (Sylvia Payton), Henki Kolstad
+    (Paul Cunningham). Kirsten Sørlie debuterer som instruktør ved Fjernsynsteatret.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66002866 Uploader: tubeup.py'

@@ -1,0 +1,42 @@
+prf_id: FTEA00007669
+title: Pelikanen
+description: '"Alle vet hva jeg ofret for mine barn", sier moren. Men sønnen forteller
+  noe annet, bl.a. om en kvinne som ikke kjente omsorg for andre. Av August Strindberg.'
+year: 1969
+duration_seconds: 3588
+image_url: https://gfx.nrk.no/NzKmERiIUHhbC1zJ_4q1PgZquZcMAES1HSyrTsnJ03VA
+nrk_url: https://tv.nrk.no/se?v=FTEA00007669
+play_id: 689
+performance_id: 737
+source: nrk
+medium: tv
+credits:
+- person_id: 153
+  role: actor
+- person_id: 927
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 126
+  role: actor
+resources:
+- id: 290
+  url: https://archive.org/details/NRKTV-FTEA007669-AR-199311725
+  title: Pelikanen 13.01.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Pelikanen" av August Strindberg. Kammerspill
+    fra 1907. Oversatt av Hans Heiberg. Dekor: Christian Egemar. "Alle vet hva jeg
+    ofret for mine barn", sier moren. Men sønnen forteller noe annet. Om en kvinne
+    som ikke kjente omsorg for andre, som går på fest når hennes barn er sykt, som
+    har en hensikt i sitt samvær med andre - å vekke behag. Som har ett mål med sin
+    eksistens - å bevare skjønnheten. Stykket avslører i det ytre en grufull familiesituasjon,
+    men også adskillig mer. Det forteller om hvordan hvert enkelt individ oppfatter
+    de andre omkring seg ut fra sin egen situasjon, virkeligheten former seg for dem
+    som et speilbilde av deres egne tanker. Men de vet det ikke selv. Og den dagen
+    hver av dem kan se inn i de andres virkelighet og se seg selv i lys av den, blir
+    katastrofens dag. De som er med: Helen Brinchmann (Moren), Ragnhild Michelsen
+    (Margret), Tone Schwarzott (Datteren), Nils Ole Oftebro (Sønnen), Arne Aas (Svigersønnen).
+    Musikk: Gunnar Sønstevold. Instruktør: Hans Dahlin. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00007669
+    Uploader: tubeup.py'

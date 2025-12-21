@@ -1,0 +1,18 @@
+prf_id: FTEA00003484
+title: Fjernsynsteater i Nordvisjonen
+description: En kavalkade over 25 års utveksling og samarbeid.
+year: 1984
+duration_seconds: 2434
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00003484
+play_id: 478
+performance_id: 507
+source: nrk
+medium: tv
+resources:
+- id: 49
+  url: https://archive.org/details/NRKTV-FTEA00003484AU
+  title: Fjernsynsteater i Nordvisjonen 14.11.1984
+  type: archive_fallback
+  description: 'En kavalkade over 25 års utveksling og samarbeid. Source: https://tv.nrk.no/serie/fjernsynsteatret/1984/FTEA00003484
+    Uploader: tubeup.py'

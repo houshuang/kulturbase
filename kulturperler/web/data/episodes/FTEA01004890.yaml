@@ -1,0 +1,19 @@
+prf_id: FTEA01004890
+title: Sett fra Prøysenstua
+description: Foran forestillingene "Den blåkoppen" og "Blommer på bar mark" fra samlingen
+  "Ut på livets vei". Av Alf Prøysen. Samtale med Svein Erik Brodal.
+year: 1990
+duration_seconds: 515
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA01004890
+play_id: 405
+performance_id: 419
+source: nrk
+medium: tv
+resources:
+- id: 400
+  url: https://archive.org/details/NRKTV-FTEA014890-AR-199049691
+  title: Sett fra Prøysenstua 17.12.1990
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestillinger i morgen kveld og 1. juledag.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004890 Uploader: tubeup.py'

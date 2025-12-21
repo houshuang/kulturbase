@@ -1,0 +1,23 @@
+id: 719
+work_id: 675
+source: nrk
+year: 1970
+title: Vellykket liv for 3
+description: En eldre mann, en ung mann og en ung kvinne. De to siste gifter seg,
+  men kvinnen skifter mellom dem. En komedie menneskers trivielle, formålsløse liv.
+total_duration: 2928
+image_url: https://gfx.nrk.no/A0RoYmORDS2TKzYXtr1Y-Q576QRT-JCp-kGNqTwnpeWQ
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 960
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 745
+  role: actor
+- person_id: 325
+  role: actor
+- person_id: 775
+  role: actor

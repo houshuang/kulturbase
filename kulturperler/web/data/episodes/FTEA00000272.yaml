@@ -1,0 +1,59 @@
+prf_id: FTEA00000272
+title: Kong Oidipus
+description: Kong Laios får vite av oraklet i Delfi at han skal få en sønn som kommer
+  til å drepe ham. Av den greske tragediedikter Sofokles.
+year: 1972
+duration_seconds: 3604
+image_url: https://gfx.nrk.no/p0RcPmQkEZAfDe46CgaKsAF_5BnKoATngkO1-f0L-kGw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000272
+play_id: 661
+performance_id: 703
+source: nrk
+medium: tv
+credits:
+- person_id: 735
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 927
+  role: actor
+- person_id: 888
+  role: actor
+- person_id: 890
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 928
+  role: actor
+- person_id: 118
+  role: actor
+- person_id: 902
+  role: actor
+- person_id: 895
+  role: actor
+- person_id: 858
+  role: actor
+resources:
+- id: 447
+  url: https://archive.org/details/NRKTV-FTEA000272-AR-199310340
+  title: Kong Oidipus 29.02.1972
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Kong Oidipus" av den greske tragediedikter
+    Sofokles. Til norsk ved Eirik Vandvik. Musikk: Gunnar Sønstevold. Dekorasjon og
+    kostymer: Nils Svenwall. Kong Laios i byen Theben fekk ikkje born med kona si,
+    Iokaste. Han rådspurde oraklet i Delfi og fekk veta at han skulle få ein son som
+    skulle koma til å drepe han. Då barnet var fødd, let Laios det bere ut i ville
+    fjell, men ein gjetar fann barnet og førde det til kong Polybos i Korint. Og hjå
+    han voks det opp under namnet Oidipus. Sjøl trudde Oidipus at Polybus var rette
+    far hans, og då oraklet ein gong spådde at han skulle drepe faren og avle barn
+    med mora, rømde han frå Korint og drog til Theben, der orakelorda vart sanna.
+    Soga dannar bakgrunnen for Sofokles sitt drama. Dei som er med: Joachim Calmeyer
+    (Oidipus), Helen Brinchmann (Iokaste), Finn Kvalem (Kreon), Kolbjørn Buøen (Teiresias),
+    Ingolf Rogde (Ein gammal prest), Gisle Straume (Bodbringaren frå Korint), Stig
+    Egede-Nissen (Ein gjetar), Thomas Fasting (Korføraren), Helga Backe, Marit Østbye,
+    Paal Hangeraas og Einar Wenes (Koret). Instruktør: Hans Dahlin. Source: https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00000272
+    Uploader: tubeup.py'

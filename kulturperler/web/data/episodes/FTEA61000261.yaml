@@ -1,0 +1,34 @@
+prf_id: FTEA61000261
+title: Mester Pierre Pathelin
+description: Mester Pathelin narrer kleshandleren ved hjelp av sin veltalenhet og
+  lureri, men blir til slutt selv lurt av gjeteren.
+year: 1961
+duration_seconds: 3968
+image_url: https://gfx.nrk.no/-R5teg6RPcyNLQkK8YNZzAR7I9H4KjukZLMmJZk9s9gw
+nrk_url: https://tv.nrk.no/se?v=FTEA61000261
+play_id: 843
+performance_id: 896
+source: nrk
+medium: tv
+credits:
+- person_id: 1119
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 973
+  role: actor
+resources:
+- id: 6
+  url: https://archive.org/details/NRKTV-FTEA61000261-AR-199206068
+  title: Mester Pierre Pathelin 26.12.1961
+  type: archive_fallback
+  description: 'Middelalderkomedie for hele familien fra det 14. århundre av ukjent
+    forfatter. Oversatt av Karen Lisa Castberg. Instruktør: Alfred Solaas. Originalkomponert
+    musikk av Pauline Hall. Mester Pathelin narrer kleshandleren ved hjelp av sin
+    veltalenhet og lureri, men blir til slutt selv lurt av gjeteren. I rollene: Per
+    Gjersøe (Mester Pierre Pathelin, sakfører), Rolf Berntzen (Guillaume Joceaulme,
+    kleshandler), Per Bronken (Thibault l''Agnelet, gjeter), Carl Struve (Dommeren)
+    og Synnøve Gleditsch (Giullemette, Pathelins kone). Sendt i Fjernsynsteatret.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000261 Uploader: tubeup.py'

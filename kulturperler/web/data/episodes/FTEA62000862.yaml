@@ -1,0 +1,33 @@
+prf_id: FTEA62000862
+title: Bessie Smiths død
+description: Drama av Edward Albee om rasisme i det sørlige USA. Den svarte sangerinnen
+  Bessie Smith omkommer etter en bilulykke fordi et sykehus for hvite avviser henne.
+year: 1962
+duration_seconds: 3421
+image_url: https://gfx.nrk.no/RhJcDo5zrxqzAXn_iO80DAOvqH4GLuA4yeGxJ6MRUlMg
+nrk_url: https://tv.nrk.no/se?v=FTEA62000862
+play_id: 826
+performance_id: 879
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 1134
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 113
+  url: https://archive.org/details/NRKTV-FTEA62000862-AR-199416110
+  title: Bessie Smiths død 27.09.1962
+  type: archive_fallback
+  description: 'Av den amerikanske forfatteren Edward Albee. Drama om rasisme i det
+    sørlige USA. Den svarte sangerinnen Bessie Smith omkommer etter en bilulykke fordi
+    et sykehus for hvite avviser henne. Gjennom en parallell handling i en hospitalresepsjon
+    beskrives de hvite rasistenes karaktertype, en dominant sykesøster av gammel godsfamilie
+    splitter og hersker over sine underordnede. Oversatt av Finn Havrevold. Dekor:
+    Olav Ile. Instruktør: Knut Thomassen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62000862
+    Uploader: tubeup.py'

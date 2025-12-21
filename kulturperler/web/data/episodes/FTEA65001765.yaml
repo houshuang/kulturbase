@@ -1,0 +1,33 @@
+prf_id: FTEA65001765
+title: Noe å glede seg til
+description: Den ensomme tømmermannen sitter på en pub i en havneby og forteller om
+  sitt mislykkede liv. Av Gunnar Bull Gundersen.
+year: 1965
+duration_seconds: 2730
+image_url: https://gfx.nrk.no/RdolhhXjeCIbqBZZA4uMSAWhCqLuvMgOLeXngo-18tAw
+nrk_url: https://tv.nrk.no/se?v=FTEA65001765
+play_id: 782
+performance_id: 832
+source: nrk
+medium: tv
+credits:
+- person_id: 834
+  role: actor
+- person_id: 1055
+  role: actor
+- person_id: 304
+  role: actor
+resources:
+- id: 56
+  url: https://archive.org/details/NRKTV-FTEA65001765-AR-199405116
+  title: Noe å glede seg til 02.02.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Noe å glede seg til - et spill for en nesten
+    helt edru mann" av Gunnar Bull Gundersen. Stykket er skrevet spesielt for Fjernsynsteatret.
+    Dekorasjon: Bjørn Næss. Den ensomme tømmermannen sitter på en pub i en havneby
+    og snakker til kameraten - en innbilt ung kollega, mens pubverten står som en
+    robot bak disken og skjenker øl og whiskey. Tømmermannen forteller om sitt liv,
+    sitt mislykkede liv, om brevvekslingen han fører med seg selv, og andre patetiske
+    betraktninger om livet. I rollene: Carsten Byhring (Tømmermannen), Hans Stormoen
+    (Pubverten), Jon Eikemo (Gutten). Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65001765
+    Uploader: tubeup.py'

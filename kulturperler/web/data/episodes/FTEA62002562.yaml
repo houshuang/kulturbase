@@ -1,0 +1,32 @@
+prf_id: FTEA62002562
+title: Ett pund kontant
+description: Drama av Sean O'Casey. Gjestespill fra Lilla Teatern, Helsinki. Enakter
+  som skildrer to fyllikers eskapader på et offentlig postkontor.
+year: 1962
+duration_seconds: 1574
+image_url: https://gfx.nrk.no/qEBwPag4FGm0aUGLEdZAMwLDdn7dMeddkNGSPWv6TFzQ
+nrk_url: https://tv.nrk.no/se?v=FTEA62002562
+play_id: 841
+performance_id: 894
+source: nrk
+medium: tv
+credits:
+- person_id: 1148
+  role: actor
+- person_id: 1149
+  role: actor
+- person_id: 1150
+  role: actor
+- person_id: 1140
+  role: actor
+resources:
+- id: 402
+  url: https://archive.org/details/NRKTV-FTEA000062-AR-199416091
+  title: Ett pund kontant 11.01.1962
+  type: archive_fallback
+  description: 'Drama av den irske forfatteren Sean O''Casey. Gjestespill fra Lilla
+    Teatern, Helsinki. Fra oppførelse i Centralteatret i Oslo. Enakter som skildrer
+    to fyllikers eskapader på et offentlig postkontor. I rollene: Ingrid Söderblom
+    (jenta), Lasse Pöysti (Jerry, arbeiderI, Stig Järrel (Sammy, arbeider) og Gustav
+    Wiklund (politi). Sendt i Fjernsynsteatret. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62002562
+    Uploader: tubeup.py'

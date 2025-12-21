@@ -1,0 +1,19 @@
+prf_id: FTEA00005690
+title: På vinterveien
+description: En pike oppsøker en arbeidskamerat som er kommet i vanskeligheter og
+  ikke vil ha kontakt med noen. Hun føler seg litt skyldig i det som har skjedd.
+year: 1990
+duration_seconds: 3515
+image_url: https://gfx.nrk.no/k7aG4XSm5IfXpmS8yAIllwmrtQlM_4A2UB1c3imNKSVg
+nrk_url: https://tv.nrk.no/se?v=FTEA00005690
+play_id: 408
+performance_id: 422
+source: nrk
+medium: tv
+resources:
+- id: 154
+  url: https://archive.org/details/NRKTV-FTEA005690-AR-199305373
+  title: På vinterveien 27.11.1990
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00005690
+    Uploader: tubeup.py'

@@ -1,0 +1,47 @@
+prf_id: FTEA00002467
+title: Den lange reisen hjem
+description: Av Eugene O'Neill. På en skitten havnekneipe samles lyssky individer
+  som har gitt opp håpet. Unntaket er sjømannen Olson som vil ut av dette livet.
+year: 1967
+duration_seconds: 1619
+image_url: https://gfx.nrk.no/LDRC53I-Z58cXCk_7ThmVQH8Y7i5vhGNiws_HRKRabQA
+nrk_url: https://tv.nrk.no/se?v=FTEA00002467
+play_id: 729
+performance_id: 778
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 834
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 1041
+  role: actor
+- person_id: 955
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 748
+  role: actor
+resources:
+- id: 411
+  url: https://archive.org/details/NRKTV-FTEA002467-AR-199001020
+  title: Den lange reisen hjem 05.12.1967
+  type: archive_fallback
+  description: 'Drama av Eugene O''Neill, oversatt av Sigbjørn Hølmebakk. Et realistisk
+    stykke fra havnemiljø. Fire fulle sjøfolk kommer inn på en skitten havnekneipe.
+    Dette er et samlingssted for mer eller mindre lyssky individer som har gitt opp
+    håpet. Unntaket er sjømannen Olson som vil ut av dette livet, og starte på nytt
+    som bonde. Ironisk er det at det er han som blir dopet, ranet og ''''shang-haiet''''.
+    I hovedrollene: Rolf Søder (Olson), Carsten Byhring (Feite Joe), Roy Bjørnstad
+    (Nick), Bab Christensen (Mag) og William Nyren (Driscoll). Dekor: Gunnar Alme.
+    Instruktør: Sverre Udnæs. Sendt i Fjernsynsteatret. Source: https://tv.nrk.no/serie/fjernsynsteatret/1967/FTEA00002467
+    Uploader: tubeup.py'

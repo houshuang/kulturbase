@@ -1,0 +1,33 @@
+prf_id: FTEA00003168
+title: Hilsen fra Bertha
+description: Historien om det dramatiske livet til en syk prostituert på et snuskete
+  bordell, der jungelens lov hersker. Av Tennessee Williams.
+year: 1968
+duration_seconds: 1644
+image_url: https://gfx.nrk.no/RgAo_kj3Jh5yZrWLbJMApgkkUk6Dprjm9N3JUecWpboA
+nrk_url: https://tv.nrk.no/se?v=FTEA00003168
+play_id: 713
+performance_id: 761
+source: nrk
+medium: tv
+credits:
+- person_id: 995
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 1017
+  role: actor
+- person_id: 1028
+  role: actor
+resources:
+- id: 412
+  url: https://archive.org/details/NRKTV-FTEA003168-AR-199314030
+  title: Hilsen fra Bertha 10.09.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Hilsen fra Bertha" av Tennessee Williams.
+    Oversatt av Helge Hagerup. Stykket forteller historien om det dramatiske livet
+    til en syk prostituert i et snuskete bordell, der jungelens lov hersker. Situasjonen
+    avspeiler nødsårene i USA etter krakket i 1929. I rollene: Lise Fjeldstad (Bertha),
+    Inger-Lise Westby (Goldie), Michaela Spandow (Lena) og Live Hov (en pike). Instruktør:
+    Jon Heggedal. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00003168
+    Uploader: tubeup.py'

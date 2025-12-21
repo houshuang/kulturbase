@@ -1,0 +1,51 @@
+prf_id: FTEA61000461
+title: Frisøndag
+description: Stykket handler om en middelaldrende husmor som forlater mann og barn
+  for en dag. Og om familiens reaksjon og skyldfølelse. Av Leck Fischer.
+year: 1961
+duration_seconds: 4924
+image_url: https://gfx.nrk.no/saSIZiELpwUZ6ZvQZN55GQZ0oVqDUoZp9sVJFR7TFDYw
+nrk_url: https://tv.nrk.no/se?v=FTEA61000461
+play_id: 855
+performance_id: 908
+source: nrk
+medium: tv
+credits:
+- person_id: 1069
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 658
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 1106
+  role: actor
+- person_id: 237
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 446
+  role: actor
+- person_id: 447
+  role: actor
+- person_id: 462
+  role: actor
+- person_id: 816
+  role: actor
+resources:
+- id: 37
+  url: https://archive.org/details/NRKTV-FTEA61000461-AR-199416135
+  title: Frisøndag 09.03.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Frisøndag" av Leck Fischer. Oversatt av Magne
+    Soone. Stykket handler om en middelaldrende husmor som forlater mann og barn for
+    en dag. Og om familiens reaksjon, og skyldfølelse. I rollene: Jack Fjeldstad (Faren),
+    Tom Tellefsen (Benny), Urda Arneberg (Ida), Kjetil Bang-Hansen (Lars), Ragnhild
+    Michelsen (Marie, moren), Gunnar Olram (Christian, en krovert), Gudrun Waadeland
+    (Meta, en serveringsdame), Ola B. Johannessen (Forvalteren), Wenche Medbøe (Minna,
+    en ung kvinne), Kari Simonsen (Vera), Arne Riis (Veras venn), Siri Rom (Blondinen).
+    Instruktør: Arild Brinchmann. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000461
+    Uploader: tubeup.py'

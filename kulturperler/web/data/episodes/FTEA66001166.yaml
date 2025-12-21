@@ -1,0 +1,43 @@
+prf_id: FTEA66001166
+title: Kom tilbake, lille Sheba
+description: Om et ektepar i førtiårene, hvor mannen og kona har hver sin kamp å holde
+  ut i, men ingen av dem forstår så mye av den andres påkjenninger. Av William Inge.
+year: 1966
+duration_seconds: 5573
+image_url: https://gfx.nrk.no/BLEgYoUKZ8d3an8yXPYC4A3ucnAJYWNJ9ES7SBHsNZOQ
+nrk_url: https://tv.nrk.no/se?v=FTEA66001166
+play_id: 751
+performance_id: 800
+source: nrk
+medium: tv
+credits:
+- person_id: 1056
+  role: actor
+- person_id: 891
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 186
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 648
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 26
+  url: https://archive.org/details/NRKTV-FTEA66001166-AR-199318109
+  title: Kom tilbake, lille Sheba 01.11.1966
+  type: archive_fallback
+  description: 'Fjernsynsteater om et ektepar i førtiårene, hvor mannen og kona har
+    hver sin kamp å holde ut i, men ingen av dem forstår så mye av den andres påkjenninger.
+    I hovedrollene: Wenche Foss og Rolf Søder. Stykket er skrevet av den amerikanske
+    dramatikeren William Inge og oversatt av Hans Heiberg. Instruktør er Jan Bull.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66001166 Uploader: tubeup.py'

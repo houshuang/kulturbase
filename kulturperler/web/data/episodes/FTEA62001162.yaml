@@ -1,0 +1,39 @@
+prf_id: FTEA62001162
+title: Julia Harrington
+description: Drama av Sidney Carroll. Teaterprodusenten Weber ønsker å få den gamle
+  skuespillerinnen Julia Harrington til rollen som gammel, utbrent grevinne.
+year: 1962
+duration_seconds: 3364
+image_url: https://gfx.nrk.no/qXoIgdRLKE3Zn1bTzumDiQeG_3sJAX_Aw-VZOQ1c0bcA
+nrk_url: https://tv.nrk.no/se?v=FTEA62001162
+play_id: 835
+performance_id: 888
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 1091
+  role: actor
+- person_id: 1090
+  role: actor
+- person_id: 1138
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 74
+  url: https://archive.org/details/NRKTV-FTEA62001162-AR-199206084
+  title: Julia Harrington 25.04.1962
+  type: archive_fallback
+  description: 'Drama av Sidney Carroll. Orig. tittel: "Catch a falling star". Oversatt
+    og instruert av Jon Lennart Mjøen. Dekor: Olav Ile. Teaterprodusenten Weber ønsker
+    å få den gamle skuespillerinnen Julia Harrington til rollen som gammel, utbrent
+    grevinne. Julia lever på sultegrensen, hver av hennes bevegelser er et skuespill.
+    Forfatteren Hanley ønsker ikke å ydmyke den gamle stjernen. I rollene: Lillebil
+    Ibsen (Julia Harrington), Arne Lie (George Hanley), Gisle Straume (Benjamin Weber),
+    Urda Arneberg (Jo Hanley), Otto Lundh (Reilly) og Inge Nagelstad (Miss Palumbo).
+    Sendt i Fjernsynsteatret. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62001162
+    Uploader: tubeup.py'

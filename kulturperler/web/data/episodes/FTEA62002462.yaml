@@ -1,0 +1,51 @@
+prf_id: FTEA62002462
+title: Velkomstmiddag
+description: Cecilia kommer hjem fra Spania. Moren Maria holder selskap og treffer
+  igjen Henrik som hun skulle ha barn med. Av Birgit Linton-Malmfors.
+year: 1962
+duration_seconds: 3623
+image_url: https://gfx.nrk.no/wt00bWeKuGQpgD3Eccgq7gZSkSgVSGGLuY013geWYnxA
+nrk_url: https://tv.nrk.no/se?v=FTEA62002462
+play_id: 824
+performance_id: 877
+source: nrk
+medium: tv
+credits:
+- person_id: 606
+  role: actor
+- person_id: 1129
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 1046
+  role: actor
+- person_id: 1131
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 1033
+  role: actor
+- person_id: 1133
+  role: actor
+resources:
+- id: 46
+  url: https://archive.org/details/NRKTV-FTEA62002462-AR-199416124
+  title: Velkomstmiddag 25.10.1962
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Velkomstmiddag" av Birgit Linton-Malmfors.
+    Oversatt av Sigbjørn Hølmebakk. Dekorasjon: Olav Ile. Handlingen foregår omkring
+    et middagsselskap en mor gir for sin datter, og hvor småbyens sosietet danner
+    rammen og bakgrunn for kjærlighetshistorien. Mor - datter - stefar - tre ensomme
+    mennesker som har vilje, ikke evne, til å hjelpe hverandre. Cecilia kommer hjem
+    fra Spania. Moren Maria holder selskap og treffer igjen Henrik som hun skulle
+    ha barn med. Hun lider av depresjoner etter en abort, men lærer at man ikke trenger
+    å være lykkelig. I rollene: Else Heiberg (Maria, moren), Sverre Hansen (Gustav,
+    sorenskriver, stefar), Henny Moan (Cecilia), Wenche Fæhn (Ingrid), Tor Stokke
+    (Henrik), Astri Jacobsen (Agda, oberstens frue), Toralf Sandø (Sven, oberst),
+    Maria Flood (Fru Hellgren), Bernt Erik Larsen (Åke), Leif Enger (Herr Hallgren).
+    Instruktør: Gerhard Knoop. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62002462
+    Uploader: tubeup.py'

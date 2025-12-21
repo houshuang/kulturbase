@@ -1,0 +1,19 @@
+prf_id: FTEA00006390
+title: Pass godt på hodene - slipp ikke taket
+description: En musikalsk cabaret til 12 dikt av Rolf Jacobsen, sunget og lest av
+  Tone Danielsen.
+year: 1990
+duration_seconds: 1791
+image_url: https://gfx.nrk.no/YBYZBtcLJ7PpkfS97KWX2gYvkkEbFCyWoVYbGcKkwHrA
+nrk_url: https://tv.nrk.no/se?v=FTEA00006390
+play_id: 401
+performance_id: 415
+source: nrk
+medium: tv
+resources:
+- id: 138
+  url: https://archive.org/details/NRKTV-FTEA006390-AR-199305375
+  title: Pass godt på hodene - slipp ikke taket 26.12.1990
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00006390
+    Uploader: tubeup.py'

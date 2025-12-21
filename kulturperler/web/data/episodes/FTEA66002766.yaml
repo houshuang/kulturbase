@@ -1,0 +1,42 @@
+prf_id: FTEA66002766
+title: Den amerikanske drøm
+description: Komedie av Edward Albee. Om menneskets evne til å gjøre tilværelsen tom
+  og fjollet. Mamma og pappa sitter i sine lenestoler, og klager på det meste.
+year: 1966
+duration_seconds: 4184
+image_url: https://gfx.nrk.no/GVmB9lry9mdzCI7Z5SDjTQ_H9xnZ6KPRnLKITvicS2cw
+nrk_url: https://tv.nrk.no/se?v=FTEA66002766
+play_id: 760
+performance_id: 809
+source: nrk
+medium: tv
+credits:
+- person_id: 756
+  role: actor
+- person_id: 566
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 996
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 426
+  url: https://archive.org/details/NRKTV-FTEA662766-AR-199316248
+  title: Den amerikanske drøm 31.05.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den amerikanske drøm" av Edward Albee. (The
+    American Dream). Oversatt av Finn Havrevold. Dekorasjon: Erik Hagen. Mamma og
+    pappa sitter i sine lenestoler, på hver sin side av stuen. De klager. Og klager.
+    De besøkende kommer for sent. Mamma forteller om sitt kjøp av en beige hatt -
+    ikke en hvetefarget, og den er hun fornøyd med. Men det er likevel mye å klage
+    over. Komedien handler om menneskets evne til å gjøre tilværelsen tom og fjollet.
+    Istedenfor levende verdier holder vi oss til tomme ritualer - men det gir ikke
+    noen stakkars sjel næring, og derfor visner sjelens krefter, og uten krefter,
+    ingen følelser, og uten følelser ingen hukommelse, ingen personlighet og derfor
+    heller ingen vilje til et bestemt liv, og ingen tanker om fremtiden. Således dør
+    det skapende aktive menneske. I rollene: Ragnhild Michelsen (Mams), Arne Bang-Hansen
+    (Paps), Ada Kramm (Mammo), Elsa Lystad (Fru Baker), Johan Holst (Ung mann). Instruktør:
+    Tom Segerberg. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66002766
+    Uploader: tubeup.py'

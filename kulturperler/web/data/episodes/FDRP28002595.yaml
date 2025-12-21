@@ -1,0 +1,34 @@
+prf_id: FDRP28002595
+title: Den siste amerikaner
+description: To ektemenn, som ikke kjenner hverandre, besøker sine hustruer på et
+  psykiatrisk sykehus. Parene kommer i kontakt med hverandre. Av Arthur Miller.
+year: 1995
+duration_seconds: 4826
+image_url: https://gfx.nrk.no/2xqndibHSRUjfQiJvmePIw3Pp33UVEueNQ-V2f_iBYHQ
+nrk_url: https://tv.nrk.no/se?v=FDRP28002595
+play_id: 352
+performance_id: 360
+source: nrk
+medium: tv
+credits:
+- person_id: 73
+  role: actor
+- person_id: 56
+  role: actor
+- person_id: 74
+  role: actor
+- person_id: 75
+  role: actor
+- person_id: 76
+  role: actor
+resources:
+- id: 209
+  url: https://archive.org/details/NRKTV-FDRP282595-AR-199700045
+  title: Den siste amerikaner 24.09.1995
+  type: archive_fallback
+  description: 'Et skuespill av Arthur Miller. To ektemenn, som ikke kjenner hverandre,
+    besøker sine hustruer på et psykiatrisk sykehus. Mennene møter sine koner, og
+    de to parene kommer i kontakt med hverandre. Instruktør: Aksel-Otto Bull. Fjernsynsregi:
+    Roald Øyen. I rollene medvirker Sverre Røssummoen, Janny Hoff Brekke, Lothar Lindtner,
+    Grete Nordrå og Helga Mjeldheim. Overføring fra Den Nationale Scene i Bergen.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1995/FDRP28002595 Uploader: tubeup.py'

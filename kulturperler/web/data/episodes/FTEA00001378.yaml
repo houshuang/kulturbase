@@ -1,0 +1,52 @@
+prf_id: FTEA00001378
+title: Hotell Tajgaen
+description: Fotballgale Potapov trenger seg inn på en dames hotellrom for å få med
+  seg overføring av en kamp. Hotelldirektøren, en maktglad byråkrat, kaster ham ut.
+year: 1978
+duration_seconds: 3100
+image_url: https://gfx.nrk.no/zFvdsNkt7HNqfXOtoo20VQ8Sh_R33su1e74Ie9M_7DlA
+nrk_url: https://tv.nrk.no/se?v=FTEA00001378
+play_id: 563
+performance_id: 599
+source: nrk
+medium: tv
+credits:
+- person_id: 768
+  role: actor
+- person_id: 523
+  role: actor
+- person_id: 511
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 769
+  role: actor
+- person_id: 751
+  role: actor
+resources:
+- id: 206
+  url: https://archive.org/details/NRKTV-FTEA001378-AR-199203875
+  title: Hotell Tajgaen 05.09.1978
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Hotell Tajgaen" av Aleksandr Vampilov. Oversatt
+    fra svensk av Mimi Omdahl. Sminke: Kari Lie. Kostymer: Knut Bryn. Dekorasjoner:
+    Kjell Haldaas. Med skarp og generøs humor tegner Vampilov sin lille moralitet
+    og setter narraktighet i latterlig relieff, som en god komedie bør. Det rettes
+    skyts mot menneskenes respekt og frykt for autoriteter og en av hovedpersonene,
+    som hundset de små men krøp for de store. Sted: Tajgaen, et hotell i en russisk
+    provins. Fotballgale Potapov trenger seg inn på Viktorias værelse. Han gjør det
+    bare for å få med seg en radiooverføring av en fotballkamp. Hotelldirektør Kalosjin,
+    en maktglad byråkrat, tillegger ham andre hensikter og viser ham døren mens han
+    siterer hotellets reglement. I alminnelighet er Potapov en ydmyk og høflig mann,
+    i fotballopphissede stunder en pøbel - som nå ser seg konfrontert med en større
+    pøbel. På sitt hotell er Kalosjin like mektig som en regjeringssjef, og er ikke
+    vant til opposisjon. Han farer opp og Potapov blir kastet ut. Men Potapov er del
+    av et hierarki, der alle får sin makt av andre, hvilket vil si at ingen har makt
+    ved seg selv. At det følger en dyp usikkerhet ved dette systemet, får Kalosjin
+    erfare. Og når lovens (og moralens) vokter, som forbød adgang til Viktorias værelse,
+    selv havner i frøkenens seng, får han sitt miserable ekteskap med innbygd hanrei-status
+    blottlagt for allverden og de nærmeste. De som er med: Carsten Winger (Hotelldirektør
+    Borja Kalosjin), Roy Bjørnstad (Potapov), Thorleif Reiss (legen Rukosujev), Øivind
+    Blunck (Kamajev), Lillian Lydersen (kona Marina), Eva Opaker (Viktoria). Instruktør:
+    Per Christensen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00001378
+    Uploader: tubeup.py'

@@ -1,0 +1,35 @@
+prf_id: FTEA00000577
+title: Det var engang
+description: Ekteparet Deeley og Kate venter besøk av Kates venninne. Under besøket
+  rippes det opp i gamle hendelser. Av Harold Pinter.
+year: 1977
+duration_seconds: 3456
+image_url: https://gfx.nrk.no/zLTGdUEvNuaT7V2yglbbnQeZWBfNLlQuSl_ZuFu20dAw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000577
+play_id: 577
+performance_id: 613
+source: nrk
+medium: tv
+credits:
+- person_id: 116
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 805
+  role: actor
+resources:
+- id: 220
+  url: https://archive.org/details/NRKTV-FTEA000577-AR-199204170
+  title: Det var engang 04.10.1977
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Det var engang" av Harold Pinter. (Old Times,
+    1971). Oversatt av Bjørn Endreson. Sminke: Kari Lie. Kostymer: Mabi Helweg. Dekorasjoner:
+    Kjell Haldaas. I det rent ytre handler stykket om et ektepar i et nybygd våningshus
+    på landet. Deeley og Kate. De venter besøk av en venninne av konen. De to kvinnene
+    har ikke sett hverandre på femten år, og det er lang tid. Venninnen kommer, og
+    så prøver de tre å lage en fest. Men gjennom dialogen ripper de opp i noe som
+    hendte for lenge siden og som de helst har villet glemme. Det gjør at hver og
+    en går fra konseptene. Festen utvikler seg til et mareritt. De som er med: Ole-Jørgen
+    Nilsen (Deeley), Jorunn Kjellsby (Kate), Ragnhild Hilt (Anna, venninnen). Musikk:
+    Egil Kapstad. Instruktør: Per Christensen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00000577
+    Uploader: tubeup.py'

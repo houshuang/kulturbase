@@ -1,0 +1,58 @@
+prf_id: FTEA64001264
+title: Minne om to mandager
+description: Et støvet verksted i Brooklyn, New York, i 1930-årene. En ung mann drømmer
+  om college og utdanning. Av Arthur Miller.
+year: 1964
+duration_seconds: 4976
+image_url: https://gfx.nrk.no/qlbZIYEa_2kwx2bVa6G0awniQoyqHyFaFifh6nvM1p4w
+nrk_url: https://tv.nrk.no/se?v=FTEA64001264
+play_id: 795
+performance_id: 846
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 1031
+  role: actor
+- person_id: 806
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 356
+  role: actor
+- person_id: 1104
+  role: actor
+- person_id: 715
+  role: actor
+- person_id: 1100
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 509
+  role: actor
+- person_id: 1094
+  role: actor
+- person_id: 748
+  role: actor
+resources:
+- id: 75
+  url: https://archive.org/details/NRKTV-FTEA64001264-AR-199206087
+  title: Minne om to mandager 02.04.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Minne om to mandager" av Arthur Miller. (A
+    Memory of Two Mondays). Oversatt av Alex Kielland. Dekorasjon: Olav Ile. Tid:
+    1930-årene. Sted: Et støvet verksted i Brooklyn, New York. En ung mann drømmer
+    om college og utdanning blant folk som snubler seg gjennom hverdagen og arbeidsdagen
+    i en dis av håpløshet og fortvilelse. Alle har sine drømmer, men innerst inne
+    vet de at ingen av deres drømmer noen gang vil gå i oppfyllelse. I rollene: Hans
+    Marius Stormoen (Bert), Alf Malland (Raymond), Evy Engelsborg (Agnes), Inger Teien
+    (Patricia), Egil Hjorth-Jenssen (Gus), Vegard Hall (Jim), Knut Risan (Kenneth),
+    Thor Hjorth-Jenssen (Larry), Roy Bjørnstad (Frank), Gerhard Bjelland (Jerry),
+    Jan Skullerud (Willy), Frimann Falck Clausen (Tom), William Nyrén (Mekanikeren),
+    Arne Lie (Eagle). Instruktør: Gerhard Knoop. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64001264
+    Uploader: tubeup.py'

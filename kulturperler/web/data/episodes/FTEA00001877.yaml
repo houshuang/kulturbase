@@ -1,0 +1,31 @@
+prf_id: FTEA00001877
+title: I dyrehagen
+description: 'Et tilfeldig møte mellom to menn: Trampen Jerry møter konformisten Peter.
+  Den springende samtalen de kommer til å føre røper deres desperate ensomhet.'
+year: 1977
+duration_seconds: 2684
+image_url: https://gfx.nrk.no/hER2VGDIbZXS6Xwnb7HcQQIe8ij3jNGGprg8pcCjTOmg
+nrk_url: https://tv.nrk.no/se?v=FTEA00001877
+play_id: 561
+performance_id: 597
+source: nrk
+medium: tv
+credits:
+- person_id: 253
+  role: actor
+- person_id: 515
+  role: actor
+resources:
+- id: 262
+  url: https://archive.org/details/NRKTV-FTEA001877-AR-199203887
+  title: I dyrehagen 24.10.1978
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "I dyrehagen" av den amerikanske dramatikeren
+    Edward Albee. (The Zoo Story, 1958). Oversatt av Jon Lennart Mjøen. Et gruppearbeid
+    ved Åse Vikene (dramaturg), Otto Valsø (fotograf), Finn Kvalem og Bentein Baardson
+    (skuespillere). Stykket er en enakter og en dialog. Et tilfeldig møte mellom to
+    menn i Central Park i New York: Trampen Jerry møter konformisten Peter, og den
+    springende samtalen de kommer til å føre, røper deres desperate ensomhet. Scenen
+    for denne norske versjonen er Tøyenparken i Oslo. I rollene: Finn Kvalem (Peter),
+    Bentein Baardson (Jerry). Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA00001877
+    Uploader: tubeup.py'

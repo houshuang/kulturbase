@@ -1,0 +1,121 @@
+id: 276
+work_id: 270
+source: nrk
+title: Raskolnikov
+description: St. Petersburg omkring 1860. Studenten Raskolnikov er lutfattig, han
+  isolerer seg og byrjar tru han er eit overmenneske.
+total_duration: 27473
+image_url: https://gfx.nrk.no/ZGTgxUZcl-OdXyJcdf-Ijg77D690D7hzmrRfCq7ktwOg
+medium: radio
+series_id: raskolnikov
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2295
+  role: other
+- person_id: 2392
+  role: playwright
+- person_id: 2295
+  role: director
+- person_id: 62
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 1639
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 805
+  role: actor
+- person_id: 84
+  role: other
+- person_id: 899
+  role: other
+- person_id: 1743
+  role: other
+- person_id: 1429
+  role: director
+- person_id: 1517
+  role: actor
+- person_id: 2393
+  role: director
+- person_id: 443
+  role: actor
+- person_id: 527
+  role: actor
+- person_id: 2394
+  role: other
+- person_id: 2395
+  role: other
+- person_id: 2396
+  role: other
+- person_id: 1224
+  role: other
+- person_id: 2397
+  role: other
+- person_id: 1290
+  role: other
+- person_id: 753
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 801
+  role: actor
+- person_id: 751
+  role: actor
+- person_id: 142
+  role: other
+- person_id: 741
+  role: actor
+- person_id: 541
+  role: actor
+- person_id: 729
+  role: other
+- person_id: 1112
+  role: actor
+- person_id: 25
+  role: actor
+- person_id: 1280
+  role: other
+- person_id: 111
+  role: other
+- person_id: 1112
+  role: other
+- person_id: 365
+  role: other
+- person_id: 2398
+  role: actor
+- person_id: 111
+  role: actor
+- person_id: 298
+  role: actor
+- person_id: 709
+  role: actor
+- person_id: 2399
+  role: actor
+- person_id: 940
+  role: other
+- person_id: 1284
+  role: other
+- person_id: 355
+  role: other
+- person_id: 527
+  role: other
+- person_id: 351
+  role: other
+- person_id: 711
+  role: other
+- person_id: 713
+  role: actor
+- person_id: 116
+  role: actor
+- person_id: 676
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 505
+  role: other
+- person_id: 1781
+  role: other

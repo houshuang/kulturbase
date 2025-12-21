@@ -1,0 +1,38 @@
+prf_id: FTEA00004169
+title: Barbara
+description: Hovedpersonen Chris uttrykker en "moderne" livsholdning, tilsynelatende
+  åpen og ubekymret, i virkeligheten låst i selvkretsning og selvbetraktning. Av Sverre
+  Udnæs.
+year: 1969
+duration_seconds: 2700
+image_url: https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9QFsqlo9V03VSPETMpj2kYvA
+nrk_url: https://tv.nrk.no/se?v=FTEA00004169
+play_id: 700
+performance_id: 748
+source: nrk
+medium: tv
+credits:
+- person_id: 808
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 764
+  role: actor
+- person_id: 447
+  role: actor
+resources:
+- id: 320
+  url: https://archive.org/details/NRKTV-FTEA004169-AR-199313219
+  title: Barbara 29.04.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Barbara" - en film av Sverre Udnæs. Filmen
+    handler om kjærlighet og et dikt, dvs. om et misbruk av kjærlighet og av et dikt.
+    Hovedpersonen Chris uttrykker en "moderne" livsholdning, tilsynelatende åpen og
+    ubekymret, i virkeligheten låst i selvkretsning og selvbetraktning. Kjærligheten
+    blir for ham en selvspeiling, men foran speilet visner følelser. Han søker ny
+    næring i et dikt om en kjærlighet som er så lett og fri som han har drømt at den
+    skal være. Dikt - diktning - kunst - kan være en vei til rikere erfaring, nyoppdagelse
+    av virkeligheten, eller et middel til flukt, til selvbedrag. For Chris blir diktet
+    det siste. De som er med: Tom Tellefsen (Chris), Kari Simonsen (Janne), Jon Heggedal
+    (Pete), Kjersti Døvigen (Lene). Musikk: Egil Monn-Iversen Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00004169
+    Uploader: tubeup.py'

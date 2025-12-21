@@ -1,0 +1,21 @@
+id: 600
+work_id: 564
+source: nrk
+year: 1978
+title: Gengangere
+description: Drama i tre akter av Henrik Ibsen (1881) som behandler dobbeltmoral,
+  utroskap og kjønnssykdommer, og var et kontroversielt verk da det ble utgitt.
+total_duration: 7605
+image_url: https://gfx.nrk.no/ctB8TJQHcYbBBeaV3jshPwVjSqfbTm2WoPj61TsE1NyQ
+medium: tv
+credits:
+- person_id: 253
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 770
+  role: actor

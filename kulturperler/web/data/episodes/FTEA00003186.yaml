@@ -1,0 +1,19 @@
+prf_id: FTEA00003186
+title: Et godt tilbud
+description: Det er mange gode tilbud i velferds-Norge. Et ektepar får tilbud om å
+  flytte fra bygården de alltid har bodd i til en lettvint drabantbyleilighet.
+year: 1986
+duration_seconds: 2755
+image_url: https://gfx.nrk.no/xo6BjbTT0pBwuPDfOlYsiwT_Oxhj66Mptn0TodPI4E9w
+nrk_url: https://tv.nrk.no/se?v=FTEA00003186
+play_id: 449
+performance_id: 477
+source: nrk
+medium: tv
+resources:
+- id: 318
+  url: https://archive.org/details/NRKTV-FTEA003186-AR-199011762
+  title: Et godt tilbud 25.11.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00003186
+    Uploader: tubeup.py'

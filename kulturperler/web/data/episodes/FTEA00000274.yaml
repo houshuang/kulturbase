@@ -1,0 +1,19 @@
+prf_id: FTEA00000274
+title: Katten og kanarifuglen
+description: Seks fjerne slektninger møtes 20 år etter avdødes bortgang for å høre
+  innholdet av testamentet. Kriminalkomedie av John Willard.
+year: 1974
+duration_seconds: 4955
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000274
+play_id: 625
+performance_id: 664
+source: nrk
+medium: tv
+resources:
+- id: 446
+  url: https://archive.org/details/NRKTV-FTEA000274-AR-199212192
+  title: Katten og kanarifuglen 08.10.1974
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00000274
+    Uploader: tubeup.py'

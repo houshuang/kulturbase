@@ -1,0 +1,35 @@
+prf_id: FTEA00001671
+title: Fire sommerdager
+description: En film om en ung kvinne som tilbringer noen sommerdager på hytta sammen
+  med sin lille datter. Av Espen Thorstenson.
+year: 1971
+duration_seconds: 4071
+image_url: https://gfx.nrk.no/7bLvX3p5nR0zX3tij1rhqwOwB3Tu1-aA8rxtRNxHSBRw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001671
+play_id: 659
+performance_id: 698
+source: nrk
+medium: tv
+credits:
+- person_id: 903
+  role: actor
+- person_id: 904
+  role: actor
+- person_id: 905
+  role: actor
+- person_id: 906
+  role: actor
+- person_id: 724
+  role: actor
+resources:
+- id: 167
+  url: https://archive.org/details/NRKTV-FTEA001671-AR-199311115
+  title: Fire sommerdager 18.04.1972
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fire sommerdager" av Espen Thorstenson. En
+    film om en ung kvinne som tilbringer noen sommerdager på hytta sammen med sin
+    lille datter. Holmer, skjær, vind slår vått, den norske skjærgårdssommeren er
+    altså ramme for Espen Thorstensons fjernsynsteaterdebut. Opptakene er gjort på
+    Hvaler. De som er med: Line, Ulrikke Greve, Knut Fabritius, Johan Solbakken, Mimmi
+    Høkeli, Jacob Høkeli. Manusforfatter og instruktør: Espen Thorstenson. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00001671 Uploader: tubeup.py'

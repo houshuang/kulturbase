@@ -1,0 +1,49 @@
+prf_id: FTEA00001570
+title: Symptomer
+description: Av Sverre Udnæs. Vi møter to vidt forskjellige vennepar. Thomas og Merete
+  lever et alminnelig borgerlig liv, Chris og Wenche i et nevrotisk overklassemiljø.
+year: 1970
+duration_seconds: 3262
+image_url: https://gfx.nrk.no/f6laSIllWawhWKI9sLH6qgh80OEPhOyQtcXnLAQ8mbMw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001570
+play_id: 676
+performance_id: 721
+source: nrk
+medium: tv
+credits:
+- person_id: 957
+  role: actor
+- person_id: 886
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 959
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 591
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 315
+  url: https://archive.org/details/NRKTV-FTEA001570-AR-199311329
+  title: Symptomer 05.01.1971
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Symptomer" av den norske dramatikeren Sverre
+    Udnæs. Vi møter to vennepar fra vidt forskjellige miljøer. Thomas og Merete lever
+    et nokså alminnelig borgerlig liv. Thomas er en intellektuell klatrer, som er
+    blitt kulturjournalist uten egentlig å ha format nok for stillingen. For å forsvare
+    den skansen han har vunnet, må han arbeide hardt, men dermed forsømmer han både
+    åndelig og fysisk sin kone - som etter en tid driver inn i et forhold til en annen.
+    Det andre paret, Chris og Wenche, lever i et nevrotisk overklassemiljø. Såvel
+    fysisk som intellektuelt inntar de kledelige attityder. Han leker engasjert og
+    radikal. Hun gjør seg til moteslave, innesperret i rollen som elegant og monden,
+    kvinne av verden. De som er med: Lise Fjeldstad, Per Christensen, Bente Liseth,
+    Nils Ole Oftebro, Gerd Jørgensen, Wenche Foss, Jack Fjeldstad, Ola Isene og Svein
+    Moen. Instruktør: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1971/FTEA00001570
+    Uploader: tubeup.py'

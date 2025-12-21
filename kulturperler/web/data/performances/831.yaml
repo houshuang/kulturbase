@@ -1,0 +1,21 @@
+id: 831
+work_id: 781
+source: nrk
+year: 1965
+title: Mens vi venter på Godot
+description: To landstrykere, Vladimir og Estragon, venter på Godot på en benk ved
+  et tre. Stykket av Samuel Beckett er sentralt i etterkrigstidens absurde teater.
+total_duration: 6091
+image_url: https://gfx.nrk.no/Qm7gdg01cUrV8LIVT3NThwKkzxY8U6pVEVr6OHfKTVhg
+medium: tv
+credits:
+- person_id: 566
+  role: actor
+- person_id: 540
+  role: actor
+- person_id: 1093
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 80
+  role: actor

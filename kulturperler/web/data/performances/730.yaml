@@ -1,0 +1,19 @@
+id: 730
+work_id: 345
+source: nrk
+year: 1969
+title: Privattimen
+description: På hver sin måte våger to mennesker, en professor og hans elev, seg på
+  det vanskeligste uten først å kunne det grunnleggende. Av Eugène Ionesco.
+total_duration: 2336
+image_url: https://gfx.nrk.no/_ETLDFlvaRuN6XrqJP-Z5w92gNoIz2rhDBhSOr3m8GkQ
+medium: tv
+credits:
+- person_id: 4
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 818
+  role: actor

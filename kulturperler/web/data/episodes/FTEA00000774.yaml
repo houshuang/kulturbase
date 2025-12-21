@@ -1,0 +1,19 @@
+prf_id: FTEA00000774
+title: Bare litt vondt
+description: Personene i stykket er Edward og Flora, som er gift med hverandre, og
+  en mann som selger fyrstikker. Av Harold Pinter.
+year: 1974
+duration_seconds: 4786
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000774
+play_id: 620
+performance_id: 657
+source: nrk
+medium: tv
+resources:
+- id: 267
+  url: https://archive.org/details/NRKTV-FTEA000774-AR-199206594
+  title: Bare litt vondt 28.01.1975
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1975/FTEA00000774
+    Uploader: tubeup.py'

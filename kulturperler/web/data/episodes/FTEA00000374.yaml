@@ -1,0 +1,36 @@
+prf_id: FTEA00000374
+title: Landskap
+description: Et romslig landsens kjøkken. Ved den ene enden av langbordet sitter Beth.
+  Ved den andre Duff. Et middelaldrende ektepar. Det er kveld. Av Harold Pinter.
+year: 1974
+duration_seconds: 2988
+image_url: https://gfx.nrk.no/V_if3CrPq1QOjWZpfE3BXwJ-6QF3M551oiY8Ph-ujIew
+nrk_url: https://tv.nrk.no/se?v=FTEA00000374
+play_id: 628
+performance_id: 667
+source: nrk
+medium: tv
+credits:
+- person_id: 671
+  role: actor
+- person_id: 336
+  role: actor
+resources:
+- id: 335
+  url: https://archive.org/details/NRKTV-FTEA000374-AR-199211936
+  title: Landskap 27.08.1974
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Landskap" av Harold Pinter. Til norsk ved
+    Pål-Helge Haugen. Et romslig landsens kjøkken. Ved den ene enden av langbordet
+    sitter Beth. Ved den andre Duff. Et middelaldrende ektepar. Det er kveld. Duff
+    forteller om hva som har skjedd de siste par dagene, om hunden deres som er blitt
+    borte, om at han selv søkte ly under et tre da regnet kom, at han stakk innom
+    en pub og kom i krangel med en gjest som klaget på ølet. Når hun snakker, er det
+    ikke som svar på Duffs tale, men som en strøm av løsrevne minnesbrokker som hun
+    gjenopplever for seg selv, forte assosiasjoner. Men alle sirkler rundt en mann
+    hun engang har vært sterkt knyttet til. Hun kjærtegner biter av en fortid som
+    nå synes å være det eneste hun lever for. Duff har sin hverdagslige verden som
+    han gjerne vil dele med henne. Beth har sine minner, dem vil hun ikke dele med
+    noen. I rollene: Monna Tandberg (Beth) og Svein Scharffenberg (Duff). Musikk:
+    Kåre Kolberg. Regi: Sverre Udnæs. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00000374
+    Uploader: tubeup.py'

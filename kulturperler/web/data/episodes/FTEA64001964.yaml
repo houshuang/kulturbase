@@ -1,0 +1,46 @@
+prf_id: FTEA64001964
+title: Truselen
+description: En halvblind bokholderske, en pensjonert kvinne, en skreddersvenn, en
+  maler og hans rike venninne sliter med ensomhet. Kan de bryte isolasjonen?
+year: 1964
+duration_seconds: 4402
+image_url: https://gfx.nrk.no/wdMYzgaSiP61-SIGbi4GeA9o-DqfthqSpLee5O8CO2aQ
+nrk_url: https://tv.nrk.no/se?v=FTEA64001964
+play_id: 794
+performance_id: 845
+source: nrk
+medium: tv
+credits:
+- person_id: 977
+  role: actor
+- person_id: 888
+  role: actor
+- person_id: 808
+  role: actor
+- person_id: 375
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 1102
+  role: actor
+- person_id: 1073
+  role: actor
+- person_id: 1103
+  role: actor
+resources:
+- id: 21
+  url: https://archive.org/details/NRKTV-FTEA64001964-AR-199406085
+  title: Truselen (Trusselen) 16.04.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Truselen" av Arnold Wesker. Stykket er skrevet
+    spesielt for fjernsyn i 1963. Oversatt av Helge Hagerup. Dekorasjon: Herman Bendixen.
+    Filmregi: Ragnar Sørensen. Et skuespill om isolasjon og fremmedgjøring i et storsamfunn,
+    om fellesskap og sameksistens. Vi møter stykkets personer i forskjellige situasjoner
+    i løpet av en kveld, enten alene, eller sammen. En halvblind bokholderske, en
+    pensjonert kvinne, en skreddersvenn, en maler og hans rike venninne i leiegården.
+    Hver har nok med sin ensomhet. Venninnen ber alle med ut på restaurant, det danner
+    opptakten til oppbrudd fra isolasjonen. I rollene: Helga Backe (Sophie), Wenche
+    Thorsby (Harriet), Jon Heggedal (Garry), Bernt Erik Larssen (Maxie), Ragnhild
+    Michelsen (Daphne), Tore Torjussen (Terry), Kjell Kjær (Jack), Øivind Berg Hansen
+    (Stan). Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64001964
+    Uploader: tubeup.py'

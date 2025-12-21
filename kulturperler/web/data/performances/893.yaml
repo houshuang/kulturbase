@@ -1,0 +1,23 @@
+id: 893
+work_id: 840
+source: nrk
+year: 1962
+title: Frokost i det grønne
+description: Absurd komedie av Fernando Arrabal. Om krigens absurditet og et angrep
+  på propagandaen og løgnene som følger i krigens fotspor.
+total_duration: 2019
+image_url: https://gfx.nrk.no/a6TOSy-V10Xd1KjymFSdUANZx0-8HmyirRNM3TqomcdQ
+medium: tv
+credits:
+- person_id: 68
+  role: actor
+- person_id: 997
+  role: actor
+- person_id: 1132
+  role: actor
+- person_id: 1119
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 109
+  role: actor

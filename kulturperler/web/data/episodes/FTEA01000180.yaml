@@ -1,0 +1,53 @@
+prf_id: FTEA01000180
+title: Vesla
+description: Vesla, ni år, er evnemessig seint utviklet. Skal Vesla gå på spesialskole
+  eller skal hun integreres i ordinær grunnskole? Av Erling Pedersen.
+year: 1980
+duration_seconds: 3265
+image_url: https://gfx.nrk.no/1NDxzixnjIyzPOy7wLj5wgCgIRqK6eLqJ88byu0yGKDQ
+nrk_url: https://tv.nrk.no/se?v=FTEA01000180
+play_id: 531
+performance_id: 566
+source: nrk
+medium: tv
+credits:
+- person_id: 10
+  role: actor
+- person_id: 83
+  role: actor
+- person_id: 740
+  role: actor
+- person_id: 357
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 683
+  role: actor
+- person_id: 613
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 186
+  role: actor
+resources:
+- id: 439
+  url: https://archive.org/details/NRKTV-FTEA010180-AR-199102153
+  title: Vesla 25.11.1980
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Vesla" av Erling Pedersen. Bearbeidet av Magne
+    Bleness. Kostymer: Ellen Andreassen. Dekorasjoner: Erik Hagen. Vesla, ni år, er
+    evnemessig seint utviklet. Skal Vesla gå på spesialskole eller skal hun integreres
+    i ordinær grunnskole? Stykket forteller om den formiddagen da foreldrene skal
+    underskrive på at hun skal begynne fast på spesialskole. De som er med: Ståle
+    Bjørnhaug (læreren Per, Veslas far), Marie Louise Tank (Nina, Veslas mor), Marit
+    Kolbræk (Bjørg), Nils Ole Oftebro (Rolf), Marit Grønhaug (Mari Jensen), Odd Furøy
+    (Rektoren), Helge Reiss (Skolesjefen), Kaare Kroppan (Læreren), Lieselotte Holmene
+    og Anne Marie Ottersen (Fruene), Helen Kranstad (Vesla), Anne Ryg (Laila). Fotograf:
+    Per Moen. Regi: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA01000180
+    Uploader: tubeup.py'

@@ -1,0 +1,23 @@
+id: 481
+work_id: 453
+source: nrk
+year: 1985
+title: Columbus' ankomst
+description: Karl har overtatt en leilighet etter en avdød tante og har hatt Innflyttingsfest.
+  Verten og tre av hans venner arbeider seg langsomt ut av bakrusen.
+total_duration: 4166
+image_url: https://gfx.nrk.no/FRqj_PxrtKiXxOFKNmlcbQGCF1qg9jmPXFx8F5tXUT4A
+medium: tv
+credits:
+- person_id: 142
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 542
+  role: actor

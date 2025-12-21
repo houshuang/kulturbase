@@ -1,0 +1,28 @@
+prf_id: FTEM63001263
+title: Stemmen
+description: Kvinnen (Wenche Foss) er forlatt av sin mann til fordel for en annen.
+  Når han ringer en siste gang gjør sitt ytterste for å holde ham på tråden.
+year: 1963
+duration_seconds: 2149
+image_url: https://gfx.nrk.no/GKjp4KEQTHNSGp8tNqya3w9ZuIdjMyFDwBSg0qhypB5Q
+nrk_url: https://tv.nrk.no/se?v=FTEM63001263
+play_id: 817
+performance_id: 870
+source: nrk
+medium: tv
+credits:
+- person_id: 69
+  role: actor
+resources:
+- id: 16
+  url: https://archive.org/details/NRKTV-FTEM63001263-AR-199001045
+  title: Stemmen 17.01.1963
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Stemmen" (La Voix Humaine), en opera i en
+    akt av den franske komponisten Francis Poulenc, basert på en monolog av Jean Cocteau.
+    Wenche Foss spiller stykkets eneste rolle; en kvinne forlatt av sin kjæreste til
+    fordel for en annen kvinne. Eksmannen ringer henne en siste gang, og hun gjør
+    sitt ytterste for å holde ham på tråden. Et forsterket Kringkastingsorkester spiller,
+    dirigert av Øivind Fjeldstad. Teksten er oversatt av Pauline Hall. Iscenesettelse:
+    Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1963/FTEM63001263
+    Uploader: tubeup.py'

@@ -1,0 +1,73 @@
+prf_id: FTEA00006869
+title: I dag død, i morgen rosenrød
+description: En lek med ord, teatralske handlingsmønstre, sceniske bevegelser og musikalske
+  virkemidler. Av Anders Bye, Bengt Calmeyer og Alfred Janson.
+year: 1969
+duration_seconds: 4057
+image_url: https://gfx.nrk.no/rT6qbRVW_lmzAoJTB8f3PwVWctMhb10DTzVG04RGkeBg
+nrk_url: https://tv.nrk.no/se?v=FTEA00006869
+play_id: 693
+performance_id: 741
+source: nrk
+medium: tv
+credits:
+- person_id: 1000
+  role: actor
+- person_id: 892
+  role: actor
+- person_id: 566
+  role: actor
+- person_id: 813
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 834
+  role: actor
+- person_id: 768
+  role: actor
+- person_id: 835
+  role: actor
+- person_id: 1001
+  role: actor
+- person_id: 1002
+  role: actor
+- person_id: 786
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 836
+  role: actor
+- person_id: 764
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 1003
+  role: actor
+- person_id: 1004
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 1005
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 1006
+  role: actor
+resources:
+- id: 443
+  url: https://archive.org/details/NRKTV-FTEA006869-AR-199313238
+  title: I dag død, i morgen rosenrød 04.11.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "I dag død, i morgen rosenrød" (Candy and Balloons).
+    En musikalsk lek av Anders Bye, Bengt Calmeyer og Alfred Janson. En lek med ord,
+    en lek med teatralske handlingsmønstre, en lek med sceniske bevegelser og viktigst
+    - en lek med musikalske virkemidler. Om underholdning, teater, lykke, illusjon
+    om hva lykke er, og kjærlighet. Bearbeidet for fjernsyn av Sverre Udnæs. Gjesteskuespillere:
+    Steve Worchester og Dionne la Cour. Ellers medvirker: Harald Heide-Steen jr.,
+    Arne Bang-Hansen, Per Jansen, Anne Marit Jacobsen, Rut Tellefsen, Knut Risan,
+    Carsten Winger, Bab Christensen, Nora Brockstedt, Arve Opsahl, Rolv Wesenlund,
+    Eva von Hanno, Egil Åsman, Mette Møller, Grete Brunvoll, Bodil Gjerdrum Ousdal,
+    Mette Marit Sem, Guri Lysell, Alfred Janson, Carsten Byhring, Dan Fosse, Egil
+    Lorck, Kjersti Døvigen, Kari Blakstad. Musikk: Alfred Janson. Koreografi: Guri
+    Ludt. Instruktører: Sverre Udnæs og Harald Heide-Steen jr. Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00006869
+    Uploader: tubeup.py'

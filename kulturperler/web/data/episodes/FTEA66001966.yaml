@@ -1,0 +1,35 @@
+prf_id: FTEA66001966
+title: Helene
+description: Erik Winge gifter seg med Helene, en tidligere alkoholiker. Han prioriterer
+  arbeidet og hun drives tilbake til alkoholen. Og sin tidligere venn Aksel.
+year: 1966
+duration_seconds: 4074
+image_url: https://gfx.nrk.no/oEcNhpwb2FdDy6qN9z8qZA5O97pEfGgE0z_bZur7-aEg
+nrk_url: https://tv.nrk.no/se?v=FTEA66001966
+play_id: 744
+performance_id: 793
+source: nrk
+medium: tv
+credits:
+- person_id: 885
+  role: actor
+- person_id: 894
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 709
+  role: actor
+resources:
+- id: 364
+  url: https://archive.org/details/NRKTV-FTEA6601966-AR-199001278
+  title: Helene 14.02.1967
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Helene" av dramatikeren og psykiateren Viktor
+    Borg. Et sosialrealistisk stykke om alkoholisme. Legen Erik Winge gifter seg med
+    Helene, en tidligere alkoholiker. Han prioriterer arbeidet og Helene drives tilbake
+    til alkoholen og sin tidligere venn Aksel. Et år etter finner Erik sin tidligere
+    hustru fullstendig oppløst i alkohol. I rollene medvirker Ingebjørg Sem (Helene
+    Winge), Knut M. Hansson (Erik Winge), Else Heiberg (enkefru Winge) og Pål Skjønberg
+    (Aksel Larsen). Musikk: Gunnar Sønstevold. Bearbeidet for fjernsyn og instruert
+    av Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1967/FTEA66001966
+    Uploader: tubeup.py'

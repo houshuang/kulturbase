@@ -1,0 +1,46 @@
+prf_id: FTEA00004468
+title: Rettssaka mot LeRoi Jones
+description: Den afroamerikanske forfatteren LeRoi Jones ble i januar 1968 dømt til
+  to og et halvt års fengsel for å ha hatt uregistrerte våpen.
+year: 1968
+duration_seconds: 2262
+image_url: https://gfx.nrk.no/x_W12Y8ZlJQcOl_40h1JVgC3Ry-pWpPqhihOtQn4Norw
+nrk_url: https://tv.nrk.no/se?v=FTEA00004468
+play_id: 709
+performance_id: 757
+source: nrk
+medium: tv
+credits:
+- person_id: 1026
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 399
+  role: actor
+- person_id: 808
+  role: actor
+- person_id: 612
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 351
+  role: actor
+resources:
+- id: 243
+  url: https://archive.org/details/NRKTV-FTEA004468-AR-199314072
+  title: Rettssaka mot LeRoi Jones 27.11.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rettssaka mot LeRoi Jones". Til nynorsk ved
+    Olav Hr. Rue. Den afroamerikanske forfatteren LeRoi Jones ble i januar 1968 dømt
+    til to og et halvt års fengsel for å ha hatt uregistrerte våpen. Rettssaken mot
+    ham og to av hans venner ble stenografisk referert og det er referatene fra den
+    siste del av prosessen Fjernsynsteatret fremstiller. Saken belyser hvor langt
+    det er igjen før "hvit" og "farget" blir glemte begrep. I rollene medvirker blant
+    andre Per Gjersøe (dommer Kapp), Roy Bjørnstad (forsvarer Mr. Booker), Frimann
+    Falck Clausen (forsvarer Mr. Mischel) og Jon Heggedal (LeRoi Jones). Instruktør:
+    Sølve Kern. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00004468
+    Uploader: tubeup.py'

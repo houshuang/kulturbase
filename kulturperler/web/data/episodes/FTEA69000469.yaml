@@ -1,0 +1,73 @@
+prf_id: FTEA69000469
+title: Tysklandsreisen
+description: En TV-film som søker å gi en underholdende skildring av nordmenn i Tyskland
+  - av kontakten mellom norske turister og tyskere. Av Herbert Lichtenfeld.
+year: 1969
+duration_seconds: 4952
+image_url: https://gfx.nrk.no/pnIJrWlsw6orZDMiYSvHLg3qFNkpSNW_K9_IrBxCnKLA
+nrk_url: https://tv.nrk.no/se?v=FTEA69000469
+play_id: 687
+performance_id: 735
+source: nrk
+medium: tv
+credits:
+- person_id: 980
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 981
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 982
+  role: actor
+- person_id: 972
+  role: actor
+- person_id: 983
+  role: actor
+- person_id: 984
+  role: actor
+- person_id: 985
+  role: actor
+- person_id: 986
+  role: actor
+- person_id: 987
+  role: actor
+- person_id: 988
+  role: actor
+- person_id: 715
+  role: actor
+- person_id: 989
+  role: actor
+- person_id: 316
+  role: actor
+- person_id: 990
+  role: actor
+- person_id: 991
+  role: actor
+- person_id: 992
+  role: actor
+- person_id: 993
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 10
+  url: https://archive.org/details/NRKTV-FTEA69000469-AR-199311740
+  title: Tysklandsreisen 03.03.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Tysklandsreisen" av Herbert Lichtenfeld. (Die
+    Deutschlandreise). Etter en idé av Sølve Kern. En TV-film som søker å gi en underholdende
+    skildring av nordmenn i Tyskland - av kontakten mellom norske turister og tyskere.
+    Sentralt i handlingen står et norsk guttemusikkorps. Gransås skoles korps har
+    vært på besøk i en liten tysk by, Herlingenrode. Etter hjemkomsten holder korpsets
+    leder et lysbildeforedrag om reisen. Filmen tar utgangspunkt i hans foranstaltninger
+    til møtet og griper stadig tilbake i retrospektive glimt både fra forberedelsene
+    og selve turen. Beretningen har undertoner av alvor, og et tankevekkende motiv
+    er selvsagt spørsmålet om holdninger fra krigsårene fremdeles kaster slagskygger.
+    I noen av rollene: Inger Teien, Inger Lise Westby, Else Heiberg, Wilfred Breistrand,
+    Johannes Eckhoff, Georg Richter, Arne Aas, Dagmar Berghoff, Haslum Skoles Guttemusikkorps,
+    Priska Stadler, Felicitas Wenck, Ilsemarie Schnering, Annelore Kunze, Kurt Rackelmann,
+    Kurt Weitkamp. Produksjon: Dieter Meischner. Regi: Sølve Kern. En film fra Norddeutscher
+    Rundfunk i samarbeid med Norsk Rikskringkasting. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA69000469
+    Uploader: tubeup.py'

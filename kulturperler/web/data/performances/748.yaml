@@ -1,0 +1,20 @@
+id: 748
+work_id: 700
+source: nrk
+year: 1969
+title: Barbara
+description: Hovedpersonen Chris uttrykker en "moderne" livsholdning, tilsynelatende
+  åpen og ubekymret, i virkeligheten låst i selvkretsning og selvbetraktning. Av Sverre
+  Udnæs.
+total_duration: 2700
+image_url: https://gfx.nrk.no/iqdABQUHrkyOY7qf4n7W9QFsqlo9V03VSPETMpj2kYvA
+medium: tv
+credits:
+- person_id: 808
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 764
+  role: actor
+- person_id: 447
+  role: actor

@@ -1,0 +1,23 @@
+id: 530
+work_id: 198
+source: nrk
+year: 1983
+title: Lille Eyolf
+description: Rottejomfruen kommer til familien Allmers for å spørre om de har noe
+  som nager og gnager i det allmerske hus. Drama av Henrik Ibsen.
+total_duration: 5845
+image_url: https://gfx.nrk.no/3zDUIEuY_GbujnERwWm90w9EZ9sdKek3ZUsl0vDsn7Zw
+medium: tv
+credits:
+- person_id: 10
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 569
+  role: actor
+- person_id: 531
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 534
+  role: actor

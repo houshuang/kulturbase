@@ -1,0 +1,61 @@
+id: 5
+work_id: 5
+source: nrk
+title: Å Vekke Døde
+description: Chris Kent reiser fra Australia til England for å møte sine venner. På
+  Royal Hotel i London finner han liket av venninnen Jenny.
+total_duration: 5880
+image_url: https://gfx.nrk.no/63WLRn3Ym5SemgElwpKuSgw3EGl0Ga6kn7ejOekrGXrw
+medium: radio
+series_id: aa-vekke-doede
+credits:
+- person_id: 1639
+  role: other
+- person_id: 1466
+  role: actor
+- person_id: 2117
+  role: actor
+- person_id: 1425
+  role: playwright
+- person_id: 1224
+  role: producer
+- person_id: 1228
+  role: producer
+- person_id: 1653
+  role: actor
+- person_id: 131
+  role: actor
+- person_id: 250
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 148
+  role: actor
+- person_id: 1412
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 2118
+  role: actor
+- person_id: 1224
+  role: other
+- person_id: 1200
+  role: other
+- person_id: 1581
+  role: other
+- person_id: 1180
+  role: director
+- person_id: 19
+  role: actor
+- person_id: 1435
+  role: actor
+- person_id: 2119
+  role: other
+- person_id: 1466
+  role: other
+- person_id: 2119
+  role: actor
+- person_id: 1200
+  role: director
+- person_id: 1202
+  role: other

@@ -1,0 +1,19 @@
+prf_id: FTEA01007685
+title: Skal det vere ein dans?
+description: Handlingen foregår i Ålesund tidlig i 1960-årene. Gymnastiasten Øystein
+  prøver å få kontakt med jentene og gjør noen famlende og klønete forsøk.
+year: 1985
+duration_seconds: 4522
+image_url: https://gfx.nrk.no/NT5qQT8HbLem_5a1rgtODgpHKQ1XG2Of1tiW8TJcuq2A
+nrk_url: https://tv.nrk.no/se?v=FTEA01007685
+play_id: 454
+performance_id: 482
+source: nrk
+medium: tv
+resources:
+- id: 202
+  url: https://archive.org/details/NRKTV-FTEA017685-AR-199011324
+  title: Skal det vere ein dans? 02.09.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA01007685
+    Uploader: tubeup.py'

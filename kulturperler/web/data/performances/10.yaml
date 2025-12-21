@@ -1,0 +1,52 @@
+id: 10
+work_id: 10
+source: nrk
+title: Amalie Av Ternevåg
+description: Det er endelig sommer i Lofoten, og Anders får besøk av Benedicte fra
+  Oslo. Sammen drar de over til et nedlagt og mystisk fiskevær. Et gammelt seilskip
+  dukker plutselig lydløst opp, og de finner et brev fra en som trenger hjelp.
+total_duration: 9215
+image_url: https://gfx.nrk.no/_MIlZuP_q651awSdvey6nwLGJ4KfBnabOJfL2AJlEadw
+medium: radio
+series_id: amalie-av-ternevaag
+credits:
+- person_id: 1280
+  role: other
+- person_id: 2596
+  role: playwright
+- person_id: 1674
+  role: playwright
+- person_id: 1348
+  role: other
+- person_id: 2596
+  role: composer
+- person_id: 1276
+  role: director
+- person_id: 1599
+  role: actor
+- person_id: 1212
+  role: actor
+- person_id: 1193
+  role: actor
+- person_id: 24
+  role: actor
+- person_id: 2761
+  role: actor
+- person_id: 604
+  role: actor
+- person_id: 28
+  role: actor
+- person_id: 458
+  role: actor
+- person_id: 451
+  role: actor
+- person_id: 1315
+  role: director
+- person_id: 2762
+  role: other
+- person_id: 152
+  role: actor
+- person_id: 2090
+  role: actor
+- person_id: 83
+  role: actor

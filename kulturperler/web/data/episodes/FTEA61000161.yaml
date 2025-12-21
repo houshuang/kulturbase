@@ -1,0 +1,34 @@
+prf_id: FTEA61000161
+title: Fangen
+description: Handlingen er lagt til besøksrommet i et fengsel. Fangen sitter inne
+  pga. økonomiske misligheter, hans kone har funnet en annen. Av Nils Collett Vogt.
+year: 1961
+duration_seconds: 2589
+image_url: https://gfx.nrk.no/tXf5NW6m5K5tTi-83Y2_rQCr4ObFSEuJslU-0rPnrOZQ
+nrk_url: https://tv.nrk.no/se?v=FTEA61000161
+play_id: 851
+performance_id: 904
+source: nrk
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 1154
+  role: actor
+- person_id: 1092
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 34
+  url: https://archive.org/details/NRKTV-FTEA61000161-AR-199416169
+  title: Fangen 01.06.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Fangen" av Nils Collett Vogt. Handlingen finner
+    sted i besøksrommet i fengselet. Fangen 165 a sitter inne på grunn av økonomiske
+    misligheter. I dag kommer hans kone på besøk. Hun får vite at mannen har fått
+    et brev, som har gjort et voldsomt inntrykk på ham. Brevet avslørte at hans kone
+    har funnet en annen... I rollene: Arne Lie (Fangen), Urda Arneberg (Hans hustru
+    Inga), Tore Foss (Fengselspresten), Birger Løvaas (En vaktbetjent). Dekor: Olav
+    Ile. Musikk: Finn Ludt. Instruktør: Gerhard Knoop. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000161
+    Uploader: tubeup.py'

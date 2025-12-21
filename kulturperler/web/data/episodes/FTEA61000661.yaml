@@ -1,0 +1,35 @@
+prf_id: FTEA61000661
+title: Søsken
+description: Stykket foregår en vinterettermiddag i en dansk provinsby. Tre søsken
+  møtes ved sin fars dødsleie. Av H.C. Branner.
+year: 1961
+duration_seconds: 4754
+image_url: https://gfx.nrk.no/-PZ6th3Ty4CrMUfWPA6VyAyPofN-JDdU1ezpHkQsum-w
+nrk_url: https://tv.nrk.no/se?v=FTEA61000661
+play_id: 846
+performance_id: 899
+source: nrk
+medium: tv
+credits:
+- person_id: 953
+  role: actor
+- person_id: 1119
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 64
+  url: https://archive.org/details/NRKTV-FTEA61000661-AR-199206077
+  title: Søsken 09.11.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Søsken" av H.C. Branner. (Søskende) Oversatt
+    av Paul Gjesdahl. Stykket foregår en vinterettermiddag i en dansk provinsby. En
+    gammel mann ligger for døden. Hans tre barn samles ved dødsleiet, og skilles igjen.
+    De kommer hver for seg, og går hver for seg. Det er det hele. Dog skjer der mye
+    i løpet av disse korte timer. Med sin intense og intime kunst avdekker Branner
+    et av tidens sentrale problemer: Den søndersprengte kontakt mellom mennesker.
+    I rollene: Per Gjersøe (Arthur), Urda Arneberg (Irene), Per Bronken (Michael),
+    Gudrun Waadeland (Søster Agnes). Dekorasjoner: Bjørn Næss. Instruktør: Knut Thomassen.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000661 Uploader: tubeup.py'

@@ -1,0 +1,63 @@
+prf_id: FTEA65000465
+title: Frydenberg
+description: Den unge og naive dikteren Frydenberg kommer i Victors borgerlige middagsselskap,
+  og lærer om livet og om maktene. Av Johan Borgen.
+year: 1965
+duration_seconds: 4051
+image_url: https://gfx.nrk.no/HUiQ_Ij2Q-Drfyks3gLywgbIVFdiPDutuo3en7Ab5Svg
+nrk_url: https://tv.nrk.no/se?v=FTEA65000465
+play_id: 778
+performance_id: 828
+source: nrk
+medium: tv
+credits:
+- person_id: 1069
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 1086
+  role: actor
+- person_id: 1044
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 1087
+  role: actor
+- person_id: 1046
+  role: actor
+- person_id: 1088
+  role: actor
+- person_id: 1089
+  role: actor
+- person_id: 1090
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 297
+  role: actor
+- person_id: 648
+  role: actor
+resources:
+- id: 22
+  url: https://archive.org/details/NRKTV-FTEA65000465-AR-199405161
+  title: Frydenberg 05.04.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Frydenberg" av Johan Borgen. Musikk: Finn
+    Ludt. Dekorasjon: Gunnar Alme. Stykket er skrevet for fjernsynsteatret, Norges
+    bidrag til vinterens nordiske teaterserie av originalskrevet TV-dramatikk. Den
+    unge og naive dikteren Frydenberg kommer i Victors borgerlige middagsselskap,
+    og lærer om livet og om maktene. Symbolistisk teater om makt og kapitalisme: diktningen
+    og ideologiens tafatthet overfor maktens vesen, dets gifter, fristelser og korrupsjon.
+    Ærgjerrighet korrumperer i siste instans. I rollene: Knut M. Hansson (Victor),
+    Veslemøy Haslund (Lisa), Toralv Maurstad (Frydenberg), Elisabeth Strøm (Den gode
+    fe), Rolf Søder (Ulven), Sverre Hansen (Makten), Bab Christensen (En sekretær).
+    Ellers medvirker: Roy Bjørnstad, Arne Riis, Sverre Wilberg, Finn Mehlum, Otto
+    Lundh, Oscar Amundsen, Kristian Sonefeldt, Leif Enger og Nils M. Knutsen. Instruktør:
+    Barthold Halle. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000465
+    Uploader: tubeup.py'

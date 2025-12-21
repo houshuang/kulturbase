@@ -1,0 +1,33 @@
+id: 900
+work_id: 847
+source: nrk
+year: 1961
+title: Mens vi venter
+description: En teatertrupp venter på toget på venteværelset på en jernbanestasjon.
+  Mens de venter forkorter de ventetiden med å øve på stykket de reiser rundt med.
+total_duration: 5380
+image_url: https://gfx.nrk.no/3mp5NP1M_ANDV-AwjwDd0gZJZnID71sCYL0b2B9VyN0A
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 1080
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 308
+  role: actor
+- person_id: 893
+  role: actor
+- person_id: 997
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 1053
+  role: actor
+- person_id: 1152
+  role: actor

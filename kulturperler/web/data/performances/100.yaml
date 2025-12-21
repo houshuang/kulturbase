@@ -1,0 +1,51 @@
+id: 100
+work_id: 97
+source: nrk
+title: 'Spennende teknothriller fra den kalde krigen '
+description: Det er kald krig og terrorbalansen opprettholdes av atomubåter som krysser
+  fiendtlig farvann. Direktiver mottas fra satellitt.
+total_duration: 6799
+image_url: https://gfx.nrk.no/BwkncE16_MvNMbHrYXDjQQu7P0DmcnmmQ98-gW-5JpEg
+medium: radio
+series_id: et-lys-som-av-tusen-soler
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2466
+  role: playwright
+- person_id: 1916
+  role: other
+- person_id: 1707
+  role: director
+- person_id: 84
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 665
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 1942
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 379
+  role: actor
+- person_id: 1315
+  role: director
+- person_id: 2467
+  role: actor
+- person_id: 786
+  role: actor
+- person_id: 711
+  role: actor

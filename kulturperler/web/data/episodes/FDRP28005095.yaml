@@ -1,0 +1,38 @@
+prf_id: FDRP28005095
+title: Namnet
+description: Av Jon Fosse. Dottera skal ha barn. Systera og mora veit det. Men ikkje
+  far. Og ingen har møtt kjærasten hennar. Frå Den Nationale Scene i Bergen.
+year: 1995
+duration_seconds: 3742
+image_url: https://gfx.nrk.no/EiRI-nrjf3tL74iacOEb3w5V_18EjpsuainFNFvXuirA
+nrk_url: https://tv.nrk.no/se?v=FDRP28005095
+play_id: 344
+performance_id: 352
+source: nrk
+medium: tv
+credits:
+- person_id: 53
+  role: director
+- person_id: 54
+  role: actor
+- person_id: 19
+  role: actor
+- person_id: 55
+  role: actor
+- person_id: 56
+  role: actor
+- person_id: 57
+  role: actor
+- person_id: 58
+  role: actor
+resources:
+- id: 244
+  url: https://archive.org/details/NRKTV-FDRP285095-AR-199700121
+  title: Namnet 19.05.1996
+  type: archive_fallback
+  description: '"Namnet" av Jon Fosse. Dottera skal ha barn. Systera og mora veit
+    det. Men ikkje far. Og ingen har møtt kjærasten hennar. Opptak frå Den Nationale
+    Scene i Bergen. Instruktør: Kai Johnsen. Fjernsynsregi: Roald Øyen. I rollene:
+    Trine Wiggen (jenta), Fridtjov Såheim (guten), Helga Mjeldheim (systera), Ragnhild
+    Hiorthøy (mora), Arne Jacobsen (faren) og Gerald Pettersen (Bjarne). Source: https://tv.nrk.no/serie/fjernsynsteatret/1996/FDRP28005095
+    Uploader: tubeup.py'

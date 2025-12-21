@@ -1,0 +1,19 @@
+prf_id: FTEA00000176
+title: Høyt spill med fyrstikker
+description: Stykket tar utgangspunkt i den svenske "fyrstikk-kongen" Ivar Kreugers
+  liv. Av Jan Bergquist og Hans Bendrik.
+year: 1976
+duration_seconds: 5079
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000176
+play_id: 595
+performance_id: 632
+source: nrk
+medium: tv
+resources:
+- id: 168
+  url: https://archive.org/details/NRKTV-FTEA000176-AR-199206372
+  title: Høyt spill med fyrstikker 21.09.1976
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00000176
+    Uploader: tubeup.py'

@@ -1,0 +1,23 @@
+id: 596
+work_id: 560
+source: nrk
+year: 1978
+title: Rosmersholm
+description: Johannes Rosmer er den siste i en gammel slekt av prester og offiserer.
+  Hans hustru har tatt livet av seg ved å kaste seg i en foss. Av Henrik Ibsen.
+total_duration: 7229
+image_url: https://gfx.nrk.no/nr98wZNIOvym6m0W27FaLgQ3cHln9FE0NpINOZ2vpY0w
+medium: tv
+credits:
+- person_id: 515
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 168
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 276
+  role: actor
+- person_id: 730
+  role: actor

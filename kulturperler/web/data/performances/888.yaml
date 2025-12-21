@@ -1,0 +1,23 @@
+id: 888
+work_id: 835
+source: nrk
+year: 1962
+title: Julia Harrington
+description: Drama av Sidney Carroll. Teaterprodusenten Weber ønsker å få den gamle
+  skuespillerinnen Julia Harrington til rollen som gammel, utbrent grevinne.
+total_duration: 3364
+image_url: https://gfx.nrk.no/qXoIgdRLKE3Zn1bTzumDiQeG_3sJAX_Aw-VZOQ1c0bcA
+medium: tv
+credits:
+- person_id: 810
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 1091
+  role: actor
+- person_id: 1090
+  role: actor
+- person_id: 1138
+  role: actor
+- person_id: 462
+  role: actor

@@ -1,0 +1,44 @@
+prf_id: FTEA00002482
+title: En annen historie 3:3
+description: Hvordan gikk det til at mannen overtok ledelsen både i himmel og på jord?
+  Basert på bok av Else Michelet. Del 3.
+year: 1982
+duration_seconds: 2088
+image_url: https://gfx.nrk.no/MDIKxMflioHaFqAhY2TYTg-WZ5PhxD_NjaN7gddnw_mA
+nrk_url: https://tv.nrk.no/se?v=FTEA00002482
+play_id: 488
+performance_id: 520
+source: nrk
+medium: tv
+credits:
+- person_id: 618
+  role: actor
+- person_id: 8
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 513
+  role: actor
+resources:
+- id: 305
+  url: https://archive.org/details/NRKTV-FTEA001982-AR-199006130
+  title: En annen historie 2:3 22.11.1983
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En annen historie", tre episoder basert på
+    Else Michelets bok som prøver å kaste lys på hvordan det gikk til at mannen overtok
+    ledelsen både i himmel og på jord. I rollene medvirker blant andre Birgitte Victoria
+    Svendsen, Johannes Joner og Per Frisch. Dramatisert av Minken Fosheim, Carl Jørgen
+    Kiønig, Ann-Cathrin Ramberg, Marie Louise Tank og Åse Vikene. Musikk: Rain. (2:3)
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00001982 Uploader: tubeup.py'
+- id: 316
+  url: https://archive.org/details/NRKTV-FTEA001582-AR-199006131
+  title: En annen historie 1:3 21.11.1983
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En annen historie", tre episoder basert på
+    Else Michelets bok som prøver å kaste lys på hvordan det gikk til at mannen overtok
+    ledelsen både i himmel og på jord. I rollene medvirker blant andre Birgitte Victoria
+    Svendsen, Johannes Joner og Per Frisch. Dramatisert av Minken Fosheim, Carl Jørgen
+    Kiønig, Ann-Cathrin Ramberg, Marie Louise Tank og Åse Vikene. Musikk: Rain. (1:3)
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00001582 Uploader: tubeup.py'

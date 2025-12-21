@@ -1,0 +1,46 @@
+prf_id: FTEA00001175
+title: Erika
+description: Erika er en ung kvinne som lever et vanlig liv i en middels stor by i
+  Vest-Tyskland. En dag går Erika trett og forlater ektemannen. Av Ursula Krechel.
+year: 1975
+duration_seconds: 5481
+image_url: https://gfx.nrk.no/fJaCCr4HCKKFKCGtPVYb2w3699N_yOKifwzFv2mjtkqw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001175
+play_id: 599
+performance_id: 636
+source: nrk
+medium: tv
+credits:
+- person_id: 778
+  role: actor
+- person_id: 88
+  role: actor
+- person_id: 817
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 118
+  role: actor
+- person_id: 730
+  role: actor
+resources:
+- id: 140
+  url: https://archive.org/details/NRKTV-FTEA001175-AR-199206368
+  title: Erika 04.05.1976
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Erika" av den tyske forfatterinnen Ursula
+    Krechel. Oversatt av Kjell Askildsen. Dekorasjoner: Christian Egemar. Kostymer:
+    Nan Austin. Erika er en ung kvinne som lever et vanlig liv i en middels stor by
+    i Vest-Tyskland. Livet hennes er som det blir for moderne unge kvinner flest i
+    bysamfunnene. Hun er blitt gift, har svak utdannelse og ingen egentlige interesser.
+    Likevel blir de tingene som skjer i livet hennes, eksempler på svære og vanskelige
+    konflikter som slik ungdom ofte møter og må finne en løsning på. En dag går Erika
+    trett. Hun forlater ektemannen, men blir i jobben som er kjedelig og dårlig betalt.
+    Men det er jo en jobb. Hva så? Stykket viser i korte scener kvinnene som står
+    nærmest Erika: mor, svigermor, kontorkollega og venninne. Mennene er ikke til
+    stede i stykket, men nærværende i kvinnenes liv hele tiden. Alle disse kvinnene
+    har noe de skulle ha sagt til henne om hvordan hun bør innrette livet sitt. De
+    som er med: Marit Hamdahl (Erika), Marit Østbye (Hennes venninne), Ragnhild Michelsen
+    (Hennes mor), Elna Hallenberg Næss (Hennes svigermor), Bjørg Vatle (Sekretæren),
+    Gerd Wiik (Kontorsøsteren). Instruktør: Jan Bull. Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00001175
+    Uploader: tubeup.py'

@@ -1,0 +1,40 @@
+prf_id: FTEA00004268
+title: Faderen
+description: August Strindbergs naturalistiske skuespill har i publikums øyne alltid
+  hatt et sterkt drag av forfatterens selvbekjennelse og selvavsløring.
+year: 1968
+duration_seconds: 6677
+image_url: https://gfx.nrk.no/AyPjWglDu8tJwDr98EyJoQ0-dfdYOacraB34rhlVCzvw
+nrk_url: https://tv.nrk.no/se?v=FTEA00004268
+play_id: 703
+performance_id: 751
+source: nrk
+medium: tv
+credits:
+- person_id: 90
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 17
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 542
+  role: actor
+- person_id: 755
+  role: actor
+resources:
+- id: 410
+  url: https://archive.org/details/NRKTV-FTEA004268-AR-199313191
+  title: Faderen 18.02.1969
+  type: archive_fallback
+  description: 'Av den svenske dramatikeren August Strindberg. "Faderen" hører til
+    hans mest spilte skuespill, især utenfor Sverige. Det hører til hans naturalistiske
+    skuespill, men har i publikums øyne alltid hatt et sterkt drag av forfatterens
+    selvbekjennelse og selvavsløring. Oversatt av Karen Lisa Nielsen. Dekor: Per Schwab.
+    Instruktør: Arild Brinchman. Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00004268
+    Uploader: tubeup.py'

@@ -1,0 +1,47 @@
+id: 333
+work_id: 327
+source: nrk
+title: 'En uventet gjest blir vitne til et mord '
+description: Et hus omgitt av tåke, en uventet gjest som finner en død mann og en
+  kvinne som tilstår å ha myrdet ham.
+total_duration: 5349
+image_url: https://gfx.nrk.no/1Gc6ie_c7FC2Lzyhq-suxggZX4i3QQdVLsDRvHjjXHIQ
+medium: radio
+series_id: uventet-gjest
+credits:
+- person_id: 2091
+  role: other
+- person_id: 1295
+  role: other
+- person_id: 1321
+  role: playwright
+- person_id: 1276
+  role: other
+- person_id: 714
+  role: director
+- person_id: 606
+  role: actor
+- person_id: 744
+  role: actor
+- person_id: 148
+  role: actor
+- person_id: 1946
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 615
+  role: actor
+- person_id: 711
+  role: actor
+- person_id: 458
+  role: actor
+- person_id: 69
+  role: actor
+- person_id: 1315
+  role: director
+- person_id: 1276
+  role: actor
+- person_id: 2092
+  role: other
+- person_id: 2093
+  role: actor

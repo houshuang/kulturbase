@@ -1,0 +1,19 @@
+prf_id: FTEA00005785
+title: En måned på landet
+description: En studie av livet i et russisk provinsmiljø blant viljesvake og handlingsudyktige
+  mennesker. Fra et storgodt i Russland 1847. Av Ivan Turgenjev.
+year: 1985
+duration_seconds: 6117
+image_url: https://gfx.nrk.no/BeDiIct6TETI4t4reOPTWg8358EGXiwgFaMjzfZaUPVQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00005785
+play_id: 457
+performance_id: 485
+source: nrk
+medium: tv
+resources:
+- id: 331
+  url: https://archive.org/details/NRKTV-FTEA005785-AR-199011325
+  title: En måned på landet 08.04.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTEA00005785
+    Uploader: tubeup.py'

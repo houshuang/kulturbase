@@ -1,0 +1,19 @@
+prf_id: FTEA00006887
+title: Drøm
+description: En ung kvinne tar inn på et avsidesliggende hotell. Hun er midt i en
+  ekteskapskrise og trenger tid for seg selv. Basert på Natt Hotell av Torun Lian.
+year: 1987
+duration_seconds: 1805
+image_url: https://gfx.nrk.no/2jPw6VrawqOzoiy-90inhgtw9RIAu7E78fTPKPA7zk5w
+nrk_url: https://tv.nrk.no/se?v=FTEA00006887
+play_id: 425
+performance_id: 449
+source: nrk
+medium: tv
+resources:
+- id: 192
+  url: https://archive.org/details/NRKTV-FTEA006887-AR-199025362
+  title: Drøm 13.12.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00006887
+    Uploader: tubeup.py'

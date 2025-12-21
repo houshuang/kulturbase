@@ -1,0 +1,41 @@
+prf_id: FTEA62001362
+title: Det siste kvarter
+description: Marias gamle flamme, kaptein Peter, dukker opp og får henne til å skille
+  seg fra sin mann, Olav, som hevn for at Olav røvet henne mens Peter var til sjøs
+  for flere år siden.
+year: 1962
+duration_seconds: 2901
+image_url: https://gfx.nrk.no/BWNqjVyFNUhgpemV2-ZeeweVH4XrFxf7kDJQaikFeyVA
+nrk_url: https://tv.nrk.no/se?v=FTEA62001362
+play_id: 832
+performance_id: 885
+source: nrk
+medium: tv
+credits:
+- person_id: 1139
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 679
+  role: actor
+- person_id: 75
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 1033
+  role: actor
+resources:
+- id: 2
+  url: https://archive.org/details/NRKTV-FTEA62001362-AR-199416103
+  title: Det siste kvarter 14.06.1962
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Det siste kvarter" av Sigbjørn Hølmebakk.
+    Marias gamle flamme, kaptein Peter, dukker opp og får henne til å skille seg fra
+    sin mann, Olav, som hevn for at Olav røvet henne mens Peter var til sjøs for flere
+    år siden. Maria gjennomskuer Peters motiver... I rollene: Karin Simonnæs (Maria),
+    Lothar Lindtner (Olav), Rolf Berntzen (Peter), Toralf Sandø (Stuerten). Dessuten
+    medvirker: Berit Søder, Frimann Falck Clausen og Roy Bjørnstad. Dekorasjon: Erik
+    Hagen. Instruktør: Tore Breda Thoresen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1962/FTEA62001362
+    Uploader: tubeup.py'

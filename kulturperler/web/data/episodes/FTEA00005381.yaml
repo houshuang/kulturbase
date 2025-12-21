@@ -1,0 +1,39 @@
+prf_id: FTEA00005381
+title: Byggmester Solness
+description: Drama av Henrik Ibsen. Byggmesteren er en gammel mann som opplever offentlig
+  suksess, men også private demoner.
+year: 1981
+duration_seconds: 6840
+image_url: https://gfx.nrk.no/HNalScZDVoURzZa5XsA0SwKNXfj_HZLzaF-Xq9U0lmLA
+nrk_url: https://tv.nrk.no/se?v=FTEA00005381
+play_id: 32
+performance_id: 547
+source: nrk
+medium: tv
+credits:
+- person_id: 727
+  role: actor
+- person_id: 63
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 728
+  role: actor
+- person_id: 309
+  role: actor
+- person_id: 534
+  role: actor
+resources:
+- id: 373
+  url: https://archive.org/details/NRKTV-FTEA005381-AR-199002083
+  title: Byggmester Solness 29.12.1981
+  type: archive_fallback
+  description: 'Fjernsynsteatrets klassiske oppsetning av Henrik Ibsens drama om byggmesteren
+    som opplever offentlig suksess, men også private demoner. Regi: Terje Mærli. I
+    rollene: Kjell Stormoen, Rut Tellefsen, Joachim Calmeyer, Minken Fosheim, Bjarne
+    Andersen, Tone Danielsen og Pia Tellefsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00005381
+    Uploader: tubeup.py'

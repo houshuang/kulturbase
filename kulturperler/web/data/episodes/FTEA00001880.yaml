@@ -1,0 +1,19 @@
+prf_id: FTEA00001880
+title: Protest
+description: En skildring av kamp mot løgn og undertrykkelse i et samfunn der opposisjonelle
+  stilles utenfor fellesskapet. Av Vaclav Havel.
+year: 1980
+duration_seconds: 2924
+image_url: https://gfx.nrk.no/Zo8n877zrAqW8wDbVzH_IwKal-mTWWh1HxMJlPlTcgtw
+nrk_url: https://tv.nrk.no/se?v=FTEA00001880
+play_id: 517
+performance_id: 549
+source: nrk
+medium: tv
+resources:
+- id: 157
+  url: https://archive.org/details/NRKTV-FTEA001880-AR-199102926
+  title: Protest 06.10.1981
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA00001880
+    Uploader: tubeup.py'

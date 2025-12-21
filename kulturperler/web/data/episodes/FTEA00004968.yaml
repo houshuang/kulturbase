@@ -1,0 +1,28 @@
+prf_id: FTEA00004968
+title: Veversken
+description: En veverske har solgt et stort billedteppe. Mens hun tar avskjed med
+  teppet, gjentar hun for seg selv alt det hun har tenkt på mens teppet ble vevd.
+year: 1968
+duration_seconds: 2580
+image_url: https://gfx.nrk.no/YVjTfyUpZckqhcHRB0l6Xgjg3eBAvW2w-WDRzumQiFgg
+nrk_url: https://tv.nrk.no/se?v=FTEA00004968
+play_id: 710
+performance_id: 758
+source: nrk
+medium: tv
+credits:
+- person_id: 306
+  role: actor
+resources:
+- id: 249
+  url: https://archive.org/details/NRKTV-FTEA004968-AR-199314060
+  title: Veversken 19.11.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Veversken", en monolog av Solveig Christov.
+    En veverske har nettopp solgt et stort billedteppe. Mens hun tar avskjed med teppet,
+    gjentar hun for seg selv alt det hun har tenkt på mens teppet ble vevet, hvordan
+    hennes liv ble fra hun var en ung kvinne og til nå, hvordan livet bestemte henne,
+    men også hvordan hun bestemte over livet. Stykket er tilegnet Liv Strømsted Dommersnes,
+    som spiller rollen som veversken. Billedteppet som vises i forestillingen er vevet
+    av Synnøve Aurdal. Billedregi: Egil Kolstø. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00004968
+    Uploader: tubeup.py'

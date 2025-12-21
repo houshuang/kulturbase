@@ -1,0 +1,23 @@
+id: 621
+work_id: 584
+source: nrk
+year: 1977
+title: Candida
+description: '"A mystery", en gåte, har George Bernard Shaw satt som undertittel på
+  ekteskapskomedien "Candida" fra 1895, utgitt 1898.'
+total_duration: 6348
+image_url: https://gfx.nrk.no/pMe78Rqg_01ZWEEKpy3zMAbWPzhZNhHdBlU9lDRyGKAQ
+medium: tv
+credits:
+- person_id: 813
+  role: actor
+- person_id: 253
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 116
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 801
+  role: actor

@@ -1,0 +1,36 @@
+prf_id: FTEA64002064
+title: Knepet
+description: Colin misunner Tolen for hans sjarm med kvinner. Når Nancy dukker opp,
+  oppstår en maktkamp mellom guttene, mens Nancy spiller dem opp mot hverandre.
+year: 1964
+duration_seconds: 5731
+image_url: https://gfx.nrk.no/9ynZ9b93wCkY8SEdMW8PRQ4kXYUg5RnqQa5z7kFnfILg
+nrk_url: https://tv.nrk.no/se?v=FTEA64002064
+play_id: 792
+performance_id: 842
+source: nrk
+medium: tv
+credits:
+- person_id: 808
+  role: actor
+- person_id: 997
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 126
+  role: actor
+resources:
+- id: 38
+  url: https://archive.org/details/NRKTV-FTEA64002064-AR-199412490
+  title: Knepet 28.05.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser skuespillet "Knepet" av den engelske dramatikeren
+    Ann Jellicoe. Komedie om sex skrevet i 1961 med original tittel "The Knack". En
+    farse om hva som skal til for å erobre kvinner. Den beskjedne Colin misunner sjarmøren
+    Tolen for hans drag på jenter. Den fremmede piken Nancy dukker opp, og det oppstår
+    en maktkamp mellom Colin og Tolen om henne. Nancy spiller dem ut mot hverandre
+    ved å påstå seg voldtatt av dem. Spørsmål om makt i forholdet mellom rivaler,
+    og mellom mann - kvinne. I rollene medvirker Magne Bleness (Colin), Per Christensen
+    (Tolen), Tone Schwarzott (Nancy) og Jon Heggedal (Tom). Oversatt av Johan Borgen.
+    Dekor: Olav Ile. Regi: Tore Breda Thoresen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64002064
+    Uploader: tubeup.py'

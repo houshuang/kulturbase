@@ -1,0 +1,38 @@
+id: 311
+work_id: 305
+source: nrk
+title: Hva skjuler seg der ute i tåkehavet?
+description: Line finner en dagbok som bestefaren Nils skrev da han var barn. Med
+  Bodil Tveteraas (Line), Fridtjof Fearnley (bestefar), Tom Tellefsen (Nils), Yngvil
+  Kiran (Camilla), Bjørg Svendsen (mor) og Øyvind Øyen (far).
+total_duration: 2720
+image_url: https://gfx.nrk.no/TAJ_JS_WvM-MeLmHoNeFqARJ04s7fJslb2qIwkj2RhJg
+medium: radio
+series_id: taakehav
+credits:
+- person_id: 1295
+  role: other
+- person_id: 2798
+  role: playwright
+- person_id: 714
+  role: director
+- person_id: 2799
+  role: actor
+- person_id: 2306
+  role: actor
+- person_id: 1446
+  role: actor
+- person_id: 447
+  role: actor
+- person_id: 1185
+  role: actor
+- person_id: 2800
+  role: director
+- person_id: 2801
+  role: other
+- person_id: 2802
+  role: other
+- person_id: 1573
+  role: actor
+- person_id: 388
+  role: actor

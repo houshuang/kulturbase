@@ -1,0 +1,40 @@
+prf_id: FTEA00001275
+title: Visittid
+description: William, venninnen Lisbeth, datteren og svigersønnen venter på at familiens
+  yngste medlem, Lille Lene, skal komme hjem etter et lengre sykehusopphold. Av Sverre
+  Udnæs.
+year: 1975
+duration_seconds: 6631
+image_url: https://gfx.nrk.no/5vQSmmsL1pZlwSI-eyxtsAy0ghzYtGTT_fSZHVi0iRTQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00001275
+play_id: 603
+performance_id: 640
+source: nrk
+medium: tv
+credits:
+- person_id: 81
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 37
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 348
+  role: actor
+resources:
+- id: 173
+  url: https://archive.org/details/NRKTV-FTEA001275-AR-199206354
+  title: Visittid 10.02.1976
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Visittid" av Sverre Udnæs. Vår - tidlig mai
+    - en ettermiddag, kveld, natt og morgen i en gjennomsnittsfamilie. Etter konens
+    død noen år tilbake i tiden har faren, William, knyttet seg til en venninne fra
+    arbeidsplassen - og Lisbeth, er blitt boende hos ham - blitt en del av hans hverdag.
+    Denne ettermiddagen i mai dukker datteren Karin og svigersønnen Martin opp. Sammen
+    med William og Lisbeth venter de på at familiens yngste medlem - Lille Lene, ca
+    20 år - skal komme hjem etter et lengre sykehusopphold. Stykket skisserer noen
+    mennesker fra en samtidig norsk virkelighet. De som er med: Jack Fjeldstad (William),
+    Mona Hofland (Lisbeth), Ane Hoel (Karin), Ole-Jørgen Nilsen (Martin), Maryon Eilertsen
+    (Lille Lene). Instruktør: Arild Brinchmann. Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00001275
+    Uploader: tubeup.py'

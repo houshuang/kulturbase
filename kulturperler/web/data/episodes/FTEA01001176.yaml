@@ -1,0 +1,39 @@
+prf_id: FTEA01001176
+title: Fedra
+description: Tragedie på vers av Jean Racine. Stykket handlar om dronning Fedras kjærleik
+  til stesonen Hippolytos, og hemnen hennar når han avviser henne.
+year: 1976
+duration_seconds: 5260
+image_url: https://gfx.nrk.no/wochVWNdlqoI-xUk7hmT8Q0t3_9-H2TkbMz0hnHv5ztw
+nrk_url: https://tv.nrk.no/se?v=FTEA01001176
+play_id: 586
+performance_id: 623
+source: nrk
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 574
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 348
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 542
+  role: actor
+resources:
+- id: 19
+  url: https://archive.org/details/NRKTV-ftea01001176-ar-199204015
+  title: Fedra 01.02.1977
+  type: archive_fallback
+  description: 'Tragedie på vers av Jean Racine. Temaet er fra antikken og stykket
+    handlar om dronning Fedras kjærleik til stesonen Hippolytos, og hemnen hennar
+    når han avviser henne. Medv: Bente Børsum, Ole-Jørgen Nilsen, Svein Sturla Hungnes
+    med fleire. Omsetjar: Halldis Moren Vesaas. Regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA01001176
+    Uploader: tubeup.py'

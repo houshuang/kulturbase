@@ -1,0 +1,25 @@
+prf_id: FDRP28003293
+title: Mamsepapsen
+description: Mamsepapsen er en glad, trist, alvorlig og morsom klovn, akkurat som
+  en klovn skal være. Prisbelønnet enakter for barn. Fra Centralteatret i Oslo.
+year: 1993
+duration_seconds: 2284
+image_url: https://gfx.nrk.no/FY54UyygGt9MJ2Hkf0Oa_AvGSNB0qfCxkvYHMwLRcYCA
+nrk_url: https://tv.nrk.no/se?v=FDRP28003293
+play_id: 371
+performance_id: 379
+source: nrk
+medium: tv
+credits:
+- person_id: 133
+  role: actor
+resources:
+- id: 203
+  url: https://archive.org/details/NRKTV-FDRP283293-AR-199407879
+  title: Mamsepapsen 28.12.1993
+  type: archive_fallback
+  description: 'Mamsepapsen er en glad, trist, alvorlig og morsom klovn, akkurat som
+    en klovn skal være. Prisbelønnet enakter for barn. Opptak fra Centralteatret i
+    Oslo. I rollen: Karl Sundby. Manuskript og regi: Karl Sundby. Prosjektleder: Roald
+    Øyen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1993/FDRP28003293 Uploader:
+    tubeup.py'

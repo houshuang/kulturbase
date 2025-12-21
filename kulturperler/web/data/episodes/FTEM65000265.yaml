@@ -1,0 +1,28 @@
+prf_id: FTEM65000265
+title: Favola
+description: En forestilling om lengsel etter kjærlighet, med musikk av Arne Nordheim.
+  Koreografi og regi av Ivo Cramér. Kringkastingsorkestret spiller.
+year: 1965
+duration_seconds: 2922
+image_url: https://gfx.nrk.no/4vy9stgTwcicXMTsNJudVwhLM9-X8mXhEZPNi3qHXhxg
+nrk_url: https://tv.nrk.no/se?v=FTEM65000265
+play_id: 772
+performance_id: 822
+source: nrk
+medium: tv
+credits:
+- person_id: 1068
+  role: other
+resources:
+- id: 84
+  url: https://archive.org/details/NRKTV-FTEM65000265-AR-199212886
+  title: Favola 07.09.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Favola" for to sangere og ti dansere. Et bestillingsverk
+    for fjernsynet om lengsel etter kjærlighet. Musikk: Arne Nordheim. Libretto: Per
+    Bronken. Dekorasjon og kostymer: Guy Krogh. Koreografi og regi: Ivo Cramér. Innledning
+    ved Ole Henrik Moe som intervjuer Arne Nordheim om arbeidet med stykket. Kringkastingsorkestret
+    spiller, dirigert av Sverre Bruland. Sangere: Sven Olof Eliasson og Karin Langebo.
+    Dansere: Bill Earl, Henny Mürer, Inger-Johanne Rütter, Mette Marit Sem, Guri Lysell,
+    Alice Mürer, Kari Wengård, Palle Damm, Fred Konrad og Arne Sverre. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEM65000265
+    Uploader: tubeup.py'

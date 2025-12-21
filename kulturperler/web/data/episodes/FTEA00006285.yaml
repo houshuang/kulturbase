@@ -1,0 +1,29 @@
+prf_id: FTEA00006285
+title: Holberg - erindringer i ord og toner
+description: Enmannsteater hvor Per Aabel opptrer som noen av Holbergs mest kjente
+  personer. Han var gjennom en årrekke norsk teaters fremste Holberg-tolker.
+year: 1985
+duration_seconds: 5604
+image_url: https://gfx.nrk.no/3VqoqPI43bweD1MKq5Brkw-JOslAZ6rFQgpiwk9AnofQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00006285
+play_id: 465
+performance_id: 493
+source: nrk
+medium: tv
+credits:
+- person_id: 563
+  role: actor
+- person_id: 564
+  role: actor
+- person_id: 565
+  role: actor
+- person_id: 551
+  role: actor
+resources:
+- id: 387
+  url: https://archive.org/details/NRKTV-ftea006285-ar-199060787
+  title: Holberg - erindringer i ord og toner 24.12.1985
+  type: archive_fallback
+  description: 'Et program av og med Per Aabel. Per Aabel var gjennom en årrekke norsk
+    teaters fremste Holberg-tolker. Nostalgi når du vil! Gjensyn med NRK-historie.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA00006285 Uploader: tubeup.py'

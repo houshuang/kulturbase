@@ -1,0 +1,35 @@
+prf_id: FTEA61001161
+title: Benjamin
+description: Fire kamerater møtes til kortspill. En av dem er jøde. Om antisemittisme,
+  sympatier og antipatier og slapphetstenkningen.
+year: 1961
+duration_seconds: 3116
+image_url: https://gfx.nrk.no/3m8pUGnPr-iaqIZrkj9r8AcN5UZhu1pB1t0HivZgFJzA
+nrk_url: https://tv.nrk.no/se?v=FTEA61001161
+play_id: 853
+performance_id: 906
+source: nrk
+medium: tv
+credits:
+- person_id: 953
+  role: actor
+- person_id: 1009
+  role: actor
+- person_id: 245
+  role: actor
+- person_id: 439
+  role: actor
+- person_id: 447
+  role: actor
+resources:
+- id: 110
+  url: https://archive.org/details/NRKTV-FTEA61001161-AR-199416164
+  title: Benjamin 04.05.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Benjamin" av Erland Josephson. Oversatt av
+    Finn Havrevold. Fire kamerater møtes til kortspill, en av dem er jøde. Stykket
+    handler om antisemittisme, innstillingen til minoriteter. Om hvordan sympatier
+    og antipatier uhyre lett vokser opp. Om slapphetstenkningen. I rollene: Sverre
+    Holm (Karl), Tom Tellefsen (Sam), Svein Byhring (Viktor), Svein Erik Brodal (Benjamin),
+    Gudrun Waadeland (Jenny). Dekorasjon: Erik Hagen. Instruktør: Hans Abramson. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61001161 Uploader: tubeup.py'

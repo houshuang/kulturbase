@@ -1,0 +1,59 @@
+prf_id: FTEA66002266
+title: De blanke knappene
+description: Av Mathis Mathisen. Hovedpersonen er en av de anonyme nazistene som rettsoppgjøret
+  etter krigen ikke rammet så hardt. Han er en svak, forvirret mann.
+year: 1966
+duration_seconds: 3656
+image_url: https://gfx.nrk.no/nKcESndSQj1dbfcl3fyuwgOWvQpXyg0wvI-Uon9CdTeg
+nrk_url: https://tv.nrk.no/se?v=FTEA66002266
+play_id: 740
+performance_id: 789
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 1042
+  role: actor
+- person_id: 712
+  role: actor
+- person_id: 841
+  role: actor
+- person_id: 523
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 744
+  role: actor
+- person_id: 540
+  role: actor
+- person_id: 1049
+  role: actor
+- person_id: 612
+  role: actor
+- person_id: 1050
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 1051
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 1033
+  role: actor
+resources:
+- id: 87
+  url: https://archive.org/details/NRKTV-FTEA66002266-AR-199314118
+  title: De blanke knappene 18.04.1967
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "De blanke knappene" av Mathis Mathisen, bearbeidet
+    for fjernsyn og instruert av Lars Löfgren. Stykket tar for seg en av de små anonyme
+    nazistene som rettsoppgjøret etter krigen ikke rammet med annet enn en bot. Hovedpersonen
+    er en svak, forvirret mann som da freden kom fikk sin dom og dermed følte seg
+    uforklarlig utstøtt av samfunnet. Tilbakeblikk til barndom, ungdom og voksen alder
+    gir innblikk og erkjennelse. I rollene medvirker blant andre Rolf Søder (Jeg som
+    voksen), Morten Søder (Jeg som barn), Henki Kolstad (faren), Ragnhild Michelsen
+    (moren) og Lise Fjeldstad (hustruen). Musikk: Arne Nordheim. Source: https://tv.nrk.no/serie/fjernsynsteatret/1967/FTEA66002266
+    Uploader: tubeup.py'

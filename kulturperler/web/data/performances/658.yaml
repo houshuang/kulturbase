@@ -1,0 +1,25 @@
+id: 658
+work_id: 135
+source: nrk
+year: 1975
+title: Hedda Gabler
+description: Av Henrik Ibsen. Hedda Gabler lever i et ekteskap med en mann hun ikke
+  elsker. Det borgelige livet kjennes kvelende. Hedda kjeder seg, og søker nye utfordringer.
+total_duration: 7435
+image_url: https://gfx.nrk.no/2ouKkb5KSXEJHMxKMn-cJQCP0voASxrL4XqgWf6XGwqw
+medium: tv
+credits:
+- person_id: 756
+  role: actor
+- person_id: 806
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 233
+  role: actor
+- person_id: 671
+  role: actor
+- person_id: 443
+  role: actor
+- person_id: 311
+  role: actor

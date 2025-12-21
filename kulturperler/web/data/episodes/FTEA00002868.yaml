@@ -1,0 +1,43 @@
+prf_id: FTEA00002868
+title: Trilopites
+description: Professor Truman blir interessert i en orangutang under et besøk i en
+  dyrehage. Han bestemmer seg for å kjøpe apen og lære den opp. Av Mathis Mathisen.
+year: 1968
+duration_seconds: 3315
+image_url: https://gfx.nrk.no/kP6xwDTysoQeXNOKKm-8VwFSXefoTaPrbWeSx37pHvtA
+nrk_url: https://tv.nrk.no/se?v=FTEA00002868
+play_id: 714
+performance_id: 763
+source: nrk
+medium: tv
+credits:
+- person_id: 566
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 1028
+  role: actor
+- person_id: 955
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 748
+  role: actor
+resources:
+- id: 306
+  url: https://archive.org/details/NRKTV-FTEA002868-AR-199001006
+  title: Trilopites 27.08.1968
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Trilopites", en absurd satire av Mathis Mathisen.
+    Professor Truman blir interessert i en orangutang under et besøk i en dyrehage.
+    Han bestemmer seg for å kjøpe apen og lære den opp. Hvor lik kan orangutangen
+    bli et menneske? Og hvem vil føle seg truet? I rollene medvirker blant andre Sverre
+    Hansen (Dr. Truman, vitenskapsmann) og Rolf Søder (Trilopites). Musikk: Ragnar
+    Søderlind. Bearbeidelse og instruksjon: Sølve Kern. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FTEA00002868
+    Uploader: tubeup.py'

@@ -1,0 +1,45 @@
+prf_id: FTEA00000770
+title: En hanske
+description: Stykket handler om troskap og svik. Den unge piken Svava får vite at
+  den hun elsker har hatt forhold til andre. Av Bjørnstjerne Bjørnson.
+year: 1970
+duration_seconds: 4708
+image_url: https://gfx.nrk.no/t9Qmh7OG3u_P_itozT_k_wdAYj04tDdlZUAJZJIxznJw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000770
+play_id: 680
+performance_id: 726
+source: nrk
+medium: tv
+credits:
+- person_id: 84
+  role: actor
+- person_id: 961
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 927
+  role: actor
+- person_id: 962
+  role: actor
+- person_id: 959
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 126
+  role: actor
+resources:
+- id: 268
+  url: https://archive.org/details/NRKTV-FTEA000770-AR-199311812
+  title: En hanske 06.10.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En hanske" av Bjørnstjerne Bjørnson, skrevet
+    i 1883, omarbeidet i 1886. Stykket handler om troskap og svik. Hovedpersonen er
+    den unge piken Svava, som får vite at den hun elsker, har hatt forhold til andre.
+    I rollene medvirker blant andre Tone Schwarzott (Svava), Arne Lindtner Næss (Alf),
+    Gisle Straume (Riis) og Helen Brichmann (fru Riis). Dekor: Gunnar Alme. Kostymer:
+    Tull Engø. Bearbeidet og instruert av Tore Breda Thoresen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00000770
+    Uploader: tubeup.py'

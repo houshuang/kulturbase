@@ -1,0 +1,37 @@
+prf_id: FTEA00001176
+title: Vaktmesteren
+description: Davies er en av de hjemløse i samfunnet. En dag blir han plukket opp
+  av Aston, vaktmester i en elendig gammel leiegård. Av Harold Pinter.
+year: 1976
+duration_seconds: 6076
+image_url: https://gfx.nrk.no/IkQooRatXb89vYZqhRJ9nw4cx1sTB2FCYw7UXu6_WYdA
+nrk_url: https://tv.nrk.no/se?v=FTEA00001176
+play_id: 591
+performance_id: 628
+source: nrk
+medium: tv
+credits:
+- person_id: 515
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 237
+  role: actor
+resources:
+- id: 161
+  url: https://archive.org/details/NRKTV-FTEA001176-AR-199206376
+  title: Vaktmesteren 21.12.1976
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Vaktmesteren" av Harold Pinter. (The Caretaker,
+    1959). Oversatt av Svein Selvig. Sminke: Wenche Fjeld. Kostymer: Nan Austin. Dekorasjoner:
+    Dag Frogner. Stykket handler om tre arbeidssky menn i en falleferdig leilighet
+    i London, og illuderer menneskenes kamp om makt - i den blir de mest primitive
+    virkemidler tatt i bruk. Davies er en av de hjemløse i samfunnet. En dag blir
+    han plukket opp av Aston, vaktmester i en elendig gammel leiegård. Han får gratis
+    losji på Astons hybel, slår seg til i den, og prøver snart å fortrenge sin velgjører.
+    Ta hybelen hans og jobben hans. Davies rommer nesten alt. Han er dum, lur, slu,
+    full av faen. Han påkaller avsky og medlidenhet. Er innpåsliten, hensynsløs, egoistisk.
+    Slåss for å overleve, i evig kamp med tingene rundt seg. De som er med: Ola B.
+    Johannessen (Mick), Finn Kvalem (Aston), Jack Fjeldstad (Davies), Instruktør:
+    Jon Heggedal. Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00001176
+    Uploader: tubeup.py'

@@ -1,0 +1,19 @@
+prf_id: FTRO00005386
+title: Øya
+description: To fanger kastes inn i en mørk celle, der de blir liggende på gulvet
+  og prate. For ikke å bli gale, opptrer fangene for hverandre.
+year: 1986
+duration_seconds: 3929
+image_url: https://gfx.nrk.no/sLEmBKhTYp_iAMoioHFEjQByWiHCnpP7NTV60u6KGXhA
+nrk_url: https://tv.nrk.no/se?v=FTRO00005386
+play_id: 452
+performance_id: 480
+source: nrk
+medium: tv
+resources:
+- id: 204
+  url: https://archive.org/details/NRKTV-FTRO005386-AR-199011119
+  title: Øya 21.10.1986
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1986/FTRO00005386
+    Uploader: tubeup.py'

@@ -1,0 +1,40 @@
+prf_id: FTEA00002172
+title: Aske
+description: Et middelaldrende ektepar, Daniel og Cecilie, lever alene i det store
+  huset sitt. De har en sønn, men han har forlatt hjemmet. Av Sverre Udnæs.
+year: 1972
+duration_seconds: 5922
+image_url: https://gfx.nrk.no/dUpUJrpekO2hd6auRYs_gAiCZDSTaY4kWyFdDHsXDoOQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00002172
+play_id: 646
+performance_id: 685
+source: nrk
+medium: tv
+credits:
+- person_id: 892
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 893
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 336
+  role: actor
+- person_id: 69
+  role: actor
+resources:
+- id: 423
+  url: https://archive.org/details/NRKTV-FTEA002172-AR-199213135
+  title: Aske 27.03.1973
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Aske" av Sverre Udnæs. Et middelaldrende ektepar,
+    Daniel og Cecilie, lever alene i det store huset sitt. De har en sønn, men han
+    har forlatt hjemmet, og de vet ikke engang om han lever eller er død. Han er jazzmusiker
+    og har brutt ut av foreldrenes miljø. Mens Cecilie er alene i huset, trenger tre
+    unge og en eldre seg inn, de er venner av sønnen. "Aske" forteller om konfliktene
+    som oppstår mellom Cecilie - og senere Daniel - og inntrengerne. Det er en konflikt
+    som har mange sider. De som er med: Wenche Foss (Cecilie), Jørn Ording (Daniel),
+    Svein Scharffenberg (Jo), Per Jansen (Allan), Anne Marit Jacobsen (Stella), Lars
+    Nordrum (Benny). Musikk: Gunnar Sønstevold. Instruktør: Sverre Udnæs. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1973/FTEA00002172 Uploader: tubeup.py'

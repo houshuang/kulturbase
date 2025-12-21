@@ -1,0 +1,62 @@
+prf_id: FTEA00005369
+title: Frøken Rosita
+description: En ung pike forlover seg, en eldre pike venter og en gammel pike prøver
+  å visne verdig. Av Federico García Lorca.
+year: 1969
+duration_seconds: 5478
+image_url: https://gfx.nrk.no/O8APgw_NBVDg_xxvKZz_fwUUY-Jsr_PWnntd1gOyR09Q
+nrk_url: https://tv.nrk.no/se?v=FTEA00005369
+play_id: 701
+performance_id: 749
+source: nrk
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 1018
+  role: actor
+- person_id: 778
+  role: actor
+- person_id: 441
+  role: actor
+- person_id: 676
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 73
+  role: actor
+- person_id: 715
+  role: actor
+- person_id: 1019
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 671
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 336
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 858
+  role: actor
+- person_id: 800
+  role: actor
+- person_id: 1020
+  role: actor
+resources:
+- id: 198
+  url: https://archive.org/details/NRKTV-FTEA005369-AR-199313216
+  title: Frøken Rosita 22.04.1969
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Frøken Rosita" (Doña Rosita la soltera, o
+    El lenguaje de las flores), skuespill av Federico García Lorca (1898-1936). Omsett
+    av Aslaug Vaa. Musikk: Maj Sønstevold. Dekorasjoner: Dag Frogner. Dei som er med:
+    Monna Tandberg (Frøken Rosita), Gisle Straume (Onkel), Tordis Maurstad (Tante),
+    Svein Scharffenberg (Fetter), Ella Hval (Dadda), Ingrid Valvik (1. Dros), Marit
+    Hamdahl (2. Dros), Beth Ullring (3. Dros), Anne-Mari Dale (1. Gamalfrøken), Inger
+    Teien (2. Gamalfrøken), Grete Nordrå (3. Gamalfrøken), Edel Eckblad (Mor til attergløymene),
+    Vibe Falk (Frøken Ayola 1), Bjørg Vatle (Frøken Ayola 2), Per Gjersøe (Ein professor),
+    Sverre Hansen (Don Martin), Thomas Fasting (Ungguten). Instruktør: Per Bronken.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1969/FTEA00005369 Uploader: tubeup.py'

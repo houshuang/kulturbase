@@ -1,0 +1,64 @@
+prf_id: FTEA00001872
+title: Aksel og Marit
+description: Aksel og Marit har lite penger og bor i en gammel leilighet. Når investeringene
+  deres slår feil har de få venner som kan hjelpe.
+year: 1972
+duration_seconds: 5259
+image_url: https://gfx.nrk.no/bdtnTgBwc8E5Cn3cwNLjFgkTCFbXMgY4TvYEx65RD8bg
+nrk_url: https://tv.nrk.no/se?v=FTEA00001872
+play_id: 643
+performance_id: 682
+source: nrk
+medium: tv
+credits:
+- person_id: 10
+  role: actor
+- person_id: 810
+  role: actor
+- person_id: 841
+  role: actor
+- person_id: 523
+  role: actor
+- person_id: 73
+  role: actor
+- person_id: 115
+  role: actor
+- person_id: 883
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 815
+  role: actor
+- person_id: 884
+  role: actor
+- person_id: 325
+  role: actor
+- person_id: 814
+  role: actor
+- person_id: 458
+  role: actor
+- person_id: 151
+  role: actor
+resources:
+- id: 355
+  url: https://archive.org/details/NRKTV-FTEA001872-ST199001021
+  title: Aksel og Marit 22.05.1973
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Aksel og Marit" av Terje Mærli. Dekorasjoner:
+    Grethe Hejer. Kostymer: Beate Berntsen. Aksel og Marit er et ektepar fra lavtlønnsgruppen.
+    Fortellingen om dem er lagt til tjukkeste Oslo. De er innflyttere og bor i en
+    gammel leilighet midt i byen. At leiligheten er gammel betyr at de selv må investere
+    for å skaffe seg den komfort de ønsker og trenger som familie med barn. Det gjør
+    de, men i grunnen har de ikke råd, det blir avbetalinger og lån, og på ulike måter
+    slår den stadige pengemangelen inn i ekteskapet. Situasjonen blir ikke bedre ved
+    at firmaet Aksel arbeider i, også sliter med økonomien og vel kanskje vil gå konkurs.
+    Av venner som kan hjelpe dem gjennom krisene, har de dessuten bare en, nykomlinger
+    som de er. De som er med: Sverre Anker Ousdal (Aksel), Eva Opaker (Marit), Ivar
+    Nørve (Ove), Eilif Armand (Formann Hansen), Vibeke Falk (Fru Daa-Hansen), Anne
+    Marie Ottersen (Anne), Unni Evjen (Anne, serveringsdame), Grete Nordrå og Rolf
+    Søder (Par på hybel), Steffen Ousdal (Anders). Ellers medvirker: Arne Lie, Unn
+    Vibeke Hol, Roy Bjørnstad, Sigmund Simonsen og Morten Bremer Mærli. Billedregi
+    og montasje: Terje Haglund. Instruktør: Terje Mærli. Source: https://tv.nrk.no/serie/fjernsynsteatret/1973/FTEA00001872
+    Uploader: tubeup.py'

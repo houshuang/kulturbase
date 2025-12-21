@@ -1,0 +1,63 @@
+prf_id: FTEA01002184
+title: Alma
+description: Alma og Albion bor på Oslos østkant i 1930-årene. Albion er arbeidsløs,
+  og de problemer det fører med seg, tærer både på ham og forholdet til Alma.
+year: 1984
+duration_seconds: 3150
+image_url: https://gfx.nrk.no/zhgHucidw7AbZRUJ2LN4BwtXlxx1Yhd0VAMeyCUfcj1A
+nrk_url: https://tv.nrk.no/se?v=FTEA01002184
+play_id: 474
+performance_id: 503
+source: nrk
+medium: tv
+credits:
+- person_id: 606
+  role: actor
+- person_id: 142
+  role: actor
+- person_id: 522
+  role: actor
+- person_id: 355
+  role: actor
+- person_id: 607
+  role: actor
+- person_id: 608
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 431
+  role: actor
+- person_id: 25
+  role: actor
+- person_id: 609
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 610
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 18
+  role: actor
+- person_id: 611
+  role: actor
+resources:
+- id: 349
+  url: https://archive.org/details/NRKTV-ftea012184-ar-199061015
+  title: Alma 26.03.1985
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Alma", etter en novelle av Oskar Braaten.
+    En film for fjernsyn. Kostymer: Else Lund og Vera Næss. Scenografi: Grethe Hejer.
+    Handlingen foregår i 1930-åra på Oslos østkant, og forteller om Alma og Albion
+    og deres samliv i gode og onde dager. Stykket er nesten som et skjebnedrama: Hovedpersonene
+    er glade i hverandre, men Albion er arbeidsløs. Og de problemer det fører med
+    seg, tærer uvergerlig både på ham og forholdet til Alma. Det ytre virker inn på
+    det indre. Forestillingen er blitt til gjennom et samarbeid mellom Åse Vikene,
+    Christian Brym, Bjørn Aass, Minken Fosheim, Svein Tindberg og Odd Arvid Strømstad.
+    I noen av rollene: Minken Fosheim (Alma), Svein Tindberg (Albion), Lieselotte
+    Holmene (Gudrun), Julie Øksnes (Nabofrua), Astri Jacobsen (Fru Frantzen), Bjørn
+    Jenseg (Dommer), Irene Thomsen Lie (En ekspeditrise), Jannik Bonnevie (En jordmor).
+    Musikk: Åsmund Feidje. Instruktør: Christian Brym. Source: https://tv.nrk.no/serie/fjernsynsteatret/1985/FTEA01002184
+    Uploader: tubeup.py'

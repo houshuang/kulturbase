@@ -1,0 +1,54 @@
+prf_id: FTEA00000571
+title: Som natt og dag
+description: Fjernsynsteatret viser "Som natt og dag. Bilete frå inngangen til ei
+  ny tid" av Paal-Helge Haugen.
+year: 1971
+duration_seconds: 3239
+image_url: https://gfx.nrk.no/gMxURzNopabrC3PHnGGwhA4B-aubT3ROj_7dyab39iHw
+nrk_url: https://tv.nrk.no/se?v=FTEA00000571
+play_id: 663
+performance_id: 707
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 727
+  role: actor
+- person_id: 941
+  role: actor
+- person_id: 322
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 148
+  role: actor
+- person_id: 267
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 245
+  role: actor
+- person_id: 388
+  role: actor
+resources:
+- id: 269
+  url: https://archive.org/details/NRKTV-FTEA000571-199001010-ST
+  title: Som natt og dag 15.02.1972
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Som natt og dag. Bilete frå inngangen til
+    ei ny tid" av Paal-Helge Haugen. Filmen har sin historiske bakgrunn i livet åt
+    småkårsfolk på den norske landsbygda i åra kring den første verdskrigen. Vi møter
+    eit bygdesamfunn prega av samanfallet av den gamle hierarkiske oppbygginga: avskaffinga
+    av husmannsvesenet, byrjande industrialisering, uår, krig og emigrasjon. Det gamle
+    klassesamfunnet skifte ham i denne tida, og det skjedde i ein samanheng der eit
+    lag av embetsmenn og meir velståande bønder heldt makta og råderetten over småkårsfolket
+    ikkje berre i kraft av økonomisk overtak, men også eit tankemessig, sterkt religiøst
+    farga maktgrep. I filmen finn vi motsetningane først og fremst representert ved
+    konfrontasjon mellom soknepresten og "hovedperson", der den siste møter med eit
+    nyvunne, uklart samfunnsmedvet med sosialistisk forankring, og presten representerer
+    ein statisk, pietistisk kristendom med klare samfunnsmessige, politiske implikasjonar.
+    Dei som er med: Kjell Stormoen, Bjarne Andersen, Svein Erik Brodal, Jack Fjeldstad,
+    Knut M. Hansson, Alf Malland, Jørn Ording, Kai Remlov, Hege Rohde og Øyvind Øyen.
+    Regi: Eva Chr. Nilsen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1972/FTEA00000571
+    Uploader: tubeup.py'

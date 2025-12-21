@@ -1,0 +1,19 @@
+prf_id: FTEA00001074
+title: Læregutter
+description: Lærlingene på fabrikken strever med å leve opp til den rituelle rolle
+  de føler de må spille. Av Peter Terson.
+year: 1974
+duration_seconds: 5342
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00001074
+play_id: 623
+performance_id: 661
+source: nrk
+medium: tv
+resources:
+- id: 172
+  url: https://archive.org/details/NRKTV-FTEA001074-AR-199212196
+  title: Læregutter 03.12.1974
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00001074
+    Uploader: tubeup.py'

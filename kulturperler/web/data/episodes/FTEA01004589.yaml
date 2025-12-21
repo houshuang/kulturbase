@@ -1,0 +1,19 @@
+prf_id: FTEA01004589
+title: Jeanne D'Arc
+description: Foran forestillingen. Scener fra Røst i Lofoten hvor forestillingen "Jeanne
+  D'Arc - visjon gjennom eld" er tatt opp. Samtale med Juni Dahr.
+year: 1989
+duration_seconds: 315
+image_url: https://gfx.nrk.no/HDi_U43bnBEmzRS_vR1t5AWRIkeE67RZfZJ5MtWiwyiA
+nrk_url: https://tv.nrk.no/se?v=FTEA01004589
+play_id: 411
+performance_id: 425
+source: nrk
+medium: tv
+resources:
+- id: 336
+  url: https://archive.org/details/NRKTV-FTEA014589-AR-199042251
+  title: Jeanne D'Arc 30.04.1990
+  type: archive_fallback
+  description: 'Foran Fjernsynsteatrets forestilling i morgen kveld. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA01004589
+    Uploader: tubeup.py'

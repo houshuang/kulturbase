@@ -1,0 +1,44 @@
+prf_id: FTEA00005387
+title: De hvite bussene
+description: Et fjernsynsspill om forhistorien til Folke Bernadotte-aksjonen som reddet
+  danske og norske sivile fanger fra tyske konsentrasjonsleire våren 1945.
+year: 1987
+duration_seconds: 7842
+image_url: https://gfx.nrk.no/R4_iuolTAD4H7Tw-_8mzqgjJ_XhFbRtR2yVix4uHouoA
+nrk_url: https://tv.nrk.no/se?v=FTEA00005387
+play_id: 434
+performance_id: 459
+source: nrk
+medium: tv
+credits:
+- person_id: 501
+  role: actor
+- person_id: 298
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 502
+  role: actor
+- person_id: 503
+  role: actor
+- person_id: 504
+  role: actor
+- person_id: 321
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 454
+  url: https://archive.org/details/NRKTV-FTEA00025387-AR-199025897
+  title: De hvite bussene 26.01.1988 (Part 2)
+  type: archive_fallback
+  description: Et fjernsynsspill om forhistorien til Folke Bernadotte-aksjonen som
+    reddet danske og norske sivile fanger fra tyske konsentrasjonsleire våren 1945.
+    I forestillingen benyttes dokumentarmateriale og rek...
+- id: 484
+  url: https://archive.org/details/NRKTV-FTEA00015387-AR-199025897
+  title: De hvite bussene 26.01.1988 (Part 1)
+  type: archive_fallback
+  description: Et fjernsynsspill om forhistorien til Folke Bernadotte-aksjonen som
+    reddet danske og norske sivile fanger fra tyske konsentrasjonsleire våren 1945.
+    I forestillingen benyttes dokumentarmateriale og rek...

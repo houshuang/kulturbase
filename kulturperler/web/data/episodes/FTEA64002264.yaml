@@ -1,0 +1,49 @@
+prf_id: FTEA64002264
+title: Båndet
+description: Av August Strindberg. Om forholdet mellom mann og kvinne, denne gangen
+  satt på spissen i en skilsmisse som skal avgjøres for en domstol.
+year: 1964
+duration_seconds: 3646
+image_url: https://gfx.nrk.no/oU_jgd4S_aMrNDflygXzYwJSfQDNv0pNcD2IOn38rpsQ
+nrk_url: https://tv.nrk.no/se?v=FTEA64002264
+play_id: 785
+performance_id: 835
+source: nrk
+medium: tv
+credits:
+- person_id: 1031
+  role: actor
+- person_id: 1043
+  role: actor
+- person_id: 1086
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 517
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 893
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 979
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 1033
+  role: actor
+- person_id: 1094
+  role: actor
+resources:
+- id: 68
+  url: https://archive.org/details/NRKTV-FTEA64002264-AR-199412756
+  title: Båndet 24.11.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser skuespillet "Båndet" av den svenske forfatteren
+    og dramatikeren August Strindberg. Teaterstykket er en enakter og handler om forholdet
+    mellom mann og kvinne, denne gangen satt på spissen i en skilsmisse som skal avgjøres
+    for en domstol. I rollene medvirker blant andre Per Lillo-Stenberg (Sorenskriveren),
+    Lars Nordrum (Baronen) og Mona Hofland (Friherrinnen). Oversatt av Eivind Hauge.
+    Dekor: Erik Hagen. Regi: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64002264
+    Uploader: tubeup.py'

@@ -1,0 +1,15 @@
+id: 839
+work_id: 789
+source: nrk
+year: 1964
+title: Kjære løgnhals
+description: Av Jerome Kilty. En personskildring av dramatikeren George Bernard Shaw
+  og skuespilleren Mrs. Stella Patrick Campbell, basert på deres intime brevveksling.
+total_duration: 6278
+image_url: https://gfx.nrk.no/PVyn_M-EghkCVdW4FkCECgR5ilYKHRogwE5QGYvCqCZA
+medium: tv
+credits:
+- person_id: 1091
+  role: actor
+- person_id: 551
+  role: actor

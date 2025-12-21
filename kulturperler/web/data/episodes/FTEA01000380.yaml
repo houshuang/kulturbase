@@ -1,0 +1,30 @@
+prf_id: FTEA01000380
+title: Nattsvermere
+description: To unge møtes og blir nysgjerrige på hverandre. Av John Hollen.
+year: 1980
+duration_seconds: 1729
+image_url: https://gfx.nrk.no/8T7bRyCfWXRb9k4LcEV4wg_1bPvBTe1GBswJxaeJRgTQ
+nrk_url: https://tv.nrk.no/se?v=FTEA01000380
+play_id: 523
+performance_id: 555
+source: nrk
+medium: tv
+credits:
+- person_id: 320
+  role: actor
+- person_id: 720
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 388
+  role: actor
+resources:
+- id: 394
+  url: https://archive.org/details/NRKTV-FTEA010380-AR-199102905
+  title: Nattsvermere 05.05.1981
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Nattsvermere" av John Hollen. Stykket handler
+    om to unge som møtes og blir nysjerrige på hverandre. I rollene medvirker Minken
+    Fosheim (Hun) og Svein Tindberg (Han). Sminke: Kari Wigre. Kostymer: Tull Engø.
+    Dekorasjoner: Grethe Hejer. Fotograf: Arne Borsheim. Regi: Per Bronken. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1981/FTEA01000380 Uploader: tubeup.py'

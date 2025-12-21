@@ -1,0 +1,19 @@
+prf_id: FTEA00003690
+title: Jeanne D'Arc - visjon gjennom eld
+description: Historien om Jeanne D'Arc, ungjenta som i 1429 leide den franske hæren
+  mot engelskmennene til seier i slaget ved Orleans. Monolog av Juni Dahr.
+year: 1990
+duration_seconds: 3190
+image_url: https://gfx.nrk.no/AzF4UMxRfU8gvw1wAfTOyAUAgyFLCULB9HeLsyTE5Glg
+nrk_url: https://tv.nrk.no/se?v=FTEA00003690
+play_id: 410
+performance_id: 424
+source: nrk
+medium: tv
+resources:
+- id: 248
+  url: https://archive.org/details/NRKTV-FTEA003690-AR-199042498
+  title: Jeanne D'Arc - visjon gjennom eld 01.05.1990
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1990/FTEA00003690
+    Uploader: tubeup.py'

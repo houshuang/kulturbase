@@ -1,0 +1,49 @@
+prf_id: FTEA00006090
+title: I lånte fjær
+description: Drama etter "Omkring Sedelighetsballet" av Sigrid Undset. En sydame elsker
+  å sy ballkjoler for de fine fruene. Med de er ikke er så nøye med å betale.
+year: 1990
+duration_seconds: 3555
+image_url: https://gfx.nrk.no/DCyq9xUkXhffBBTiatcJTQEYUuhXCCJM4f3r0NH8OIGQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00006090
+play_id: 386
+performance_id: 395
+source: nrk
+medium: tv
+credits:
+- person_id: 312
+  role: actor
+- person_id: 313
+  role: actor
+- person_id: 131
+  role: actor
+- person_id: 314
+  role: actor
+- person_id: 315
+  role: actor
+- person_id: 316
+  role: actor
+- person_id: 317
+  role: actor
+- person_id: 318
+  role: actor
+- person_id: 319
+  role: actor
+- person_id: 320
+  role: actor
+- person_id: 321
+  role: actor
+- person_id: 18
+  role: actor
+resources:
+- id: 196
+  url: https://archive.org/details/NRKTV-FTEA006090-AR-199407698
+  title: I lånte fjær 27.04.1992
+  type: archive_fallback
+  description: 'Drama etter novellen "Omkring Sedelighetsballet" av Sigrid Undset.
+    Frøken Granum er sydame, og hun elsker å sy vakre ballkjoler for de fine fruene.
+    Det er bare det, at de fine fruene ikke er så nøye med å betale for seg. I de
+    viktigste rollene: Marie Louise Tank (Frøken Granum), Trond Brænne (Egelien),
+    Minken Fosheim (Fru Missi), Torfinn Nag (Doktor Hjelm Hansen), Marianne Krogh
+    (Fru Lullik Skiørn). Regi: Åse Vikene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1992/FTEA00006090
+    Uploader: tubeup.py'

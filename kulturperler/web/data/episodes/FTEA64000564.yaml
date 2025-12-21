@@ -1,0 +1,50 @@
+prf_id: FTEA64000564
+title: Stormen
+description: Av William Shakespeare. Klassisk drama om skipbrudne på en øde øy.
+year: 1964
+duration_seconds: 6719
+image_url: https://gfx.nrk.no/bJiVDwNbjPkeXQtO6aAhgA-oJb9XUYR_VJaZZUugUw8g
+nrk_url: https://tv.nrk.no/se?v=FTEA64000564
+play_id: 793
+performance_id: 843
+source: nrk
+medium: tv
+credits:
+- person_id: 834
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 1100
+  role: actor
+- person_id: 517
+  role: actor
+- person_id: 587
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 80
+  role: actor
+- person_id: 311
+  role: actor
+- person_id: 1033
+  role: actor
+- person_id: 1073
+  role: actor
+- person_id: 748
+  role: actor
+resources:
+- id: 81
+  url: https://archive.org/details/NRKTV-FTEA64000564-AR-199406125
+  title: Stormen 21.05.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Stormen", et skuespill av William Shakespeare.
+    Klassisk drama om skipbrudne på en øde øy. I rollene medvirker blant andre: Per
+    Gjersøe (Prospero), Gudrun Waadeland (Miranda), Jens Bolling (Alonso) og Tor Stokke
+    (Sebastian). Teaterstykket er oversatt av Rolf Hiorth Schøyen og bearbeidet av
+    Harald Sverdrup. Dekor: Christian Egemar. Kostymer: Ada Skolmen. Musikk: Gunnar
+    Sønstevold. Regi: Barthold Halle. Source: https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64000564
+    Uploader: tubeup.py'

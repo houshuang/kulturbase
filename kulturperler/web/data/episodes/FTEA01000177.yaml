@@ -1,0 +1,37 @@
+prf_id: FTEA01000177
+title: John Gabriel Borkman
+description: Av Henrik Ibsen. Etter å ha sonet en straff for bedrageri, isolerer banksjef
+  John Gabriel Borkman seg både for omverdenen og fra sin nærmeste familie.
+year: 1977
+duration_seconds: 5808
+image_url: https://gfx.nrk.no/yWjsXgZnzCwrf9pEbZuhCwS65Z0Wng0nhLRK7X6lHZ7Q
+nrk_url: https://tv.nrk.no/se?v=FTEA01000177
+play_id: 572
+performance_id: 608
+source: nrk
+medium: tv
+credits:
+- person_id: 790
+  role: actor
+- person_id: 791
+  role: actor
+- person_id: 792
+  role: actor
+- person_id: 793
+  role: actor
+- person_id: 794
+  role: actor
+- person_id: 795
+  role: actor
+- person_id: 796
+  role: actor
+resources:
+- id: 238
+  url: https://archive.org/details/NRKTV-FTEA010177-AR-199203578
+  title: John Gabriel Borkman 10.01.1978
+  type: archive_fallback
+  description: 'Drama av Henrik Ibsen (1896). Bearbeidet og instruert av Per Bronken.
+    Medvirkende: Knut Wigert (John Gabriel Borkman), Astrid Folstad (Gunhild Borkman),
+    Wenche Foss (Ella Rentheim), Bentein Baardson (Erhardt Borkman), Kari Simonsen
+    (Fanny Wilton) og Sverre Hansen (Wilhelm Foldal). Source: https://tv.nrk.no/serie/fjernsynsteatret/1978/FTEA01000177
+    Uploader: tubeup.py'

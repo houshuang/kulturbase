@@ -1,0 +1,53 @@
+prf_id: FTEA00003586
+title: Carl Lange
+description: Uten varsel kommer katastrofen inn i Carl Langes velordnete liv. Politiet
+  mistenker ham for en alvorlig forbrytelse. Av Kjell Askildsen.
+year: 1986
+duration_seconds: 4314
+image_url: https://gfx.nrk.no/GChRmtIGxCuWEtqmneg1hAK_ibnHMckcNjDS-M03QHdQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00003586
+play_id: 438
+performance_id: 465
+source: nrk
+medium: tv
+credits:
+- person_id: 441
+  role: actor
+- person_id: 89
+  role: actor
+- person_id: 522
+  role: actor
+- person_id: 523
+  role: actor
+- person_id: 429
+  role: actor
+- person_id: 524
+  role: actor
+- person_id: 516
+  role: actor
+- person_id: 525
+  role: actor
+- person_id: 359
+  role: actor
+- person_id: 491
+  role: actor
+- person_id: 526
+  role: actor
+- person_id: 324
+  role: actor
+- person_id: 527
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 325
+  role: actor
+resources:
+- id: 442
+  url: https://archive.org/details/NRKTV-FTEA003586-AR-199305230
+  title: Carl Lange 01.09.1987
+  type: archive_fallback
+  description: 'Uten varsel kommer katastrofen inn i Carl Langes velordnete liv. Politiet
+    mistenker ham for en alvorlig forbrytelse. Indisiene er svake, etterforskningen
+    tar tid, og i mellomtiden settes Carl Langes identitetsfølelse på en alvorlig
+    prøve. Av Kjell Askildsen. Sendt i Fjernsynsteatret, 1987. Source: https://tv.nrk.no/serie/fjernsynsteatret/1987/FTEA00003586
+    Uploader: tubeup.py'

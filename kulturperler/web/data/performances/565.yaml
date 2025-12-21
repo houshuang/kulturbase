@@ -1,0 +1,23 @@
+id: 565
+work_id: 530
+source: nrk
+year: 1980
+title: Ballerina
+description: Malin er et "annerledes" barn. Etter års trening har moren en nøkkel
+  til hennes lukkede verden. Men hva vil skje med Malin i framtida? Av Arne Skouen.
+total_duration: 7724
+image_url: https://gfx.nrk.no/0wLOllai_jwFNU5WODTNnQ0hC9zaZFd-peb7NylRqd3w
+medium: tv
+credits:
+- person_id: 380
+  role: actor
+- person_id: 560
+  role: actor
+- person_id: 431
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 383
+  role: actor
+- person_id: 320
+  role: actor

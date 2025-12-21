@@ -1,0 +1,37 @@
+prf_id: FTEA66001866
+title: Rosmersholm
+description: Drama av Henrik Ibsen. Den unge og frigjorte Rebekka West vil ha pastor
+  Rosmer, men vil hans grublerier og hans kones selvmord ødelegge deres forhold?
+year: 1966
+duration_seconds: 7381
+image_url: https://gfx.nrk.no/2IEJFbjNobPy3sK2E4yRwgHiYu1P5RxmdScvvkVzjX9w
+nrk_url: https://tv.nrk.no/se?v=FTEA66001866
+play_id: 560
+performance_id: 815
+source: nrk
+medium: tv
+credits:
+- person_id: 735
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 1055
+  role: actor
+- person_id: 753
+  role: actor
+- person_id: 725
+  role: actor
+- person_id: 443
+  role: actor
+resources:
+- id: 14
+  url: https://archive.org/details/NRKTV-FTEA66001866-AR-199206130
+  title: Rosmersholm 11.01.1966
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Rosmersholm", et drama av Henrik Ibsen (1886).
+    Om det å være et fritt menneske. Den unge og frigjorte Rebekka West vil ha pastor
+    Rosmer, men vil hans grublerier og hans kones selvmord ødelegge deres forhold?
+    I rollene: Per Sunderland (Johannes Rosmer), Henny Moan (Rebekka West), Jørn Ording
+    (rektor Kroll), Hans Stormoen (Ulrik Brendel), Einar Wenes (Peder Mortensgård)
+    og Else Heiberg (Madame Helseth). Instruktør: Gerhard Knoop. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66001866
+    Uploader: tubeup.py'

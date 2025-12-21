@@ -1,0 +1,45 @@
+prf_id: FTEA00007269
+title: Kjemp for alt hva du har kjært
+description: Familien Jensen og dens holdninger til omverden. En sammensveiset gruppe
+  med utpreget forsvarsholdning utad. Satirisk komedie av Tor Åge Bringsværd.
+year: 1969
+duration_seconds: 2400
+image_url: https://gfx.nrk.no/8NevwkpSiEiCAMvk5KzrUgykNOUnOHecqX3LeOM0IvIQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00007269
+play_id: 690
+performance_id: 738
+source: nrk
+medium: tv
+credits:
+- person_id: 153
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 768
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 994
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 721
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 408
+  url: https://archive.org/details/NRKTV-FTEA007269-AR-199311720
+  title: Kjemp for alt hva du har kjært 06.01.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Kjemp for alt hva du har kjært" av Tor Åge
+    Bringsværd. En satirisk komedie, Bringsværds debut som fjernsynsdramatiker. Kostymer:
+    Grethe Wang. Dekorasjoner: Willi Nordraa. Stykket handler om familien Jensen og
+    dens holdninger til omverden. En sammensveiset gruppe med utpreget forsvarsholdning
+    utad, de er mistenksomme, misunnelige og selvopptatte. Og lider av en kronisk
+    selvrettferdighet. Familien skal ikke tas bokstavelig, det er egentlig forholdet
+    mellom nasjoner stykket vil si noe om. De som er med: Arne Aas (Herr Jensen),
+    Bab Christensen (Fru Jensen), Marit Hamdahl (Datteren), Karl Willie Hoel (Sønnen),
+    Carsten Winger (Bestefar), Wilfred Breistrand (Journalisten), Else Heiberg (Fru
+    Fredriksen), Rannov Nilsen (Politimannen). Instruktør: Jon Heggedal. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00007269
+    Uploader: tubeup.py'

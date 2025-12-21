@@ -1,0 +1,52 @@
+prf_id: FTEA00005283
+title: Det store Vi
+description: Hvor går grensen mellom pressens frihet og dens økonomiske avhengighet
+  av eiere og annonsører?
+year: 1983
+duration_seconds: 5293
+image_url: https://gfx.nrk.no/Qw5nq5bjbUNkpMUcosCQOgwvBxRHIDZJgq6fqQnpMUKg
+nrk_url: https://tv.nrk.no/se?v=FTEA00005283
+play_id: 492
+performance_id: 522
+source: nrk
+medium: tv
+credits:
+- person_id: 10
+  role: actor
+- person_id: 566
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 618
+  role: actor
+- person_id: 665
+  role: actor
+- person_id: 124
+  role: actor
+- person_id: 8
+  role: actor
+- person_id: 569
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 513
+  role: actor
+- person_id: 684
+  role: actor
+- person_id: 126
+  role: actor
+- person_id: 379
+  role: actor
+resources:
+- id: 434
+  url: https://archive.org/details/NRKTV-FTEA005283-AR-199006133
+  title: Det store Vi 25.10.1983
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Det store Vi" av Helge Krog. Hvor går grensen
+    mellom pressens frihet og dens økonomiske avhengighet av eiere og annonsører?
+    I rollene medvirker blant andre Wilfred Breistrand (redaktør Welle), Arne Aas
+    (Arensen) og Johannes Joner (Egil Holst). Bearbeidet for fjernsyn og regissert
+    av Tore Breda Thoresen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00005283
+    Uploader: tubeup.py'

@@ -1,0 +1,19 @@
+prf_id: FTEA00000275
+title: Sukkerbrød med kaviar
+description: To unge blir kjent med hverandre på en kafeteria der de begge arbeider.
+  Han er en ung dikter, hun er uerfaren og ensom. Av Leonard Melfi.
+year: 1975
+duration_seconds: 4134
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA00000275
+play_id: 614
+performance_id: 651
+source: nrk
+medium: tv
+resources:
+- id: 310
+  url: https://archive.org/details/NRKTV-FTEA000275-AR-199210175
+  title: Sukkerbrød med kaviar 26.08.1975
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1975/FTEA00000275
+    Uploader: tubeup.py'

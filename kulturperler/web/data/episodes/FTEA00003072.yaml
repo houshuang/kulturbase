@@ -1,0 +1,26 @@
+prf_id: FTEA00003072
+title: Claes Gill leser "Bendik og Årolilja"
+description: En nordisk ballade om Bendik og Åroliljas tragiske kjærlighet, dødsdom
+  og trær som fletter seg sammen over deres graver.
+year: 1972
+duration_seconds: 954
+image_url: https://gfx.nrk.no/hFCT4FweMyY5iwLjsKFOLAJKxpBIgkKt4xbYXaFQdcJA
+nrk_url: https://tv.nrk.no/se?v=FTEA00003072
+play_id: 632
+performance_id: 671
+source: nrk
+medium: tv
+credits:
+- person_id: 876
+  role: actor
+resources:
+- id: 339
+  url: https://archive.org/details/NRKTV-FTEA003072-AR-199211507
+  title: Claes Gill leser "Bendik og Årolilja" 31.03.1974
+  type: archive_fallback
+  description: 'Claes Gill leser "Bendik og Årolilja". En nordisk ballade som forteller
+    om den tragiske kjærligheten mellom Bendik og Årolilja. Bendik blir dømt til døden
+    og halshugd, og Årolilja dør av sorg. De blir gravlagt på hver sin side av kirken,
+    men på gravene vokser det opp to trær som fletter seg sammen over kirketaket.
+    En typisk riddervise. Source: https://tv.nrk.no/serie/fjernsynsteatret/1974/FTEA00003072
+    Uploader: tubeup.py'

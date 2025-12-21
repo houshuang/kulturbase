@@ -1,0 +1,20 @@
+id: 747
+work_id: 699
+source: nrk
+year: 1968
+title: Sluttspill
+description: En maktkamp utspiller seg mellom tjeneren Clov som ikke kan sitte og
+  herren Hamm som ikke kan stå. Clov vil forlate sin herre, men hvor skal han dra?
+  Av Samuel Beckett.
+total_duration: 5328
+image_url: https://gfx.nrk.no/E1uQ3__E7y-lTD4Mtz42fwgx5gR5cWhnU3yR6qcvrbVw
+medium: tv
+credits:
+- person_id: 885
+  role: actor
+- person_id: 729
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 770
+  role: actor

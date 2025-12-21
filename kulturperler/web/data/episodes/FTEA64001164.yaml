@@ -1,0 +1,48 @@
+prf_id: FTEA64001164
+title: Tartuffe
+description: Den skinnhellige presten Tartuffe vil gifte seg med Mariane, datteren
+  til embetsmannen Orgon. Hun elsker imidlertid Valère. Av Jean-Baptiste Molière.
+year: 1964
+duration_seconds: 4861
+image_url: https://gfx.nrk.no/kEllsmVEI6UnsUu00YVxLQQ19pzRwOd2An4RLYq5UmCw
+nrk_url: https://tv.nrk.no/se?v=FTEA64001164
+play_id: 436
+performance_id: 844
+source: nrk
+medium: tv
+credits:
+- person_id: 885
+  role: actor
+- person_id: 1101
+  role: actor
+- person_id: 888
+  role: actor
+- person_id: 1048
+  role: actor
+- person_id: 233
+  role: actor
+- person_id: 669
+  role: actor
+- person_id: 959
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 378
+  role: actor
+- person_id: 898
+  role: actor
+- person_id: 80
+  role: actor
+resources:
+- id: 41
+  url: https://archive.org/details/NRKTV-FTEA64001164-AR-199406086
+  title: Tartuffe 14.05.1964
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Tartuffe", en komedie skrevet i 1664 av den
+    franske forfatteren Jean-Baptiste Molière. Gjendiktet til norsk av André Bjerke.
+    Den skinnhellige presten Tartuffe vil gifte seg med Mariane, datteren til embetsmannen
+    Orgon. Hun elsker imidlertid Valère. Presten er bare ute etter Orgons formue og
+    avsløres når han prøver å forføre hans hustru, Elmire. I rollene medvirker blant
+    andre Knut Wigert (Tartuffe), Sverre Hansen (Orgon), Gry Enger (Mariane) og Mona
+    Hofland (Elmire). Dekor og kostymer: Gunnar Alme. Regi: Knut Thomassen. Source:
+    https://tv.nrk.no/serie/fjernsynsteatret/1964/FTEA64001164 Uploader: tubeup.py'

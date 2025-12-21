@@ -1,0 +1,40 @@
+prf_id: FTEA00000771
+title: Vi lever kvart vårt liv
+description: Om skuffelser og brutte håp både for den eldre og yngre generasjon. Av
+  den engelske dramatikeren David Mercer.
+year: 1971
+duration_seconds: 3480
+image_url: https://gfx.nrk.no/k9pzoW3EkHS6JDItsv8KHQOmMZRdEXY6fEVRD7SPuK3A
+nrk_url: https://tv.nrk.no/se?v=FTEA00000771
+play_id: 669
+performance_id: 713
+source: nrk
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 574
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 591
+  role: actor
+- person_id: 379
+  role: actor
+- person_id: 388
+  role: actor
+resources:
+- id: 240
+  url: https://archive.org/details/NRKTV-FTEA000771-AR-199311503
+  title: Vi lever kvart vårt liv 05.10.1971
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Kvart vårt liv" av David Mercer. Oversatt
+    til nynorsk av Arnljot Eggen. På overflaten handler stykket om generasjonsmotsetninger,
+    men går man dypere i stoffet finner man at det forteller om skuffelser og brutte
+    håp både for den eldre og yngre generasjon. Personene stammer fra arbeiderklassemiljø
+    i Yorkshire, England. I rollene medvirker blant andre: Øyvind Øyen (Wilf), Frøydis
+    Armand (Gillian), Svein Moen (Richard), Wilfred Breistrand (Edgar) og Elsa Lystad
+    (Margaret). Dekor: Grethe Hejer. Kostymer: Nan Austin. Instruktør: Per Bronken.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1971/FTEA00000771 Uploader: tubeup.py'

@@ -1,0 +1,53 @@
+prf_id: FTEA61000561
+title: Den anstendige skjøgen
+description: En skjøge manipuleres av hvite menn til å vitne falsk mot en uskyldig,
+  farget mann. Av Jean-Paul Sartre.
+year: 1961
+duration_seconds: 4173
+image_url: https://gfx.nrk.no/lNc5jm7ZozrdBg7_h4OsOAoi7xkb6VG8xSNJg7W7LlBQ
+nrk_url: https://tv.nrk.no/se?v=FTEA61000561
+play_id: 849
+performance_id: 902
+source: nrk
+medium: tv
+credits:
+- person_id: 1069
+  role: actor
+- person_id: 714
+  role: actor
+- person_id: 961
+  role: actor
+- person_id: 1122
+  role: actor
+- person_id: 612
+  role: actor
+- person_id: 12
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 462
+  role: actor
+- person_id: 1094
+  role: actor
+resources:
+- id: 1
+  url: https://archive.org/details/NRKTV-FTEA61000561-AR-199416177
+  title: Den anstendige skjøgen 07.09.1961
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Den anstendige skjøgen" av Jean-Paul Sartre.
+    Oversatt av Tryggve Norum. Mennesker, selvtilfredse borgere som aldri gripes av
+    tvil om sin egen ufeilbarlighet. Som tror på en naturlig orden i samfunnet, og
+    denne orden er statisk. Følgelig er det bare naturlig at den hvite morderen blir
+    kjent uskyldig. Og morderen, er han hvit? Tilhører han noen kjent familie? Hva
+    har han utrettet for det bestående samfunnet? Skjøgen Lizzie, hovedpersonen, står
+    i en dramatisk valgsituasjon. Hun vet negeren er uskyldig, skal hun redde ham
+    eller sende ham i galgen. Skal hun sikre seg takknemlighet og blomster fra morderens
+    rike mor, eller redde den uskyldige? Skal hun vrake senatorsønnens tilbud om å
+    bli hans elskerinne, eller skal hun akseptere hans tilbud med alle de materielle
+    fordeler det innebærer. Ensom kastes Lizzie mellom alle muligheter i situasjonen,
+    hun tolker virkeligheten omkring seg, tolker sin egen situasjon - eller rettere:
+    hun velger en tolkning. I rollene: Urda Arneberg (Lizzie), Knut Risan (Fred),
+    Erling Lindahl (Senatoren), Vegard Hall (Negeren), Erik Lassen (John), Arne Riis
+    (James), Roy Bjørnstad (En mann). Dessuten medvirker Knut Hultgren og Georg Thommesen.
+    Dekorasjon: Herman Bendixen. Instruktør: Knut M. Hansson. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61000561
+    Uploader: tubeup.py'

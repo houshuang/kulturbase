@@ -1,0 +1,23 @@
+id: 414
+work_id: 400
+source: nrk
+year: 1990
+title: Dødsdansen
+description: Alice og Edgar nærmer seg sølvbryllup. Et besøk utløser en av mange kriser
+  i ekteskapet. Er de tjuefem årene egentlig noe å feire? Av August Strindberg.
+total_duration: 8479
+image_url: https://gfx.nrk.no/KlXOWnoLB66YXPLLD3ykOw0KZ8gTkGEvEkVQbaytviTw
+medium: tv
+credits:
+- person_id: 441
+  role: actor
+- person_id: 431
+  role: actor
+- person_id: 442
+  role: actor
+- person_id: 443
+  role: actor
+- person_id: 336
+  role: actor
+- person_id: 444
+  role: actor

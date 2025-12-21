@@ -1,0 +1,19 @@
+prf_id: FTEA00006787
+title: Krabbemannen
+description: Kristian er sønn av en fisker på Senja. Som uskyldig unggutt reiser han
+  ut i verden for å finne seg selv, og høster etter hvert sine egne erfaringer.
+year: 1987
+duration_seconds: 4203
+image_url: https://gfx.nrk.no/Pm3k-hgGwq0vkv_cg5lZJALxAdtW0SrDXjs3xZ7CookA
+nrk_url: https://tv.nrk.no/se?v=FTEA00006787
+play_id: 431
+performance_id: 456
+source: nrk
+medium: tv
+resources:
+- id: 276
+  url: https://archive.org/details/NRKTV-FTEA006787-AR-199305266
+  title: Krabbemannen 05.04.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00006787
+    Uploader: tubeup.py'

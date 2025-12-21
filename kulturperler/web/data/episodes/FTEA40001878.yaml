@@ -1,0 +1,37 @@
+prf_id: FTEA40001878
+title: Den som henger i en tråd 4:4
+description: Serie i fire deler etter en roman av Nini Roll Anker om fabrikkjenter
+  i 1930-årene, om utbytting, men også om gryende opprør. Del fire.
+year: 1978
+duration_seconds: 4192
+image_url: https://gfx.nrk.no/gqrKrpbSGZsXWqCIKx8rdAOwIzTqHgoyXN9a6Kf9zN8Q
+nrk_url: https://tv.nrk.no/se?v=FTEA40001878
+play_id: 539
+performance_id: 577
+source: nrk
+medium: tv
+resources:
+- id: 150
+  url: https://archive.org/details/NRKTV-FTEA101878-AR-199102084
+  title: Den som henger i en tråd 1:4 26.02.1980
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA10001878
+    Uploader: tubeup.py'
+- id: 263
+  url: https://archive.org/details/NRKTV-FTEA301878-AR-199102088
+  title: Den som henger i en tråd 3:4 11.03.1980
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA30001878
+    Uploader: tubeup.py'
+- id: 359
+  url: https://archive.org/details/NRKTV-FTEA401878-AR-199102089
+  title: Den som henger i en tråd 4:4 18.03.1980
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA40001878
+    Uploader: tubeup.py'
+- id: 421
+  url: https://archive.org/details/NRKTV-FTEA201878-AR-199102086
+  title: Den som henger i en tråd 2:4 04.03.1980
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1980/FTEA20001878
+    Uploader: tubeup.py'

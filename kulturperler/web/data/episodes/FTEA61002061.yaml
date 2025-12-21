@@ -1,0 +1,45 @@
+prf_id: FTEA61002061
+title: Fru Carrars børser
+description: Rammehistorien er hentet fra den spanske borgerkrigen og skildrer et
+  fiskermiljø i en fattig landsby hvor passiviteten rår. Av Bertolt Brecht.
+year: 1961
+duration_seconds: 3667
+image_url: https://gfx.nrk.no/RI7E1yKkCSq9WDSA6FQ9gAd6foBwRewx5l-rUbCDtChA
+nrk_url: https://tv.nrk.no/se?v=FTEA61002061
+play_id: 844
+performance_id: 897
+source: nrk
+medium: tv
+credits:
+- person_id: 971
+  role: actor
+- person_id: 1080
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 1016
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 770
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 245
+  role: actor
+- person_id: 760
+  role: actor
+- person_id: 1151
+  role: actor
+resources:
+- id: 250
+  url: https://archive.org/details/NRKTV-FTEA000061-AR-199416199
+  title: Fru Carrars børser 07.12.1961
+  type: archive_fallback
+  description: 'Drama av den tyske forfatteren Bertolt Brecht. Oversatt til nynorsk
+    av Hartvig Kiran. Dekor: Christian Egemar. Instruktør: Arild Brinchmann. Innledning
+    ved Ole Grepp. Rammehistorien er hentet fra den spanske borgerkrigen og skildrer
+    et fiskermiljø i en fattig landsby hvor passiviteten rår. I hovedrollene: Ragnhild
+    Michelsen (moren), Svein Erik Brodal (gutten), Rolf Søder (arbeideren) og Roy
+    Bjørnstad (soldaten). Sendt i Fjernsynsteatret. Source: https://tv.nrk.no/serie/fjernsynsteatret/1961/FTEA61002061
+    Uploader: tubeup.py'

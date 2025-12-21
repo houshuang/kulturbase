@@ -1,0 +1,59 @@
+prf_id: FTEA00000282
+title: Medea
+description: 'Tragedie av Evripides, truleg frå år 431. Stykket handlar om kjærleik,
+  svik, sjalusi, sorg og hemn. Musikk: Jan Garbarek. Omsetjar: Halldis Moren Vesaas.'
+year: 1982
+duration_seconds: 6840
+image_url: https://gfx.nrk.no/oxxkC6yq-ebYc5JmHcCyJQv7ays7hwUtgtedz06yTQkQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00000282
+play_id: 491
+performance_id: 521
+source: nrk
+medium: tv
+credits:
+- person_id: 675
+  role: actor
+- person_id: 676
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 677
+  role: actor
+- person_id: 294
+  role: actor
+- person_id: 380
+  role: actor
+- person_id: 168
+  role: actor
+- person_id: 678
+  role: actor
+- person_id: 679
+  role: actor
+- person_id: 403
+  role: actor
+- person_id: 460
+  role: actor
+- person_id: 620
+  role: actor
+- person_id: 680
+  role: actor
+- person_id: 681
+  role: actor
+- person_id: 682
+  role: actor
+- person_id: 683
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 246
+  role: actor
+- person_id: 581
+  role: actor
+resources:
+- id: 322
+  url: https://archive.org/details/NRKTV-FTEA000282-AR-199006132
+  title: Medea 15.11.1983
+  type: archive_fallback
+  description: 'Medea er ein tragedie skriven av grekaren Evripides, truleg i år 431.
+    Stykket handlar om svik og hemn. Omsetjar: Halldis Moren Vesaas. Regi: Pål Løkkeberg.
+    Source: https://tv.nrk.no/serie/fjernsynsteatret/1983/FTEA00000282 Uploader: tubeup.py'

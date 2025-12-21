@@ -1,0 +1,32 @@
+prf_id: FTEA66001566
+title: New York-idyller
+description: Av J.P. Donleavy. Stykket består av episoder som hver for seg er avsluttede
+  skisser fra livet i gigantbyen.
+year: 1966
+duration_seconds: 5366
+image_url: https://gfx.nrk.no/hpvC7Q4KuKzbF_B4QnDu8gH2U9LY1dVY8BjXbDZgZgGw
+nrk_url: https://tv.nrk.no/se?v=FTEA66001566
+play_id: 755
+performance_id: 804
+source: nrk
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 90
+  role: actor
+- person_id: 541
+  role: actor
+- person_id: 80
+  role: actor
+resources:
+- id: 57
+  url: https://archive.org/details/NRKTV-FTEA66001566-AR-199318081
+  title: New York-idyller 06.09.1966
+  type: archive_fallback
+  description: 'Av den amerikanske forfatteren J.P. Donleavy. Stykket består av episoder
+    som hver for seg er avsluttede skisser fra livet i gigantbyen. Skissene bindes
+    sammen ved å ha New York-tilværelsen som samlende motiv, men også ved en gjennomgangsfigur,
+    herr Christian. Episodene: Helen. Om å søke jobb. Knock-out. De ferskenfargede
+    sko Dekor: Christian Egemar. Instruktør: Magne Bleness. Source: https://tv.nrk.no/serie/fjernsynsteatret/1966/FTEA66001566
+    Uploader: tubeup.py'

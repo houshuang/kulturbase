@@ -1,0 +1,41 @@
+prf_id: FTEA00000277
+title: En lykkelig begivenhet
+description: Et grotesk, farseaktige skuespill om en anarkist som søker husvære og
+  narres til å bo sammen med en overklassefamilie. Av Slawomir Mrozek.
+year: 1977
+duration_seconds: 3572
+image_url: https://gfx.nrk.no/MZueUTt8oZICq5-8IvnoHwdXDHcxdW89OPejaBLtE5ZQ
+nrk_url: https://tv.nrk.no/se?v=FTEA00000277
+play_id: 575
+performance_id: 611
+source: nrk
+medium: tv
+credits:
+- person_id: 749
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 802
+  role: actor
+- person_id: 325
+  role: actor
+- person_id: 80
+  role: actor
+resources:
+- id: 160
+  url: https://archive.org/details/NRKTV-FTEA000277-AR-199204180
+  title: En lykkelig begivenhet 08.11.1977
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "En lykkelig begivenhet" (1971) av Slawomir
+    Mrozek. Oversatt av Per Bronken. Sminke: Karin Sæther. Kostymer: Tull Engø. Dekorasjoner:
+    Christian Egemar. Et grotesk-farseaktige skuespill om en anarkist som søker husvære
+    og narres til å bo sammen med en overklassefamilie. Bestefaren i huset hindrer
+    ekteparet i å få barn, anarkisten distraherer ham, og kvinnen føder - en djevelsk
+    sønn. Stykket er et pessimistisk apropos til våre dagers Europa og de krefter
+    som der er på spill, fra den beinharde konservatisme til døgnflueanarkismen og
+    det "liberale" sosialdemokrati. En ren allegori, og den billedlige formen gjør
+    at både venstre- og høyrekrefter kan finne ting å more seg over. De som er med:
+    Per Christensen (Gjesten), Sverre Anker Ousdal (Herren), Eva von Hanno (Fruen),
+    Sverre Hansen (Gubben - den tyranniske generalen), Runar Borge (En baby). Instruktør:
+    Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1977/FTEA00000277
+    Uploader: tubeup.py'

@@ -1,0 +1,17 @@
+id: 400
+work_id: 390
+source: nrk
+year: 1991
+title: Saft
+description: Anne Mali Sæther, Pernille Anker og Berte Hilmo vant konkurransen Scenario
+  91 med stykket "Saft. Fra Det Åpne Teatret i Oslo.
+total_duration: 2193
+image_url: https://gfx.nrk.no/WXUwT22aZ1zIzlXJjDXlKg6b7NqlPEOKajhpiW7OsTQQ
+medium: tv
+credits:
+- person_id: 337
+  role: other
+- person_id: 338
+  role: actor
+- person_id: 339
+  role: actor

@@ -1,0 +1,19 @@
+prf_id: FTEA00005987
+title: Til lykke med dagen
+description: En ung fengselsfugl har gått ut og inn av institusjoner i hele oppveksten.
+  Hvilke muligheter har han til å begynne et nytt liv når han slippes ut?
+year: 1987
+duration_seconds: 6864
+image_url: https://gfx.nrk.no/cEKODcGMUwKRe5l6yiZbUQN45lyIZvzDjEFtFnqXkygw
+nrk_url: https://tv.nrk.no/se?v=FTEA00005987
+play_id: 310
+performance_id: 455
+source: nrk
+medium: tv
+resources:
+- id: 432
+  url: https://archive.org/details/NRKTV-FTEA005987-AR-199305267
+  title: Til lykke med dagen 03.05.1988
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1988/FTEA00005987
+    Uploader: tubeup.py'

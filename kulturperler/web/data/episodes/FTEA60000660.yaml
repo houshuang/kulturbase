@@ -1,0 +1,61 @@
+prf_id: FTEA60000660
+title: Ungen
+description: Fabrikkjenta Milja forelsker seg i kjekkasen Julius og kommer "i uløkka".
+  Han svikter henne, og hun blir sittende med skammen. Skuespill av Oskar Braaten.
+year: 1960
+duration_seconds: 4984
+image_url: https://gfx.nrk.no/3n64acpSM64pGzqZP9qiOgwSFS5_rn79KrhdYfF29Ydw
+nrk_url: https://tv.nrk.no/se?v=FTEA60000660
+play_id: 862
+performance_id: 917
+source: nrk
+medium: tv
+credits:
+- person_id: 899
+  role: actor
+- person_id: 1031
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 885
+  role: actor
+- person_id: 953
+  role: actor
+- person_id: 1143
+  role: actor
+- person_id: 1165
+  role: actor
+- person_id: 1089
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 1053
+  role: actor
+- person_id: 439
+  role: actor
+- person_id: 1166
+  role: actor
+- person_id: 96
+  role: actor
+- person_id: 1167
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 52
+  url: https://archive.org/details/NRKTV-FTEA60000660-AR-199421253
+  title: Ungen 22.09.1960
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Ungen" av Oskar Braaten. Kristiania på slutten
+    av 1800-tallet. Fabrikkpikene i hverdag og fest, og deres seire og nederlag i
+    kjærlighetslivet. Fabrikkjenta Milja forelsker seg i kjekkasen Julius og kommer
+    "i uløkka". Han svikter henne, og hun blir sittende med skammen. Milja lar seg
+    overtale til å adoptere bort "lausungen", men Hønse-Lovisa setter alt inn på at
+    barnet skal være hos moren. I rollene: Harald Aimarsen (Engebret), Egil Hjorth-Jenssen
+    (Krestoffer), Roy Bjørnstad (Julius, fabrikkgutt), Sigrun Otto (Lagreta, hans
+    mor), Else Heiberg (Hønse-Lovisa), Turid Balke (Krestna, piken hennes), Urda Arneberg
+    (Petrina), Gudrun Waadeland (Milja), Elsa Lystad (Petra), Synnøve Borg (Olina),
+    Unni Thoresen (Serafia), Oscar Amundsen (Doktoren), Bonnie Gauguin (Gurina Neger),
+    Sverre Holm (Erik), Jan Erik Sæterø (Nils). Dekorasjon: Bjørn Næss. Musikk: Johan
+    Øian. Instruktør: Toralf Sandø. Source: https://tv.nrk.no/serie/fjernsynsteatret/1960/FTEA60000660
+    Uploader: tubeup.py'

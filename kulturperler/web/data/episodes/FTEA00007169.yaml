@@ -1,0 +1,48 @@
+prf_id: FTEA00007169
+title: Småborgerbryllup
+description: Et bryllup blant borgerskapets mindre bemidlede. Møblene knekker, talene
+  under middagen er dårlige og gjestene viser slette manerer. Av Bertolt Brecht.
+year: 1969
+duration_seconds: 2987
+image_url: https://gfx.nrk.no/tBiozguZoV71Xi27DaxOQAc9hIj4tXNVsFCjRtsXHoKw
+nrk_url: https://tv.nrk.no/se?v=FTEA00007169
+play_id: 688
+performance_id: 736
+source: nrk
+medium: tv
+credits:
+- person_id: 712
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 15
+  role: actor
+- person_id: 349
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 351
+  role: actor
+- person_id: 591
+  role: actor
+- person_id: 126
+  role: actor
+resources:
+- id: 185
+  url: https://archive.org/details/NRKTV-FTEA007169-AR-199001005
+  title: Småborgerbryllup 10.02.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Småborgerbryllup", satire av Bertolt Brecht.
+    (Die Kleinbürgerhochzeit). Oversatt av Inger Hagerup. Dekor: Dag Frogner. Et av
+    Brechts første skuespill handler om småborgerens sosiale egoisme, pretensiøse,
+    moralske talemåter og forfengelighet: Et bryllup blandt borgerskapets mindre bemidlede.
+    Det unge brudeparet har snekret møbler selv, som knekker når gjestene setter seg.
+    Middagen forløper dårlig, med platte viser, historier, taler og slette manerer.
+    Ingen oppfører seg som man bør i et bryllup. De som er med: Ragnhild Michelsen
+    (Moren), Gisle Straume (Faren), Tone Schwarzott (Bruden), Svein Moen (Brudgommen),
+    Nils Ole Oftebro (Den unge mannen), Eva von Hanno (Søsteren), Anne-Mari Dale (Kvinnen),
+    Roy Bjørnstad (Mannen), Per Christensen (Vennen). Musikk arr.: Johan Øian. Instruktør:
+    Kurt-Olof Sundström. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00007169
+    Uploader: tubeup.py'

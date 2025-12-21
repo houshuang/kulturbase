@@ -1,0 +1,37 @@
+prf_id: FDRP28003393
+title: Den fillete dokka
+description: Rosita, en bortskjemt rikmannsdatter, kaster den gamle fillete dokka
+  si. Paca finner den og får reparert den så den skinner som ny. En barnemusikal.
+year: 1993
+duration_seconds: 3929
+image_url: https://gfx.nrk.no/_Wr5AhmqmJXgL04BwFJACQAZF1-vbvfEPR_-Zjc3B3Hg
+nrk_url: https://tv.nrk.no/se?v=FDRP28003393
+play_id: 372
+performance_id: 380
+source: nrk
+medium: tv
+credits:
+- person_id: 284
+  role: actor
+- person_id: 285
+  role: actor
+- person_id: 286
+  role: actor
+- person_id: 287
+  role: actor
+- person_id: 288
+  role: actor
+resources:
+- id: 279
+  url: https://archive.org/details/NRKTV-FDRP283393-AR-199407876
+  title: Den fillete dokka 25.12.1993
+  type: archive_fallback
+  description: 'Rosita er en bortskjemt rikmannsdatter som ikke lenger vil ha den
+    gamle fillete dokka si, derfor kaster hun den. Paca finner dokka, og får reparert
+    den så den skinner som ny. En barnemusikal produsert av Riksteatret og Spill Levende.
+    Fritt etter et skuespill av den spanske forfatteren Alfonso Sastre, som igjen
+    bygger på den urgamle kinesiske fortellingen "Den kaukasiske krittsirkelen". I
+    rollene: Eva Dons, Marit Krogeide, Geir-Atle Johnsen, Dennis Storhøi og Øyvind
+    Lie Thommessen. Regi og bearbeidelse: Petter Næss. Sangtekster: Helge Hagerup
+    og Geir-Atle Johnsen. Fjernsynsregi og prosjektleder: Roald Øyen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1993/FDRP28003393
+    Uploader: tubeup.py'

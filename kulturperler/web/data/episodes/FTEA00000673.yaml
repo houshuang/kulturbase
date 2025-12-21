@@ -1,0 +1,58 @@
+prf_id: FTEA00000673
+title: Tre søstre
+description: Offiserfamilien Prosorov drives fra sitt hjem av den inngiftede Natalija.
+  Av Anton Tsjekov.
+year: 1973
+duration_seconds: 10725
+image_url: https://gfx.nrk.no/166zJAhWsNcBgJo9SNU1zACvo3f17q2fDS9326sAbJew
+nrk_url: https://tv.nrk.no/se?v=FTEA00000673
+play_id: 639
+performance_id: 678
+source: nrk
+medium: tv
+credits:
+- person_id: 727
+  role: actor
+- person_id: 4
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 515
+  role: actor
+- person_id: 665
+  role: actor
+- person_id: 343
+  role: actor
+- person_id: 658
+  role: actor
+- person_id: 880
+  role: actor
+- person_id: 5
+  role: actor
+- person_id: 118
+  role: actor
+- person_id: 881
+  role: actor
+- person_id: 120
+  role: actor
+- person_id: 336
+  role: actor
+- person_id: 447
+  role: actor
+- person_id: 882
+  role: actor
+resources:
+- id: 457
+  url: https://archive.org/details/NRKTV-FTEA00020673-AR-199305458
+  title: Tre søstre 02.10.1973 (Part 2)
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Tre søstre" av Anton Tsjekov (1900). Tilrettelagt
+    for fjernsyn av Sverre Udnæs, etter en oversettelse av Ejnar Thomassen. Stykket
+    handler om offiserfamilien Prosorov som drives...
+- id: 462
+  url: https://archive.org/details/NRKTV-FTEA00010673-AR-199305458
+  title: Tre søstre 02.10.1973 (Part 1)
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Tre søstre" av Anton Tsjekov (1900). Tilrettelagt
+    for fjernsyn av Sverre Udnæs, etter en oversettelse av Ejnar Thomassen. Stykket
+    handler om offiserfamilien Prosorov som drives...

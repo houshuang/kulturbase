@@ -1,0 +1,23 @@
+prf_id: FTEM63000263
+title: Kimære
+description: En lyrisk ballett av Per Bronken om mannens lengsel etter kvinnen, med
+  musikk av Arne Nordheim og koreografi av Henny Mürer.
+year: 1963
+duration_seconds: 906
+image_url: https://gfx.nrk.no/-NbJ5xAs7ALTcv-4FB8MtQSm6ItWOxd3rbQ22CnFuuRg
+nrk_url: https://tv.nrk.no/se?v=FTEM63000263
+play_id: 806
+performance_id: 859
+source: nrk
+medium: tv
+resources:
+- id: 100
+  url: https://archive.org/details/NRKTV-FTEM63000263-AR-199212875
+  title: Kimære 17.10.1963
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Kimære", en lyrisk ballett av Per Bronken.
+    Om mannens lengsel etter kvinnen. Diktet "Kimærer" av Per Bronken blir lest av
+    forfatteren. Musikken er av Arne Nordheim, koreografien ved Henny Mürer og dekorasjoner
+    og kostymer ved Guy Krogh. Dansere: Mette Marit Sem og Dino Luque. Scenario og
+    regi: Per Bronken. Source: https://tv.nrk.no/serie/fjernsynsteatret/1963/FTEM63000263
+    Uploader: tubeup.py'

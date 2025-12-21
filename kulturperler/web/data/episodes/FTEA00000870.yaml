@@ -1,0 +1,39 @@
+prf_id: FTEA00000870
+title: Tyven, tyven ...
+description: Stykket er en farse med overraskende og vittige situasjoner som følger
+  så tett på hverandre at de formelig snubler i hverandre. Av Dario Fo.
+year: 1970
+duration_seconds: 2977
+image_url: https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwLrwmApBjm6mztyGHUOcIGA
+nrk_url: https://tv.nrk.no/se?v=FTEA00000870
+play_id: 678
+performance_id: 723
+source: nrk
+medium: tv
+credits:
+- person_id: 901
+  role: actor
+- person_id: 84
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 68
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 447
+  role: actor
+resources:
+- id: 407
+  url: https://archive.org/details/NRKTV-FTEA000870-AR-199311845
+  title: Tyven, tyven ... 24.11.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Tyven, tyven ..." av den italienske forfatteren
+    Dario Fo. Stykket er en farse med overraskende og vittige situasjoner som følger
+    så tett på hverandre at de formelig snubler i hverandre. I rollene medvirker blant
+    andre Tom Tellefsen (tyven), Aud Schønemann (tyvens kone), Gisle Straume (mannen)
+    og Eva von Hanno (kvinnen). Oversatt av Carl Fredrik Engelstad. Dekor: Lajla Hovland.
+    Kostymer: Nan Austin. Instruktør: Aloysius Valente. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00000870
+    Uploader: tubeup.py'

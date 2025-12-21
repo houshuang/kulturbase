@@ -1,0 +1,33 @@
+prf_id: FDRP23000294
+title: Den som graver en grav
+description: Hva kan skje fra en avisannonse? Charlotte bor alene i et stort hus og
+  kontakter en ekspert for å få alarm. Neste natt vekkes hun av fremmede i huset.
+year: 1994
+duration_seconds: 1719
+image_url: https://gfx.nrk.no/xu4clGhfeGzP3QkcFO1w-AJxgcLmFZUYaI8rVsdxbFxA
+nrk_url: https://tv.nrk.no/se?v=FDRP23000294
+play_id: 362
+performance_id: 370
+source: nrk
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 150
+  role: actor
+- person_id: 138
+  role: actor
+- person_id: 151
+  role: actor
+resources:
+- id: 304
+  url: https://archive.org/details/NRKTV-FDRP230294-AR-199504800
+  title: Den som graver en grav 07.08.1994
+  type: archive_fallback
+  description: 'Den aldrende Charlotte bor alene i et stort hus. Hennes venninne Aslaug
+    mener hun burde legge inn et skikkelig alarmsystem. Motvillig tar Charlotte kontakt
+    med en ekspert som går gjennom hele huset med henne. Neste natt vekkes hun av
+    at det er fremmede i huset. Manuskript: John Luton og Dan Taxbro. Prosjektleder:
+    Dan Alveberg. Regi: Lasse Glomm. I rollene medvirker Vibeke Falk, Terje Strømdahl,
+    Bab Christensen og Marianne Mørk. Source: https://tv.nrk.no/serie/fjernsynsteatret/1994/FDRP23000294
+    Uploader: tubeup.py'

@@ -1,0 +1,23 @@
+id: 351
+work_id: 135
+source: nrk
+year: 1995
+title: Hedda Gabler
+description: Drama av Ibsen som dukketeater, fra Oslo Nye Dukketeatret. Forestillingen
+  vant prisen for beste scenografi på teaterfestivalen Baltic House 96.
+total_duration: 4374
+image_url: https://gfx.nrk.no/ZSawjpinIkIlM8U1PafKFgL5F7U0hGQJ7o6CUGBf1k3Q
+medium: tv
+credits:
+- person_id: 47
+  role: actor
+- person_id: 48
+  role: actor
+- person_id: 49
+  role: actor
+- person_id: 50
+  role: actor
+- person_id: 51
+  role: actor
+- person_id: 52
+  role: actor

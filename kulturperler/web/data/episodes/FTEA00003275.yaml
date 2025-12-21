@@ -1,0 +1,39 @@
+prf_id: FTEA00003275
+title: Mordet i Viorne
+description: De parterte delene av den døvstumme Marie-Therese Boske ble funnet på
+  jernbanen i Frankrike i 1974. Hennes kusine, Claire Lannes, er mordersken. Av Marguerite
+  Duras.
+year: 1975
+duration_seconds: 4640
+image_url: https://gfx.nrk.no/GkBLXcRAJZB8-bF1ud-i-wznZVTImjq_2iOLntr-hEYg
+nrk_url: https://tv.nrk.no/se?v=FTEA00003275
+play_id: 601
+performance_id: 638
+source: nrk
+medium: tv
+credits:
+- person_id: 500
+  role: actor
+- person_id: 237
+  role: actor
+- person_id: 351
+  role: actor
+resources:
+- id: 340
+  url: https://archive.org/details/NRKTV-FTEA003275-AR-199206363
+  title: Mordet i Viorne 23.03.1976
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Mordet i Viorne" av Marguerite Duras. (L''Amante
+    anglaise, 1967). Oversatt av Elisabeth Thams. Et gruppearbeid under ledelse av
+    Per Christensen. Åpningsscenen forteller om bakgrunnen for resten av stykket:
+    I en godsvogn i Frankrike ble det 8. april 1974 funnet en del av et menneskelegeme.
+    I de påfølgende dager blir det funnet andre deler i andre godsvogner, i Frankrike
+    og andre steder. Bare hodet blir ikke funnet noe sted. I Paris blir delene satt
+    sammen: De tilhører en kvinnekropp. Claire Lannes tilstår forbrytelsen straks
+    hun står ansikt til ansikt med politiet. Hun har myrdet sin døvstumme kusine Marie-Therese
+    Boske. Romanen og kveldens skuespill er sentrert om morderen Claire, og satt sammen
+    av to lange samtaler. En intervjuer snakker først med Claires mann Pierre og siden
+    med Claire selv. Det intervjueren hele tiden søker, er mordmotivet. Hvorfor drepte
+    Claire Lannes? De som er med: Bente Børsum (Claire Lannes), Roy Bjørnstad (Pierre
+    Lannes), Ola B. Johannessen (Intervjueren). Source: https://tv.nrk.no/serie/fjernsynsteatret/1976/FTEA00003275
+    Uploader: tubeup.py'

@@ -1,0 +1,33 @@
+prf_id: FDRP28004695
+title: Privattimen
+description: En stakkars elev prøver å gjøre sitt beste, men læreren er både urimelig
+  og kravstor. Overføring fra Rogaland teater. Av Eugène Ionesco.
+year: 1995
+duration_seconds: 2764
+image_url: https://gfx.nrk.no/Y-8Caxt7NIRfqqVe3qilOgs75DJPKQwirdR2XqmT1iwA
+nrk_url: https://tv.nrk.no/se?v=FDRP28004695
+play_id: 345
+performance_id: 353
+source: nrk
+medium: tv
+credits:
+- person_id: 59
+  role: actor
+- person_id: 60
+  role: actor
+- person_id: 61
+  role: actor
+resources:
+- id: 377
+  url: https://archive.org/details/NRKTV-FTEA007469-AR-199311781
+  title: Privattimen 26.05.1970
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser "Privattimen" av Eugène Ionesco, et absurd
+    og tragikomisk teaterstykke som viser hvordan språket blir brukt som maktredskap.
+    En kvinnelig elev blir drillet av den mannlige professoren til å uttale absurde
+    læresetninger. På hver sin måte våger to mennesker seg på det vanskeligste uten
+    først å kunne det grunnleggende. I rollene medvirker Gisle Straume (professoren),
+    Eva von Hanno (den unge eleven), Elsa Lystad (hushjelpen) og Marit Hamdahl (den
+    nye eleven). Oversatt av Mimi Omdahl. Dekor: Per Fjeld. Instruktør: Tore Breda
+    Thoresen. Source: https://tv.nrk.no/serie/fjernsynsteatret/1970/FTEA00007469 Uploader:
+    tubeup.py'

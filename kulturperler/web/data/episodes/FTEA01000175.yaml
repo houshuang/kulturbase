@@ -1,0 +1,19 @@
+prf_id: FTEA01000175
+title: Marit
+description: Om rådvillhet og redsel overfor det uforståelige og avvikene, og om sinnsykdom
+  som fenomen. Av Lars Noren.
+year: 1975
+duration_seconds: 2507
+image_url: https://gfx.nrk.no/xhMohox-YWNgeD1ESWJJYQFPSfQjL_VBhpwZadJ9qy4w
+nrk_url: https://tv.nrk.no/se?v=FTEA01000175
+play_id: 606
+performance_id: 643
+source: nrk
+medium: tv
+resources:
+- id: 444
+  url: https://archive.org/details/NRKTV-FTEA010175-AR-199211247
+  title: Marit 16.12.1975
+  type: archive_fallback
+  description: 'Teateroppsetninger fra NRKs faste scene. Source: https://tv.nrk.no/serie/fjernsynsteatret/1975/FTEA01000175
+    Uploader: tubeup.py'

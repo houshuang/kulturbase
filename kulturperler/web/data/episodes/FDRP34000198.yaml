@@ -1,0 +1,64 @@
+prf_id: FDRP34000198
+title: 'Skipper Worse: Hjemkomsten'
+description: Serie bygd på romanen av Alexander Kielland. Vi er i 1840-årenes Stavanger.
+  Den trauste og livsbejaende kaptein Worse kommer hjem fra langfart. (1:5)
+year: 1968
+duration_seconds: 2826
+image_url: https://gfx.nrk.no/PcOk8KWGbC5aaEoIHbqSrgRmQpJ1cLeLViJiVGM2VUIw
+nrk_url: https://tv.nrk.no/se?v=FDRP34000198
+play_id: 723
+performance_id: 772
+source: nrk
+medium: tv
+credits:
+- person_id: 940
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 62
+  role: actor
+- person_id: 899
+  role: actor
+- person_id: 835
+  role: actor
+- person_id: 1031
+  role: actor
+- person_id: 995
+  role: actor
+- person_id: 608
+  role: actor
+- person_id: 304
+  role: actor
+- person_id: 141
+  role: actor
+- person_id: 541
+  role: actor
+- person_id: 818
+  role: actor
+- person_id: 787
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 79
+  role: actor
+- person_id: 1032
+  role: actor
+- person_id: 1033
+  role: actor
+- person_id: 462
+  role: actor
+resources:
+- id: 386
+  url: https://archive.org/details/NRKTV-FTEA000068-AR-199047292
+  title: 'Skipper Worse: Hjemkomsten 02.03.1968'
+  type: archive_fallback
+  description: 'Serie i fem deler bygd på romanen "Skipper Worse" av Alexander Kielland.
+    (1:5) Vi befinner oss i 1840-årenes Stavanger. Den trauste og livsbejaende kaptein
+    Worse kommer hjem fra langfart full av håp og forventninger. Hjemme i Stavanger
+    venter et samfunn med motsetninger, ulike livssyn og sterke økonomiske interesser.
+    Manuskript og regi: Tore Breda Thoresen. Musikk: Johan Kvandal. I rollene: Lasse
+    Kolstad, Ragnhild Michelsen, Inger-Lise Westby, Marit Hamdahl, Arne Aas, Kyrre
+    Haugen Bakke, Rolf Berntzen, Urda Arneberg, Bab Christensen, Toralf Sandø, Irene
+    Thomsen Lie, Dan Fosse, Bonne Gauguin, Sverre Nesheim, Egil Hjorth-Jenssen, Jon
+    Eikemo, Ragnar Olason, Svend von Düring. Source: https://tv.nrk.no/serie/fjernsynsteatret/1968/FDRP34000198
+    Uploader: tubeup.py'

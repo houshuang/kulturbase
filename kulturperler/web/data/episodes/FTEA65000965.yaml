@@ -1,0 +1,36 @@
+prf_id: FTEA65000965
+title: Jubileet
+description: Det er jubileum for styreformann Shiputchins bank. Opprømtheten forandres
+  til galskap når hans skravlesyke kone og pengetiggersken Mertchutkin gjør sine entreer.
+  Av Anton Tsjekov.
+year: 1965
+duration_seconds: 1733
+image_url: https://gfx.nrk.no/83u5mm4tgQMwp3Y3fYxaswDGYsKSwpNMjDN0rc7pVIZg
+nrk_url: https://tv.nrk.no/se?v=FTEA65000965
+play_id: 771
+performance_id: 821
+source: nrk
+medium: tv
+credits:
+- person_id: 62
+  role: actor
+- person_id: 1043
+  role: actor
+- person_id: 750
+  role: actor
+- person_id: 730
+  role: actor
+- person_id: 311
+  role: actor
+resources:
+- id: 50
+  url: https://archive.org/details/NRKTV-FTEA65000965-AR-199405444
+  title: Jubileet 14.09.1965
+  type: archive_fallback
+  description: 'Fjernsynsteatret viser skuespillet "Jubileet" av den russiske forfatteren
+    Anton Tsjekhov. Det er 15-års jubileum for styreformann Shiputchins bank, han
+    hylles. Opprømtheten forandres til galskap når hans skravlesyke kone og pengetiggersken
+    Mertchutkin gjør sine entreer. I rollene medvirker blant andre Tor Stokke (Shiputchin),
+    Bab Christensen (Tatjana Alexejevna) og Ragnhild Michelsen (Mertchutkin). Oversatt
+    av Helge Hagerup. Dekor og kostyme: Gunnar Alme. Regi: Jan Bull. Source: https://tv.nrk.no/serie/fjernsynsteatret/1965/FTEA65000965
+    Uploader: tubeup.py'

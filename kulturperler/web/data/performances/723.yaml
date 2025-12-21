@@ -1,0 +1,25 @@
+id: 723
+work_id: 678
+source: nrk
+year: 1970
+title: Tyven, tyven ...
+description: Stykket er en farse med overraskende og vittige situasjoner som følger
+  så tett på hverandre at de formelig snubler i hverandre. Av Dario Fo.
+total_duration: 2977
+image_url: https://gfx.nrk.no/QwkygN12oe9SGb64cOFzHwLrwmApBjm6mztyGHUOcIGA
+medium: tv
+credits:
+- person_id: 901
+  role: actor
+- person_id: 84
+  role: actor
+- person_id: 153
+  role: actor
+- person_id: 68
+  role: actor
+- person_id: 749
+  role: actor
+- person_id: 670
+  role: actor
+- person_id: 447
+  role: actor

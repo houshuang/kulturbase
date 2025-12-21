@@ -1,0 +1,461 @@
+# NRK OPERA PERFORMANCES
+Generated: 2025-12-21T13:56:01.145550
+Total: 25 performances
+============================================================
+
+
+============================================================
+COMPOSER: Antonio Bibalo
+============================================================
+
+=== Gjengangere ===
+Composer: Antonio Bibalo
+Genre: opera
+Language: unknown
+Based on: Henrik Ibsen's Gjengangere (Ghosts)
+
+Performance (1984, TV, 2h16m):
+  Series: Opera og operetter
+    - Gjengangere [2h16m]
+      ID: FMUS00000784
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000784
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Bizet
+============================================================
+
+=== Carmen ===
+Composer: Bizet
+Genre: opera
+Language: french
+
+Performance (1985, TV, 27m):
+  Series: Opera og operetter
+    - Carmen og Don Jose på spansk visitt [27m]
+      ID: FMUS00005285
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005285
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Bjørn Kruse
+============================================================
+
+=== Et sjakkspill ===
+Composer: Bjørn Kruse
+Genre: opera
+Language: norwegian
+
+Performance (1979, TV, 57m):
+  Series: Opera og operetter
+    - Et sjakkspill [57m]
+      ID: FMUS00000779
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000779
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Domenico Cimarosa
+============================================================
+
+=== Kvinnelist ===
+Original title: Le Astuzie Femminili
+Composer: Domenico Cimarosa
+Genre: opera
+Language: unknown
+
+Performance (1971, TV, 1h25m):
+  Series: Opera med humør
+    - Kvinnelist [1h25m]
+      ID: FTEM00000871
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00000871
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Edvard Fliflet Bræin
+============================================================
+
+=== Anne Pedersdotter ===
+Composer: Edvard Fliflet Bræin
+Genre: opera
+Language: norwegian
+
+Performance (1986, TV, 2h9m):
+  Series: Opera og operetter
+    - Anne Pedersdotter [2h9m]
+      ID: FMUS00002286
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002286
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Gaetano Donizetti
+============================================================
+
+=== Elskovsdrikken ===
+Original title: L'elisir d'amore
+Composer: Gaetano Donizetti
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1995, TV, 1h54m):
+  Series: Opera og operetter
+    - Elskovsdrikken [1h54m]
+      ID: FKUM03000195
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum03000195
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Gioacchino Rossini
+============================================================
+
+=== The Barber of Seville ===
+Original title: Barberen i Sevilla
+Composer: Gioacchino Rossini
+Genre: opera
+Language: italian
+
+Performance (1994, TV, 2h22m):
+  Series: Opera og operetter
+    - Barberen i Sevilla [2h22m]
+      ID: FKUM04000194
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum04000194
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Giovanni Battista Pergolesi
+============================================================
+
+=== Den kløktige Serpina ===
+Original title: La Serva Padrona
+Composer: Giovanni Battista Pergolesi
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Den kløktige Serpina [49m]
+      ID: FTEM00000271
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00000271
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Giuseppe Verdi
+============================================================
+
+=== La Traviata ===
+Composer: Giuseppe Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 3h57m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Operaen minutt for minutt [1h56m]
+      ID: MKDE21000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000218
+    - [INTRO] Operaen minutt for minutt [2h0m]
+      ID: MKDE21000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000118
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Gluck, Wagner, Verdi
+============================================================
+
+=== Opera a la carte ===
+Composer: Gluck, Wagner, Verdi
+Genre: opera
+Language: unknown
+
+Performance (1989, TV, 43m):
+  Series: Opera og operetter
+    - Opera a la carte [43m]
+      ID: FMUS00000289
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000289
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Handel
+============================================================
+
+=== Il pastor fido ===
+Composer: Handel
+Genre: opera
+Language: italian
+
+Performance (1980, TV, 33m):
+  Series: Opera og operetter
+    - Prologen fra "Il pastor fido" [33m]
+      ID: FMUS00000880
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000880
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johan Adolph Hasse
+============================================================
+
+=== Håndverkeren som adelsmann ===
+Original title: Der Bürger als Edelmann
+Composer: Johan Adolph Hasse
+Genre: opera
+Language: unknown
+Based on: Jean Baptiste Moliere comedy
+
+Performance (1988, TV, 54m):
+  Series: Opera og operetter
+    - Bayersk gjestespill [54m]
+      ID: FTRO00000988
+      URL: https://tv.nrk.no/serie/opera-og-operetter/ftro00000988
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Leos Janacek
+============================================================
+
+=== Mysteriet Makropulos ===
+Composer: Leos Janacek
+Genre: opera
+Language: unknown
+Based on: a novel by Karel Capek
+
+Performance (1992, TV, 1h36m):
+  Series: Opera og operetter
+    - Mysteriet Makropulos [1h36m]
+      ID: FKUM21000192
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum21000192
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mozart
+============================================================
+
+=== Don Juan ===
+Original title: Don Giovanni
+Composer: Mozart
+Genre: opera
+Language: unknown
+
+Performance (1988, TV, 2h58m):
+  Series: Opera og operetter
+    - Don Juan [2h58m]
+      ID: FMUS00001288
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00001288
+
+----------------------------------------
+
+=== The Marriage of Figaro ===
+Original title: Figaros bryllup
+Composer: Mozart
+Genre: opera
+Language: unknown
+
+Performance (1989, TV, 2h58m):
+  Series: Opera og operetter
+    - Figaros bryllup [2h58m]
+      ID: FMUS00001889
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00001889
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ragnar Søderlind
+============================================================
+
+=== Olav Tryggvason ===
+Composer: Ragnar Søderlind
+Genre: opera
+Language: unknown
+
+Performance (2000, TV, 2h58m):
+  Series: Olav Tryggvason (Opera)
+    - Olav Tryggvason [1h27m]
+      ID: RKUM11000200
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000200
+    - [Part 1] Olav Tryggvason [1h30m]
+      ID: RKUM11000100
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000100
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Richard Strauss
+============================================================
+
+=== Elektra ===
+Composer: Richard Strauss
+Genre: opera
+Language: unknown
+
+Performance (1986, TV, 1h50m):
+  Series: Opera og operetter
+    - Elektra [1h50m]
+      ID: FMUS00002186
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002186
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Unknown
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (2008, TV, 8h57m):
+  Series: Åpningsgalla Den Norske Opera & Ballett
+    - Åpningen av det nye operahuset i Bjørvika [57m]
+      ID: OCMF19000608
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000608
+    - 20. april 2008 [1h56m]
+      ID: OCMF19000508
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000508
+    - 12. april 2008 [3h32m]
+      ID: OCMF19000108
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000108
+    - [INTRO] Kafé Opera [32m]
+      ID: OCMF19000208
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000208
+    - [Part 1] 19. april 2008 [1h58m]
+      ID: OCMF19000408
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000408
+
+----------------------------------------
+
+=== Dagbok til ein som vart borte ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1980, TV, 40m):
+  Series: Opera og operetter
+    - Dagbok til ein som vart borte [40m]
+      ID: FMUS00002980
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002980
+
+----------------------------------------
+
+=== Duett for to "Hovsångare" ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1981, TV, 51m):
+  Series: Opera og operetter
+    - Duett for to "Hovsångare" [51m]
+      ID: FMUS00003981
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00003981
+
+----------------------------------------
+
+=== Ingrid Bjoners kveld ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1982, TV, 1h0m):
+  Series: Opera og operetter
+    - Ingrid Bjoners kveld [1h0m]
+      ID: FMUS00002482
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002482
+
+----------------------------------------
+
+=== Macbeth ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+Based on: William Shakespeare's Macbeth
+
+Performance (1990, TV, 1h53m):
+  Series: Opera og operetter
+    - Macbeth [1h53m]
+      ID: FMUS00005990
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005990
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Verdi
+============================================================
+
+=== La Traviata ===
+Composer: Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 2h31m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Hele Norge i Operaen del 1 [59m]
+      ID: MKDE23000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000118
+    - [INTRO] Hele Norge i Operaen del 2 [1h2m]
+      ID: MKDE23000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000218
+    - [INTRO] Hele Norge i Operaen del 3 [29m]
+      ID: MKDE23000318
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000318
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Wolfgang Amadeus Mozart
+============================================================
+
+=== Cosi Fan Tutte ===
+Composer: Wolfgang Amadeus Mozart
+Genre: opera
+Language: unknown
+
+Performance (1991, TV, 2h41m):
+  Series: Opera og operetter
+    - Cosi Fan Tutte [2h41m]
+      ID: FKUM22000191
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum22000191
+
+----------------------------------------
+
+=== Teaterdirektøren ===
+Original title: Der Schauspieldirektor
+Composer: Wolfgang Amadeus Mozart
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Teaterdirektøren [49m]
+      ID: FTEM00001771
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00001771
+
+----------------------------------------
+

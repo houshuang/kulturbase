@@ -1,0 +1,248 @@
+# NRK BALLET PERFORMANCES
+Generated: 2025-12-21T13:56:01.146133
+Total: 14 performances
+============================================================
+
+
+============================================================
+COMPOSER: Arne Nordheim
+============================================================
+
+=== Stormen ===
+Composer: Arne Nordheim
+Genre: ballet
+Language: Instrumental
+Based on: The Tempest by Shakespeare
+
+Performance (1981, TV, 2h0m):
+  Series: Ballett og dans
+    - Stormen [2h0m]
+      ID: FMUS00003081
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003081
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Edvard Grieg, Mats Claesson
+============================================================
+
+=== Ekko - Nye Carte Blanche ===
+Composer: Edvard Grieg, Mats Claesson
+Genre: ballet
+Language: Instrumental
+
+Performance (1993, TV, 33m):
+  Series: Ballett og dans
+    - Ekko - Nye Carte Blanche [33m]
+      ID: FKUM30000193
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum30000193
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Grieg
+============================================================
+
+=== Aske, Skodde, Støv for Vinden ===
+Composer: Grieg
+Genre: ballet
+Language: Instrumental
+Based on: Peer Gynt by Henrik Ibsen
+
+Performance (1986, TV, 26m):
+  Series: Ballett og dans
+    - Aske, Skodde, Støv for Vinden [26m]
+      ID: FMUS00002985
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00002985
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Igor Stravinskij
+============================================================
+
+=== Petrusjka ===
+Composer: Igor Stravinskij
+Genre: ballet
+Language: Instrumental
+
+Performance (1990, TV, 36m):
+  Series: Ballett og dans
+    - Petrusjka for firhendig klaver av Igor Stravinskij [36m]
+      ID: FMUS00003590
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003590
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Leo Delibes
+============================================================
+
+=== Sylvia ===
+Composer: Leo Delibes
+Genre: ballet
+Language: Instrumental
+
+Performance (1985, TV, 1h48m):
+  Series: Ballett og dans
+    - Sylvia [1h48m]
+      ID: FMUS00003985
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003985
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Pink Floyd
+============================================================
+
+=== Skulle ønske du var her ===
+Composer: Pink Floyd
+Genre: ballet
+Language: Instrumental
+
+Performance (1976, TV, 52m):
+  Series: Ballett og dans
+    - Skulle ønske du var her [52m]
+      ID: FMUS00004376
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00004376
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ralph Lundsten
+============================================================
+
+=== Fader vår ===
+Composer: Ralph Lundsten
+Genre: ballet
+Language: Instrumental
+
+Performance (1983, TV, 41m):
+  Series: Ballett og dans
+    - Fader vår [41m]
+      ID: FOLA01004383
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fola01004383
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Sergej Prokofjev
+============================================================
+
+=== Romeo og Julie ===
+Composer: Sergej Prokofjev
+Genre: ballet
+Language: Instrumental
+Based on: Romeo and Juliet
+
+Performance (1993, TV, 2h32m):
+  Series: Ballett og dans
+    - Romeo og Julie [2h32m]
+      ID: FKUM22000193
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum22000193
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Stravinsky
+============================================================
+
+=== Pulcinella ===
+Composer: Stravinsky
+Genre: ballet
+Language: Instrumental
+
+Performance (2017, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Haydn og Stravinskij [33m]
+      ID: MKKA71000617
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000617
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Unknown
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1987, TV, 1h18m):
+  Series: Den norske operas ballett i bildet
+    - 8. januar 1988 [45m]
+      ID: FMUS20002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus20002687
+    - 6. januar 1988 [32m]
+      ID: FMUS10002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus10002687
+
+----------------------------------------
+
+=== Bønn ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1995, TV, 32m):
+  Series: Ballett og dans
+    - Bønn [32m]
+      ID: FKUM11000195
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum11000195
+
+----------------------------------------
+
+=== Gustavia ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (2025, TV, 1h57m):
+  Series: Klassiske opplevelser
+    - Gustavia – slavegutten og den svenske dronninga [1h57m]
+      ID: MKMU54050525
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050525
+
+----------------------------------------
+
+=== Sylfiden ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1991, TV, 1h18m):
+  Series: Ballett og dans
+    - Sylfiden [1h18m]
+      ID: FKUM20000391
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum20000391
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Various Russian and French Composers
+============================================================
+
+=== Diaghilevs Ballets Russes ===
+Composer: Various Russian and French Composers
+Genre: ballet
+Language: Instrumental
+
+Performance (1996, TV, 2h9m):
+  Series: Ballett og dans
+    - Diaghilevs Ballets Russes [2h9m]
+      ID: FKUM20000196
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum20000196
+
+----------------------------------------
+

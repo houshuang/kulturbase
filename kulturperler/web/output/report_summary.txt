@@ -1,0 +1,73 @@
+# CLASSICAL MUSIC CONTENT - SUMMARY REPORT
+Generated: 2025-12-21T13:56:01.148122
+============================================================
+
+## OVERVIEW
+Total episodes processed: 0
+Classical performances: 283
+Documentaries/discussions: 22
+Introductions: 7
+Not classical: 38
+
+Grouped performances: 241
+Norwegian translations: 8
+
+## BY GENRE
+  orchestral: 73
+  symphony: 47
+  concerto: 41
+  opera: 25
+  ballet: 14
+  chamber: 13
+  other_classical: 11
+  operetta: 8
+  choral: 6
+  concerto|symphony|orchestral: 1
+  concerto|symphony: 1
+  symphony|concerto: 1
+
+## TOP COMPOSERS
+  Unknown: 31
+  Mozart: 11
+  Beethoven: 7
+  Wolfgang Amadeus Mozart: 5
+  Jean Sibelius: 5
+  Tchaikovsky: 5
+  Johan Svendsen: 4
+  Robert Schumann: 3
+  Joseph Haydn: 3
+  Edvard Grieg: 3
+  Brahms: 3
+  Franz Schubert: 2
+  Richard Strauss: 2
+  Haydn: 2
+  David Bowie (arranged by Jon Øivind Ness): 2
+  Geir Holmsen: 2
+  Verdi: 2
+  Ludwig van Beethoven: 2
+  Stravinsky: 2
+  Sergej Prokofjev: 2
+
+## BY DECADE
+  1960s: 6
+  1970s: 8
+  1980s: 51
+  1990s: 21
+  2000s: 3
+  2010s: 78
+  2020s: 74
+
+## FILES GENERATED
+  - report_about_programs.txt
+  - report_ballets.txt
+  - report_chamber.txt
+  - report_concertos.txt
+  - report_expiring_soon.txt
+  - report_multipart.txt
+  - report_norwegian_translations.txt
+  - report_operas.txt
+  - report_operettas.txt
+  - report_orchestral.txt
+  - report_play_links.txt
+  - report_summary.txt
+  - report_symphonies.txt

@@ -1,0 +1,771 @@
+# NRK SYMPHONY PERFORMANCES
+Generated: 2025-12-21T13:56:01.146280
+Total: 47 performances
+============================================================
+
+
+============================================================
+COMPOSER: Antonín Dvořák
+============================================================
+
+=== Symphony No. 8 ===
+Composer: Antonín Dvořák
+Genre: symphony
+Language: Instrumental
+
+Performance (2022, TV, 35m):
+  Series: KORK - hele landets orkester
+    - Petr Popelka dirigerer Dvořáks 8. symfoni [35m]
+      ID: MKKA11000222
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000222
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Beethoven
+============================================================
+
+=== Pastorale Symphony ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 44m):
+  Series: KORK - hele landets orkester
+    - KORK i Aulaen - Beethovens Pastoralesymfoni. [44m]
+      ID: MKKA11001619
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001619
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2015, TV, 51m):
+  Series: KORK - hele landets orkester
+    - 4. april 2015 [51m]
+      ID: MKMF62000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf62000015
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Beethovens 4. med Miguel Harth-Bedoya [34m]
+      ID: MKKA71000918
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000918
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 30m):
+  Series: Klassiske opplevelser
+    - Sammen om skjebnen – BFUng [30m]
+      ID: MKMU54050825
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050825
+
+----------------------------------------
+
+=== Symphony No. 7 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2021, TV, 39m):
+  Series: KORK - hele landets orkester
+    - Beethovens 7. med Petr Popelka [39m]
+      ID: MKKA11000221
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000221
+
+----------------------------------------
+
+=== Symphony No. 8 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2013, TV, 37m):
+  Series: KORK - hele landets orkester
+    - [Part 1] Andrew Manzes Beethoven og jazz-kammer [37m]
+      ID: MKMF61000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000013
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Brahms
+============================================================
+
+=== Symphony No. 3 ===
+Composer: Brahms
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 50m):
+  Series: KORK - hele landets orkester
+    - KORK uten dirigent - Brahms 3. symfoni [50m]
+      ID: MKKA11001519
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001519
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Brahms
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 59m):
+  Series: KORK - hele landets orkester
+    - Brahms 4. symfoni uten dirigent [59m]
+      ID: MKKA71000618
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000618
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Christian Sinding
+============================================================
+
+=== Symphony No. 1 ===
+Composer: Christian Sinding
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 36m):
+  Series: Norske symfonier
+    - 4. september 1983 [36m]
+      ID: FMUS00003983
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00003983
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Dmitri Shostakovich
+============================================================
+
+=== Symphony No. 1 ===
+Original title: Symfoni nr. 1
+Composer: Dmitri Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Symfoni nr. 1 av Sjostakovitsj [36m]
+      ID: MKKA71000418
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000418
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Dmitri Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (1987, TV, 45m):
+  Series: Oslo Filharmoniske Orkester
+    - Sjostakovitsj 5. symfoni [45m]
+      ID: FMUS00006187
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00006187
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Dvořák
+============================================================
+
+=== Symphony No. 7 ===
+Composer: Dvořák
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 45m):
+  Series: KORK - hele landets orkester
+    - [Part 2] Sjefdirigentens siste konsert med KORK, del 2 [45m]
+      ID: MKKA11002920
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002920
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Edvard Grieg
+============================================================
+
+=== Symphony in C minor ===
+Composer: Edvard Grieg
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 38m):
+  Series: Norske symfonier
+    - 15. mai 1983 [38m]
+      ID: FMUS00001583
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001583
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Eivind Groven
+============================================================
+
+=== Symphony No. 1 ===
+Original title: Innover viddene
+Composer: Eivind Groven
+Genre: symphony
+Language: Instrumental
+
+Performance (1984, TV, 29m):
+  Series: Norske symfonier
+    - 3. juni 1984 [29m]
+      ID: FMUS00001484
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001484
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Felix Mendelssohn
+============================================================
+
+=== Italian Symphony ===
+Composer: Felix Mendelssohn
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Mendelssohns italienske symfoni [34m]
+      ID: MKKA71000218
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000218
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Jean Sibelius
+============================================================
+
+=== Symphony No. 1 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 41m):
+  Series: KORK - hele landets orkester
+    - Ung dirigent og Sibelius første [41m]
+      ID: MKKA71000916
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000916
+
+----------------------------------------
+
+=== Symphony No. 1 in E minor ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (1989, TV, 41m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [41m]
+      ID: FMUS30000889
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus30000889
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 30m):
+  Series: KORK - hele landets orkester
+    - Sjefdirigentens Sibelius [30m]
+      ID: MKKA11000420
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000420
+
+----------------------------------------
+
+=== Symphony No. 6 and 7 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 54m):
+  Series: Klassiske opplevelser
+    - Kork med Sibelius´ siste symfonier [54m]
+      ID: MKMU54021325
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021325
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johan Halvorsen
+============================================================
+
+=== Fatum (Symphony) ===
+Composer: Johan Halvorsen
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 37m):
+  Series: Klassiske opplevelser
+    - Norsk skjebnesymfoni med Kork [37m]
+      ID: MKMU54050425
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050425
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johan Svendsen
+============================================================
+
+=== Symphony No. 1 ===
+Composer: Johan Svendsen
+Genre: symphony
+Language: Instrumental
+
+Performance (1982, TV, 38m):
+  Series: Norske symfonier
+    - 22. mai 1983 [38m]
+      ID: FMUS20002582
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus20002582
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Johan Svendsen
+Genre: symphony
+Language: Instrumental
+
+Performance (1982, TV, 34m):
+  Series: Norske symfonier
+    - 29. mai 1983 [34m]
+      ID: FMUS00001482
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001482
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Josef Suk
+============================================================
+
+=== Asrael-symfonien ===
+Composer: Josef Suk
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 1h1m):
+  Series: KORK - hele landets orkester
+    - Asrael-symfonien [1h1m]
+      ID: MKKA71000817
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000817
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Joseph Haydn
+============================================================
+
+=== Symphony No. 103 ===
+Original title: Paukevirvelsymfonien
+Composer: Joseph Haydn
+Genre: symphony
+Language: Instrumental
+
+Performance (1993, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske orkester spiller Haydn [33m]
+      ID: FKUM29000293
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum29000293
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ludvig Irgens-Jensen
+============================================================
+
+=== Symphony No. 1 ===
+Composer: Ludvig Irgens-Jensen
+Genre: symphony
+Language: Instrumental
+
+Performance (1984, TV, 31m):
+  Series: Norske symfonier
+    - 26. februar 1984 [31m]
+      ID: FMUS00001384
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001384
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ludwig van Beethoven
+============================================================
+
+=== Symphony No. 2 ===
+Composer: Ludwig van Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (1988, TV, 1h17m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske Orkester spiller Beethoven [36m]
+      ID: FKUM09000293
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum09000293
+    - [INTRO] Konsert i kveld [41m]
+      ID: FMUS10001588
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10001588
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mahler
+============================================================
+
+=== Symphony No. 8 ===
+Composer: Mahler
+Genre: symphony
+Language: unknown
+
+Performance (2025, TV, 1h30m):
+  Series: Klassiske opplevelser
+    - Storslått Mahler i Bergen [1h30m]
+      ID: MKMU54020125
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020125
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mozart
+============================================================
+
+=== Symphony No. 29 ===
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Mozarts Symfoni nr. 29 [31m]
+      ID: MKKA11002520
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002520
+
+----------------------------------------
+
+=== Symphony No. 39 ===
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 28m):
+  Series: KORK - hele landets orkester
+    - Mozarts Symfoni nr. 39 med Petr Popelka [28m]
+      ID: MKKA11000423
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000423
+
+----------------------------------------
+
+=== Symphony No. 41 ===
+Original title: Jupiter Symphony
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Jupiter-symfonien av Mozart med Petr Popelka [36m]
+      ID: MKKA11000323
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000323
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Olivier Messiaen
+============================================================
+
+=== Turangalila-Symphony ===
+Original title: Turangalila-Symphonie
+Composer: Olivier Messiaen
+Genre: symphony
+Language: Instrumental
+
+Performance (1986, TV, 1h28m):
+  Series: Oslo Filharmoniske Orkester
+    - Turangalila-symfoni [1h28m]
+      ID: FMUS00001886
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00001886
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Otto Winter-Hjelm
+============================================================
+
+=== Symphony No. 1 ===
+Composer: Otto Winter-Hjelm
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Norges første symfoni. [31m]
+      ID: MKKA11000120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000120
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Otto Winter-Hjelm
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 33m):
+  Series: Norske symfonier
+    - 18. september 1983 [33m]
+      ID: FMUS00004183
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00004183
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Peter Tchaikovsky
+============================================================
+
+=== Symphony No. 4 ===
+Original title: Symfoni nr. 4 i f-moll, verk 36
+Composer: Peter Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (1979, TV, 51m):
+  Series: Oslo Filharmoniske Orkester
+    - Filharmonisk Selskaps orkester [51m]
+      ID: FMUS10005579
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10005579
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Pyotr Ilyich Tchaikovsky
+============================================================
+
+=== Manfred, Symphony in Four Pictures, Op. 58 ===
+Original title: Manfred, symfoni fire bilder, op. 58
+Composer: Pyotr Ilyich Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (1986, TV, 1h7m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslofilharmonikerne spiller Tsjaikovskij [1h7m]
+      ID: FMUS20001986
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20001986
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ralph Vaughan Williams
+============================================================
+
+=== Symphony No. 5 ===
+Composer: Ralph Vaughan Williams
+Genre: symphony
+Language: Instrumental
+
+Performance (2022, TV, 43m):
+  Series: KORK - hele landets orkester
+    - Vaughan Williams' Symfoni nr. 5 [43m]
+      ID: MKKA11002622
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002622
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Robert Schumann
+============================================================
+
+=== Symphony No. 3 ===
+Original title: Rhin-symfonien
+Composer: Robert Schumann
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Rhin-symfonien av Schumann med Petr Popelka [33m]
+      ID: MKKA11000223
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000223
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Schubert
+============================================================
+
+=== Symphony No. 9 ===
+Composer: Schubert
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 52m):
+  Series: KORK - hele landets orkester
+    - Schuberts niende [52m]
+      ID: MKKA71000316
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000316
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Shostakovich
+============================================================
+
+=== Symphony No. 1 and last symphony ===
+Composer: Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 1h26m):
+  Series: Klassiske opplevelser
+    - Klaus Mäkelä og Oslo-filharmonien tolker Sjostakovitsj [1h26m]
+      ID: MKMU54021625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021625
+
+----------------------------------------
+
+=== Symphony No. 9 ===
+Composer: Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 1h2m):
+  Series: KORK - hele landets orkester
+    - KORK og Popelka: Sjostakovitsj niende [28m]
+      ID: MKKA11003021
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003021
+    - Sjostakovitsj´ 9. symfoni med litt Mozart først [34m]
+      ID: MKKA71000317
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000317
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Sibelius
+============================================================
+
+=== Symphony No. 2 ===
+Composer: Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Symfoni nr. 2 av Sibelius [47m]
+      ID: MKKA71001217
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001217
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 40m):
+  Series: KORK - hele landets orkester
+    - Sibelius og ungt talent [40m]
+      ID: MKKA71000516
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000516
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Tchaikovsky
+============================================================
+
+=== Symphony No. 1 ===
+Original title: Vinterdagdrømmer
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 45m):
+  Series: KORK - hele landets orkester
+    - Tsjaikovskijs Vinterdagdrømmer, Symfoni nr. 1 [45m]
+      ID: MKKA11000419
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000419
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 36m):
+  Series: Klassiske opplevelser
+    - Tsjajkovskijs ukrainske symfoni [36m]
+      ID: MKMU54020525
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020525
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Tsjajkovskijs Symfoni nr. 4 [47m]
+      ID: MKKA11003120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003120
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 48m):
+  Series: KORK - hele landets orkester
+    - Tsjaikovskijs Symfoni nr. 5 [48m]
+      ID: MKKA71001216
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001216
+
+----------------------------------------
+

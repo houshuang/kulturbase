@@ -1,0 +1,232 @@
+# PROGRAMS ABOUT CLASSICAL MUSIC
+# (Documentaries, Discussions, Educational Content)
+Generated: 2025-12-21T13:56:01.147483
+Total: 22 programs
+============================================================
+
+=== Norsk ballett i startgropen ===
+Series: Ballett og dans
+Year: 1988
+Duration: 55m
+Description: Ny Norsk Ballett, det første norske selvstendige ballettensemblet, hadde fem spennende år fra 1948 til 1952.
+URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00004488
+ID: FMUS00004488
+
+----------------------------------------
+
+=== Rita Tori - en pioner i norsk ballett ===
+Series: Ballett og dans
+Year: 1985
+Duration: 48m
+Description: Ballettpedagogen og koreografen Rita Tori var en pioner i norsk dans. Vi møter mennesker som kjente henne, og opplever hennes dans og koreografi.
+URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00002385
+ID: FMUS00002385
+
+----------------------------------------
+
+=== Therpsichores tjenere - et fragmentarisk møte med Den Norske Operas Kor ===
+Series: Opera og operetter
+Year: 1996
+Duration: 28m
+Description: Et program om den Norske Operas Kor, etablert i 1962. Norges eneste profesjonelle kor har 42 fast ansatte medlemmer fra seks ulike land.
+URL: https://tv.nrk.no/serie/opera-og-operetter/fkum02000196
+ID: FKUM02000196
+
+----------------------------------------
+
+=== Portrett - Knut Skram ===
+Series: Opera og operetter
+Year: 1993
+Duration: 49m
+Description: Vår kjente barytonsanger er i dag på høyden av sin karriere, etterspurt ved scener over hele verden. Vi møter ham i Berlin, Brussel, på Den Norske Opera, hjemme og på hytta.
+URL: https://tv.nrk.no/serie/opera-og-operetter/fkum07000193
+ID: FKUM07000193
+
+----------------------------------------
+
+=== Macbeth - mot norsk urpremiere ===
+Series: Opera og operetter
+Year: 1990
+Duration: 32m
+Description: En reportasje bak kulissene foran søndagens fjernsynsoverføring av Antonio Bibalos "Macbeth" fra Den Norske Opera. Operaen er basert på skuespillet av William Shakespeare. Sopran Anne Gjevang, komponi
+About: Macbeth by Antonio Bibalo
+URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00006290
+ID: FMUS00006290
+
+----------------------------------------
+
+=== Vårt fag er opera ===
+Series: Opera og operetter
+Year: 1985
+Duration: 48m
+Description: Møte med sangeren Marianne Hirsti og regisssøren Per Boye-Hansen i Köln.
+URL: https://tv.nrk.no/serie/opera-og-operetter/frep46000085
+ID: FREP46000085
+
+----------------------------------------
+
+=== Othello fra Oslo ===
+Series: Opera og operetter
+Year: 1980
+Duration: 1h2m
+Description: Portrett av en operasanger med verdenssuksess.  "Othello" er Ragnar Ulfungsavskjedsrolle ved operaen i Stockholm.
+About: Othello by Verdi
+URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002480
+ID: FMUS00002480
+
+----------------------------------------
+
+=== Møt Ingrid Bjoner! ===
+Series: Opera og operetter
+Year: 1982
+Duration: 1h5m
+Description: 
+URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00001982
+ID: FMUS00001982
+
+----------------------------------------
+
+=== Operaen minutt for minutt ===
+Series: Hele Norge i Operaen
+Year: 2018
+Duration: 59m
+Description: Mange har vært på taket, men få vet hva som skjuler seg under. Operaen i Bjørvika fyller 10 år, og vi inviterer hele Norge inn bak dørene og ser hva som skjer i dette mangfoldige huset - minutt for mi
+About: La Traviata by Giuseppe Verdi
+URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000518
+ID: MKDE21000518
+
+----------------------------------------
+
+=== Operaen minutt for minutt ===
+Series: Hele Norge i Operaen
+Year: 2018
+Duration: 2h0m
+Description: Operaen i Bjørvika fyller 10 år, og vi inviterer hele Norge inn bak dørene og ser hva som skjer i dette mangfoldige huset - minutt for minutt -  og følger forberedelsene til kveldens operaforestilling
+About: La Traviata by Verdi
+URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000418
+ID: MKDE21000418
+
+----------------------------------------
+
+=== Operaen minutt for minutt ===
+Series: Hele Norge i Operaen
+Year: 2018
+Duration: 2h0m
+Description: Operaen i Bjørvika fyller 10 år, og vi inviterer hele Norge inn bak dørene og ser hva som skjer i dette mangfoldige huset - minutt for minutt -  og følger forberedelsene til kveldens operaforestilling
+About: La Traviata by Verdi
+URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000318
+ID: MKDE21000318
+
+----------------------------------------
+
+=== Bråkete og fint! ===
+Series: KORK - hele landets orkester
+Year: 2017
+Duration: 58m
+Description: Dokumentar om prosjektet Gåsehud, der 180 fjerdeklassinger skal lære seg å fremføre klassiske mesterverk av kjente komponister. Målet er en stor konsert på Operaens hovedscene, med KORK og Det Norske 
+About: Hallelujah Chorus and 1812 Overture by Handel and Tchaikovsky
+URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000117
+ID: MKKA71000117
+
+----------------------------------------
+
+=== Så sees vi neste gang ===
+Series: Orkesterliv
+Year: 2005
+Duration: 29m
+Description: Flere i orkestret ønsker å kvitte seg med sjefdirigenten. Det blir allmøte med undertoner.
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000605
+ID: OKFM16000605
+
+----------------------------------------
+
+=== Den siste timen ===
+Series: Orkesterliv
+Year: 2005
+Duration: 28m
+Description: Orkestersjefen sliter med arbeidspresset, markedssjefen vurderer å slutte, og orkestret drar til Paris.
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000505
+ID: OKFM16000505
+
+----------------------------------------
+
+=== En bismak i Kina ===
+Series: Orkesterliv
+Year: 2005
+Duration: 29m
+Description: "De er helt klin kokos gale her, men veldig hyggelige". Kina-turneen fortsetter. Orkestret og sjefdirigenten finner ikke tonen.
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000405
+ID: OKFM16000405
+
+----------------------------------------
+
+=== Kjærligheten til musikken ===
+Series: Orkesterliv
+Year: 2005
+Duration: 29m
+Description: Noen av musikerne har spilt i orkestret i over førti år. Vi møtte drømmerne, de skuffede, kunstnerne, de små sjefene, de store sjefene. Nå skulle de alle til Kina på turné. Hvordan gikk det?
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000305
+ID: OKFM16000305
+
+----------------------------------------
+
+=== Men er han den rette ===
+Series: Orkesterliv
+Year: 2005
+Duration: 28m
+Description: Da den nye sjefdirigenten tiltrådte i 2004 ble det bråk i orkestret. Et dokumentarteam fra NRK har fulgt Kringkastingsorkestret i et av deres mest turbulente år.
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000205
+ID: OKFM16000205
+
+----------------------------------------
+
+=== Stille før stormen ===
+Series: Orkesterliv
+Year: 2005
+Duration: 29m
+Description: Et dokumentarteam fra NRK har fulgt Kringkastingsorkestret i et av deres mest turbulente år.
+URL: https://tv.nrk.no/serie/orkesterliv/okfm16000105
+ID: OKFM16000105
+
+----------------------------------------
+
+=== Kontratenoren Jakub Jósef Orliński – høyt og lavt! ===
+Series: Klassiske opplevelser
+Year: 2025
+Duration: 52m
+Description: Han synger i høyden på the MET i New York, breaker og fotograferer, den polske kontratenoren Jakub Józef Orliński. Bli med inn i hans livlige verden!
+URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050925
+ID: MKMU54050925
+
+----------------------------------------
+
+=== Jacqueline du Pré - geni og tragedie ===
+Series: Klassiske opplevelser
+Year: 2025
+Duration: 1h25m
+Description: Unge Jacqueline bergtok en hel verden med sitt cellospill. Så ble hun hardt rammet av MS. Bli kjent med hennes historie i denne nære dokumentaren.
+URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021825
+ID: MKMU54021825
+
+----------------------------------------
+
+=== Mysteriet Fanny Mendelssohn ===
+Series: Klassiske opplevelser
+Year: 2025
+Duration: 1h37m
+Description: Sheila leter etter sin tipptippoldemor Fanny, Felix Mendelssohns søster, og kommer over oppsiktsvekkende musikalske hemmeligheter.
+URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020925
+ID: MKMU54020925
+
+----------------------------------------
+
+=== Mysteriet Mozarts søster ===
+Series: Klassiske opplevelser
+Year: 2025
+Duration: 56m
+Description: Hun var Wolfgang Amadeus Mozarts eldre søster og vidunderbarn som sin bror. Kan Nannerl stå bak noen av hans tidlige verk?
+URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020725
+ID: MKMU54020725
+
+----------------------------------------
+

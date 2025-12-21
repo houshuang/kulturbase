@@ -1,5 +1,8 @@
 export type Medium = 'tv' | 'radio';
 
+export type WorkType = 'teaterstykke' | 'nrk_teaterstykke' | 'dramaserie' | 'opera' | 'konsert';
+export type WorkCategory = 'teater' | 'opera' | 'konsert' | 'dramaserie';
+
 export interface Episode {
 	prf_id: string;
 	title: string;
@@ -8,7 +11,8 @@ export interface Episode {
 	duration_seconds: number | null;
 	image_url: string | null;
 	nrk_url: string | null;
-	play_id: number | null;
+	work_id: number | null;
+	play_id?: number | null; // Deprecated alias for work_id
 	source: string;
 	part_number: number | null;
 	total_parts: number | null;
@@ -19,11 +23,27 @@ export interface Episode {
 	medium: Medium;
 }
 
-// Alias for clarity - Play = Work in our ontology
-export type Work = Play & {
-	work_type?: string;
-	synopsis?: string;
-};
+export interface Work {
+	id: number;
+	title: string;
+	original_title: string | null;
+	work_type: WorkType | null;
+	category: WorkCategory | null;
+	playwright_id: number | null;
+	composer_id: number | null;
+	librettist_id: number | null;
+	creator_id: number | null;
+	year_written: number | null;
+	synopsis: string | null;
+	based_on_work_id: number | null;
+	wikidata_id: string | null;
+	sceneweb_id: number | null;
+	sceneweb_url: string | null;
+	wikipedia_url: string | null;
+}
+
+// Alias for backwards compatibility
+export type Play = Work;
 
 export interface Performance {
 	id: number;
@@ -44,6 +64,8 @@ export interface PerformanceWithDetails extends Performance {
 	playwright_id?: number | null;
 	director_name?: string | null;
 	media_count?: number;
+	work_type?: WorkType | null;
+	category?: WorkCategory | null;
 }
 
 export interface PerformancePerson {
@@ -68,17 +90,16 @@ export interface Person {
 	bio: string | null;
 }
 
-export interface Play {
+export interface Institution {
 	id: number;
-	title: string;
-	original_title: string | null;
-	playwright_id: number | null;
-	year_written: number | null;
-	wikidata_id: string | null;
-	sceneweb_id: number | null;
-	sceneweb_url: string | null;
+	name: string;
+	short_name: string | null;
+	type: 'orchestra' | 'theater' | 'opera_house' | 'ensemble';
+	location: string | null;
+	founded_year: number | null;
+	bio: string | null;
 	wikipedia_url: string | null;
-	synopsis: string | null;
+	image_url: string | null;
 }
 
 export interface Tag {
@@ -104,25 +125,42 @@ export interface SearchFilters {
 	actorId?: number;
 	tagIds?: number[];
 	mediums?: Medium[];
+	category?: WorkCategory;
+	workType?: WorkType;
 }
 
 export interface EpisodeWithDetails extends Episode {
 	playwright_name?: string | null;
 	director_name?: string | null;
 	play_title?: string | null;
+	work_title?: string | null;
 }
 
-export type PersonRole = 'director' | 'actor' | 'playwright' | 'composer' | 'set_designer' | 'costume_designer' | 'producer' | 'other';
+export type PersonRole =
+	| 'director'
+	| 'actor'
+	| 'playwright'
+	| 'composer'
+	| 'conductor'
+	| 'soloist'
+	| 'librettist'
+	| 'set_designer'
+	| 'costume_designer'
+	| 'producer'
+	| 'other';
 
-export interface PlayExternalLink {
+export interface WorkExternalLink {
 	id: number;
-	play_id: number | null;
+	work_id: number | null;
 	url: string;
 	title: string;
 	type: string;
 	description: string | null;
 	access_note: string | null;
 }
+
+// Alias for backwards compatibility
+export type PlayExternalLink = WorkExternalLink;
 
 export interface NrkAboutProgram {
 	id: string;

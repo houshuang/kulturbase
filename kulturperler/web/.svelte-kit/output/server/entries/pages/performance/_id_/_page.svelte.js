@@ -4,13 +4,13 @@ import { e as escape_html } from "../../../../chunks/context.js";
 function getDatabase() {
   throw new Error("Database not initialized");
 }
-function getPlay(id) {
+function getWork(id) {
   const db2 = getDatabase();
   const stmt = db2.prepare(`
-		SELECT p.*, playwright.name as playwright_name
-		FROM plays p
-		LEFT JOIN persons playwright ON p.playwright_id = playwright.id
-		WHERE p.id = ?
+		SELECT w.*, playwright.name as playwright_name
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		WHERE w.id = ?
 	`);
   stmt.bind([id]);
   let result = null;
@@ -20,6 +20,7 @@ function getPlay(id) {
   stmt.free();
   return result;
 }
+const getPlay = getWork;
 function getPerformance(id) {
   const db2 = getDatabase();
   const stmt = db2.prepare(`
@@ -27,11 +28,13 @@ function getPerformance(id) {
 			perf.*,
 			w.title as work_title,
 			w.playwright_id,
+			w.work_type,
+			w.category,
 			playwright.name as playwright_name,
 			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
 			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf
-		LEFT JOIN plays w ON perf.work_id = w.id
+		LEFT JOIN works w ON perf.work_id = w.id
 		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
 		WHERE perf.id = ?
 	`);
@@ -154,9 +157,8 @@ function _page($$renderer, $$props) {
       if (h > 0) return `${h} time${h > 1 ? "r" : ""} ${m} min`;
       return `${m} minutter`;
     }
-    function getImageUrl(url) {
-      if (!url) return "/placeholder.jpg";
-      return url;
+    function hasImage(url) {
+      return !!url && url.length > 0;
     }
     function getRoleLabel(role) {
       const labels = {
@@ -216,7 +218,15 @@ function _page($$renderer, $$props) {
           $$renderer2.push(`<article class="performance-detail svelte-did11h"><a href="/" class="back-link svelte-did11h">← Tilbake til oversikt</a> <div class="performance-header svelte-did11h">`);
           if (media.length === 1) {
             $$renderer2.push("<!--[-->");
-            $$renderer2.push(`<a${attr("href", media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`)} target="_blank" rel="noopener" class="performance-image playable svelte-did11h"><img${attr("src", getImageUrl(performance.image_url))}${attr("alt", performance.title || "")} class="svelte-did11h"/> <div class="header-play-icon svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="svelte-did11h"><path d="M8 5v14l11-7z"></path></svg></div> `);
+            $$renderer2.push(`<a${attr("href", media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`)} target="_blank" rel="noopener" class="performance-image playable svelte-did11h">`);
+            if (hasImage(performance.image_url)) {
+              $$renderer2.push("<!--[-->");
+              $$renderer2.push(`<img${attr("src", performance.image_url)}${attr("alt", performance.title || "")} class="svelte-did11h"/>`);
+            } else {
+              $$renderer2.push("<!--[!-->");
+              $$renderer2.push(`<div class="image-placeholder svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon svelte-did11h"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg></div>`);
+            }
+            $$renderer2.push(`<!--]--> <div class="header-play-icon svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="svelte-did11h"><path d="M8 5v14l11-7z"></path></svg></div> `);
             if (media[0].duration_seconds) {
               $$renderer2.push("<!--[-->");
               $$renderer2.push(`<span class="header-duration svelte-did11h">${escape_html(formatDuration(media[0].duration_seconds))}</span>`);
@@ -226,7 +236,15 @@ function _page($$renderer, $$props) {
             $$renderer2.push(`<!--]--></a>`);
           } else {
             $$renderer2.push("<!--[!-->");
-            $$renderer2.push(`<div class="performance-image svelte-did11h"><img${attr("src", getImageUrl(performance.image_url))}${attr("alt", performance.title || "")} class="svelte-did11h"/></div>`);
+            $$renderer2.push(`<div class="performance-image svelte-did11h">`);
+            if (hasImage(performance.image_url)) {
+              $$renderer2.push("<!--[-->");
+              $$renderer2.push(`<img${attr("src", performance.image_url)}${attr("alt", performance.title || "")} class="svelte-did11h"/>`);
+            } else {
+              $$renderer2.push("<!--[!-->");
+              $$renderer2.push(`<div class="image-placeholder svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon svelte-did11h"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg></div>`);
+            }
+            $$renderer2.push(`<!--]--></div>`);
           }
           $$renderer2.push(`<!--]--> <div class="performance-info svelte-did11h"><h1 class="svelte-did11h">${escape_html(performance.title || work?.title || "Ukjent tittel")} `);
           if (performance.medium === "radio") {
@@ -292,7 +310,15 @@ function _page($$renderer, $$props) {
             const each_array = ensure_array_like(media);
             for (let $$index = 0, $$length = each_array.length; $$index < $$length; $$index++) {
               let item = each_array[$$index];
-              $$renderer2.push(`<a${attr("href", item.nrk_url || `https://tv.nrk.no/se?v=${item.prf_id}`)} target="_blank" rel="noopener" class="media-card svelte-did11h"><div class="media-thumbnail svelte-did11h"><img${attr("src", getImageUrl(item.image_url))}${attr("alt", item.title)} loading="lazy" class="svelte-did11h"/> <div class="play-icon svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="svelte-did11h"><path d="M8 5v14l11-7z"></path></svg></div> `);
+              $$renderer2.push(`<a${attr("href", item.nrk_url || `https://tv.nrk.no/se?v=${item.prf_id}`)} target="_blank" rel="noopener" class="media-card svelte-did11h"><div class="media-thumbnail svelte-did11h">`);
+              if (hasImage(item.image_url)) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<img${attr("src", item.image_url)}${attr("alt", item.title)} loading="lazy" class="svelte-did11h"/>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+                $$renderer2.push(`<div class="image-placeholder small svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon svelte-did11h"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg></div>`);
+              }
+              $$renderer2.push(`<!--]--> <div class="play-icon svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="svelte-did11h"><path d="M8 5v14l11-7z"></path></svg></div> `);
               if (item.duration_seconds) {
                 $$renderer2.push("<!--[-->");
                 $$renderer2.push(`<span class="media-duration svelte-did11h">${escape_html(formatDuration(item.duration_seconds))}</span>`);
@@ -367,7 +393,15 @@ function _page($$renderer, $$props) {
             const each_array_3 = ensure_array_like(otherPerformances);
             for (let $$index_3 = 0, $$length = each_array_3.length; $$index_3 < $$length; $$index_3++) {
               let other = each_array_3[$$index_3];
-              $$renderer2.push(`<a${attr("href", `/performance/${stringify(other.id)}`)} class="other-performance-card svelte-did11h"><div class="other-thumbnail svelte-did11h"><img${attr("src", getImageUrl(other.image_url))}${attr("alt", other.title || "")} loading="lazy" class="svelte-did11h"/></div> <div class="other-info svelte-did11h"><span class="other-year svelte-did11h">${escape_html(other.year)}</span> `);
+              $$renderer2.push(`<a${attr("href", `/performance/${stringify(other.id)}`)} class="other-performance-card svelte-did11h"><div class="other-thumbnail svelte-did11h">`);
+              if (hasImage(other.image_url)) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<img${attr("src", other.image_url)}${attr("alt", other.title || "")} loading="lazy" class="svelte-did11h"/>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+                $$renderer2.push(`<div class="image-placeholder small svelte-did11h"><svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon svelte-did11h"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg></div>`);
+              }
+              $$renderer2.push(`<!--]--></div> <div class="other-info svelte-did11h"><span class="other-year svelte-did11h">${escape_html(other.year)}</span> `);
               if (other.director_name) {
                 $$renderer2.push("<!--[-->");
                 $$renderer2.push(`<span class="other-director svelte-did11h">Regi: ${escape_html(other.director_name)}</span>`);

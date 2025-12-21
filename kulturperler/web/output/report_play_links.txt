@@ -1,0 +1,88 @@
+# PERFORMANCES LINKED TO PLAYS
+# (Ballets and Operas based on plays in the database)
+Generated: 2025-12-21T13:56:01.147822
+Total: 5 performances
+============================================================
+
+=== Gjengangere ===
+Composer: Antonio Bibalo
+Genre: opera
+Language: unknown
+Based on: Henrik Ibsen's Gjengangere (Ghosts)
+Linked to plays:
+  -> #564: Gengangere by Henrik Ibsen
+  -> #820: Gengangere (Gjengangere) by Henrik Ibsen
+
+Performance (1984, TV, 2h16m):
+  Series: Opera og operetter
+    - Gjengangere [2h16m]
+      ID: FMUS00000784
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000784
+
+----------------------------------------
+
+=== Lyden av Tandberg ===
+Composer: various
+Genre: orchestral
+Language: norwegian
+Based on: life story of Vebjørn Tandberg
+Linked to plays:
+  -> #867: Lyden av Tandberg - Radioteatret by None
+  -> #868: Lyden av Tandberg by None
+
+Performance (2016, TV, 1h50m):
+  Series: KORK - hele landets orkester
+    - Lyden av Tandberg [1h50m]
+      ID: MKKA71001716
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001716
+
+----------------------------------------
+
+=== Peer Gynt ===
+Composer: Edvard Grieg
+Genre: orchestral
+Language: Instrumental
+Based on: Ibsen's Peer Gynt
+Linked to plays:
+  -> #264: Peer Gynt by Henrik Ibsen
+
+Performance (2025, TV, 39m):
+  Series: Klassiske opplevelser
+    - Resonansen av Peer Gynt [39m]
+      ID: MKMU54021025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021025
+
+----------------------------------------
+
+=== Romeo og Julie ===
+Composer: Sergej Prokofjev
+Genre: ballet
+Language: Instrumental
+Based on: Romeo and Juliet
+Linked to plays:
+  -> #280: Romeo Og Julie by William Shakespeare
+
+Performance (1993, TV, 2h32m):
+  Series: Ballett og dans
+    - Romeo og Julie [2h32m]
+      ID: FKUM22000193
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum22000193
+
+----------------------------------------
+
+=== Stormen ===
+Composer: Arne Nordheim
+Genre: ballet
+Language: Instrumental
+Based on: The Tempest by Shakespeare
+Linked to plays:
+  -> #793: Stormen by William Shakespeare
+
+Performance (1981, TV, 2h0m):
+  Series: Ballett og dans
+    - Stormen [2h0m]
+      ID: FMUS00003081
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003081
+
+----------------------------------------
+

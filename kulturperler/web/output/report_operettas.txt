@@ -1,0 +1,154 @@
+# NRK OPERETTA PERFORMANCES
+Generated: 2025-12-21T13:56:01.146000
+Total: 8 performances
+============================================================
+
+
+============================================================
+COMPOSER: Emmerich Kálmán
+============================================================
+
+=== Czardasfyrstinnen ===
+Composer: Emmerich Kálmán
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1986, TV, 2h34m):
+  Series: Opera og operetter
+    - Czardasfyrstinnen [2h34m]
+      ID: FMUS00002086
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002086
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Jacques Offenbach
+============================================================
+
+=== Den skjønne Helene ===
+Original title: La belle Hélène
+Composer: Jacques Offenbach
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+Based on: Parody of Greek myth of Helen of Troy
+
+Performance (1962, TV, 57m):
+  Series: Lommeoperetten
+    - Den skjønne Helene [57m]
+      ID: FUHA62003962
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62003962
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Leo Fall
+============================================================
+
+=== Dollarprinsessen ===
+Original title: Die Dollarprinzessin
+Composer: Leo Fall
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h24m):
+  Series: Lommeoperetten
+    - Dollarprinsessen [1h24m]
+      ID: FUHA62001162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001162
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Nino Rota
+============================================================
+
+=== Den italienske stråhatten ===
+Original title: Il cappello di paglia di Firenze
+Composer: Nino Rota
+Genre: operetta
+Language: unknown
+Based on: Eugène Labiche's play 'Le chapeau de paille d'Italie'
+
+Performance (1982, TV, 1h42m):
+  Series: Opera og operetter
+    - Den italienske stråhatten [1h42m]
+      ID: FMUS00005582
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005582
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Paul Lincke
+============================================================
+
+=== Fru Luna ===
+Composer: Paul Lincke
+Genre: operetta
+Language: unknown
+
+Performance (1962, TV, 50m):
+  Series: Lommeoperetten
+    - Fru Luna [50m]
+      ID: FUHA62001262
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001262
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Unknown
+============================================================
+
+=== Anything Goes ===
+Composer: Unknown Composer
+Genre: operetta
+Language: unknown
+
+Performance (1962, TV, 1h6m):
+  Series: Lommeoperetten
+    - Anything goes [1h6m]
+      ID: FUHA62000962
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62000962
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Various
+============================================================
+
+=== Selections from various operettas ===
+Composer: Various
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 53m):
+  Series: Lommeoperetten
+    - Vi tømmer operettelommen [53m]
+      ID: FUHA62000162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62000162
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: null
+============================================================
+
+=== Bajaderen ===
+Composer: null
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h6m):
+  Series: Lommeoperetten
+    - Bajaderen [1h6m]
+      ID: FUHA62001662
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001662
+
+----------------------------------------
+

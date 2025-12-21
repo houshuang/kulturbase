@@ -1,0 +1,245 @@
+# NRK CHAMBER PERFORMANCES
+Generated: 2025-12-21T13:56:01.147252
+Total: 13 performances
+============================================================
+
+
+============================================================
+COMPOSER: Arnold Schönberg
+============================================================
+
+=== Verklärte Nacht ===
+Composer: Arnold Schönberg
+Genre: chamber
+Language: Instrumental
+
+Performance (2020, TV, 29m):
+  Series: KORK - hele landets orkester
+    - Verklärte Nacht [29m]
+      ID: MKKA11001320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001320
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Carl Nielsen
+============================================================
+
+=== Serenade for Winds ===
+Composer: Carl Nielsen
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 28m):
+  Series: KORK - hele landets orkester
+    - 10. mai 2014 [28m]
+      ID: MKMF66000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf66000014
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Franz Schubert
+============================================================
+
+=== "Ørret-kvintetten" (Trout Quintet) ===
+Composer: Franz Schubert
+Genre: chamber
+Language: Instrumental
+
+Performance (2013, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 3] 16. november 2013 [38m]
+      ID: MKMF63000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf63000013
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Gabrieli, Ulvaeus, Andersson
+============================================================
+
+=== Music from Gabrieli to Ulvaeus and Andersson ===
+Composer: Gabrieli, Ulvaeus, Andersson
+Genre: chamber
+Language: Instrumental
+
+Performance (2019, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Fra barokk til ABBA. Norsk tromboneensemble [47m]
+      ID: MKKA11000219
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000219
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johan Svendsen
+============================================================
+
+=== Oktett ===
+Composer: Johan Svendsen
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 40m):
+  Series: KORK - hele landets orkester
+    - 26. april 2014 [40m]
+      ID: MKMF64000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf64000014
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johann Sebastian Bach, Carl Philipp Emanuel Bach, J.S. Bach/Charles Gounod
+============================================================
+
+=== Sonate i E-dur, Fløytekonsert i A-dur, Ave Maria ===
+Composer: Johann Sebastian Bach, Carl Philipp Emanuel Bach, J.S. Bach/Charles Gounod
+Genre: chamber
+Language: Instrumental
+
+Performance (2013, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 6] 7. desember 2013 [38m]
+      ID: MKMF67000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf67000013
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Johann Sebastian Bach, Georges Enescu
+============================================================
+
+=== Chaconne in D minor; Violin Sonata No. 3 ===
+Composer: Johann Sebastian Bach, Georges Enescu
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 40m):
+  Series: KORK - hele landets orkester
+    - 8. november 2014 [40m]
+      ID: MKMF68000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf68000014
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Moisey Weinberg
+============================================================
+
+=== Klaverkvintett ===
+Composer: Moisey Weinberg
+Genre: chamber
+Language: Instrumental
+
+Performance (2018, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Russlands ukjente mester: Weinbergs Klaverkvintett [46m]
+      ID: MKKA71000518
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000518
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mozart and Beethoven
+============================================================
+
+=== Horn Quintet and Septet ===
+Composer: Mozart and Beethoven
+Genre: chamber
+Language: Instrumental
+
+Performance (2018, TV, 58m):
+  Series: KORK - hele landets orkester
+    - Kammerkonsert med hornisten David Cooper [58m]
+      ID: MKKA71001218
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001218
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ravel, Berwald, Bartók
+============================================================
+
+=== Unknown Work ===
+Composer: Ravel, Berwald, Bartók
+Genre: chamber
+Language: Instrumental
+
+Performance (2016, TV, 39m):
+  Series: KORK - hele landets orkester
+    - KORK kammer! [39m]
+      ID: MKKA71000616
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000616
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Schubert, Dohnanyi
+============================================================
+
+=== Rondo; Adagio for string quintet; Sextet ===
+Composer: Schubert, Dohnanyi
+Genre: chamber
+Language: Instrumental
+
+Performance (2015, TV, 42m):
+  Series: KORK - hele landets orkester
+    - KORK [42m]
+      ID: MKKA71000515
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000515
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Unknown
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: chamber
+Language: Instrumental
+
+Performance (2025, TV, 2h58m):
+  Series: Klassiske opplevelser
+    - Inspirasjoner fra Hardanger [58m]
+      ID: MKMU54051025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54051025
+    - Mestermøte mellom pianistene Leif Ove Andsnes og Bertrand Chamayou [44m]
+      ID: MKMU54021925
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021925
+    - Frontlinja [1h15m]
+      ID: MKMU54020625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020625
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Wolfgang Amadeus Mozart; Robert Schumann
+============================================================
+
+=== Clarinet Quintet in A major, K581; Andante cantabile from Piano Quartet in E flat major ===
+Composer: Wolfgang Amadeus Mozart; Robert Schumann
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 39m):
+  Series: KORK - hele landets orkester
+    - 3. mai 2014 [39m]
+      ID: MKMF65000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf65000014
+
+----------------------------------------
+

@@ -1,0 +1,360 @@
+# MULTI-PART PERFORMANCES
+Generated: 2025-12-21T13:56:01.147641
+Total: 16 performances
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2009, TV, 22h58m):
+  Series: KORK - hele landets orkester
+    - Frigjøringsfeiring med klezmer og Kork [44m]
+      ID: MKKA11200225
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11200225
+    - Ingebjørg Bratland og KORK [1h24m]
+      ID: MKKA11000723
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000723
+    - Kork møter Sporten [59m]
+      ID: MKKA11000224
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000224
+    - KORK på pub [46m]
+      ID: MKKA11000919
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000919
+    - KORK og Rymden [1h24m]
+      ID: MKKA11001422
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001422
+    - Finne veien hjem – Trygve Skaug med KORK [1h23m]
+      ID: MKKA11002822
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002822
+    - CC Cowboys og KORK i Holmenkollen [1h20m]
+      ID: MKKA11001122
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001122
+    - Bugge Wesseltoft og KORK [44m]
+      ID: MKKA11001121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001121
+    - KORK i Vesterålen [39m]
+      ID: MKKA11002621
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002621
+    - Sigmund Groven 75 år [53m]
+      ID: MKKA11001721
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001721
+    - Jukebox live [1h24m]
+      ID: MKKA11001821
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001821
+    - KORKs strykere med Engegård [53m]
+      ID: MKKA11000821
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000821
+    - Musikalsk grensehandel - svensk romjul med KORK [57m]
+      ID: MKKA11003320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003320
+    - Sissel og KORK Gratulerer med dagen! [51m]
+      ID: MKTV39020020
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mktv39020020
+    - KORK kammer med harpe og blåsere [32m]
+      ID: MKKA11001120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001120
+    - KORKs messingblåsere [31m]
+      ID: MKKA11000920
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000920
+    - KORK kammer i Store studio [47m]
+      ID: MKKA11000820
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000820
+    - KORK [47m]
+      ID: MKKA71000615
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000615
+    - KORK [40m]
+      ID: MKKA71000115
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000115
+    - 11. april 2015 [39m]
+      ID: MKMF63000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf63000015
+    - 29. mars 2014 [38m]
+      ID: MKMF62000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf62000014
+    - KORK og Kvarts [37m]
+      ID: MKMF61000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000014
+    - Draumen om KORK [49m]
+      ID: DKSF49001513
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/dksf49001513
+    - Klassisk a la Cuba [38m]
+      ID: OCMF20000109
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/ocmf20000109
+    - [Part 1] Klassisk Vorspiel julelive 2019 del 1 [1h3m]
+      ID: MKKA11002219
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002219
+    - [Part 2] Klassisk Vorspiel julelive 2019 del 2 [45m]
+      ID: MKKA11002319
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002319
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2015, TV, 5h24m):
+  Series: NRK Klassisk ønskekonsert
+    - NRK Klassisk ønskekonsert 2021 [1h14m]
+      ID: MKMU64000021
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mkmu64000021
+    - NRKs juleønskekonsert 2020 [1h6m]
+      ID: MKTV13000020
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv13000020
+    - NRK Ønskekonsert 2019 [1h11m]
+      ID: MKTV14000019
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv14000019
+    - Ønskekonsert med KORK 2017 [1h9m]
+      ID: MKTV14000017
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv14000017
+    - Ønskekonsert med KORK 2015 [43m]
+      ID: MKMF10000015
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mkmf10000015
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (2008, TV, 8h57m):
+  Series: Åpningsgalla Den Norske Opera & Ballett
+    - Åpningen av det nye operahuset i Bjørvika [57m]
+      ID: OCMF19000608
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000608
+    - 20. april 2008 [1h56m]
+      ID: OCMF19000508
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000508
+    - 12. april 2008 [3h32m]
+      ID: OCMF19000108
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000108
+    - [INTRO] Kafé Opera [32m]
+      ID: OCMF19000208
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000208
+    - [Part 1] 19. april 2008 [1h58m]
+      ID: OCMF19000408
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000408
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1974, TV, 2h36m):
+  Series: Oslo Filharmoniske Orkester
+    - 12. november 1980 [46m]
+      ID: FUHA05005180
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fuha05005180
+    - Familiekonsert [1h6m]
+      ID: FMUS00005380
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00005380
+    - Filharmonisk Selskaps Orkester [43m]
+      ID: FMUS00004974
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00004974
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: chamber
+Language: Instrumental
+
+Performance (2025, TV, 2h58m):
+  Series: Klassiske opplevelser
+    - Inspirasjoner fra Hardanger [58m]
+      ID: MKMU54051025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54051025
+    - Mestermøte mellom pianistene Leif Ove Andsnes og Bertrand Chamayou [44m]
+      ID: MKMU54021925
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021925
+    - Frontlinja [1h15m]
+      ID: MKMU54020625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020625
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1982, TV, 1h14m):
+  Series: Bergen Filharmoniske Orkester
+    - Festkonsert med Harmonien [32m]
+      ID: FHLD00002285
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fhld00002285
+    - Musikk i Norden [42m]
+      ID: FMUS00002582
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fmus00002582
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: choral
+Language: unknown
+
+Performance (1984, TV, 1h13m):
+  Series: Konsert med Sandefjord Jentekor
+    - 23. august 1984 [35m]
+      ID: FMUS20001884
+      URL: https://tv.nrk.no/serie/konsert-med-sandefjord-jentekor/fmus20001884
+    - 17. august 1984 [37m]
+      ID: FMUS10001884
+      URL: https://tv.nrk.no/serie/konsert-med-sandefjord-jentekor/fmus10001884
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1987, TV, 1h18m):
+  Series: Den norske operas ballett i bildet
+    - 8. januar 1988 [45m]
+      ID: FMUS20002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus20002687
+    - 6. januar 1988 [32m]
+      ID: FMUS10002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus10002687
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1991, TV, 1h24m):
+  Series: Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - [Part 1] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 1:2 [47m]
+      ID: FKUM22000591
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000591
+    - [Part 2] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 2:2 [37m]
+      ID: FKUM22000691
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000691
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1991, TV, 1h23m):
+  Series: Musikalske høydepunkter med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - 23. desember 1991 [42m]
+      ID: FKUM20000691
+      URL: https://tv.nrk.no/serie/musikalske-hoeydepunkter-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum20000691
+    - 15. desember 1991 [40m]
+      ID: FKUM20000591
+      URL: https://tv.nrk.no/serie/musikalske-hoeydepunkter-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum20000591
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1992, TV, 1h30m):
+  Series: Solistgalla med Stavanger Symfoniorkester
+    - 3. mai 1992 [48m]
+      ID: FKUM05000292
+      URL: https://tv.nrk.no/serie/solistgalla-med-stavanger-symfoniorkester/fkum05000292
+    - 19. april 1992 [41m]
+      ID: FKUM05000192
+      URL: https://tv.nrk.no/serie/solistgalla-med-stavanger-symfoniorkester/fkum05000192
+
+----------------------------------------
+
+=== Olav Tryggvason ===
+Composer: Ragnar Søderlind
+Genre: opera
+Language: unknown
+
+Performance (2000, TV, 2h58m):
+  Series: Olav Tryggvason (Opera)
+    - Olav Tryggvason [1h27m]
+      ID: RKUM11000200
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000200
+    - [Part 1] Olav Tryggvason [1h30m]
+      ID: RKUM11000100
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000100
+
+----------------------------------------
+
+=== Symphony No. 9 ===
+Composer: Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 1h2m):
+  Series: KORK - hele landets orkester
+    - KORK og Popelka: Sjostakovitsj niende [28m]
+      ID: MKKA11003021
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003021
+    - Sjostakovitsj´ 9. symfoni med litt Mozart først [34m]
+      ID: MKKA71000317
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000317
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Ludwig van Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (1988, TV, 1h17m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske Orkester spiller Beethoven [36m]
+      ID: FKUM09000293
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum09000293
+    - [INTRO] Konsert i kveld [41m]
+      ID: FMUS10001588
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10001588
+
+----------------------------------------
+
+=== La Traviata ===
+Composer: Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 2h31m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Hele Norge i Operaen del 1 [59m]
+      ID: MKDE23000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000118
+    - [INTRO] Hele Norge i Operaen del 2 [1h2m]
+      ID: MKDE23000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000218
+    - [INTRO] Hele Norge i Operaen del 3 [29m]
+      ID: MKDE23000318
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000318
+
+----------------------------------------
+
+=== La Traviata ===
+Composer: Giuseppe Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 3h57m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Operaen minutt for minutt [1h56m]
+      ID: MKDE21000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000218
+    - [INTRO] Operaen minutt for minutt [2h0m]
+      ID: MKDE21000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000118
+
+----------------------------------------
+

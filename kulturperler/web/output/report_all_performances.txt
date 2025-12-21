@@ -1,0 +1,3342 @@
+# ALL CLASSICAL PERFORMANCES
+Generated: 2025-12-21T13:56:01.148479
+Total: 241 performances
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1987, TV, 1h18m):
+  Series: Den norske operas ballett i bildet
+    - 8. januar 1988 [45m]
+      ID: FMUS20002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus20002687
+    - 6. januar 1988 [32m]
+      ID: FMUS10002687
+      URL: https://tv.nrk.no/serie/den-norske-operas-ballett-i-bildet/fmus10002687
+
+----------------------------------------
+
+=== Aske, Skodde, Støv for Vinden ===
+Composer: Grieg
+Genre: ballet
+Language: Instrumental
+Based on: Peer Gynt by Henrik Ibsen
+
+Performance (1986, TV, 26m):
+  Series: Ballett og dans
+    - Aske, Skodde, Støv for Vinden [26m]
+      ID: FMUS00002985
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00002985
+
+----------------------------------------
+
+=== Bønn ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1995, TV, 32m):
+  Series: Ballett og dans
+    - Bønn [32m]
+      ID: FKUM11000195
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum11000195
+
+----------------------------------------
+
+=== Diaghilevs Ballets Russes ===
+Composer: Various Russian and French Composers
+Genre: ballet
+Language: Instrumental
+
+Performance (1996, TV, 2h9m):
+  Series: Ballett og dans
+    - Diaghilevs Ballets Russes [2h9m]
+      ID: FKUM20000196
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum20000196
+
+----------------------------------------
+
+=== Ekko - Nye Carte Blanche ===
+Composer: Edvard Grieg, Mats Claesson
+Genre: ballet
+Language: Instrumental
+
+Performance (1993, TV, 33m):
+  Series: Ballett og dans
+    - Ekko - Nye Carte Blanche [33m]
+      ID: FKUM30000193
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum30000193
+
+----------------------------------------
+
+=== Fader vår ===
+Composer: Ralph Lundsten
+Genre: ballet
+Language: Instrumental
+
+Performance (1983, TV, 41m):
+  Series: Ballett og dans
+    - Fader vår [41m]
+      ID: FOLA01004383
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fola01004383
+
+----------------------------------------
+
+=== Gustavia ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (2025, TV, 1h57m):
+  Series: Klassiske opplevelser
+    - Gustavia – slavegutten og den svenske dronninga [1h57m]
+      ID: MKMU54050525
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050525
+
+----------------------------------------
+
+=== Petrusjka ===
+Composer: Igor Stravinskij
+Genre: ballet
+Language: Instrumental
+
+Performance (1990, TV, 36m):
+  Series: Ballett og dans
+    - Petrusjka for firhendig klaver av Igor Stravinskij [36m]
+      ID: FMUS00003590
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003590
+
+----------------------------------------
+
+=== Pulcinella ===
+Composer: Stravinsky
+Genre: ballet
+Language: Instrumental
+
+Performance (2017, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Haydn og Stravinskij [33m]
+      ID: MKKA71000617
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000617
+
+----------------------------------------
+
+=== Romeo og Julie ===
+Composer: Sergej Prokofjev
+Genre: ballet
+Language: Instrumental
+Based on: Romeo and Juliet
+
+Performance (1993, TV, 2h32m):
+  Series: Ballett og dans
+    - Romeo og Julie [2h32m]
+      ID: FKUM22000193
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum22000193
+
+----------------------------------------
+
+=== Skulle ønske du var her ===
+Composer: Pink Floyd
+Genre: ballet
+Language: Instrumental
+
+Performance (1976, TV, 52m):
+  Series: Ballett og dans
+    - Skulle ønske du var her [52m]
+      ID: FMUS00004376
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00004376
+
+----------------------------------------
+
+=== Stormen ===
+Composer: Arne Nordheim
+Genre: ballet
+Language: Instrumental
+Based on: The Tempest by Shakespeare
+
+Performance (1981, TV, 2h0m):
+  Series: Ballett og dans
+    - Stormen [2h0m]
+      ID: FMUS00003081
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003081
+
+----------------------------------------
+
+=== Sylfiden ===
+Composer: Unknown Composer
+Genre: ballet
+Language: Instrumental
+
+Performance (1991, TV, 1h18m):
+  Series: Ballett og dans
+    - Sylfiden [1h18m]
+      ID: FKUM20000391
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fkum20000391
+
+----------------------------------------
+
+=== Sylvia ===
+Composer: Leo Delibes
+Genre: ballet
+Language: Instrumental
+
+Performance (1985, TV, 1h48m):
+  Series: Ballett og dans
+    - Sylvia [1h48m]
+      ID: FMUS00003985
+      URL: https://tv.nrk.no/serie/ballett-og-dans/fmus00003985
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Ravel, Berwald, Bartók
+Genre: chamber
+Language: Instrumental
+
+Performance (2016, TV, 39m):
+  Series: KORK - hele landets orkester
+    - KORK kammer! [39m]
+      ID: MKKA71000616
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000616
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: chamber
+Language: Instrumental
+
+Performance (2025, TV, 2h58m):
+  Series: Klassiske opplevelser
+    - Inspirasjoner fra Hardanger [58m]
+      ID: MKMU54051025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54051025
+    - Mestermøte mellom pianistene Leif Ove Andsnes og Bertrand Chamayou [44m]
+      ID: MKMU54021925
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021925
+    - Frontlinja [1h15m]
+      ID: MKMU54020625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020625
+
+----------------------------------------
+
+=== "Ørret-kvintetten" (Trout Quintet) ===
+Composer: Franz Schubert
+Genre: chamber
+Language: Instrumental
+
+Performance (2013, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 3] 16. november 2013 [38m]
+      ID: MKMF63000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf63000013
+
+----------------------------------------
+
+=== Chaconne in D minor; Violin Sonata No. 3 ===
+Composer: Johann Sebastian Bach, Georges Enescu
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 40m):
+  Series: KORK - hele landets orkester
+    - 8. november 2014 [40m]
+      ID: MKMF68000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf68000014
+
+----------------------------------------
+
+=== Clarinet Quintet in A major, K581; Andante cantabile from Piano Quartet in E flat major ===
+Composer: Wolfgang Amadeus Mozart; Robert Schumann
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 39m):
+  Series: KORK - hele landets orkester
+    - 3. mai 2014 [39m]
+      ID: MKMF65000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf65000014
+
+----------------------------------------
+
+=== Horn Quintet and Septet ===
+Composer: Mozart and Beethoven
+Genre: chamber
+Language: Instrumental
+
+Performance (2018, TV, 58m):
+  Series: KORK - hele landets orkester
+    - Kammerkonsert med hornisten David Cooper [58m]
+      ID: MKKA71001218
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001218
+
+----------------------------------------
+
+=== Klaverkvintett ===
+Composer: Moisey Weinberg
+Genre: chamber
+Language: Instrumental
+
+Performance (2018, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Russlands ukjente mester: Weinbergs Klaverkvintett [46m]
+      ID: MKKA71000518
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000518
+
+----------------------------------------
+
+=== Music from Gabrieli to Ulvaeus and Andersson ===
+Composer: Gabrieli, Ulvaeus, Andersson
+Genre: chamber
+Language: Instrumental
+
+Performance (2019, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Fra barokk til ABBA. Norsk tromboneensemble [47m]
+      ID: MKKA11000219
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000219
+
+----------------------------------------
+
+=== Oktett ===
+Composer: Johan Svendsen
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 40m):
+  Series: KORK - hele landets orkester
+    - 26. april 2014 [40m]
+      ID: MKMF64000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf64000014
+
+----------------------------------------
+
+=== Rondo; Adagio for string quintet; Sextet ===
+Composer: Schubert, Dohnanyi
+Genre: chamber
+Language: Instrumental
+
+Performance (2015, TV, 42m):
+  Series: KORK - hele landets orkester
+    - KORK [42m]
+      ID: MKKA71000515
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000515
+
+----------------------------------------
+
+=== Serenade for Winds ===
+Composer: Carl Nielsen
+Genre: chamber
+Language: Instrumental
+
+Performance (2014, TV, 28m):
+  Series: KORK - hele landets orkester
+    - 10. mai 2014 [28m]
+      ID: MKMF66000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf66000014
+
+----------------------------------------
+
+=== Sonate i E-dur, Fløytekonsert i A-dur, Ave Maria ===
+Composer: Johann Sebastian Bach, Carl Philipp Emanuel Bach, J.S. Bach/Charles Gounod
+Genre: chamber
+Language: Instrumental
+
+Performance (2013, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 6] 7. desember 2013 [38m]
+      ID: MKMF67000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf67000013
+
+----------------------------------------
+
+=== Verklärte Nacht ===
+Composer: Arnold Schönberg
+Genre: chamber
+Language: Instrumental
+
+Performance (2020, TV, 29m):
+  Series: KORK - hele landets orkester
+    - Verklärte Nacht [29m]
+      ID: MKKA11001320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001320
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: choral
+Language: unknown
+
+Performance (1984, TV, 1h13m):
+  Series: Konsert med Sandefjord Jentekor
+    - 23. august 1984 [35m]
+      ID: FMUS20001884
+      URL: https://tv.nrk.no/serie/konsert-med-sandefjord-jentekor/fmus20001884
+    - 17. august 1984 [37m]
+      ID: FMUS10001884
+      URL: https://tv.nrk.no/serie/konsert-med-sandefjord-jentekor/fmus10001884
+
+----------------------------------------
+
+=== A Child of Our Time ===
+Composer: Michael Kemp Tippett
+Genre: choral
+Language: english
+
+Performance (1988, TV, 1h16m):
+  Series: Oslo Filharmoniske Orkester
+    - Et barn av vår tid [1h16m]
+      ID: FMUS00001688
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00001688
+
+----------------------------------------
+
+=== Apocalypsis Joannis ===
+Composer: Knut Nystedt
+Genre: choral
+Language: norwegian
+Based on: Johannes' åpenbaring
+
+Performance (2016, TV, 1h36m):
+  Series: KORK - hele landets orkester
+    - Apocalypsis Joannis av Knut Nystedt [1h36m]
+      ID: MKKA71000116
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000116
+
+----------------------------------------
+
+=== Ein vakker song for stemma di ===
+Composer: Magnar Åm
+Genre: choral
+Language: norwegian
+
+Performance (2025, TV, 28m):
+  Series: Klassiske opplevelser
+    - Ein vakker song for stemma di [28m]
+      ID: MKMU54020225
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020225
+
+----------------------------------------
+
+=== Mass in B minor ===
+Original title: h-mollmesse
+Composer: Bach
+Genre: choral
+Language: unknown
+
+Performance (2025, TV, 1h50m):
+  Series: Klassiske opplevelser
+    - Bachs h-mollmesse i verdensklasse med Bach Collegium Japan [1h50m]
+      ID: MKMU54021725
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021725
+
+----------------------------------------
+
+=== Requiem ===
+Composer: Verdi
+Genre: choral
+Language: unknown
+
+Performance (2025, TV, 1h23m):
+  Series: Klassiske opplevelser
+    - Sirkus Requiem fra Oscarsborg [1h23m]
+      ID: MKMU68000125
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu68000125
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: concerto
+Language: Instrumental
+
+Performance (1988, TV, 39m):
+  Series: Klassisk i kveld
+    - 25. oktober 1988 [39m]
+      ID: FMUS10000788
+      URL: https://tv.nrk.no/serie/klassisk-i-kveld/fmus10000788
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1991, TV, 1h24m):
+  Series: Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - [Part 1] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 1:2 [47m]
+      ID: FKUM22000591
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000591
+    - [Part 2] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 2:2 [37m]
+      ID: FKUM22000691
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000691
+
+----------------------------------------
+
+=== Cello Concerto ===
+Composer: Dvorak
+Genre: concerto
+Language: Instrumental
+
+Performance (2017, TV, 43m):
+  Series: KORK - hele landets orkester
+    - Dvoraks Cellokonsert [43m]
+      ID: MKKA71000717
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000717
+
+----------------------------------------
+
+=== Cello Concerto ===
+Composer: Robert Schumann
+Genre: concerto
+Language: Instrumental
+
+Performance (2017, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Schumanns cellokonsert [31m]
+      ID: MKKA71000417
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000417
+
+----------------------------------------
+
+=== Cello Concerto ===
+Composer: Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 44m):
+  Series: KORK - hele landets orkester
+    - Amalie Stalheim spiller Haydns Cellokonsert [44m]
+      ID: MKKA11003121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003121
+
+----------------------------------------
+
+=== Cello Concerto ===
+Composer: Elgar
+Genre: concerto
+Language: Instrumental
+
+Performance (2025, TV, 29m):
+  Series: Klassiske opplevelser
+    - Elgars berømte cellokonsert [29m]
+      ID: MKMU54020425
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020425
+
+----------------------------------------
+
+=== Cello Concerto in D major ===
+Composer: Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (2025, TV, 27m):
+  Series: Klassiske opplevelser
+    - Amalie Stalheim og Kork med nye øyne på Haydn [27m]
+      ID: MKMU54050325
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050325
+
+----------------------------------------
+
+=== Clarinet Concerto ===
+Composer: Aaron Copland
+Genre: concerto
+Language: Instrumental
+
+Performance (2015, TV, 31m):
+  Series: KORK - hele landets orkester
+    - KORK [31m]
+      ID: MKKA71000215
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000215
+
+----------------------------------------
+
+=== Clarinet Concerto ===
+Composer: Jukka Linkola
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 40m):
+  Series: KORK - hele landets orkester
+    - Ny, finsk klarinettkonsert [40m]
+      ID: MKKA11000822
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000822
+
+----------------------------------------
+
+=== Concerto for Percussion, Piano and Orchestra ===
+Composer: Henrik Hellstenius
+Genre: concerto
+Language: Instrumental
+Based on: Dante
+
+Performance (2025, TV, 26m):
+  Series: Klassiske opplevelser
+    - Kork på Ultima – «And fear of loss will not oppress your heart» [26m]
+      ID: MKMU54050725
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050725
+
+----------------------------------------
+
+=== Concerto for Violin and Orchestra in E minor ===
+Original title: Konzert für Violine und Orchester e-Moll
+Composer: Mendelssohn-Bartholdy
+Genre: concerto
+Language: Instrumental
+
+Performance (1979, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert for fiolin og orkester e-moll av Mendelssohn-Bartholdy [33m]
+      ID: FMUS00005579
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00005579
+
+----------------------------------------
+
+=== Concerto for cello and orchestra No. 1 in C major ===
+Original title: Konsert for cello og orkester nr. 1, C-dur, Hob.VIIb:1
+Composer: Joseph Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (1986, TV, 27m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert for cello og orkester [27m]
+      ID: FMUS10001986
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10001986
+
+----------------------------------------
+
+=== Concerto for cello and orchestra in C major ===
+Composer: Joseph Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (1987, TV, 26m):
+  Series: Bergen Filharmoniske Orkester
+    - Harmonikonsert [26m]
+      ID: FHLD00005787
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fhld00005787
+
+----------------------------------------
+
+=== Concerto for two violins and orchestra ===
+Composer: L. Subramaniam
+Genre: concerto
+Language: Instrumental
+
+Performance (1986, TV, 41m):
+  Series: Oslo Filharmoniske Orkester
+    - To verdener [41m]
+      ID: FMUS00001786
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00001786
+
+----------------------------------------
+
+=== Fløytekonsert ===
+Composer: Marius Neset
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 28m):
+  Series: KORK - hele landets orkester
+    - Fløytekonsert av Marius Neset [28m]
+      ID: MKKA11002422
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002422
+
+----------------------------------------
+
+=== Klaverkonsert ===
+Composer: Thomas Tellefsen
+Genre: concerto
+Language: Instrumental
+
+Performance (1983, TV, 31m):
+  Series: Norske symfonier
+    - Norsk symfonisk musikk [31m]
+      ID: FMUS00003083
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00003083
+
+----------------------------------------
+
+=== Klaverkonsert nr. 17 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Mozart og spanske rytmer [47m]
+      ID: MKKA11000220
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000220
+
+----------------------------------------
+
+=== Piano Concerto No. 1 ===
+Composer: Brahms
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 51m):
+  Series: KORK - hele landets orkester
+    - Brahms Klaverkonsert nr. 1 [51m]
+      ID: MKKA71000718
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000718
+
+----------------------------------------
+
+=== Piano Concerto No. 1 in E minor, Op. 11, 2nd movement, Romanze (Larghetto) and Symphony No. 1 ===
+Composer: Frédéric Chopin and Carl Nielsen
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 48m):
+  Series: KORK - hele landets orkester
+    - Chopin og Nielsen [48m]
+      ID: MKKA71000416
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000416
+
+----------------------------------------
+
+=== Piano Concerto No. 2 in C minor, opus 18 ===
+Composer: Sergei Rachmaninoff
+Genre: concerto
+Language: Instrumental
+
+Performance (1989, TV, 38m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [38m]
+      ID: FMUS10000889
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10000889
+
+----------------------------------------
+
+=== Piano Concerto No. 23 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Mozart og Shirinyan [36m]
+      ID: MKKA71000318
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000318
+
+----------------------------------------
+
+=== Piano Concerto No. 3 ===
+Composer: Prokofiev
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Marianna Shirinyan og Petr Popelka. Prokofjevs 3. pianokonsert [31m]
+      ID: MKKA11000421
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000421
+
+----------------------------------------
+
+=== Piano Concerto No. 3 ===
+Original title: Klaverkonsert nr. 3
+Composer: Rachmaninoff
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 44m):
+  Series: KORK - hele landets orkester
+    - Rakhmaninovs Klaverkonsert nr. 3 [44m]
+      ID: MKKA11002222
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002222
+
+----------------------------------------
+
+=== Piano Concerto No. 5 ===
+Composer: Ludwig van Beethoven
+Genre: concerto
+Language: Instrumental
+
+Performance (1981, TV, 42m):
+  Series: Oslo Filharmoniske Orkester
+    - Robert Riefling er solist [42m]
+      ID: FMUS20007281
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20007281
+
+----------------------------------------
+
+=== Piano Concerto No. 9 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 32m):
+  Series: KORK - hele landets orkester
+    - Mozarts Pianokonsert nr. 9 [32m]
+      ID: MKKA11002620
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002620
+
+----------------------------------------
+
+=== Piano Concerto in A minor ===
+Original title: Klaverkonsert i a-moll
+Composer: Edvard Grieg
+Genre: concerto
+Language: Instrumental
+
+Performance (1987, TV, 39m):
+  Series: Oslo Filharmoniske Orkester
+    - Edvard Griegs klaver-konsert [39m]
+      ID: FMUS30005987
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus30005987
+
+----------------------------------------
+
+=== Pianokonsert nr 2 and Den forheksede sjø ===
+Composer: Dmitri Shostakovich and Anatoly Liadov
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 29m):
+  Series: KORK - hele landets orkester
+    - Marianna Shirinyan og Petr Popelka. Sjostakovitsj og Ljadov [29m]
+      ID: MKKA11000321
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000321
+
+----------------------------------------
+
+=== Pianokonsert nr. 12 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 35m):
+  Series: KORK - hele landets orkester
+    - Ingrid Andsnes spiller Mozart [35m]
+      ID: MKKA71000216
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000216
+
+----------------------------------------
+
+=== Rawgabitting, ny norsk klaverkonsert ===
+Composer: Jon Øivind Ness
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Rawgabitting, ny norsk klaverkonsert [33m]
+      ID: MKKA11000722
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000722
+
+----------------------------------------
+
+=== Samaagam, konsert for sarod og orkester ===
+Composer: Amjad Ali Khan
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Samaagam - Sarod-mester Amjad Ali Khan [46m]
+      ID: MKKA71001118
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001118
+
+----------------------------------------
+
+=== Sinfonia Concertante K.364 ===
+Original title: Sinfonia Concertante K.364, Ess-dur
+Composer: Wolfgang Amadeus Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1989, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [33m]
+      ID: FMUS20006089
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20006089
+
+----------------------------------------
+
+=== Sinfonia concertante ===
+Composer: Sergej Prokofjev
+Genre: concerto
+Language: Instrumental
+
+Performance (2019, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Eksamenskonsert for Norges Musikkhøgskole - Prokfjev. [47m]
+      ID: MKKA11001319
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001319
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Béla Bartók
+Genre: concerto
+Language: Instrumental
+
+Performance (2015, TV, 38m):
+  Series: KORK - hele landets orkester
+    - 28. mars 2015 [38m]
+      ID: MKMF61000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000015
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Herman Vogt
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 38m):
+  Series: KORK - hele landets orkester
+    - Ny, norsk fiolinkonsert [38m]
+      ID: MKKA71001516
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001516
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Samuel Barber
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 38m):
+  Series: KORK - hele landets orkester
+    - Barbers fiolinkonsert med David Coucheron [38m]
+      ID: MKKA71000818
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000818
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Tchaikovsky
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 37m):
+  Series: KORK - hele landets orkester
+    - Tsjajkovskijs fiolinkonsert [37m]
+      ID: MKKA11003020
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003020
+
+----------------------------------------
+
+=== Violin Concerto ===
+Original title: Fiolinkonsert
+Composer: Carl Nielsen
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 51m):
+  Series: KORK - hele landets orkester
+    - Carl Nielsens fiolinkonsert [51m]
+      ID: MKKA11000620
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000620
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Beethoven
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 42m):
+  Series: KORK - hele landets orkester
+    - Vilde Frang spiller Beethovens fiolinkonsert [42m]
+      ID: MKKA11000121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000121
+
+----------------------------------------
+
+=== Violin Concerto ===
+Composer: Benjamin Britten
+Genre: concerto
+Language: Instrumental
+
+Performance (2023, TV, 37m):
+  Series: KORK - hele landets orkester
+    - Miriam Helms Ålien spiller Brittens fiolinkonsert [37m]
+      ID: MKKA11000123
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000123
+
+----------------------------------------
+
+=== Violin Concerto No. 5 in A major ===
+Original title: Konsert for fiolin og orkester nr 5, K.219, A-dur
+Composer: Wolfgang Amadeus Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1985, TV, 37m):
+  Series: Oslo Filharmoniske Orkester
+    - Fiolinkonsert [37m]
+      ID: FMUS10004285
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10004285
+
+----------------------------------------
+
+=== Ætscæke, fløytekonsert ===
+Composer: Jon Øvind Ness
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 49m):
+  Series: KORK - hele landets orkester
+    - Kammerjazz og ny norsk fløytekonsert [49m]
+      ID: MKKA71001018
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001018
+
+----------------------------------------
+
+=== Klaverkonsert nr 17 og Symfoni nr 34 ===
+Composer: Wolfgang Amadeus Mozart
+Genre: concerto|symphony
+Language: Instrumental
+
+Performance (1993, TV, 1h4m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske Orkester spiller Mozart [1h4m]
+      ID: FKUM29000193
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum29000193
+
+----------------------------------------
+
+=== Fiolinkonsert; London Symphony ===
+Composer: Knut Vaage; Joseph Haydn
+Genre: concerto|symphony|orchestral
+Language: Instrumental
+
+Performance (2019, TV, 51m):
+  Series: KORK - hele landets orkester
+    - Fiolinkonsert av Knut Vaage og munter Haydn [51m]
+      ID: MKKA11000119
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000119
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (2008, TV, 8h57m):
+  Series: Åpningsgalla Den Norske Opera & Ballett
+    - Åpningen av det nye operahuset i Bjørvika [57m]
+      ID: OCMF19000608
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000608
+    - 20. april 2008 [1h56m]
+      ID: OCMF19000508
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000508
+    - 12. april 2008 [3h32m]
+      ID: OCMF19000108
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000108
+    - [INTRO] Kafé Opera [32m]
+      ID: OCMF19000208
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000208
+    - [Part 1] 19. april 2008 [1h58m]
+      ID: OCMF19000408
+      URL: https://tv.nrk.no/serie/aapningsgalla-den-norske-opera-og-ballett/ocmf19000408
+
+----------------------------------------
+
+=== Anne Pedersdotter ===
+Composer: Edvard Fliflet Bræin
+Genre: opera
+Language: norwegian
+
+Performance (1986, TV, 2h9m):
+  Series: Opera og operetter
+    - Anne Pedersdotter [2h9m]
+      ID: FMUS00002286
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002286
+
+----------------------------------------
+
+=== Carmen ===
+Composer: Bizet
+Genre: opera
+Language: french
+
+Performance (1985, TV, 27m):
+  Series: Opera og operetter
+    - Carmen og Don Jose på spansk visitt [27m]
+      ID: FMUS00005285
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005285
+
+----------------------------------------
+
+=== Cosi Fan Tutte ===
+Composer: Wolfgang Amadeus Mozart
+Genre: opera
+Language: unknown
+
+Performance (1991, TV, 2h41m):
+  Series: Opera og operetter
+    - Cosi Fan Tutte [2h41m]
+      ID: FKUM22000191
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum22000191
+
+----------------------------------------
+
+=== Dagbok til ein som vart borte ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1980, TV, 40m):
+  Series: Opera og operetter
+    - Dagbok til ein som vart borte [40m]
+      ID: FMUS00002980
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002980
+
+----------------------------------------
+
+=== Den kløktige Serpina ===
+Original title: La Serva Padrona
+Composer: Giovanni Battista Pergolesi
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Den kløktige Serpina [49m]
+      ID: FTEM00000271
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00000271
+
+----------------------------------------
+
+=== Don Juan ===
+Original title: Don Giovanni
+Composer: Mozart
+Genre: opera
+Language: unknown
+
+Performance (1988, TV, 2h58m):
+  Series: Opera og operetter
+    - Don Juan [2h58m]
+      ID: FMUS00001288
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00001288
+
+----------------------------------------
+
+=== Duett for to "Hovsångare" ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1981, TV, 51m):
+  Series: Opera og operetter
+    - Duett for to "Hovsångare" [51m]
+      ID: FMUS00003981
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00003981
+
+----------------------------------------
+
+=== Elektra ===
+Composer: Richard Strauss
+Genre: opera
+Language: unknown
+
+Performance (1986, TV, 1h50m):
+  Series: Opera og operetter
+    - Elektra [1h50m]
+      ID: FMUS00002186
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002186
+
+----------------------------------------
+
+=== Elskovsdrikken ===
+Original title: L'elisir d'amore
+Composer: Gaetano Donizetti
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1995, TV, 1h54m):
+  Series: Opera og operetter
+    - Elskovsdrikken [1h54m]
+      ID: FKUM03000195
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum03000195
+
+----------------------------------------
+
+=== Et sjakkspill ===
+Composer: Bjørn Kruse
+Genre: opera
+Language: norwegian
+
+Performance (1979, TV, 57m):
+  Series: Opera og operetter
+    - Et sjakkspill [57m]
+      ID: FMUS00000779
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000779
+
+----------------------------------------
+
+=== Gjengangere ===
+Composer: Antonio Bibalo
+Genre: opera
+Language: unknown
+Based on: Henrik Ibsen's Gjengangere (Ghosts)
+
+Performance (1984, TV, 2h16m):
+  Series: Opera og operetter
+    - Gjengangere [2h16m]
+      ID: FMUS00000784
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000784
+
+----------------------------------------
+
+=== Håndverkeren som adelsmann ===
+Original title: Der Bürger als Edelmann
+Composer: Johan Adolph Hasse
+Genre: opera
+Language: unknown
+Based on: Jean Baptiste Moliere comedy
+
+Performance (1988, TV, 54m):
+  Series: Opera og operetter
+    - Bayersk gjestespill [54m]
+      ID: FTRO00000988
+      URL: https://tv.nrk.no/serie/opera-og-operetter/ftro00000988
+
+----------------------------------------
+
+=== Il pastor fido ===
+Composer: Handel
+Genre: opera
+Language: italian
+
+Performance (1980, TV, 33m):
+  Series: Opera og operetter
+    - Prologen fra "Il pastor fido" [33m]
+      ID: FMUS00000880
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000880
+
+----------------------------------------
+
+=== Ingrid Bjoners kveld ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+
+Performance (1982, TV, 1h0m):
+  Series: Opera og operetter
+    - Ingrid Bjoners kveld [1h0m]
+      ID: FMUS00002482
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002482
+
+----------------------------------------
+
+=== Kvinnelist ===
+Original title: Le Astuzie Femminili
+Composer: Domenico Cimarosa
+Genre: opera
+Language: unknown
+
+Performance (1971, TV, 1h25m):
+  Series: Opera med humør
+    - Kvinnelist [1h25m]
+      ID: FTEM00000871
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00000871
+
+----------------------------------------
+
+=== La Traviata ===
+Composer: Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 2h31m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Hele Norge i Operaen del 1 [59m]
+      ID: MKDE23000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000118
+    - [INTRO] Hele Norge i Operaen del 2 [1h2m]
+      ID: MKDE23000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000218
+    - [INTRO] Hele Norge i Operaen del 3 [29m]
+      ID: MKDE23000318
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde23000318
+
+----------------------------------------
+
+=== La Traviata ===
+Composer: Giuseppe Verdi
+Genre: opera
+Language: italian
+
+Performance (2018, TV, 3h57m):
+  Series: Hele Norge i Operaen
+    - [INTRO] Operaen minutt for minutt [1h56m]
+      ID: MKDE21000218
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000218
+    - [INTRO] Operaen minutt for minutt [2h0m]
+      ID: MKDE21000118
+      URL: https://tv.nrk.no/serie/hele-norge-i-operaen/mkde21000118
+
+----------------------------------------
+
+=== Macbeth ===
+Composer: Unknown Composer
+Genre: opera
+Language: unknown
+Based on: William Shakespeare's Macbeth
+
+Performance (1990, TV, 1h53m):
+  Series: Opera og operetter
+    - Macbeth [1h53m]
+      ID: FMUS00005990
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005990
+
+----------------------------------------
+
+=== Mysteriet Makropulos ===
+Composer: Leos Janacek
+Genre: opera
+Language: unknown
+Based on: a novel by Karel Capek
+
+Performance (1992, TV, 1h36m):
+  Series: Opera og operetter
+    - Mysteriet Makropulos [1h36m]
+      ID: FKUM21000192
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum21000192
+
+----------------------------------------
+
+=== Olav Tryggvason ===
+Composer: Ragnar Søderlind
+Genre: opera
+Language: unknown
+
+Performance (2000, TV, 2h58m):
+  Series: Olav Tryggvason (Opera)
+    - Olav Tryggvason [1h27m]
+      ID: RKUM11000200
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000200
+    - [Part 1] Olav Tryggvason [1h30m]
+      ID: RKUM11000100
+      URL: https://tv.nrk.no/serie/olav-tryggvason-opera/rkum11000100
+
+----------------------------------------
+
+=== Opera a la carte ===
+Composer: Gluck, Wagner, Verdi
+Genre: opera
+Language: unknown
+
+Performance (1989, TV, 43m):
+  Series: Opera og operetter
+    - Opera a la carte [43m]
+      ID: FMUS00000289
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00000289
+
+----------------------------------------
+
+=== Teaterdirektøren ===
+Original title: Der Schauspieldirektor
+Composer: Wolfgang Amadeus Mozart
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Teaterdirektøren [49m]
+      ID: FTEM00001771
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00001771
+
+----------------------------------------
+
+=== The Barber of Seville ===
+Original title: Barberen i Sevilla
+Composer: Gioacchino Rossini
+Genre: opera
+Language: italian
+
+Performance (1994, TV, 2h22m):
+  Series: Opera og operetter
+    - Barberen i Sevilla [2h22m]
+      ID: FKUM04000194
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum04000194
+
+----------------------------------------
+
+=== The Marriage of Figaro ===
+Original title: Figaros bryllup
+Composer: Mozart
+Genre: opera
+Language: unknown
+
+Performance (1989, TV, 2h58m):
+  Series: Opera og operetter
+    - Figaros bryllup [2h58m]
+      ID: FMUS00001889
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00001889
+
+----------------------------------------
+
+=== Anything Goes ===
+Composer: Unknown Composer
+Genre: operetta
+Language: unknown
+
+Performance (1962, TV, 1h6m):
+  Series: Lommeoperetten
+    - Anything goes [1h6m]
+      ID: FUHA62000962
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62000962
+
+----------------------------------------
+
+=== Bajaderen ===
+Composer: null
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h6m):
+  Series: Lommeoperetten
+    - Bajaderen [1h6m]
+      ID: FUHA62001662
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001662
+
+----------------------------------------
+
+=== Czardasfyrstinnen ===
+Composer: Emmerich Kálmán
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1986, TV, 2h34m):
+  Series: Opera og operetter
+    - Czardasfyrstinnen [2h34m]
+      ID: FMUS00002086
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002086
+
+----------------------------------------
+
+=== Den italienske stråhatten ===
+Original title: Il cappello di paglia di Firenze
+Composer: Nino Rota
+Genre: operetta
+Language: unknown
+Based on: Eugène Labiche's play 'Le chapeau de paille d'Italie'
+
+Performance (1982, TV, 1h42m):
+  Series: Opera og operetter
+    - Den italienske stråhatten [1h42m]
+      ID: FMUS00005582
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00005582
+
+----------------------------------------
+
+=== Den skjønne Helene ===
+Original title: La belle Hélène
+Composer: Jacques Offenbach
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+Based on: Parody of Greek myth of Helen of Troy
+
+Performance (1962, TV, 57m):
+  Series: Lommeoperetten
+    - Den skjønne Helene [57m]
+      ID: FUHA62003962
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62003962
+
+----------------------------------------
+
+=== Dollarprinsessen ===
+Original title: Die Dollarprinzessin
+Composer: Leo Fall
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h24m):
+  Series: Lommeoperetten
+    - Dollarprinsessen [1h24m]
+      ID: FUHA62001162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001162
+
+----------------------------------------
+
+=== Fru Luna ===
+Composer: Paul Lincke
+Genre: operetta
+Language: unknown
+
+Performance (1962, TV, 50m):
+  Series: Lommeoperetten
+    - Fru Luna [50m]
+      ID: FUHA62001262
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001262
+
+----------------------------------------
+
+=== Selections from various operettas ===
+Composer: Various
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 53m):
+  Series: Lommeoperetten
+    - Vi tømmer operettelommen [53m]
+      ID: FUHA62000162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62000162
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1974, TV, 2h36m):
+  Series: Oslo Filharmoniske Orkester
+    - 12. november 1980 [46m]
+      ID: FUHA05005180
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fuha05005180
+    - Familiekonsert [1h6m]
+      ID: FMUS00005380
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00005380
+    - Filharmonisk Selskaps Orkester [43m]
+      ID: FMUS00004974
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00004974
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1982, TV, 1h14m):
+  Series: Bergen Filharmoniske Orkester
+    - Festkonsert med Harmonien [32m]
+      ID: FHLD00002285
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fhld00002285
+    - Musikk i Norden [42m]
+      ID: FMUS00002582
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fmus00002582
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1991, TV, 1h23m):
+  Series: Musikalske høydepunkter med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - 23. desember 1991 [42m]
+      ID: FKUM20000691
+      URL: https://tv.nrk.no/serie/musikalske-hoeydepunkter-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum20000691
+    - 15. desember 1991 [40m]
+      ID: FKUM20000591
+      URL: https://tv.nrk.no/serie/musikalske-hoeydepunkter-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum20000591
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (1992, TV, 1h30m):
+  Series: Solistgalla med Stavanger Symfoniorkester
+    - 3. mai 1992 [48m]
+      ID: FKUM05000292
+      URL: https://tv.nrk.no/serie/solistgalla-med-stavanger-symfoniorkester/fkum05000292
+    - 19. april 1992 [41m]
+      ID: FKUM05000192
+      URL: https://tv.nrk.no/serie/solistgalla-med-stavanger-symfoniorkester/fkum05000192
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2009, TV, 22h58m):
+  Series: KORK - hele landets orkester
+    - Frigjøringsfeiring med klezmer og Kork [44m]
+      ID: MKKA11200225
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11200225
+    - Ingebjørg Bratland og KORK [1h24m]
+      ID: MKKA11000723
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000723
+    - Kork møter Sporten [59m]
+      ID: MKKA11000224
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000224
+    - KORK på pub [46m]
+      ID: MKKA11000919
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000919
+    - KORK og Rymden [1h24m]
+      ID: MKKA11001422
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001422
+    - Finne veien hjem – Trygve Skaug med KORK [1h23m]
+      ID: MKKA11002822
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002822
+    - CC Cowboys og KORK i Holmenkollen [1h20m]
+      ID: MKKA11001122
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001122
+    - Bugge Wesseltoft og KORK [44m]
+      ID: MKKA11001121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001121
+    - KORK i Vesterålen [39m]
+      ID: MKKA11002621
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002621
+    - Sigmund Groven 75 år [53m]
+      ID: MKKA11001721
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001721
+    - Jukebox live [1h24m]
+      ID: MKKA11001821
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001821
+    - KORKs strykere med Engegård [53m]
+      ID: MKKA11000821
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000821
+    - Musikalsk grensehandel - svensk romjul med KORK [57m]
+      ID: MKKA11003320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003320
+    - Sissel og KORK Gratulerer med dagen! [51m]
+      ID: MKTV39020020
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mktv39020020
+    - KORK kammer med harpe og blåsere [32m]
+      ID: MKKA11001120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001120
+    - KORKs messingblåsere [31m]
+      ID: MKKA11000920
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000920
+    - KORK kammer i Store studio [47m]
+      ID: MKKA11000820
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000820
+    - KORK [47m]
+      ID: MKKA71000615
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000615
+    - KORK [40m]
+      ID: MKKA71000115
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000115
+    - 11. april 2015 [39m]
+      ID: MKMF63000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf63000015
+    - 29. mars 2014 [38m]
+      ID: MKMF62000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf62000014
+    - KORK og Kvarts [37m]
+      ID: MKMF61000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000014
+    - Draumen om KORK [49m]
+      ID: DKSF49001513
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/dksf49001513
+    - Klassisk a la Cuba [38m]
+      ID: OCMF20000109
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/ocmf20000109
+    - [Part 1] Klassisk Vorspiel julelive 2019 del 1 [1h3m]
+      ID: MKKA11002219
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002219
+    - [Part 2] Klassisk Vorspiel julelive 2019 del 2 [45m]
+      ID: MKKA11002319
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002319
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2015, TV, 5h24m):
+  Series: NRK Klassisk ønskekonsert
+    - NRK Klassisk ønskekonsert 2021 [1h14m]
+      ID: MKMU64000021
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mkmu64000021
+    - NRKs juleønskekonsert 2020 [1h6m]
+      ID: MKTV13000020
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv13000020
+    - NRK Ønskekonsert 2019 [1h11m]
+      ID: MKTV14000019
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv14000019
+    - Ønskekonsert med KORK 2017 [1h9m]
+      ID: MKTV14000017
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv14000017
+    - Ønskekonsert med KORK 2015 [43m]
+      ID: MKMF10000015
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mkmf10000015
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Moddi
+Genre: orchestral
+Language: norwegian
+
+Performance (2021, TV, 34m):
+  Series: KORK - hele landets orkester
+    - KORK i Vesterålen med Moddi [34m]
+      ID: MKKA11002721
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002721
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Johan Svendsen
+Genre: orchestral
+Language: Instrumental
+
+Performance (2021, TV, 37m):
+  Series: KORK - hele landets orkester
+    - Eivind Aadland dirigerer Svendsen [37m]
+      ID: MKKA11000521
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000521
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Martinů
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 36m):
+  Series: KORK - hele landets orkester
+    - 100 % tsjekkisk med Marie Tetzlaff og Petr Popelka [36m]
+      ID: MKKA11000322
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000322
+
+----------------------------------------
+
+=== "Våren", "Omnes gentes", "Ouverture", "Air", "Gavotte" ===
+Composer: Vivaldi, Gabrieli, Bach
+Genre: orchestral
+Language: Instrumental
+
+Performance (1992, TV, 37m):
+  Series: Barokk-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - 10. mai 1992 [37m]
+      ID: FKUM04000192
+      URL: https://tv.nrk.no/serie/barokk-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum04000192
+
+----------------------------------------
+
+=== Adagio for Strings, River Suite, Rhapsody in Blue ===
+Composer: Samuel Barber, Duke Ellington, George Gershwin, Leonard Bernstein, George Antheil
+Genre: orchestral
+Language: Instrumental
+
+Performance (2019, TV, 1h10m):
+  Series: KORK - hele landets orkester
+    - KORK i Operaen [1h10m]
+      ID: MKKA11001119
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001119
+
+----------------------------------------
+
+=== Also sprach Zarathustra ===
+Original title: Slik talte Zarathustra
+Composer: Richard Strauss
+Genre: orchestral
+Language: Instrumental
+Based on: Nietzsche's philosophical novel, Also Sprach Zarathustra
+
+Performance (1987, TV, 37m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske orkester: Also sprach Zarathustra [37m]
+      ID: FMUS10005987
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10005987
+
+----------------------------------------
+
+=== Bolero ===
+Composer: Ravel
+Genre: orchestral
+Language: Instrumental
+
+Performance (2025, TV, 1h17m):
+  Series: Klassiske opplevelser
+    - Ravel i tusen glitrende fasetter [1h17m]
+      ID: MKMU54022025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54022025
+
+----------------------------------------
+
+=== Bratsjkonsert ===
+Composer: Jennifer Higdon, Antonín Dvořák
+Genre: orchestral
+Language: Instrumental
+
+Performance (2019, TV, 43m):
+  Series: KORK - hele landets orkester
+    - KORK i Aulaen - norsk bratsjvirtuos og amerikansk musikk. [43m]
+      ID: MKKA11001719
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001719
+
+----------------------------------------
+
+=== Caminos del Inka, Inka-veien ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 1h13m):
+  Series: KORK - hele landets orkester
+    - Caminos del Inka, Inka-veien. [1h13m]
+      ID: MKKA11000720
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000720
+
+----------------------------------------
+
+=== Carmel Eulogies ===
+Composer: Lasse Thoresen
+Genre: orchestral
+Language: Instrumental
+
+Performance (1994, TV, 29m):
+  Series: Oslo Filharmoniske Orkester
+    - Ny musikk i stort format - "Carmel Eulogies" [29m]
+      ID: FKUM39000194
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum39000194
+
+----------------------------------------
+
+=== Cartoons in concert ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2025, TV, 1h11m):
+  Series: Filmmusikk-konserter
+    - Cartoons in concert [1h11m]
+      ID: MKMU54030125
+      URL: https://tv.nrk.no/serie/filmmusikk-klassiske-opplevelser/mkmu54030125
+
+----------------------------------------
+
+=== Catch Light ===
+Composer: Nils Henrik Asheim
+Genre: orchestral
+Language: Instrumental
+
+Performance (2018, TV, 30m):
+  Series: KORK - hele landets orkester
+    - Catch Light [30m]
+      ID: MKKA71000118
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000118
+
+----------------------------------------
+
+=== Catfish Row - musikk fra Porgy and Bess ===
+Composer: George Gershwin
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 27m):
+  Series: KORK - hele landets orkester
+    - Catfish Row - musikk fra Porgy and Bess [27m]
+      ID: MKKA11002522
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002522
+
+----------------------------------------
+
+=== Compositions by Nils Petter Molvær ===
+Composer: Nils Petter Molvær
+Genre: orchestral
+Language: Instrumental
+
+Performance (2019, TV, 1h6m):
+  Series: KORK - hele landets orkester
+    - Nils Petter Molvær og KORK [1h6m]
+      ID: MKKA11000719
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000719
+
+----------------------------------------
+
+=== David Bowie arranged for orchestra ===
+Composer: David Bowie (arranged by Jon Øivind Ness)
+Genre: orchestral
+Language: english
+
+Performance (2020, TV, 1h36m):
+  Series: KORK - hele landets orkester
+    - KORK spiller David Bowie - hele konserten [1h36m]
+      ID: MKKA11002220
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002220
+
+----------------------------------------
+
+=== David Bowie songs arranged for orchestra ===
+Composer: David Bowie (arranged by Jon Øivind Ness)
+Genre: orchestral
+Language: english
+
+Performance (2020, TV, 45m):
+  Series: KORK - hele landets orkester
+    - KORK spiller David Bowie [45m]
+      ID: MKKA11002120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002120
+
+----------------------------------------
+
+=== Et snev av evig ===
+Composer: Geir Holmsen
+Genre: orchestral
+Language: norwegian
+Based on: Dikt av Lars Saabye Christensen
+
+Performance (2021, TV, 1h4m):
+  Series: KORK - hele landets orkester
+    - Et snev av evig - Maj Britt Andersen, Lars Saabye Christensen og KORK [1h4m]
+      ID: MKKA11003521
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003521
+
+----------------------------------------
+
+=== Festouverture ===
+Composer: Johannes Brahms
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 32m):
+  Series: KORK - hele landets orkester
+    - Sjefdirigenten med Brahms og Zemlinsky [32m]
+      ID: MKKA11000622
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000622
+
+----------------------------------------
+
+=== Filmmusikk av Bernhard Herrmann, kammermusikk for piccolofløyte og harpe ===
+Composer: Bernhard Herrmann
+Genre: orchestral
+Language: Instrumental
+
+Performance (2013, TV, 37m):
+  Series: KORK - hele landets orkester
+    - [Part 5] 30. november 2013 [37m]
+      ID: MKMF66000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf66000013
+
+----------------------------------------
+
+=== Folk music requests performed by the Broadcasting Orchestra ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2016, TV, 1h0m):
+  Series: NRK Klassisk ønskekonsert
+    - Ønskekonsert med KORK 2016 [1h0m]
+      ID: MKMF15000016
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mkmf15000016
+
+----------------------------------------
+
+=== Fra Pélleas og Mélisande; Sanger i orkesterarrangement ===
+Composer: Jean Sibelius, Franz Schubert
+Genre: orchestral
+Language: unknown
+Based on: Pélleas og Mélisande
+
+Performance (2020, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Schubert og Sibelius 1 [46m]
+      ID: MKKA11000320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000320
+
+----------------------------------------
+
+=== Great National Symphony and Konsertstykke for piano og orkester ===
+Composer: Clementi and Magne Hegdal
+Genre: orchestral
+Language: Instrumental
+
+Performance (2015, TV, 39m):
+  Series: KORK - hele landets orkester
+    - KORK [39m]
+      ID: MKKA71000315
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000315
+
+----------------------------------------
+
+=== Helios-ouverture and Cellokonsert nr. 1 ===
+Composer: Carl Nielsen and Dmitrij Sjostakovitsj
+Genre: orchestral
+Language: Instrumental
+
+Performance (2016, TV, 43m):
+  Series: KORK - hele landets orkester
+    - Solmusikk og heftig cellospill [43m]
+      ID: MKKA71000816
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000816
+
+----------------------------------------
+
+=== House of Sound, Little Suite, Piano Concerto No. 2 ===
+Composer: Nils Henrik Asheim, Witold Lutoslawski, Dmitri Shostakovich
+Genre: orchestral
+Language: Instrumental
+
+Performance (2019, TV, 41m):
+  Series: KORK - hele landets orkester
+    - House of Sound [41m]
+      ID: MKKA11001819
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001819
+
+----------------------------------------
+
+=== Innsettelseskonsert ===
+Composer: Boulez, Bach, Sjostakovitsj, Grieg
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 1h17m):
+  Series: KORK - hele landets orkester
+    - [Part 2] Petr Popelka, KORKs nye sjefdirigent. Del 2 [1h17m]
+      ID: MKKA11002420
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002420
+
+----------------------------------------
+
+=== Julehilsen fra KORK ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: mixed
+
+Performance (2015, TV, 54m):
+  Series: KORK - hele landets orkester
+    - Julehilsen fra KORK [54m]
+      ID: MKKA71000715
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000715
+
+----------------------------------------
+
+=== Julemeloditimen med KORK ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: mixed
+
+Performance (2016, TV, 52m):
+  Series: KORK - hele landets orkester
+    - Julemeloditimen med KORK [52m]
+      ID: MKKA71001816
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001816
+
+----------------------------------------
+
+=== Kinderszenen (Scenes from Childhood) ===
+Original title: Kinderszenen
+Composer: Robert Schumann
+Genre: orchestral
+Language: Instrumental
+
+Performance (2019, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Schumanns Kinderszenen for orkester [36m]
+      ID: MKKA11001919
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001919
+
+----------------------------------------
+
+=== Lemminkäinen ===
+Composer: Jean Sibelius
+Genre: orchestral
+Language: Instrumental
+Based on: Kalevala
+
+Performance (2021, TV, 48m):
+  Series: KORK - hele landets orkester
+    - Tabita Berglund dirigerer Lemminkäinen [48m]
+      ID: MKKA11001421
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001421
+
+----------------------------------------
+
+=== Les Illuminations, Destructive War (Belahazzar) ===
+Composer: Benjamin Britten, Georg Friedrich Händel
+Genre: orchestral
+Language: unknown
+
+Performance (2013, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 4] 23. november 2013 [38m]
+      ID: MKMF65000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf65000013
+
+----------------------------------------
+
+=== Lyden av Tandberg ===
+Composer: various
+Genre: orchestral
+Language: norwegian
+Based on: life story of Vebjørn Tandberg
+
+Performance (2016, TV, 1h50m):
+  Series: KORK - hele landets orkester
+    - Lyden av Tandberg [1h50m]
+      ID: MKKA71001716
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001716
+
+----------------------------------------
+
+=== Mathis der Mahler, Zigeunerweisen, Tzigane ===
+Composer: Hindemith, Sarasate, Ravel
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 48m):
+  Series: KORK - hele landets orkester
+    - [Part 1] Sjefdirigentens siste konsert med KORK, del 1 [48m]
+      ID: MKKA11002820
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002820
+
+----------------------------------------
+
+=== Meloditimen ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: mixed
+
+Performance (2019, TV, 1h1m):
+  Series: KORK - hele landets orkester
+    - Meloditimen med KORK [1h1m]
+      ID: MKKA11000619
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000619
+
+----------------------------------------
+
+=== Multiple works by Haydn, Dvořák, Prokofjev, and Fossegrimen by Halvorsen ===
+Composer: Haydn, Dvořák, Prokofjev, Halvorsen
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 1h22m):
+  Series: KORK - hele landets orkester
+    - [Part 1] Petr Popelka, KORKs nye sjefdirigent. Del 1 [1h22m]
+      ID: MKKA11002320
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002320
+
+----------------------------------------
+
+=== Music from Indiana Jones, Lawrence of Arabia, and King Kong ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2025, TV, 1h25m):
+  Series: Filmmusikk-konserter
+    - Action-eventyr i symfoni [1h25m]
+      ID: MKMU54030225
+      URL: https://tv.nrk.no/serie/filmmusikk-klassiske-opplevelser/mkmu54030225
+
+----------------------------------------
+
+=== Music from NRK's Christmas Calendars ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: mixed
+
+Performance (2019, TV, 55m):
+  Series: KORK - hele landets orkester
+    - NRKs julekalender 40 år [55m]
+      ID: MKKA11002119
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002119
+
+----------------------------------------
+
+=== Music to Peer Gynt, Trumpet Concerto ===
+Composer: Edvard Grieg, Alfred Janson
+Genre: orchestral
+Language: Instrumental
+Based on: Based on Ibsen's Peer Gynt (for Grieg's piece)
+
+Performance (2017, TV, 37m):
+  Series: KORK - hele landets orkester
+    - KORK i Bucuresti [37m]
+      ID: MKKA71000217
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000217
+
+----------------------------------------
+
+=== Night on Bald Mountain and songs by Sibelius ===
+Composer: Modest Mussorgsky and Jean Sibelius
+Genre: orchestral
+Language: mixed
+
+Performance (2021, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Natt på Bloksberg og sanger av Sibelius [34m]
+      ID: MKKA11002921
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002921
+
+----------------------------------------
+
+=== Over hav mot en høyere himmel and Piano Concerto in A minor ===
+Composer: Ståle Kleiberg and Edvard Grieg
+Genre: orchestral
+Language: Instrumental
+
+Performance (2025, TV, 1h5m):
+  Series: Klassiske opplevelser
+    - Grieg & Kleiberg – Nasjonalt utvandrerjubileum [1h5m]
+      ID: MKMU54050625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050625
+
+----------------------------------------
+
+=== Overture and Venusberg Music; Les préludes ===
+Composer: Richard Wagner, Franz Liszt
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 40m):
+  Series: KORK - hele landets orkester
+    - Liszt og Wagner [40m]
+      ID: MKKA11002322
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002322
+
+----------------------------------------
+
+=== Overture to Iphigenia in Aulis and Cello Concerto in D major ===
+Composer: Christoph Willibald Gluck and Joseph Haydn
+Genre: orchestral
+Language: Instrumental
+
+Performance (1993, TV, 40m):
+  Series: Oslo Filharmoniske Orkester
+    - Maikonsert - Schiff i dobbeltrolle [40m]
+      ID: FKUM09000193
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum09000193
+
+----------------------------------------
+
+=== Parvat (Fjell) ===
+Original title: Parvat
+Composer: Harpreet Bansal
+Genre: orchestral
+Language: Instrumental
+
+Performance (2021, TV, 52m):
+  Series: KORK - hele landets orkester
+    - Parvat - Harpreet Bansal og KORK [52m]
+      ID: MKKA11000921
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000921
+
+----------------------------------------
+
+=== Peer Gynt ===
+Composer: Edvard Grieg
+Genre: orchestral
+Language: Instrumental
+Based on: Ibsen's Peer Gynt
+
+Performance (2025, TV, 39m):
+  Series: Klassiske opplevelser
+    - Resonansen av Peer Gynt [39m]
+      ID: MKMU54021025
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021025
+
+----------------------------------------
+
+=== Peter and the Wolf ===
+Original title: Peter i Volk
+Composer: Sergej Prokofiev
+Genre: orchestral
+Language: norwegian
+
+Performance (2013, TV, 37m):
+  Series: KORK - hele landets orkester
+    - [Part 2] 9. november 2013 [37m]
+      ID: MKMF62000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf62000013
+
+----------------------------------------
+
+=== Pictures From a Sinking City and Trombonekonsert ===
+Composer: Maja Ratkje and Nino Rota
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Ratkje og Rota [34m]
+      ID: MKKA11000522
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000522
+
+----------------------------------------
+
+=== Pictures at an Exhibition ===
+Original title: Bilder fra en utstilling
+Composer: Modest Mussorgsky
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 42m):
+  Series: KORK - hele landets orkester
+    - Bilder fra en utstilling. KORKs messingblåsere [42m]
+      ID: MKKA11002720
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002720
+
+----------------------------------------
+
+=== Prelude to Tristan und Isolde & Symphony No. 7 ===
+Original title: Tristan und Isolde & Symphony No. 7
+Composer: Richard Wagner & Jean Sibelius
+Genre: orchestral
+Language: Instrumental
+Based on: Tristan und Isolde (Wagner)
+
+Performance (2019, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Eksamenskonsert for Norges Musikkhøgskole - Wagner og Sibelius. [34m]
+      ID: MKKA11001419
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001419
+
+----------------------------------------
+
+=== Raajroe ===
+Composer: Marja Mortensson
+Genre: orchestral
+Language: mixed
+
+Performance (2021, TV, 1h18m):
+  Series: KORK - hele landets orkester
+    - Raajroe - Marja Mortensson og KORK [1h18m]
+      ID: MKKA11003421
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003421
+
+----------------------------------------
+
+=== Romeo and Juliet, Fantasy Overture; Prillar-suite ===
+Composer: Pjotr Tsjajkovskij; Karl Johan Ankarblom
+Genre: orchestral
+Language: Instrumental
+Based on: Romeo and Juliet
+
+Performance (2014, TV, 36m):
+  Series: KORK - hele landets orkester
+    - 25. oktober 2014 [36m]
+      ID: MKMF67000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf67000014
+
+----------------------------------------
+
+=== Rosamunde ===
+Composer: Schubert
+Genre: orchestral
+Language: Instrumental
+Based on: A forgotten play called Rosamunde
+
+Performance (2015, TV, 37m):
+  Series: KORK - hele landets orkester
+    - KORK [37m]
+      ID: MKKA71000415
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000415
+
+----------------------------------------
+
+=== Selection of Works ===
+Composer: Grieg, Ravel, Stravinsky
+Genre: orchestral
+Language: Instrumental
+
+Performance (2021, TV, 35m):
+  Series: KORK - hele landets orkester
+    - Grieg/Ravel/Stravinskij [35m]
+      ID: MKKA11000621
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000621
+
+----------------------------------------
+
+=== Siegfried-Idyll and Piano Concerto No. 1 ===
+Composer: Wagner and Tveitt
+Genre: orchestral
+Language: Instrumental
+
+Performance (2021, TV, 41m):
+  Series: KORK - hele landets orkester
+    - Berglund og Gimse, Wagner og Tveitt [41m]
+      ID: MKKA11001321
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001321
+
+----------------------------------------
+
+=== Slow movements from Symphony No. 9 and Symphony No. 7 ===
+Composer: Dvořák and Beethoven
+Genre: orchestral
+Language: Instrumental
+
+Performance (2021, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Klassisk Reiersrud [47m]
+      ID: MKKA11001021
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001021
+
+----------------------------------------
+
+=== Sommernetter ===
+Composer: Hector Berlioz
+Genre: orchestral
+Language: unknown
+
+Performance (1987, TV, 35m):
+  Series: Oslo Filharmoniske Orkester
+    - Sommernetter [35m]
+      ID: FMUS20005887
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20005887
+
+----------------------------------------
+
+=== Symphonies for Wind Instruments and Concerto for Piano and Winds ===
+Composer: Stravinsky
+Genre: orchestral
+Language: Instrumental
+
+Performance (2017, TV, 32m):
+  Series: KORK - hele landets orkester
+    - KORKs blåsere spiller Stravinskij [32m]
+      ID: MKKA71001017
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001017
+
+----------------------------------------
+
+=== Symphony No. 36 ===
+Composer: Mozart
+Genre: orchestral
+Language: Instrumental
+
+Performance (2016, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Munter Mozart og krigersk Smetana [34m]
+      ID: MKKA71001116
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001116
+
+----------------------------------------
+
+=== Symphony No. 8 (Unfinished) ===
+Composer: Franz Schubert
+Genre: orchestral
+Language: Instrumental
+
+Performance (2020, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Schubert og Sibelius 2 [46m]
+      ID: MKKA11000520
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000520
+
+----------------------------------------
+
+=== Tango Music ===
+Composer: Unknown Composer
+Genre: orchestral
+Language: Instrumental
+
+Performance (2024, TV, 46m):
+  Series: KORK - hele landets orkester
+    - På tur med tango og Kork [46m]
+      ID: MKKA11200424
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11200424
+
+----------------------------------------
+
+=== Tatersanger ===
+Composer: Elias Akselsen (attributed; likely traditional)
+Genre: orchestral
+Language: norwegian
+
+Performance (2024, TV, 58m):
+  Series: KORK - hele landets orkester
+    - Tatersanger med Elias Akselsen og KORK [58m]
+      ID: MKKA11000124
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000124
+
+----------------------------------------
+
+=== Teoton ===
+Composer: Jukka Tiensuu
+Genre: orchestral
+Language: Instrumental
+
+Performance (2017, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Kinesisk munnorgel, KORK og finsk musikk [33m]
+      ID: MKKA71001117
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001117
+
+----------------------------------------
+
+=== The Rite of Spring ===
+Original title: Vårofferet
+Composer: Igor Stravinsky
+Genre: orchestral
+Language: Instrumental
+
+Performance (1987, TV, 38m):
+  Series: Oslo Filharmoniske Orkester
+    - Vårofferet [38m]
+      ID: FMUS10005887
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10005887
+
+----------------------------------------
+
+=== The Second Creation ===
+Composer: Ole Anton Thommessen
+Genre: orchestral
+Language: Instrumental
+
+Performance (1988, TV, 1h13m):
+  Series: Oslo Filharmoniske Orkester
+    - Et orkesterdrama for trompeter (og to stykker til) [1h13m]
+      ID: FMUS00000688
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00000688
+
+----------------------------------------
+
+=== Unknown, a concert of requested pieces ===
+Composer: Various
+Genre: orchestral
+Language: mixed
+
+Performance (2018, TV, 1h12m):
+  Series: NRK Klassisk ønskekonsert
+    - Ønskekonsert med KORK 2018 [1h12m]
+      ID: MKTV12000018
+      URL: https://tv.nrk.no/serie/oenskekonsert-med-kork/mktv12000018
+
+----------------------------------------
+
+=== Various works ===
+Composer: Richard Strauss, Jean Sibelius
+Genre: orchestral
+Language: Instrumental
+
+Performance (2016, TV, 38m):
+  Series: KORK - hele landets orkester
+    - [Part 1] Strauss og Sibelius I [38m]
+      ID: MKKA71001316
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001316
+
+----------------------------------------
+
+=== Vinteren (The Winter) from The Four Seasons, Bondekantate (Peasant Cantata), Adagio in G minor, Chorale ===
+Composer: Vivaldi, Bach, Albinoni/Giazotto
+Genre: orchestral
+Language: Instrumental
+
+Performance (1992, TV, 42m):
+  Series: Barokk-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - 8. juni 1992 [42m]
+      ID: FKUM04000292
+      URL: https://tv.nrk.no/serie/barokk-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum04000292
+
+----------------------------------------
+
+=== Wesendonck Lieder ===
+Original title: Wesendonck-Lieder
+Composer: Richard Wagner
+Genre: orchestral
+Language: german
+
+Performance (1995, TV, 25m):
+  Series: Oslo Filharmoniske Orkester
+    - Wesendonk-sanger [25m]
+      ID: FKUM23000795
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum23000795
+
+----------------------------------------
+
+=== Works by Wagner and Brahms ===
+Composer: Wagner, Brahms
+Genre: orchestral
+Language: Instrumental
+
+Performance (2022, TV, 1h12m):
+  Series: KORK - hele landets orkester
+    - KORK uten dirigent, Wagner og Brahms [1h12m]
+      ID: MKKA11000422
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000422
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: other_classical
+Language: Instrumental
+
+Performance (1983, TV, 27m):
+  Series: Klassisk japansk musikk
+    - Klassisk japansk musikk og dans [27m]
+      ID: FMUS20002783
+      URL: https://tv.nrk.no/serie/klassisk-japansk-musikk/fmus20002783
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: unknown
+Genre: other_classical
+Language: Instrumental
+
+Performance (1983, TV, 29m):
+  Series: Klassisk japansk musikk
+    - 17. juli 1983 [29m]
+      ID: FMUS10002783
+      URL: https://tv.nrk.no/serie/klassisk-japansk-musikk/fmus10002783
+
+----------------------------------------
+
+=== Unknown Work ===
+Composer: Handel, Rameau
+Genre: other_classical
+Language: unknown
+
+Performance (2017, TV, 39m):
+  Series: KORK - hele landets orkester
+    - Barokk med Aksel Rykkvin og KORK [39m]
+      ID: MKKA71000917
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000917
+
+----------------------------------------
+
+=== Battalia ===
+Composer: Heinrich von Biber
+Genre: other_classical
+Language: Instrumental
+
+Performance (2019, TV, 45m):
+  Series: KORK - hele landets orkester
+    - Trombonejazz og krigsbarokk [45m]
+      ID: MKKA11000319
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000319
+
+----------------------------------------
+
+=== Con cierto toque de tango ===
+Composer: Piazzolla/Joner
+Genre: other_classical
+Language: Instrumental
+
+Performance (2019, TV, 1h27m):
+  Series: KORK - hele landets orkester
+    - KORK og Tango for 3 [1h27m]
+      ID: MKKA11000519
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000519
+
+----------------------------------------
+
+=== Groovy møte for harpe og perkusjon ===
+Composer: Sindre Hotvedt
+Genre: other_classical
+Language: Instrumental
+
+Performance (2014, TV, 36m):
+  Series: KORK - hele landets orkester
+    - 5. april 2014 [36m]
+      ID: MKMF63000014
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf63000014
+
+----------------------------------------
+
+=== In memoriam ===
+Composer: Ketil Bjørnstad
+Genre: other_classical
+Language: Instrumental
+
+Performance (2021, TV, 48m):
+  Series: NRK Musikk - konsert
+    - Kongshaug in memoriam [48m]
+      ID: MKMU91000121
+      URL: https://tv.nrk.no/serie/nrk-musikk-konsert/mkmu91000121
+
+----------------------------------------
+
+=== Lyden av Vigeland ===
+Composer: Unknown Composer
+Genre: other_classical
+Language: norwegian
+
+Performance (2019, TV, 1h33m):
+  Series: KORK - hele landets orkester
+    - Lyden av Vigeland [1h33m]
+      ID: MKKA11002019
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002019
+
+----------------------------------------
+
+=== New Japanese Music on Traditional Instruments ===
+Composer: Unknown Composer
+Genre: other_classical
+Language: Instrumental
+
+Performance (1983, TV, 29m):
+  Series: Klassisk japansk musikk
+    - Ny japansk musikk på tradisjonelle instrumenter [29m]
+      ID: FMUS30002783
+      URL: https://tv.nrk.no/serie/klassisk-japansk-musikk/fmus30002783
+
+----------------------------------------
+
+=== Pilegrim – en livsreise ===
+Composer: Gjermund Larsen
+Genre: other_classical
+Language: Instrumental
+
+Performance (2021, TV, 37m):
+  Series: NRK Musikk - konsert
+    - Gjermund Larsen og Trondheimssolistene [37m]
+      ID: MKMU91000321
+      URL: https://tv.nrk.no/serie/nrk-musikk-konsert/mkmu91000321
+
+----------------------------------------
+
+=== Tredje sangbok ===
+Composer: Geir Holmsen
+Genre: other_classical
+Language: norwegian
+
+Performance (2023, TV, 1h1m):
+  Series: KORK - hele landets orkester
+    - Tredje sangbok - Maj Britt Andersen, Lars Saabye Christensen og KORK [1h1m]
+      ID: MKKA11000623
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000623
+
+----------------------------------------
+
+=== Asrael-symfonien ===
+Composer: Josef Suk
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 1h1m):
+  Series: KORK - hele landets orkester
+    - Asrael-symfonien [1h1m]
+      ID: MKKA71000817
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000817
+
+----------------------------------------
+
+=== Fatum (Symphony) ===
+Composer: Johan Halvorsen
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 37m):
+  Series: Klassiske opplevelser
+    - Norsk skjebnesymfoni med Kork [37m]
+      ID: MKMU54050425
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050425
+
+----------------------------------------
+
+=== Italian Symphony ===
+Composer: Felix Mendelssohn
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Mendelssohns italienske symfoni [34m]
+      ID: MKKA71000218
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000218
+
+----------------------------------------
+
+=== Manfred, Symphony in Four Pictures, Op. 58 ===
+Original title: Manfred, symfoni fire bilder, op. 58
+Composer: Pyotr Ilyich Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (1986, TV, 1h7m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslofilharmonikerne spiller Tsjaikovskij [1h7m]
+      ID: FMUS20001986
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20001986
+
+----------------------------------------
+
+=== Pastorale Symphony ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 44m):
+  Series: KORK - hele landets orkester
+    - KORK i Aulaen - Beethovens Pastoralesymfoni. [44m]
+      ID: MKKA11001619
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001619
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Composer: Johan Svendsen
+Genre: symphony
+Language: Instrumental
+
+Performance (1982, TV, 38m):
+  Series: Norske symfonier
+    - 22. mai 1983 [38m]
+      ID: FMUS20002582
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus20002582
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Composer: Christian Sinding
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 36m):
+  Series: Norske symfonier
+    - 4. september 1983 [36m]
+      ID: FMUS00003983
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00003983
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Original title: Innover viddene
+Composer: Eivind Groven
+Genre: symphony
+Language: Instrumental
+
+Performance (1984, TV, 29m):
+  Series: Norske symfonier
+    - 3. juni 1984 [29m]
+      ID: FMUS00001484
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001484
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Composer: Ludvig Irgens-Jensen
+Genre: symphony
+Language: Instrumental
+
+Performance (1984, TV, 31m):
+  Series: Norske symfonier
+    - 26. februar 1984 [31m]
+      ID: FMUS00001384
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001384
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 41m):
+  Series: KORK - hele landets orkester
+    - Ung dirigent og Sibelius første [41m]
+      ID: MKKA71000916
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000916
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Original title: Symfoni nr. 1
+Composer: Dmitri Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Symfoni nr. 1 av Sjostakovitsj [36m]
+      ID: MKKA71000418
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000418
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Original title: Vinterdagdrømmer
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 45m):
+  Series: KORK - hele landets orkester
+    - Tsjaikovskijs Vinterdagdrømmer, Symfoni nr. 1 [45m]
+      ID: MKKA11000419
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000419
+
+----------------------------------------
+
+=== Symphony No. 1 ===
+Composer: Otto Winter-Hjelm
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Norges første symfoni. [31m]
+      ID: MKKA11000120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000120
+
+----------------------------------------
+
+=== Symphony No. 1 and last symphony ===
+Composer: Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 1h26m):
+  Series: Klassiske opplevelser
+    - Klaus Mäkelä og Oslo-filharmonien tolker Sjostakovitsj [1h26m]
+      ID: MKMU54021625
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021625
+
+----------------------------------------
+
+=== Symphony No. 1 in E minor ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (1989, TV, 41m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [41m]
+      ID: FMUS30000889
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus30000889
+
+----------------------------------------
+
+=== Symphony No. 103 ===
+Original title: Paukevirvelsymfonien
+Composer: Joseph Haydn
+Genre: symphony
+Language: Instrumental
+
+Performance (1993, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske orkester spiller Haydn [33m]
+      ID: FKUM29000293
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum29000293
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Johan Svendsen
+Genre: symphony
+Language: Instrumental
+
+Performance (1982, TV, 34m):
+  Series: Norske symfonier
+    - 29. mai 1983 [34m]
+      ID: FMUS00001482
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001482
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Otto Winter-Hjelm
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 33m):
+  Series: Norske symfonier
+    - 18. september 1983 [33m]
+      ID: FMUS00004183
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00004183
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Ludwig van Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (1988, TV, 1h17m):
+  Series: Oslo Filharmoniske Orkester
+    - Oslo Filharmoniske Orkester spiller Beethoven [36m]
+      ID: FKUM09000293
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fkum09000293
+    - [INTRO] Konsert i kveld [41m]
+      ID: FMUS10001588
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10001588
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Symfoni nr. 2 av Sibelius [47m]
+      ID: MKKA71001217
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001217
+
+----------------------------------------
+
+=== Symphony No. 2 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 36m):
+  Series: Klassiske opplevelser
+    - Tsjajkovskijs ukrainske symfoni [36m]
+      ID: MKMU54020525
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020525
+
+----------------------------------------
+
+=== Symphony No. 29 ===
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Mozarts Symfoni nr. 29 [31m]
+      ID: MKKA11002520
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002520
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2015, TV, 51m):
+  Series: KORK - hele landets orkester
+    - 4. april 2015 [51m]
+      ID: MKMF62000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf62000015
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Composer: Brahms
+Genre: symphony
+Language: Instrumental
+
+Performance (2019, TV, 50m):
+  Series: KORK - hele landets orkester
+    - KORK uten dirigent - Brahms 3. symfoni [50m]
+      ID: MKKA11001519
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001519
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 30m):
+  Series: KORK - hele landets orkester
+    - Sjefdirigentens Sibelius [30m]
+      ID: MKKA11000420
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000420
+
+----------------------------------------
+
+=== Symphony No. 3 ===
+Original title: Rhin-symfonien
+Composer: Robert Schumann
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Rhin-symfonien av Schumann med Petr Popelka [33m]
+      ID: MKKA11000223
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000223
+
+----------------------------------------
+
+=== Symphony No. 39 ===
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 28m):
+  Series: KORK - hele landets orkester
+    - Mozarts Symfoni nr. 39 med Petr Popelka [28m]
+      ID: MKKA11000423
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000423
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Original title: Symfoni nr. 4 i f-moll, verk 36
+Composer: Peter Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (1979, TV, 51m):
+  Series: Oslo Filharmoniske Orkester
+    - Filharmonisk Selskaps orkester [51m]
+      ID: FMUS10005579
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10005579
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 40m):
+  Series: KORK - hele landets orkester
+    - Sibelius og ungt talent [40m]
+      ID: MKKA71000516
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000516
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 34m):
+  Series: KORK - hele landets orkester
+    - Beethovens 4. med Miguel Harth-Bedoya [34m]
+      ID: MKKA71000918
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000918
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Brahms
+Genre: symphony
+Language: Instrumental
+
+Performance (2018, TV, 59m):
+  Series: KORK - hele landets orkester
+    - Brahms 4. symfoni uten dirigent [59m]
+      ID: MKKA71000618
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000618
+
+----------------------------------------
+
+=== Symphony No. 4 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Tsjajkovskijs Symfoni nr. 4 [47m]
+      ID: MKKA11003120
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003120
+
+----------------------------------------
+
+=== Symphony No. 41 ===
+Original title: Jupiter Symphony
+Composer: Mozart
+Genre: symphony
+Language: Instrumental
+
+Performance (2023, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Jupiter-symfonien av Mozart med Petr Popelka [36m]
+      ID: MKKA11000323
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000323
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Dmitri Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (1987, TV, 45m):
+  Series: Oslo Filharmoniske Orkester
+    - Sjostakovitsj 5. symfoni [45m]
+      ID: FMUS00006187
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00006187
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Tchaikovsky
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 48m):
+  Series: KORK - hele landets orkester
+    - Tsjaikovskijs Symfoni nr. 5 [48m]
+      ID: MKKA71001216
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001216
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Ralph Vaughan Williams
+Genre: symphony
+Language: Instrumental
+
+Performance (2022, TV, 43m):
+  Series: KORK - hele landets orkester
+    - Vaughan Williams' Symfoni nr. 5 [43m]
+      ID: MKKA11002622
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002622
+
+----------------------------------------
+
+=== Symphony No. 5 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 30m):
+  Series: Klassiske opplevelser
+    - Sammen om skjebnen – BFUng [30m]
+      ID: MKMU54050825
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050825
+
+----------------------------------------
+
+=== Symphony No. 6 and 7 ===
+Composer: Jean Sibelius
+Genre: symphony
+Language: Instrumental
+
+Performance (2025, TV, 54m):
+  Series: Klassiske opplevelser
+    - Kork med Sibelius´ siste symfonier [54m]
+      ID: MKMU54021325
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54021325
+
+----------------------------------------
+
+=== Symphony No. 7 ===
+Composer: Dvořák
+Genre: symphony
+Language: Instrumental
+
+Performance (2020, TV, 45m):
+  Series: KORK - hele landets orkester
+    - [Part 2] Sjefdirigentens siste konsert med KORK, del 2 [45m]
+      ID: MKKA11002920
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002920
+
+----------------------------------------
+
+=== Symphony No. 7 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2021, TV, 39m):
+  Series: KORK - hele landets orkester
+    - Beethovens 7. med Petr Popelka [39m]
+      ID: MKKA11000221
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000221
+
+----------------------------------------
+
+=== Symphony No. 8 ===
+Composer: Beethoven
+Genre: symphony
+Language: Instrumental
+
+Performance (2013, TV, 37m):
+  Series: KORK - hele landets orkester
+    - [Part 1] Andrew Manzes Beethoven og jazz-kammer [37m]
+      ID: MKMF61000013
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000013
+
+----------------------------------------
+
+=== Symphony No. 8 ===
+Composer: Antonín Dvořák
+Genre: symphony
+Language: Instrumental
+
+Performance (2022, TV, 35m):
+  Series: KORK - hele landets orkester
+    - Petr Popelka dirigerer Dvořáks 8. symfoni [35m]
+      ID: MKKA11000222
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000222
+
+----------------------------------------
+
+=== Symphony No. 8 ===
+Composer: Mahler
+Genre: symphony
+Language: unknown
+
+Performance (2025, TV, 1h30m):
+  Series: Klassiske opplevelser
+    - Storslått Mahler i Bergen [1h30m]
+      ID: MKMU54020125
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020125
+
+----------------------------------------
+
+=== Symphony No. 9 ===
+Composer: Schubert
+Genre: symphony
+Language: Instrumental
+
+Performance (2016, TV, 52m):
+  Series: KORK - hele landets orkester
+    - Schuberts niende [52m]
+      ID: MKKA71000316
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000316
+
+----------------------------------------
+
+=== Symphony No. 9 ===
+Composer: Shostakovich
+Genre: symphony
+Language: Instrumental
+
+Performance (2017, TV, 1h2m):
+  Series: KORK - hele landets orkester
+    - KORK og Popelka: Sjostakovitsj niende [28m]
+      ID: MKKA11003021
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003021
+    - Sjostakovitsj´ 9. symfoni med litt Mozart først [34m]
+      ID: MKKA71000317
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000317
+
+----------------------------------------
+
+=== Symphony in C minor ===
+Composer: Edvard Grieg
+Genre: symphony
+Language: Instrumental
+
+Performance (1983, TV, 38m):
+  Series: Norske symfonier
+    - 15. mai 1983 [38m]
+      ID: FMUS00001583
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00001583
+
+----------------------------------------
+
+=== Turangalila-Symphony ===
+Original title: Turangalila-Symphonie
+Composer: Olivier Messiaen
+Genre: symphony
+Language: Instrumental
+
+Performance (1986, TV, 1h28m):
+  Series: Oslo Filharmoniske Orkester
+    - Turangalila-symfoni [1h28m]
+      ID: FMUS00001886
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00001886
+
+----------------------------------------
+
+=== Symphony No. 1; Klaverkonsert i c-moll ===
+Composer: Mozart, Prokofjev
+Genre: symphony|concerto
+Language: Instrumental
+
+Performance (2017, TV, 44m):
+  Series: KORK - hele landets orkester
+    - Klassisk! Mozart og Prokofjev [44m]
+      ID: MKKA71000517
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000517
+
+----------------------------------------
+

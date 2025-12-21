@@ -35,9 +35,8 @@ function _page($$renderer, $$props) {
       if (h > 0) return `${h}t ${m}m`;
       return `${m} min`;
     }
-    function getImageUrl(url) {
-      if (!url) return "/placeholder.jpg";
-      return url;
+    function hasImage(url) {
+      return !!url && url.length > 0;
     }
     filteredAuthors = authors.filter((a) => true);
     filteredAuthors.filter((a) => a.birth_year);
@@ -138,7 +137,15 @@ function _page($$renderer, $$props) {
       const each_array_3 = ensure_array_like(performances);
       for (let $$index_3 = 0, $$length = each_array_3.length; $$index_3 < $$length; $$index_3++) {
         let perf = each_array_3[$$index_3];
-        $$renderer2.push(`<a${attr("href", `/performance/${stringify(perf.id)}`)} class="performance-card svelte-1uha8ag"><div class="performance-image svelte-1uha8ag"><img${attr("src", getImageUrl(perf.image_url))}${attr("alt", perf.title || "")} loading="lazy" class="svelte-1uha8ag"/> `);
+        $$renderer2.push(`<a${attr("href", `/performance/${stringify(perf.id)}`)} class="performance-card svelte-1uha8ag"><div class="performance-image svelte-1uha8ag">`);
+        if (hasImage(perf.image_url)) {
+          $$renderer2.push("<!--[-->");
+          $$renderer2.push(`<img${attr("src", perf.image_url)}${attr("alt", perf.title || "")} loading="lazy" class="svelte-1uha8ag"/>`);
+        } else {
+          $$renderer2.push("<!--[!-->");
+          $$renderer2.push(`<div class="image-placeholder svelte-1uha8ag"><svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon svelte-1uha8ag"><path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"></path></svg></div>`);
+        }
+        $$renderer2.push(`<!--]--> `);
         if (perf.total_duration) {
           $$renderer2.push("<!--[-->");
           $$renderer2.push(`<span class="duration svelte-1uha8ag">${escape_html(formatDuration(perf.total_duration))}</span>`);

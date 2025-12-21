@@ -10,7 +10,7 @@ return {
 	assets: new Set(["favicon.png","kulturperler.db","kulturperler.db.backup_20251219_122607","kulturperler.db.backup_20251219_153151","kulturperler.db.backup_20251219_155403","kulturperler.db.backup_20251219_155433","nrk_about_cache.json","nrk_candidates.json","sceneweb_cache.json"]),
 	mimeTypes: {".png":"image/png",".json":"application/json"},
 	_: {
-		client: {start:"_app/immutable/entry/start.CnjvATn_.js",app:"_app/immutable/entry/app.D1Wi00pv.js",imports:["_app/immutable/entry/start.CnjvATn_.js","_app/immutable/chunks/B52t6YnV.js","_app/immutable/chunks/D2mf_MPo.js","_app/immutable/chunks/B_RZd05l.js","_app/immutable/entry/app.D1Wi00pv.js","_app/immutable/chunks/D2mf_MPo.js","_app/immutable/chunks/DLNOMP84.js","_app/immutable/chunks/BDyHfgtg.js","_app/immutable/chunks/DlPtdyWE.js","_app/immutable/chunks/B_RZd05l.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"_app/immutable/entry/start.CBsYK7Ks.js",app:"_app/immutable/entry/app.DutVYojt.js",imports:["_app/immutable/entry/start.CBsYK7Ks.js","_app/immutable/chunks/DWXhudOU.js","_app/immutable/chunks/D2mf_MPo.js","_app/immutable/chunks/B_RZd05l.js","_app/immutable/entry/app.DutVYojt.js","_app/immutable/chunks/D2mf_MPo.js","_app/immutable/chunks/DLNOMP84.js","_app/immutable/chunks/BDyHfgtg.js","_app/immutable/chunks/DlPtdyWE.js","_app/immutable/chunks/B_RZd05l.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),

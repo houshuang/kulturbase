@@ -1,0 +1,116 @@
+# NORWEGIAN TRANSLATIONS OF FOREIGN WORKS
+# (Historically Significant Performances)
+Generated: 2025-12-21T13:56:01.147395
+Total: 8 performances
+============================================================
+
+=== Elskovsdrikken ===
+Original title: L'elisir d'amore
+Composer: Gaetano Donizetti
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1995, TV, 1h54m):
+  Series: Opera og operetter
+    - Elskovsdrikken [1h54m]
+      ID: FKUM03000195
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fkum03000195
+
+----------------------------------------
+
+=== Den kløktige Serpina ===
+Original title: La Serva Padrona
+Composer: Giovanni Battista Pergolesi
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Den kløktige Serpina [49m]
+      ID: FTEM00000271
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00000271
+
+----------------------------------------
+
+=== Teaterdirektøren ===
+Original title: Der Schauspieldirektor
+Composer: Wolfgang Amadeus Mozart
+Genre: opera
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1971, TV, 49m):
+  Series: Opera med humør
+    - Teaterdirektøren [49m]
+      ID: FTEM00001771
+      URL: https://tv.nrk.no/serie/opera-med-humoer/ftem00001771
+
+----------------------------------------
+
+=== Czardasfyrstinnen ===
+Composer: Emmerich Kálmán
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1986, TV, 2h34m):
+  Series: Opera og operetter
+    - Czardasfyrstinnen [2h34m]
+      ID: FMUS00002086
+      URL: https://tv.nrk.no/serie/opera-og-operetter/fmus00002086
+
+----------------------------------------
+
+=== Den skjønne Helene ===
+Original title: La belle Hélène
+Composer: Jacques Offenbach
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+Based on: Parody of Greek myth of Helen of Troy
+
+Performance (1962, TV, 57m):
+  Series: Lommeoperetten
+    - Den skjønne Helene [57m]
+      ID: FUHA62003962
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62003962
+
+----------------------------------------
+
+=== Dollarprinsessen ===
+Original title: Die Dollarprinzessin
+Composer: Leo Fall
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h24m):
+  Series: Lommeoperetten
+    - Dollarprinsessen [1h24m]
+      ID: FUHA62001162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001162
+
+----------------------------------------
+
+=== Selections from various operettas ===
+Composer: Various
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 53m):
+  Series: Lommeoperetten
+    - Vi tømmer operettelommen [53m]
+      ID: FUHA62000162
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62000162
+
+----------------------------------------
+
+=== Bajaderen ===
+Composer: null
+Genre: operetta
+Language: NORWEGIAN (translated) *** HISTORICALLY SIGNIFICANT ***
+
+Performance (1962, TV, 1h6m):
+  Series: Lommeoperetten
+    - Bajaderen [1h6m]
+      ID: FUHA62001662
+      URL: https://tv.nrk.no/serie/lommeoperetten/fuha62001662
+
+----------------------------------------
+

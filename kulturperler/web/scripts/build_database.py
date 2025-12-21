@@ -16,20 +16,33 @@ DATA_DIR = Path(__file__).parent.parent / 'data'
 OUTPUT_PATH = Path(__file__).parent.parent / 'static' / 'kulturperler.db'
 
 SCHEMA = """
--- Plays table
-CREATE TABLE plays (
+-- Works table (formerly plays - now supports plays, opera, concerts, drama series)
+CREATE TABLE works (
     id INTEGER PRIMARY KEY,
     title TEXT NOT NULL,
     original_title TEXT,
-    playwright_id INTEGER,
+    work_type TEXT,           -- teaterstykke, nrk_teaterstykke, dramaserie, opera, konsert
+    category TEXT,            -- teater, opera, konsert, dramaserie (for UI grouping)
+    playwright_id INTEGER,    -- for plays
+    composer_id INTEGER,      -- for opera/concerts
+    librettist_id INTEGER,    -- for opera (text author)
+    creator_id INTEGER,       -- generic creator fallback
     year_written INTEGER,
     synopsis TEXT,
+    based_on_work_id INTEGER, -- if this work is based on another work
     wikidata_id TEXT,
     sceneweb_id INTEGER,
     sceneweb_url TEXT,
     wikipedia_url TEXT,
-    FOREIGN KEY (playwright_id) REFERENCES persons(id)
+    FOREIGN KEY (playwright_id) REFERENCES persons(id),
+    FOREIGN KEY (composer_id) REFERENCES persons(id),
+    FOREIGN KEY (librettist_id) REFERENCES persons(id),
+    FOREIGN KEY (creator_id) REFERENCES persons(id),
+    FOREIGN KEY (based_on_work_id) REFERENCES works(id)
 );
+
+-- Keep plays as a view for backwards compatibility
+CREATE VIEW plays AS SELECT * FROM works WHERE category = 'teater' OR category IS NULL;
 
 -- Persons table
 CREATE TABLE persons (
@@ -46,6 +59,19 @@ CREATE TABLE persons (
     wikipedia_url TEXT
 );
 
+-- Institutions table (orchestras, theaters, opera houses, etc.)
+CREATE TABLE institutions (
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    short_name TEXT,
+    type TEXT,              -- orchestra, theater, opera_house, ensemble
+    location TEXT,
+    founded_year INTEGER,
+    bio TEXT,
+    wikipedia_url TEXT,
+    image_url TEXT
+);
+
 -- Episodes table
 CREATE TABLE episodes (
     prf_id TEXT PRIMARY KEY,
@@ -55,12 +81,12 @@ CREATE TABLE episodes (
     duration_seconds INTEGER,
     image_url TEXT,
     nrk_url TEXT,
-    play_id INTEGER,
+    work_id INTEGER,        -- renamed from play_id
     performance_id INTEGER,
     source TEXT DEFAULT 'nrk',
     medium TEXT DEFAULT 'tv',
     series_id TEXT,
-    FOREIGN KEY (play_id) REFERENCES plays(id),
+    FOREIGN KEY (work_id) REFERENCES works(id),
     FOREIGN KEY (performance_id) REFERENCES performances(id)
 );
 
@@ -88,7 +114,17 @@ CREATE TABLE performances (
     image_url TEXT,
     medium TEXT DEFAULT 'tv',
     series_id TEXT,
-    FOREIGN KEY (work_id) REFERENCES plays(id)
+    FOREIGN KEY (work_id) REFERENCES works(id)
+);
+
+-- Performance institutions (junction table for orchestras, ensembles, etc.)
+CREATE TABLE performance_institutions (
+    performance_id INTEGER NOT NULL,
+    institution_id INTEGER NOT NULL,
+    role TEXT,              -- orchestra, ensemble, co_producer, etc.
+    PRIMARY KEY (performance_id, institution_id, role),
+    FOREIGN KEY (performance_id) REFERENCES performances(id),
+    FOREIGN KEY (institution_id) REFERENCES institutions(id)
 );
 
 -- Performance persons (junction table)
@@ -136,12 +172,12 @@ CREATE TABLE episode_tags (
     FOREIGN KEY (tag_id) REFERENCES tags(id)
 );
 
--- Play tags (junction table)
-CREATE TABLE play_tags (
-    play_id INTEGER NOT NULL,
+-- Work tags (junction table)
+CREATE TABLE work_tags (
+    work_id INTEGER NOT NULL,
     tag_id INTEGER NOT NULL,
-    PRIMARY KEY (play_id, tag_id),
-    FOREIGN KEY (play_id) REFERENCES plays(id),
+    PRIMARY KEY (work_id, tag_id),
+    FOREIGN KEY (work_id) REFERENCES works(id),
     FOREIGN KEY (tag_id) REFERENCES tags(id)
 );
 
@@ -166,12 +202,12 @@ CREATE TABLE episode_resources (
     FOREIGN KEY (resource_id) REFERENCES external_resources(id)
 );
 
--- Play resources (junction table)
-CREATE TABLE play_resources (
-    play_id INTEGER NOT NULL,
+-- Work resources (junction table)
+CREATE TABLE work_resources (
+    work_id INTEGER NOT NULL,
     resource_id INTEGER NOT NULL,
-    PRIMARY KEY (play_id, resource_id),
-    FOREIGN KEY (play_id) REFERENCES plays(id),
+    PRIMARY KEY (work_id, resource_id),
+    FOREIGN KEY (work_id) REFERENCES works(id),
     FOREIGN KEY (resource_id) REFERENCES external_resources(id)
 );
 
@@ -184,15 +220,15 @@ CREATE TABLE person_resources (
     FOREIGN KEY (resource_id) REFERENCES external_resources(id)
 );
 
--- Play external links
-CREATE TABLE play_external_links (
+-- Work external links
+CREATE TABLE work_external_links (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    play_id INTEGER NOT NULL,
+    work_id INTEGER NOT NULL,
     url TEXT NOT NULL,
     title TEXT,
     type TEXT,
     access_note TEXT,
-    FOREIGN KEY (play_id) REFERENCES plays(id)
+    FOREIGN KEY (work_id) REFERENCES works(id)
 );
 
 -- Metadata table
@@ -202,9 +238,12 @@ CREATE TABLE metadata (
 );
 
 -- Indices
-CREATE INDEX idx_plays_playwright ON plays(playwright_id);
+CREATE INDEX idx_works_playwright ON works(playwright_id);
+CREATE INDEX idx_works_composer ON works(composer_id);
+CREATE INDEX idx_works_type ON works(work_type);
+CREATE INDEX idx_works_category ON works(category);
 CREATE INDEX idx_episodes_year ON episodes(year);
-CREATE INDEX idx_episodes_play ON episodes(play_id);
+CREATE INDEX idx_episodes_work ON episodes(work_id);
 CREATE INDEX idx_episodes_medium ON episodes(medium);
 CREATE INDEX idx_episode_persons_role ON episode_persons(role);
 CREATE INDEX idx_episode_persons_episode ON episode_persons(episode_id);
@@ -217,7 +256,10 @@ CREATE INDEX idx_performances_series ON performances(series_id);
 CREATE INDEX idx_performance_persons_perf ON performance_persons(performance_id);
 CREATE INDEX idx_performance_persons_person ON performance_persons(person_id);
 CREATE INDEX idx_performance_persons_role ON performance_persons(role);
-CREATE INDEX idx_play_external_links_play_id ON play_external_links(play_id);
+CREATE INDEX idx_performance_institutions_perf ON performance_institutions(performance_id);
+CREATE INDEX idx_performance_institutions_inst ON performance_institutions(institution_id);
+CREATE INDEX idx_work_external_links_work_id ON work_external_links(work_id);
+CREATE INDEX idx_institutions_type ON institutions(type);
 
 -- Full-text search table
 CREATE VIRTUAL TABLE episodes_fts USING fts5(
@@ -281,35 +323,59 @@ def build_database():
     stats['persons'] = len(persons)
     print(f"  Inserted {len(persons)} persons")
 
-    # Load and insert plays
-    print("Loading plays...")
-    plays = load_yaml_dir(DATA_DIR / 'plays')
-    play_external_links = []
-    for p in plays:
+    # Load and insert works (supports both old 'plays' dir and new 'works' dir)
+    print("Loading works...")
+    works_dir = DATA_DIR / 'works'
+    if not works_dir.exists():
+        works_dir = DATA_DIR / 'plays'  # Fallback to old directory name
+    works = load_yaml_dir(works_dir)
+    work_external_links = []
+    for w in works:
         conn.execute("""
-            INSERT INTO plays (id, title, original_title, playwright_id, year_written,
-                              synopsis, wikidata_id, sceneweb_id, sceneweb_url, wikipedia_url)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (p['id'], p['title'], p.get('original_title'), p.get('playwright_id'),
-              p.get('year_written'), p.get('synopsis'), p.get('wikidata_id'),
-              p.get('sceneweb_id'), p.get('sceneweb_url'), p.get('wikipedia_url')))
-        for link in p.get('external_links', []):
-            play_external_links.append((
-                p['id'], link['url'], link.get('title'), link.get('type'), link.get('access_note')
+            INSERT INTO works (id, title, original_title, work_type, category,
+                              playwright_id, composer_id, librettist_id, creator_id,
+                              year_written, synopsis, based_on_work_id,
+                              wikidata_id, sceneweb_id, sceneweb_url, wikipedia_url)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (w['id'], w['title'], w.get('original_title'), w.get('work_type'), w.get('category'),
+              w.get('playwright_id'), w.get('composer_id'), w.get('librettist_id'), w.get('creator_id'),
+              w.get('year_written'), w.get('synopsis'), w.get('based_on_work_id'),
+              w.get('wikidata_id'), w.get('sceneweb_id'), w.get('sceneweb_url'), w.get('wikipedia_url')))
+        for link in w.get('external_links', []):
+            work_external_links.append((
+                w['id'], link['url'], link.get('title'), link.get('type'), link.get('access_note')
             ))
-    stats['plays'] = len(plays)
-    print(f"  Inserted {len(plays)} plays")
+    stats['works'] = len(works)
+    print(f"  Inserted {len(works)} works")
 
-    # Insert play external links
-    if play_external_links:
-        print("  Inserting play external links...")
-        for link in play_external_links:
+    # Insert work external links
+    if work_external_links:
+        print("  Inserting work external links...")
+        for link in work_external_links:
             conn.execute("""
-                INSERT INTO play_external_links (play_id, url, title, type, access_note)
+                INSERT INTO work_external_links (work_id, url, title, type, access_note)
                 VALUES (?, ?, ?, ?, ?)
             """, link)
-        stats['play_external_links'] = len(play_external_links)
-        print(f"  Inserted {len(play_external_links)} play external links")
+        stats['work_external_links'] = len(work_external_links)
+        print(f"  Inserted {len(work_external_links)} work external links")
+
+    # Load and insert institutions (if directory exists)
+    institutions_dir = DATA_DIR / 'institutions'
+    if institutions_dir.exists():
+        print("Loading institutions...")
+        institutions = load_yaml_dir(institutions_dir)
+        for inst in institutions:
+            conn.execute("""
+                INSERT INTO institutions (id, name, short_name, type, location,
+                                         founded_year, bio, wikipedia_url, image_url)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """, (inst['id'], inst['name'], inst.get('short_name'), inst.get('type'),
+                  inst.get('location'), inst.get('founded_year'), inst.get('bio'),
+                  inst.get('wikipedia_url'), inst.get('image_url')))
+        stats['institutions'] = len(institutions)
+        print(f"  Inserted {len(institutions)} institutions")
+    else:
+        stats['institutions'] = 0
 
     # Load and insert performances
     print("Loading performances...")
@@ -346,13 +412,15 @@ def build_database():
     episode_credits = []
     episode_resources = []
     for e in episodes:
+        # Support both old 'play_id' and new 'work_id' field names
+        work_id = e.get('work_id') or e.get('play_id')
         conn.execute("""
             INSERT INTO episodes (prf_id, title, description, year, duration_seconds,
-                                 image_url, nrk_url, play_id, performance_id, source, medium, series_id)
+                                 image_url, nrk_url, work_id, performance_id, source, medium, series_id)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (e['prf_id'], e['title'], e.get('description'), e.get('year'),
               e.get('duration_seconds'), e.get('image_url'), e.get('nrk_url'),
-              e.get('play_id'), e.get('performance_id'), e.get('source'),
+              work_id, e.get('performance_id'), e.get('source'),
               e.get('medium'), e.get('series_id')))
         for credit in e.get('credits', []):
             episode_credits.append((
@@ -447,8 +515,9 @@ def verify_counts():
     conn = sqlite3.connect(OUTPUT_PATH)
 
     counts = {}
-    for table in ['plays', 'persons', 'episodes', 'performances', 'episode_persons',
-                  'performance_persons', 'nrk_about_programs', 'tags', 'external_resources',
+    for table in ['works', 'persons', 'institutions', 'episodes', 'performances',
+                  'episode_persons', 'performance_persons', 'performance_institutions',
+                  'nrk_about_programs', 'tags', 'external_resources', 'work_external_links',
                   'episode_resources', 'person_resources', 'metadata']:
         cursor = conn.execute(f"SELECT COUNT(*) FROM {table}")
         counts[table] = cursor.fetchone()[0]
@@ -458,6 +527,22 @@ def verify_counts():
     print("  Table counts:")
     for table, count in counts.items():
         print(f"    {table}: {count}")
+
+    # Also verify works by category
+    conn = sqlite3.connect(OUTPUT_PATH)
+    cursor = conn.execute("SELECT category, COUNT(*) FROM works GROUP BY category")
+    print("\n  Works by category:")
+    for row in cursor.fetchall():
+        cat = row[0] or '(none)'
+        print(f"    {cat}: {row[1]}")
+
+    cursor = conn.execute("SELECT work_type, COUNT(*) FROM works GROUP BY work_type")
+    print("\n  Works by type:")
+    for row in cursor.fetchall():
+        wtype = row[0] or '(none)'
+        print(f"    {wtype}: {row[1]}")
+
+    conn.close()
 
     return counts
 

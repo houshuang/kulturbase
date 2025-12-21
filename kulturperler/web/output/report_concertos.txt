@@ -1,0 +1,719 @@
+# NRK CONCERTO PERFORMANCES
+Generated: 2025-12-21T13:56:01.146983
+Total: 41 performances
+============================================================
+
+
+============================================================
+COMPOSER: Aaron Copland
+============================================================
+
+=== Clarinet Concerto ===
+Composer: Aaron Copland
+Genre: concerto
+Language: Instrumental
+
+Performance (2015, TV, 31m):
+  Series: KORK - hele landets orkester
+    - KORK [31m]
+      ID: MKKA71000215
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000215
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Amjad Ali Khan
+============================================================
+
+=== Samaagam, konsert for sarod og orkester ===
+Composer: Amjad Ali Khan
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 46m):
+  Series: KORK - hele landets orkester
+    - Samaagam - Sarod-mester Amjad Ali Khan [46m]
+      ID: MKKA71001118
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001118
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Beethoven
+============================================================
+
+=== Violin Concerto ===
+Composer: Beethoven
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 42m):
+  Series: KORK - hele landets orkester
+    - Vilde Frang spiller Beethovens fiolinkonsert [42m]
+      ID: MKKA11000121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000121
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Benjamin Britten
+============================================================
+
+=== Violin Concerto ===
+Composer: Benjamin Britten
+Genre: concerto
+Language: Instrumental
+
+Performance (2023, TV, 37m):
+  Series: KORK - hele landets orkester
+    - Miriam Helms Ålien spiller Brittens fiolinkonsert [37m]
+      ID: MKKA11000123
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000123
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Brahms
+============================================================
+
+=== Piano Concerto No. 1 ===
+Composer: Brahms
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 51m):
+  Series: KORK - hele landets orkester
+    - Brahms Klaverkonsert nr. 1 [51m]
+      ID: MKKA71000718
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000718
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Béla Bartók
+============================================================
+
+=== Violin Concerto ===
+Composer: Béla Bartók
+Genre: concerto
+Language: Instrumental
+
+Performance (2015, TV, 38m):
+  Series: KORK - hele landets orkester
+    - 28. mars 2015 [38m]
+      ID: MKMF61000015
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkmf61000015
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Carl Nielsen
+============================================================
+
+=== Violin Concerto ===
+Original title: Fiolinkonsert
+Composer: Carl Nielsen
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 51m):
+  Series: KORK - hele landets orkester
+    - Carl Nielsens fiolinkonsert [51m]
+      ID: MKKA11000620
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000620
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Dmitri Shostakovich and Anatoly Liadov
+============================================================
+
+=== Pianokonsert nr 2 and Den forheksede sjø ===
+Composer: Dmitri Shostakovich and Anatoly Liadov
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 29m):
+  Series: KORK - hele landets orkester
+    - Marianna Shirinyan og Petr Popelka. Sjostakovitsj og Ljadov [29m]
+      ID: MKKA11000321
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000321
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Dvorak
+============================================================
+
+=== Cello Concerto ===
+Composer: Dvorak
+Genre: concerto
+Language: Instrumental
+
+Performance (2017, TV, 43m):
+  Series: KORK - hele landets orkester
+    - Dvoraks Cellokonsert [43m]
+      ID: MKKA71000717
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000717
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Edvard Grieg
+============================================================
+
+=== Piano Concerto in A minor ===
+Original title: Klaverkonsert i a-moll
+Composer: Edvard Grieg
+Genre: concerto
+Language: Instrumental
+
+Performance (1987, TV, 39m):
+  Series: Oslo Filharmoniske Orkester
+    - Edvard Griegs klaver-konsert [39m]
+      ID: FMUS30005987
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus30005987
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Elgar
+============================================================
+
+=== Cello Concerto ===
+Composer: Elgar
+Genre: concerto
+Language: Instrumental
+
+Performance (2025, TV, 29m):
+  Series: Klassiske opplevelser
+    - Elgars berømte cellokonsert [29m]
+      ID: MKMU54020425
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54020425
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Frédéric Chopin and Carl Nielsen
+============================================================
+
+=== Piano Concerto No. 1 in E minor, Op. 11, 2nd movement, Romanze (Larghetto) and Symphony No. 1 ===
+Composer: Frédéric Chopin and Carl Nielsen
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 48m):
+  Series: KORK - hele landets orkester
+    - Chopin og Nielsen [48m]
+      ID: MKKA71000416
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000416
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Haydn
+============================================================
+
+=== Cello Concerto ===
+Composer: Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 44m):
+  Series: KORK - hele landets orkester
+    - Amalie Stalheim spiller Haydns Cellokonsert [44m]
+      ID: MKKA11003121
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003121
+
+----------------------------------------
+
+=== Cello Concerto in D major ===
+Composer: Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (2025, TV, 27m):
+  Series: Klassiske opplevelser
+    - Amalie Stalheim og Kork med nye øyne på Haydn [27m]
+      ID: MKMU54050325
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050325
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Henrik Hellstenius
+============================================================
+
+=== Concerto for Percussion, Piano and Orchestra ===
+Composer: Henrik Hellstenius
+Genre: concerto
+Language: Instrumental
+Based on: Dante
+
+Performance (2025, TV, 26m):
+  Series: Klassiske opplevelser
+    - Kork på Ultima – «And fear of loss will not oppress your heart» [26m]
+      ID: MKMU54050725
+      URL: https://tv.nrk.no/serie/klassiske-opplevelser/mkmu54050725
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Herman Vogt
+============================================================
+
+=== Violin Concerto ===
+Composer: Herman Vogt
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 38m):
+  Series: KORK - hele landets orkester
+    - Ny, norsk fiolinkonsert [38m]
+      ID: MKKA71001516
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001516
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Jon Øivind Ness
+============================================================
+
+=== Rawgabitting, ny norsk klaverkonsert ===
+Composer: Jon Øivind Ness
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 33m):
+  Series: KORK - hele landets orkester
+    - Rawgabitting, ny norsk klaverkonsert [33m]
+      ID: MKKA11000722
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000722
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Jon Øvind Ness
+============================================================
+
+=== Ætscæke, fløytekonsert ===
+Composer: Jon Øvind Ness
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 49m):
+  Series: KORK - hele landets orkester
+    - Kammerjazz og ny norsk fløytekonsert [49m]
+      ID: MKKA71001018
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71001018
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Joseph Haydn
+============================================================
+
+=== Concerto for cello and orchestra No. 1 in C major ===
+Original title: Konsert for cello og orkester nr. 1, C-dur, Hob.VIIb:1
+Composer: Joseph Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (1986, TV, 27m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert for cello og orkester [27m]
+      ID: FMUS10001986
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10001986
+
+----------------------------------------
+
+=== Concerto for cello and orchestra in C major ===
+Composer: Joseph Haydn
+Genre: concerto
+Language: Instrumental
+
+Performance (1987, TV, 26m):
+  Series: Bergen Filharmoniske Orkester
+    - Harmonikonsert [26m]
+      ID: FHLD00005787
+      URL: https://tv.nrk.no/serie/bergen-filharmoniske-orkester/fhld00005787
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Jukka Linkola
+============================================================
+
+=== Clarinet Concerto ===
+Composer: Jukka Linkola
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 40m):
+  Series: KORK - hele landets orkester
+    - Ny, finsk klarinettkonsert [40m]
+      ID: MKKA11000822
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000822
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: L. Subramaniam
+============================================================
+
+=== Concerto for two violins and orchestra ===
+Composer: L. Subramaniam
+Genre: concerto
+Language: Instrumental
+
+Performance (1986, TV, 41m):
+  Series: Oslo Filharmoniske Orkester
+    - To verdener [41m]
+      ID: FMUS00001786
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00001786
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Ludwig van Beethoven
+============================================================
+
+=== Piano Concerto No. 5 ===
+Composer: Ludwig van Beethoven
+Genre: concerto
+Language: Instrumental
+
+Performance (1981, TV, 42m):
+  Series: Oslo Filharmoniske Orkester
+    - Robert Riefling er solist [42m]
+      ID: FMUS20007281
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20007281
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Marius Neset
+============================================================
+
+=== Fløytekonsert ===
+Composer: Marius Neset
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 28m):
+  Series: KORK - hele landets orkester
+    - Fløytekonsert av Marius Neset [28m]
+      ID: MKKA11002422
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002422
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mendelssohn-Bartholdy
+============================================================
+
+=== Concerto for Violin and Orchestra in E minor ===
+Original title: Konzert für Violine und Orchester e-Moll
+Composer: Mendelssohn-Bartholdy
+Genre: concerto
+Language: Instrumental
+
+Performance (1979, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert for fiolin og orkester e-moll av Mendelssohn-Bartholdy [33m]
+      ID: FMUS00005579
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus00005579
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Mozart
+============================================================
+
+=== Unknown Work ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1991, TV, 1h24m):
+  Series: Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester
+    - [Part 1] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 1:2 [47m]
+      ID: FKUM22000591
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000591
+    - [Part 2] Mozart-konsert med Arve Tellefsen og Oslo Filharmoniske Orkester 2:2 [37m]
+      ID: FKUM22000691
+      URL: https://tv.nrk.no/serie/mozart-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester/fkum22000691
+
+----------------------------------------
+
+=== Klaverkonsert nr. 17 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Mozart og spanske rytmer [47m]
+      ID: MKKA11000220
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000220
+
+----------------------------------------
+
+=== Piano Concerto No. 23 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 36m):
+  Series: KORK - hele landets orkester
+    - Mozart og Shirinyan [36m]
+      ID: MKKA71000318
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000318
+
+----------------------------------------
+
+=== Piano Concerto No. 9 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 32m):
+  Series: KORK - hele landets orkester
+    - Mozarts Pianokonsert nr. 9 [32m]
+      ID: MKKA11002620
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002620
+
+----------------------------------------
+
+=== Pianokonsert nr. 12 ===
+Composer: Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (2016, TV, 35m):
+  Series: KORK - hele landets orkester
+    - Ingrid Andsnes spiller Mozart [35m]
+      ID: MKKA71000216
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000216
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Prokofiev
+============================================================
+
+=== Piano Concerto No. 3 ===
+Composer: Prokofiev
+Genre: concerto
+Language: Instrumental
+
+Performance (2021, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Marianna Shirinyan og Petr Popelka. Prokofjevs 3. pianokonsert [31m]
+      ID: MKKA11000421
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11000421
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Rachmaninoff
+============================================================
+
+=== Piano Concerto No. 3 ===
+Original title: Klaverkonsert nr. 3
+Composer: Rachmaninoff
+Genre: concerto
+Language: Instrumental
+
+Performance (2022, TV, 44m):
+  Series: KORK - hele landets orkester
+    - Rakhmaninovs Klaverkonsert nr. 3 [44m]
+      ID: MKKA11002222
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11002222
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Robert Schumann
+============================================================
+
+=== Cello Concerto ===
+Composer: Robert Schumann
+Genre: concerto
+Language: Instrumental
+
+Performance (2017, TV, 31m):
+  Series: KORK - hele landets orkester
+    - Schumanns cellokonsert [31m]
+      ID: MKKA71000417
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000417
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Samuel Barber
+============================================================
+
+=== Violin Concerto ===
+Composer: Samuel Barber
+Genre: concerto
+Language: Instrumental
+
+Performance (2018, TV, 38m):
+  Series: KORK - hele landets orkester
+    - Barbers fiolinkonsert med David Coucheron [38m]
+      ID: MKKA71000818
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka71000818
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Sergei Rachmaninoff
+============================================================
+
+=== Piano Concerto No. 2 in C minor, opus 18 ===
+Composer: Sergei Rachmaninoff
+Genre: concerto
+Language: Instrumental
+
+Performance (1989, TV, 38m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [38m]
+      ID: FMUS10000889
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10000889
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Sergej Prokofjev
+============================================================
+
+=== Sinfonia concertante ===
+Composer: Sergej Prokofjev
+Genre: concerto
+Language: Instrumental
+
+Performance (2019, TV, 47m):
+  Series: KORK - hele landets orkester
+    - Eksamenskonsert for Norges Musikkhøgskole - Prokfjev. [47m]
+      ID: MKKA11001319
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11001319
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Tchaikovsky
+============================================================
+
+=== Violin Concerto ===
+Composer: Tchaikovsky
+Genre: concerto
+Language: Instrumental
+
+Performance (2020, TV, 37m):
+  Series: KORK - hele landets orkester
+    - Tsjajkovskijs fiolinkonsert [37m]
+      ID: MKKA11003020
+      URL: https://tv.nrk.no/serie/kork-hele-landets-orkester/mkka11003020
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Thomas Tellefsen
+============================================================
+
+=== Klaverkonsert ===
+Composer: Thomas Tellefsen
+Genre: concerto
+Language: Instrumental
+
+Performance (1983, TV, 31m):
+  Series: Norske symfonier
+    - Norsk symfonisk musikk [31m]
+      ID: FMUS00003083
+      URL: https://tv.nrk.no/serie/norske-symfonier/fmus00003083
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Unknown
+============================================================
+
+=== Unknown Work ===
+Composer: Unknown Composer
+Genre: concerto
+Language: Instrumental
+
+Performance (1988, TV, 39m):
+  Series: Klassisk i kveld
+    - 25. oktober 1988 [39m]
+      ID: FMUS10000788
+      URL: https://tv.nrk.no/serie/klassisk-i-kveld/fmus10000788
+
+----------------------------------------
+
+
+============================================================
+COMPOSER: Wolfgang Amadeus Mozart
+============================================================
+
+=== Sinfonia Concertante K.364 ===
+Original title: Sinfonia Concertante K.364, Ess-dur
+Composer: Wolfgang Amadeus Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1989, TV, 33m):
+  Series: Oslo Filharmoniske Orkester
+    - Konsert i kveld [33m]
+      ID: FMUS20006089
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus20006089
+
+----------------------------------------
+
+=== Violin Concerto No. 5 in A major ===
+Original title: Konsert for fiolin og orkester nr 5, K.219, A-dur
+Composer: Wolfgang Amadeus Mozart
+Genre: concerto
+Language: Instrumental
+
+Performance (1985, TV, 37m):
+  Series: Oslo Filharmoniske Orkester
+    - Fiolinkonsert [37m]
+      ID: FMUS10004285
+      URL: https://tv.nrk.no/serie/oslo-filharmoniske-orkester/fmus10004285
+
+----------------------------------------
+

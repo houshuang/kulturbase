@@ -1,0 +1,63 @@
+============================================================
+Classifying Plays with Gemini Flash
+============================================================
+Found 863 plays to classify
+Already cached: 150
+Auto-classifiable: 0 with Sceneweb, 7 high-episode series
+
+Classifying plays...
+  Progress: 0/863
+  Progress: 50/863
+  Progress: 100/863
+  Progress: 150/863
+  Progress: 200/863
+  Progress: 250/863
+  Progress: 300/863
+  Progress: 350/863
+  Progress: 400/863
+  Progress: 450/863
+  Progress: 500/863
+  Progress: 550/863
+  Progress: 600/863
+  Progress: 650/863
+  Progress: 700/863
+  Progress: 750/863
+  Progress: 800/863
+  Progress: 850/863
+
+============================================================
+CLASSIFICATION COMPLETE
+============================================================
+Teaterstykke (real plays): 276
+NRK Teaterstykke (written for NRK): 550
+Dramaserie (series): 37
+Errors: 0
+
+Results saved to: /Users/stian/src/nrk/kulturperler/web/output/play_classifications.json
+
+--- Sample Dramaserier (high episode count) ---
+  Grøssere fra Nattradioen (56 episodes)
+  Dickie Dick Dickens (53 episodes)
+  God aften, mitt navn er Cox (42 episodes)
+  Kometkameratene Radio (34 episodes)
+  Stompa (26 episodes)
+  Mesterdetektiven Knut Gribb rydder opp (24 episodes)
+  Nybyggerne (22 episodes)
+  Mio Min Mio (14 episodes)
+  Sagaen om Jonas Fjeld (14 episodes)
+  Raskolnikov (12 episodes)
+
+--- Sample NRK Teaterstykke ---
+  Amalie Av Ternevåg by Tor Edvin Dahl
+  Evig Natt by Alistair MacLean
+  Fanget by (unknown)
+  Hvem har retten til Faraos trone? by David Spenser
+  To menn får i oppdrag å drepe en kvinne by Mads Baastrup
+  Dramatisk flukt gjennom et krigsherjet Europa by Axel Kielland
+  Ble finansmannen Faulkner drept av sin sekretær? by Ayn Rand
+  Nydelig drama om å "komme ut av skapet" by Inger Edelfeldt
+  Folket i dei kvite båtane by Johannes Heggland
+  En superhelt med mer flaks enn vett by Bernt Danielsson
+
+To apply classifications to YAML files, run:
+  python3 scripts/classify_plays.py --apply

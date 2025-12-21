@@ -5,3 +5,7 @@ playwright_id: 879
 synopsis: Rosmersholm er et skuespill av Henrik Ibsen fra 1886. Det utspiller seg
   på den gamle slektsgården Rosmersholm hvor Johannes Rosmer og Rebekka West kjemper
   med skyld, idealer og kjærlighet i skyggen av den avdøde fru Rosmer.
+external_links:
+- url: https://www.bokselskap.no/boker/rosmersholm
+  title: Bokselskap.no
+  type: bokselskap

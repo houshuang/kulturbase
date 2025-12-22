@@ -1,4 +1,4 @@
-export type Medium = 'tv' | 'radio';
+export type Medium = 'tv' | 'radio' | 'stream';
 
 export type WorkType = 'teaterstykke' | 'nrk_teaterstykke' | 'dramaserie' | 'opera' | 'konsert';
 export type WorkCategory = 'teater' | 'opera' | 'konsert' | 'dramaserie';
@@ -11,6 +11,7 @@ export interface Episode {
 	duration_seconds: number | null;
 	image_url: string | null;
 	nrk_url: string | null;
+	youtube_url: string | null;
 	work_id: number | null;
 	play_id?: number | null; // Deprecated alias for work_id
 	source: string;

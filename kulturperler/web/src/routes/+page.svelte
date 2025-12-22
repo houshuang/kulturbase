@@ -4,10 +4,21 @@
 	import { getRandomClassicalPlays, getPlaysByPlaywright, getRecentConcerts, getClassicalPerformanceCount, getBergenPhilConcertCount, getDatabase, type RandomPerformance } from '$lib/db';
 	import type { PerformanceWithDetails, ExternalResource } from '$lib/types';
 
-	interface TopCreator {
+	interface TopPerson {
 		id: number;
 		name: string;
+		birth_year: number | null;
+		death_year: number | null;
+		image_url: string | null;
 		performance_count: number;
+	}
+
+	interface TopConcertWork {
+		id: number;
+		title: string;
+		composer_name: string | null;
+		performance_count: number;
+		image_url: string | null;
 	}
 
 	interface SearchResult {
@@ -21,8 +32,8 @@
 
 	let featuredPerformances: RandomPerformance[] = [];
 	let ibsenPlays: PerformanceWithDetails[] = [];
-	let topCreators: TopCreator[] = [];
-	let concerts: ExternalResource[] = [];
+	let topPersons: TopPerson[] = [];
+	let topConcertWorks: TopConcertWork[] = [];
 
 	let stats = {
 		theater: 0,
@@ -47,9 +58,8 @@
 			return;
 		}
 
-		searchTimeout = setTimeout(() => {
-			performSearch();
-		}, 120);
+		// Immediate search, no delay
+		performSearch();
 	}
 
 	function performSearch() {
@@ -153,11 +163,14 @@
 			// Get Ibsen plays
 			ibsenPlays = getPlaysByPlaywright(IBSEN_ID, 8);
 
-			// Get top creators
-			const creatorsStmt = db.prepare(`
+			// Get top persons with images
+			const personsStmt = db.prepare(`
 				SELECT
 					p.id,
 					p.name,
+					p.birth_year,
+					p.death_year,
+					p.image_url,
 					COUNT(DISTINCT pf.id) as performance_count
 				FROM persons p
 				JOIN works w ON w.playwright_id = p.id OR w.composer_id = p.id
@@ -166,14 +179,36 @@
 				ORDER BY performance_count DESC
 				LIMIT 6
 			`);
-			topCreators = [];
-			while (creatorsStmt.step()) {
-				topCreators.push(creatorsStmt.getAsObject() as TopCreator);
+			topPersons = [];
+			while (personsStmt.step()) {
+				topPersons.push(personsStmt.getAsObject() as TopPerson);
 			}
-			creatorsStmt.free();
+			personsStmt.free();
 
-			// Get concerts
-			concerts = getRecentConcerts(6);
+			// Get concert works with multiple recordings
+			const concertWorksStmt = db.prepare(`
+				SELECT
+					w.id,
+					w.title,
+					c.name as composer_name,
+					COUNT(pf.id) as performance_count,
+					(SELECT e.image_url FROM episodes e
+					 JOIN performances pf2 ON e.performance_id = pf2.id
+					 WHERE pf2.work_id = w.id LIMIT 1) as image_url
+				FROM works w
+				LEFT JOIN persons c ON w.composer_id = c.id
+				JOIN performances pf ON pf.work_id = w.id
+				WHERE w.work_type IN ('symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'chamber', 'choral')
+				GROUP BY w.id
+				HAVING performance_count > 1
+				ORDER BY performance_count DESC
+				LIMIT 6
+			`);
+			topConcertWorks = [];
+			while (concertWorksStmt.step()) {
+				topConcertWorks.push(concertWorksStmt.getAsObject() as TopConcertWork);
+			}
+			concertWorksStmt.free();
 
 			// Get stats
 			stats.theater = getClassicalPerformanceCount();
@@ -295,17 +330,30 @@
 			</section>
 		{/if}
 
-		<!-- Creators -->
-		{#if topCreators.length > 0}
-			<section class="creators">
+		<!-- Persons -->
+		{#if topPersons.length > 0}
+			<section class="persons-section">
 				<div class="section-header">
-					<h2>Skapere</h2>
+					<h2>Personer</h2>
 					<a href="/persons" class="link">Alle →</a>
 				</div>
-				<div class="creator-list">
-					{#each topCreators as creator}
-						<a href="/person/{creator.id}" class="creator">
-							{creator.name}
+				<div class="persons-grid">
+					{#each topPersons as person}
+						<a href="/person/{person.id}" class="person-card">
+							<div class="person-image">
+								{#if person.image_url}
+									<img src={person.image_url} alt="" />
+								{:else}
+									<div class="person-placeholder">👤</div>
+								{/if}
+							</div>
+							<div class="person-info">
+								<span class="person-name">{person.name}</span>
+								{#if person.birth_year}
+									<span class="person-years">{person.birth_year}–{person.death_year || ''}</span>
+								{/if}
+								<span class="person-count">{person.performance_count} opptak</span>
+							</div>
 						</a>
 					{/each}
 				</div>
@@ -335,18 +383,26 @@
 			</section>
 		{/if}
 
-		<!-- Concerts -->
-		{#if concerts.length > 0}
+		<!-- Classical Works -->
+		{#if topConcertWorks.length > 0}
 			<section class="row-section">
 				<div class="section-header">
-					<h2>Konserter</h2>
+					<h2>Klassisk musikk</h2>
 					<a href="/konserter" class="link">Alle →</a>
 				</div>
 				<div class="row">
-					{#each concerts as concert}
-						<a href={concert.url} target="_blank" rel="noopener" class="row-card concert">
-							<div class="concert-icon">♪</div>
-							<span class="row-title">{concert.title}</span>
+					{#each topConcertWorks as work}
+						<a href="/verk/{work.id}" class="row-card">
+							{#if work.image_url}
+								<img src={work.image_url} alt="" />
+							{:else}
+								<div class="row-placeholder music">♪</div>
+							{/if}
+							<span class="row-title">{work.title}</span>
+							{#if work.composer_name}
+								<span class="row-composer">{work.composer_name}</span>
+							{/if}
+							<span class="row-count">{work.performance_count} opptak</span>
 						</a>
 					{/each}
 				</div>
@@ -610,26 +666,70 @@
 		color: #999;
 	}
 
-	/* Creators */
-	.creator-list {
+	/* Persons */
+	.persons-grid {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+		gap: 1rem;
+	}
+
+	.person-card {
 		display: flex;
-		flex-wrap: wrap;
-		gap: 0.75rem;
-	}
-
-	.creator {
-		padding: 0.5rem 1rem;
-		background: white;
-		border: 1px solid #e0e0e0;
-		border-radius: 4px;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
 		text-decoration: none;
-		color: #333;
-		font-size: 0.9rem;
+		color: inherit;
+		padding: 1rem;
+		border-radius: 8px;
+		transition: background 0.15s;
 	}
 
-	.creator:hover {
-		border-color: #e94560;
+	.person-card:hover {
+		background: #f5f5f5;
+	}
+
+	.person-image {
+		width: 80px;
+		height: 80px;
+		border-radius: 50%;
+		overflow: hidden;
+		margin-bottom: 0.75rem;
+		background: #f0f0f0;
+	}
+
+	.person-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.person-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 2rem;
+		background: linear-gradient(135deg, #667eea, #764ba2);
+		color: rgba(255,255,255,0.6);
+	}
+
+	.person-name {
+		font-weight: 500;
+		font-size: 0.9rem;
+		margin-bottom: 0.15rem;
+	}
+
+	.person-years {
+		font-size: 0.8rem;
+		color: #888;
+	}
+
+	.person-count {
+		font-size: 0.75rem;
 		color: #e94560;
+		margin-top: 0.25rem;
 	}
 
 	/* Horizontal rows */
@@ -671,19 +771,13 @@
 		margin-bottom: 0.5rem;
 	}
 
-	.row-card.concert {
-		background: #f8f9fa;
-		border-radius: 6px;
-		padding: 1rem;
+	.row-placeholder.music {
+		background: linear-gradient(135deg, #667eea, #764ba2);
 		display: flex;
-		flex-direction: column;
-		height: 130px;
-	}
-
-	.concert-icon {
-		font-size: 1.5rem;
-		color: #667eea;
-		margin-bottom: 0.5rem;
+		align-items: center;
+		justify-content: center;
+		font-size: 2rem;
+		color: rgba(255,255,255,0.5);
 	}
 
 	.row-title {
@@ -701,10 +795,25 @@
 		color: #999;
 	}
 
+	.row-composer {
+		font-size: 0.75rem;
+		color: #666;
+	}
+
+	.row-count {
+		font-size: 0.7rem;
+		color: #e94560;
+		margin-top: 0.25rem;
+	}
+
 	/* Responsive */
 	@media (max-width: 1000px) {
 		.grid {
 			grid-template-columns: repeat(3, 1fr);
+		}
+
+		.persons-grid {
+			grid-template-columns: repeat(4, 1fr);
 		}
 	}
 
@@ -714,9 +823,14 @@
 			gap: 1rem;
 		}
 
-		.stats-bar {
+		.persons-grid {
+			grid-template-columns: repeat(3, 1fr);
+		}
+
+		.quick-stats {
 			flex-wrap: wrap;
-			gap: 1rem;
+			justify-content: center;
+			gap: 0.75rem 1.25rem;
 		}
 	}
 
@@ -725,8 +839,23 @@
 			grid-template-columns: 1fr;
 		}
 
+		.persons-grid {
+			grid-template-columns: repeat(2, 1fr);
+			gap: 0.5rem;
+		}
+
+		.person-image {
+			width: 60px;
+			height: 60px;
+		}
+
 		.row-card {
 			flex: 0 0 140px;
+		}
+
+		.search-container input {
+			padding: 0.75rem 1rem;
+			font-size: 0.95rem;
 		}
 	}
 </style>

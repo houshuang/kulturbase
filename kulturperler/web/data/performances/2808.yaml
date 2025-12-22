@@ -3,9 +3,7 @@ work_id: 2220
 source: youtube
 medium: stream
 title: 'Ørets teater: Om naturen | Henrik Hellstenius | Ultima-festivalen 2015'
-credits:
-- person_id: 3924
-  role: composer
+credits: []
 institutions:
 - institution_id: 8
   role: orchestra

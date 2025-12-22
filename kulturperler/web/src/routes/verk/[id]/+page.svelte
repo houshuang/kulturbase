@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getPlaysByPlaywright, getSourceWork, getAdaptations, type WorkWithDetails } from '$lib/db';
+	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
 	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person } from '$lib/types';
 	import { onMount } from 'svelte';
 
@@ -13,19 +13,25 @@
 	let composer: Person | null = null;
 	let tvPerformances: PerformanceWithMedia[] = [];
 	let radioPerformances: PerformanceWithMedia[] = [];
+	let streamPerformances: PerformanceWithMedia[] = [];
 	let externalLinks: WorkExternalLink[] = [];
-	let moreByAuthor: PerformanceWithDetails[] = [];
+	let moreByAuthor: WorkWithCounts[] = [];
 	let sourceWork: WorkWithDetails | null = null;
 	let adaptations: WorkWithDetails[] = [];
 	let loading = true;
 	let error: string | null = null;
 
+	// Concert work types
+	const CONCERT_TYPES = ['symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'chamber', 'choral', 'konsert'];
+
 	$: workId = parseInt($page.params.id || '0');
-	$: allPerformances = [...tvPerformances, ...radioPerformances];
+	$: allPerformances = [...tvPerformances, ...radioPerformances, ...streamPerformances];
 	$: totalPerformances = allPerformances.length;
 	$: isSinglePerformance = totalPerformances === 1;
 	$: singlePerf = isSinglePerformance ? allPerformances[0] : null;
 	$: isSingleEpisode = singlePerf && singlePerf.media.length === 1;
+	$: isConcert = work?.work_type ? CONCERT_TYPES.includes(work.work_type) : false;
+	$: leaderLabel = isConcert ? 'Dirigent' : 'Regi';
 
 	onMount(() => {
 		loadWork();
@@ -39,8 +45,7 @@
 				if (work.playwright_id) {
 					playwright = getPerson(work.playwright_id);
 					// Get more works by this playwright (excluding current)
-					const authorWorks = getPlaysByPlaywright(work.playwright_id, 10);
-					moreByAuthor = authorWorks.filter(w => w.work_id !== workId);
+					moreByAuthor = getWorksByPlaywright(work.playwright_id, workId, 10);
 				}
 
 				// Get composer details
@@ -58,6 +63,13 @@
 				// Get Radio performances
 				const radioPerfs = getWorkPerformancesByMedium(workId, 'radio');
 				radioPerformances = radioPerfs.map(perf => ({
+					...perf,
+					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
+				}));
+
+				// Get Stream performances (YouTube, etc.)
+				const streamPerfs = getWorkPerformancesByMedium(workId, 'stream');
+				streamPerformances = streamPerfs.map(perf => ({
 					...perf,
 					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
 				}));
@@ -114,9 +126,26 @@
 
 	function getMediumLabel(source: string | undefined, category: string | null, medium: string): string {
 		if (source === 'bergenphilive') return 'Bergen Phil Live';
+		if (source === 'youtube') return 'YouTube';
+		if (medium === 'stream') return 'Videoopptak';
 		if (category === 'dramaserie') return 'Dramaserie';
 		if (category === 'teater') return medium === 'tv' ? 'Fjernsynsteater' : 'Radioteater';
 		return medium === 'tv' ? 'TV-opptak' : 'Lydopptak';
+	}
+
+	function extractYouTubeId(url: string | null | undefined): string | null {
+		if (!url) return null;
+		const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/);
+		return match ? match[1] : null;
+	}
+
+	function getYouTubeIdFromPerformance(perf: PerformanceWithMedia): string | null {
+		if (perf.media.length > 0) {
+			const episode = perf.media[0];
+			const id = extractYouTubeId(episode.youtube_url);
+			if (id) return id;
+		}
+		return null;
 	}
 
 	function getAdaptationTypeLabel(type: string | null): string {
@@ -156,6 +185,11 @@
 							<a href="/person/{playwright.id}" class="author-link">{playwright.name}</a>
 							{#if playwright.birth_year || playwright.death_year}
 								<span class="author-dates">({playwright.birth_year || '?'}–{playwright.death_year || ''})</span>
+							{/if}
+						{:else if composer}
+							<a href="/person/{composer.id}" class="author-link">{composer.name}</a>
+							{#if composer.birth_year || composer.death_year}
+								<span class="author-dates">({composer.birth_year || '?'}–{composer.death_year || ''})</span>
 							{/if}
 						{/if}
 						{#if work.year_written}
@@ -214,8 +248,33 @@
 
 		<!-- Smart layout: Single performance with single episode = inline player -->
 		{#if isSinglePerformance && singlePerf}
+			{@const singleYoutubeId = getYouTubeIdFromPerformance(singlePerf)}
 			<section class="single-performance-hero">
-				{#if isSingleEpisode}
+				{#if singleYoutubeId}
+					<!-- YouTube embed for stream performances -->
+					<div class="hero-youtube">
+						<div class="youtube-embed hero-embed">
+							<iframe
+								src="https://www.youtube.com/embed/{singleYoutubeId}"
+								title={singlePerf.title || work?.title || 'Video'}
+								frameborder="0"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+								allowfullscreen
+							></iframe>
+						</div>
+						<div class="hero-meta">
+							<span class="medium-label youtube">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
+							{#if singlePerf.year}
+								<span class="year-badge">{singlePerf.year}</span>
+							{/if}
+							{#if singlePerf.director_name}
+								<span class="director">{leaderLabel}: {singlePerf.director_name}</span>
+							{:else if singlePerf.description}
+								<span class="director">{singlePerf.description.split('.')[0]}</span>
+							{/if}
+						</div>
+					</div>
+				{:else if isSingleEpisode}
 					<!-- Direct play for single episode -->
 					<a
 						href={singlePerf.media[0].nrk_url || `https://tv.nrk.no/se?v=${singlePerf.media[0].prf_id}`}
@@ -227,7 +286,7 @@
 							{#if singlePerf.image_url}
 								<img src={getImageUrl(singlePerf.image_url, 800)} alt={work?.title || ''} />
 							{:else}
-								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : 'Radio'}</div>
+								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : singlePerf.medium === 'stream' ? 'Video' : 'Radio'}</div>
 							{/if}
 							<div class="play-overlay">
 								<span class="play-button">▶</span>
@@ -242,7 +301,9 @@
 								<span class="year-badge">{singlePerf.year}</span>
 							{/if}
 							{#if singlePerf.director_name}
-								<span class="director">Regi: {singlePerf.director_name}</span>
+								<span class="director">{leaderLabel}: {singlePerf.director_name}</span>
+							{:else if singlePerf.description}
+								<span class="director">{singlePerf.description.split('.')[0]}</span>
 							{/if}
 						</div>
 					</a>
@@ -253,7 +314,7 @@
 							{#if singlePerf.image_url}
 								<img src={getImageUrl(singlePerf.image_url, 600)} alt={work?.title || ''} />
 							{:else}
-								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : 'Radio'}</div>
+								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : singlePerf.medium === 'stream' ? 'Video' : 'Radio'}</div>
 							{/if}
 						</div>
 						<div class="hero-info">
@@ -267,7 +328,9 @@
 								{/if}
 							</div>
 							{#if singlePerf.director_name}
-								<p class="director">Regi: {singlePerf.director_name}</p>
+								<p class="director">{leaderLabel}: {singlePerf.director_name}</p>
+							{:else if singlePerf.description}
+								<p class="director">{singlePerf.description.split('.')[0]}</p>
 							{/if}
 							<p class="episodes-label">{singlePerf.media.length} deler</p>
 							<div class="episodes-list">
@@ -291,75 +354,46 @@
 				{/if}
 			</section>
 		{:else if totalPerformances > 1}
-			<!-- Multiple performances: Comparison table -->
-			<section class="performances-comparison">
-				<h2>Opptak ({totalPerformances})</h2>
-				<div class="comparison-table-wrapper">
-					<table class="comparison-table">
-						<thead>
-							<tr>
-								<th>År</th>
-								<th>Medium</th>
-								<th>Regi</th>
-								<th>Varighet</th>
-								<th></th>
-							</tr>
-						</thead>
-						<tbody>
-							{#each allPerformances.sort((a, b) => (b.year || 0) - (a.year || 0)) as perf}
-								<tr>
-									<td class="year-cell">
-										<span class="table-year">{perf.year || '–'}</span>
-									</td>
-									<td>
-										<span class="table-medium {perf.medium}">{perf.medium === 'tv' ? 'TV' : 'Radio'}</span>
-									</td>
-									<td class="director-cell">{perf.director_name || '–'}</td>
-									<td>{perf.total_duration ? formatDuration(perf.total_duration) : '–'}</td>
-									<td class="action-cell">
-										<a href="/opptak/{perf.id}" class="table-link">Se opptak →</a>
-									</td>
-								</tr>
-							{/each}
-						</tbody>
-					</table>
-				</div>
-			</section>
-
-			<!-- Also show cards for visual browsing -->
+			<!-- Multiple performances: Show cards by medium -->
 			{#if tvPerformances.length > 0}
 			<section class="performances tv-section">
 				<h2>
 					<span class="medium-icon tv">TV</span>
-					Fjernsynsteater
+					{isConcert ? 'TV-opptak' : 'Fjernsynsteater'}
 					{#if tvPerformances.length > 1}<span class="count">({tvPerformances.length})</span>{/if}
 				</h2>
 
 				<div class="performances-grid">
 					{#each tvPerformances as perf}
-						<a href="/opptak/{perf.id}" class="performance-card">
-							<div class="perf-image">
-								{#if perf.image_url}
+						<a href="/opptak/{perf.id}" class="performance-card" class:no-image={!perf.image_url}>
+							{#if perf.image_url}
+								<div class="perf-image">
 									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
-								{:else}
-									<div class="perf-placeholder">TV Teater</div>
-								{/if}
-								{#if perf.total_duration}
-									<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
-								{/if}
-								{#if perf.media.length > 1}
-									<span class="parts-badge">{perf.media.length} deler</span>
-								{/if}
-							</div>
+									{#if perf.total_duration}
+										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.media.length > 1}
+										<span class="parts-badge">{perf.media.length} deler</span>
+									{/if}
+								</div>
+							{/if}
 							<div class="perf-info">
-								{#if perf.year}
-									<span class="perf-year">{perf.year}</span>
+								<div class="perf-meta-row">
+									{#if perf.year}
+										<span class="perf-year">{perf.year}</span>
+									{/if}
+									<span class="source-badge nrk">NRK TV</span>
+									{#if perf.total_duration && !perf.image_url}
+										<span class="perf-duration-inline">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+								{#if perf.title && perf.title !== work?.title}
+									<h3 class="perf-title">{perf.title}</h3>
 								{/if}
 								{#if perf.director_name}
-									<p class="perf-director">Regi: {perf.director_name}</p>
-								{/if}
-								{#if perf.description}
-									<p class="perf-desc">{perf.description.slice(0, 150)}{perf.description.length > 150 ? '...' : ''}</p>
+									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
+								{:else if perf.description}
+									<p class="perf-desc">{perf.description.split('.')[0]}</p>
 								{/if}
 							</div>
 						</a>
@@ -372,35 +406,94 @@
 			<section class="performances radio-section">
 				<h2>
 					<span class="medium-icon radio">R</span>
-					Radioteater
+					{isConcert ? 'Lydopptak' : 'Radioteater'}
 					{#if radioPerformances.length > 1}<span class="count">({radioPerformances.length})</span>{/if}
 				</h2>
 
 				<div class="performances-grid">
 					{#each radioPerformances as perf}
-						<a href="/opptak/{perf.id}" class="performance-card">
-							<div class="perf-image radio-image">
-								{#if perf.image_url}
+						<a href="/opptak/{perf.id}" class="performance-card" class:no-image={!perf.image_url}>
+							{#if perf.image_url}
+								<div class="perf-image radio-image">
 									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
-								{:else}
-									<div class="perf-placeholder radio">Radioteater</div>
-								{/if}
-								{#if perf.total_duration}
-									<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
-								{/if}
-								{#if perf.media.length > 1}
-									<span class="parts-badge">{perf.media.length} deler</span>
-								{/if}
-							</div>
+									{#if perf.total_duration}
+										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.media.length > 1}
+										<span class="parts-badge">{perf.media.length} deler</span>
+									{/if}
+								</div>
+							{/if}
 							<div class="perf-info">
-								{#if perf.year}
-									<span class="perf-year radio">{perf.year}</span>
+								<div class="perf-meta-row">
+									{#if perf.year}
+										<span class="perf-year radio">{perf.year}</span>
+									{/if}
+									<span class="source-badge nrk">NRK Radio</span>
+									{#if perf.total_duration && !perf.image_url}
+										<span class="perf-duration-inline">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+								{#if perf.title && perf.title !== work?.title}
+									<h3 class="perf-title">{perf.title}</h3>
 								{/if}
 								{#if perf.director_name}
-									<p class="perf-director">Regi: {perf.director_name}</p>
+									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
+								{:else if perf.description}
+									<p class="perf-desc">{perf.description.split('.')[0]}</p>
 								{/if}
-								{#if perf.description}
-									<p class="perf-desc">{perf.description.slice(0, 150)}{perf.description.length > 150 ? '...' : ''}</p>
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if streamPerformances.length > 0}
+			<section class="performances stream-section">
+				<h2>
+					<span class="medium-icon stream">▶</span>
+					Videoopptak
+					{#if streamPerformances.length > 1}<span class="count">({streamPerformances.length})</span>{/if}
+				</h2>
+
+				<div class="performances-grid stream-grid">
+					{#each streamPerformances as perf}
+						{@const youtubeId = getYouTubeIdFromPerformance(perf)}
+						<a href="/opptak/{perf.id}" class="performance-card stream-card">
+							{#if youtubeId}
+								<div class="youtube-thumb">
+									<img src="https://img.youtube.com/vi/{youtubeId}/mqdefault.jpg" alt={perf.title || work?.title || ''} loading="lazy" />
+									<span class="play-icon">▶</span>
+									{#if perf.total_duration}
+										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+							{:else if perf.image_url}
+								<div class="perf-image">
+									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
+									{#if perf.total_duration}
+										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+							{/if}
+							<div class="perf-info">
+								<div class="perf-meta-row">
+									{#if perf.year}
+										<span class="perf-year stream">{perf.year}</span>
+									{/if}
+									<span class="source-badge {perf.source}">{perf.source === 'youtube' ? 'YouTube' : perf.source === 'bergenphilive' ? 'BergenPhilLive' : 'Video'}</span>
+									{#if perf.total_duration}
+										<span class="perf-duration-inline">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+								{#if perf.title && perf.title !== work?.title}
+									<h3 class="perf-title">{perf.title}</h3>
+								{/if}
+								{#if perf.director_name}
+									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
+								{:else if perf.description}
+									<p class="perf-desc">{perf.description.split('.')[0]}</p>
 								{/if}
 							</div>
 						</a>
@@ -470,21 +563,28 @@
 			<section class="more-by-author">
 				<div class="section-header">
 					<h2>Mer av {playwright.name}</h2>
-					<a href="/person/{playwright.id}" class="see-all">Se alle verk →</a>
+					{#if moreByAuthor.length >= 10}
+						<a href="/person/{playwright.id}" class="see-all">Se alle verk →</a>
+					{/if}
 				</div>
 				<div class="author-works-scroll">
-					{#each moreByAuthor as perf}
-						<a href="/opptak/{perf.id}" class="author-work-card">
-							{#if perf.image_url}
-								<img src={getImageUrl(perf.image_url, 240)} alt={perf.work_title || ''} loading="lazy" />
+					{#each moreByAuthor as authorWork}
+						<a href="/verk/{authorWork.id}" class="author-work-card">
+							{#if authorWork.image_url}
+								<img src={getImageUrl(authorWork.image_url, 240)} alt={authorWork.title || ''} loading="lazy" />
 							{:else}
-								<div class="author-work-placeholder">Teater</div>
+								<div class="author-work-placeholder">Verk</div>
 							{/if}
 							<div class="author-work-info">
-								<h3>{perf.work_title || perf.title}</h3>
-								{#if perf.year}
-									<span class="author-work-year">{perf.year}</span>
-								{/if}
+								<h3>{authorWork.title}</h3>
+								<div class="author-work-meta">
+									{#if authorWork.performance_count > 1}
+										<span class="author-work-count">{authorWork.performance_count} opptak</span>
+									{/if}
+									{#if authorWork.year_written}
+										<span class="author-work-year">{authorWork.year_written}</span>
+									{/if}
+								</div>
 							</div>
 						</a>
 					{/each}
@@ -747,6 +847,10 @@
 		background: #6b5ce7;
 	}
 
+	.medium-icon.stream {
+		background: #ff0000;
+	}
+
 	.performances-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -848,13 +952,158 @@
 		line-height: 1.5;
 	}
 
+	.perf-duration {
+		font-size: 0.85rem;
+		color: #888;
+		margin: 0;
+	}
+
+	.performance-card.no-image {
+		background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+	}
+
+	.performance-card.no-image .perf-info {
+		padding: 1.25rem;
+	}
+
 	.tv-section {
 		margin-bottom: 2rem;
 	}
 
-	.radio-section {
+	.radio-section,
+	.stream-section {
 		border-top: 1px solid #eee;
 		padding-top: 1.5rem;
+	}
+
+	.stream-grid {
+		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+	}
+
+	.stream-card {
+		background: #f9f9f9;
+	}
+
+	.youtube-embed {
+		position: relative;
+		width: 100%;
+		padding-bottom: 56.25%;
+		background: #000;
+	}
+
+	.youtube-embed iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		border: none;
+	}
+
+	.hero-youtube {
+		border-radius: 12px;
+		overflow: hidden;
+		background: #000;
+	}
+
+	.hero-embed {
+		max-height: 500px;
+	}
+
+	.medium-label.youtube {
+		background: #ff0000;
+	}
+
+	.perf-year.stream {
+		background: #ff0000;
+	}
+
+	.details-link {
+		display: inline-block;
+		color: #e94560;
+		text-decoration: none;
+		font-size: 0.85rem;
+		margin-top: 0.5rem;
+	}
+
+	.details-link:hover {
+		text-decoration: underline;
+	}
+
+	.youtube-thumb {
+		position: relative;
+		aspect-ratio: 16/9;
+		background: #000;
+	}
+
+	.youtube-thumb img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.play-icon {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 50px;
+		height: 50px;
+		background: rgba(255, 0, 0, 0.9);
+		border-radius: 8px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: white;
+		font-size: 1.25rem;
+	}
+
+	.perf-meta-row {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+		margin-bottom: 0.5rem;
+	}
+
+	.source-badge {
+		padding: 0.15rem 0.5rem;
+		border-radius: 4px;
+		font-size: 0.75rem;
+		font-weight: 500;
+		background: #666;
+		color: white;
+	}
+
+	.source-badge.youtube {
+		background: #ff0000;
+	}
+
+	.source-badge.bergenphilive {
+		background: #1a1a2e;
+	}
+
+	.source-badge.nrk {
+		background: #26292a;
+	}
+
+	.perf-duration-inline {
+		font-size: 0.85rem;
+		color: #666;
+	}
+
+	.perf-title {
+		font-size: 0.95rem;
+		font-weight: 600;
+		margin: 0 0 0.25rem 0;
+		line-height: 1.3;
+	}
+
+	.perf-desc {
+		font-size: 0.85rem;
+		color: #666;
+		margin: 0;
+		line-height: 1.4;
 	}
 
 	/* More by author */
@@ -950,9 +1199,23 @@
 		line-height: 1.3;
 	}
 
+	.author-work-meta {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+	}
+
+	.author-work-count {
+		font-size: 0.75rem;
+		background: #e94560;
+		color: white;
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+	}
+
 	.author-work-year {
 		font-size: 0.8rem;
-		color: #e94560;
+		color: #888;
 	}
 
 	/* Footer */
@@ -1249,6 +1512,11 @@
 
 	.table-medium.radio {
 		background: #6b5ce7;
+		color: white;
+	}
+
+	.table-medium.stream {
+		background: #ff0000;
 		color: white;
 	}
 

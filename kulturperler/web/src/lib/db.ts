@@ -1181,6 +1181,47 @@ export function getPlaysByPlaywright(playwrightId: number, limit = 10): Performa
 	return results;
 }
 
+export interface WorkWithCounts extends Work {
+	performance_count: number;
+	playwright_name?: string | null;
+	composer_name?: string | null;
+	image_url?: string | null;
+}
+
+export function getWorksByPlaywright(playwrightId: number, excludeWorkId: number, limit = 10): WorkWithCounts[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			w.*,
+			playwright.name as playwright_name,
+			composer.name as composer_name,
+			COUNT(DISTINCT perf.id) as performance_count,
+			(SELECT e.image_url FROM episodes e
+			 JOIN performances p ON e.performance_id = p.id
+			 WHERE p.work_id = w.id AND e.image_url IS NOT NULL
+			 LIMIT 1) as image_url
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
+		LEFT JOIN performances perf ON perf.work_id = w.id
+		WHERE w.playwright_id = ? AND w.id != ?
+		GROUP BY w.id
+		HAVING performance_count > 0
+		ORDER BY performance_count DESC, w.title ASC
+		LIMIT ?
+	`);
+	stmt.bind([playwrightId, excludeWorkId, limit]);
+
+	const results: WorkWithCounts[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as WorkWithCounts);
+	}
+	stmt.free();
+
+	return results;
+}
+
 export function getPerformancesByDecade(startYear: number, endYear: number, limit = 10): PerformanceWithDetails[] {
 	const db = getDatabase();
 

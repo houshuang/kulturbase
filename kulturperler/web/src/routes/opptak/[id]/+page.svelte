@@ -1,15 +1,19 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getPerformance, getPerformanceContributors, getPerformanceMedia, getOtherPerformances, getPlay } from '$lib/db';
-	import type { PerformanceWithDetails, PerformancePerson, Episode, Play } from '$lib/types';
+	import { getPerformance, getPerformanceContributors, getPerformanceMedia, getOtherPerformances, getPlay, getWork } from '$lib/db';
+	import type { PerformanceWithDetails, PerformancePerson, Episode, Play, Work } from '$lib/types';
 
 	let performance: PerformanceWithDetails | null = null;
 	let work: (Play & { playwright_name?: string }) | null = null;
+	let workDetails: Work | null = null;
 	let contributors: (PerformancePerson & { person_name: string })[] = [];
 	let media: Episode[] = [];
 	let otherPerformances: PerformanceWithDetails[] = [];
 	let loading = true;
 	let error: string | null = null;
+
+	// Concert work types
+	const CONCERT_TYPES = ['symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'chamber', 'choral', 'konsert'];
 
 	$: performanceId = parseInt($page.params.id || '0');
 
@@ -17,10 +21,23 @@
 		loadPerformance();
 	}
 
+	// Check if this is a concert/classical music recording
+	$: isConcert = workDetails?.work_type ? CONCERT_TYPES.includes(workDetails.work_type) : false;
+
+	// Get conductor for concerts, director for theater
+	$: conductorName = getConductorName();
+	$: directorName = getDirectorName();
+	$: leaderName = isConcert ? conductorName : directorName;
+	$: leaderLabel = isConcert ? 'Dirigent' : 'Regi';
+
+	// Extract YouTube video ID if available
+	$: youtubeId = extractYouTubeId(media[0]?.youtube_url);
+
 	function loadPerformance() {
 		loading = true;
 		error = null;
 		work = null;
+		workDetails = null;
 		otherPerformances = [];
 
 		try {
@@ -31,6 +48,7 @@
 
 				if (performance.work_id) {
 					work = getPlay(performance.work_id);
+					workDetails = getWork(performance.work_id);
 					otherPerformances = getOtherPerformances(performance.work_id, performanceId);
 				}
 			} else {
@@ -41,6 +59,12 @@
 			error = e instanceof Error ? e.message : 'Ukjent feil';
 			loading = false;
 		}
+	}
+
+	function extractYouTubeId(url: string | null | undefined): string | null {
+		if (!url) return null;
+		const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/);
+		return match ? match[1] : null;
 	}
 
 	function formatDuration(seconds: number | null): string {
@@ -66,12 +90,15 @@
 	function getRoleLabel(role: string | null): string {
 		const labels: Record<string, string> = {
 			director: 'Regi',
+			conductor: 'Dirigent',
 			actor: 'Skuespillere',
+			soloist: 'Solist',
 			playwright: 'Manus',
 			composer: 'Komponist',
 			set_designer: 'Scenografi',
 			costume_designer: 'Kostymer',
 			producer: 'Produsent',
+			orchestra: 'Orkester',
 			other: 'Annet'
 		};
 		return labels[role || ''] || role || 'Ukjent rolle';
@@ -92,8 +119,12 @@
 		return director?.person_name || null;
 	}
 
+	function getConductorName(): string | null {
+		const conductor = contributors.find(c => c.role === 'conductor');
+		return conductor?.person_name || null;
+	}
+
 	$: contributorGroups = groupContributors(contributors);
-	$: directorName = getDirectorName();
 </script>
 
 <svelte:head>
@@ -110,50 +141,51 @@
 	<article class="performance-detail">
 		<a href="/" class="back-link">&larr; Tilbake til oversikt</a>
 
-		<div class="performance-header">
-			{#if media.length === 1}
-				<a
-					href={media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`}
-					target="_blank"
-					rel="noopener"
-					class="performance-image playable"
-				>
-					{#if hasImage(performance.image_url)}
-						<img src={performance.image_url} alt={performance.title || ''} />
-					{:else}
-						<div class="image-placeholder">
-							<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
-								<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
-							</svg>
-						</div>
-					{/if}
-					<div class="header-play-icon">
-						<svg viewBox="0 0 24 24" fill="currentColor">
-							<path d="M8 5v14l11-7z"/>
-						</svg>
-					</div>
-					{#if media[0].duration_seconds}
-						<span class="header-duration">{formatDuration(media[0].duration_seconds)}</span>
-					{/if}
-				</a>
-			{:else}
-				<div class="performance-image">
-					{#if hasImage(performance.image_url)}
-						<img src={performance.image_url} alt={performance.title || ''} />
-					{:else}
-						<div class="image-placeholder">
-							<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
-								<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
-							</svg>
-						</div>
-					{/if}
+		<div class="performance-header" class:no-media={!youtubeId && !hasImage(performance.image_url)}>
+			<!-- YouTube embed takes priority -->
+			{#if youtubeId}
+				<div class="youtube-embed">
+					<iframe
+						src="https://www.youtube.com/embed/{youtubeId}"
+						title="{performance.title || 'Video'}"
+						frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						allowfullscreen
+					></iframe>
 				</div>
+			<!-- Show image only if we have one -->
+			{:else if hasImage(performance.image_url)}
+				{#if media.length === 1}
+					<a
+						href={media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`}
+						target="_blank"
+						rel="noopener"
+						class="performance-image playable"
+					>
+						<img src={performance.image_url} alt={performance.title || ''} />
+						<div class="header-play-icon">
+							<svg viewBox="0 0 24 24" fill="currentColor">
+								<path d="M8 5v14l11-7z"/>
+							</svg>
+						</div>
+						{#if media[0].duration_seconds}
+							<span class="header-duration">{formatDuration(media[0].duration_seconds)}</span>
+						{/if}
+					</a>
+				{:else}
+					<div class="performance-image">
+						<img src={performance.image_url} alt={performance.title || ''} />
+					</div>
+				{/if}
 			{/if}
+			<!-- No placeholder shown when no image - just show metadata -->
 
 			<div class="performance-info">
 				<h1>
 					{performance.title || work?.title || 'Ukjent tittel'}
-					{#if performance.medium === 'radio'}
+					{#if isConcert}
+						<span class="medium-badge concert">Konsert</span>
+					{:else if performance.medium === 'radio'}
 						<span class="medium-badge radio">Radioteater</span>
 					{:else}
 						<span class="medium-badge tv">Fjernsynsteater</span>
@@ -167,8 +199,11 @@
 					{#if performance.total_duration}
 						<span class="duration">{formatDurationLong(performance.total_duration)}</span>
 					{/if}
-					{#if directorName}
-						<span class="director">Regi: {directorName}</span>
+					{#if leaderName}
+						<span class="director">{leaderLabel}: {leaderName}</span>
+					{/if}
+					{#if performance.venue}
+						<span class="venue">{performance.venue}</span>
 					{/if}
 				</div>
 
@@ -192,6 +227,8 @@
 
 				{#if performance.description}
 					<p class="description">{performance.description}</p>
+				{:else if workDetails?.synopsis}
+					<p class="synopsis">{workDetails.synopsis}</p>
 				{/if}
 			</div>
 		</div>
@@ -278,25 +315,22 @@
 				<h2>Andre opptak av {work?.title || 'dette stykket'}</h2>
 				<div class="other-performances-grid">
 					{#each otherPerformances as other}
-						<a href="/opptak/{other.id}" class="other-performance-card">
-							<div class="other-thumbnail">
-								{#if hasImage(other.image_url)}
+						<a href="/opptak/{other.id}" class="other-performance-card" class:no-thumbnail={!hasImage(other.image_url)}>
+							{#if hasImage(other.image_url)}
+								<div class="other-thumbnail">
 									<img src={other.image_url} alt={other.title || ''} loading="lazy" />
-								{:else}
-									<div class="image-placeholder small">
-										<svg viewBox="0 0 24 24" fill="currentColor" class="placeholder-icon">
-											<path d="M18 4l2 4h-3l-2-4h-2l2 4h-3l-2-4H8l2 4H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4z"/>
-										</svg>
-									</div>
-								{/if}
-							</div>
+								</div>
+							{/if}
 							<div class="other-info">
 								<span class="other-year">{other.year}</span>
 								{#if other.director_name}
-									<span class="other-director">Regi: {other.director_name}</span>
+									<span class="other-director">{isConcert ? 'Dirigent' : 'Regi'}: {other.director_name}</span>
 								{/if}
 								{#if other.total_duration}
 									<span class="other-duration">{formatDuration(other.total_duration)}</span>
+								{/if}
+								{#if !hasImage(other.image_url) && performance?.description}
+									<span class="other-description">{other.description || performance.description}</span>
 								{/if}
 							</div>
 						</a>
@@ -340,6 +374,28 @@
 		grid-template-columns: 1fr 1fr;
 		gap: 2rem;
 		margin-bottom: 2rem;
+	}
+
+	.performance-header.no-media {
+		grid-template-columns: 1fr;
+	}
+
+	/* YouTube embed */
+	.youtube-embed {
+		position: relative;
+		width: 100%;
+		padding-bottom: 56.25%; /* 16:9 aspect ratio */
+		border-radius: 8px;
+		overflow: hidden;
+		background: #000;
+	}
+
+	.youtube-embed iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 
 	.performance-image {
@@ -492,6 +548,20 @@
 	.description {
 		line-height: 1.7;
 		color: #444;
+	}
+
+	.synopsis {
+		line-height: 1.7;
+		color: #555;
+		font-style: italic;
+		background: #f8f9fa;
+		padding: 1rem;
+		border-radius: 6px;
+		border-left: 3px solid #e94560;
+	}
+
+	.venue {
+		color: #666;
 	}
 
 	/* Media section */
@@ -706,6 +776,24 @@
 		color: #666;
 	}
 
+	.other-description {
+		font-size: 0.8rem;
+		color: #888;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.other-performance-card.no-thumbnail {
+		background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+		padding: 1rem;
+	}
+
+	.other-performance-card.no-thumbnail .other-info {
+		padding: 0;
+	}
+
 	/* Medium badge in title */
 	.medium-badge {
 		display: inline-block;
@@ -726,6 +814,11 @@
 
 	.medium-badge.radio {
 		background: #6b5ce7;
+		color: white;
+	}
+
+	.medium-badge.concert {
+		background: #10b981;
 		color: white;
 	}
 

@@ -4,9 +4,7 @@ source: youtube
 medium: stream
 title: 'Ballett | Ghosts - Ibsens Gengangere | Regi: Marit Moum Aune | Koreografi:
   Cina Espejord'
-credits:
-- person_id: 3925
-  role: composer
+credits: []
 institutions:
 - institution_id: 8
   role: orchestra

@@ -4,9 +4,7 @@ source: youtube
 medium: stream
 title: 'Suite im alten Stil: Adagio / Christian Sinding / Catherine Bullock-Bukkøy
   / Ingar Bergby'
-credits:
-- person_id: 3849
-  role: composer
+credits: []
 institutions:
 - institution_id: 3
   role: orchestra

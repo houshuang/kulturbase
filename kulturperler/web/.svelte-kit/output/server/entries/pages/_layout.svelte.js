@@ -13,7 +13,7 @@ function _layout($$renderer, $$props) {
     const navItems = [
       { href: "/", label: "Hjem", exact: true },
       { href: "/teater", label: "Teater" },
-      { href: "/opera", label: "Opera" },
+      { href: "/opera", label: "Opera/Ballett" },
       { href: "/dramaserier", label: "Dramaserier" },
       { href: "/konserter", label: "Konserter" },
       { href: "/skapere", label: "Skapere" }
@@ -32,7 +32,7 @@ function _layout($$renderer, $$props) {
       let item = each_array[$$index];
       $$renderer2.push(`<a${attr("href", item.href)}${attr_class("nav-link svelte-12qhfyh", void 0, { "active": isActive(item.href, item.exact) })}>${escape_html(item.label)}</a>`);
     }
-    $$renderer2.push(`<!--]--></nav> <div class="header-spacer svelte-12qhfyh"></div> `);
+    $$renderer2.push(`<!--]--></nav> <div class="header-spacer svelte-12qhfyh"></div> <a href="/om"${attr_class("nav-link nav-link-secondary svelte-12qhfyh", void 0, { "active": currentPath === "/om" })}>Om</a> `);
     {
       $$renderer2.push("<!--[!-->");
     }

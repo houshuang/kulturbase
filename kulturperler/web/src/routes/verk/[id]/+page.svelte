@@ -236,7 +236,19 @@
 		<header class="work-header">
 			<div class="header-content">
 				<div class="header-text">
-					<h1>{work.title}</h1>
+					<div class="title-row">
+						<h1>{work.title}</h1>
+						{#if work.sceneweb_url || work.wikipedia_url}
+							<div class="header-links">
+								{#if work.sceneweb_url}
+									<a href={work.sceneweb_url} target="_blank" rel="noopener" class="header-link">Sceneweb</a>
+								{/if}
+								{#if work.wikipedia_url}
+									<a href={work.wikipedia_url} target="_blank" rel="noopener" class="header-link">Wikipedia</a>
+								{/if}
+							</div>
+						{/if}
+					</div>
 
 					<p class="work-meta">
 						{#if playwright}
@@ -648,17 +660,6 @@
 			</section>
 		{/if}
 
-		{#if work.sceneweb_url || work.wikipedia_url}
-			<footer class="work-footer">
-				<span class="footer-label">Lenker:</span>
-				{#if work.sceneweb_url}
-					<a href={work.sceneweb_url} target="_blank" rel="noopener" class="footer-link">Sceneweb</a>
-				{/if}
-				{#if work.wikipedia_url}
-					<a href={work.wikipedia_url} target="_blank" rel="noopener" class="footer-link">Wikipedia</a>
-				{/if}
-			</footer>
-		{/if}
 	</article>
 {/if}
 
@@ -708,10 +709,38 @@
 		min-width: 0;
 	}
 
+	.title-row {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 1rem;
+	}
+
 	.work-header h1 {
 		font-size: 1.75rem;
 		margin: 0 0 0.5rem 0;
 		line-height: 1.2;
+	}
+
+	.header-links {
+		display: flex;
+		gap: 0.5rem;
+		flex-shrink: 0;
+	}
+
+	.header-link {
+		padding: 0.3rem 0.6rem;
+		background: #f0f0f0;
+		border-radius: 4px;
+		text-decoration: none;
+		color: #555;
+		font-size: 0.8rem;
+		transition: background-color 0.15s;
+		white-space: nowrap;
+	}
+
+	.header-link:hover {
+		background: #e0e0e0;
 	}
 
 	.work-meta {
@@ -1288,36 +1317,6 @@
 	.author-work-year {
 		font-size: 0.8rem;
 		color: #888;
-	}
-
-	/* Footer */
-	.work-footer {
-		margin-top: 2rem;
-		padding-top: 1rem;
-		border-top: 1px solid #eee;
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.75rem;
-	}
-
-	.footer-label {
-		color: #888;
-		font-size: 0.85rem;
-	}
-
-	.footer-link {
-		padding: 0.35rem 0.75rem;
-		background: #f0f0f0;
-		border-radius: 4px;
-		text-decoration: none;
-		color: #555;
-		font-size: 0.85rem;
-		transition: background-color 0.15s;
-	}
-
-	.footer-link:hover {
-		background: #e0e0e0;
 	}
 
 	/* External sources prominent */

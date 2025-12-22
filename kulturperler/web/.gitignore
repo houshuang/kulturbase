@@ -17,8 +17,8 @@ build/
 *.swo
 .DS_Store
 
-# Database - compiled from data/
-static/kulturperler.db
+# Database is now committed for Cloudflare deployment
+# Run `npm run build:db` locally to rebuild from YAML
 
 # Python
 __pycache__/

@@ -121,7 +121,7 @@
 
 		// Get all theater performances
 		const results = db.exec(`
-			SELECT DISTINCT
+			SELECT
 				p.id,
 				p.work_id,
 				p.year,
@@ -136,13 +136,10 @@
 				w.category,
 				author.name as playwright_name,
 				author.id as playwright_id,
-				director.name as director_name,
 				(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = p.id) as media_count
 			FROM performances p
 			LEFT JOIN works w ON p.work_id = w.id
 			LEFT JOIN persons author ON w.playwright_id = author.id
-			LEFT JOIN performance_persons pp ON pp.performance_id = p.id AND pp.role = 'director'
-			LEFT JOIN persons director ON pp.person_id = director.id
 			WHERE w.category = 'teater' OR w.work_type IN ('teaterstykke', 'nrk_teaterstykke')
 			ORDER BY p.year DESC, w.title
 		`);
@@ -163,8 +160,7 @@
 				category: row[11],
 				playwright_name: row[12],
 				playwright_id: row[13],
-				director_name: row[14],
-				media_count: row[15]
+				media_count: row[14]
 			}));
 
 			// Calculate filter counts

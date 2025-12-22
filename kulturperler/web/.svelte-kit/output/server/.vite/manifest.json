@@ -134,7 +134,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.DH960hup.css"
+      "_app/immutable/assets/_layout.suvKH0Oj.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -161,7 +161,7 @@
       "_index2.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.C8T1Jx8r.css"
+      "_app/immutable/assets/_page.DaZC1iv6.css"
     ]
   },
   "src/routes/episode/[id]/+page.svelte": {
@@ -191,6 +191,18 @@
     ],
     "css": [
       "_app/immutable/assets/_page.CNJh-rT_.css"
+    ]
+  },
+  "src/routes/om/+page.svelte": {
+    "file": "entries/pages/om/_page.svelte.js",
+    "name": "entries/pages/om/_page.svelte",
+    "src": "src/routes/om/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.Cb6DQzN6.css"
     ]
   },
   "src/routes/opera/+page.svelte": {
@@ -327,7 +339,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.C4xqmOql.css"
+      "_app/immutable/assets/_page.Di_CTmye.css"
     ]
   },
   "src/routes/verk/play/[id]/+page.svelte": {

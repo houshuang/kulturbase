@@ -44,7 +44,7 @@
 		selectedComposer = urlComposer || 'all';
 	}
 
-	// Apply filters (works are already sorted by performance_count from DB)
+	// Apply filters (sort: images first, then by performance_count)
 	$: {
 		let result = [...allWorks];
 
@@ -55,6 +55,14 @@
 		if (selectedComposer !== 'all') {
 			result = result.filter(w => w.composer_name === selectedComposer);
 		}
+
+		// Sort: entries with images first, then by performance_count
+		result.sort((a, b) => {
+			const aHasImage = a.image_url ? 1 : 0;
+			const bHasImage = b.image_url ? 1 : 0;
+			if (aHasImage !== bHasImage) return bHasImage - aHasImage;
+			return b.performance_count - a.performance_count;
+		});
 
 		filteredWorks = result;
 	}

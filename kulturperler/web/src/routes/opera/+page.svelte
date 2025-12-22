@@ -54,7 +54,7 @@
 		else sortBy = 'year-desc';
 	}
 
-	// Apply filters
+	// Apply filters (images first, then by selected sort)
 	$: {
 		let result = [...allPerformances];
 
@@ -66,16 +66,24 @@
 			result = result.filter(p => p.composer_name === selectedComposer);
 		}
 
-		// Sort
-		if (sortBy === 'year-desc') {
-			result.sort((a, b) => (b.year || 0) - (a.year || 0));
-		} else if (sortBy === 'year-asc') {
-			result.sort((a, b) => (a.year || 0) - (b.year || 0));
-		} else if (sortBy === 'composer') {
-			result.sort((a, b) => (a.composer_name || '').localeCompare(b.composer_name || '', 'no'));
-		} else if (sortBy === 'title') {
-			result.sort((a, b) => (a.work_title || a.title || '').localeCompare(b.work_title || b.title || '', 'no'));
-		}
+		// Sort: images first, then by selected criteria
+		result.sort((a, b) => {
+			const aHasImage = a.image_url ? 1 : 0;
+			const bHasImage = b.image_url ? 1 : 0;
+			if (aHasImage !== bHasImage) return bHasImage - aHasImage;
+
+			// Secondary sort by selected criteria
+			if (sortBy === 'year-desc') {
+				return (b.year || 0) - (a.year || 0);
+			} else if (sortBy === 'year-asc') {
+				return (a.year || 0) - (b.year || 0);
+			} else if (sortBy === 'composer') {
+				return (a.composer_name || '').localeCompare(b.composer_name || '', 'no');
+			} else if (sortBy === 'title') {
+				return (a.work_title || a.title || '').localeCompare(b.work_title || b.title || '', 'no');
+			}
+			return 0;
+		});
 
 		filteredPerformances = result;
 	}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite dev",
-    "build": "python3 scripts/build_database.py && vite build",
+    "build": "vite build",
+    "build:local": "python3 scripts/build_database.py && vite build",
     "build:db": "python3 scripts/build_database.py",
     "validate": "python3 scripts/validate_data.py",
     "query": "python3 scripts/query.py",

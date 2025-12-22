@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="16" cy="16" r="15" fill="url(#grad)"/>
+  <!-- Comedy mask (happy) - slightly behind -->
+  <g transform="translate(6, 8) scale(0.55)">
+    <ellipse cx="18" cy="16" rx="14" ry="16" fill="#fff" opacity="0.9"/>
+    <ellipse cx="12" cy="12" rx="3" ry="4" fill="#1a1a2e"/>
+    <ellipse cx="24" cy="12" rx="3" ry="4" fill="#1a1a2e"/>
+    <path d="M10 20 Q18 28 26 20" stroke="#1a1a2e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Tragedy mask (sad) - in front -->
+  <g transform="translate(12, 10) scale(0.55)">
+    <ellipse cx="18" cy="16" rx="14" ry="16" fill="#fff"/>
+    <ellipse cx="12" cy="12" rx="3" ry="4" fill="#1a1a2e"/>
+    <ellipse cx="24" cy="12" rx="3" ry="4" fill="#1a1a2e"/>
+    <path d="M10 24 Q18 16 26 24" stroke="#1a1a2e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -106,6 +106,11 @@
 								{#if perf.year}
 									<span class="year">{perf.year}</span>
 								{/if}
+								{#if perf.medium}
+									<span class="medium" class:tv={perf.medium === 'tv'} class:radio={perf.medium === 'radio'}>
+										{perf.medium === 'tv' ? 'TV-drama' : 'Hørespill'}
+									</span>
+								{/if}
 								{#if perf.media_count && perf.media_count > 1}
 									<span class="episodes">{perf.media_count} episoder</span>
 								{/if}
@@ -233,5 +238,20 @@
 		color: white;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;
+	}
+
+	.medium {
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+	}
+
+	.medium.tv {
+		background: #e94560;
+		color: white;
+	}
+
+	.medium.radio {
+		background: #6b5ce7;
+		color: white;
 	}
 </style>

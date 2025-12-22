@@ -1375,7 +1375,7 @@ export function searchAll(query: string, limit = 10): SearchAllResults {
 	const term = `%${query}%`;
 	const normalizedTerm = `%${query.toLowerCase()}%`;
 
-	// Search persons
+	// Search persons (only those with works as playwright/composer/librettist)
 	const personsStmt = db.prepare(`
 		SELECT
 			p.*,
@@ -1383,7 +1383,8 @@ export function searchAll(query: string, limit = 10): SearchAllResults {
 			(SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) as performance_count,
 			(SELECT GROUP_CONCAT(DISTINCT pp.role) FROM performance_persons pp WHERE pp.person_id = p.id) as roles_str
 		FROM persons p
-		WHERE p.name LIKE ? OR p.normalized_name LIKE ?
+		WHERE (p.name LIKE ? OR p.normalized_name LIKE ?)
+		AND (SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) > 0
 		ORDER BY
 			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
 			work_count DESC,
@@ -1479,7 +1480,7 @@ export function getAutocompleteSuggestions(query: string, limit = 8): Autocomple
 	const startTerm = query + '%';
 	const suggestions: AutocompleteSuggestion[] = [];
 
-	// Get person suggestions (limit to 3)
+	// Get person suggestions (limit to 3, only people with works)
 	const personsStmt = db.prepare(`
 		SELECT
 			p.id,
@@ -1488,7 +1489,8 @@ export function getAutocompleteSuggestions(query: string, limit = 8): Autocomple
 			p.death_year,
 			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) as work_count
 		FROM persons p
-		WHERE p.name LIKE ? OR p.normalized_name LIKE ?
+		WHERE (p.name LIKE ? OR p.normalized_name LIKE ?)
+		AND (SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) > 0
 		ORDER BY
 			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
 			work_count DESC

@@ -14,10 +14,10 @@
 	const navItems = [
 		{ href: '/', label: 'Hjem', exact: true },
 		{ href: '/teater', label: 'Teater' },
-		{ href: '/opera', label: 'Opera' },
+		{ href: '/opera', label: 'Opera/Ballett' },
 		{ href: '/dramaserier', label: 'Dramaserier' },
 		{ href: '/konserter', label: 'Konserter' },
-		{ href: '/skapere', label: 'Skapere' }
+		{ href: '/personer', label: 'Personer' }
 	];
 
 	function isActive(href: string, exact = false): boolean {
@@ -57,6 +57,7 @@
 				{/each}
 			</nav>
 			<div class="header-spacer"></div>
+			<a href="/om" class="nav-link nav-link-secondary" class:active={currentPath === '/om'}>Om</a>
 			{#if dbReady}
 				<SearchBox placeholder="Søk..." />
 			{/if}
@@ -164,6 +165,14 @@
 	.nav-link.active {
 		color: white;
 		background: #e94560;
+	}
+
+	.nav-link-secondary {
+		color: rgba(255, 255, 255, 0.6);
+	}
+
+	.nav-link-secondary:hover {
+		color: rgba(255, 255, 255, 0.9);
 	}
 
 	main {

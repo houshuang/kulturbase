@@ -3,7 +3,9 @@ work_id: 1645
 source: youtube
 medium: stream
 title: Ma mère l'Oye (Mother Goose) / Maurice Ravel / James Gaffigan / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 3866
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

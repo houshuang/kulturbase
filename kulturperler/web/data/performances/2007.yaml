@@ -3,7 +3,9 @@ work_id: 1637
 source: youtube
 medium: stream
 title: Ode to Solitude / Fartein Valen / Christian Eggen / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 1186
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

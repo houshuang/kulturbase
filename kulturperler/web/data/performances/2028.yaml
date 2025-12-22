@@ -3,7 +3,9 @@ work_id: 1132
 source: youtube
 medium: stream
 title: Winter (Largo) / Antonio Vivaldi / Maria Angelika Carlsen / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 3428
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

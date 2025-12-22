@@ -3,7 +3,9 @@ work_id: 1644
 source: youtube
 medium: stream
 title: Elegiac Melody / Odd Grüner-Hegge / James Gaffigan / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 3866
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

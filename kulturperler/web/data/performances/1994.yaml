@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: Winter / Antonio Vivaldi / Eldbjørg Hemsing / Oslo Philharmonic / Nobel Peace
   Prize Concert 2021
-credits: []
+credits:
+- person_id: 3560
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

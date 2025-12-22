@@ -3,7 +3,9 @@ work_id: 1631
 source: youtube
 medium: stream
 title: Festival Polonaise / Johan Svendsen / Øivin Fjeldstad / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

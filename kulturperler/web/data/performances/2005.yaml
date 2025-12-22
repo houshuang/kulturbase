@@ -3,7 +3,9 @@ work_id: 1635
 source: youtube
 medium: stream
 title: Air / Ludvig Irgens-Jensen / Christian Eggen / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 1186
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

@@ -21,6 +21,8 @@ credits:
   instrument: Clarinet
 - person_id: 3851
   role: composer
+- person_id: 2589
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

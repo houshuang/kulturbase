@@ -3,7 +3,9 @@ work_id: 1636
 source: youtube
 medium: stream
 title: Symphonia Domestica / Richard Strauss / André Previn / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

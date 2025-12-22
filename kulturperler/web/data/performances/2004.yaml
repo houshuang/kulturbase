@@ -3,7 +3,9 @@ work_id: 965
 source: youtube
 medium: stream
 title: Symphony No. 5 / Ralph Vaughan Williams / Vasily Petrenko / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

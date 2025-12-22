@@ -17,7 +17,7 @@
 		{ href: '/opera', label: 'Opera/Ballett' },
 		{ href: '/dramaserier', label: 'Dramaserier' },
 		{ href: '/konserter', label: 'Konserter' },
-		{ href: '/personer', label: 'Personer' }
+		{ href: '/forfattere', label: 'Personer' }
 	];
 
 	function isActive(href: string, exact = false): boolean {

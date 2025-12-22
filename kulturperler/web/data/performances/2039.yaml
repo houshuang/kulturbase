@@ -3,7 +3,9 @@ work_id: 1669
 source: youtube
 medium: stream
 title: Noces Norvegiennes / Hanna Marie Hansen / Ingar Bergby / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 3814
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

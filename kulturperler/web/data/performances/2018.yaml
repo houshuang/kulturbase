@@ -3,7 +3,9 @@ work_id: 1648
 source: youtube
 medium: stream
 title: Romance / Johan Svendsen / Maria Angelika Carlsen / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 3428
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

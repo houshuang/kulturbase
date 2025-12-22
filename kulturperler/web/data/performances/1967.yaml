@@ -3,7 +3,9 @@ work_id: 1597
 source: youtube
 medium: stream
 title: Overture I – This Too / Mette Henriette / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

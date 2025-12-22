@@ -797,7 +797,7 @@ export function getWorkPerformances(workId: number): PerformanceWithDetails[] {
 	return results;
 }
 
-export function getWorkPerformancesByMedium(workId: number, medium: 'tv' | 'radio'): PerformanceWithDetails[] {
+export function getWorkPerformancesByMedium(workId: number, medium: 'tv' | 'radio' | 'stream'): PerformanceWithDetails[] {
 	const db = getDatabase();
 
 	const stmt = db.prepare(`

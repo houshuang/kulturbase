@@ -221,7 +221,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CJdmziVq.css"
+      "_app/immutable/assets/_page.Dx4evxqf.css"
     ]
   },
   "src/routes/performance/[id]/+page.svelte": {
@@ -320,10 +320,12 @@
     "isEntry": true,
     "imports": [
       "_index2.js",
-      "_stores.js"
+      "_stores.js",
+      "_db.js",
+      "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DpnBjft5.css"
+      "_app/immutable/assets/_page.CXN7tOs9.css"
     ]
   },
   "src/routes/verk/play/[id]/+page.svelte": {

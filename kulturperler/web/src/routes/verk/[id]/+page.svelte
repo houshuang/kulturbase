@@ -2,7 +2,6 @@
 	import { page } from '$app/stores';
 	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
 	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person } from '$lib/types';
-	import { onMount } from 'svelte';
 
 	interface PerformanceWithMedia extends PerformanceWithDetails {
 		media: Episode[];
@@ -25,6 +24,10 @@
 	const CONCERT_TYPES = ['symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'chamber', 'choral', 'konsert'];
 
 	$: workId = parseInt($page.params.id || '0');
+
+	// Reload data when workId changes (handles client-side navigation)
+	$: if (workId) loadWork();
+
 	$: allPerformances = [...tvPerformances, ...radioPerformances, ...streamPerformances];
 	$: totalPerformances = allPerformances.length;
 	$: isSinglePerformance = totalPerformances === 1;
@@ -33,11 +36,21 @@
 	$: isConcert = work?.work_type ? CONCERT_TYPES.includes(work.work_type) : false;
 	$: leaderLabel = isConcert ? 'Dirigent' : 'Regi';
 
-	onMount(() => {
-		loadWork();
-	});
-
 	function loadWork() {
+		// Reset state for new load
+		loading = true;
+		error = null;
+		work = null;
+		playwright = null;
+		composer = null;
+		tvPerformances = [];
+		radioPerformances = [];
+		streamPerformances = [];
+		externalLinks = [];
+		moreByAuthor = [];
+		sourceWork = null;
+		adaptations = [];
+
 		try {
 			work = getWork(workId);
 			if (work) {
@@ -46,11 +59,16 @@
 					playwright = getPerson(work.playwright_id);
 					// Get more works by this playwright (excluding current)
 					moreByAuthor = getWorksByPlaywright(work.playwright_id, workId, 10);
+				} else {
+					playwright = null;
+					moreByAuthor = [];
 				}
 
 				// Get composer details
 				if (work.composer_id) {
 					composer = getPerson(work.composer_id);
+				} else {
+					composer = null;
 				}
 
 				// Get TV performances
@@ -567,14 +585,16 @@
 						<a href="/person/{playwright.id}" class="see-all">Se alle verk →</a>
 					{/if}
 				</div>
-				<div class="author-works-scroll">
+				<div class="author-works-grid">
 					{#each moreByAuthor as authorWork}
-						<a href="/verk/{authorWork.id}" class="author-work-card">
-							{#if authorWork.image_url}
-								<img src={getImageUrl(authorWork.image_url, 240)} alt={authorWork.title || ''} loading="lazy" />
-							{:else}
-								<div class="author-work-placeholder">Verk</div>
-							{/if}
+						<a href="/verk/{authorWork.id}" class="author-work-card" data-sveltekit-preload-data>
+							<div class="author-work-image">
+								{#if authorWork.image_url}
+									<img src={getImageUrl(authorWork.image_url, 240)} alt={authorWork.title || ''} loading="lazy" />
+								{:else}
+									<div class="author-work-placeholder">Verk</div>
+								{/if}
+							</div>
 							<div class="author-work-info">
 								<h3>{authorWork.title}</h3>
 								<div class="author-work-meta">
@@ -1135,35 +1155,21 @@
 		text-decoration: underline;
 	}
 
-	.author-works-scroll {
-		display: flex;
+	.author-works-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
 		gap: 1rem;
-		overflow-x: auto;
-		padding-bottom: 0.5rem;
-		-webkit-overflow-scrolling: touch;
-	}
-
-	.author-works-scroll::-webkit-scrollbar {
-		height: 6px;
-	}
-
-	.author-works-scroll::-webkit-scrollbar-track {
-		background: #f0f0f0;
-		border-radius: 3px;
-	}
-
-	.author-works-scroll::-webkit-scrollbar-thumb {
-		background: #ccc;
-		border-radius: 3px;
 	}
 
 	.author-work-card {
-		flex: 0 0 180px;
+		display: flex;
+		flex-direction: column;
 		background: #f9f9f9;
 		border-radius: 8px;
 		overflow: hidden;
 		text-decoration: none;
 		color: inherit;
+		cursor: pointer;
 		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
@@ -1172,15 +1178,25 @@
 		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 	}
 
-	.author-work-card img {
+	.author-work-card:active {
+		transform: translateY(-2px);
+	}
+
+	.author-work-image {
+		aspect-ratio: 16/9;
+		overflow: hidden;
+		background: #ddd;
+	}
+
+	.author-work-image img {
 		width: 100%;
-		height: 100px;
+		height: 100%;
 		object-fit: cover;
 	}
 
 	.author-work-placeholder {
 		width: 100%;
-		height: 100px;
+		height: 100%;
 		background: linear-gradient(135deg, #1a1a2e, #16213e);
 		display: flex;
 		align-items: center;
@@ -1191,6 +1207,7 @@
 
 	.author-work-info {
 		padding: 0.75rem;
+		flex: 1;
 	}
 
 	.author-work-info h3 {
@@ -1203,6 +1220,7 @@
 		display: flex;
 		gap: 0.5rem;
 		align-items: center;
+		flex-wrap: wrap;
 	}
 
 	.author-work-count {

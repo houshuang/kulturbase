@@ -315,22 +315,39 @@
 				<h2>Andre opptak av {work?.title || 'dette stykket'}</h2>
 				<div class="other-performances-grid">
 					{#each otherPerformances as other}
-						<a href="/opptak/{other.id}" class="other-performance-card" class:no-thumbnail={!hasImage(other.image_url)}>
-							{#if hasImage(other.image_url)}
-								<div class="other-thumbnail">
+						<a href="/opptak/{other.id}" class="other-performance-card">
+							<div class="other-thumbnail">
+								{#if hasImage(other.image_url)}
 									<img src={other.image_url} alt={other.title || ''} loading="lazy" />
-								</div>
-							{/if}
+								{:else}
+									<div class="other-placeholder">
+										{other.medium === 'radio' ? 'Radio' : 'Video'}
+									</div>
+								{/if}
+							</div>
 							<div class="other-info">
-								<span class="other-year">{other.year}</span>
+								{#if other.title && other.title !== work?.title}
+									<span class="other-title">{other.title}</span>
+								{/if}
+								<div class="other-meta">
+									{#if other.year}
+										<span class="other-year">{other.year}</span>
+									{/if}
+									{#if other.source === 'youtube'}
+										<span class="other-source youtube">YouTube</span>
+									{:else if other.source === 'bergenphilive'}
+										<span class="other-source bpl">BergenPhilLive</span>
+									{:else if other.medium === 'radio'}
+										<span class="other-source radio">NRK Radio</span>
+									{:else}
+										<span class="other-source nrk">NRK TV</span>
+									{/if}
+								</div>
 								{#if other.director_name}
 									<span class="other-director">{isConcert ? 'Dirigent' : 'Regi'}: {other.director_name}</span>
 								{/if}
 								{#if other.total_duration}
 									<span class="other-duration">{formatDuration(other.total_duration)}</span>
-								{/if}
-								{#if !hasImage(other.image_url) && performance?.description}
-									<span class="other-description">{other.description || performance.description}</span>
 								{/if}
 							</div>
 						</a>
@@ -751,6 +768,7 @@
 	.other-thumbnail {
 		aspect-ratio: 16/9;
 		background: #ddd;
+		overflow: hidden;
 	}
 
 	.other-thumbnail img {
@@ -759,11 +777,35 @@
 		object-fit: cover;
 	}
 
+	.other-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
+		font-size: 0.9rem;
+	}
+
 	.other-info {
 		padding: 0.75rem;
 		display: flex;
 		flex-direction: column;
-		gap: 0.2rem;
+		gap: 0.25rem;
+	}
+
+	.other-title {
+		font-size: 0.9rem;
+		font-weight: 500;
+		color: #333;
+		line-height: 1.3;
+	}
+
+	.other-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
 	}
 
 	.other-year {
@@ -771,27 +813,34 @@
 		color: #e94560;
 	}
 
+	.other-source {
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.7rem;
+		font-weight: 500;
+		background: #666;
+		color: white;
+	}
+
+	.other-source.youtube {
+		background: #ff0000;
+	}
+
+	.other-source.bpl {
+		background: #1a1a2e;
+	}
+
+	.other-source.nrk {
+		background: #26292a;
+	}
+
+	.other-source.radio {
+		background: #6b5ce7;
+	}
+
 	.other-director, .other-duration {
 		font-size: 0.85rem;
 		color: #666;
-	}
-
-	.other-description {
-		font-size: 0.8rem;
-		color: #888;
-		display: -webkit-box;
-		-webkit-line-clamp: 2;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-
-	.other-performance-card.no-thumbnail {
-		background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-		padding: 1rem;
-	}
-
-	.other-performance-card.no-thumbnail .other-info {
-		padding: 0;
 	}
 
 	/* Medium badge in title */

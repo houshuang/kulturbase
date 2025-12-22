@@ -1,9 +1,12 @@
 id: 1982
-title: Violin Concerto No. 4
-category: konsert
-type: concerto
+title: Fiolinkonsert nr. 4 i D-dur, K. 218
+original_title: Violin Concerto No. 4
 composer_id: 3252
+category: konsert
+synopsis: Komponert i Salzburg i 1775, er dette den fjerde av Mozarts fem fiolinkonserter.
+  Verket viser tydelig påvirkning fra den franske fiolinstilen, spesielt i den elegante
+  og lekne finalen. Den er høyt skattet av fiolinister for sin balanse mellom teknisk
+  briljans og klassisk eleganse.
 wikidata_id: Q1179589
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Concerto_No._4_(Mozart)
-synopsis: Violin Concerto No. 4 in D major, K. 218, was composed by Wolfgang Amadeus
-  Mozart in 1775 in Salzburg.
+type: concerto

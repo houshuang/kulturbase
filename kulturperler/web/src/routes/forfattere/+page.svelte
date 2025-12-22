@@ -8,14 +8,17 @@
 	interface CreatorWithStats extends Person {
 		work_count: number;
 		performance_count: number;
+		image_url: string | null;
 	}
 
 	interface PersonWithPrograms extends Person {
 		program_count: number;
+		image_url: string | null;
 	}
 
 	interface ConductorWithStats extends Person {
 		performance_count: number;
+		image_url: string | null;
 	}
 
 	type Tab = 'forfattere' | 'komponister' | 'dirigenter' | 'personer';
@@ -48,6 +51,7 @@
 				p.bio,
 				p.wikipedia_url,
 				p.sceneweb_url,
+				p.image_url,
 				COUNT(DISTINCT w.id) as work_count,
 				COUNT(DISTINCT perf.id) as performance_count
 			FROM persons p
@@ -68,10 +72,11 @@
 				bio: row[5],
 				wikipedia_url: row[6],
 				sceneweb_url: row[7],
+				image_url: row[8],
 				wikidata_id: null,
 				sceneweb_id: null,
-				work_count: row[8] || 0,
-				performance_count: row[9] || 0
+				work_count: row[9] || 0,
+				performance_count: row[10] || 0
 			}));
 		}
 
@@ -86,6 +91,7 @@
 				p.bio,
 				p.wikipedia_url,
 				p.sceneweb_url,
+				p.image_url,
 				COUNT(DISTINCT w.id) as work_count,
 				COUNT(DISTINCT perf.id) as performance_count
 			FROM persons p
@@ -106,10 +112,11 @@
 				bio: row[5],
 				wikipedia_url: row[6],
 				sceneweb_url: row[7],
+				image_url: row[8],
 				wikidata_id: null,
 				sceneweb_id: null,
-				work_count: row[8] || 0,
-				performance_count: row[9] || 0
+				work_count: row[9] || 0,
+				performance_count: row[10] || 0
 			}));
 		}
 
@@ -124,6 +131,7 @@
 				p.bio,
 				p.wikipedia_url,
 				p.sceneweb_url,
+				p.image_url,
 				COUNT(DISTINCT pp.performance_id) as performance_count
 			FROM persons p
 			JOIN performance_persons pp ON pp.person_id = p.id
@@ -143,9 +151,10 @@
 				bio: row[5],
 				wikipedia_url: row[6],
 				sceneweb_url: row[7],
+				image_url: row[8],
 				wikidata_id: null,
 				sceneweb_id: null,
-				performance_count: row[8] || 0
+				performance_count: row[9] || 0
 			}));
 		}
 
@@ -160,6 +169,7 @@
 				p.bio,
 				p.wikipedia_url,
 				p.sceneweb_url,
+				p.image_url,
 				COUNT(DISTINCT nap.id) as program_count
 			FROM persons p
 			JOIN nrk_about_programs nap ON nap.person_id = p.id
@@ -180,9 +190,10 @@
 				bio: row[5],
 				wikipedia_url: row[6],
 				sceneweb_url: row[7],
+				image_url: row[8],
 				wikidata_id: null,
 				sceneweb_id: null,
-				program_count: row[8] || 0
+				program_count: row[9] || 0
 			}));
 		}
 
@@ -246,6 +257,11 @@
 			<div class="creators-grid">
 				{#each playwrights as creator}
 					<a href="/person/{creator.id}" class="creator-card">
+						{#if creator.image_url}
+							<div class="creator-image">
+								<img src={creator.image_url} alt={creator.name} loading="lazy" />
+							</div>
+						{/if}
 						<div class="creator-info">
 							<h3>{creator.name}</h3>
 							{#if creator.birth_year || creator.death_year}
@@ -270,6 +286,11 @@
 			<div class="creators-grid">
 				{#each composers as creator}
 					<a href="/person/{creator.id}" class="creator-card">
+						{#if creator.image_url}
+							<div class="creator-image">
+								<img src={creator.image_url} alt={creator.name} loading="lazy" />
+							</div>
+						{/if}
 						<div class="creator-info">
 							<h3>{creator.name}</h3>
 							{#if creator.birth_year || creator.death_year}
@@ -294,6 +315,11 @@
 			<div class="creators-grid">
 				{#each conductors as conductor}
 					<a href="/person/{conductor.id}" class="creator-card">
+						{#if conductor.image_url}
+							<div class="creator-image">
+								<img src={conductor.image_url} alt={conductor.name} loading="lazy" />
+							</div>
+						{/if}
 						<div class="creator-info">
 							<h3>{conductor.name}</h3>
 							{#if conductor.birth_year || conductor.death_year}
@@ -314,6 +340,11 @@
 			<div class="creators-grid">
 				{#each personsWithPrograms as person}
 					<a href="/person/{person.id}" class="creator-card">
+						{#if person.image_url}
+							<div class="creator-image">
+								<img src={person.image_url} alt={person.name} loading="lazy" />
+							</div>
+						{/if}
 						<div class="creator-info">
 							<h3>{person.name}</h3>
 							{#if person.birth_year || person.death_year}
@@ -404,14 +435,14 @@
 	.creator-card {
 		background: white;
 		border-radius: 8px;
-		padding: 1.25rem;
+		padding: 0.75rem;
 		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 		text-decoration: none;
 		color: inherit;
 		transition: transform 0.2s, box-shadow 0.2s;
 		display: flex;
-		justify-content: space-between;
-		align-items: flex-start;
+		gap: 0.75rem;
+		align-items: center;
 	}
 
 	.creator-card:hover {
@@ -419,21 +450,45 @@
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 	}
 
+	.creator-image {
+		width: 48px;
+		height: 48px;
+		border-radius: 50%;
+		overflow: hidden;
+		flex-shrink: 0;
+		background: #eee;
+	}
+
+	.creator-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.creator-info {
+		flex: 1;
+		min-width: 0;
+	}
+
 	.creator-info h3 {
-		font-size: 1.1rem;
-		margin-bottom: 0.25rem;
+		font-size: 1rem;
+		margin-bottom: 0.1rem;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 
 	.lifespan {
 		color: #666;
-		font-size: 0.9rem;
+		font-size: 0.8rem;
 		margin: 0;
 	}
 
 	.creator-stats {
 		display: flex;
-		gap: 1rem;
+		gap: 0.75rem;
 		text-align: center;
+		flex-shrink: 0;
 	}
 
 	.stat-item {
@@ -442,13 +497,13 @@
 	}
 
 	.stat-value {
-		font-size: 1.25rem;
+		font-size: 1.1rem;
 		font-weight: bold;
 		color: #1a1a2e;
 	}
 
 	.stat-label {
-		font-size: 0.7rem;
+		font-size: 0.65rem;
 		color: #888;
 		text-transform: uppercase;
 	}

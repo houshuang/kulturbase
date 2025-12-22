@@ -3,7 +3,9 @@ work_id: 1430
 source: youtube
 medium: stream
 title: 'Pyotr Tchaikovsky: Symphony No. 5'
-credits: []
+credits:
+- person_id: 4257
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

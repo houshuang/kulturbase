@@ -1,12 +1,13 @@
 id: 2187
-title: Amadeus
+title: Amadeus (skuespill og film)
+original_title: Amadeus
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Dette er ikke et musikalsk verk av Mozart, men tittelen på et berømt skuespill
+  av Peter Shaffer (1979) og en Oscar-vinnende film av Miloš Forman (1984). Handlingen
+  er en fiksjonalisert fortelling om forholdet og rivaliseringen mellom Mozart og
+  hoffkomponisten Antonio Salieri. Musikken i filmen består utelukkende av Mozarts
+  egne komposisjoner.
 wikidata_id: Q190956
 wikipedia_url: https://en.wikipedia.org/wiki/Amadeus_(film)
-synopsis: Amadeus is a 1984 American period drama film directed by Miloš Forman. Peter
-  Shaffer adapted it from his 1979 stage play, inspired by Alexander Pushkin's 1830
-  play Mozart and Salieri. Shaffer described it as a "fantasia on [a real-life] theme",
-  as it imagines a rivalry between two 18th-century Vienna composers, Wolfgang Amadeus
-  Mozart and Antonio Salieri.
-composer_id: 3252
+type: orchestral

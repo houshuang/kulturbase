@@ -1,9 +1,12 @@
 id: 2063
-title: Symphony No. 28
-category: konsert
-type: symphony
+title: Symfoni nr. 28 i C-dur, K. 200
+original_title: Symphony No. 28
 composer_id: 3252
+category: konsert
+synopsis: Denne symfonien ble komponert i Salzburg i 1774 og er et av de fremste eksemplene
+  på Mozarts tidlige symfoniske stil. Verket er preget av italiensk innflytelse med
+  en livlig og galant atmosfære gjennom alle fire satsene. Den inneholder en spesielt
+  elegant menuett og en sprudlende finale.
 wikidata_id: Q220709
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._28_(Mozart)
-synopsis: The Symphony No. 28 in C major, K. 200/189k, by Wolfgang Amadeus Mozart
-  is his last piece in the "Salzburg series".
+type: symphony

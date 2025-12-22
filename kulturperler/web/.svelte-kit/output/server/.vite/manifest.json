@@ -191,7 +191,7 @@
       "_state.svelte.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CZBcIFJ3.css"
+      "_app/immutable/assets/_page.BDvK2A9L.css"
     ]
   },
   "src/routes/konserter/+page.svelte": {
@@ -282,7 +282,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.C5n5p_Vl.css"
+      "_app/immutable/assets/_page.DIIA2xo-.css"
     ]
   },
   "src/routes/persons/+page.svelte": {

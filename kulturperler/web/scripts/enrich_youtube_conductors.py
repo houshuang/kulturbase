@@ -1,366 +1,302 @@
 #!/usr/bin/env python3
 """
-Extract conductor names from YouTube concert titles and add them to performance credits.
+Enrich YouTube performances with conductor data using Gemini 3 Flash with Google Search.
 
-YouTube titles typically follow pattern: "Work / Composer / Conductor / Orchestra"
-e.g., "Symphony No. 5 / Ralph Vaughan Williams / Vasily Petrenko / Oslo Philharmonic"
+This script:
+1. Loads YouTube performances that are orchestral types without conductors
+2. Uses Gemini with Google Search to find conductor information
+3. Looks up or creates person entries in data/persons/
+4. Updates performance YAML files with conductor credits
 """
 
-import sqlite3
-import yaml
-import re
 import os
-from pathlib import Path
-from typing import Optional, Dict, List, Tuple
-from dotenv import load_dotenv
+import sys
+import yaml
 import requests
 import time
+import re
+from pathlib import Path
+from dotenv import load_dotenv
 
+# Load environment
 load_dotenv()
+API_KEY = os.getenv('GEMINI_KEY')
+if not API_KEY:
+    print("Error: GEMINI_KEY not found in .env")
+    sys.exit(1)
 
 DATA_DIR = Path('data')
-DB_PATH = Path('static/kulturperler.db')
-GEMINI_KEY = os.getenv('GEMINI_KEY')
+PERFORMANCES_DIR = DATA_DIR / 'performances'
+PERSONS_DIR = DATA_DIR / 'persons'
+WORKS_DIR = DATA_DIR / 'plays'
+EPISODES_DIR = DATA_DIR / 'episodes'
 
-def load_yaml(path: Path):
-    with open(path) as f:
+# Work types that typically have conductors
+ORCHESTRAL_TYPES = ['symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'choral', 'oratorio']
+
+def load_yaml(path):
+    """Load YAML file."""
+    with open(path, encoding='utf-8') as f:
         return yaml.safe_load(f)
 
-def save_yaml(path: Path, data):
-    with open(path, 'w') as f:
-        yaml.dump(data, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+def save_yaml(path, data):
+    """Save YAML file, excluding internal fields."""
+    clean_data = {k: v for k, v in data.items() if not k.startswith('_')}
+    with open(path, 'w', encoding='utf-8') as f:
+        yaml.dump(clean_data, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
-def get_youtube_performances_without_conductor() -> List[Tuple[int, str]]:
-    """Get YouTube performances without conductor credits."""
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+def search_conductor_with_gemini(title, work_title, year, youtube_url=None):
+    """Use Gemini with Google Search to find conductor information."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={API_KEY}"
 
-    cursor.execute("""
-        SELECT p.id, p.title
-        FROM performances p
-        WHERE p.source='youtube'
-        AND NOT EXISTS (
-            SELECT 1 FROM performance_persons pp
-            WHERE pp.performance_id = p.id AND pp.role='conductor'
-        )
-        ORDER BY p.id
-    """)
+    search_terms = []
+    if youtube_url:
+        search_terms.append(f"YouTube URL: {youtube_url}")
+    search_terms.append(f"Title: {title}")
+    if work_title and work_title != title:
+        search_terms.append(f"Work: {work_title}")
+    search_terms.append(f"Year: {year}")
 
-    results = cursor.fetchall()
-    conn.close()
-    return results
+    context = "\n".join(search_terms)
 
-def extract_conductor_from_title(title: str) -> Optional[str]:
-    """
-    Extract conductor name from YouTube concert title.
-    Pattern: Usually "Work / Composer / Conductor / Orchestra"
-    """
-    # Split by slash
-    parts = [p.strip() for p in title.split('/')]
+    query = f"""Find the conductor (dirigent) for this orchestral concert recording:
+{context}
 
-    if len(parts) < 3:
-        return None
+Search for the conductor who led this performance. Look for orchestra conductor credits.
+Note: Some performances may be chamber music or solo recordings without a conductor.
 
-    # Orchestra keywords to identify orchestra position
-    orchestra_keywords = ['Orchestra', 'Philharmonic', 'Symphony', 'Ensemble', 'Choir', 'Phil.', 'Phil']
+Respond with ONLY ONE of these formats:
+- The conductor's full name (e.g., "Edward Gardner")
+- "NO_CONDUCTOR" if this is chamber music, solo, or small ensemble without conductor
+- "NOT_FOUND" if you cannot determine the conductor
 
-    # Find the orchestra position (usually last part)
-    orchestra_idx = None
-    for i in range(len(parts) - 1, 0, -1):
-        if any(kw in parts[i] for kw in orchestra_keywords):
-            orchestra_idx = i
-            break
-
-    if orchestra_idx is None:
-        # No orchestra found, conductor might be last part if there are 3+ parts
-        if len(parts) >= 3:
-            return parts[-1]
-        return None
-
-    # Conductor is likely the part before orchestra
-    if orchestra_idx > 1:
-        conductor_candidate = parts[orchestra_idx - 1]
-
-        # Filter out common composer last names that might be confused
-        common_composers = [
-            'Mozart', 'Beethoven', 'Bach', 'Brahms', 'Wagner', 'Verdi',
-            'Tchaikovsky', 'Mahler', 'Strauss', 'Debussy', 'Ravel',
-            'Sibelius', 'Dvořák', 'Dvorak', 'Rachmaninoff',
-            'Shostakovich', 'Stravinsky', 'Prokofiev', 'Bartók', 'Bartok',
-            'Mendelssohn', 'Schumann', 'Chopin', 'Liszt', 'Vivaldi',
-            'Handel', 'Haydn', 'Schubert', 'Berlioz', 'Saint-Saëns',
-            'Britten', 'Copland',
-            'Svendsen', 'Halvorsen', 'Valen', 'Nordheim', 'Sinding',
-            'Lully', 'Berio', 'Glass', 'Mussorgsky',
-            'Korngold', 'Purcell', 'Orff', 'Dessner', 'Chin', 'Zinovjev',
-            'Henriette'  # Mette Henriette is a composer
-        ]
-
-        # Check if this looks like a person name (has space or hyphen)
-        # This will match most conductor names like "Klaus Mäkelä", "Herbert Blomstedt", etc.
-        if len(conductor_candidate) < 50:
-            # Check if it contains a composer last name (exact match)
-            is_composer = any(comp in conductor_candidate.split() for comp in common_composers)
-
-            if not is_composer:
-                # Additional check: if it has 2-3 parts and looks like a name, accept it
-                name_parts = conductor_candidate.split()
-                if 1 <= len(name_parts) <= 3:
-                    return conductor_candidate
-
-    return None
-
-def find_person_by_name(name: str) -> Optional[int]:
-    """Search for person by name in database (case-insensitive)."""
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-
-    normalized_search = name.lower().strip()
-
-    # Try exact match first
-    cursor.execute(
-        "SELECT id, name FROM persons WHERE LOWER(name) = ? OR LOWER(normalized_name) = ?",
-        (normalized_search, normalized_search)
-    )
-    row = cursor.fetchone()
-    if row:
-        conn.close()
-        return row[0]
-
-    # Try partial match (last name)
-    last_name_search = normalized_search.split()[-1] if ' ' in normalized_search else normalized_search
-
-    cursor.execute(
-        "SELECT id, name FROM persons WHERE LOWER(name) LIKE ? OR LOWER(normalized_name) LIKE ?",
-        (f'%{last_name_search}%', f'%{last_name_search}%')
-    )
-    rows = cursor.fetchall()
-    conn.close()
-
-    # If single match, return it
-    if len(rows) == 1:
-        return rows[0][0]
-
-    # If multiple matches, print them for manual review
-    if len(rows) > 1:
-        print(f"    Multiple matches for '{name}':")
-        for row in rows[:5]:
-            print(f"      - {row[1]} (ID: {row[0]})")
-
-    return None
-
-def get_next_person_id() -> int:
-    """Get next available person ID from filesystem (not database)."""
-    person_files = list((DATA_DIR / 'persons').glob('*.yaml'))
-    if not person_files:
-        return 1
-    max_id = max([int(f.stem) for f in person_files])
-    return max_id + 1
-
-def verify_conductor_with_gemini(name: str, title: str, skip_gemini: bool = False) -> Tuple[bool, Optional[Dict]]:
-    """
-    Use Gemini with Google Search to verify conductor and get basic info.
-    Returns (is_conductor, info_dict)
-    """
-    if not GEMINI_KEY or skip_gemini:
-        return True, None  # Skip verification if no key or skip flag
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key={GEMINI_KEY}"
-
-    prompt = f"""Search for "{name}" and determine if they are a conductor.
-Context: This name was extracted from a concert video title: "{title}"
-
-Reply with EXACTLY this format:
-CONDUCTOR: yes/no
-NAME: [full proper name if yes]
-BIRTH_YEAR: [year or unknown]
-DEATH_YEAR: [year or unknown]
-NATIONALITY: [nationality or unknown]
-
-If not a conductor, just reply "CONDUCTOR: no"."""
+Just the name or status, nothing else."""
 
     payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
+        "contents": [{"parts": [{"text": query}]}],
         "tools": [{"google_search": {}}],
         "generationConfig": {"temperature": 0.1}
     }
 
     try:
-        r = requests.post(url, json=payload, timeout=30)
+        r = requests.post(url, json=payload, timeout=60)
         r.raise_for_status()
+        result = r.json()
 
-        response_text = r.json()['candidates'][0]['content']['parts'][0]['text']
-
-        if 'CONDUCTOR: no' in response_text:
-            return False, None
-
-        # Parse response
-        info = {}
-        for line in response_text.split('\n'):
-            line = line.strip()
-            if line.startswith('NAME:'):
-                info['name'] = line.split(':', 1)[1].strip()
-            elif line.startswith('BIRTH_YEAR:'):
-                year_str = line.split(':', 1)[1].strip()
-                if year_str.isdigit():
-                    info['birth_year'] = int(year_str)
-            elif line.startswith('DEATH_YEAR:'):
-                year_str = line.split(':', 1)[1].strip()
-                if year_str.isdigit():
-                    info['death_year'] = int(year_str)
-            elif line.startswith('NATIONALITY:'):
-                nat = line.split(':', 1)[1].strip()
-                if nat.lower() != 'unknown':
-                    info['nationality'] = nat
-
-        return True, info if info else None
-
+        if 'candidates' in result and len(result['candidates']) > 0:
+            candidate = result['candidates'][0]
+            if 'content' in candidate and 'parts' in candidate['content']:
+                parts = candidate['content']['parts']
+                text_parts = [p['text'] for p in parts if 'text' in p]
+                return '\n'.join(text_parts).strip() if text_parts else None
+        return None
     except Exception as e:
-        print(f"  Error verifying with Gemini: {e}")
-        # If rate limited, skip verification and accept conductor
-        if '429' in str(e) or 'Too Many Requests' in str(e):
-            return True, None
-        return False, None
+        print(f"  Error calling Gemini: {e}")
+        return None
 
-def create_person(name: str, info: Optional[Dict] = None, dry_run: bool = True) -> int:
-    """Create new person file."""
-    person_id = get_next_person_id()
+def get_works():
+    """Load all works into a lookup dictionary."""
+    works = {}
+    for work_file in WORKS_DIR.glob('*.yaml'):
+        work = load_yaml(work_file)
+        works[work['id']] = work
+    return works
 
-    person_data = {
-        'id': person_id,
-        'name': info.get('name', name) if info else name,
-        'normalized_name': (info.get('name', name) if info else name).lower()
-    }
+def get_youtube_performances(works):
+    """Get YouTube performances that are orchestral types without conductors."""
+    performances = []
 
-    if info:
-        if 'birth_year' in info:
-            person_data['birth_year'] = info['birth_year']
-        if 'death_year' in info:
-            person_data['death_year'] = info['death_year']
-        if 'nationality' in info:
-            person_data['nationality'] = info['nationality']
+    for perf_file in sorted(PERFORMANCES_DIR.glob('*.yaml')):
+        perf = load_yaml(perf_file)
 
-    if dry_run:
-        print(f"  [DRY RUN] Would create person {person_id}: {person_data['name']}")
-    else:
-        person_file = DATA_DIR / 'persons' / f'{person_id}.yaml'
-        save_yaml(person_file, person_data)
-        print(f"  Created person {person_id}: {person_data['name']}")
-
-    return person_id
-
-def add_conductor_credit(performance_id: int, person_id: int, dry_run: bool = True):
-    """Add conductor credit to performance YAML file."""
-    perf_file = DATA_DIR / 'performances' / f'{performance_id}.yaml'
-
-    if not perf_file.exists():
-        print(f"  Warning: Performance file {perf_file} not found")
-        return
-
-    perf = load_yaml(perf_file)
-
-    # Initialize credits if not present
-    if 'credits' not in perf or perf['credits'] is None:
-        perf['credits'] = []
-
-    # Check if conductor already exists
-    for credit in perf['credits']:
-        if credit.get('person_id') == person_id and credit.get('role') == 'conductor':
-            print(f"  Conductor already exists in performance {performance_id}")
-            return
-
-    # Add conductor credit
-    perf['credits'].append({
-        'person_id': person_id,
-        'role': 'conductor'
-    })
-
-    if dry_run:
-        print(f"  [DRY RUN] Would add conductor credit to performance {performance_id}")
-    else:
-        save_yaml(perf_file, perf)
-        print(f"  Added conductor credit to performance {performance_id}")
-
-def main():
-    import argparse
-
-    parser = argparse.ArgumentParser(description='Enrich YouTube concerts with conductor data')
-    parser.add_argument('--live', action='store_true', help='Actually modify files (default is dry run)')
-    parser.add_argument('--limit', type=int, default=50, help='Process only first N performances (default: 50)')
-    parser.add_argument('--skip-gemini', action='store_true', help='Skip Gemini verification (faster but less accurate)')
-
-    args = parser.parse_args()
-
-    print("Enriching YouTube concerts with conductor data...")
-    print(f"Mode: {'LIVE' if args.live else 'DRY RUN'}")
-    print(f"Gemini verification: {'DISABLED' if args.skip_gemini else 'ENABLED'}")
-    print()
-
-    performances = get_youtube_performances_without_conductor()
-    print(f"Found {len(performances)} YouTube performances without conductor credits")
-    print(f"Processing first {args.limit} performances...")
-    print()
-
-    # Process in batches
-    processed = 0
-    added = 0
-    skipped = 0
-
-    for perf_id, title in performances[:args.limit]:
-        processed += 1
-        print(f"[{processed}/{min(args.limit, len(performances))}] {title[:80]}...")
-
-        # Extract conductor name
-        conductor_name = extract_conductor_from_title(title)
-
-        if not conductor_name:
-            print(f"  Could not extract conductor from title")
-            skipped += 1
+        if perf.get('source') != 'youtube':
             continue
 
-        print(f"  Extracted conductor: {conductor_name}")
-
-        # Check if person already exists
-        person_id = find_person_by_name(conductor_name)
-
-        if person_id:
-            print(f"  Found existing person: {person_id}")
+        work_id = perf.get('work_id')
+        if work_id and work_id in works:
+            work = works[work_id]
+            work_type = work.get('work_type')
+            if work_type not in ORCHESTRAL_TYPES:
+                continue
+            perf['_work'] = work
         else:
-            # Verify with Gemini if enabled
-            if not args.skip_gemini:
-                print(f"  Verifying with Gemini...")
-                is_conductor, info = verify_conductor_with_gemini(conductor_name, title, skip_gemini=False)
+            continue
 
-                if not is_conductor:
-                    print(f"  Not confirmed as conductor, skipping")
-                    skipped += 1
-                    time.sleep(2)  # Rate limiting
-                    continue
+        credits = perf.get('credits', [])
+        has_conductor = any(c.get('role') == 'conductor' for c in credits)
+        if has_conductor:
+            continue
 
-                person_id = create_person(conductor_name, info, dry_run=not args.live)
-                time.sleep(2)  # Rate limiting
+        perf['_file'] = perf_file
+        performances.append(perf)
+
+    return performances
+
+def get_youtube_url(perf_id):
+    """Get YouTube URL for a performance from its episodes."""
+    for ep_file in EPISODES_DIR.glob('*.yaml'):
+        ep = load_yaml(ep_file)
+        if ep.get('performance_id') == perf_id:
+            return ep.get('youtube_url')
+    return None
+
+def get_all_persons():
+    """Load all persons into a lookup dictionary."""
+    persons = {}
+    for person_file in PERSONS_DIR.glob('*.yaml'):
+        person = load_yaml(person_file)
+        persons[person['id']] = person
+        person['_file'] = person_file
+    return persons
+
+def find_person_by_name(name, persons):
+    """Find a person by name (case-insensitive)."""
+    name_lower = name.lower().strip()
+    for person in persons.values():
+        person_name = person.get('name', '').lower().strip()
+        normalized_name = person.get('normalized_name', '').lower().strip()
+        if person_name == name_lower or normalized_name == name_lower:
+            return person
+    return None
+
+def get_next_person_id(persons):
+    """Get next available person ID."""
+    if not persons:
+        return 1
+    return max(persons.keys()) + 1
+
+def create_person(name, persons):
+    """Create a new person entry."""
+    person_id = get_next_person_id(persons)
+    person = {
+        'id': person_id,
+        'name': name,
+        'normalized_name': name.lower()
+    }
+    person_file = PERSONS_DIR / f"{person_id}.yaml"
+    save_yaml(person_file, person)
+    persons[person_id] = person
+    person['_file'] = person_file
+    print(f"  Created new person: {name} (ID: {person_id})")
+    return person
+
+def extract_conductor_name(response):
+    """Extract conductor name from Gemini response."""
+    if not response:
+        return None
+
+    response = response.strip()
+    response_upper = response.upper()
+
+    if 'NO_CONDUCTOR' in response_upper or 'NOT_FOUND' in response_upper:
+        return None
+    if 'CHAMBER' in response_upper or 'SOLO' in response_upper:
+        return None
+
+    lines = response.split('\n')
+    name = lines[0].strip().strip('"\'')
+
+    if len(name.split()) < 2:
+        return None
+    if any(c in name for c in [':', '(', ')', '[', ']', '{', '}', '|', '/']):
+        return None
+    if len(name) > 50:
+        return None
+
+    return name
+
+def main():
+    print("Enriching YouTube performances with conductor data...")
+    print("=" * 70)
+    print()
+
+    print("Loading data...")
+    works = get_works()
+    performances = get_youtube_performances(works)
+    persons = get_all_persons()
+
+    print(f"Found {len(performances)} YouTube orchestral performances without conductors")
+    print(f"Found {len(persons)} persons in database")
+    print()
+
+    if not performances:
+        print("No performances to process!")
+        return
+
+    enriched = 0
+    skipped_no_conductor = 0
+    skipped_not_found = 0
+    errors = 0
+
+    for i, perf in enumerate(performances, 1):
+        perf_id = perf['id']
+        title = perf.get('title', '')
+        year = perf.get('year', '')
+        work = perf.get('_work', {})
+        work_title = work.get('title', '')
+        work_type = work.get('work_type', '')
+
+        print(f"[{i}/{len(performances)}]")
+        print(f"Processing: {title} ({year}) [{work_type}]")
+
+        youtube_url = get_youtube_url(perf_id)
+        if youtube_url:
+            print(f"  YouTube: {youtube_url}")
+
+        print(f"  Searching for conductor...")
+        response = search_conductor_with_gemini(title, work_title, year, youtube_url)
+
+        if not response:
+            print(f"  No response from Gemini")
+            errors += 1
+            time.sleep(2)
+            continue
+
+        print(f"  Gemini response: {response[:100]}...")
+
+        conductor_name = extract_conductor_name(response)
+
+        if not conductor_name:
+            if 'NO_CONDUCTOR' in response.upper() or 'CHAMBER' in response.upper():
+                print(f"  -> No conductor (chamber/solo music)")
+                skipped_no_conductor += 1
             else:
-                # Create without verification
-                person_id = create_person(conductor_name, dry_run=not args.live)
+                print(f"  -> Could not find conductor")
+                skipped_not_found += 1
+            time.sleep(1)
+            continue
 
-        # Add conductor credit
-        add_conductor_credit(perf_id, person_id, dry_run=not args.live)
-        added += 1
+        print(f"  Found conductor: {conductor_name}")
+
+        person = find_person_by_name(conductor_name, persons)
+        if person:
+            print(f"  Found existing person: {person['name']} (ID: {person['id']})")
+        else:
+            person = create_person(conductor_name, persons)
+
+        credits = perf.get('credits', [])
+        credits.append({
+            'person_id': person['id'],
+            'role': 'conductor'
+        })
+        perf['credits'] = credits
+
+        save_yaml(perf['_file'], perf)
+        print(f"  ✓ Updated performance with conductor")
+        enriched += 1
+
+        time.sleep(1.5)
         print()
 
     print()
-    print("=" * 80)
+    print("=" * 70)
     print(f"Summary:")
-    print(f"  Processed: {processed}")
-    print(f"  Added conductor credits: {added}")
-    print(f"  Skipped: {skipped}")
+    print(f"  Enriched with conductor: {enriched}")
+    print(f"  No conductor (chamber/solo): {skipped_no_conductor}")
+    print(f"  Conductor not found: {skipped_not_found}")
+    print(f"  Errors: {errors}")
     print()
-    if not args.live:
-        print("This was a DRY RUN. Use --live to actually modify files.")
-        print()
-    print("After running with --live:")
-    print("  1. Run 'python3 scripts/validate_data.py' to validate changes")
-    print("  2. Run 'python3 scripts/build_database.py' to rebuild database")
+    print("Run 'python3 scripts/build_database.py' to rebuild the database.")
 
 if __name__ == '__main__':
     main()

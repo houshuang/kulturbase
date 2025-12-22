@@ -1,10 +1,13 @@
 id: 2389
-title: Der Messias
+title: Der Messias, K. 572
+original_title: Der Messias
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Dette er Mozarts tyskspråklige bearbeidelse av Georg Friedrich Händels berømte
+  oratorium «Messias», utført i 1789. Mozart moderniserte instrumenteringen ved å
+  legge til treblåsere og tromboner for å tilpasse verket til wienerklassisismens
+  klangidealer. Selv om teksten er oversatt til tysk, beholdt han Händels grunnleggende
+  musikalske struktur.
 wikidata_id: Q41033761
 wikipedia_url: https://en.wikipedia.org/wiki/Der_Messias
-synopsis: Der Messias, K. 572, is Wolfgang Amadeus Mozart's 1789 German-language version
-  of Messiah, George Frideric Handel's 1741 oratorio. On the initiative of Gottfried
-  van Swieten, Mozart adapted Handel's work for performances in Vienna..
-composer_id: 3252
+type: orchestral

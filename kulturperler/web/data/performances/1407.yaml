@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2022
 description: 'Bergen Filharmoniske Orkester. Komponist: Mahler. Innspilt: 2022-12-02'
-credits: []
+credits:
+- person_id: 4255
+  role: conductor

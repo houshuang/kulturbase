@@ -1,7 +1,10 @@
 id: 1282
 name: Georges Simenon
 normalized_name: georges simenon
-bio: |-
-  Georges Joseph Christian Simenon var en belgisk forfatter som skrev på fransk. Han er særlig kjent for Maigret-bøkene.
-  Han skrev 75 romaner og 28 noveller med Maigret og i tillegg minst 117 romaner og 134 noveller.
+bio: 'Georges Joseph Christian Simenon var en belgisk forfatter som skrev på fransk.
+  Han er særlig kjent for Maigret-bøkene.
+
+  Han skrev 75 romaner og 28 noveller med Maigret og i tillegg minst 117 romaner og
+  134 noveller.'
 wikipedia_url: https://no.wikipedia.org/wiki/Georges_Simenon
+image_url: /images/persons/1282.jpg

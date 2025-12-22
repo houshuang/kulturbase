@@ -3,7 +3,9 @@ work_id: 1340
 source: youtube
 medium: stream
 title: 'Grieg: Piano Concerto, II Adagio (Gimse, Vasquez, Stavanger Symphony)'
-credits: []
+credits:
+- person_id: 4312
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

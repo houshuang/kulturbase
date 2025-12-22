@@ -1,9 +1,12 @@
 id: 2338
-title: Ave verum corpus
+title: Ave verum corpus, K. 618
+original_title: Ave verum corpus
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Dette er en motett for blandet kor, strykere og orgel, komponert i juni
+  1791, bare måneder før Mozarts død. Verket ble skrevet til festen for Kristi legems-
+  og blods høytid for vennen Anton Stoll. Det er verdenskjent for sin enkle, men dypt
+  rørende harmonikk og vakre melodilinjer.
 wikidata_id: Q955663
 wikipedia_url: https://en.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)
-synopsis: Ave verum corpus, K. 618, is a motet in D major composed by Wolfgang Amadeus
-  Mozart in 1791. It is a setting of the Latin hymn of the same name.
-composer_id: 3252
+type: orchestral

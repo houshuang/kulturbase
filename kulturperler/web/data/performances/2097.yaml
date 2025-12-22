@@ -3,7 +3,9 @@ work_id: 977
 source: youtube
 medium: stream
 title: Dvorak symphony no. 8 - Stavanger Symphony Orchestra - Christian Vasquez
-credits: []
+credits:
+- person_id: 4312
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

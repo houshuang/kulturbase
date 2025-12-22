@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2022
 description: 'Bergen Filharmoniske Orkester. Komponist: Matre. Innspilt: 2022-06-13'
-credits: []
+credits:
+- person_id: 4267
+  role: conductor

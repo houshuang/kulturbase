@@ -1,12 +1,12 @@
 id: 1771
-title: Violin Concerto No. 1
+title: Fiolinkonsert nr. 1 i B-dur, K. 207
+original_title: Violin Concerto No. 1
+composer_id: 3252
 category: konsert
-type: concerto
+synopsis: Dette er den første av de fem fiolinkonsertene Mozart skrev i Salzburg,
+  sannsynligvis rundt 1773 eller 1775. Verket følger den klassiske tre-sats-strukturen
+  og er preget av en lys og energisk karakter. Selv om den er mindre teknisk krevende
+  enn de senere konsertene, viser den Mozarts tidlige mestring av soloinstrumentet.
 wikidata_id: Q426917
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Mozart)
-synopsis: Wolfgang Amadeus Mozart's Violin Concerto No. 1 in B♭ major, K. 207, once
-  was supposed to have been composed in 1775, along with his other four violin concertos.
-  However, analysis of handwriting and the manuscript paper on which the concerto
-  was written suggest that the date of composition might have been 1773, specifically
-  with a completion date of April 1773.
-composer_id: 3252
+type: concerto

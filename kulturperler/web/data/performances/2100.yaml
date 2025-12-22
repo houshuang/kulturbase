@@ -3,7 +3,9 @@ work_id: 1068
 source: youtube
 medium: stream
 title: 'Mozart: Symphony nr 36 Linz, IV presto (Biondi, Stavanger Symphony)'
-credits: []
+credits:
+- person_id: 4248
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

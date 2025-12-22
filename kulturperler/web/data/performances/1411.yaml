@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2022
 description: 'Bergen Filharmoniske Orkester. Komponist: Vaage. Innspilt: 2022-10-06'
-credits: []
+credits:
+- person_id: 4209
+  role: conductor

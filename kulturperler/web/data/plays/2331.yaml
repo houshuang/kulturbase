@@ -1,10 +1,13 @@
 id: 2331
-title: Eine kleine Nachtmusik
+title: Eine kleine Nachtmusik (Serenade nr. 13 for strykere i G-dur), K. 525
+original_title: Eine kleine Nachtmusik
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Komponert i 1787, er dette et av Mozarts mest gjenkjennelige og populære
+  verk. Det ble skrevet for en strykekvintett eller et lite strykeorkester og var
+  opprinnelig ment som underholdningsmusikk for sosiale lag. Verket består i dag av
+  fire satser, selv om Mozarts egne nedtegnelser tyder på at det opprinnelig hadde
+  fem.
 wikidata_id: Q12025
 wikipedia_url: https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik
-synopsis: Eine kleine Nachtmusik, K. 525, is a 1787 composition for a chamber ensemble
-  by Wolfgang Amadeus Mozart (1756–1791). The German title means "a little night music"
-  and it is one of the most famous pieces of classical music..
-composer_id: 3252
+type: orchestral

@@ -1,13 +1,12 @@
 id: 1984
-title: Violin Concerto No. 3
-category: konsert
-type: concerto
+title: Fiolinkonsert nr. 3 i G-dur, K. 216
+original_title: Violin Concerto No. 3
 composer_id: 3252
+category: konsert
+synopsis: Denne konserten ble komponert i Salzburg i 1775 da Mozart var 19 år gammel.
+  Den er ofte kjent som «Strassburg-konserten» på grunn av et tema i finalen som minner
+  om en lokal dans fra området. Verket er berømt for sin lyriske adagio-sats og viser
+  Mozarts raske utvikling som komponist for strykeinstrumenter.
 wikidata_id: Q544205
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Concerto_No._3_(Mozart)
-synopsis: The Violin Concerto No. 3 in G major, K. 216, was composed by Wolfgang Amadeus
-  Mozart in Salzburg in 1775 when he was 19 years old. In a letter to his father,
-  Mozart called it the "Straßburg-Concert". Researchers believe this epithet comes
-  from the motive in the third movement's Allegretto in the central section, a local
-  dance that already had appeared as a musette-imitating tune in a symphony by Carl
-  Ditters von Dittersdorf..
+type: concerto

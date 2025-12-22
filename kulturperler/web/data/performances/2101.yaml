@@ -3,7 +3,9 @@ work_id: 1450
 source: youtube
 medium: stream
 title: 'Grieg: Peer Gynt Suite nr 2, Ingrid''s lament (Vasquez, Stavanger Symphony)'
-credits: []
+credits:
+- person_id: 4312
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

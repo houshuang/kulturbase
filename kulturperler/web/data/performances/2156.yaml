@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: Beethoven - Symphony No. 3 "Eroica" - Krzysztof Urbanski & Trondheim Symphony
   Orchestra
-credits: []
+credits:
+- person_id: 3873
+  role: conductor
 institutions:
 - institution_id: 5
   role: orchestra

@@ -348,6 +348,11 @@
 
 		<header class="person-header">
 			<div class="header-content">
+				{#if person.image_url}
+					<div class="person-portrait">
+						<img src={person.image_url} alt={person.name} />
+					</div>
+				{/if}
 				<div class="header-text">
 					<h1>{person.name}</h1>
 					{#if person.birth_year || person.death_year}
@@ -585,6 +590,22 @@
 		display: flex;
 		gap: 1.5rem;
 		align-items: flex-start;
+	}
+
+	.person-portrait {
+		width: 120px;
+		height: 120px;
+		border-radius: 50%;
+		overflow: hidden;
+		flex-shrink: 0;
+		background: #eee;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+	}
+
+	.person-portrait img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
 	}
 
 	.header-text {

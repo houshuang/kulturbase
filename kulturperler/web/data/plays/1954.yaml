@@ -1,11 +1,12 @@
 id: 1954
-title: Adagio and Fugue in C minor
-category: konsert
-type: orchestral
+title: Adagio og fuge i c-moll, K. 546
+original_title: Adagio and Fugue in C minor
 composer_id: 3252
+category: konsert
+synopsis: Dette verket for strykere ble ferdigstilt i 1788. Fugedelen ble opprinnelig
+  skrevet for to klaverer i 1783 (K. 426), men Mozart la senere til en dyster og dramatisk
+  adagio-innledning for strykere. Verket viser Mozarts dype fascinasjon for og mestring
+  av Johann Sebastian Bachs kontrapunktiske stil.
 wikidata_id: Q831316
 wikipedia_url: https://en.wikipedia.org/wiki/Adagio_and_Fugue_in_C_minor_(Mozart)
-synopsis: The Adagio and Fugue in C minor, K. 546, is a composition by Wolfgang Amadeus
-  Mozart for strings. Mozart entered it into his own work catalogue on 26 June 1788
-  in Vienna as "A short Adagio for two violins, viola and bass, for a fugue which
-  I wrote some time ago for two Pianos".
+type: orchestral

@@ -1,10 +1,13 @@
 id: 2214
-title: Così fan tutte
+title: Così fan tutte, K. 588
+original_title: Così fan tutte
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Dette er en opera buffa i to akter med libretto av Lorenzo Da Ponte, som
+  hadde premiere i Wien i 1790. Handlingen dreier seg om to offiserer som inngår et
+  veddemål for å teste troskapen til sine forlovede gjennom forkledninger og forførelse.
+  Verket er kjent for sine vakre ensembler og sofistikerte utforskning av menneskelige
+  relasjoner.
 wikidata_id: Q207410
 wikipedia_url: https://en.wikipedia.org/wiki/Cos%C3%AC_fan_tutte
-synopsis: Così fan tutte, ossia La scuola degli amanti, K. 588, is an opera buffa
-  in two acts by Wolfgang Amadeus Mozart. It was first performed on 26 January 1790
-  at the Burgtheater in Vienna, Austria.
-composer_id: 3252
+type: orchestral

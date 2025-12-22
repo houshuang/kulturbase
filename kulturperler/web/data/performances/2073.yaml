@@ -3,7 +3,9 @@ work_id: 1465
 source: youtube
 medium: stream
 title: Short Ride In A Fast Machine
-credits: []
+credits:
+- person_id: 4311
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2022
 description: 'Bergen Filharmoniske Orkester. Innspilt: 2022-09-03'
-credits: []
+credits:
+- person_id: 4266
+  role: conductor

@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2023
 description: 'Bergen Filharmoniske Orkester. Komponist: Mozart. Innspilt: 2023-01-26'
-credits: []
+credits:
+- person_id: 3526
+  role: conductor

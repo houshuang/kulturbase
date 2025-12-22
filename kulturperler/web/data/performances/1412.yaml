@@ -6,4 +6,6 @@ medium: tv
 venue: Bergen
 year: 2022
 description: 'Bergen Filharmoniske Orkester. Komponist: Delius. Innspilt: 2022-09-23'
-credits: []
+credits:
+- person_id: 4263
+  role: conductor

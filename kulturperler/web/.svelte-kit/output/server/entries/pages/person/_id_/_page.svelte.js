@@ -1,4 +1,4 @@
-import { U as store_get, V as head, W as ensure_array_like, Y as attr_class, X as attr, _ as stringify, Z as unsubscribe_stores } from "../../../../chunks/index2.js";
+import { U as store_get, V as head, X as attr, W as ensure_array_like, Y as attr_class, _ as stringify, Z as unsubscribe_stores } from "../../../../chunks/index2.js";
 import { p as page } from "../../../../chunks/stores.js";
 import { f as getPerson, h as getDatabase, i as getNrkAboutPrograms } from "../../../../chunks/db.js";
 import { e as escape_html } from "../../../../chunks/context.js";
@@ -295,7 +295,14 @@ function _page($$renderer, $$props) {
         $$renderer2.push("<!--[!-->");
         if (person) {
           $$renderer2.push("<!--[-->");
-          $$renderer2.push(`<article class="person-detail svelte-13eo3pq"><a href="/" class="back-link svelte-13eo3pq">← Tilbake</a> <header class="person-header svelte-13eo3pq"><div class="header-content svelte-13eo3pq"><div class="header-text svelte-13eo3pq"><h1 class="svelte-13eo3pq">${escape_html(person.name)}</h1> `);
+          $$renderer2.push(`<article class="person-detail svelte-13eo3pq"><a href="/" class="back-link svelte-13eo3pq">← Tilbake</a> <header class="person-header svelte-13eo3pq"><div class="header-content svelte-13eo3pq">`);
+          if (person.image_url) {
+            $$renderer2.push("<!--[-->");
+            $$renderer2.push(`<div class="person-portrait svelte-13eo3pq"><img${attr("src", person.image_url)}${attr("alt", person.name)} class="svelte-13eo3pq"/></div>`);
+          } else {
+            $$renderer2.push("<!--[!-->");
+          }
+          $$renderer2.push(`<!--]--> <div class="header-text svelte-13eo3pq"><h1 class="svelte-13eo3pq">${escape_html(person.name)}</h1> `);
           if (person.birth_year || person.death_year) {
             $$renderer2.push("<!--[-->");
             $$renderer2.push(`<p class="years svelte-13eo3pq">${escape_html(person.birth_year || "?")}–${escape_html(person.death_year || "")}</p>`);

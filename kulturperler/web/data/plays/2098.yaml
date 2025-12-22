@@ -1,9 +1,13 @@
 id: 2098
-title: Serenade No. 4
-category: konsert
-type: orchestral
+title: Serenade nr. 4 i D-dur, K. 203 («Colloredo»)
+original_title: Serenade No. 4
 composer_id: 3252
+category: konsert
+synopsis: Denne serenaden ble komponert i Salzburg i 1774, sannsynligvis til navnedagen
+  for erkebiskop Hieronymus von Colloredo. Verket er omfattende og inneholder åtte
+  satser, inkludert en liten innebygd fiolinkonsert i de midterste satsene. Det er
+  et typisk eksempel på den festlige underholdningsmusikken Mozart skrev for hoffet
+  i Salzburg.
 wikidata_id: Q6125245
 wikipedia_url: https://en.wikipedia.org/wiki/Serenade_No._4_(Mozart)
-synopsis: The Serenade No. 4 in D major, K. 203/189b was written in August 1774 by
-  Wolfgang Amadeus Mozart for ceremonies at the University of Salzburg.
+type: orchestral

@@ -91,6 +91,7 @@ export interface Person {
 	sceneweb_url: string | null;
 	wikipedia_url: string | null;
 	bio: string | null;
+	image_url: string | null;
 }
 
 export interface Institution {

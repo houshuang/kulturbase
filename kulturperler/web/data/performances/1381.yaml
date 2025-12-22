@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2025
 description: 'Bergen Filharmoniske Orkester. Komponist: Dvořák. Innspilt: 2025-09-18'
-credits: []
+credits:
+- person_id: 4260
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1381.yaml

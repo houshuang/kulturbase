@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2024
 description: 'Bergen Filharmoniske Orkester. Komponist: Brahms. Innspilt: 2024-03-22'
-credits: []
+credits:
+- person_id: 4255
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1390.yaml

@@ -9,3 +9,6 @@ description: 'Andre del av en gallakonsert i Bjergsted Konserthus i Stavanger me
 series_id: solistgalla-med-stavanger-symfoniorkester
 total_duration: 2930
 image_url: https://gfx.nrk.no/J1OkcEE9ZaE5xu9oDfhJTgM4wdbdSKyXucYkrtKtvqIw
+credits:
+- person_id: 4206
+  role: conductor

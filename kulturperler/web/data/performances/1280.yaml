@@ -7,3 +7,6 @@ year: 2008
 description: 'Barokkonsert fra St. Petri kirke i Stavanger, der vi får høre blant
   annet Bachs Dobbeltkonsert for obo og fiolin Dirigent og solist: Fabio Biondi.'
 total_duration: 1758
+credits:
+- person_id: 4248
+  role: conductor

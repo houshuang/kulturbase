@@ -9,3 +9,6 @@ description: "\"Manfred, symfoni fire bilder, op. 58\" av Pjotr Tsjajkovskij. Di
 series_id: oslo-filharmoniske-orkester
 total_duration: 4041
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4069
+  role: conductor

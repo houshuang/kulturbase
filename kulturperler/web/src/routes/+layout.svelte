@@ -77,14 +77,6 @@
 			<slot />
 		{/if}
 	</main>
-
-	<footer>
-		<p>
-			Data fra <a href="https://tv.nrk.no" target="_blank" rel="noopener">NRK TV</a>.
-			Beriket med data fra <a href="https://sceneweb.no" target="_blank" rel="noopener">Sceneweb</a>
-			og <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>.
-		</p>
-	</footer>
 </div>
 
 <style>
@@ -189,18 +181,6 @@
 	}
 
 	.error {
-		color: #e94560;
-	}
-
-	footer {
-		background: #1a1a2e;
-		color: white;
-		padding: 1rem 2rem;
-		text-align: center;
-		font-size: 0.85rem;
-	}
-
-	footer a {
 		color: #e94560;
 	}
 

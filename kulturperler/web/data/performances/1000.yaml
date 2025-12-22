@@ -9,3 +9,6 @@ description: 'Første del av en gallakonsert i Bjergsted Konserthus i Stavanger 
 series_id: solistgalla-med-stavanger-symfoniorkester
 total_duration: 2492
 image_url: https://gfx.nrk.no/J1OkcEE9ZaE5xu9oDfhJTgM4wdbdSKyXucYkrtKtvqIw
+credits:
+- person_id: 4206
+  role: conductor

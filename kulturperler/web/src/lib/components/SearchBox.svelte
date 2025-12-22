@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
+	import { page } from '$app/stores';
 	import { getAutocompleteSuggestions, type AutocompleteSuggestion } from '$lib/db';
 
 	export let placeholder = 'Søk etter stykker, personer...';
@@ -11,26 +12,54 @@
 	let selectedIndex = -1;
 	let inputElement: HTMLInputElement;
 	let debounceTimer: ReturnType<typeof setTimeout>;
+	let searchDebounceTimer: ReturnType<typeof setTimeout>;
+
+	// Track if we navigated away from a page (to return when clearing search)
+	let previousPath: string | null = null;
 
 	function handleInput() {
 		clearTimeout(debounceTimer);
+		clearTimeout(searchDebounceTimer);
 		selectedIndex = -1;
 
-		if (query.trim().length < 2) {
+		const trimmedQuery = query.trim();
+
+		// If search is empty, go back to previous page or home
+		if (trimmedQuery.length === 0) {
 			suggestions = [];
 			showSuggestions = false;
+			// Navigate back if we came from somewhere
+			if ($page.url.pathname === '/sok') {
+				goto(previousPath || '/', { replaceState: true });
+				previousPath = null;
+			}
 			return;
 		}
 
-		debounceTimer = setTimeout(() => {
-			try {
-				suggestions = getAutocompleteSuggestions(query.trim());
-				showSuggestions = suggestions.length > 0;
-			} catch {
-				suggestions = [];
-				showSuggestions = false;
+		// Autocomplete suggestions (fast)
+		if (trimmedQuery.length >= 2) {
+			debounceTimer = setTimeout(() => {
+				try {
+					suggestions = getAutocompleteSuggestions(trimmedQuery);
+					showSuggestions = suggestions.length > 0;
+				} catch {
+					suggestions = [];
+					showSuggestions = false;
+				}
+			}, 100);
+		} else {
+			suggestions = [];
+			showSuggestions = false;
+		}
+
+		// Navigate to search page (debounced)
+		searchDebounceTimer = setTimeout(() => {
+			// Save current path before navigating to search (only if not already on search)
+			if ($page.url.pathname !== '/sok') {
+				previousPath = $page.url.pathname;
 			}
-		}, 150);
+			goto(`/sok?q=${encodeURIComponent(trimmedQuery)}`, { replaceState: $page.url.pathname === '/sok' });
+		}, 200);
 	}
 
 	function handleKeydown(event: KeyboardEvent) {
@@ -54,16 +83,17 @@
 	}
 
 	function navigateToSuggestion(suggestion: AutocompleteSuggestion) {
+		clearTimeout(searchDebounceTimer);
 		query = '';
 		showSuggestions = false;
+		previousPath = null;
 		goto(suggestion.url);
 	}
 
 	function navigateToSearch() {
-		const searchQuery = query.trim();
-		query = '';
+		// Already navigating via instant search, just close suggestions
 		showSuggestions = false;
-		goto(`/sok?q=${encodeURIComponent(searchQuery)}`);
+		inputElement?.blur();
 	}
 
 	function handleFocus() {

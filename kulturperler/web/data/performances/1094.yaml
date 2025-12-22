@@ -9,3 +9,6 @@ description: Kringkastingsorkestret med sin sjefdirigent spiller Beethovens spru
 series_id: kork-hele-landets-orkester
 total_duration: 2064
 image_url: https://gfx.nrk.no/EQam3QPmwmB4kGsvmR94DwbNVlh9SKYz67fd_rA4ULTw
+credits:
+- person_id: 4211
+  role: conductor

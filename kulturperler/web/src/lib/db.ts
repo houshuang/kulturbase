@@ -1299,13 +1299,55 @@ export function getClassicalPlayCount(): number {
 	return result.count;
 }
 
-export function getClassicalPerformanceCount(): number {
+export function getTheaterPerformanceCount(): number {
 	const db = getDatabase();
 	const stmt = db.prepare(`
 		SELECT COUNT(*) as count
 		FROM performances perf
 		JOIN works w ON perf.work_id = w.id
-		WHERE w.work_type = 'teaterstykke'
+		WHERE w.category = 'teater'
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getConcertPerformanceCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(*) as count
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		WHERE w.category = 'konsert'
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getOperaPerformanceCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(*) as count
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		WHERE w.category = 'opera'
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getCreatorCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(DISTINCT p.id) as count
+		FROM persons p
+		WHERE EXISTS (SELECT 1 FROM works w WHERE w.playwright_id = p.id)
+		   OR EXISTS (SELECT 1 FROM works w WHERE w.composer_id = p.id)
 	`);
 	stmt.step();
 	const result = stmt.getAsObject() as { count: number };

@@ -40,6 +40,7 @@ class ConductorEnricher:
         self.conn = sqlite3.connect(DB_PATH)
         self.conn.row_factory = sqlite3.Row
         self.created_persons = {}  # Cache: normalized_name -> person_id
+        self.next_person_id = self.get_next_person_id()
         self.stats = {
             'total': 0,
             'already_have_conductor': 0,
@@ -67,11 +68,50 @@ class ConductorEnricher:
         cursor = self.conn.execute(query)
         return [dict(row) for row in cursor.fetchall()]
 
+    def names_similar(self, name1: str, name2: str) -> bool:
+        """Check if two names are similar (handle spelling variations)."""
+        parts1 = name1.lower().split()
+        parts2 = name2.lower().split()
+
+        if len(parts1) != len(parts2) or len(parts1) < 2:
+            return False
+
+        # First names must match exactly
+        if parts1[0] != parts2[0]:
+            return False
+
+        # Last names can differ slightly
+        last1 = parts1[-1]
+        last2 = parts2[-1]
+
+        if last1 == last2:
+            return True
+
+        # Allow 1-2 character differences for last name
+        if len(last1) > 5 and len(last2) > 5 and abs(len(last1) - len(last2)) <= 1:
+            diff_count = sum(1 for i in range(min(len(last1), len(last2)))
+                           if last1[i] != last2[i])
+            return diff_count <= 2
+
+        return False
+
     def get_person_by_name(self, name: str) -> Optional[int]:
         """Find person ID by name (case-insensitive, handles variations)."""
         normalized = name.lower().strip()
 
-        # Try exact match first
+        # Check if we created this person in current run (exact match)
+        if normalized in self.created_persons:
+            return self.created_persons[normalized]
+
+        # Check created persons for fuzzy match
+        for created_name, person_id in self.created_persons.items():
+            if self.names_similar(normalized, created_name):
+                print(f"    Matched '{name}' to previously created person (ID: {person_id})")
+                # Cache this variation too
+                self.created_persons[normalized] = person_id
+                return person_id
+
+        # Try exact match in database
         cursor = self.conn.execute(
             "SELECT id, name FROM persons WHERE LOWER(name) = ? OR LOWER(normalized_name) = ?",
             (normalized, normalized)
@@ -80,7 +120,7 @@ class ConductorEnricher:
         if row:
             return row['id']
 
-        # Try fuzzy match for common variations (swap parts, minor spelling)
+        # Try fuzzy match in database
         parts = normalized.split()
         if len(parts) >= 2:
             # Try "Lastname Firstname" if we have "Firstname Lastname"
@@ -93,6 +133,17 @@ class ConductorEnricher:
             if row:
                 print(f"    Matched '{name}' to existing person '{row['name']}' (ID: {row['id']})")
                 return row['id']
+
+            # Try fuzzy match for spelling variations
+            first_name = parts[0]
+            cursor = self.conn.execute(
+                "SELECT id, name, normalized_name FROM persons WHERE LOWER(normalized_name) LIKE ?",
+                (f"{first_name}%",)
+            )
+            for row in cursor.fetchall():
+                if self.names_similar(normalized, row['normalized_name']):
+                    print(f"    Fuzzy matched '{name}' to existing person '{row['name']}' (ID: {row['id']})")
+                    return row['id']
 
         return None
 
@@ -133,7 +184,9 @@ class ConductorEnricher:
             print(f"  Using previously created person: {name} (ID: {person_id})")
             return person_id
 
-        person_id = self.get_next_person_id()
+        person_id = self.next_person_id
+        self.next_person_id += 1  # Increment for next person
+
         person_data = {
             'id': person_id,
             'name': name,

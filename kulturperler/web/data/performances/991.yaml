@@ -9,3 +9,6 @@ description: "\"Innover viddene\", symfoni nr 1, av Eivind Groven, Oslo Filharmo
 series_id: norske-symfonier
 total_duration: 1740
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4203
+  role: conductor

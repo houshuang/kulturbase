@@ -16,7 +16,7 @@ function _layout($$renderer, $$props) {
       { href: "/opera", label: "Opera/Ballett" },
       { href: "/dramaserier", label: "Dramaserier" },
       { href: "/konserter", label: "Konserter" },
-      { href: "/skapere", label: "Skapere" }
+      { href: "/forfattere", label: "Personer" }
     ];
     function isActive(href, exact = false) {
       if (exact) return currentPath === href;
@@ -41,8 +41,7 @@ function _layout($$renderer, $$props) {
       $$renderer2.push("<!--[-->");
       $$renderer2.push(`<div class="loading svelte-12qhfyh"><p>Laster database...</p></div>`);
     }
-    $$renderer2.push(`<!--]--></main> <footer class="svelte-12qhfyh"><p>Data fra <a href="https://tv.nrk.no" target="_blank" rel="noopener" class="svelte-12qhfyh">NRK TV</a>.
-			Beriket med data fra <a href="https://sceneweb.no" target="_blank" rel="noopener" class="svelte-12qhfyh">Sceneweb</a> og <a href="https://www.wikidata.org" target="_blank" rel="noopener" class="svelte-12qhfyh">Wikidata</a>.</p></footer></div>`);
+    $$renderer2.push(`<!--]--></main></div>`);
     if ($$store_subs) unsubscribe_stores($$store_subs);
   });
 }

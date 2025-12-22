@@ -11,3 +11,6 @@ description: "Eksamenskonsert for Norges musikkhøgskole i Store studio. Eirik H
 series_id: kork-hele-landets-orkester
 total_duration: 3095
 image_url: https://gfx.nrk.no/9syYk9-6kHsN9O8Nknz4QwQuLXhbQ2x0H4Cn5YGYqGzw
+credits:
+- person_id: 4215
+  role: conductor

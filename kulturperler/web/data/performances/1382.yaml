@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2025
 description: 'Bergen Filharmoniske Orkester. Komponist: Matre. Innspilt: 2025-09-05'
-credits: []
+credits:
+- person_id: 3526
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1382.yaml

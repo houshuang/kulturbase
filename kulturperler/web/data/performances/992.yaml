@@ -8,3 +8,6 @@ description: "Ludvig Irgens-Jensen: \"Symfoni nr 1\".\rOslo Filharmoniske Orkest
 series_id: norske-symfonier
 total_duration: 1892
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4204
+  role: conductor

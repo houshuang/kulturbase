@@ -291,7 +291,7 @@
 			actor: 'Roller',
 			playwright: 'Stykker',
 			composer: 'Komponert',
-			conductor: 'Dirigent',
+			conductor: 'Dirigert',
 			soloist: 'Solist',
 			producer: 'Produsert',
 			set_designer: 'Scenografi',
@@ -499,7 +499,6 @@
 									{/if}
 								</div>
 							</div>
-							<span class="about-link">NRK TV &rarr;</span>
 						</a>
 					{/each}
 				</div>
@@ -837,13 +836,6 @@
 
 	.about-duration {
 		font-size: 0.8rem;
-	}
-
-	.about-link {
-		color: #e94560;
-		font-size: 0.8rem;
-		flex-shrink: 0;
-		align-self: center;
 	}
 
 	/* Role sections (performances) */

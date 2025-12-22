@@ -10,3 +10,6 @@ description: 'Oratoriet "A child of our time" av Michael Kemp Tippett. Dirigent:
 series_id: oslo-filharmoniske-orkester
 total_duration: 4560
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4232
+  role: conductor

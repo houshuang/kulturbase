@@ -9,3 +9,6 @@ description: "Orkesterets nye solooboist Marie Tetzlaff er solist i Bohuslav Mar
   \ Brahms. Spillende leder, Kolbjørn Holthe.\rPresentert av Arild Erikstad."
 series_id: hovedscenen-tv
 total_duration: 4733
+credits:
+- person_id: 4210
+  role: conductor

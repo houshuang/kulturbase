@@ -10,3 +10,6 @@ description: 'Foreningen Ny Musikk har bestilt et verket "The Second Creation" a
 series_id: oslo-filharmoniske-orkester
 total_duration: 4382
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4231
+  role: conductor

@@ -7,3 +7,6 @@ year: 2021
 description: KORK spiller under ledelse av Otto Tausk. Presentert av Arild Erikstad
 series_id: hovedscenen-tv
 total_duration: 2991
+credits:
+- person_id: 4249
+  role: conductor

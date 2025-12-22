@@ -9,3 +9,6 @@ description: "Schuberts musikk til det glemte teaterstykket Rosamunde og KORKs s
 series_id: kork-hele-landets-orkester
 total_duration: 2266
 image_url: https://gfx.nrk.no/CoDPshPok4Pa77gDvkBP3Q_g7IQrdKmhOqYZ4OGphuDg
+credits:
+- person_id: 4220
+  role: conductor

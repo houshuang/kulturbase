@@ -8,3 +8,6 @@ description: Nyttårskonsert fra Olavshallen i Trondheim med unge talenter, mode
   sirkus og talentkonkurranse. Wenche Foss debuterer som TV-programleder.
 series_id: godt-musikkaar
 total_duration: 4149
+credits:
+- person_id: 564
+  role: conductor

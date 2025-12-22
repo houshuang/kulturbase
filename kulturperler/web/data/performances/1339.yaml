@@ -8,3 +8,6 @@ description: 'Åpningskonserten under fjorårets Luzernfestival med Brahms og Mo
   på programmet. Solist: Maria João Pires, klaver. Dirigent: Paavo Järvi'
 series_id: hovedscenen-tv
 total_duration: 5732
+credits:
+- person_id: 4256
+  role: conductor

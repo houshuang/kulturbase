@@ -8,3 +8,6 @@ description: "Oslo Filharmoniske Orkester spiller \"Vårofferet\" av Igor Stravi
   \ Dirigent er Mariss Jansons. Opptak fra Oslo Konserthus.          \r\nRegi: Morten\
   \ Thomte."
 total_duration: 2396
+credits:
+- person_id: 4069
+  role: conductor

@@ -459,7 +459,9 @@
 								{#if perf.title && perf.title !== work?.title}
 									<h3 class="perf-title">{perf.title}</h3>
 								{/if}
-								{#if perf.director_name}
+								{#if isConcert && perf.conductor_name}
+									<p class="perf-director">{leaderLabel}: {perf.conductor_name}</p>
+								{:else if perf.director_name}
 									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
 								{:else if perf.description}
 									<p class="perf-desc">{perf.description}</p>
@@ -506,7 +508,9 @@
 								{#if perf.title && perf.title !== work?.title}
 									<h3 class="perf-title">{perf.title}</h3>
 								{/if}
-								{#if perf.director_name}
+								{#if isConcert && perf.conductor_name}
+									<p class="perf-director">{leaderLabel}: {perf.conductor_name}</p>
+								{:else if perf.director_name}
 									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
 								{:else if perf.description}
 									<p class="perf-desc">{perf.description}</p>
@@ -558,7 +562,7 @@
 									<p class="perf-credits">
 										{#if perf.orchestra_name}{perf.orchestra_name}{/if}
 										{#if perf.orchestra_name && perf.conductor_name} · {/if}
-										{#if perf.conductor_name}Dir: {perf.conductor_name}{/if}
+										{#if perf.conductor_name}Dirigent: {perf.conductor_name}{/if}
 									</p>
 								{/if}
 							</div>

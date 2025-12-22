@@ -7,3 +7,6 @@ year: 1995
 description: Stavanger Symfoniorkester fremfører Symfoni nr 5 av Ludwig van Beethoven.
 series_id: musikk-paa-soendag
 total_duration: 2001
+credits:
+- person_id: 4253
+  role: conductor

@@ -9,3 +9,6 @@ description: 'Opptak av"Klaverkonsert nr 2 i C-moll, opus 18" av Sergej Rakhmani
 series_id: oslo-filharmoniske-orkester
 total_duration: 2295
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4069
+  role: conductor

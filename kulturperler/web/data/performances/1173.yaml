@@ -9,3 +9,6 @@ description: 'Konsert for to fioliner og orkester av L. Subramaniam. Dirigent: C
 series_id: oslo-filharmoniske-orkester
 total_duration: 2463
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 1186
+  role: conductor

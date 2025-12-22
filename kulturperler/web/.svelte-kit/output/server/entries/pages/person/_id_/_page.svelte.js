@@ -234,7 +234,7 @@ function _page($$renderer, $$props) {
         actor: "Roller",
         playwright: "Stykker",
         composer: "Komponert",
-        conductor: "Dirigent",
+        conductor: "Dirigert",
         soloist: "Solist",
         producer: "Produsert",
         set_designer: "Scenografi",
@@ -472,7 +472,7 @@ function _page($$renderer, $$props) {
               } else {
                 $$renderer2.push("<!--[!-->");
               }
-              $$renderer2.push(`<!--]--></div></div> <span class="about-link svelte-13eo3pq">NRK TV →</span></a>`);
+              $$renderer2.push(`<!--]--></div></div></a>`);
             }
             $$renderer2.push(`<!--]--></div></section>`);
           } else {

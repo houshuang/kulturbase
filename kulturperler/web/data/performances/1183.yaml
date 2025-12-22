@@ -9,3 +9,6 @@ description: En direkte sending fra Grieghallen i Bergen. Musikselskabet Harmoni
 series_id: bergen-filharmoniske-orkester
 total_duration: 2553
 image_url: https://gfx.nrk.no/bcXzOgyzsnFmOqrWlcxyXADW__aCesw44RgdDex8I82w
+credits:
+- person_id: 4205
+  role: conductor

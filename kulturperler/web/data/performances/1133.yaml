@@ -11,3 +11,6 @@ description: Eksamenskonsert for Norges musikkhøgskole og Høgskolen i Lilleham
 series_id: kork-hele-landets-orkester
 total_duration: 1897
 image_url: https://gfx.nrk.no/CoDPshPok4Pa77gDvkBP3Q_g7IQrdKmhOqYZ4OGphuDg
+credits:
+- person_id: 3772
+  role: conductor

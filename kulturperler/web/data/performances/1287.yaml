@@ -6,3 +6,6 @@ medium: tv
 year: 1998
 description: 'Symfoni nr. 41 "Jupiter". Dirigent: Manfred Honeck. Fra Oslo Konserthus.'
 total_duration: 2349
+credits:
+- person_id: 4250
+  role: conductor

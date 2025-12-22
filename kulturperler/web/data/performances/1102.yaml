@@ -11,3 +11,6 @@ description: "Catch Light er en konsert for slagverk, fiolin og orkester av Nils
 series_id: kork-hele-landets-orkester
 total_duration: 1855
 image_url: https://gfx.nrk.no/Ay3qMmXOT5w2PB_uMi7OWgHD1QSV8TmYKsdqnAv7QKXg
+credits:
+- person_id: 4217
+  role: conductor

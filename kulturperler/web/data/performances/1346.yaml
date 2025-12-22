@@ -9,3 +9,6 @@ description: 'Jean Sibelius Fiolinkonsert i d moll op.47. Opptak fra Oslo Konser
   Dirigent: Vasily Petrenko'
 series_id: hovedscenen-tv
 total_duration: 2168
+credits:
+- person_id: 4257
+  role: conductor

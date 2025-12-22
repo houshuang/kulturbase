@@ -8,3 +8,6 @@ description: "Symfoni i C-moll av Edvard Grieg.\rOslo Filharmoniske orkester."
 series_id: norske-symfonier
 total_duration: 2329
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4069
+  role: conductor

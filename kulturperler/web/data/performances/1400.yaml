@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2023
 description: 'Bergen Filharmoniske Orkester. Komponist: Lutoslawski. Innspilt: 2023-09-08'
-credits: []
+credits:
+- person_id: 4255
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1400.yaml

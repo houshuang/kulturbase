@@ -212,25 +212,37 @@
 
 	.card-content {
 		padding: 1rem;
+		display: flex;
+		flex-direction: column;
+		min-height: 120px;
 	}
 
 	.card-content h3 {
 		font-size: 1rem;
 		margin-bottom: 0.25rem;
 		line-height: 1.3;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
 	}
 
 	.creator {
 		color: #666;
 		font-size: 0.9rem;
 		margin-bottom: 0.5rem;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 
 	.meta {
 		display: flex;
-		gap: 0.5rem;
+		flex-wrap: wrap;
+		gap: 0.4rem;
 		font-size: 0.8rem;
 		color: #888;
+		margin-top: auto;
 	}
 
 	.episodes {

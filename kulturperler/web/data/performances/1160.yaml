@@ -9,3 +9,6 @@ description: '"Sinfonia Concertante K.364, Ess-dur" av Wolfgang Amadeus Mozart. 
 series_id: oslo-filharmoniske-orkester
 total_duration: 1985
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4231
+  role: conductor

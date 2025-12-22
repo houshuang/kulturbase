@@ -6,3 +6,6 @@ medium: tv
 year: 2012
 series_id: hovedscenen-tv
 total_duration: 2171
+credits:
+- person_id: 4252
+  role: conductor

@@ -9,3 +9,6 @@ description: 'Folkemusikkgruppa Kvarts og KORK på konsertlåven på Rudi gard. 
 series_id: kork-hele-landets-orkester
 total_duration: 2242
 image_url: https://gfx.nrk.no/REfCp_2RxDW0BwRUYqBE5wfr3mI_ADcNhqxkZWAgESQA
+credits:
+- person_id: 4223
+  role: conductor

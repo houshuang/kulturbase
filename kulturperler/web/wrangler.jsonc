@@ -3,5 +3,9 @@
   "compatibility_date": "2025-12-19",
   "assets": {
     "directory": "./build"
-  }
+  },
+  "routes": [
+    { "pattern": "kulturbase.no", "custom_domain": true },
+    { "pattern": "www.kulturbase.no", "custom_domain": true }
+  ]
 }

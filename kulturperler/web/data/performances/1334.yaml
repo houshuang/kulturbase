@@ -15,3 +15,6 @@ description: "Norsk musikkprogram (s-hv). Kari Frisell og Jarle Sørå er solist
   \ \"Svanesjøen\" (1877).\rRegi: Sølve Kern."
 series_id: musikk-for-mange
 total_duration: 1586
+credits:
+- person_id: 4254
+  role: conductor

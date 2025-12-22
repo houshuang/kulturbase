@@ -9,3 +9,6 @@ description: 'Bergen Filharmoniske Orkester spiller Harald Sæveruds "Fiolinkons
 series_id: saeverud-100-aar
 total_duration: 2521
 image_url: https://gfx.nrk.no/GKhJ8nMvU3o9Tq9sj44pHAiFW3z5pcLQI7L9XRRcmqnA
+credits:
+- person_id: 4209
+  role: conductor

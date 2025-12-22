@@ -9,3 +9,6 @@ description: "Musikkselskabet Harmoniens orkester fremfører\rSymfoni nr. 1 av J
 series_id: norske-symfonier
 total_duration: 2302
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4205
+  role: conductor

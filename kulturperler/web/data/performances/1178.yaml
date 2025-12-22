@@ -9,3 +9,6 @@ description: 'Opptak fra Filharmonisk Selskaps jubileumskonsert i Oslo Konserthu
 series_id: oslo-filharmoniske-orkester
 total_duration: 1991
 image_url: https://gfx.nrk.no/b2KT_p2t4RiYBAMHY1WyLwQvYuKqmUHDUdeBz7_Jokpg
+credits:
+- person_id: 4069
+  role: conductor

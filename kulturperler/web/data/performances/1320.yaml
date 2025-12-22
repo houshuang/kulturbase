@@ -8,3 +8,6 @@ description: "Klaverkonsert nr. 3 av Ludwig van Beethoven, c-moll, verk 37. Frem
   \ av Kringkastingsorkestret under\rdirigent Arnulv Hegstad. Solist: Robert Riefling.\r\
   Opptak fra Oslo Konserthus."
 total_duration: 2269
+credits:
+- person_id: 4251
+  role: conductor

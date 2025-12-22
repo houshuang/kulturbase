@@ -9,3 +9,6 @@ description: Konsert for klaver og orkester nr. 5 i Ess-dur, verk 73 av Ludwig v
 series_id: oslo-filharmoniske-orkester
 total_duration: 2543
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4235
+  role: conductor

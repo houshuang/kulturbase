@@ -344,14 +344,11 @@
 									<img src={other.image_url} alt={other.title || ''} loading="lazy" />
 								{:else}
 									<div class="other-placeholder">
-										{other.medium === 'radio' ? 'Radio' : 'Video'}
+										{other.medium === 'radio' ? 'R' : 'TV'}
 									</div>
 								{/if}
 							</div>
 							<div class="other-info">
-								{#if other.title && other.title !== work?.title}
-									<span class="other-title">{other.title}</span>
-								{/if}
 								<div class="other-meta">
 									{#if other.year}
 										<span class="other-year">{other.year}</span>
@@ -361,16 +358,13 @@
 									{:else if other.source === 'bergenphilive'}
 										<span class="other-source bpl">BergenPhilLive</span>
 									{:else if other.medium === 'radio'}
-										<span class="other-source radio">NRK Radio</span>
+										<span class="other-source radio">Radio</span>
 									{:else}
-										<span class="other-source nrk">NRK TV</span>
+										<span class="other-source nrk">TV</span>
 									{/if}
 								</div>
 								{#if other.director_name}
-									<span class="other-director">{isConcert ? 'Dirigent' : 'Regi'}: {other.director_name}</span>
-								{/if}
-								{#if other.total_duration}
-									<span class="other-duration">{formatDuration(other.total_duration)}</span>
+									<span class="other-director">{isConcert ? 'Dir' : 'Regi'}: {other.director_name}</span>
 								{/if}
 							</div>
 						</a>
@@ -790,41 +784,46 @@
 		color: #888;
 	}
 
-	/* Other performances */
+	/* Other performances - compact horizontal layout */
 	.other-performances {
 		border-top: 1px solid #eee;
-		padding-top: 2rem;
+		padding-top: 1.5rem;
 	}
 
 	.other-performances h2 {
-		font-size: 1.3rem;
-		margin-bottom: 1rem;
+		font-size: 1.1rem;
+		margin-bottom: 0.75rem;
 	}
 
 	.other-performances-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-		gap: 1rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
 	}
 
 	.other-performance-card {
-		display: block;
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 0.5rem;
 		text-decoration: none;
 		color: inherit;
-		border-radius: 8px;
-		overflow: hidden;
+		border-radius: 6px;
 		background: #f5f5f5;
-		transition: transform 0.2s;
+		transition: background 0.15s;
 	}
 
 	.other-performance-card:hover {
-		transform: translateY(-2px);
+		background: #eee;
 	}
 
 	.other-thumbnail {
-		aspect-ratio: 16/9;
+		width: 80px;
+		height: 45px;
+		flex-shrink: 0;
 		background: #ddd;
 		overflow: hidden;
+		border-radius: 4px;
 	}
 
 	.other-thumbnail img {
@@ -841,38 +840,43 @@
 		justify-content: center;
 		background: linear-gradient(135deg, #1a1a2e, #16213e);
 		color: rgba(255, 255, 255, 0.5);
-		font-size: 0.9rem;
+		font-size: 0.7rem;
 	}
 
 	.other-info {
-		padding: 0.75rem;
+		flex: 1;
+		min-width: 0;
 		display: flex;
-		flex-direction: column;
-		gap: 0.25rem;
+		align-items: center;
+		gap: 0.75rem;
 	}
 
 	.other-title {
-		font-size: 0.9rem;
+		font-size: 0.85rem;
 		font-weight: 500;
 		color: #333;
-		line-height: 1.3;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 
 	.other-meta {
 		display: flex;
 		align-items: center;
-		gap: 0.5rem;
+		gap: 0.4rem;
+		flex-shrink: 0;
 	}
 
 	.other-year {
 		font-weight: 600;
+		font-size: 0.9rem;
 		color: #e94560;
 	}
 
 	.other-source {
-		padding: 0.1rem 0.4rem;
+		padding: 0.1rem 0.35rem;
 		border-radius: 3px;
-		font-size: 0.7rem;
+		font-size: 0.65rem;
 		font-weight: 500;
 		background: #666;
 		color: white;
@@ -894,9 +898,18 @@
 		background: #6b5ce7;
 	}
 
-	.other-director, .other-duration {
-		font-size: 0.85rem;
+	.other-director {
+		font-size: 0.8rem;
 		color: #666;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.other-duration {
+		font-size: 0.8rem;
+		color: #666;
+		display: none;
 	}
 
 	/* Medium badge in title */

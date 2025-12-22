@@ -8,3 +8,6 @@ description: Symfoni nr 2 av Otto Winter-Hjelm.
 series_id: norske-symfonier
 total_duration: 2001
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4205
+  role: conductor

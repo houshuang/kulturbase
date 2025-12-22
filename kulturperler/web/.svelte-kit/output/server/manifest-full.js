@@ -7,10 +7,10 @@ function __memo(fn) {
 return {
 	appDir: "_app",
 	appPath: "_app",
-	assets: new Set(["favicon.png","kulturperler.db","kulturperler.db.backup_20251219_122607","kulturperler.db.backup_20251219_153151","kulturperler.db.backup_20251219_155403","kulturperler.db.backup_20251219_155433","nrk_about_cache.json","nrk_candidates.json","sceneweb_cache.json"]),
-	mimeTypes: {".png":"image/png",".json":"application/json"},
+	assets: new Set(["favicon.png","favicon.svg","images/peasant-dance.jpg","kulturperler.db","kulturperler.db.backup_20251219_122607","kulturperler.db.backup_20251219_153151","kulturperler.db.backup_20251219_155403","kulturperler.db.backup_20251219_155433","nrk_about_cache.json","nrk_candidates.json","sceneweb_cache.json"]),
+	mimeTypes: {".png":"image/png",".svg":"image/svg+xml",".jpg":"image/jpeg",".json":"application/json"},
 	_: {
-		client: {start:"_app/immutable/entry/start.C933L148.js",app:"_app/immutable/entry/app.CS6AzNUb.js",imports:["_app/immutable/entry/start.C933L148.js","_app/immutable/chunks/oefswf9S.js","_app/immutable/chunks/DZ2h9Iar.js","_app/immutable/chunks/CtGGFNTG.js","_app/immutable/chunks/C2f6W6s-.js","_app/immutable/entry/app.CS6AzNUb.js","_app/immutable/chunks/DZ2h9Iar.js","_app/immutable/chunks/Bx3sRLE8.js","_app/immutable/chunks/Djabfa3f.js","_app/immutable/chunks/C2f6W6s-.js","_app/immutable/chunks/Bdq98hlb.js","_app/immutable/chunks/D3mTENTK.js","_app/immutable/chunks/IpRm-PDC.js","_app/immutable/chunks/CtGGFNTG.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"_app/immutable/entry/start.B-TBOYXY.js",app:"_app/immutable/entry/app.D2KrE9LP.js",imports:["_app/immutable/entry/start.B-TBOYXY.js","_app/immutable/chunks/njDQ2PV8.js","_app/immutable/chunks/BkOyOcu2.js","_app/immutable/chunks/vCbtbHD8.js","_app/immutable/chunks/DIq_zXu4.js","_app/immutable/entry/app.D2KrE9LP.js","_app/immutable/chunks/BkOyOcu2.js","_app/immutable/chunks/BVjk2lZu.js","_app/immutable/chunks/qX4kqR7R.js","_app/immutable/chunks/DIq_zXu4.js","_app/immutable/chunks/BOIkOtDP.js","_app/immutable/chunks/DjbBEhCR.js","_app/immutable/chunks/CoM6OQd8.js","_app/immutable/chunks/vCbtbHD8.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
@@ -57,59 +57,59 @@ return {
 				endpoint: null
 			},
 			{
+				id: "/forfattere",
+				pattern: /^\/forfattere\/?$/,
+				params: [],
+				page: { layouts: [0,], errors: [1,], leaf: 5 },
+				endpoint: null
+			},
+			{
 				id: "/konserter",
 				pattern: /^\/konserter\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 5 },
+				page: { layouts: [0,], errors: [1,], leaf: 6 },
 				endpoint: null
 			},
 			{
 				id: "/om",
 				pattern: /^\/om\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 6 },
+				page: { layouts: [0,], errors: [1,], leaf: 7 },
 				endpoint: null
 			},
 			{
 				id: "/opera",
 				pattern: /^\/opera\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 7 },
+				page: { layouts: [0,], errors: [1,], leaf: 8 },
 				endpoint: null
 			},
 			{
 				id: "/opptak/[id]",
 				pattern: /^\/opptak\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 8 },
+				page: { layouts: [0,], errors: [1,], leaf: 9 },
 				endpoint: null
 			},
 			{
 				id: "/performance/[id]",
 				pattern: /^\/performance\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 9 },
+				page: { layouts: [0,], errors: [1,], leaf: 10 },
 				endpoint: null
 			},
 			{
 				id: "/persons",
 				pattern: /^\/persons\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 11 },
+				page: { layouts: [0,], errors: [1,], leaf: 12 },
 				endpoint: null
 			},
 			{
 				id: "/person/[id]",
 				pattern: /^\/person\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 10 },
-				endpoint: null
-			},
-			{
-				id: "/skapere",
-				pattern: /^\/skapere\/?$/,
-				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 12 },
+				page: { layouts: [0,], errors: [1,], leaf: 11 },
 				endpoint: null
 			},
 			{

@@ -7,3 +7,6 @@ year: 1979
 description: 'Konsert med Sandefjord Jentekor i Skien kirke. Dirigent: Sverre Valen.
   Orgel og flygel: Søren Gangfløt.'
 total_duration: 1571
+credits:
+- person_id: 4244
+  role: conductor

@@ -7,3 +7,6 @@ year: 1975
 description: Urfremføring av "Symfoni nr. 7" av Bjarne Brustad. Kringkastingsorkestret
   spiller under ledelse av dirigent Sverre Bruland. Ved Eyvind Solås og Rolf Clemens.
 total_duration: 1841
+credits:
+- person_id: 4247
+  role: conductor

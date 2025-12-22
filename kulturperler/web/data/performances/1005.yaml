@@ -16,6 +16,8 @@ credits:
   role: musiker
 - person_id: 3335
   role: musiker
+- person_id: 4209
+  role: conductor
 institutions:
 - institution_id: 1
   role: orchestra

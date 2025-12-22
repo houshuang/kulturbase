@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2024
 description: 'Bergen Filharmoniske Orkester. Innspilt: 2024-10-01'
-credits: []
+credits:
+- person_id: 3526
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1386.yaml

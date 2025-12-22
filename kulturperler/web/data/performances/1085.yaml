@@ -12,3 +12,6 @@ description: 'Meloditimen med Kringkastingsorkestret var fra 1946 og i 18 år fr
 series_id: kork-hele-landets-orkester
 total_duration: 3663
 image_url: https://gfx.nrk.no/Pw1QgWJqDygME3GUqDaHvwkN1p-4Uxax4tL_WJ_AQ4Dw
+credits:
+- person_id: 4213
+  role: conductor

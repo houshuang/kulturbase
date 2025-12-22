@@ -12,3 +12,6 @@ description: "Kringkastingsorkestret uten filter. Fra klassisk til folkemusikk, 
 series_id: kork-hele-landets-orkester
 total_duration: 2192
 image_url: https://gfx.nrk.no/i7lRwrRi5o8jW-j4JrRWngehX5ceLe7vbNtG6H8TcR2g
+credits:
+- person_id: 3862
+  role: conductor

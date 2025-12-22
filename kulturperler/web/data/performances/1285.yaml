@@ -8,3 +8,6 @@ description: Vi feirer mottakerene av Nobels fredspris med Oslo-Filharmonien, st
   orkestermusikk, kor og stjerneartister. Programleder Hans Olav Brenner.
 series_id: nobels-fredspriskonsert
 total_duration: 3728
+credits:
+- person_id: 3843
+  role: conductor

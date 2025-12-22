@@ -10,3 +10,6 @@ description: Amerikansk musikk i Store studio. Jennifer Higdons blue cathedral Ã
 series_id: kork-hele-landets-orkester
 total_duration: 2298
 image_url: https://gfx.nrk.no/yyjdmaYcSry_2eXISAtPywnG18JjxVOnkPz4y905SwtA
+credits:
+- person_id: 4211
+  role: conductor

@@ -8,3 +8,6 @@ description: Klaverkonsert av Thomas Tellefsen.
 series_id: norske-symfonier
 total_duration: 1898
 image_url: https://gfx.nrk.no/3GusvK5iPoymoeSpzc-XNw6kDbIfUuIv1qaBrtwMupEQ
+credits:
+- person_id: 4205
+  role: conductor

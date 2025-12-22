@@ -9,3 +9,6 @@ description: Musikalsk vårstemning med hele landets orkester. Hovedøen Social 
   av Halldis Rønning inntar Ingierstrand Bad ved Oslofjorden. Repertoaret spenner
   fra tango til jubilantene Alf Prøysen og Johan Halvorsen.
 total_duration: 2840
+credits:
+- person_id: 4225
+  role: conductor

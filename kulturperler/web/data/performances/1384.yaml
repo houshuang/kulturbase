@@ -6,4 +6,10 @@ medium: tv
 venue: Bergen
 year: 2025
 description: 'Bergen Filharmoniske Orkester. Komponist: Chin. Innspilt: 2025-01-30'
-credits: []
+credits:
+- person_id: 4261
+  role: conductor
+_file: !!python/object/apply:pathlib.PosixPath
+- data
+- performances
+- 1384.yaml

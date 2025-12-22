@@ -1,25 +1,8 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
-	import { getRandomClassicalPlays, getPlaysByPlaywright, getRecentConcerts, getClassicalPerformanceCount, getBergenPhilConcertCount, getDatabase, type RandomPerformance } from '$lib/db';
+	import { getRandomClassicalPlays, getPlaysByPlaywright, getRecentConcerts, getTheaterPerformanceCount, getConcertPerformanceCount, getOperaPerformanceCount, getCreatorCount, getDatabase, initDatabase, type RandomPerformance } from '$lib/db';
 	import type { PerformanceWithDetails, ExternalResource } from '$lib/types';
-
-	interface TopPerson {
-		id: number;
-		name: string;
-		birth_year: number | null;
-		death_year: number | null;
-		image_url: string | null;
-		performance_count: number;
-	}
-
-	interface TopConcertWork {
-		id: number;
-		title: string;
-		composer_name: string | null;
-		performance_count: number;
-		image_url: string | null;
-	}
 
 	interface SearchResult {
 		type: 'person' | 'work';
@@ -32,8 +15,21 @@
 
 	let featuredPerformances: RandomPerformance[] = [];
 	let ibsenPlays: PerformanceWithDetails[] = [];
-	let topPersons: TopPerson[] = [];
-	let topConcertWorks: TopConcertWork[] = [];
+
+	// Category showcases
+	interface CategoryShowcase {
+		id: number;
+		title: string;
+		subtitle: string | null;
+		image_url: string | null;
+		count: number;
+		link: string;
+	}
+	let showcaseTeater: CategoryShowcase | null = null;
+	let showcaseDrama: CategoryShowcase | null = null;
+	let showcaseOpera: CategoryShowcase | null = null;
+	let showcaseKonsert: CategoryShowcase | null = null;
+	let showcasePerson: CategoryShowcase | null = null;
 
 	let stats = {
 		theater: 0,
@@ -153,8 +149,10 @@
 		setTimeout(() => { showResults = false; }, 200);
 	}
 
-	onMount(() => {
+	onMount(async () => {
 		try {
+			// Ensure database is initialized (waits if already loading)
+			await initDatabase();
 			const db = getDatabase();
 
 			// Get featured performances (with images)
@@ -163,65 +161,118 @@
 			// Get Ibsen plays
 			ibsenPlays = getPlaysByPlaywright(IBSEN_ID, 8);
 
-			// Get top persons with images
-			const personsStmt = db.prepare(`
-				SELECT
-					p.id,
-					p.name,
-					p.birth_year,
-					p.death_year,
-					p.image_url,
-					COUNT(DISTINCT pf.id) as performance_count
-				FROM persons p
-				JOIN works w ON w.playwright_id = p.id OR w.composer_id = p.id
-				JOIN performances pf ON pf.work_id = w.id
-				GROUP BY p.id
-				ORDER BY performance_count DESC
-				LIMIT 6
-			`);
-			topPersons = [];
-			while (personsStmt.step()) {
-				topPersons.push(personsStmt.getAsObject() as TopPerson);
-			}
-			personsStmt.free();
-
-			// Get concert works with multiple recordings
-			const concertWorksStmt = db.prepare(`
-				SELECT
-					w.id,
-					w.title,
-					c.name as composer_name,
-					COUNT(pf.id) as performance_count,
-					(SELECT e.image_url FROM episodes e
-					 JOIN performances pf2 ON e.performance_id = pf2.id
-					 WHERE pf2.work_id = w.id LIMIT 1) as image_url
-				FROM works w
-				LEFT JOIN persons c ON w.composer_id = c.id
-				JOIN performances pf ON pf.work_id = w.id
-				WHERE w.work_type IN ('symphony', 'concerto', 'orchestral', 'opera', 'ballet', 'chamber', 'choral')
-				GROUP BY w.id
-				HAVING performance_count > 1
-				ORDER BY performance_count DESC
-				LIMIT 6
-			`);
-			topConcertWorks = [];
-			while (concertWorksStmt.step()) {
-				topConcertWorks.push(concertWorksStmt.getAsObject() as TopConcertWork);
-			}
-			concertWorksStmt.free();
-
 			// Get stats
-			stats.theater = getClassicalPerformanceCount();
-			stats.concerts = getBergenPhilConcertCount();
+			stats = {
+				theater: getTheaterPerformanceCount(),
+				concerts: getConcertPerformanceCount(),
+				opera: getOperaPerformanceCount(),
+				persons: getCreatorCount()
+			};
 
-			const personResult = db.exec('SELECT COUNT(*) FROM persons');
-			if (personResult.length > 0) {
-				stats.persons = personResult[0].values[0][0] as number;
+			// Get category showcases - one random item from each category (with image and multiple performances)
+			// Teater
+			const teaterStmt = db.prepare(`
+				SELECT w.id, w.title, p.name as subtitle,
+					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+					COUNT(DISTINCT pf.id) as count
+				FROM works w
+				LEFT JOIN persons p ON w.playwright_id = p.id
+				JOIN performances pf ON pf.work_id = w.id
+				WHERE w.category = 'teater'
+				GROUP BY w.id
+				HAVING count > 1 AND image_url IS NOT NULL
+				ORDER BY RANDOM()
+				LIMIT 1
+			`);
+			if (teaterStmt.step()) {
+				const row = teaterStmt.getAsObject() as any;
+				showcaseTeater = { ...row, link: `/verk/${row.id}` };
 			}
-			const operaResult = db.exec("SELECT COUNT(*) FROM performances p JOIN works w ON p.work_id = w.id WHERE w.work_type IN ('opera', 'operetta', 'ballet')");
-			if (operaResult.length > 0) {
-				stats.opera = operaResult[0].values[0][0] as number;
+			teaterStmt.free();
+
+			// Dramaserier (use count >= 1 since drama series typically have single performances)
+			const dramaStmt = db.prepare(`
+				SELECT w.id, w.title, p.name as subtitle,
+					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+					COUNT(DISTINCT pf.id) as count
+				FROM works w
+				LEFT JOIN persons p ON w.playwright_id = p.id
+				JOIN performances pf ON pf.work_id = w.id
+				WHERE w.category = 'dramaserie'
+				GROUP BY w.id
+				HAVING count >= 1 AND image_url IS NOT NULL
+				ORDER BY RANDOM()
+				LIMIT 1
+			`);
+			if (dramaStmt.step()) {
+				const row = dramaStmt.getAsObject() as any;
+				showcaseDrama = { ...row, link: `/verk/${row.id}` };
 			}
+			dramaStmt.free();
+
+			// Opera/Ballett
+			const operaStmt = db.prepare(`
+				SELECT w.id, w.title, p.name as subtitle,
+					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+					COUNT(DISTINCT pf.id) as count
+				FROM works w
+				LEFT JOIN persons p ON w.composer_id = p.id
+				JOIN performances pf ON pf.work_id = w.id
+				WHERE w.category = 'opera'
+				GROUP BY w.id
+				HAVING count > 1 AND image_url IS NOT NULL
+				ORDER BY RANDOM()
+				LIMIT 1
+			`);
+			if (operaStmt.step()) {
+				const row = operaStmt.getAsObject() as any;
+				showcaseOpera = { ...row, link: `/verk/${row.id}` };
+			}
+			operaStmt.free();
+
+			// Konsert
+			const konsertStmt = db.prepare(`
+				SELECT w.id, w.title, p.name as subtitle,
+					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+					COUNT(DISTINCT pf.id) as count
+				FROM works w
+				LEFT JOIN persons p ON w.composer_id = p.id
+				JOIN performances pf ON pf.work_id = w.id
+				WHERE w.category = 'konsert'
+				GROUP BY w.id
+				HAVING count > 1 AND image_url IS NOT NULL
+				ORDER BY RANDOM()
+				LIMIT 1
+			`);
+			if (konsertStmt.step()) {
+				const row = konsertStmt.getAsObject() as any;
+				showcaseKonsert = { ...row, link: `/verk/${row.id}` };
+			}
+			konsertStmt.free();
+
+			// Person (random playwright or composer with multiple works, fetch image from their performances)
+			const personStmt = db.prepare(`
+				SELECT p.id, p.name as title,
+					(CASE WHEN COUNT(DISTINCT wp.id) > 0 THEN 'Dramatiker' ELSE 'Komponist' END) as subtitle,
+					COUNT(DISTINCT wp.id) + COUNT(DISTINCT wc.id) as count,
+					(SELECT e.image_url FROM episodes e
+					 JOIN performances pf ON e.performance_id = pf.id
+					 JOIN works w ON pf.work_id = w.id
+					 WHERE (w.playwright_id = p.id OR w.composer_id = p.id) AND e.image_url IS NOT NULL
+					 LIMIT 1) as image_url
+				FROM persons p
+				LEFT JOIN works wp ON wp.playwright_id = p.id
+				LEFT JOIN works wc ON wc.composer_id = p.id
+				GROUP BY p.id
+				HAVING count > 1 AND image_url IS NOT NULL
+				ORDER BY RANDOM()
+				LIMIT 1
+			`);
+			if (personStmt.step()) {
+				const row = personStmt.getAsObject() as any;
+				showcasePerson = { ...row, link: `/person/${row.id}` };
+			}
+			personStmt.free();
 
 			loading = false;
 		} catch (e) {
@@ -294,7 +345,7 @@
 				<a href="/teater">{stats.theater} teateropptak</a>
 				<a href="/konserter">{stats.concerts} konserter</a>
 				<a href="/opera">{stats.opera} opera & ballett</a>
-				<a href="/persons">{stats.persons} skapere</a>
+				<a href="/forfattere">{stats.persons} forfattere</a>
 			</nav>
 		</section>
 
@@ -330,35 +381,92 @@
 			</section>
 		{/if}
 
-		<!-- Persons -->
-		{#if topPersons.length > 0}
-			<section class="persons-section">
-				<div class="section-header">
-					<h2>Personer</h2>
-					<a href="/persons" class="link">Alle →</a>
+		<!-- Category showcase -->
+		<section class="showcase-section">
+			<h2>Utforsk kategorier</h2>
+			<div class="showcase-grid">
+				<div class="showcase-card">
+					<a href={showcaseTeater?.link || '/teater'} class="showcase-main">
+						<div class="showcase-image">
+							{#if showcaseTeater?.image_url}
+								<img src={showcaseTeater.image_url} alt="" />
+							{:else}
+								<div class="showcase-placeholder">🎭</div>
+							{/if}
+						</div>
+						<div class="showcase-info">
+							<span class="showcase-category">Teater</span>
+							<span class="showcase-title">{showcaseTeater?.title || 'Teaterstykker'}</span>
+						</div>
+					</a>
+					<a href="/teater" class="showcase-all">{stats.theater} opptak →</a>
 				</div>
-				<div class="persons-grid">
-					{#each topPersons as person}
-						<a href="/person/{person.id}" class="person-card">
-							<div class="person-image">
-								{#if person.image_url}
-									<img src={person.image_url} alt="" />
-								{:else}
-									<div class="person-placeholder">👤</div>
-								{/if}
-							</div>
-							<div class="person-info">
-								<span class="person-name">{person.name}</span>
-								{#if person.birth_year}
-									<span class="person-years">{person.birth_year}–{person.death_year || ''}</span>
-								{/if}
-								<span class="person-count">{person.performance_count} opptak</span>
-							</div>
-						</a>
-					{/each}
+				<div class="showcase-card">
+					<a href={showcaseDrama?.link || '/dramaserier'} class="showcase-main">
+						<div class="showcase-image">
+							{#if showcaseDrama?.image_url}
+								<img src={showcaseDrama.image_url} alt="" />
+							{:else}
+								<div class="showcase-placeholder">📺</div>
+							{/if}
+						</div>
+						<div class="showcase-info">
+							<span class="showcase-category">Dramaserier</span>
+							<span class="showcase-title">{showcaseDrama?.title || 'Dramaserier'}</span>
+						</div>
+					</a>
+					<a href="/dramaserier" class="showcase-all">Se alle →</a>
 				</div>
-			</section>
-		{/if}
+				<div class="showcase-card">
+					<a href={showcaseOpera?.link || '/opera'} class="showcase-main">
+						<div class="showcase-image">
+							{#if showcaseOpera?.image_url}
+								<img src={showcaseOpera.image_url} alt="" />
+							{:else}
+								<div class="showcase-placeholder">🩰</div>
+							{/if}
+						</div>
+						<div class="showcase-info">
+							<span class="showcase-category">Opera & Ballett</span>
+							<span class="showcase-title">{showcaseOpera?.title || 'Opera og ballett'}</span>
+						</div>
+					</a>
+					<a href="/opera" class="showcase-all">{stats.opera} opptak →</a>
+				</div>
+				<div class="showcase-card">
+					<a href={showcaseKonsert?.link || '/konserter'} class="showcase-main">
+						<div class="showcase-image">
+							{#if showcaseKonsert?.image_url}
+								<img src={showcaseKonsert.image_url} alt="" />
+							{:else}
+								<div class="showcase-placeholder">🎵</div>
+							{/if}
+						</div>
+						<div class="showcase-info">
+							<span class="showcase-category">Konserter</span>
+							<span class="showcase-title">{showcaseKonsert?.title || 'Klassisk musikk'}</span>
+						</div>
+					</a>
+					<a href="/konserter" class="showcase-all">{stats.concerts} opptak →</a>
+				</div>
+				<div class="showcase-card">
+					<a href={showcasePerson?.link || '/forfattere'} class="showcase-main">
+						<div class="showcase-image">
+							{#if showcasePerson?.image_url}
+								<img src={showcasePerson.image_url} alt="" />
+							{:else}
+								<div class="showcase-placeholder person">👤</div>
+							{/if}
+						</div>
+						<div class="showcase-info">
+							<span class="showcase-category">Personer</span>
+							<span class="showcase-title">{showcasePerson?.title || 'Forfattere & komponister'}</span>
+						</div>
+					</a>
+					<a href="/forfattere" class="showcase-all">{stats.persons} personer →</a>
+				</div>
+			</div>
+		</section>
 
 		<!-- Ibsen -->
 		{#if ibsenPlays.length > 0}
@@ -383,31 +491,6 @@
 			</section>
 		{/if}
 
-		<!-- Classical Works -->
-		{#if topConcertWorks.length > 0}
-			<section class="row-section">
-				<div class="section-header">
-					<h2>Klassisk musikk</h2>
-					<a href="/konserter" class="link">Alle →</a>
-				</div>
-				<div class="row">
-					{#each topConcertWorks as work}
-						<a href="/verk/{work.id}" class="row-card">
-							{#if work.image_url}
-								<img src={work.image_url} alt="" />
-							{:else}
-								<div class="row-placeholder music">♪</div>
-							{/if}
-							<span class="row-title">{work.title}</span>
-							{#if work.composer_name}
-								<span class="row-composer">{work.composer_name}</span>
-							{/if}
-							<span class="row-count">{work.performance_count} opptak</span>
-						</a>
-					{/each}
-				</div>
-			</section>
-		{/if}
 	</div>
 {/if}
 
@@ -666,72 +749,6 @@
 		color: #999;
 	}
 
-	/* Persons */
-	.persons-grid {
-		display: grid;
-		grid-template-columns: repeat(6, 1fr);
-		gap: 1rem;
-	}
-
-	.person-card {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		text-align: center;
-		text-decoration: none;
-		color: inherit;
-		padding: 1rem;
-		border-radius: 8px;
-		transition: background 0.15s;
-	}
-
-	.person-card:hover {
-		background: #f5f5f5;
-	}
-
-	.person-image {
-		width: 80px;
-		height: 80px;
-		border-radius: 50%;
-		overflow: hidden;
-		margin-bottom: 0.75rem;
-		background: #f0f0f0;
-	}
-
-	.person-image img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-	}
-
-	.person-placeholder {
-		width: 100%;
-		height: 100%;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		font-size: 2rem;
-		background: linear-gradient(135deg, #667eea, #764ba2);
-		color: rgba(255,255,255,0.6);
-	}
-
-	.person-name {
-		font-weight: 500;
-		font-size: 0.9rem;
-		margin-bottom: 0.15rem;
-	}
-
-	.person-years {
-		font-size: 0.8rem;
-		color: #888;
-	}
-
-	.person-count {
-		font-size: 0.75rem;
-		color: #e94560;
-		margin-top: 0.25rem;
-	}
-
 	/* Horizontal rows */
 	.row {
 		display: flex;
@@ -806,14 +823,122 @@
 		margin-top: 0.25rem;
 	}
 
+	/* Showcase section */
+	.showcase-section {
+		margin-top: 1rem;
+	}
+
+	.showcase-section h2 {
+		font-size: 1.25rem;
+		font-weight: 600;
+		margin-bottom: 1rem;
+	}
+
+	.showcase-grid {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+		gap: 1rem;
+	}
+
+	.showcase-card {
+		display: flex;
+		flex-direction: column;
+		background: white;
+		border-radius: 10px;
+		overflow: hidden;
+		box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+		transition: box-shadow 0.2s;
+	}
+
+	.showcase-card:hover {
+		box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+	}
+
+	.showcase-main {
+		display: block;
+		text-decoration: none;
+		color: inherit;
+		flex: 1;
+	}
+
+	.showcase-main:hover .showcase-image img {
+		transform: scale(1.03);
+	}
+
+	.showcase-image {
+		aspect-ratio: 16/10;
+		overflow: hidden;
+	}
+
+	.showcase-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		transition: transform 0.2s;
+	}
+
+	.showcase-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		font-size: 2rem;
+	}
+
+	.showcase-placeholder.person {
+		background: linear-gradient(135deg, #667eea, #764ba2);
+	}
+
+	.showcase-info {
+		padding: 0.75rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+	}
+
+	.showcase-category {
+		font-size: 0.7rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+		color: #e94560;
+	}
+
+	.showcase-title {
+		font-weight: 500;
+		font-size: 0.85rem;
+		line-height: 1.3;
+		color: #333;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.showcase-all {
+		display: block;
+		text-align: center;
+		padding: 0.6rem;
+		font-size: 0.8rem;
+		color: #e94560;
+		text-decoration: none;
+		border-top: 1px solid #f0f0f0;
+		transition: background 0.15s;
+	}
+
+	.showcase-all:hover {
+		background: #fdf2f4;
+	}
+
 	/* Responsive */
 	@media (max-width: 1000px) {
 		.grid {
 			grid-template-columns: repeat(3, 1fr);
 		}
 
-		.persons-grid {
-			grid-template-columns: repeat(4, 1fr);
+		.showcase-grid {
+			grid-template-columns: repeat(3, 1fr);
 		}
 	}
 
@@ -823,8 +948,8 @@
 			gap: 1rem;
 		}
 
-		.persons-grid {
-			grid-template-columns: repeat(3, 1fr);
+		.showcase-grid {
+			grid-template-columns: repeat(2, 1fr);
 		}
 
 		.quick-stats {
@@ -839,14 +964,21 @@
 			grid-template-columns: 1fr;
 		}
 
-		.persons-grid {
+		.showcase-grid {
 			grid-template-columns: repeat(2, 1fr);
-			gap: 0.5rem;
+			gap: 0.75rem;
 		}
 
-		.person-image {
-			width: 60px;
-			height: 60px;
+		.showcase-card {
+			border-radius: 8px;
+		}
+
+		.showcase-info {
+			padding: 0.5rem;
+		}
+
+		.showcase-title {
+			font-size: 0.8rem;
 		}
 
 		.row-card {

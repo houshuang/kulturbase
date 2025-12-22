@@ -9,3 +9,6 @@ description: 'Opptak fra Oslo Konserthus. Oslo filharmoniske orkester fremfører
 series_id: oslo-filharmoniske-orkester
 total_duration: 2718
 image_url: https://gfx.nrk.no/kWmLHbWBGHN74pw1YuGGog5lSScPq6ONbZ-lBQB_9x0w
+credits:
+- person_id: 4069
+  role: conductor

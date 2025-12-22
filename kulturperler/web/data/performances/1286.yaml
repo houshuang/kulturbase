@@ -7,3 +7,6 @@ year: 2008
 description: Joseph Haydns symfoni nr 103, "Paukevirvelen", er et av hans mest originale
   verk. Oslo Filharmoniske Orkester og dirigent Jukka-Pekka Saraste.
 total_duration: 1781
+credits:
+- person_id: 4082
+  role: conductor

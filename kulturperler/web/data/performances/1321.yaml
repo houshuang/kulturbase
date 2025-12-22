@@ -12,3 +12,6 @@ description: "Wolfgang Plagge er solist med Kringkastingsorkestret. Dirigent: Ne
   \                 Felix Mendelssohn Bartholdy: Presto fra Konsert for klaver og\
   \ orkester i g-moll.  \rRegi: Stein-Roger Bull."
 total_duration: 2219
+credits:
+- person_id: 3282
+  role: conductor

@@ -9,3 +9,6 @@ description: 'Edvard Griegs "Klaverkonsert i a-moll". Ekstranummer: "Impromtu i 
 series_id: oslo-filharmoniske-orkester
 total_duration: 2386
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4233
+  role: conductor

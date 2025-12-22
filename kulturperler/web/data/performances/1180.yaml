@@ -9,3 +9,6 @@ description: 'Konsert i Aulaen i Oslo med Filharmonisk selskaps orkester. Dirige
 series_id: oslo-filharmoniske-orkester
 total_duration: 2597
 image_url: https://gfx.nrk.no/DbkiX0JcjBRGOaPZMMaDoAseLREc3KJ51Gzk5M6ej9pA
+credits:
+- person_id: 4237
+  role: conductor

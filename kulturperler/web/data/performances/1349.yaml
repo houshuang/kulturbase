@@ -12,3 +12,6 @@ description: "Musikkforskere har lenge visst at Johann Halvorsen skrev en fiolin
   \ Erikstad er i Stavanger i samtale med musikkforskere, solist og dirigent.\r"
 series_id: hovedscenen-tv
 total_duration: 4180
+credits:
+- person_id: 3815
+  role: conductor

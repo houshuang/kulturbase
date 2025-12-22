@@ -12,3 +12,6 @@ description: "Pianist Sveinung Bjelland og KORK byr på den ultimate romantikk m
 series_id: kork-hele-landets-orkester
 total_duration: 2880
 image_url: https://gfx.nrk.no/CoDPshPok4Pa77gDvkBP3Q_g7IQrdKmhOqYZ4OGphuDg
+credits:
+- person_id: 4219
+  role: conductor

@@ -10,3 +10,6 @@ description: Lars Saabye Christensens tekster møter igjen Geir Holmsens musikk,
 series_id: kork-hele-landets-orkester
 total_duration: 3670
 image_url: https://gfx.nrk.no/_v8zLhv2eiFdI3WRCVs44QtdmMeI65RSyvcdamuExr6w
+credits:
+- person_id: 4209
+  role: conductor

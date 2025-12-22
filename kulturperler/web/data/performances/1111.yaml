@@ -9,3 +9,6 @@ description: 'Audun Sandvik er solist med eget orkester i Robert Schumanns vakre
 series_id: kork-hele-landets-orkester
 total_duration: 1865
 image_url: https://gfx.nrk.no/1avhJNfus3F5gEdrtIrurQ_S5hzNiEYrLcfU7CnI4rRg
+credits:
+- person_id: 4218
+  role: conductor

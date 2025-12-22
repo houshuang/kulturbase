@@ -8,3 +8,6 @@ description: "Nachruf for strykere og Magma for stort orkester av Arne Nordheim.
   Oslo Filharmoniske orkester. Dirigent: Christian Eggen. Fra Oslo Konserthus."
 series_id: musikk-paa-soendag
 total_duration: 2021
+credits:
+- person_id: 1186
+  role: conductor

@@ -9,3 +9,6 @@ description: Nyttårskonsert fra Olavshallen i Trondheim som byr på unge talent
   Øystein Bache.
 series_id: godt-musikkaar
 total_duration: 3985
+credits:
+- person_id: 3868
+  role: conductor

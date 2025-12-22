@@ -10,3 +10,6 @@ description: "Et sensasjonelt møte mellom KORK, indisk klassisk musikk og en av
 series_id: kork-hele-landets-orkester
 total_duration: 2771
 image_url: https://gfx.nrk.no/OxqBajRaLyfo9-fST3wTcQqCJAp-fNjpGC_VfrvkATqg
+credits:
+- person_id: 4214
+  role: conductor

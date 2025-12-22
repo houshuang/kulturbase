@@ -134,7 +134,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.suvKH0Oj.css"
+      "_app/immutable/assets/_layout.BC0U3qEd.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -149,7 +149,7 @@
       "_state.svelte.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.Z1_Y7k3J.css"
+      "_app/immutable/assets/_page.DUXqR4sH.css"
     ]
   },
   "src/routes/dramaserier/+page.svelte": {
@@ -161,7 +161,7 @@
       "_index2.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DaZC1iv6.css"
+      "_app/immutable/assets/_page.CjI05JlT.css"
     ]
   },
   "src/routes/episode/[id]/+page.svelte": {
@@ -175,6 +175,23 @@
     ],
     "css": [
       "_app/immutable/assets/_page.H_cBDbPQ.css"
+    ]
+  },
+  "src/routes/forfattere/+page.svelte": {
+    "file": "entries/pages/forfattere/_page.svelte.js",
+    "name": "entries/pages/forfattere/_page.svelte",
+    "src": "src/routes/forfattere/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_stores.js",
+      "_exports.js",
+      "_utils.js",
+      "_context.js",
+      "_state.svelte.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CZBcIFJ3.css"
     ]
   },
   "src/routes/konserter/+page.svelte": {
@@ -202,7 +219,7 @@
       "_index2.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.Cb6DQzN6.css"
+      "_app/immutable/assets/_page.CkN9cYjA.css"
     ]
   },
   "src/routes/opera/+page.svelte": {
@@ -233,7 +250,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.D3fsRqpG.css"
+      "_app/immutable/assets/_page.BYG9Wdbo.css"
     ]
   },
   "src/routes/performance/[id]/+page.svelte": {
@@ -265,7 +282,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CQX7kGlo.css"
+      "_app/immutable/assets/_page.C5n5p_Vl.css"
     ]
   },
   "src/routes/persons/+page.svelte": {
@@ -279,18 +296,6 @@
     ],
     "css": [
       "_app/immutable/assets/_page.CQXrWj57.css"
-    ]
-  },
-  "src/routes/skapere/+page.svelte": {
-    "file": "entries/pages/skapere/_page.svelte.js",
-    "name": "entries/pages/skapere/_page.svelte",
-    "src": "src/routes/skapere/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index2.js"
-    ],
-    "css": [
-      "_app/immutable/assets/_page.DD663t7_.css"
     ]
   },
   "src/routes/sok/+page.svelte": {
@@ -339,7 +344,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.Di_CTmye.css"
+      "_app/immutable/assets/_page.CtWBq3nw.css"
     ]
   },
   "src/routes/verk/play/[id]/+page.svelte": {

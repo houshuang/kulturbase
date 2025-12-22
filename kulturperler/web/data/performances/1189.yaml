@@ -9,3 +9,6 @@ description: 'Det første av to programmer fra en konsertserie i Oslo Konserthus
 series_id: musikalske-hoeydepunkter-med-arve-tellefsen-og-oslo-filharmoniske-orkester
 total_duration: 2419
 image_url: https://gfx.nrk.no/_Uy1aEOGK8j5bFk1XbkznggoqNyzLVVOEBLCnacmcBOg
+credits:
+- person_id: 4239
+  role: conductor

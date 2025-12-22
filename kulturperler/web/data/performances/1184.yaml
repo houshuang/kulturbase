@@ -9,3 +9,12 @@ description: '"Vinteren" av Vivaldi, "Bondekantate" av Bach, "Adagio" av Albinon
 series_id: barokk-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester
 total_duration: 2568
 image_url: https://gfx.nrk.no/Jeu-z5dJ7nb4uEvWxi7z9A3_J2v7_9F-0FzlLF2QjvAA
+credits:
+- person_id: 3776
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3777
+  role: composer
+- person_id: 3778
+  role: composer

@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/performance/[id]/+page.svelte";
+export { default as component } from "../../../../src/routes/opptak/[id]/+page.svelte";

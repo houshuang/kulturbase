@@ -12,8 +12,6 @@ image_url: https://gfx.nrk.no/UQC63jxERRHl30fLKKpwVw8dZZqef8j1MmQyXJY4kvSg
 credits:
 - person_id: 3326
   role: artist/utøver
-- person_id: 3327
-  role: artist/utøver
 - person_id: 3328
   role: artist/utøver
 - person_id: 3329
@@ -22,3 +20,6 @@ credits:
   role: medvirkende
 - person_id: 3331
   role: programleder
+institutions:
+- institution_id: 1
+  role: orchestra

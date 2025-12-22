@@ -13,3 +13,10 @@ description: "Grieg - Sæverud - Nordheim.  Et forsøk på en sammenligning.  En
   \ Eyvind Solås                                                     \r\nRegi: Inge\
   \ Lotsberg."
 total_duration: 3497
+credits:
+- person_id: 1230
+  role: composer
+- person_id: 3683
+  role: composer
+- person_id: 1068
+  role: composer

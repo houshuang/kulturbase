@@ -91,7 +91,7 @@
 		{:else}
 			<div class="performances-grid">
 				{#each performances as perf}
-					<a href="/performance/{perf.id}" class="performance-card">
+					<a href="/opptak/{perf.id}" class="performance-card">
 						{#if perf.image_url}
 							<img src={perf.image_url} alt={perf.work_title || perf.title || ''} />
 						{:else}

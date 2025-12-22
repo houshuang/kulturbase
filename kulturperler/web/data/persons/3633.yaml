@@ -1,3 +1,13 @@
 id: 3633
 name: Giuseppe Verdi
 normalized_name: giuseppe verdi
+bio: Giuseppe Fortunino Francesco Verdi var en fremtredende italiensk operakomponist
+  som levde på 1800-tallet. Han ble født i 1813 og regnes som en av de mest innflytelsesrike
+  komponistene i musikkhistorien. Verdi er spesielt kjent for sine mange mesterverk,
+  inkludert operaer som Rigoletto, Il trovatore og La traviata. Hans musikk spilte
+  også en viktig rolle i den italienske samlingsbevegelsen, kjent som Risorgimento.
+  Han døde i 1901, men hans verk fortsetter å bli fremført på operascener over hele
+  verden i dag.
+birth_year: 1813
+death_year: 1901
+wikipedia_url: https://no.wikipedia.org/wiki/Giuseppe_Verdi

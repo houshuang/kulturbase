@@ -1,53 +1,204 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { page } from '$app/stores';
+	import { goto } from '$app/navigation';
 	import { getDb } from '$lib/db';
-	import type { ExternalResource } from '$lib/types';
 
-	let concerts: ExternalResource[] = [];
+	interface ConcertPerformance {
+		id: number;
+		work_id: number | null;
+		year: number | null;
+		title: string | null;
+		description: string | null;
+		total_duration: number | null;
+		image_url: string | null;
+		work_title: string | null;
+		work_type: string | null;
+		composer_name: string | null;
+		composer_id: number | null;
+		conductor_name: string | null;
+		source: string | null;
+	}
+
+	interface FilterCounts {
+		types: Record<string, number>;
+		composers: Record<string, { id: number; count: number }>;
+	}
+
+	let allPerformances: ConcertPerformance[] = [];
+	let filteredPerformances: ConcertPerformance[] = [];
 	let loading = true;
-	let composerFilter = '';
-	let composers: string[] = [];
+	let filterCounts: FilterCounts = { types: {}, composers: {} };
+
+	// Filter state
+	let selectedType: string = 'all';
+	let selectedComposer: string = 'all';
+	let sortBy: 'year-desc' | 'year-asc' | 'composer' | 'title' = 'year-desc';
+	let showFilters = false;
+
+	// Get unique types and composers
+	$: types = Object.entries(filterCounts.types).sort((a, b) => b[1] - a[1]);
+	$: composers = Object.entries(filterCounts.composers)
+		.map(([name, data]) => ({ name, ...data }))
+		.sort((a, b) => b.count - a.count);
+
+	// Read filters from URL
+	$: {
+		const urlType = $page.url.searchParams.get('type');
+		const urlComposer = $page.url.searchParams.get('composer');
+		const urlSort = $page.url.searchParams.get('sort');
+
+		selectedType = urlType || 'all';
+		selectedComposer = urlComposer || 'all';
+
+		if (urlSort === 'year-asc' || urlSort === 'composer' || urlSort === 'title') sortBy = urlSort;
+		else sortBy = 'year-desc';
+	}
+
+	// Apply filters
+	$: {
+		let result = [...allPerformances];
+
+		if (selectedType !== 'all') {
+			result = result.filter(p => p.work_type === selectedType);
+		}
+
+		if (selectedComposer !== 'all') {
+			result = result.filter(p => p.composer_name === selectedComposer);
+		}
+
+		// Sort
+		if (sortBy === 'year-desc') {
+			result.sort((a, b) => (b.year || 0) - (a.year || 0));
+		} else if (sortBy === 'year-asc') {
+			result.sort((a, b) => (a.year || 0) - (b.year || 0));
+		} else if (sortBy === 'composer') {
+			result.sort((a, b) => (a.composer_name || '').localeCompare(b.composer_name || '', 'no'));
+		} else if (sortBy === 'title') {
+			result.sort((a, b) => (a.work_title || a.title || '').localeCompare(b.work_title || b.title || '', 'no'));
+		}
+
+		filteredPerformances = result;
+	}
+
+	function updateUrl() {
+		const params = new URLSearchParams();
+		if (selectedType !== 'all') params.set('type', selectedType);
+		if (selectedComposer !== 'all') params.set('composer', selectedComposer);
+		if (sortBy !== 'year-desc') params.set('sort', sortBy);
+
+		const query = params.toString();
+		goto(`/konserter${query ? '?' + query : ''}`, { replaceState: true, noScroll: true });
+	}
+
+	function setFilter(type: 'type' | 'composer', value: string) {
+		if (type === 'type') selectedType = value;
+		else if (type === 'composer') selectedComposer = value;
+		updateUrl();
+	}
+
+	function resetFilters() {
+		selectedType = 'all';
+		selectedComposer = 'all';
+		goto('/konserter', { replaceState: true, noScroll: true });
+	}
+
+	$: hasActiveFilters = selectedType !== 'all' || selectedComposer !== 'all';
 
 	onMount(async () => {
 		const db = getDb();
 		if (!db) return;
 
-		// Get all concert resources
+		// Get all concert performances
 		const results = db.exec(`
-			SELECT id, url, title, type, description, added_date, is_working
-			FROM external_resources
-			WHERE type = 'bergenphilive'
-			ORDER BY title
+			SELECT DISTINCT
+				p.id,
+				p.work_id,
+				p.year,
+				p.title as performance_title,
+				p.description,
+				p.total_duration,
+				p.image_url,
+				p.source,
+				w.title as work_title,
+				w.work_type,
+				composer.name as composer_name,
+				composer.id as composer_id,
+				conductor.name as conductor_name
+			FROM performances p
+			LEFT JOIN works w ON p.work_id = w.id
+			LEFT JOIN persons composer ON w.composer_id = composer.id
+			LEFT JOIN performance_persons pp ON pp.performance_id = p.id AND pp.role = 'conductor'
+			LEFT JOIN persons conductor ON pp.person_id = conductor.id
+			WHERE w.category = 'konsert' OR w.work_type IN ('konsert', 'orchestral', 'symphony', 'concerto', 'chamber', 'choral')
+			ORDER BY p.year DESC, w.title
 		`);
 
 		if (results.length > 0) {
-			concerts = results[0].values.map((row: any[]) => ({
+			allPerformances = results[0].values.map((row: any[]) => ({
 				id: row[0],
-				url: row[1],
-				title: row[2],
-				type: row[3],
+				work_id: row[1],
+				year: row[2],
+				title: row[3],
 				description: row[4],
-				added_date: row[5],
-				is_working: row[6]
+				total_duration: row[5],
+				image_url: row[6],
+				source: row[7],
+				work_title: row[8],
+				work_type: row[9],
+				composer_name: row[10],
+				composer_id: row[11],
+				conductor_name: row[12]
 			}));
 
-			// Extract unique composers from titles (format: "Composer: Work")
-			const composerSet = new Set<string>();
-			concerts.forEach(c => {
-				if (c.title.includes(':')) {
-					const composer = c.title.split(':')[0].trim();
-					if (composer) composerSet.add(composer);
+			// Calculate filter counts
+			const typeCounts: Record<string, number> = {};
+			const composerCounts: Record<string, { id: number; count: number }> = {};
+
+			for (const perf of allPerformances) {
+				if (perf.work_type) {
+					typeCounts[perf.work_type] = (typeCounts[perf.work_type] || 0) + 1;
 				}
-			});
-			composers = Array.from(composerSet).sort();
+				if (perf.composer_name && perf.composer_id) {
+					if (!composerCounts[perf.composer_name]) {
+						composerCounts[perf.composer_name] = { id: perf.composer_id, count: 0 };
+					}
+					composerCounts[perf.composer_name].count++;
+				}
+			}
+
+			filterCounts = { types: typeCounts, composers: composerCounts };
 		}
 
 		loading = false;
 	});
 
-	$: filteredConcerts = composerFilter
-		? concerts.filter(c => c.title.toLowerCase().startsWith(composerFilter.toLowerCase()))
-		: concerts;
+	function formatDuration(seconds: number | null): string {
+		if (!seconds) return '';
+		const hours = Math.floor(seconds / 3600);
+		const minutes = Math.floor((seconds % 3600) / 60);
+		if (hours > 0) return `${hours}t ${minutes}m`;
+		return `${minutes}m`;
+	}
+
+	function getImageUrl(url: string | null, width = 400): string {
+		if (!url) return '';
+		if (url.includes('gfx.nrk.no')) {
+			return url.replace(/\/\d+$/, `/${width}`);
+		}
+		return url;
+	}
+
+	function getTypeLabel(type: string): string {
+		const labels: Record<string, string> = {
+			orchestral: 'Orkesterverk',
+			symphony: 'Symfoni',
+			concerto: 'Konsert (solist)',
+			chamber: 'Kammermusikk',
+			choral: 'Korverk'
+		};
+		return labels[type] || type;
+	}
 </script>
 
 <svelte:head>
@@ -56,51 +207,138 @@
 
 <div class="konserter-page">
 	<header class="page-header">
-		<h1>Konserter</h1>
+		<h1>Klassisk musikk</h1>
 		<p class="subtitle">Konserter fra Bergen Filharmoniske Orkester og andre</p>
 	</header>
 
 	{#if loading}
 		<div class="loading">Laster konserter...</div>
 	{:else}
-		<div class="filters">
-			<div class="filter-group">
-				<label for="composer">Komponist</label>
-				<select id="composer" bind:value={composerFilter}>
-					<option value="">Alle komponister</option>
-					{#each composers as composer}
-						<option value={composer}>{composer}</option>
+		<div class="browse-layout">
+			<!-- Filters sidebar -->
+			<aside class="filters-sidebar" class:open={showFilters}>
+				<div class="filters-header">
+					<h2>Filter</h2>
+					<button class="close-filters" on:click={() => showFilters = false}>×</button>
+				</div>
+
+				<!-- Type filter -->
+				<div class="filter-group">
+					<h3>Type</h3>
+					<label class="filter-option">
+						<input type="radio" name="type" checked={selectedType === 'all'} on:change={() => setFilter('type', 'all')} />
+						<span>Alle</span>
+						<span class="count">{allPerformances.length}</span>
+					</label>
+					{#each types as [type, count]}
+						<label class="filter-option">
+							<input type="radio" name="type" checked={selectedType === type} on:change={() => setFilter('type', type)} />
+							<span>{getTypeLabel(type)}</span>
+							<span class="count">{count}</span>
+						</label>
 					{/each}
-				</select>
-			</div>
-		</div>
+				</div>
 
-		<div class="stats">
-			<span class="stat">{filteredConcerts.length} konserter</span>
-			{#if composerFilter}
-				<button class="clear-filter" on:click={() => composerFilter = ''}>Nullstill filter</button>
-			{/if}
-		</div>
-
-		<div class="concerts-grid">
-			{#each filteredConcerts as concert}
-				<a href={concert.url} target="_blank" rel="noopener" class="concert-card">
-					<div class="card-icon">Konsert</div>
-					<div class="card-content">
-						<h3>{concert.title}</h3>
-						{#if concert.description}
-							<p class="description">{concert.description}</p>
-						{/if}
-						<div class="meta">
-							<span class="source">Bergen Filharmoniske</span>
-							<span class="external">Se konsert ↗</span>
-						</div>
+				<!-- Composer filter -->
+				<div class="filter-group">
+					<h3>Komponist</h3>
+					<label class="filter-option">
+						<input type="radio" name="composer" checked={selectedComposer === 'all'} on:change={() => setFilter('composer', 'all')} />
+						<span>Alle</span>
+						<span class="count">{allPerformances.length}</span>
+					</label>
+					<div class="scrollable-options">
+						{#each composers.slice(0, 30) as composer}
+							<label class="filter-option">
+								<input type="radio" name="composer" checked={selectedComposer === composer.name} on:change={() => setFilter('composer', composer.name)} />
+								<span>{composer.name}</span>
+								<span class="count">{composer.count}</span>
+							</label>
+						{/each}
 					</div>
-				</a>
-			{/each}
+				</div>
+
+				{#if hasActiveFilters}
+					<button class="reset-filters" on:click={resetFilters}>
+						Nullstill filter
+					</button>
+				{/if}
+			</aside>
+
+			<!-- Main content -->
+			<main class="browse-content">
+				<div class="browse-toolbar">
+					<button class="filter-toggle" on:click={() => showFilters = !showFilters}>
+						Filter {hasActiveFilters ? '(aktive)' : ''}
+					</button>
+
+					<div class="results-info">
+						<span class="result-count">{filteredPerformances.length} konserter</span>
+						{#if hasActiveFilters}
+							<button class="clear-link" on:click={resetFilters}>Fjern filter</button>
+						{/if}
+					</div>
+
+					<div class="sort-control">
+						<label for="sort">Sorter:</label>
+						<select id="sort" bind:value={sortBy} on:change={() => updateUrl()}>
+							<option value="year-desc">Nyeste forst</option>
+							<option value="year-asc">Eldste forst</option>
+							<option value="composer">Komponist A-A</option>
+							<option value="title">Tittel A-A</option>
+						</select>
+					</div>
+				</div>
+
+				<div class="concerts-grid">
+					{#each filteredPerformances as perf}
+						<a href="/opptak/{perf.id}" class="concert-card">
+							{#if perf.image_url}
+								<img src={getImageUrl(perf.image_url)} alt={perf.work_title || perf.title || ''} loading="lazy" />
+							{:else}
+								<div class="no-image">
+									<span class="icon">Klassisk</span>
+								</div>
+							{/if}
+							<div class="card-content">
+								<h3>{perf.work_title || perf.title}</h3>
+								{#if perf.composer_name}
+									<p class="composer">{perf.composer_name}</p>
+								{/if}
+								<div class="meta">
+									{#if perf.year}
+										<span class="year">{perf.year}</span>
+									{/if}
+									{#if perf.work_type}
+										<span class="type">{getTypeLabel(perf.work_type)}</span>
+									{/if}
+									{#if perf.total_duration}
+										<span class="duration">{formatDuration(perf.total_duration)}</span>
+									{/if}
+								</div>
+								{#if perf.conductor_name}
+									<p class="conductor">Dirigent: {perf.conductor_name}</p>
+								{/if}
+							</div>
+						</a>
+					{/each}
+				</div>
+
+				{#if filteredPerformances.length === 0}
+					<div class="no-results">
+						<p>Ingen konserter matcher filtrene dine.</p>
+						<button on:click={resetFilters}>Fjern filter</button>
+					</div>
+				{/if}
+			</main>
 		</div>
 	{/if}
 </div>
+
+<!-- Backdrop for mobile filters -->
+{#if showFilters}
+	<button class="filters-backdrop" on:click={() => showFilters = false} aria-label="Lukk filter"></button>
+{/if}
 
 <style>
 	.konserter-page {
@@ -122,70 +360,181 @@
 		font-size: 1.1rem;
 	}
 
-	.filters {
-		background: white;
-		padding: 1rem;
-		border-radius: 8px;
-		margin-bottom: 1.5rem;
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-	}
-
-	.filter-group {
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-	}
-
-	.filter-group label {
-		font-weight: 500;
-		color: #333;
-	}
-
-	.filter-group select {
-		padding: 0.5rem 1rem;
-		border: 1px solid #ddd;
-		border-radius: 6px;
-		font-size: 0.95rem;
-		min-width: 200px;
-	}
-
-	.stats {
-		margin-bottom: 1.5rem;
-		color: #666;
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-	}
-
-	.stat {
-		background: #e8e8e8;
-		padding: 0.25rem 0.75rem;
-		border-radius: 4px;
-		font-size: 0.9rem;
-	}
-
-	.clear-filter {
-		background: none;
-		border: none;
-		color: #e94560;
-		cursor: pointer;
-		font-size: 0.9rem;
-	}
-
-	.clear-filter:hover {
-		text-decoration: underline;
-	}
-
 	.loading {
 		text-align: center;
 		padding: 4rem;
 		color: #666;
 	}
 
+	/* Browse layout */
+	.browse-layout {
+		display: grid;
+		grid-template-columns: 240px 1fr;
+		gap: 2rem;
+	}
+
+	/* Filters sidebar */
+	.filters-sidebar {
+		background: white;
+		border-radius: 8px;
+		padding: 1.5rem;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+		height: fit-content;
+		position: sticky;
+		top: 1rem;
+	}
+
+	.filters-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1rem;
+	}
+
+	.filters-header h2 {
+		font-size: 1.1rem;
+		margin: 0;
+	}
+
+	.close-filters {
+		display: none;
+		background: none;
+		border: none;
+		font-size: 1.5rem;
+		cursor: pointer;
+		color: #666;
+	}
+
+	.filter-group {
+		margin-bottom: 1.5rem;
+	}
+
+	.filter-group h3 {
+		font-size: 0.85rem;
+		text-transform: uppercase;
+		color: #888;
+		margin-bottom: 0.75rem;
+		letter-spacing: 0.5px;
+	}
+
+	.filter-option {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.5rem 0;
+		cursor: pointer;
+		font-size: 0.95rem;
+	}
+
+	.filter-option input {
+		accent-color: #667eea;
+	}
+
+	.filter-option span:first-of-type {
+		flex: 1;
+	}
+
+	.filter-option .count {
+		color: #999;
+		font-size: 0.85rem;
+	}
+
+	.scrollable-options {
+		max-height: 300px;
+		overflow-y: auto;
+	}
+
+	.reset-filters {
+		width: 100%;
+		padding: 0.75rem;
+		background: #f5f5f5;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		font-size: 0.9rem;
+		color: #666;
+		transition: background 0.15s;
+	}
+
+	.reset-filters:hover {
+		background: #667eea;
+		color: white;
+	}
+
+	/* Browse content */
+	.browse-content {
+		min-width: 0;
+	}
+
+	.browse-toolbar {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		margin-bottom: 1.5rem;
+		flex-wrap: wrap;
+	}
+
+	.filter-toggle {
+		display: none;
+		padding: 0.5rem 1rem;
+		background: white;
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		cursor: pointer;
+		font-size: 0.9rem;
+	}
+
+	.results-info {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		flex: 1;
+	}
+
+	.result-count {
+		background: #e8e8e8;
+		padding: 0.35rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.9rem;
+	}
+
+	.clear-link {
+		background: none;
+		border: none;
+		color: #667eea;
+		cursor: pointer;
+		font-size: 0.85rem;
+		padding: 0;
+	}
+
+	.clear-link:hover {
+		text-decoration: underline;
+	}
+
+	.sort-control {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.sort-control label {
+		font-size: 0.9rem;
+		color: #666;
+	}
+
+	.sort-control select {
+		padding: 0.4rem 0.75rem;
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		font-size: 0.9rem;
+		background: white;
+	}
+
+	/* Grid */
 	.concerts-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-		gap: 1rem;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 1.25rem;
 	}
 
 	.concert-card {
@@ -196,31 +545,36 @@
 		text-decoration: none;
 		color: inherit;
 		transition: transform 0.2s, box-shadow 0.2s;
-		display: flex;
 	}
 
 	.concert-card:hover {
-		transform: translateY(-2px);
+		transform: translateY(-4px);
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 	}
 
-	.card-icon {
-		width: 80px;
-		min-height: 80px;
-		background: linear-gradient(135deg, #1a1a2e, #16213e);
+	.concert-card img {
+		width: 100%;
+		height: 140px;
+		object-fit: cover;
+	}
+
+	.no-image {
+		width: 100%;
+		height: 140px;
+		background: linear-gradient(135deg, #667eea, #764ba2);
 		color: white;
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		font-weight: bold;
-		font-size: 0.85rem;
+	}
+
+	.no-image .icon {
+		font-size: 1rem;
+		opacity: 0.8;
 	}
 
 	.card-content {
-		padding: 0.75rem 1rem;
-		flex: 1;
-		display: flex;
-		flex-direction: column;
+		padding: 0.875rem;
 	}
 
 	.card-content h3 {
@@ -229,27 +583,106 @@
 		line-height: 1.3;
 	}
 
-	.description {
-		color: #666;
-		font-size: 0.8rem;
+	.composer {
+		color: #667eea;
+		font-size: 0.85rem;
 		margin-bottom: 0.5rem;
-		flex: 1;
+		font-weight: 500;
 	}
 
 	.meta {
 		display: flex;
-		gap: 0.75rem;
-		font-size: 0.75rem;
+		gap: 0.5rem;
+		font-size: 0.8rem;
 		color: #888;
+		flex-wrap: wrap;
+		margin-bottom: 0.25rem;
 	}
 
-	.source {
+	.year {
+		font-weight: 500;
+	}
+
+	.type {
 		background: #f0f0f0;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;
 	}
 
-	.external {
-		color: #e94560;
+	.conductor {
+		font-size: 0.8rem;
+		color: #666;
+		margin: 0;
+	}
+
+	.no-results {
+		text-align: center;
+		padding: 3rem;
+		color: #666;
+	}
+
+	.no-results button {
+		margin-top: 1rem;
+		padding: 0.5rem 1.5rem;
+		background: #667eea;
+		color: white;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+	}
+
+	.filters-backdrop {
+		display: none;
+	}
+
+	/* Mobile styles */
+	@media (max-width: 800px) {
+		.browse-layout {
+			grid-template-columns: 1fr;
+		}
+
+		.filters-sidebar {
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 100;
+			border-radius: 0;
+			overflow-y: auto;
+			transform: translateX(-100%);
+			transition: transform 0.3s ease;
+		}
+
+		.filters-sidebar.open {
+			transform: translateX(0);
+		}
+
+		.close-filters {
+			display: block;
+		}
+
+		.filter-toggle {
+			display: block;
+		}
+
+		.filters-backdrop {
+			display: block;
+			position: fixed;
+			inset: 0;
+			background: rgba(0, 0, 0, 0.5);
+			z-index: 99;
+			border: none;
+			cursor: pointer;
+		}
+
+		.concerts-grid {
+			grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+			gap: 1rem;
+		}
+
+		.concert-card img, .no-image {
+			height: 120px;
+		}
 	}
 </style>

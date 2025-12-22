@@ -8,3 +8,10 @@ description: Stein Winge har regien i denne oppsetningen av Verdis opera etter r
   Kameliadamen av Alexandre Dumas. Fra Den Norske Opera våren 2005.
 series_id: hovedscenen-tv
 total_duration: 7633
+credits:
+- person_id: 3775
+  role: composer
+- person_id: 3475
+  role: composer
+- person_id: 3633
+  role: composer

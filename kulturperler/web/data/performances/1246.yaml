@@ -11,3 +11,12 @@ description: "Edward Gardner, dirigent\rAudun Iversen (baryton), En offerprest\r
 series_id: grieg-minutt-for-minutt
 total_duration: 2085
 image_url: https://gfx.nrk.no/EELKihULDixkB7YSjWtzDQljWrg9bsUzOlXmeUE5ID5g
+credits:
+- person_id: 3779
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3400
+  role: composer
+- person_id: 1230
+  role: composer

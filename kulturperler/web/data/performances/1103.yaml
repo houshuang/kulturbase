@@ -10,5 +10,8 @@ series_id: kork-hele-landets-orkester
 total_duration: 1933
 image_url: https://gfx.nrk.no/W5FQOo8KSjF3xWtC0zQrKwusmo-aDqQScCeqU_7c6WlQ
 credits:
-- person_id: 3404
-  role: medvirkende
+- person_id: 3773
+  role: soloist
+institutions:
+- institution_id: 1
+  role: orchestra

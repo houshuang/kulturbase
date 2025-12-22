@@ -2,9 +2,11 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import { initDatabase } from '$lib/db';
+	import SearchBox from '$lib/components/SearchBox.svelte';
 
 	let loading = true;
 	let error: string | null = null;
+	let dbReady = false;
 
 	$: currentPath = $page.url.pathname;
 
@@ -26,6 +28,7 @@
 	onMount(async () => {
 		try {
 			await initDatabase();
+			dbReady = true;
 			loading = false;
 		} catch (e) {
 			error = e instanceof Error ? e.message : 'Failed to load database';
@@ -53,6 +56,10 @@
 					</a>
 				{/each}
 			</nav>
+			<div class="header-spacer"></div>
+			{#if dbReady}
+				<SearchBox placeholder="Søk..." />
+			{/if}
 		</div>
 	</header>
 
@@ -135,6 +142,10 @@
 		gap: 0.25rem;
 	}
 
+	.header-spacer {
+		flex: 1;
+	}
+
 	.nav-link {
 		color: rgba(255, 255, 255, 0.8);
 		text-decoration: none;
@@ -190,14 +201,19 @@
 		}
 
 		.header-content {
-			flex-direction: column;
+			flex-wrap: wrap;
 			gap: 0.5rem;
-			align-items: flex-start;
+		}
+
+		.header-spacer {
+			display: none;
 		}
 
 		.main-nav {
 			flex-wrap: wrap;
 			gap: 0.25rem;
+			order: 3;
+			width: 100%;
 		}
 
 		.nav-link {

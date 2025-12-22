@@ -2,3 +2,11 @@ id: 3756
 name: John Adams
 normalized_name: john adams
 birth_year: 1947
+bio: John Adams levde fra 1735 til 1826 og var en sentral skikkelse i USAs tidlige
+  historie. Han tjenestegjorde som landets aller første visepresident i perioden fra
+  1789 til 1797. Etter dette ble han valgt til USAs andre president og satt i embetet
+  frem til 1801. Adams var også far til John Quincy Adams, som senere ble valgt til
+  USAs sjette president. Hans politiske karriere la et viktig grunnlag for utviklingen
+  av det amerikanske demokratiet.
+death_year: 1826
+wikipedia_url: https://no.wikipedia.org/wiki/John_Adams

@@ -381,6 +381,7 @@ def build_database():
     print("Loading performances...")
     performances = load_yaml_dir(DATA_DIR / 'performances')
     performance_credits = []
+    performance_institution_links = []
     for p in performances:
         conn.execute("""
             INSERT INTO performances (id, work_id, source, year, title, description,
@@ -392,6 +393,11 @@ def build_database():
         for credit in p.get('credits', []):
             performance_credits.append((
                 p['id'], credit['person_id'], credit.get('role'), credit.get('character_name')
+            ))
+        # Handle institution links (orchestras, ensembles, etc.)
+        for inst_link in p.get('institutions', []):
+            performance_institution_links.append((
+                p['id'], inst_link['institution_id'], inst_link.get('role', 'orchestra')
             ))
     stats['performances'] = len(performances)
     print(f"  Inserted {len(performances)} performances")
@@ -405,6 +411,16 @@ def build_database():
         """, pc)
     stats['performance_credits'] = len(performance_credits)
     print(f"  Inserted {len(performance_credits)} performance credits")
+
+    # Insert performance institution links
+    if performance_institution_links:
+        print("  Inserting performance institution links...")
+        for pi in performance_institution_links:
+            conn.execute("""
+                INSERT OR IGNORE INTO performance_institutions (performance_id, institution_id, role)
+                VALUES (?, ?, ?)
+            """, pi)
+        print(f"  Inserted {len(performance_institution_links)} performance institution links")
 
     # Load and insert episodes
     print("Loading episodes...")

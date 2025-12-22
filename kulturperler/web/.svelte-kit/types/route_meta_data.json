@@ -4,11 +4,14 @@
 	"/episode/[id]": [],
 	"/konserter": [],
 	"/opera": [],
+	"/opptak/[id]": [],
 	"/performance/[id]": [],
 	"/persons": [],
 	"/person/[id]": [],
 	"/skapere": [],
+	"/sok": [],
 	"/teater": [],
-	"/work/play/[id]": [],
+	"/verk/play/[id]": [],
+	"/verk/[id]": [],
 	"/work/[id]": []
 }

@@ -27,12 +27,14 @@ export {};
 
 declare module "$app/types" {
 	export interface AppTypes {
-		RouteId(): "/" | "/dramaserier" | "/episode" | "/episode/[id]" | "/konserter" | "/opera" | "/performance" | "/performance/[id]" | "/persons" | "/person" | "/person/[id]" | "/skapere" | "/teater" | "/work" | "/work/play" | "/work/play/[id]" | "/work/[id]";
+		RouteId(): "/" | "/dramaserier" | "/episode" | "/episode/[id]" | "/konserter" | "/opera" | "/opptak" | "/opptak/[id]" | "/performance" | "/performance/[id]" | "/persons" | "/person" | "/person/[id]" | "/skapere" | "/sok" | "/teater" | "/verk" | "/verk/play" | "/verk/play/[id]" | "/verk/[id]" | "/work" | "/work/[id]";
 		RouteParams(): {
 			"/episode/[id]": { id: string };
+			"/opptak/[id]": { id: string };
 			"/performance/[id]": { id: string };
 			"/person/[id]": { id: string };
-			"/work/play/[id]": { id: string };
+			"/verk/play/[id]": { id: string };
+			"/verk/[id]": { id: string };
 			"/work/[id]": { id: string }
 		};
 		LayoutParams(): {
@@ -42,19 +44,24 @@ declare module "$app/types" {
 			"/episode/[id]": { id: string };
 			"/konserter": Record<string, never>;
 			"/opera": Record<string, never>;
+			"/opptak": { id?: string };
+			"/opptak/[id]": { id: string };
 			"/performance": { id?: string };
 			"/performance/[id]": { id: string };
 			"/persons": Record<string, never>;
 			"/person": { id?: string };
 			"/person/[id]": { id: string };
 			"/skapere": Record<string, never>;
+			"/sok": Record<string, never>;
 			"/teater": Record<string, never>;
+			"/verk": { id?: string };
+			"/verk/play": { id?: string };
+			"/verk/play/[id]": { id: string };
+			"/verk/[id]": { id: string };
 			"/work": { id?: string };
-			"/work/play": { id?: string };
-			"/work/play/[id]": { id: string };
 			"/work/[id]": { id: string }
 		};
-		Pathname(): "/" | "/dramaserier" | "/dramaserier/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/konserter" | "/konserter/" | "/opera" | "/opera/" | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/persons" | "/persons/" | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/skapere" | "/skapere/" | "/teater" | "/teater/" | "/work" | "/work/" | "/work/play" | "/work/play/" | `/work/play/${string}` & {} | `/work/play/${string}/` & {} | `/work/${string}` & {} | `/work/${string}/` & {};
+		Pathname(): "/" | "/dramaserier" | "/dramaserier/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/konserter" | "/konserter/" | "/opera" | "/opera/" | "/opptak" | "/opptak/" | `/opptak/${string}` & {} | `/opptak/${string}/` & {} | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/persons" | "/persons/" | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/skapere" | "/skapere/" | "/sok" | "/sok/" | "/teater" | "/teater/" | "/verk" | "/verk/" | "/verk/play" | "/verk/play/" | `/verk/play/${string}` & {} | `/verk/play/${string}/` & {} | `/verk/${string}` & {} | `/verk/${string}/` & {} | "/work" | "/work/" | `/work/${string}` & {} | `/work/${string}/` & {};
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
 		Asset(): "/favicon.png" | "/kulturperler.db" | "/kulturperler.db.backup_20251219_122607" | "/kulturperler.db.backup_20251219_153151" | "/kulturperler.db.backup_20251219_155403" | "/kulturperler.db.backup_20251219_155433" | "/nrk_about_cache.json" | "/nrk_candidates.json" | "/sceneweb_cache.json" | string & {};
 	}

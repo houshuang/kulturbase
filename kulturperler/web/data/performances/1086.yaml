@@ -13,3 +13,8 @@ description: "KORK og Tango for 3 på konsert i Store studio januar 2016. Sverre
 series_id: kork-hele-landets-orkester
 total_duration: 5256
 image_url: https://gfx.nrk.no/9YYkuWsNS-mF4kpx-AFptA_izgbvve1AYqEKCbko1LFQ
+credits:
+- person_id: 3780
+  role: composer
+- person_id: 3781
+  role: composer

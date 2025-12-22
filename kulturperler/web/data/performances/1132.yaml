@@ -10,3 +10,8 @@ description: "Clementis Great National Symphony avdekker den kjente \"Gud sign v
 series_id: kork-hele-landets-orkester
 total_duration: 2352
 image_url: https://gfx.nrk.no/CoDPshPok4Pa77gDvkBP3Q_g7IQrdKmhOqYZ4OGphuDg
+credits:
+- person_id: 3785
+  role: composer
+- person_id: 3786
+  role: composer

@@ -1295,3 +1295,304 @@ export function getExternalResourceComposers(): string[] {
 
 	return results;
 }
+
+// ===== Global Search =====
+
+export interface SearchResultPerson extends Person {
+	work_count: number;
+	performance_count: number;
+	roles: string[];
+}
+
+export interface SearchResultWork extends Work {
+	playwright_name: string | null;
+	composer_name: string | null;
+	performance_count: number;
+	image_url: string | null;
+}
+
+export interface SearchResultPerformance extends PerformanceWithDetails {
+	// Already has work_title, playwright_name, director_name, media_count, etc.
+}
+
+export interface SearchAllResults {
+	persons: SearchResultPerson[];
+	works: SearchResultWork[];
+	performances: SearchResultPerformance[];
+}
+
+export function searchAll(query: string, limit = 10): SearchAllResults {
+	const db = getDatabase();
+	const term = `%${query}%`;
+	const normalizedTerm = `%${query.toLowerCase()}%`;
+
+	// Search persons
+	const personsStmt = db.prepare(`
+		SELECT
+			p.*,
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) as work_count,
+			(SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) as performance_count,
+			(SELECT GROUP_CONCAT(DISTINCT pp.role) FROM performance_persons pp WHERE pp.person_id = p.id) as roles_str
+		FROM persons p
+		WHERE p.name LIKE ? OR p.normalized_name LIKE ?
+		ORDER BY
+			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
+			work_count DESC,
+			performance_count DESC
+		LIMIT ?
+	`);
+	personsStmt.bind([term, normalizedTerm, query + '%', limit]);
+
+	const persons: SearchResultPerson[] = [];
+	while (personsStmt.step()) {
+		const row = personsStmt.getAsObject() as any;
+		persons.push({
+			...row,
+			roles: row.roles_str ? row.roles_str.split(',') : []
+		});
+	}
+	personsStmt.free();
+
+	// Search works
+	const worksStmt = db.prepare(`
+		SELECT
+			w.*,
+			playwright.name as playwright_name,
+			composer.name as composer_name,
+			(SELECT COUNT(*) FROM performances perf WHERE perf.work_id = w.id) as performance_count,
+			(SELECT e.image_url FROM episodes e JOIN performances perf ON e.performance_id = perf.id WHERE perf.work_id = w.id LIMIT 1) as image_url
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
+		WHERE w.title LIKE ? OR w.original_title LIKE ?
+		ORDER BY
+			CASE WHEN w.title LIKE ? THEN 0 ELSE 1 END,
+			performance_count DESC,
+			w.title
+		LIMIT ?
+	`);
+	worksStmt.bind([term, term, query + '%', limit]);
+
+	const works: SearchResultWork[] = [];
+	while (worksStmt.step()) {
+		works.push(worksStmt.getAsObject() as unknown as SearchResultWork);
+	}
+	worksStmt.free();
+
+	// Search performances
+	const performancesStmt = db.prepare(`
+		SELECT
+			perf.*,
+			w.title as work_title,
+			w.playwright_id,
+			w.work_type,
+			w.category,
+			playwright.name as playwright_name,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
+			)) as director_name,
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		LEFT JOIN works w ON perf.work_id = w.id
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		WHERE perf.title LIKE ? OR perf.description LIKE ? OR w.title LIKE ?
+		ORDER BY
+			CASE WHEN perf.title LIKE ? OR w.title LIKE ? THEN 0 ELSE 1 END,
+			perf.year DESC
+		LIMIT ?
+	`);
+	performancesStmt.bind([term, term, term, query + '%', query + '%', limit]);
+
+	const performances: SearchResultPerformance[] = [];
+	while (performancesStmt.step()) {
+		performances.push(performancesStmt.getAsObject() as unknown as SearchResultPerformance);
+	}
+	performancesStmt.free();
+
+	return { persons, works, performances };
+}
+
+// Autocomplete search - returns quick suggestions for search box dropdown
+export interface AutocompleteSuggestion {
+	type: 'person' | 'work' | 'performance';
+	id: number | string;
+	title: string;
+	subtitle: string | null;
+	url: string;
+	image_url: string | null;
+}
+
+export function getAutocompleteSuggestions(query: string, limit = 8): AutocompleteSuggestion[] {
+	const db = getDatabase();
+	const term = `%${query}%`;
+	const startTerm = query + '%';
+	const suggestions: AutocompleteSuggestion[] = [];
+
+	// Get person suggestions (limit to 3)
+	const personsStmt = db.prepare(`
+		SELECT
+			p.id,
+			p.name,
+			p.birth_year,
+			p.death_year,
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) as work_count
+		FROM persons p
+		WHERE p.name LIKE ? OR p.normalized_name LIKE ?
+		ORDER BY
+			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
+			work_count DESC
+		LIMIT 3
+	`);
+	personsStmt.bind([term, term, startTerm]);
+
+	while (personsStmt.step()) {
+		const row = personsStmt.getAsObject() as any;
+		const years = row.birth_year
+			? `${row.birth_year}–${row.death_year || ''}`
+			: null;
+		suggestions.push({
+			type: 'person',
+			id: row.id,
+			title: row.name,
+			subtitle: years ? `${years} · ${row.work_count} verk` : `${row.work_count} verk`,
+			url: `/person/${row.id}`,
+			image_url: null
+		});
+	}
+	personsStmt.free();
+
+	// Get work suggestions (limit to 3)
+	const worksStmt = db.prepare(`
+		SELECT
+			w.id,
+			w.title,
+			playwright.name as playwright_name,
+			composer.name as composer_name,
+			(SELECT COUNT(*) FROM performances perf WHERE perf.work_id = w.id) as performance_count,
+			(SELECT e.image_url FROM episodes e JOIN performances perf ON e.performance_id = perf.id WHERE perf.work_id = w.id LIMIT 1) as image_url
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
+		WHERE w.title LIKE ? OR w.original_title LIKE ?
+		ORDER BY
+			CASE WHEN w.title LIKE ? THEN 0 ELSE 1 END,
+			performance_count DESC
+		LIMIT 3
+	`);
+	worksStmt.bind([term, term, startTerm]);
+
+	while (worksStmt.step()) {
+		const row = worksStmt.getAsObject() as any;
+		const creator = row.playwright_name || row.composer_name;
+		suggestions.push({
+			type: 'work',
+			id: row.id,
+			title: row.title,
+			subtitle: creator ? `${creator} · ${row.performance_count} opptak` : `${row.performance_count} opptak`,
+			url: `/verk/${row.id}`,
+			image_url: row.image_url
+		});
+	}
+	worksStmt.free();
+
+	// Get performance suggestions (limit to 2)
+	const performancesStmt = db.prepare(`
+		SELECT
+			perf.id,
+			COALESCE(perf.title, w.title) as title,
+			perf.year,
+			perf.medium,
+			w.title as work_title,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		LEFT JOIN works w ON perf.work_id = w.id
+		WHERE perf.title LIKE ? OR w.title LIKE ?
+		ORDER BY
+			CASE WHEN perf.title LIKE ? OR w.title LIKE ? THEN 0 ELSE 1 END,
+			perf.year DESC
+		LIMIT 2
+	`);
+	performancesStmt.bind([term, term, startTerm, startTerm]);
+
+	while (performancesStmt.step()) {
+		const row = performancesStmt.getAsObject() as any;
+		const mediumLabel = row.medium === 'tv' ? 'TV' : 'Radio';
+		suggestions.push({
+			type: 'performance',
+			id: row.id,
+			title: row.title,
+			subtitle: row.year ? `${row.year} · ${mediumLabel}` : mediumLabel,
+			url: `/opptak/${row.id}`,
+			image_url: row.image_url
+		});
+	}
+	performancesStmt.free();
+
+	return suggestions.slice(0, limit);
+}
+
+// ===== Work Relationships =====
+
+export interface WorkWithDetails extends Work {
+	playwright_name: string | null;
+	composer_name: string | null;
+	performance_count: number;
+	image_url: string | null;
+}
+
+// Get the work this work is based on (e.g., Grieg's Peer Gynt Suite → Ibsen's Peer Gynt)
+export function getSourceWork(workId: number): WorkWithDetails | null {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			w.*,
+			playwright.name as playwright_name,
+			composer.name as composer_name,
+			(SELECT COUNT(*) FROM performances perf WHERE perf.work_id = w.id) as performance_count,
+			(SELECT e.image_url FROM episodes e JOIN performances perf ON e.performance_id = perf.id WHERE perf.work_id = w.id LIMIT 1) as image_url
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
+		WHERE w.id = (SELECT based_on_work_id FROM works WHERE id = ?)
+	`);
+	stmt.bind([workId]);
+
+	let result: WorkWithDetails | null = null;
+	if (stmt.step()) {
+		result = stmt.getAsObject() as unknown as WorkWithDetails;
+	}
+	stmt.free();
+
+	return result;
+}
+
+// Get works that are adaptations of this work (e.g., Peer Gynt → Peer Gynt Suite, Peer Gynt opera)
+export function getAdaptations(workId: number): WorkWithDetails[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			w.*,
+			playwright.name as playwright_name,
+			composer.name as composer_name,
+			(SELECT COUNT(*) FROM performances perf WHERE perf.work_id = w.id) as performance_count,
+			(SELECT e.image_url FROM episodes e JOIN performances perf ON e.performance_id = perf.id WHERE perf.work_id = w.id LIMIT 1) as image_url
+		FROM works w
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
+		WHERE w.based_on_work_id = ?
+		ORDER BY w.year_written, w.title
+	`);
+	stmt.bind([workId]);
+
+	const results: WorkWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as WorkWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}

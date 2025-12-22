@@ -26,16 +26,26 @@
 		}[];
 	}
 
+	interface RoleSummary {
+		role: string;
+		label: string;
+		count: number;
+	}
+
 	let person: Person | null = null;
 	let isCreator = false;
 	let creatorRoles: string[] = [];
+	let allRoles: RoleSummary[] = [];
 
 	// Creator stats
 	let stats = {
 		worksAsPlaywright: 0,
 		worksAsComposer: 0,
 		worksAsLibrettist: 0,
-		performanceCount: 0
+		performanceCount: 0,
+		directedCount: 0,
+		actedCount: 0,
+		conductedCount: 0
 	};
 
 	// Works written/composed by this person
@@ -45,6 +55,9 @@
 
 	// Performances (for non-creators or additional roles)
 	let performancesByRole: RoleGroup[] = [];
+
+	// Track work IDs where this person is the creator (to avoid duplicates)
+	let creatorWorkIds: Set<number> = new Set();
 
 	// NRK programs about this person
 	let nrkAboutPrograms: NrkAboutProgram[] = [];
@@ -106,6 +119,7 @@
 				}
 
 				// Get works where person is playwright
+				creatorWorkIds = new Set();
 				if (stats.worksAsPlaywright > 0) {
 					const playsStmt = db.prepare(`
 						SELECT w.id, w.title, w.year_written, w.work_type,
@@ -120,7 +134,9 @@
 					playsStmt.bind([personId]);
 					worksWritten = [];
 					while (playsStmt.step()) {
-						worksWritten.push(playsStmt.getAsObject() as WorkWritten);
+						const work = playsStmt.getAsObject() as WorkWritten;
+						worksWritten.push(work);
+						creatorWorkIds.add(work.id);
 					}
 					playsStmt.free();
 				}
@@ -140,7 +156,9 @@
 					composerStmt.bind([personId]);
 					worksComposed = [];
 					while (composerStmt.step()) {
-						worksComposed.push(composerStmt.getAsObject() as WorkWritten);
+						const work = composerStmt.getAsObject() as WorkWritten;
+						worksComposed.push(work);
+						creatorWorkIds.add(work.id);
 					}
 					composerStmt.free();
 				}
@@ -160,7 +178,9 @@
 					librettoStmt.bind([personId]);
 					librettos = [];
 					while (librettoStmt.step()) {
-						librettos.push(librettoStmt.getAsObject() as WorkWritten);
+						const work = librettoStmt.getAsObject() as WorkWritten;
+						librettos.push(work);
+						creatorWorkIds.add(work.id);
 					}
 					librettoStmt.free();
 				}
@@ -198,7 +218,12 @@
 					perfStmt.bind([personId, role]);
 					const performances: RoleGroup['performances'] = [];
 					while (perfStmt.step()) {
-						performances.push(perfStmt.getAsObject() as RoleGroup['performances'][0]);
+						const perf = perfStmt.getAsObject() as RoleGroup['performances'][0];
+						// Skip performances of works this person created (avoid duplicates)
+						if (perf.work_id && creatorWorkIds.has(perf.work_id)) {
+							continue;
+						}
+						performances.push(perf);
 					}
 					perfStmt.free();
 					if (performances.length > 0) {
@@ -208,6 +233,28 @@
 
 				// Get NRK programs about this person
 				nrkAboutPrograms = getNrkAboutPrograms(personId);
+
+				// Build role summary for the header (use filtered counts)
+				allRoles = [];
+				if (stats.worksAsPlaywright > 0) {
+					allRoles.push({ role: 'playwright', label: 'Dramatiker', count: stats.worksAsPlaywright });
+				}
+				if (stats.worksAsComposer > 0) {
+					allRoles.push({ role: 'composer', label: 'Komponist', count: stats.worksAsComposer });
+				}
+				if (stats.worksAsLibrettist > 0) {
+					allRoles.push({ role: 'librettist', label: 'Librettist', count: stats.worksAsLibrettist });
+				}
+				// Only add non-creator roles if they have performances not already shown
+				for (const group of performancesByRole) {
+					if (group.performances.length > 0) {
+						allRoles.push({
+							role: group.role,
+							label: getRoleLabelNoun(group.role),
+							count: group.performances.length
+						});
+					}
+				}
 			} else {
 				error = 'Person ikke funnet';
 			}
@@ -230,6 +277,20 @@
 			set_designer: 'Scenografi',
 			costume_designer: 'Kostymer',
 			other: 'Annet'
+		};
+		return labels[role] || role;
+	}
+
+	function getRoleLabelNoun(role: string): string {
+		const labels: Record<string, string> = {
+			director: 'Regissor',
+			actor: 'Skuespiller',
+			conductor: 'Dirigent',
+			soloist: 'Solist',
+			producer: 'Produsent',
+			set_designer: 'Scenograf',
+			costume_designer: 'Kostymedesigner',
+			other: 'Medvirkende'
 		};
 		return labels[role] || role;
 	}
@@ -273,10 +334,13 @@
 						<p class="years">{person.birth_year || '?'}–{person.death_year || ''}</p>
 					{/if}
 
-					{#if creatorRoles.length > 0}
-						<div class="creator-roles">
-							{#each creatorRoles as role}
-								<span class="role-tag">{role}</span>
+					{#if allRoles.length > 0}
+						<div class="all-roles">
+							{#each allRoles as roleSummary}
+								<span class="role-pill" class:creator={['playwright', 'composer', 'librettist'].includes(roleSummary.role)}>
+									{roleSummary.label}
+									<span class="role-count">{roleSummary.count}</span>
+								</span>
 							{/each}
 						</div>
 					{/if}
@@ -301,32 +365,34 @@
 			</div>
 		</header>
 
-		{#if isCreator}
-			<!-- Creator stats -->
-			<section class="creator-stats">
-				<div class="stats-grid">
-					{#if stats.worksAsPlaywright > 0}
-						<div class="stat-item">
-							<span class="stat-value">{stats.worksAsPlaywright}</span>
-							<span class="stat-label">stykker</span>
-						</div>
-					{/if}
-					{#if stats.worksAsComposer > 0}
-						<div class="stat-item">
-							<span class="stat-value">{stats.worksAsComposer}</span>
-							<span class="stat-label">komposisjoner</span>
-						</div>
-					{/if}
-					{#if stats.worksAsLibrettist > 0}
-						<div class="stat-item">
-							<span class="stat-value">{stats.worksAsLibrettist}</span>
-							<span class="stat-label">librettoer</span>
-						</div>
-					{/if}
-					<div class="stat-item">
-						<span class="stat-value">{stats.performanceCount}</span>
-						<span class="stat-label">opptak</span>
-					</div>
+		<!-- NRK programs about this person (prominent placement) -->
+		{#if nrkAboutPrograms.length > 0}
+			<section class="nrk-about prominent">
+				<h2>Om {person.name} i NRK-arkivet</h2>
+				<div class="about-programs-grid">
+					{#each nrkAboutPrograms as program}
+						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
+							<div class="about-image">
+								{#if program.image_url}
+									<img src={program.image_url} alt={program.title} loading="lazy" />
+								{:else}
+									<div class="about-placeholder">NRK</div>
+								{/if}
+							</div>
+							<div class="about-info">
+								<h3>{program.title}</h3>
+								<div class="about-meta">
+									{#if program.program_type === 'serie'}
+										<span class="about-type">Serie{#if program.episode_count} ({program.episode_count} ep){/if}</span>
+									{/if}
+									{#if program.duration_seconds}
+										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
+									{/if}
+								</div>
+							</div>
+							<span class="external-arrow">Se på NRK TV</span>
+						</a>
+					{/each}
 				</div>
 			</section>
 		{/if}
@@ -336,7 +402,7 @@
 				<h2>Stykker av {person.name} ({worksWritten.length})</h2>
 				<div class="works-grid">
 					{#each worksWritten as work}
-						<a href="/work/{work.id}" class="work-card">
+						<a href="/verk/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
@@ -366,7 +432,7 @@
 				<h2>Komponert ({worksComposed.length})</h2>
 				<div class="works-grid">
 					{#each worksComposed as work}
-						<a href="/work/{work.id}" class="work-card">
+						<a href="/verk/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
@@ -396,7 +462,7 @@
 				<h2>Librettoer ({librettos.length})</h2>
 				<div class="works-grid">
 					{#each librettos as work}
-						<a href="/work/{work.id}" class="work-card">
+						<a href="/verk/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
@@ -421,44 +487,13 @@
 			</section>
 		{/if}
 
-		{#if nrkAboutPrograms.length > 0}
-			<section class="nrk-about">
-				<h2>I NRK-arkivet (programmer om {person.name})</h2>
-				<div class="about-programs-grid">
-					{#each nrkAboutPrograms as program}
-						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
-							<div class="about-image">
-								{#if program.image_url}
-									<img src={program.image_url} alt={program.title} loading="lazy" />
-								{:else}
-									<div class="about-placeholder">NRK</div>
-								{/if}
-							</div>
-							<div class="about-info">
-								<h3>{program.title}</h3>
-								<div class="about-meta">
-									{#if program.program_type === 'serie'}
-										<span class="about-type">Serie{#if program.episode_count} ({program.episode_count} ep){/if}</span>
-									{/if}
-									{#if program.duration_seconds}
-										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
-									{/if}
-								</div>
-							</div>
-							<span class="external-arrow">NRK TV</span>
-						</a>
-					{/each}
-				</div>
-			</section>
-		{/if}
-
 		{#each performancesByRole as group}
 			<section class="role-section">
 				<h2>{getRoleLabel(group.role)} ({group.performances.length})</h2>
 
 				<div class="performances-grid">
 					{#each group.performances as perf}
-						<a href="/performance/{perf.id}" class="perf-card">
+						<a href="/opptak/{perf.id}" class="perf-card">
 							<div class="perf-image">
 								{#if perf.image_url}
 									<img src={getImageUrl(perf.image_url)} alt={perf.work_title} loading="lazy" />
@@ -486,9 +521,9 @@
 			</section>
 		{/each}
 
-		{#if !isCreator && performancesByRole.length === 0 && nrkAboutPrograms.length === 0}
+		{#if allRoles.length === 0 && nrkAboutPrograms.length === 0}
 			<div class="no-content">
-				<p>Ingen opptak registrert for denne personen ennå.</p>
+				<p>Ingen opptak registrert for denne personen enna.</p>
 			</div>
 		{/if}
 	</article>
@@ -549,19 +584,39 @@
 		margin-bottom: 0.75rem;
 	}
 
-	.creator-roles {
+	.all-roles {
 		display: flex;
+		flex-wrap: wrap;
 		gap: 0.5rem;
 		margin-bottom: 1rem;
 	}
 
-	.role-tag {
+	.role-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		background: #f0f0f0;
+		color: #555;
+		padding: 0.35rem 0.75rem;
+		border-radius: 20px;
+		font-size: 0.85rem;
+	}
+
+	.role-pill.creator {
 		background: #e94560;
 		color: white;
-		padding: 0.25rem 0.75rem;
-		border-radius: 4px;
-		font-size: 0.85rem;
-		text-transform: capitalize;
+	}
+
+	.role-count {
+		background: rgba(0, 0, 0, 0.15);
+		padding: 0.1rem 0.4rem;
+		border-radius: 10px;
+		font-size: 0.75rem;
+		font-weight: 600;
+	}
+
+	.role-pill.creator .role-count {
+		background: rgba(255, 255, 255, 0.25);
 	}
 
 	.bio {
@@ -589,38 +644,6 @@
 	.external-link:hover {
 		background: #e94560;
 		color: white;
-	}
-
-	/* Creator stats */
-	.creator-stats {
-		background: #f8f9fa;
-		border-radius: 8px;
-		padding: 1.5rem;
-		margin-bottom: 2rem;
-	}
-
-	.stats-grid {
-		display: flex;
-		justify-content: center;
-		gap: 3rem;
-	}
-
-	.stat-item {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		gap: 0.25rem;
-	}
-
-	.stat-value {
-		font-size: 2rem;
-		font-weight: bold;
-		color: #1a1a2e;
-	}
-
-	.stat-label {
-		font-size: 0.85rem;
-		color: #666;
 	}
 
 	/* Works section */
@@ -713,6 +736,40 @@
 		margin-bottom: 2rem;
 		padding-bottom: 1.5rem;
 		border-bottom: 1px solid #eee;
+	}
+
+	.nrk-about.prominent {
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		margin: 0 -2rem 2rem -2rem;
+		padding: 1.5rem 2rem;
+		border-radius: 0;
+		border-bottom: none;
+	}
+
+	.nrk-about.prominent h2 {
+		color: white;
+		margin-bottom: 1rem;
+	}
+
+	.nrk-about.prominent .about-card {
+		background: rgba(255, 255, 255, 0.1);
+		border: 1px solid rgba(255, 255, 255, 0.1);
+	}
+
+	.nrk-about.prominent .about-card:hover {
+		background: rgba(255, 255, 255, 0.15);
+	}
+
+	.nrk-about.prominent .about-info h3 {
+		color: white;
+	}
+
+	.nrk-about.prominent .about-meta {
+		color: rgba(255, 255, 255, 0.7);
+	}
+
+	.nrk-about.prominent .external-arrow {
+		color: #ff6b8a;
 	}
 
 	.about-programs-grid {
@@ -888,11 +945,6 @@
 	}
 
 	@media (max-width: 600px) {
-		.stats-grid {
-			flex-wrap: wrap;
-			gap: 1.5rem;
-		}
-
 		.about-programs-grid {
 			grid-template-columns: 1fr;
 		}

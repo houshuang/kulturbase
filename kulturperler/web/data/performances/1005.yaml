@@ -10,11 +10,12 @@ series_id: kork-hele-landets-orkester
 total_duration: 3523
 image_url: https://gfx.nrk.no/_cgbjzMc5YtT_kNao2MVHAjyFwqH8YKU9kIt2H3l15RA
 credits:
-- person_id: 3327
-  role: artist/utøver
 - person_id: 3333
   role: musiker
 - person_id: 3334
   role: musiker
 - person_id: 3335
   role: musiker
+institutions:
+- institution_id: 1
+  role: orchestra

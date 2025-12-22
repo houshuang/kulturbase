@@ -9,3 +9,10 @@ description: Utdrag fra "Alceste" av Gluck, "Den flygende Hollender" av Wagner o
 series_id: opera-og-operetter
 total_duration: 2613
 image_url: https://gfx.nrk.no/V7cwy0OzmsOe-HYar1BrWwJJYZs36XnJBfrec-Um3UGg
+credits:
+- person_id: 3775
+  role: composer
+- person_id: 3475
+  role: composer
+- person_id: 3633
+  role: composer

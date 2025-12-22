@@ -48,3 +48,20 @@ resources:
     Er ikke Hjalmar Ekdal i «Vildanden» på mange måter den store klovnen i Ibsens forfatterskap? Hvordan ser Terje Vigen ut som sportskommentator? Hvor sarkastisk er ikke Hedda Gabler? Og kan «Peer Gynt» oppsummeres som en sit-com?
 
     Dette, og mye
+- id: 827
+  url: https://tv.nrk.no/se?v=FTEA00004184
+  title: Ibsen og hans menn
+  type: related_video
+  description: Ibsen-tolker Knut Wigert forteller om Ibsen og hans liv, gjengir litteraturhistoriske
+    begivenheter og leser Ibsen-dikt. (1984, 87 min)
+- id: 828
+  url: https://tv.nrk.no/se?v=FDRP28000892
+  title: Ibsen i Arbins gate
+  type: related_video
+  description: Utdrag fra forestillingen "Byggmester Solness" i Ibsens leilighet.
+    Med Knut Wigert, Tone Schwarzott, Anne Krigsvoll. (1992, 74 min)
+- id: 829
+  url: https://radio.nrk.no/serie/radioteatret/MKDR62090012
+  title: Men hempen glapp – Ibsen og Grieg i fritt fall
+  type: related_video
+  description: Improvisert lyddrama med skuespillere og jazzmusikere. (2013, 49 min)

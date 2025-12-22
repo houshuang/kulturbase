@@ -1,0 +1,1442 @@
+<script lang="ts">
+	import { page } from '$app/stores';
+	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getPlaysByPlaywright, getSourceWork, getAdaptations, type WorkWithDetails } from '$lib/db';
+	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person } from '$lib/types';
+	import { onMount } from 'svelte';
+
+	interface PerformanceWithMedia extends PerformanceWithDetails {
+		media: Episode[];
+	}
+
+	let work: (Work & { playwright_name?: string; composer_name?: string }) | null = null;
+	let playwright: Person | null = null;
+	let composer: Person | null = null;
+	let tvPerformances: PerformanceWithMedia[] = [];
+	let radioPerformances: PerformanceWithMedia[] = [];
+	let externalLinks: WorkExternalLink[] = [];
+	let moreByAuthor: PerformanceWithDetails[] = [];
+	let sourceWork: WorkWithDetails | null = null;
+	let adaptations: WorkWithDetails[] = [];
+	let loading = true;
+	let error: string | null = null;
+
+	$: workId = parseInt($page.params.id || '0');
+	$: allPerformances = [...tvPerformances, ...radioPerformances];
+	$: totalPerformances = allPerformances.length;
+	$: isSinglePerformance = totalPerformances === 1;
+	$: singlePerf = isSinglePerformance ? allPerformances[0] : null;
+	$: isSingleEpisode = singlePerf && singlePerf.media.length === 1;
+
+	onMount(() => {
+		loadWork();
+	});
+
+	function loadWork() {
+		try {
+			work = getWork(workId);
+			if (work) {
+				// Get playwright details
+				if (work.playwright_id) {
+					playwright = getPerson(work.playwright_id);
+					// Get more works by this playwright (excluding current)
+					const authorWorks = getPlaysByPlaywright(work.playwright_id, 10);
+					moreByAuthor = authorWorks.filter(w => w.work_id !== workId);
+				}
+
+				// Get composer details
+				if (work.composer_id) {
+					composer = getPerson(work.composer_id);
+				}
+
+				// Get TV performances
+				const tvPerfs = getWorkPerformancesByMedium(workId, 'tv');
+				tvPerformances = tvPerfs.map(perf => ({
+					...perf,
+					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
+				}));
+
+				// Get Radio performances
+				const radioPerfs = getWorkPerformancesByMedium(workId, 'radio');
+				radioPerformances = radioPerfs.map(perf => ({
+					...perf,
+					media: getPerformanceMedia(perf.id).filter(m => !m.is_introduction)
+				}));
+
+				// Load external links
+				externalLinks = getWorkExternalLinks(workId);
+
+				// Load work relationships
+				sourceWork = getSourceWork(workId);
+				adaptations = getAdaptations(workId);
+			} else {
+				error = 'Verk ikke funnet';
+			}
+			loading = false;
+		} catch (e) {
+			error = e instanceof Error ? e.message : 'Ukjent feil';
+			loading = false;
+		}
+	}
+
+	function formatDuration(seconds: number | null): string {
+		if (!seconds) return '';
+		const h = Math.floor(seconds / 3600);
+		const m = Math.floor((seconds % 3600) / 60);
+		if (h > 0) return `${h}t ${m}m`;
+		return `${m} min`;
+	}
+
+	function getImageUrl(url: string | null, width = 400): string {
+		if (!url) return '';
+		if (url.includes('gfx.nrk.no')) {
+			return url.replace(/\/\d+$/, `/${width}`);
+		}
+		return url;
+	}
+
+	function getWorkTypeLabel(type: string | null): string {
+		const labels: Record<string, string> = {
+			teaterstykke: 'Klassisk dramatikk',
+			nrk_teaterstykke: 'NRK-produksjon',
+			dramaserie: 'Dramaserie',
+			opera: 'Opera',
+			konsert: 'Konsert',
+			orchestral: 'Orkesterverk',
+			symphony: 'Symfoni',
+			concerto: 'Konsert',
+			chamber: 'Kammermusikk',
+			choral: 'Korverk',
+			ballet: 'Ballett',
+			operetta: 'Operette'
+		};
+		return labels[type || ''] || type || '';
+	}
+
+	function getMediumLabel(source: string | undefined, category: string | null, medium: string): string {
+		if (source === 'bergenphilive') return 'Bergen Phil Live';
+		if (category === 'dramaserie') return 'Dramaserie';
+		if (category === 'teater') return medium === 'tv' ? 'Fjernsynsteater' : 'Radioteater';
+		return medium === 'tv' ? 'TV-opptak' : 'Lydopptak';
+	}
+
+	function getAdaptationTypeLabel(type: string | null): string {
+		const labels: Record<string, string> = {
+			opera: 'Opera',
+			ballet: 'Ballett',
+			orchestral: 'Orkesterverk',
+			symphony: 'Symfoni',
+			concerto: 'Konsert'
+		};
+		return labels[type || ''] || 'Bearbeidelse';
+	}
+</script>
+
+<svelte:head>
+	{#if work}
+		<title>{work.title} - Kulturbase.no</title>
+		<meta name="description" content="{work.synopsis?.slice(0, 160) || `${work.title} av ${work.playwright_name || 'ukjent'}`}" />
+	{/if}
+</svelte:head>
+
+{#if loading}
+	<div class="loading">Laster...</div>
+{:else if error}
+	<div class="error">{error}</div>
+{:else if work}
+	<article class="work-detail">
+		<a href="/teater" class="back-link">&larr; Tilbake til teater</a>
+
+		<header class="work-header">
+			<div class="header-content">
+				<div class="header-text">
+					<h1>{work.title}</h1>
+
+					<p class="work-meta">
+						{#if playwright}
+							<a href="/person/{playwright.id}" class="author-link">{playwright.name}</a>
+							{#if playwright.birth_year || playwright.death_year}
+								<span class="author-dates">({playwright.birth_year || '?'}–{playwright.death_year || ''})</span>
+							{/if}
+						{/if}
+						{#if work.year_written}
+							<span class="separator">·</span>
+							<span class="year-written">skrevet {work.year_written}</span>
+						{/if}
+					</p>
+
+					{#if work.original_title && work.original_title !== work.title}
+						<p class="original-title">Originaltittel: {work.original_title}</p>
+					{/if}
+
+					{#if work.work_type}
+						<span class="work-type-badge">{getWorkTypeLabel(work.work_type)}</span>
+					{/if}
+
+					{#if work.synopsis}
+						<p class="work-synopsis">{work.synopsis}</p>
+					{/if}
+				</div>
+			</div>
+		</header>
+
+		<!-- External links (prominent) -->
+		{#if externalLinks.length > 0}
+			<section class="external-sources prominent">
+				<div class="sources-grid">
+					{#each externalLinks.filter(l => l.type === 'bokselskap') as link}
+						<a href={link.url} target="_blank" rel="noopener" class="source-card bokselskap">
+							<span class="source-icon">📖</span>
+							<div class="source-info">
+								<span class="source-title">Les hele teksten</span>
+								<span class="source-subtitle">{link.title}</span>
+							</div>
+							<span class="arrow">→</span>
+						</a>
+					{/each}
+					{#each externalLinks.filter(l => l.type === 'streaming') as link}
+						<a href={link.url} target="_blank" rel="noopener" class="source-card streaming">
+							<span class="source-icon">▶</span>
+							<div class="source-info">
+								<span class="source-title">{link.title}</span>
+								{#if link.description}
+									<span class="source-note">{link.description}</span>
+								{/if}
+								{#if link.access_note}
+									<span class="source-note">{link.access_note}</span>
+								{/if}
+							</div>
+							<span class="arrow">→</span>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		<!-- Smart layout: Single performance with single episode = inline player -->
+		{#if isSinglePerformance && singlePerf}
+			<section class="single-performance-hero">
+				{#if isSingleEpisode}
+					<!-- Direct play for single episode -->
+					<a
+						href={singlePerf.media[0].nrk_url || `https://tv.nrk.no/se?v=${singlePerf.media[0].prf_id}`}
+						target="_blank"
+						rel="noopener"
+						class="hero-player"
+					>
+						<div class="hero-image">
+							{#if singlePerf.image_url}
+								<img src={getImageUrl(singlePerf.image_url, 800)} alt={work?.title || ''} />
+							{:else}
+								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : 'Radio'}</div>
+							{/if}
+							<div class="play-overlay">
+								<span class="play-button">▶</span>
+							</div>
+							{#if singlePerf.total_duration}
+								<span class="duration-badge large">{formatDuration(singlePerf.total_duration)}</span>
+							{/if}
+						</div>
+						<div class="hero-meta">
+							<span class="medium-label">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
+							{#if singlePerf.year}
+								<span class="year-badge">{singlePerf.year}</span>
+							{/if}
+							{#if singlePerf.director_name}
+								<span class="director">Regi: {singlePerf.director_name}</span>
+							{/if}
+						</div>
+					</a>
+				{:else}
+					<!-- Single performance with multiple episodes -->
+					<div class="hero-content">
+						<div class="hero-image-container">
+							{#if singlePerf.image_url}
+								<img src={getImageUrl(singlePerf.image_url, 600)} alt={work?.title || ''} />
+							{:else}
+								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : 'Radio'}</div>
+							{/if}
+						</div>
+						<div class="hero-info">
+							<div class="hero-meta-row">
+								<span class="medium-label">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
+								{#if singlePerf.year}
+									<span class="year-badge">{singlePerf.year}</span>
+								{/if}
+								{#if singlePerf.total_duration}
+									<span class="duration">{formatDuration(singlePerf.total_duration)}</span>
+								{/if}
+							</div>
+							{#if singlePerf.director_name}
+								<p class="director">Regi: {singlePerf.director_name}</p>
+							{/if}
+							<p class="episodes-label">{singlePerf.media.length} deler</p>
+							<div class="episodes-list">
+								{#each singlePerf.media as episode, i}
+									<a
+										href={episode.nrk_url || `https://tv.nrk.no/se?v=${episode.prf_id}`}
+										target="_blank"
+										rel="noopener"
+										class="episode-link"
+									>
+										<span class="episode-number">Del {i + 1}</span>
+										{#if episode.duration_seconds}
+											<span class="episode-duration">{formatDuration(episode.duration_seconds)}</span>
+										{/if}
+										<span class="episode-play">▶ Spill</span>
+									</a>
+								{/each}
+							</div>
+						</div>
+					</div>
+				{/if}
+			</section>
+		{:else if totalPerformances > 1}
+			<!-- Multiple performances: Comparison table -->
+			<section class="performances-comparison">
+				<h2>Opptak ({totalPerformances})</h2>
+				<div class="comparison-table-wrapper">
+					<table class="comparison-table">
+						<thead>
+							<tr>
+								<th>År</th>
+								<th>Medium</th>
+								<th>Regi</th>
+								<th>Varighet</th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+							{#each allPerformances.sort((a, b) => (b.year || 0) - (a.year || 0)) as perf}
+								<tr>
+									<td class="year-cell">
+										<span class="table-year">{perf.year || '–'}</span>
+									</td>
+									<td>
+										<span class="table-medium {perf.medium}">{perf.medium === 'tv' ? 'TV' : 'Radio'}</span>
+									</td>
+									<td class="director-cell">{perf.director_name || '–'}</td>
+									<td>{perf.total_duration ? formatDuration(perf.total_duration) : '–'}</td>
+									<td class="action-cell">
+										<a href="/opptak/{perf.id}" class="table-link">Se opptak →</a>
+									</td>
+								</tr>
+							{/each}
+						</tbody>
+					</table>
+				</div>
+			</section>
+
+			<!-- Also show cards for visual browsing -->
+			{#if tvPerformances.length > 0}
+			<section class="performances tv-section">
+				<h2>
+					<span class="medium-icon tv">TV</span>
+					Fjernsynsteater
+					{#if tvPerformances.length > 1}<span class="count">({tvPerformances.length})</span>{/if}
+				</h2>
+
+				<div class="performances-grid">
+					{#each tvPerformances as perf}
+						<a href="/opptak/{perf.id}" class="performance-card">
+							<div class="perf-image">
+								{#if perf.image_url}
+									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
+								{:else}
+									<div class="perf-placeholder">TV Teater</div>
+								{/if}
+								{#if perf.total_duration}
+									<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+								{/if}
+								{#if perf.media.length > 1}
+									<span class="parts-badge">{perf.media.length} deler</span>
+								{/if}
+							</div>
+							<div class="perf-info">
+								{#if perf.year}
+									<span class="perf-year">{perf.year}</span>
+								{/if}
+								{#if perf.director_name}
+									<p class="perf-director">Regi: {perf.director_name}</p>
+								{/if}
+								{#if perf.description}
+									<p class="perf-desc">{perf.description.slice(0, 150)}{perf.description.length > 150 ? '...' : ''}</p>
+								{/if}
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if radioPerformances.length > 0}
+			<section class="performances radio-section">
+				<h2>
+					<span class="medium-icon radio">R</span>
+					Radioteater
+					{#if radioPerformances.length > 1}<span class="count">({radioPerformances.length})</span>{/if}
+				</h2>
+
+				<div class="performances-grid">
+					{#each radioPerformances as perf}
+						<a href="/opptak/{perf.id}" class="performance-card">
+							<div class="perf-image radio-image">
+								{#if perf.image_url}
+									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
+								{:else}
+									<div class="perf-placeholder radio">Radioteater</div>
+								{/if}
+								{#if perf.total_duration}
+									<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+								{/if}
+								{#if perf.media.length > 1}
+									<span class="parts-badge">{perf.media.length} deler</span>
+								{/if}
+							</div>
+							<div class="perf-info">
+								{#if perf.year}
+									<span class="perf-year radio">{perf.year}</span>
+								{/if}
+								{#if perf.director_name}
+									<p class="perf-director">Regi: {perf.director_name}</p>
+								{/if}
+								{#if perf.description}
+									<p class="perf-desc">{perf.description.slice(0, 150)}{perf.description.length > 150 ? '...' : ''}</p>
+								{/if}
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+		{/if}
+
+		<!-- Source work (based on) -->
+		{#if sourceWork}
+			<section class="based-on-section">
+				<h2>Basert pa</h2>
+				<a href="/verk/{sourceWork.id}" class="source-work-card">
+					{#if sourceWork.image_url}
+						<img src={getImageUrl(sourceWork.image_url, 200)} alt={sourceWork.title} />
+					{:else}
+						<div class="source-work-placeholder">Verk</div>
+					{/if}
+					<div class="source-work-info">
+						<h3>{sourceWork.title}</h3>
+						{#if sourceWork.playwright_name}
+							<p class="source-work-author">{sourceWork.playwright_name}</p>
+						{:else if sourceWork.composer_name}
+							<p class="source-work-author">{sourceWork.composer_name}</p>
+						{/if}
+						{#if sourceWork.year_written}
+							<span class="source-work-year">{sourceWork.year_written}</span>
+						{/if}
+						{#if sourceWork.performance_count > 0}
+							<span class="source-work-count">{sourceWork.performance_count} opptak</span>
+						{/if}
+					</div>
+				</a>
+			</section>
+		{/if}
+
+		<!-- Adaptations -->
+		{#if adaptations.length > 0}
+			<section class="adaptations-section">
+				<h2>Bearbeidelser av dette verket</h2>
+				<div class="adaptations-grid">
+					{#each adaptations as adaptation}
+						<a href="/verk/{adaptation.id}" class="adaptation-card">
+							{#if adaptation.image_url}
+								<img src={getImageUrl(adaptation.image_url, 200)} alt={adaptation.title} />
+							{:else}
+								<div class="adaptation-placeholder">{getAdaptationTypeLabel(adaptation.work_type)}</div>
+							{/if}
+							<div class="adaptation-info">
+								<span class="adaptation-type">{getAdaptationTypeLabel(adaptation.work_type)}</span>
+								<h3>{adaptation.title}</h3>
+								{#if adaptation.composer_name}
+									<p class="adaptation-creator">{adaptation.composer_name}</p>
+								{/if}
+								{#if adaptation.performance_count > 0}
+									<span class="adaptation-count">{adaptation.performance_count} opptak</span>
+								{/if}
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if moreByAuthor.length > 0 && playwright}
+			<section class="more-by-author">
+				<div class="section-header">
+					<h2>Mer av {playwright.name}</h2>
+					<a href="/person/{playwright.id}" class="see-all">Se alle verk →</a>
+				</div>
+				<div class="author-works-scroll">
+					{#each moreByAuthor as perf}
+						<a href="/opptak/{perf.id}" class="author-work-card">
+							{#if perf.image_url}
+								<img src={getImageUrl(perf.image_url, 240)} alt={perf.work_title || ''} loading="lazy" />
+							{:else}
+								<div class="author-work-placeholder">Teater</div>
+							{/if}
+							<div class="author-work-info">
+								<h3>{perf.work_title || perf.title}</h3>
+								{#if perf.year}
+									<span class="author-work-year">{perf.year}</span>
+								{/if}
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if work.sceneweb_url || work.wikipedia_url}
+			<footer class="work-footer">
+				<span class="footer-label">Lenker:</span>
+				{#if work.sceneweb_url}
+					<a href={work.sceneweb_url} target="_blank" rel="noopener" class="footer-link">Sceneweb</a>
+				{/if}
+				{#if work.wikipedia_url}
+					<a href={work.wikipedia_url} target="_blank" rel="noopener" class="footer-link">Wikipedia</a>
+				{/if}
+			</footer>
+		{/if}
+	</article>
+{/if}
+
+<style>
+	.loading, .error {
+		text-align: center;
+		padding: 4rem;
+	}
+
+	.error {
+		color: #e94560;
+	}
+
+	.back-link {
+		display: inline-block;
+		margin-bottom: 1rem;
+		color: #666;
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+
+	.back-link:hover {
+		color: #e94560;
+	}
+
+	.work-detail {
+		background: white;
+		border-radius: 8px;
+		padding: 2rem;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	}
+
+	.work-header {
+		margin-bottom: 1.5rem;
+		padding-bottom: 1.5rem;
+		border-bottom: 1px solid #eee;
+	}
+
+	.header-content {
+		display: flex;
+		gap: 1.25rem;
+		align-items: flex-start;
+	}
+
+	.header-text {
+		flex: 1;
+		min-width: 0;
+	}
+
+	.work-header h1 {
+		font-size: 1.75rem;
+		margin: 0 0 0.5rem 0;
+		line-height: 1.2;
+	}
+
+	.work-meta {
+		margin: 0 0 0.5rem 0;
+		font-size: 0.95rem;
+		color: #555;
+	}
+
+	.author-link {
+		color: #e94560;
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+	.author-link:hover {
+		text-decoration: underline;
+	}
+
+	.author-dates {
+		color: #888;
+		font-size: 0.85rem;
+	}
+
+	.separator {
+		margin: 0 0.4rem;
+		color: #ccc;
+	}
+
+	.year-written {
+		color: #666;
+	}
+
+	.original-title {
+		font-style: italic;
+		color: #888;
+		font-size: 0.85rem;
+		margin: 0 0 0.5rem 0;
+	}
+
+	.work-type-badge {
+		display: inline-block;
+		background: #f0f0f0;
+		color: #666;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+		margin-bottom: 0.75rem;
+	}
+
+	.work-synopsis {
+		margin: 0;
+		font-size: 0.95rem;
+		color: #555;
+		line-height: 1.6;
+	}
+
+	/* Stats */
+	.work-stats {
+		background: #f8f9fa;
+		border-radius: 8px;
+		padding: 1rem 1.5rem;
+		margin-bottom: 1.5rem;
+	}
+
+	.stats-grid {
+		display: flex;
+		justify-content: center;
+		gap: 2.5rem;
+	}
+
+	.stat-item {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 0.15rem;
+	}
+
+	.stat-value {
+		font-size: 1.5rem;
+		font-weight: bold;
+		color: #1a1a2e;
+	}
+
+	.stat-label {
+		font-size: 0.8rem;
+		color: #666;
+		text-transform: uppercase;
+	}
+
+	/* External sources */
+	.external-sources {
+		margin-bottom: 2rem;
+	}
+
+	.external-sources h2 {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+	}
+
+	.sources-grid {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.75rem;
+	}
+
+	.source-card {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 0.75rem 1rem;
+		border-radius: 8px;
+		text-decoration: none;
+		transition: transform 0.15s, box-shadow 0.15s;
+		min-width: 200px;
+	}
+
+	.source-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	}
+
+	.source-card.bokselskap {
+		background: linear-gradient(135deg, #2d5016, #4a7c2d);
+		color: white;
+	}
+
+	.source-card.streaming {
+		background: linear-gradient(135deg, #667eea, #764ba2);
+		color: white;
+	}
+
+	.source-info {
+		display: flex;
+		flex-direction: column;
+		flex: 1;
+	}
+
+	.source-title {
+		font-weight: 600;
+		font-size: 0.95rem;
+	}
+
+	.source-subtitle, .source-note {
+		font-size: 0.8rem;
+		opacity: 0.9;
+	}
+
+	.source-card .arrow {
+		font-size: 1.1rem;
+		opacity: 0.8;
+	}
+
+	/* Performances */
+	.performances {
+		margin-bottom: 2rem;
+	}
+
+	.performances h2 {
+		font-size: 1.25rem;
+		margin-bottom: 1rem;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.performances h2 .count {
+		font-weight: 400;
+		color: #888;
+		font-size: 0.9em;
+	}
+
+	.medium-icon {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 28px;
+		height: 20px;
+		border-radius: 3px;
+		font-size: 0.7rem;
+		font-weight: 600;
+		color: white;
+	}
+
+	.medium-icon.tv {
+		background: #e94560;
+	}
+
+	.medium-icon.radio {
+		background: #6b5ce7;
+	}
+
+	.performances-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+		gap: 1.5rem;
+	}
+
+	.performance-card {
+		background: #f9f9f9;
+		border-radius: 8px;
+		overflow: hidden;
+		text-decoration: none;
+		color: inherit;
+		transition: transform 0.2s, box-shadow 0.2s;
+	}
+
+	.performance-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+	}
+
+	.perf-image {
+		position: relative;
+		aspect-ratio: 16/9;
+		background: #eee;
+	}
+
+	.perf-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.perf-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
+		font-size: 0.9rem;
+	}
+
+	.perf-placeholder.radio {
+		background: linear-gradient(135deg, #5b4cdb, #6b5ce7);
+	}
+
+	.duration-badge {
+		position: absolute;
+		bottom: 0.5rem;
+		right: 0.5rem;
+		background: rgba(0, 0, 0, 0.8);
+		color: white;
+		padding: 0.2rem 0.5rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+	}
+
+	.parts-badge {
+		position: absolute;
+		top: 0.5rem;
+		left: 0.5rem;
+		background: #1a1a2e;
+		color: white;
+		padding: 0.2rem 0.5rem;
+		border-radius: 4px;
+		font-size: 0.75rem;
+	}
+
+	.perf-info {
+		padding: 1rem;
+	}
+
+	.perf-year {
+		display: inline-block;
+		background: #e94560;
+		color: white;
+		padding: 0.15rem 0.5rem;
+		border-radius: 4px;
+		font-size: 0.85rem;
+		font-weight: 600;
+		margin-bottom: 0.5rem;
+	}
+
+	.perf-year.radio {
+		background: #6b5ce7;
+	}
+
+	.perf-director {
+		font-size: 0.9rem;
+		color: #666;
+		margin: 0 0 0.5rem 0;
+	}
+
+	.perf-desc {
+		font-size: 0.85rem;
+		color: #555;
+		margin: 0;
+		line-height: 1.5;
+	}
+
+	.tv-section {
+		margin-bottom: 2rem;
+	}
+
+	.radio-section {
+		border-top: 1px solid #eee;
+		padding-top: 1.5rem;
+	}
+
+	/* More by author */
+	.more-by-author {
+		margin-top: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid #eee;
+	}
+
+	.section-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 1rem;
+	}
+
+	.section-header h2 {
+		font-size: 1.25rem;
+		margin: 0;
+	}
+
+	.see-all {
+		color: #e94560;
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+
+	.see-all:hover {
+		text-decoration: underline;
+	}
+
+	.author-works-scroll {
+		display: flex;
+		gap: 1rem;
+		overflow-x: auto;
+		padding-bottom: 0.5rem;
+		-webkit-overflow-scrolling: touch;
+	}
+
+	.author-works-scroll::-webkit-scrollbar {
+		height: 6px;
+	}
+
+	.author-works-scroll::-webkit-scrollbar-track {
+		background: #f0f0f0;
+		border-radius: 3px;
+	}
+
+	.author-works-scroll::-webkit-scrollbar-thumb {
+		background: #ccc;
+		border-radius: 3px;
+	}
+
+	.author-work-card {
+		flex: 0 0 180px;
+		background: #f9f9f9;
+		border-radius: 8px;
+		overflow: hidden;
+		text-decoration: none;
+		color: inherit;
+		transition: transform 0.2s, box-shadow 0.2s;
+	}
+
+	.author-work-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+	}
+
+	.author-work-card img {
+		width: 100%;
+		height: 100px;
+		object-fit: cover;
+	}
+
+	.author-work-placeholder {
+		width: 100%;
+		height: 100px;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: rgba(255, 255, 255, 0.5);
+		font-size: 0.85rem;
+	}
+
+	.author-work-info {
+		padding: 0.75rem;
+	}
+
+	.author-work-info h3 {
+		font-size: 0.9rem;
+		margin: 0 0 0.25rem 0;
+		line-height: 1.3;
+	}
+
+	.author-work-year {
+		font-size: 0.8rem;
+		color: #e94560;
+	}
+
+	/* Footer */
+	.work-footer {
+		margin-top: 2rem;
+		padding-top: 1rem;
+		border-top: 1px solid #eee;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.75rem;
+	}
+
+	.footer-label {
+		color: #888;
+		font-size: 0.85rem;
+	}
+
+	.footer-link {
+		padding: 0.35rem 0.75rem;
+		background: #f0f0f0;
+		border-radius: 4px;
+		text-decoration: none;
+		color: #555;
+		font-size: 0.85rem;
+		transition: background-color 0.15s;
+	}
+
+	.footer-link:hover {
+		background: #e0e0e0;
+	}
+
+	/* External sources prominent */
+	.external-sources.prominent {
+		margin-bottom: 1.5rem;
+	}
+
+	.source-icon {
+		font-size: 1.25rem;
+	}
+
+	/* Single performance hero */
+	.single-performance-hero {
+		margin-bottom: 2rem;
+	}
+
+	.hero-player {
+		display: block;
+		text-decoration: none;
+		color: inherit;
+		border-radius: 12px;
+		overflow: hidden;
+		background: #f5f5f5;
+	}
+
+	.hero-image {
+		position: relative;
+		aspect-ratio: 16/9;
+		max-height: 400px;
+	}
+
+	.hero-image img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.hero-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
+		font-size: 1.5rem;
+	}
+
+	.play-overlay {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: rgba(0, 0, 0, 0.3);
+		opacity: 0;
+		transition: opacity 0.2s;
+	}
+
+	.hero-player:hover .play-overlay {
+		opacity: 1;
+	}
+
+	.play-button {
+		width: 80px;
+		height: 80px;
+		border-radius: 50%;
+		background: rgba(255, 255, 255, 0.95);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 2rem;
+		color: #e94560;
+		padding-left: 6px;
+	}
+
+	.duration-badge.large {
+		position: absolute;
+		bottom: 1rem;
+		right: 1rem;
+		background: rgba(0, 0, 0, 0.85);
+		color: white;
+		padding: 0.4rem 0.8rem;
+		border-radius: 6px;
+		font-size: 1rem;
+		font-weight: 500;
+	}
+
+	.hero-meta {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		padding: 1rem 1.5rem;
+		background: #f9f9f9;
+	}
+
+	.medium-label {
+		background: #e94560;
+		color: white;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.85rem;
+		font-weight: 500;
+	}
+
+	.year-badge {
+		background: #1a1a2e;
+		color: white;
+		padding: 0.25rem 0.6rem;
+		border-radius: 4px;
+		font-size: 0.9rem;
+	}
+
+	.hero-meta .director {
+		color: #666;
+		font-size: 0.95rem;
+	}
+
+	/* Multi-episode single performance */
+	.hero-content {
+		display: grid;
+		grid-template-columns: 350px 1fr;
+		gap: 1.5rem;
+		background: #f9f9f9;
+		border-radius: 12px;
+		padding: 1.5rem;
+	}
+
+	.hero-image-container {
+		border-radius: 8px;
+		overflow: hidden;
+	}
+
+	.hero-image-container img {
+		width: 100%;
+		aspect-ratio: 16/9;
+		object-fit: cover;
+	}
+
+	.hero-info {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.hero-meta-row {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 0.75rem;
+	}
+
+	.hero-info .director {
+		color: #666;
+		margin: 0 0 0.5rem 0;
+	}
+
+	.episodes-label {
+		font-weight: 600;
+		color: #333;
+		margin: 0.5rem 0;
+	}
+
+	.episodes-list {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.episode-link {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		padding: 0.75rem 1rem;
+		background: white;
+		border-radius: 6px;
+		text-decoration: none;
+		color: inherit;
+		transition: background 0.15s, box-shadow 0.15s;
+	}
+
+	.episode-link:hover {
+		background: #f0f0f0;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+	}
+
+	.episode-number {
+		font-weight: 600;
+		color: #333;
+	}
+
+	.episode-duration {
+		color: #666;
+		font-size: 0.9rem;
+	}
+
+	.episode-play {
+		margin-left: auto;
+		color: #e94560;
+		font-weight: 500;
+	}
+
+	/* Comparison table */
+	.performances-comparison {
+		margin-bottom: 2rem;
+	}
+
+	.performances-comparison h2 {
+		font-size: 1.25rem;
+		margin-bottom: 1rem;
+	}
+
+	.comparison-table-wrapper {
+		overflow-x: auto;
+		border-radius: 8px;
+		border: 1px solid #e0e0e0;
+	}
+
+	.comparison-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 0.95rem;
+	}
+
+	.comparison-table th {
+		text-align: left;
+		padding: 0.75rem 1rem;
+		background: #f8f9fa;
+		font-weight: 600;
+		color: #555;
+		border-bottom: 2px solid #e0e0e0;
+	}
+
+	.comparison-table td {
+		padding: 0.75rem 1rem;
+		border-bottom: 1px solid #eee;
+	}
+
+	.comparison-table tr:last-child td {
+		border-bottom: none;
+	}
+
+	.comparison-table tr:hover {
+		background: #fafafa;
+	}
+
+	.table-year {
+		font-weight: 600;
+		color: #333;
+		font-size: 1.1rem;
+	}
+
+	.table-medium {
+		display: inline-block;
+		padding: 0.2rem 0.5rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+		font-weight: 500;
+	}
+
+	.table-medium.tv {
+		background: #e94560;
+		color: white;
+	}
+
+	.table-medium.radio {
+		background: #6b5ce7;
+		color: white;
+	}
+
+	.director-cell {
+		max-width: 200px;
+	}
+
+	.action-cell {
+		text-align: right;
+	}
+
+	.table-link {
+		color: #e94560;
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+	.table-link:hover {
+		text-decoration: underline;
+	}
+
+	/* Based on / Source work */
+	.based-on-section {
+		margin-bottom: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid #eee;
+	}
+
+	.based-on-section h2 {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+		color: #666;
+	}
+
+	.source-work-card {
+		display: flex;
+		gap: 1rem;
+		padding: 1rem;
+		background: #f9f9f9;
+		border-radius: 8px;
+		text-decoration: none;
+		color: inherit;
+		transition: background 0.15s;
+		max-width: 400px;
+	}
+
+	.source-work-card:hover {
+		background: #f0f0f0;
+	}
+
+	.source-work-card img {
+		width: 100px;
+		height: 60px;
+		object-fit: cover;
+		border-radius: 4px;
+	}
+
+	.source-work-placeholder {
+		width: 100px;
+		height: 60px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
+		border-radius: 4px;
+		font-size: 0.8rem;
+	}
+
+	.source-work-info {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.source-work-info h3 {
+		font-size: 1rem;
+		margin: 0 0 0.25rem 0;
+	}
+
+	.source-work-author {
+		color: #e94560;
+		font-size: 0.9rem;
+		margin: 0;
+	}
+
+	.source-work-year, .source-work-count {
+		font-size: 0.8rem;
+		color: #888;
+		margin-right: 0.5rem;
+	}
+
+	/* Adaptations */
+	.adaptations-section {
+		margin-bottom: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid #eee;
+	}
+
+	.adaptations-section h2 {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+		color: #666;
+	}
+
+	.adaptations-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 1rem;
+	}
+
+	.adaptation-card {
+		background: #f9f9f9;
+		border-radius: 8px;
+		overflow: hidden;
+		text-decoration: none;
+		color: inherit;
+		transition: transform 0.2s, box-shadow 0.2s;
+	}
+
+	.adaptation-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+	}
+
+	.adaptation-card img {
+		width: 100%;
+		height: 100px;
+		object-fit: cover;
+	}
+
+	.adaptation-placeholder {
+		width: 100%;
+		height: 100px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #667eea, #764ba2);
+		color: white;
+		font-size: 0.9rem;
+	}
+
+	.adaptation-info {
+		padding: 0.75rem;
+	}
+
+	.adaptation-type {
+		display: inline-block;
+		background: #667eea;
+		color: white;
+		padding: 0.15rem 0.5rem;
+		border-radius: 3px;
+		font-size: 0.75rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.adaptation-info h3 {
+		font-size: 0.9rem;
+		margin: 0 0 0.25rem 0;
+		line-height: 1.3;
+	}
+
+	.adaptation-creator {
+		color: #666;
+		font-size: 0.85rem;
+		margin: 0;
+	}
+
+	.adaptation-count {
+		font-size: 0.8rem;
+		color: #888;
+	}
+
+	@media (max-width: 600px) {
+		.performances-grid {
+			grid-template-columns: 1fr;
+		}
+
+		.stats-grid {
+			gap: 1.5rem;
+		}
+
+		.sources-grid {
+			flex-direction: column;
+		}
+
+		.source-card {
+			width: 100%;
+		}
+	}
+</style>

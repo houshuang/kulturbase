@@ -10,7 +10,7 @@ return {
 	assets: new Set(["favicon.png","kulturperler.db","kulturperler.db.backup_20251219_122607","kulturperler.db.backup_20251219_153151","kulturperler.db.backup_20251219_155403","kulturperler.db.backup_20251219_155433","nrk_about_cache.json","nrk_candidates.json","sceneweb_cache.json"]),
 	mimeTypes: {".png":"image/png",".json":"application/json"},
 	_: {
-		client: {start:"_app/immutable/entry/start.CLsiO2DA.js",app:"_app/immutable/entry/app.S4sdsd8N.js",imports:["_app/immutable/entry/start.CLsiO2DA.js","_app/immutable/chunks/CtetCJJC.js","_app/immutable/chunks/BWaCFzQx.js","_app/immutable/chunks/Cf7Wvb2q.js","_app/immutable/entry/app.S4sdsd8N.js","_app/immutable/chunks/BWaCFzQx.js","_app/immutable/chunks/ByynYZRl.js","_app/immutable/chunks/DJ6CO-N1.js","_app/immutable/chunks/B4lSzilE.js","_app/immutable/chunks/Cf7Wvb2q.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"_app/immutable/entry/start.Co0b3EBB.js",app:"_app/immutable/entry/app.BtU6BAsm.js",imports:["_app/immutable/entry/start.Co0b3EBB.js","_app/immutable/chunks/GB0aF_N0.js","_app/immutable/chunks/CZeHBw1W.js","_app/immutable/chunks/20_fMFfe.js","_app/immutable/entry/app.BtU6BAsm.js","_app/immutable/chunks/CZeHBw1W.js","_app/immutable/chunks/H9k8rwYv.js","_app/immutable/chunks/DzsucvTQ.js","_app/immutable/chunks/sAFXRKJK.js","_app/immutable/chunks/Z4KTZH08.js","_app/immutable/chunks/20_fMFfe.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
@@ -25,7 +25,10 @@ return {
 			__memo(() => import('./nodes/10.js')),
 			__memo(() => import('./nodes/11.js')),
 			__memo(() => import('./nodes/12.js')),
-			__memo(() => import('./nodes/13.js'))
+			__memo(() => import('./nodes/13.js')),
+			__memo(() => import('./nodes/14.js')),
+			__memo(() => import('./nodes/15.js')),
+			__memo(() => import('./nodes/16.js'))
 		],
 		remotes: {
 			
@@ -67,52 +70,73 @@ return {
 				endpoint: null
 			},
 			{
+				id: "/opptak/[id]",
+				pattern: /^\/opptak\/([^/]+?)\/?$/,
+				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
+				page: { layouts: [0,], errors: [1,], leaf: 7 },
+				endpoint: null
+			},
+			{
 				id: "/performance/[id]",
 				pattern: /^\/performance\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 7 },
+				page: { layouts: [0,], errors: [1,], leaf: 8 },
 				endpoint: null
 			},
 			{
 				id: "/persons",
 				pattern: /^\/persons\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 9 },
+				page: { layouts: [0,], errors: [1,], leaf: 10 },
 				endpoint: null
 			},
 			{
 				id: "/person/[id]",
 				pattern: /^\/person\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 8 },
+				page: { layouts: [0,], errors: [1,], leaf: 9 },
 				endpoint: null
 			},
 			{
 				id: "/skapere",
 				pattern: /^\/skapere\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 10 },
+				page: { layouts: [0,], errors: [1,], leaf: 11 },
+				endpoint: null
+			},
+			{
+				id: "/sok",
+				pattern: /^\/sok\/?$/,
+				params: [],
+				page: { layouts: [0,], errors: [1,], leaf: 12 },
 				endpoint: null
 			},
 			{
 				id: "/teater",
 				pattern: /^\/teater\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 11 },
+				page: { layouts: [0,], errors: [1,], leaf: 13 },
 				endpoint: null
 			},
 			{
-				id: "/work/play/[id]",
-				pattern: /^\/work\/play\/([^/]+?)\/?$/,
+				id: "/verk/play/[id]",
+				pattern: /^\/verk\/play\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 13 },
+				page: { layouts: [0,], errors: [1,], leaf: 15 },
+				endpoint: null
+			},
+			{
+				id: "/verk/[id]",
+				pattern: /^\/verk\/([^/]+?)\/?$/,
+				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
+				page: { layouts: [0,], errors: [1,], leaf: 14 },
 				endpoint: null
 			},
 			{
 				id: "/work/[id]",
 				pattern: /^\/work\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 12 },
+				page: { layouts: [0,], errors: [1,], leaf: 16 },
 				endpoint: null
 			}
 		],

@@ -9,3 +9,10 @@ description: '"Våren" av Vivaldi, "Omnes gentes" av Gabrieli, og "Ouverture", "
 series_id: barokk-konsert-med-arve-tellefsen-og-oslo-filharmoniske-orkester
 total_duration: 2277
 image_url: https://gfx.nrk.no/Jeu-z5dJ7nb4uEvWxi7z9A3_J2v7_9F-0FzlLF2QjvAA
+credits:
+- person_id: 3776
+  role: composer
+- person_id: 3745
+  role: composer
+- person_id: 3753
+  role: composer

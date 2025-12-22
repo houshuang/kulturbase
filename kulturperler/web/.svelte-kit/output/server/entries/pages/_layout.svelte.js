@@ -1,5 +1,10 @@
 import { U as store_get, V as head, W as ensure_array_like, X as attr, Y as attr_class, Z as unsubscribe_stores } from "../../chunks/index2.js";
 import { p as page } from "../../chunks/stores.js";
+import "@sveltejs/kit/internal";
+import "../../chunks/exports.js";
+import "../../chunks/utils.js";
+import "@sveltejs/kit/internal/server";
+import "../../chunks/state.svelte.js";
 import { e as escape_html } from "../../chunks/context.js";
 function _layout($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {
@@ -27,7 +32,11 @@ function _layout($$renderer, $$props) {
       let item = each_array[$$index];
       $$renderer2.push(`<a${attr("href", item.href)}${attr_class("nav-link svelte-12qhfyh", void 0, { "active": isActive(item.href, item.exact) })}>${escape_html(item.label)}</a>`);
     }
-    $$renderer2.push(`<!--]--></nav></div></header> <main class="svelte-12qhfyh">`);
+    $$renderer2.push(`<!--]--></nav> <div class="header-spacer svelte-12qhfyh"></div> `);
+    {
+      $$renderer2.push("<!--[!-->");
+    }
+    $$renderer2.push(`<!--]--></div></header> <main class="svelte-12qhfyh">`);
     {
       $$renderer2.push("<!--[-->");
       $$renderer2.push(`<div class="loading svelte-12qhfyh"><p>Laster database...</p></div>`);

@@ -153,7 +153,7 @@
 					<input
 						type="search"
 						bind:value={searchQuery}
-						placeholder="Sok etter navn..."
+						placeholder="Søk etter navn..."
 						class="search-input"
 					/>
 				</div>

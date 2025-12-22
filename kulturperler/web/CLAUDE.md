@@ -359,8 +359,16 @@ r = requests.get('https://psapi.nrk.no/radio/catalog/series/radioteatret/seasons
 - `contributors` - Array with `name` and `role`
 - `sourceMedium` - 1=TV, 2=Radio
 
-### Gemini API
+### Gemini 3 Flash API
+**Always use Gemini 3 Flash** for external AI tasks. It's the latest model with best performance.
+
 API key in `.env`: `GEMINI_KEY=...`
+
+**Model details:**
+- Model ID: `gemini-3-flash-preview`
+- Pricing: $0.50/1M input tokens, $3/1M output tokens
+- Context window: 1M tokens input, 64k tokens output
+- Features: Thinking levels, context caching (90% cost reduction)
 
 ```python
 import os
@@ -370,14 +378,23 @@ from dotenv import load_dotenv
 load_dotenv()
 API_KEY = os.getenv('GEMINI_KEY')
 
-# Standard generation
-url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
+# Standard generation with Gemini 3 Flash
+url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={API_KEY}"
 payload = {
     "contents": [{"parts": [{"text": "Your prompt here"}]}],
     "generationConfig": {"temperature": 0.1}
 }
 r = requests.post(url, json=payload)
 text = r.json()['candidates'][0]['content']['parts'][0]['text']
+
+# With thinking level (for complex reasoning tasks)
+payload = {
+    "contents": [{"parts": [{"text": "Complex analysis prompt"}]}],
+    "generationConfig": {
+        "temperature": 0.1,
+        "thinking_level": "medium"  # minimal, low, medium, or high
+    }
+}
 
 # With Google Search grounding (for web searches)
 payload = {
@@ -407,6 +424,73 @@ items = r.json()['response']['docs']
 
 # Get item metadata
 r = requests.get('https://archive.org/metadata/ITEM_IDENTIFIER')
+```
+
+### YouTube via yt-dlp
+Use `yt-dlp` (installed at `/usr/local/bin/yt-dlp`) for fetching YouTube channel videos.
+WebFetch cannot access youtube.com, and YouTube RSS feeds are disabled.
+
+```bash
+# List all videos from a channel (fast, metadata only)
+yt-dlp --flat-playlist --print "%(id)s|%(title)s|%(duration)s" \
+  "https://www.youtube.com/channel/CHANNEL_ID/videos"
+
+# Or using handle
+yt-dlp --flat-playlist --print "%(id)s|%(title)s|%(duration)s" \
+  "https://www.youtube.com/@ChannelHandle/videos"
+
+# Get full metadata as JSON (slower, one request per video)
+yt-dlp --no-download -j "https://www.youtube.com/watch?v=VIDEO_ID"
+
+# Batch fetch multiple videos
+yt-dlp --no-download -j URL1 URL2 URL3...
+```
+
+**Python pattern for fetching channel videos:**
+```python
+import subprocess
+import json
+
+# Fast: Get all video IDs and basic info
+result = subprocess.run([
+    'yt-dlp', '--flat-playlist', '-j',
+    'https://www.youtube.com/@ChannelHandle/videos'
+], capture_output=True, text=True, timeout=120)
+
+videos = [json.loads(line) for line in result.stdout.strip().split('\n') if line]
+
+# Slower: Get full metadata for specific videos (in batches)
+urls = [f"https://www.youtube.com/watch?v={v['id']}" for v in videos]
+result = subprocess.run(
+    ['yt-dlp', '--no-download', '-j'] + urls[:10],  # batch of 10
+    capture_output=True, text=True, timeout=120
+)
+detailed = [json.loads(line) for line in result.stdout.strip().split('\n') if line]
+```
+
+**Key fields from yt-dlp JSON:**
+- `id`: Video ID (11 chars)
+- `title`: Full title
+- `description`: Full description (not truncated)
+- `duration`: Duration in seconds
+- `upload_date`: YYYYMMDD format
+- `thumbnail`: Thumbnail URL
+- `channel`: Channel name
+
+**Classifying videos with Gemini:**
+Use Gemini to classify videos as CONCERT vs NOT_CONCERT (interviews, podcasts, etc.):
+```python
+payload = {
+    "contents": [{"parts": [{"text": f"""Classify each video as CONCERT or NOT_CONCERT.
+CONCERT = musical performance recording
+NOT_CONCERT = interviews, podcasts, behind-the-scenes, announcements
+
+Video list (id|title|duration):
+{video_list}
+
+Reply with: video_id|CONCERT or video_id|NOT_CONCERT"""}]}],
+    "generationConfig": {"temperature": 0.1}
+}
 ```
 
 ## Classical Music Discovery Scripts

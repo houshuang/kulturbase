@@ -9,3 +9,8 @@ description: Den unge dirigentstjernen Tabita Berglund møter pianomester Håvar
 series_id: kork-hele-landets-orkester
 total_duration: 2469
 image_url: https://gfx.nrk.no/8Vpj_CtQpLht2DznwZ89_AjHEx4JuZdt4IB9wK5hLPTg
+credits:
+- person_id: 3475
+  role: composer
+- person_id: 3738
+  role: composer

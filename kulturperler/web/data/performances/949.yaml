@@ -9,3 +9,12 @@ description: Prisbelønt ballett for fjernsyn av Kjersti Alveberg, basert på en
 series_id: ballett-og-dans
 total_duration: 1619
 image_url: https://gfx.nrk.no/3I2kD5It_PPPeLVWK9vkkwJfGcUw6dWLzSCD5DF1sfHw
+credits:
+- person_id: 3779
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3400
+  role: composer
+- person_id: 1230
+  role: composer

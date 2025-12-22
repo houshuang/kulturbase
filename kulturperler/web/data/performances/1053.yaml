@@ -10,3 +10,10 @@ description: "KORK har sin siste konsert i Universitetets aula med sin sjefdirig
 series_id: kork-hele-landets-orkester
 total_duration: 2910
 image_url: https://gfx.nrk.no/iXWdHIOPiX4aNuXBlQ3sxwfIQGx73dxTHjt_lKExKyUQ
+credits:
+- person_id: 3783
+  role: composer
+- person_id: 3784
+  role: composer
+- person_id: 3731
+  role: composer

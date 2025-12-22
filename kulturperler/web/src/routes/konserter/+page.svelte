@@ -4,20 +4,14 @@
 	import { goto } from '$app/navigation';
 	import { getDb } from '$lib/db';
 
-	interface ConcertPerformance {
+	interface ConcertWork {
 		id: number;
-		work_id: number | null;
-		year: number | null;
-		title: string | null;
-		description: string | null;
-		total_duration: number | null;
-		image_url: string | null;
-		work_title: string | null;
+		title: string;
 		work_type: string | null;
 		composer_name: string | null;
 		composer_id: number | null;
-		conductor_name: string | null;
-		source: string | null;
+		performance_count: number;
+		image_url: string | null;
 	}
 
 	interface FilterCounts {
@@ -25,15 +19,14 @@
 		composers: Record<string, { id: number; count: number }>;
 	}
 
-	let allPerformances: ConcertPerformance[] = [];
-	let filteredPerformances: ConcertPerformance[] = [];
+	let allWorks: ConcertWork[] = [];
+	let filteredWorks: ConcertWork[] = [];
 	let loading = true;
 	let filterCounts: FilterCounts = { types: {}, composers: {} };
 
 	// Filter state
 	let selectedType: string = 'all';
 	let selectedComposer: string = 'all';
-	let sortBy: 'year-desc' | 'year-asc' | 'composer' | 'title' = 'year-desc';
 	let showFilters = false;
 
 	// Get unique types and composers
@@ -46,46 +39,30 @@
 	$: {
 		const urlType = $page.url.searchParams.get('type');
 		const urlComposer = $page.url.searchParams.get('composer');
-		const urlSort = $page.url.searchParams.get('sort');
 
 		selectedType = urlType || 'all';
 		selectedComposer = urlComposer || 'all';
-
-		if (urlSort === 'year-asc' || urlSort === 'composer' || urlSort === 'title') sortBy = urlSort;
-		else sortBy = 'year-desc';
 	}
 
-	// Apply filters
+	// Apply filters (works are already sorted by performance_count from DB)
 	$: {
-		let result = [...allPerformances];
+		let result = [...allWorks];
 
 		if (selectedType !== 'all') {
-			result = result.filter(p => p.work_type === selectedType);
+			result = result.filter(w => w.work_type === selectedType);
 		}
 
 		if (selectedComposer !== 'all') {
-			result = result.filter(p => p.composer_name === selectedComposer);
+			result = result.filter(w => w.composer_name === selectedComposer);
 		}
 
-		// Sort
-		if (sortBy === 'year-desc') {
-			result.sort((a, b) => (b.year || 0) - (a.year || 0));
-		} else if (sortBy === 'year-asc') {
-			result.sort((a, b) => (a.year || 0) - (b.year || 0));
-		} else if (sortBy === 'composer') {
-			result.sort((a, b) => (a.composer_name || '').localeCompare(b.composer_name || '', 'no'));
-		} else if (sortBy === 'title') {
-			result.sort((a, b) => (a.work_title || a.title || '').localeCompare(b.work_title || b.title || '', 'no'));
-		}
-
-		filteredPerformances = result;
+		filteredWorks = result;
 	}
 
 	function updateUrl() {
 		const params = new URLSearchParams();
 		if (selectedType !== 'all') params.set('type', selectedType);
 		if (selectedComposer !== 'all') params.set('composer', selectedComposer);
-		if (sortBy !== 'year-desc') params.set('sort', sortBy);
 
 		const query = params.toString();
 		goto(`/konserter${query ? '?' + query : ''}`, { replaceState: true, noScroll: true });
@@ -109,61 +86,46 @@
 		const db = getDb();
 		if (!db) return;
 
-		// Get all concert performances
+		// Get all concert works with performance counts, sorted by performance count
 		const results = db.exec(`
-			SELECT DISTINCT
-				p.id,
-				p.work_id,
-				p.year,
-				p.title as performance_title,
-				p.description,
-				p.total_duration,
-				p.image_url,
-				p.source,
-				w.title as work_title,
+			SELECT
+				w.id,
+				w.title,
 				w.work_type,
 				composer.name as composer_name,
 				composer.id as composer_id,
-				conductor.name as conductor_name
-			FROM performances p
-			LEFT JOIN works w ON p.work_id = w.id
+				(SELECT COUNT(*) FROM performances p WHERE p.work_id = w.id) as performance_count,
+				(SELECT p.image_url FROM performances p WHERE p.work_id = w.id AND p.image_url IS NOT NULL LIMIT 1) as image_url
+			FROM works w
 			LEFT JOIN persons composer ON w.composer_id = composer.id
-			LEFT JOIN performance_persons pp ON pp.performance_id = p.id AND pp.role = 'conductor'
-			LEFT JOIN persons conductor ON pp.person_id = conductor.id
 			WHERE w.category = 'konsert' OR w.work_type IN ('konsert', 'orchestral', 'symphony', 'concerto', 'chamber', 'choral')
-			ORDER BY p.year DESC, w.title
+			ORDER BY performance_count DESC, w.title
 		`);
 
 		if (results.length > 0) {
-			allPerformances = results[0].values.map((row: any[]) => ({
+			allWorks = results[0].values.map((row: any[]) => ({
 				id: row[0],
-				work_id: row[1],
-				year: row[2],
-				title: row[3],
-				description: row[4],
-				total_duration: row[5],
-				image_url: row[6],
-				source: row[7],
-				work_title: row[8],
-				work_type: row[9],
-				composer_name: row[10],
-				composer_id: row[11],
-				conductor_name: row[12]
+				title: row[1],
+				work_type: row[2],
+				composer_name: row[3],
+				composer_id: row[4],
+				performance_count: row[5],
+				image_url: row[6]
 			}));
 
 			// Calculate filter counts
 			const typeCounts: Record<string, number> = {};
 			const composerCounts: Record<string, { id: number; count: number }> = {};
 
-			for (const perf of allPerformances) {
-				if (perf.work_type) {
-					typeCounts[perf.work_type] = (typeCounts[perf.work_type] || 0) + 1;
+			for (const work of allWorks) {
+				if (work.work_type) {
+					typeCounts[work.work_type] = (typeCounts[work.work_type] || 0) + 1;
 				}
-				if (perf.composer_name && perf.composer_id) {
-					if (!composerCounts[perf.composer_name]) {
-						composerCounts[perf.composer_name] = { id: perf.composer_id, count: 0 };
+				if (work.composer_name && work.composer_id) {
+					if (!composerCounts[work.composer_name]) {
+						composerCounts[work.composer_name] = { id: work.composer_id, count: 0 };
 					}
-					composerCounts[perf.composer_name].count++;
+					composerCounts[work.composer_name].count++;
 				}
 			}
 
@@ -172,14 +134,6 @@
 
 		loading = false;
 	});
-
-	function formatDuration(seconds: number | null): string {
-		if (!seconds) return '';
-		const hours = Math.floor(seconds / 3600);
-		const minutes = Math.floor((seconds % 3600) / 60);
-		if (hours > 0) return `${hours}t ${minutes}m`;
-		return `${minutes}m`;
-	}
 
 	function getImageUrl(url: string | null, width = 400): string {
 		if (!url) return '';
@@ -228,7 +182,7 @@
 					<label class="filter-option">
 						<input type="radio" name="type" checked={selectedType === 'all'} on:change={() => setFilter('type', 'all')} />
 						<span>Alle</span>
-						<span class="count">{allPerformances.length}</span>
+						<span class="count">{allWorks.length}</span>
 					</label>
 					{#each types as [type, count]}
 						<label class="filter-option">
@@ -245,7 +199,7 @@
 					<label class="filter-option">
 						<input type="radio" name="composer" checked={selectedComposer === 'all'} on:change={() => setFilter('composer', 'all')} />
 						<span>Alle</span>
-						<span class="count">{allPerformances.length}</span>
+						<span class="count">{allWorks.length}</span>
 					</label>
 					<div class="scrollable-options">
 						{#each composers.slice(0, 30) as composer}
@@ -273,58 +227,42 @@
 					</button>
 
 					<div class="results-info">
-						<span class="result-count">{filteredPerformances.length} konserter</span>
+						<span class="result-count">{filteredWorks.length} verk</span>
 						{#if hasActiveFilters}
 							<button class="clear-link" on:click={resetFilters}>Fjern filter</button>
 						{/if}
 					</div>
-
-					<div class="sort-control">
-						<label for="sort">Sorter:</label>
-						<select id="sort" bind:value={sortBy} on:change={() => updateUrl()}>
-							<option value="year-desc">Nyeste forst</option>
-							<option value="year-asc">Eldste forst</option>
-							<option value="composer">Komponist A-A</option>
-							<option value="title">Tittel A-A</option>
-						</select>
-					</div>
 				</div>
 
 				<div class="concerts-grid">
-					{#each filteredPerformances as perf}
-						<a href="/opptak/{perf.id}" class="concert-card">
-							{#if perf.image_url}
-								<img src={getImageUrl(perf.image_url)} alt={perf.work_title || perf.title || ''} loading="lazy" />
+					{#each filteredWorks as work}
+						<a href="/verk/{work.id}" class="concert-card">
+							{#if work.image_url}
+								<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
 							{:else}
 								<div class="no-image">
 									<span class="icon">Klassisk</span>
 								</div>
 							{/if}
 							<div class="card-content">
-								<h3>{perf.work_title || perf.title}</h3>
-								{#if perf.composer_name}
-									<p class="composer">{perf.composer_name}</p>
+								<h3>{work.title}</h3>
+								{#if work.composer_name}
+									<p class="composer">{work.composer_name}</p>
 								{/if}
 								<div class="meta">
-									{#if perf.year}
-										<span class="year">{perf.year}</span>
+									{#if work.performance_count > 0}
+										<span class="count-badge">{work.performance_count} opptak</span>
 									{/if}
-									{#if perf.work_type}
-										<span class="type">{getTypeLabel(perf.work_type)}</span>
-									{/if}
-									{#if perf.total_duration}
-										<span class="duration">{formatDuration(perf.total_duration)}</span>
+									{#if work.work_type}
+										<span class="type">{getTypeLabel(work.work_type)}</span>
 									{/if}
 								</div>
-								{#if perf.conductor_name}
-									<p class="conductor">Dirigent: {perf.conductor_name}</p>
-								{/if}
 							</div>
 						</a>
 					{/each}
 				</div>
 
-				{#if filteredPerformances.length === 0}
+				{#if filteredWorks.length === 0}
 					<div class="no-results">
 						<p>Ingen konserter matcher filtrene dine.</p>
 						<button on:click={resetFilters}>Fjern filter</button>
@@ -609,10 +547,12 @@
 		border-radius: 3px;
 	}
 
-	.conductor {
-		font-size: 0.8rem;
-		color: #666;
-		margin: 0;
+	.count-badge {
+		background: #667eea;
+		color: white;
+		padding: 0.1rem 0.5rem;
+		border-radius: 3px;
+		font-weight: 500;
 	}
 
 	.no-results {

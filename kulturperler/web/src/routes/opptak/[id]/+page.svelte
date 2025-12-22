@@ -4,7 +4,7 @@
 	import type { PerformanceWithDetails, PerformancePerson, Episode, Play, Work } from '$lib/types';
 
 	let performance: PerformanceWithDetails | null = null;
-	let work: (Play & { playwright_name?: string }) | null = null;
+	let work: (Play & { playwright_name?: string; composer_name?: string }) | null = null;
 	let workDetails: Work | null = null;
 	let contributors: (PerformancePerson & { person_name: string })[] = [];
 	let media: Episode[] = [];
@@ -32,6 +32,12 @@
 
 	// Extract YouTube video ID if available
 	$: youtubeId = extractYouTubeId(media[0]?.youtube_url);
+
+	// Get best available image (performance image or first episode's image)
+	$: headerImage = performance?.image_url || media[0]?.image_url || null;
+
+	// Get author name (playwright for theater, composer for music)
+	$: authorName = isConcert ? work?.composer_name : work?.playwright_name;
 
 	function loadPerformance() {
 		loading = true;
@@ -141,7 +147,7 @@
 	<article class="performance-detail">
 		<a href="/" class="back-link">&larr; Tilbake til oversikt</a>
 
-		<div class="performance-header" class:no-media={!youtubeId && !hasImage(performance.image_url)}>
+		<div class="performance-header" class:no-media={!youtubeId && !hasImage(headerImage)}>
 			<!-- YouTube embed takes priority -->
 			{#if youtubeId}
 				<div class="youtube-embed">
@@ -154,7 +160,7 @@
 					></iframe>
 				</div>
 			<!-- Show image only if we have one -->
-			{:else if hasImage(performance.image_url)}
+			{:else if hasImage(headerImage)}
 				{#if media.length === 1}
 					<a
 						href={media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`}
@@ -162,7 +168,7 @@
 						rel="noopener"
 						class="performance-image playable"
 					>
-						<img src={performance.image_url} alt={performance.title || ''} />
+						<img src={headerImage} alt={performance.title || ''} />
 						<div class="header-play-icon">
 							<svg viewBox="0 0 24 24" fill="currentColor">
 								<path d="M8 5v14l11-7z"/>
@@ -174,7 +180,7 @@
 					</a>
 				{:else}
 					<div class="performance-image">
-						<img src={performance.image_url} alt={performance.title || ''} />
+						<img src={headerImage} alt={performance.title || ''} />
 					</div>
 				{/if}
 			{/if}
@@ -207,28 +213,46 @@
 					{/if}
 				</div>
 
-				{#if work}
-					<div class="work-preview">
-						<div class="work-preview-header">
-							<span class="label">Fra stykket ({otherPerformances.length + 1} opptak)</span>
-							<a href="/verk/{work.id}" class="work-link">Se mer &rarr;</a>
-						</div>
-						<h2>
-							<a href="/verk/{work.id}">{work.title}</a>
-							{#if work.year_written}
-								<span class="year-written">({work.year_written})</span>
-							{/if}
-						</h2>
-						{#if performance.playwright_name}
-							<p class="playwright">av <a href="/person/{performance.playwright_id}">{performance.playwright_name}</a></p>
+				<!-- Watch button prominently placed after title/meta when no header media -->
+				{#if media.length === 1 && !youtubeId && !hasImage(headerImage)}
+					<a
+						href={media[0].nrk_url || `https://tv.nrk.no/se?v=${media[0].prf_id}`}
+						target="_blank"
+						rel="noopener"
+						class="watch-button inline"
+					>
+						<svg viewBox="0 0 24 24" fill="currentColor" class="play-icon">
+							<path d="M8 5v14l11-7z"/>
+						</svg>
+						{#if performance?.source === 'bergenphilive'}
+							Se på BergenPhilLive
+						{:else if performance?.medium === 'radio'}
+							Lytt på NRK Radio
+						{:else}
+							Se på NRK TV
 						{/if}
-					</div>
+					</a>
 				{/if}
 
 				{#if performance.description}
 					<p class="description">{performance.description}</p>
 				{:else if workDetails?.synopsis}
 					<p class="synopsis">{workDetails.synopsis}</p>
+				{/if}
+
+				{#if work}
+					<div class="work-link-row">
+						<a href="/verk/{work.id}" class="work-context-link">
+							<span class="work-context-label">Fra verket</span>
+							<span class="work-context-title">{work.title}</span>
+							{#if authorName}
+								<span class="work-context-author">av {authorName}</span>
+							{/if}
+							{#if otherPerformances.length > 0}
+								<span class="work-context-count">+{otherPerformances.length} andre opptak</span>
+							{/if}
+						</a>
+					</div>
 				{/if}
 			</div>
 		</div>
@@ -240,7 +264,7 @@
 				<div class="media-grid">
 					{#each media as item}
 						<a
-							href={item.nrk_url || `https://tv.nrk.no/se?v=${item.prf_id}`}
+							href={item.youtube_url || item.nrk_url || `https://tv.nrk.no/se?v=${item.prf_id}`}
 							target="_blank"
 							rel="noopener"
 							class="media-card"
@@ -276,7 +300,6 @@
 										{/if}
 									</span>
 								{/if}
-								<span class="watch-label">{performance?.medium === 'radio' ? 'Lytt på NRK Radio' : 'Se på NRK TV'}</span>
 							</div>
 						</a>
 					{/each}
@@ -504,62 +527,46 @@
 		margin-bottom: 1.5rem;
 	}
 
-	.work-preview-header {
-		display: flex;
-		justify-content: space-between;
+	/* Compact work context link */
+	.work-link-row {
+		margin-top: 1rem;
+	}
+
+	.work-context-link {
+		display: inline-flex;
 		align-items: center;
-		margin-bottom: 0.5rem;
-	}
-
-	.work-preview-header .label {
-		font-size: 0.8rem;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-		color: #888;
-	}
-
-	.work-link {
-		font-size: 0.85rem;
-		color: #e94560;
+		gap: 0.5rem;
+		padding: 0.5rem 0.75rem;
+		background: #f5f5f5;
+		border-radius: 6px;
 		text-decoration: none;
-	}
-
-	.work-link:hover {
-		text-decoration: underline;
-	}
-
-	.work-preview h2 {
-		font-size: 1.25rem;
-		margin: 0;
-	}
-
-	.work-preview h2 a {
 		color: inherit;
-		text-decoration: none;
+		font-size: 0.9rem;
+		transition: background 0.15s;
 	}
 
-	.work-preview h2 a:hover {
-		color: #e94560;
+	.work-context-link:hover {
+		background: #eee;
 	}
 
-	.year-written {
-		font-weight: normal;
+	.work-context-label {
+		color: #888;
+		font-size: 0.8rem;
+	}
+
+	.work-context-title {
+		font-weight: 600;
+		color: #333;
+	}
+
+	.work-context-author {
 		color: #666;
+		font-size: 0.85rem;
 	}
 
-	.playwright {
-		margin: 0.25rem 0 0;
-		font-size: 0.95rem;
-		color: #555;
-	}
-
-	.playwright a {
+	.work-context-count {
 		color: #e94560;
-		text-decoration: none;
-	}
-
-	.playwright a:hover {
-		text-decoration: underline;
+		font-size: 0.85rem;
 	}
 
 	.description {
@@ -579,6 +586,60 @@
 
 	.venue {
 		color: #666;
+	}
+
+	/* YouTube embed */
+	.youtube-embed-container {
+		margin: 1.5rem 0;
+		max-width: 800px;
+	}
+
+	.youtube-embed {
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+		border-radius: 12px;
+		background: #000;
+	}
+
+	.youtube-embed iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		border: none;
+	}
+
+	/* Watch button */
+	.watch-button {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.75rem;
+		padding: 1rem 2rem;
+		background: #e94560;
+		color: white;
+		text-decoration: none;
+		border-radius: 8px;
+		font-size: 1.1rem;
+		font-weight: 600;
+		margin: 1.5rem 0;
+		transition: background 0.2s, transform 0.2s;
+	}
+
+	.watch-button.inline {
+		margin: 1rem 0;
+	}
+
+	.watch-button:hover {
+		background: #d63850;
+		transform: translateY(-2px);
+	}
+
+	.watch-button .play-icon {
+		width: 24px;
+		height: 24px;
 	}
 
 	/* Media section */
@@ -675,11 +736,6 @@
 	.part-label {
 		font-weight: 600;
 		font-size: 0.95rem;
-	}
-
-	.watch-label {
-		font-size: 0.85rem;
-		color: #e94560;
 	}
 
 	/* Contributors */

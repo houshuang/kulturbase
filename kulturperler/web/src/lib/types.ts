@@ -64,6 +64,8 @@ export interface PerformanceWithDetails extends Performance {
 	playwright_name?: string | null;
 	playwright_id?: number | null;
 	director_name?: string | null;
+	conductor_name?: string | null;
+	orchestra_name?: string | null;
 	media_count?: number;
 	work_type?: WorkType | null;
 	category?: WorkCategory | null;

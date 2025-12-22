@@ -94,7 +94,7 @@ function _page($$renderer, $$props) {
 							 WHERE pf.work_id = w.id LIMIT 1) as image_url
 						FROM works w
 						WHERE w.playwright_id = ?
-						ORDER BY w.year_written, w.title
+						ORDER BY performance_count DESC, w.title
 					`);
             playsStmt.bind([personId]);
             worksWritten = [];
@@ -114,7 +114,7 @@ function _page($$renderer, $$props) {
 							 WHERE pf.work_id = w.id LIMIT 1) as image_url
 						FROM works w
 						WHERE w.composer_id = ?
-						ORDER BY w.year_written, w.title
+						ORDER BY performance_count DESC, w.title
 					`);
             composerStmt.bind([personId]);
             worksComposed = [];
@@ -134,7 +134,7 @@ function _page($$renderer, $$props) {
 							 WHERE pf.work_id = w.id LIMIT 1) as image_url
 						FROM works w
 						WHERE w.librettist_id = ?
-						ORDER BY w.year_written, w.title
+						ORDER BY performance_count DESC, w.title
 					`);
             librettoStmt.bind([personId]);
             librettos = [];

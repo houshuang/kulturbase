@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
-	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person } from '$lib/types';
+	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, getPerformanceContributors, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
+	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person, PerformancePerson } from '$lib/types';
 
 	interface PerformanceWithMedia extends PerformanceWithDetails {
 		media: Episode[];
@@ -17,6 +17,7 @@
 	let moreByAuthor: WorkWithCounts[] = [];
 	let sourceWork: WorkWithDetails | null = null;
 	let adaptations: WorkWithDetails[] = [];
+	let singlePerfContributors: (PerformancePerson & { person_name: string })[] = [];
 	let loading = true;
 	let error: string | null = null;
 
@@ -35,6 +36,9 @@
 	$: isSingleEpisode = singlePerf && singlePerf.media.length === 1;
 	$: isConcert = work?.work_type ? CONCERT_TYPES.includes(work.work_type) : false;
 	$: leaderLabel = isConcert ? 'Dirigent' : 'Regi';
+	// Check if radio/stream section is the first content after header (no external links, no hero, no TV section)
+	$: noContentBeforeRadio = externalLinks.length === 0 && !isSinglePerformance && tvPerformances.length === 0;
+	$: noContentBeforeStream = noContentBeforeRadio && radioPerformances.length === 0;
 
 	function loadWork() {
 		// Reset state for new load
@@ -50,6 +54,7 @@
 		moreByAuthor = [];
 		sourceWork = null;
 		adaptations = [];
+		singlePerfContributors = [];
 
 		try {
 			work = getWork(workId);
@@ -94,6 +99,12 @@
 
 				// Load external links
 				externalLinks = getWorkExternalLinks(workId);
+
+				// Load contributors if single performance
+				const allPerfs = [...tvPerformances, ...radioPerformances, ...streamPerformances];
+				if (allPerfs.length === 1) {
+					singlePerfContributors = getPerformanceContributors(allPerfs[0].id);
+				}
 
 				// Load work relationships
 				sourceWork = getSourceWork(workId);
@@ -176,6 +187,35 @@
 		};
 		return labels[type || ''] || 'Bearbeidelse';
 	}
+
+	function getRoleLabel(role: string | null): string {
+		const labels: Record<string, string> = {
+			director: 'Regi',
+			conductor: 'Dirigent',
+			actor: 'Skuespillere',
+			soloist: 'Solist',
+			playwright: 'Manus',
+			composer: 'Komponist',
+			set_designer: 'Scenografi',
+			costume_designer: 'Kostymer',
+			producer: 'Produsent',
+			orchestra: 'Orkester',
+			other: 'Annet'
+		};
+		return labels[role || ''] || role || 'Ukjent';
+	}
+
+	function groupContributors(contribs: typeof singlePerfContributors) {
+		const groups: Record<string, typeof singlePerfContributors> = {};
+		for (const c of contribs) {
+			const role = c.role || 'other';
+			if (!groups[role]) groups[role] = [];
+			groups[role].push(c);
+		}
+		return groups;
+	}
+
+	$: contributorGroups = groupContributors(singlePerfContributors);
 </script>
 
 <svelte:head>
@@ -280,108 +320,95 @@
 		{#if isSinglePerformance && singlePerf}
 			{@const singleYoutubeId = getYouTubeIdFromPerformance(singlePerf)}
 			<section class="single-performance-hero">
-				{#if singleYoutubeId}
-					<!-- YouTube embed for stream performances -->
-					<div class="hero-youtube">
-						<div class="youtube-embed hero-embed">
-							<iframe
-								src="https://www.youtube.com/embed/{singleYoutubeId}"
-								title={singlePerf.title || work?.title || 'Video'}
-								frameborder="0"
-								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-								allowfullscreen
-							></iframe>
-						</div>
+				<div class="hero-with-contributors">
+					<div class="hero-media">
+						{#if singleYoutubeId}
+							<!-- YouTube embed for stream performances -->
+							<div class="hero-youtube">
+								<div class="youtube-embed hero-embed">
+									<iframe
+										src="https://www.youtube.com/embed/{singleYoutubeId}"
+										title={singlePerf.title || work?.title || 'Video'}
+										frameborder="0"
+										allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+										allowfullscreen
+									></iframe>
+								</div>
+							</div>
+						{:else if isSingleEpisode}
+							<!-- Direct play for single episode -->
+							<a
+								href={singlePerf.media[0].nrk_url || `https://tv.nrk.no/se?v=${singlePerf.media[0].prf_id}`}
+								target="_blank"
+								rel="noopener"
+								class="hero-player"
+							>
+								<div class="hero-image">
+									{#if singlePerf.image_url}
+										<img src={getImageUrl(singlePerf.image_url, 800)} alt={work?.title || ''} />
+									{:else}
+										<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : singlePerf.medium === 'stream' ? 'Video' : 'Radio'}</div>
+									{/if}
+									<div class="play-overlay">
+										<span class="play-button">▶</span>
+									</div>
+									{#if singlePerf.total_duration}
+										<span class="duration-badge large">{formatDuration(singlePerf.total_duration)}</span>
+									{/if}
+								</div>
+							</a>
+						{:else}
+							<!-- Single performance with multiple episodes - link list -->
+							<div class="hero-multi-episode">
+								{#if singlePerf.image_url}
+									<img src={getImageUrl(singlePerf.image_url, 600)} alt={work?.title || ''} class="multi-ep-image" />
+								{/if}
+								<div class="episodes-list">
+									{#each singlePerf.media as episode, i}
+										<a
+											href={episode.nrk_url || `https://tv.nrk.no/se?v=${episode.prf_id}`}
+											target="_blank"
+											rel="noopener"
+											class="episode-link"
+										>
+											<span class="episode-number">Del {i + 1}</span>
+											{#if episode.duration_seconds}
+												<span class="episode-duration">{formatDuration(episode.duration_seconds)}</span>
+											{/if}
+											<span class="episode-play">▶ Spill</span>
+										</a>
+									{/each}
+								</div>
+							</div>
+						{/if}
 						<div class="hero-meta">
-							<span class="medium-label youtube">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
+							<span class="medium-label {singleYoutubeId ? 'youtube' : ''}">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
 							{#if singlePerf.year}
 								<span class="year-badge">{singlePerf.year}</span>
 							{/if}
-							{#if singlePerf.director_name}
-								<span class="director">{leaderLabel}: {singlePerf.director_name}</span>
-							{:else if singlePerf.description}
-								<span class="director">{singlePerf.description.split('.')[0]}</span>
+							{#if singlePerf.description}
+								<span class="perf-description">{singlePerf.description}</span>
 							{/if}
 						</div>
 					</div>
-				{:else if isSingleEpisode}
-					<!-- Direct play for single episode -->
-					<a
-						href={singlePerf.media[0].nrk_url || `https://tv.nrk.no/se?v=${singlePerf.media[0].prf_id}`}
-						target="_blank"
-						rel="noopener"
-						class="hero-player"
-					>
-						<div class="hero-image">
-							{#if singlePerf.image_url}
-								<img src={getImageUrl(singlePerf.image_url, 800)} alt={work?.title || ''} />
-							{:else}
-								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : singlePerf.medium === 'stream' ? 'Video' : 'Radio'}</div>
-							{/if}
-							<div class="play-overlay">
-								<span class="play-button">▶</span>
-							</div>
-							{#if singlePerf.total_duration}
-								<span class="duration-badge large">{formatDuration(singlePerf.total_duration)}</span>
-							{/if}
-						</div>
-						<div class="hero-meta">
-							<span class="medium-label">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
-							{#if singlePerf.year}
-								<span class="year-badge">{singlePerf.year}</span>
-							{/if}
-							{#if singlePerf.director_name}
-								<span class="director">{leaderLabel}: {singlePerf.director_name}</span>
-							{:else if singlePerf.description}
-								<span class="director">{singlePerf.description.split('.')[0]}</span>
-							{/if}
-						</div>
-					</a>
-				{:else}
-					<!-- Single performance with multiple episodes -->
-					<div class="hero-content">
-						<div class="hero-image-container">
-							{#if singlePerf.image_url}
-								<img src={getImageUrl(singlePerf.image_url, 600)} alt={work?.title || ''} />
-							{:else}
-								<div class="hero-placeholder">{singlePerf.medium === 'tv' ? 'TV' : singlePerf.medium === 'stream' ? 'Video' : 'Radio'}</div>
-							{/if}
-						</div>
-						<div class="hero-info">
-							<div class="hero-meta-row">
-								<span class="medium-label">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
-								{#if singlePerf.year}
-									<span class="year-badge">{singlePerf.year}</span>
-								{/if}
-								{#if singlePerf.total_duration}
-									<span class="duration">{formatDuration(singlePerf.total_duration)}</span>
-								{/if}
-							</div>
-							{#if singlePerf.director_name}
-								<p class="director">{leaderLabel}: {singlePerf.director_name}</p>
-							{:else if singlePerf.description}
-								<p class="director">{singlePerf.description.split('.')[0]}</p>
-							{/if}
-							<p class="episodes-label">{singlePerf.media.length} deler</p>
-							<div class="episodes-list">
-								{#each singlePerf.media as episode, i}
-									<a
-										href={episode.nrk_url || `https://tv.nrk.no/se?v=${episode.prf_id}`}
-										target="_blank"
-										rel="noopener"
-										class="episode-link"
-									>
-										<span class="episode-number">Del {i + 1}</span>
-										{#if episode.duration_seconds}
-											<span class="episode-duration">{formatDuration(episode.duration_seconds)}</span>
-										{/if}
-										<span class="episode-play">▶ Spill</span>
-									</a>
+
+					{#if singlePerfContributors.length > 0}
+						<div class="hero-contributors">
+							<h3>Medvirkende</h3>
+							<div class="contributors-compact">
+								{#each Object.entries(contributorGroups) as [role, contribs]}
+									<div class="contrib-group">
+										<span class="contrib-role">{getRoleLabel(role)}</span>
+										<div class="contrib-names">
+											{#each contribs as c, i}<span class="contrib-person"><a href="/person/{c.person_id}">{c.person_name}</a>{#if c.character_name}<span class="char-name"> ({c.character_name})</span>{/if}</span>{/each}
+										</div>
+									</div>
 								{/each}
 							</div>
+							<a href="/opptak/{singlePerf.id}" class="more-details-link">Se alle detaljer →</a>
 						</div>
-					</div>
-				{/if}
+					{/if}
+				</div>
 			</section>
 		{:else if totalPerformances > 1}
 			<!-- Multiple performances: Show cards by medium -->
@@ -423,7 +450,7 @@
 								{#if perf.director_name}
 									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
 								{:else if perf.description}
-									<p class="perf-desc">{perf.description.split('.')[0]}</p>
+									<p class="perf-desc">{perf.description}</p>
 								{/if}
 							</div>
 						</a>
@@ -433,7 +460,7 @@
 		{/if}
 
 		{#if radioPerformances.length > 0}
-			<section class="performances radio-section">
+			<section class="performances radio-section" class:first-section={noContentBeforeRadio}>
 				<h2>
 					<span class="medium-icon radio">R</span>
 					{isConcert ? 'Lydopptak' : 'Radioteater'}
@@ -470,7 +497,7 @@
 								{#if perf.director_name}
 									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
 								{:else if perf.description}
-									<p class="perf-desc">{perf.description.split('.')[0]}</p>
+									<p class="perf-desc">{perf.description}</p>
 								{/if}
 							</div>
 						</a>
@@ -480,7 +507,7 @@
 		{/if}
 
 		{#if streamPerformances.length > 0}
-			<section class="performances stream-section">
+			<section class="performances stream-section" class:first-section={noContentBeforeStream}>
 				<h2>
 					<span class="medium-icon stream">▶</span>
 					Videoopptak
@@ -509,21 +536,18 @@
 							{/if}
 							<div class="perf-info">
 								<div class="perf-meta-row">
-									{#if perf.year}
-										<span class="perf-year stream">{perf.year}</span>
-									{/if}
+									{#if perf.year}<span class="perf-year stream">{perf.year}</span>{/if}
 									<span class="source-badge {perf.source}">{perf.source === 'youtube' ? 'YouTube' : perf.source === 'bergenphilive' ? 'BergenPhilLive' : 'Video'}</span>
-									{#if perf.total_duration}
-										<span class="perf-duration-inline">{formatDuration(perf.total_duration)}</span>
-									{/if}
 								</div>
-								{#if perf.title && perf.title !== work?.title}
+								{#if perf.title}
 									<h3 class="perf-title">{perf.title}</h3>
 								{/if}
-								{#if perf.director_name}
-									<p class="perf-director">{leaderLabel}: {perf.director_name}</p>
-								{:else if perf.description}
-									<p class="perf-desc">{perf.description.split('.')[0]}</p>
+								{#if perf.orchestra_name || perf.conductor_name}
+									<p class="perf-credits">
+										{#if perf.orchestra_name}{perf.orchestra_name}{/if}
+										{#if perf.orchestra_name && perf.conductor_name} · {/if}
+										{#if perf.conductor_name}Dir: {perf.conductor_name}{/if}
+									</p>
 								{/if}
 							</div>
 						</a>
@@ -969,7 +993,6 @@
 		border-radius: 4px;
 		font-size: 0.85rem;
 		font-weight: 600;
-		margin-bottom: 0.5rem;
 	}
 
 	.perf-year.radio {
@@ -1011,6 +1034,13 @@
 	.stream-section {
 		border-top: 1px solid #eee;
 		padding-top: 1.5rem;
+	}
+
+	/* Remove top border when it's the first performances section (no preceding content) */
+	.stream-section.first-section,
+	.radio-section.first-section {
+		border-top: none;
+		padding-top: 0;
 	}
 
 	.stream-grid {
@@ -1099,7 +1129,7 @@
 		display: flex;
 		align-items: center;
 		gap: 0.5rem;
-		flex-wrap: wrap;
+		flex-wrap: nowrap;
 		margin-bottom: 0.5rem;
 	}
 
@@ -1140,6 +1170,13 @@
 		font-size: 0.85rem;
 		color: #666;
 		margin: 0;
+		line-height: 1.4;
+	}
+
+	.perf-credits {
+		font-size: 0.85rem;
+		color: #555;
+		margin: 0.25rem 0 0 0;
 		line-height: 1.4;
 	}
 
@@ -1295,6 +1332,117 @@
 	/* Single performance hero */
 	.single-performance-hero {
 		margin-bottom: 2rem;
+	}
+
+	.hero-with-contributors {
+		display: grid;
+		grid-template-columns: 1fr 320px;
+		gap: 1.5rem;
+		background: #f9f9f9;
+		border-radius: 12px;
+		overflow: hidden;
+	}
+
+	.hero-media {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.hero-media .hero-youtube {
+		flex: 1;
+	}
+
+	.hero-media .hero-player {
+		flex: 1;
+		border-radius: 0;
+	}
+
+	.hero-contributors {
+		padding: 1.25rem;
+		display: flex;
+		flex-direction: column;
+		overflow-y: auto;
+		max-height: 400px;
+	}
+
+	.hero-contributors h3 {
+		font-size: 0.9rem;
+		font-weight: 600;
+		margin: 0 0 1rem 0;
+		color: #333;
+		text-transform: uppercase;
+		letter-spacing: 0.02em;
+	}
+
+	.contributors-compact {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+		flex: 1;
+	}
+
+	.contrib-group {
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+	}
+
+	.contrib-role {
+		font-size: 0.75rem;
+		font-weight: 600;
+		color: #888;
+		text-transform: uppercase;
+	}
+
+	.contrib-names {
+		font-size: 0.9rem;
+		line-height: 1.5;
+	}
+
+	.contrib-names a {
+		color: #333;
+		text-decoration: none;
+	}
+
+	.contrib-names a:hover {
+		color: #e94560;
+	}
+
+	.contrib-person:not(:last-child)::after {
+		content: ', ';
+	}
+
+	.char-name {
+		color: #888;
+		font-size: 0.85rem;
+	}
+
+	.more-details-link {
+		margin-top: auto;
+		padding-top: 1rem;
+		color: #e94560;
+		text-decoration: none;
+		font-size: 0.85rem;
+	}
+
+	.more-details-link:hover {
+		text-decoration: underline;
+	}
+
+	.perf-description {
+		color: #555;
+		font-size: 0.9rem;
+	}
+
+	.hero-multi-episode {
+		padding: 1rem;
+	}
+
+	.multi-ep-image {
+		width: 100%;
+		max-width: 400px;
+		border-radius: 8px;
+		margin-bottom: 1rem;
 	}
 
 	.hero-player {
@@ -1723,6 +1871,17 @@
 	.adaptation-count {
 		font-size: 0.8rem;
 		color: #888;
+	}
+
+	@media (max-width: 800px) {
+		.hero-with-contributors {
+			grid-template-columns: 1fr;
+		}
+
+		.hero-contributors {
+			max-height: none;
+			border-top: 1px solid #eee;
+		}
 	}
 
 	@media (max-width: 600px) {

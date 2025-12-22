@@ -807,6 +807,14 @@ export function getWorkPerformancesByMedium(workId: number, medium: 'tv' | 'radi
 				SELECT person_id FROM performance_persons pp
 				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
 			)) as director_name,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'conductor' LIMIT 1
+			)) as conductor_name,
+			(SELECT i.name FROM institutions i
+				JOIN performance_institutions pi ON pi.institution_id = i.id
+				WHERE pi.performance_id = perf.id AND pi.role = 'orchestra' LIMIT 1
+			) as orchestra_name,
 			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
 			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
 		FROM performances perf

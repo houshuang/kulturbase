@@ -67,7 +67,13 @@
 
 		// Sort
 		if (sortBy === 'year-desc') {
-			result.sort((a, b) => (b.year || 0) - (a.year || 0));
+			// Prioritize TV with images first for better visual presentation
+			result.sort((a, b) => {
+				const aHasImage = a.medium === 'tv' && a.image_url ? 1 : 0;
+				const bHasImage = b.medium === 'tv' && b.image_url ? 1 : 0;
+				if (bHasImage !== aHasImage) return bHasImage - aHasImage;
+				return (b.year || 0) - (a.year || 0);
+			});
 		} else if (sortBy === 'year-asc') {
 			result.sort((a, b) => (a.year || 0) - (b.year || 0));
 		} else if (sortBy === 'title') {

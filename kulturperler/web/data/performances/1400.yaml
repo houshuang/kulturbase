@@ -9,7 +9,3 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Lutoslawski. Innspilt: 2
 credits:
 - person_id: 4255
   role: conductor
-_file: !!python/object/apply:pathlib.PosixPath
-- data
-- performances
-- 1400.yaml

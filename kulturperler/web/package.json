@@ -28,6 +28,7 @@
   "devDependencies": {
     "@types/sql.js": "^1.4.9",
     "svelte-check": "^4.3.4",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "wrangler": "^4.56.0"
   }
 }

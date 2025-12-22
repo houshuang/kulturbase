@@ -9,7 +9,3 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Anderson. Innspilt: 2023
 credits:
 - person_id: 4255
   role: conductor
-_file: !!python/object/apply:pathlib.PosixPath
-- data
-- performances
-- 1401.yaml

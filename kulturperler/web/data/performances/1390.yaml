@@ -9,7 +9,3 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Brahms. Innspilt: 2024-0
 credits:
 - person_id: 4255
   role: conductor
-_file: !!python/object/apply:pathlib.PosixPath
-- data
-- performances
-- 1390.yaml

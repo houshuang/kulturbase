@@ -9,7 +9,3 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Beethoven. Innspilt: 202
 credits:
 - person_id: 4265
   role: conductor
-_file: !!python/object/apply:pathlib.PosixPath
-- data
-- performances
-- 1397.yaml

@@ -14,7 +14,11 @@
 		program_count: number;
 	}
 
-	type Tab = 'forfattere' | 'komponister' | 'personer';
+	interface ConductorWithStats extends Person {
+		performance_count: number;
+	}
+
+	type Tab = 'forfattere' | 'komponister' | 'dirigenter' | 'personer';
 
 	// Get tab from URL, default to 'forfattere'
 	$: activeTab = ($page.url.searchParams.get('tab') as Tab) || 'forfattere';
@@ -25,6 +29,7 @@
 
 	let playwrights: CreatorWithStats[] = [];
 	let composers: CreatorWithStats[] = [];
+	let conductors: ConductorWithStats[] = [];
 	let personsWithPrograms: PersonWithPrograms[] = [];
 	let loading = true;
 
@@ -108,6 +113,42 @@
 			}));
 		}
 
+		// Get conductors (dirigenter)
+		const conductorResults = db.exec(`
+			SELECT
+				p.id,
+				p.name,
+				p.birth_year,
+				p.death_year,
+				p.nationality,
+				p.bio,
+				p.wikipedia_url,
+				p.sceneweb_url,
+				COUNT(DISTINCT pp.performance_id) as performance_count
+			FROM persons p
+			JOIN performance_persons pp ON pp.person_id = p.id
+			WHERE pp.role = 'conductor'
+			GROUP BY p.id
+			ORDER BY performance_count DESC, p.name
+		`);
+
+		if (conductorResults.length > 0) {
+			conductors = conductorResults[0].values.map((row: any[]) => ({
+				id: row[0],
+				name: row[1],
+				normalized_name: null,
+				birth_year: row[2],
+				death_year: row[3],
+				nationality: row[4],
+				bio: row[5],
+				wikipedia_url: row[6],
+				sceneweb_url: row[7],
+				wikidata_id: null,
+				sceneweb_id: null,
+				performance_count: row[8] || 0
+			}));
+		}
+
 		// Get persons with programs about them (but no works)
 		const programResults = db.exec(`
 			SELECT
@@ -183,6 +224,13 @@
 		</button>
 		<button
 			class="tab"
+			class:active={activeTab === 'dirigenter'}
+			on:click={() => setTab('dirigenter')}
+		>
+			Dirigenter ({conductors.length})
+		</button>
+		<button
+			class="tab"
 			class:active={activeTab === 'personer'}
 			on:click={() => setTab('personer')}
 		>
@@ -235,6 +283,26 @@
 							</div>
 							<div class="stat-item">
 								<span class="stat-value">{creator.performance_count}</span>
+								<span class="stat-label">opptak</span>
+							</div>
+						</div>
+					</a>
+				{/each}
+			</div>
+		{:else if activeTab === 'dirigenter'}
+			<p class="tab-description">Dirigenter som har ledet konserter i arkivet</p>
+			<div class="creators-grid">
+				{#each conductors as conductor}
+					<a href="/person/{conductor.id}" class="creator-card">
+						<div class="creator-info">
+							<h3>{conductor.name}</h3>
+							{#if conductor.birth_year || conductor.death_year}
+								<p class="lifespan">{formatLifespan(conductor.birth_year, conductor.death_year)}</p>
+							{/if}
+						</div>
+						<div class="creator-stats">
+							<div class="stat-item">
+								<span class="stat-value">{conductor.performance_count}</span>
 								<span class="stat-label">opptak</span>
 							</div>
 						</div>

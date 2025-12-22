@@ -9,7 +9,3 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Nielsen. Innspilt: 2024-
 credits:
 - person_id: 4264
   role: conductor
-_file: !!python/object/apply:pathlib.PosixPath
-- data
-- performances
-- 1393.yaml

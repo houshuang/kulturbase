@@ -1,9 +1,15 @@
 prf_id: MKTT83003183
 title: Det ligger noe under bordet
-description: |-
-  Bordet er stortingspresidentens, og det som ligger under det blir oppdaget idet de folkevalgtes forsamling skal åpne sitt møte: En kjent stortingsmann, Hans Lamoen.
+description: 'Bordet er stortingspresidentens, og det som ligger under det blir oppdaget
+  idet de folkevalgtes forsamling skal åpne sitt møte: En kjent stortingsmann, Hans
+  Lamoen.
 
-  De som er med: Frank Robert (Nordby), Lasse Kolstad (Førstebetjent Jespersen), Tor Stokke (Heilo), Ståle Bjørnhaug (Krøstup), Lasse Lindtner (Guriby), Per Christensen d.e. (Nilsen), Adolf Bjerke (Solvik), Jørn Ording (Kaptein Jensen). Ellers medvirker: Per Åge Myrdal, Frank Iversen, Per Tofte, Ragnar Dyresen, Tore Høifødt, Else Myklebust og Aimeé Malthe Harnes.
+
+  De som er med: Frank Robert (Nordby), Lasse Kolstad (Førstebetjent Jespersen), Tor
+  Stokke (Heilo), Ståle Bjørnhaug (Krøstup), Lasse Lindtner (Guriby), Per Christensen
+  d.e. (Nilsen), Adolf Bjerke (Solvik), Jørn Ording (Kaptein Jensen). Ellers medvirker:
+  Per Åge Myrdal, Frank Iversen, Per Tofte, Ragnar Dyresen, Tore Høifødt, Else Myklebust
+  og Aimeé Malthe Harnes.'
 year: 1983
 duration_seconds: 2056
 image_url: https://gfx.nrk.no/R3jchOoWYTAPjZlOJeBsiQXlTxGSIbovQExm39UBzPcQ
@@ -56,7 +62,7 @@ credits:
   role: director
 - person_id: 1290
   role: director
-- person_id: 621
+- person_id: 1946
   role: actor
 - person_id: 1779
   role: actor

@@ -15,7 +15,7 @@ source: nrk
 medium: radio
 series_id: stans-toget
 credits:
-- person_id: 3029
+- person_id: 3028
   role: playwright
 - person_id: 1295
   role: other

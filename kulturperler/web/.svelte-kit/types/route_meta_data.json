@@ -1,8 +1,14 @@
 {
 	"/": [],
+	"/dramaserier": [],
 	"/episode/[id]": [],
+	"/konserter": [],
+	"/opera": [],
 	"/performance/[id]": [],
 	"/persons": [],
 	"/person/[id]": [],
-	"/play/[id]": []
+	"/play/[id]": [],
+	"/skapere": [],
+	"/teater": [],
+	"/work/[id]": []
 }

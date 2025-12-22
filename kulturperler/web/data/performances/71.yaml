@@ -179,7 +179,7 @@ credits:
   role: actor
 - person_id: 1552
   role: actor
-- person_id: 750
+- person_id: 3077
   role: actor
 - person_id: 789
   role: actor
@@ -197,7 +197,7 @@ credits:
   role: actor
 - person_id: 837
   role: other
-- person_id: 750
+- person_id: 3077
   role: other
 - person_id: 789
   role: other
@@ -241,7 +241,7 @@ credits:
   role: actor
 - person_id: 1105
   role: actor
-- person_id: 1562
+- person_id: 1540
   role: other
 - person_id: 1563
   role: other
@@ -309,7 +309,7 @@ credits:
   role: actor
 - person_id: 1571
   role: composer
-- person_id: 1572
+- person_id: 237
   role: actor
 - person_id: 1573
   role: other
@@ -323,7 +323,7 @@ credits:
   role: actor
 - person_id: 1092
   role: actor
-- person_id: 1572
+- person_id: 237
   role: other
 - person_id: 199
   role: other

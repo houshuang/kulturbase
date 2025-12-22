@@ -1,0 +1,31 @@
+id: 987
+work_id: 938
+source: nrk
+title: Anything goes
+medium: tv
+year: 1962
+description: På en stor passasjerbåt mellom Amerika og England skjer en rekke forviklinger.
+  Persongalleriet omfatter både aristokrater, gangstere og nattklubbsangerinner. Av
+  P.G. Woodehouse.
+series_id: lommeoperetten
+total_duration: 4019
+image_url: https://gfx.nrk.no/ZNfBkryD4Np_OyAtpP8xegzkFFXiIy2ZesQe__F_156Q
+credits:
+- person_id: 3294
+  role: medvirkende
+- person_id: 3297
+  role: programleder
+- person_id: 3288
+  role: skuespiller
+- person_id: 834
+  role: skuespiller
+- person_id: 3304
+  role: skuespiller
+- person_id: 3305
+  role: skuespiller
+- person_id: 3306
+  role: skuespiller
+- person_id: 769
+  role: skuespiller
+- person_id: 789
+  role: skuespiller

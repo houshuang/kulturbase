@@ -328,6 +328,119 @@ npm run build        # Output: build/
 - **Wikidata** - Structured data (birth/death years)
 - **Bokselskap** - Full text links for public domain works
 
+## External APIs
+
+### NRK API (psapi.nrk.no)
+No authentication required. Base URL: `https://psapi.nrk.no`
+
+```python
+import requests
+
+# Search for content
+r = requests.get('https://psapi.nrk.no/search', params={'q': 'opera', 'pageSize': 50})
+
+# Get TV series info
+r = requests.get('https://psapi.nrk.no/tv/catalog/series/opera-og-operetter')
+
+# Get season episodes
+r = requests.get('https://psapi.nrk.no/tv/catalog/series/opera-og-operetter/seasons/1985')
+
+# Get program details (works for both TV and radio)
+r = requests.get('https://psapi.nrk.no/programs/FMUS00000784')
+
+# Radio series
+r = requests.get('https://psapi.nrk.no/radio/catalog/series/radioteatret')
+r = requests.get('https://psapi.nrk.no/radio/catalog/series/radioteatret/seasons/1/episodes')
+```
+
+**Key fields:**
+- `usageRights.to.date` - Expiry date (ISO8601) or `usageRights.availableTo` (Unix ms)
+- `duration` - ISO8601 format ("PT1H30M45S") or `durationInSeconds`
+- `contributors` - Array with `name` and `role`
+- `sourceMedium` - 1=TV, 2=Radio
+
+### Gemini API
+API key in `.env`: `GEMINI_KEY=...`
+
+```python
+import os
+import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+API_KEY = os.getenv('GEMINI_KEY')
+
+# Standard generation
+url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
+payload = {
+    "contents": [{"parts": [{"text": "Your prompt here"}]}],
+    "generationConfig": {"temperature": 0.1}
+}
+r = requests.post(url, json=payload)
+text = r.json()['candidates'][0]['content']['parts'][0]['text']
+
+# With Google Search grounding (for web searches)
+payload = {
+    "contents": [{"parts": [{"text": "Search YouTube for Norwegian opera"}]}],
+    "tools": [{"google_search": {}}],
+    "generationConfig": {"temperature": 0.1}
+}
+r = requests.post(url, json=payload)
+```
+
+**Note:** The Python SDK (`google.generativeai`) doesn't support `google_search` tool. Use REST API directly for web search grounding.
+
+### Archive.org API
+No authentication required.
+
+```python
+import requests
+
+# Search
+r = requests.get('https://archive.org/advancedsearch.php', params={
+    'q': 'norwegian opera',
+    'fl[]': ['identifier', 'title', 'description', 'creator', 'date'],
+    'output': 'json',
+    'rows': 50
+})
+items = r.json()['response']['docs']
+
+# Get item metadata
+r = requests.get('https://archive.org/metadata/ITEM_IDENTIFIER')
+```
+
+## Classical Music Discovery Scripts
+
+Scripts in `scripts/` for discovering classical content:
+
+| Script | Purpose |
+|--------|---------|
+| `discover_classical_series.py` | Find NRK series with classical content |
+| `extract_classical_episodes.py` | Extract episode metadata from series |
+| `classify_with_gemini.py` | Classify episodes as opera/ballet/symphony |
+| `link_multipart.py` | Group multi-part performances |
+| `link_to_plays.py` | Link performances to existing plays |
+| `generate_classical_reports.py` | Generate text reports |
+| `search_external_platforms.py` | Search Archive.org (YouTube/Vimeo failed) |
+| `search_youtube_gemini.py` | Search YouTube via Gemini + Google Search |
+
+Output files go to `output/` (gitignored). See `output/README_external_search.md` for details.
+
+### Running the full pipeline
+```bash
+# NRK classical content discovery
+python3 scripts/discover_classical_series.py
+python3 scripts/extract_classical_episodes.py
+python3 scripts/classify_with_gemini.py
+python3 scripts/link_multipart.py
+python3 scripts/link_to_plays.py
+python3 scripts/generate_classical_reports.py
+
+# External platform search
+python3 scripts/search_external_platforms.py      # Archive.org
+python3 scripts/search_youtube_gemini.py          # YouTube via Gemini
+```
+
 ## Git Conventions
 
 - Branch prefix: `sh/`

@@ -1,0 +1,1142 @@
+[
+  {
+    "title": "Dvořák: Fiolinkonsert",
+    "date": "Opptak fra 18. september 2025",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2025/9/dvorak-fiolinkonsert/"
+  },
+  {
+    "title": "Matre: Freude",
+    "date": "Opptak fra 05. september 2025",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2025/9/matre-freude/"
+  },
+  {
+    "title": "Mozarts Requiem",
+    "date": "Opptak fra 28. mai 2025",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2025/5/mozarts-requiem/"
+  },
+  {
+    "title": "Chin: Subito con forza",
+    "date": "Opptak fra 30. januar 2025",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2025/1/chin-subito-con-forza/"
+  },
+  {
+    "title": "Musikalske eventyr: Beethoven",
+    "date": "Opptak fra 01. oktober 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/10/musikalske-eventyr-beethoven/"
+  },
+  {
+    "title": "Musikalske eventyr Prometeus og Eroica",
+    "date": "Opptak fra 01. oktober 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/10/musikalske-eventyr-prometeus-og-eroica/"
+  },
+  {
+    "title": "Berg: Fagottkonsert",
+    "date": "Opptak fra 26. september 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/9/berg-fagottkonsert/"
+  },
+  {
+    "title": "Orff: Carmina Burana",
+    "date": "Opptak fra 26. september 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/9/orff-carmina-burana/"
+  },
+  {
+    "title": "Mahler 8",
+    "date": "Opptak fra 05. juni 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/6/mahler-8/"
+  },
+  {
+    "title": "Brahms: Ein deutsches Requiem",
+    "date": "Opptak fra 22. mars 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/3/brahms-requiem/"
+  },
+  {
+    "title": "Ravel: Pavane for en død prinsesse",
+    "date": "Opptak fra 08. februar 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/2/ravel-pavane-for-en-dod-prinsesse/"
+  },
+  {
+    "title": "Bacewicz: Ouverture",
+    "date": "Opptak fra 25. januar 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/1/bacewicz-ouverture/"
+  },
+  {
+    "title": "Nielsen: Klarinettkonsert",
+    "date": "Opptak fra 25. januar 2024",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2024/1/nielsen-klarinettkonsert/"
+  },
+  {
+    "title": "Rakhmaninov: Pianokonsert nr. 3",
+    "date": "Opptak fra 23. november 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/11/rakhmaninov-pianokonsert-nr-3/"
+  },
+  {
+    "title": "Rakhmaninov: Klokkene, korsymfoni",
+    "date": "Opptak fra 23. november 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/11/rakhmaninov-klokkene/"
+  },
+  {
+    "title": "Mahler: Das Lied von der Erde",
+    "date": "Opptak fra 28. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/das-lied-von-der-erde/"
+  },
+  {
+    "title": "Beethoven: Romanse nr. 2",
+    "date": "Opptak fra 28. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/beethoven-romanse-nr-2/"
+  },
+  {
+    "title": "Hagen: Kunstnerens fortvilelse foran de antikke fragmenters storhet",
+    "date": "Opptak fra 28. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/hagen-kunstnerens-fortvilelse/"
+  },
+  {
+    "title": "Mahler: Symfoni nr. 1",
+    "date": "Opptak fra 08. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/mahler-1/"
+  },
+  {
+    "title": "Lutoslawski: Cellokonsert",
+    "date": "Opptak fra 08. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/lutoslawski-cellokonsert/"
+  },
+  {
+    "title": "Anderson: Eden",
+    "date": "Opptak fra 08. september 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/9/anderson-eden/"
+  },
+  {
+    "title": "Brahms: Symfoni nr. 3",
+    "date": "Opptak fra 31. mars 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/3/brahms-symfoni-nr-3/"
+  },
+  {
+    "title": "Mozart: Rondo i D-dur",
+    "date": "Opptak fra 26. januar 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/1/mozart-rondo-i-d-dur/"
+  },
+  {
+    "title": "Mozart: Ballettmusikk fra Idomeneo",
+    "date": "Opptak fra 26. januar 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/1/mozart-idomeneo/"
+  },
+  {
+    "title": "Mozart: Pianokonsert nr. 21",
+    "date": "Opptak fra 26. januar 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/1/mozart-pianokonsert-nr-21/"
+  },
+  {
+    "title": "Wagner: Parsifal",
+    "date": "Opptak fra 21. januar 2023",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2023/1/wagner-parsifal/"
+  },
+  {
+    "title": "Mahler: Symfoni nr. 2 \"Oppstandelsen\"",
+    "date": "Opptak fra 02. desember 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/12/mahler-symfoni-nr-2/"
+  },
+  {
+    "title": "Sæverud: Symfoni nr. 7 \"Salme\"",
+    "date": "Opptak fra 06. oktober 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/10/saeverud-symfoni-nr-7/"
+  },
+  {
+    "title": "Sæverud: Symfoni nr. 6 \"Sinfonia Dolorosa\"",
+    "date": "Opptak fra 06. oktober 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/10/saeverud-symfoni-nr-6/"
+  },
+  {
+    "title": "Sæverud: Fanfare og hymne",
+    "date": "Opptak fra 06. oktober 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/10/saeverud-fanfare-og-hymne/"
+  },
+  {
+    "title": "Vaage: Janus",
+    "date": "Opptak fra 06. oktober 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/10/vaage-janus/"
+  },
+  {
+    "title": "Delius: Eine Messe des Lebens",
+    "date": "Opptak fra 23. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/delius-eine-messe-des-lebens/"
+  },
+  {
+    "title": "Tjøgersen: Between Trees",
+    "date": "Opptak fra 15. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/tjogersen-between-trees/"
+  },
+  {
+    "title": "Nielsen: Symfoni nr. 3",
+    "date": "Opptak fra 15. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/nielsen-symfoni-nr-3/"
+  },
+  {
+    "title": "Por una cabeza",
+    "date": "Opptak fra 09. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/gardel-por-una-cabeza/"
+  },
+  {
+    "title": "Thoresen: Emergence – Luohti boaðe!",
+    "date": "Opptak fra 09. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/thoresen-emergence/"
+  },
+  {
+    "title": "Griegs a-moll med Fuko Ishii",
+    "date": "Opptak fra 03. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/griegs-a-moll-med-fuko-ishii/"
+  },
+  {
+    "title": "Chopin pianokonsert nr. 1 med Aleksandra Swigut",
+    "date": "Opptak fra 03. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/chopin-pianokonsert-nr-1-med-aleksandra-swigut/"
+  },
+  {
+    "title": "Griegs a-moll med Zifan Ye",
+    "date": "Opptak fra 03. september 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/9/griegs-a-moll-med-zifan-ye/"
+  },
+  {
+    "title": "The Kitchen Department - English version",
+    "date": "Opptak fra 05. juli 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/7/the-kitchen-department-english-version/"
+  },
+  {
+    "title": "Kjøkkenavdelingen",
+    "date": "Opptak fra 02. juli 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/7/kjokkenavdelingen/"
+  },
+  {
+    "title": "Matre: Konsert for slagverk og orkester",
+    "date": "Opptak fra 13. juni 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/6/matre-konsert-for-slagverk-og-orkester/"
+  },
+  {
+    "title": "Schumann: Konsert for piano og orkester",
+    "date": "Opptak fra 22. april 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/4/schumann-pianokonsert/"
+  },
+  {
+    "title": "Ryan Wigglesworth: Magnificat",
+    "date": "Opptak fra 08. april 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/4/wigglesworth-magnificat/"
+  },
+  {
+    "title": "Alpesymfonien",
+    "date": "Opptak fra 07. april 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/4/alpesymfonien/"
+  },
+  {
+    "title": "Hurra for deg! Fødselsdagshilsen til Kong Harald",
+    "date": "Opptak fra 21. februar 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/2/hurra-for-deg/"
+  },
+  {
+    "title": "Parsifal, forspill til 1. akt",
+    "date": "Opptak fra 28. januar 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/parsifal-forspill-til-1-akt/"
+  },
+  {
+    "title": "Lontano",
+    "date": "Opptak fra 28. januar 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/ligeti-lontano/"
+  },
+  {
+    "title": "Ravel: Le Tombeau de Couperin",
+    "date": "Opptak fra 13. januar 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/ravel-le-tombeau-de-couperin/"
+  },
+  {
+    "title": "Mozart: Symfoni nr. 35 \"Haffner\"",
+    "date": "Opptak fra 04. januar 2022",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/mozart-haffner/"
+  },
+  {
+    "title": "Elgar: Cellokonsert",
+    "date": "Opptak fra 18. november 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/11/elgar-cellokonsert/"
+  },
+  {
+    "title": "Berlioz: Symphonie fantastique",
+    "date": "Opptak fra 18. november 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/11/berlioz-symphonie-fantastique/"
+  },
+  {
+    "title": "Caroline Shaw: Entr'acte",
+    "date": "Opptak fra 18. november 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/11/shaw-entr-acte/"
+  },
+  {
+    "title": "Musikalske eventyr: Snødronningen",
+    "date": "Opptak fra 14. oktober 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/musikalske-eventyr-snodronningen/"
+  },
+  {
+    "title": "Musikalske eventyr: Daphnis & Chloe",
+    "date": "Opptak fra 07. oktober 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/1/musikalske-eventyr-daphnis-et-chloe/"
+  },
+  {
+    "title": "If my complaints could Passions move",
+    "date": "Opptak fra 30. september 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/9/dowland-if-my-complaints-could-passions-move/"
+  },
+  {
+    "title": "Leos Janáček: Capriccio",
+    "date": "Opptak fra 16. september 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/9/janacek-capriccio/"
+  },
+  {
+    "title": "Franck: Le chasseur maudit",
+    "date": "Opptak fra 16. september 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/9/franck-le-chasseur-maudit/"
+  },
+  {
+    "title": "Høydepunkter fra Bergenphilive 2020",
+    "date": "Opptak fra 16. september 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2022/2/hoydepunkter-fra-bergenphilive-2020/"
+  },
+  {
+    "title": "Sibelius: Symfoni nr. 1",
+    "date": "Opptak fra 09. september 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/9/sibelius-symfoni-nr-1/"
+  },
+  {
+    "title": "Marius Neset: Every little Step",
+    "date": "Opptak fra 16. juni 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/6/neset-every-little-step/"
+  },
+  {
+    "title": "Strauss: Obokonsert",
+    "date": "Opptak fra 13. juni 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/6/strauss-obokonsert/"
+  },
+  {
+    "title": "Wagner: Forspill til Mestersangerne fra Nürnberg",
+    "date": "Opptak fra 13. juni 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/6/wagner-forspill-til-mestersangerne/"
+  },
+  {
+    "title": "Sæverud: Symfoni nr. 5 – Quasi una fantasia",
+    "date": "Opptak fra 07. mai 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/5/saeverud-symfoni-nr-5/"
+  },
+  {
+    "title": "Sæveruds Peer Gynt",
+    "date": "Opptak fra 06. mai 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/5/saeverud-peer-gynt/"
+  },
+  {
+    "title": "Knut Vaage: Relieff",
+    "date": "Opptak fra 08. april 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/2/vaage-relieff/"
+  },
+  {
+    "title": "Sibelius: Symfoni nr. 6",
+    "date": "Opptak fra 11. mars 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/3/sibelius-symfoni-nr-6/"
+  },
+  {
+    "title": "Sevåg: European Memories",
+    "date": "Opptak fra 21. januar 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/1/sevag-european-memories/"
+  },
+  {
+    "title": "Schubert/Berio: Rendering",
+    "date": "Opptak fra 21. januar 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/1/schubert-berio-rendering/"
+  },
+  {
+    "title": "Stravinsky: Konsert i D",
+    "date": "Opptak fra 21. januar 2021",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2021/1/stravinsky-konsert-i-d/"
+  },
+  {
+    "title": "Julekonsert",
+    "date": "Opptak fra 18. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/julekonsert/"
+  },
+  {
+    "title": "Rakhmaninov: Symfoniske danser",
+    "date": "Opptak fra 17. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/rakhmaninov-symfoniske-danser/"
+  },
+  {
+    "title": "Tveitt: Tri fjordar",
+    "date": "Opptak fra 10. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/tveitt-tri-fjordar/"
+  },
+  {
+    "title": "Mendelssohn: Symfoni nr. 1",
+    "date": "Opptak fra 10. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/mendelssohn-symfoni-nr-1/"
+  },
+  {
+    "title": "Vaughan Wiliams: Serenade to Music",
+    "date": "Opptak fra 10. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/vaughan-williams-serenade-to-music/"
+  },
+  {
+    "title": "Sibelius: Symfoni nr. 7",
+    "date": "Opptak fra 10. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/sibelius-symfoni-nr-7/"
+  },
+  {
+    "title": "Tsjaikovskij: Variasjoner over et rokokkotema",
+    "date": "Opptak fra 03. desember 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/12/tsjaikovskij-variasjoner-over-et-rokokkotema/"
+  },
+  {
+    "title": "Halvorsen: Mascarade-suite",
+    "date": "Opptak fra 26. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/halvorsen-mascarade-suite/"
+  },
+  {
+    "title": "Ouverture til Skjebnens makt",
+    "date": "Opptak fra 19. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/verdi-skjebnens-makt/"
+  },
+  {
+    "title": "Sibelius: Valse triste",
+    "date": "Opptak fra 19. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/sibelius-valse-triste/"
+  },
+  {
+    "title": "Beethoven: Symfoni nr. 7",
+    "date": "Opptak fra 18. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/beethoven-symfoni-nr-7/"
+  },
+  {
+    "title": "Sibelius: Symfoni nr. 3",
+    "date": "Opptak fra 12. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/sibelius-symfoni-nr-3/"
+  },
+  {
+    "title": "Sibelius: Andante Festivo",
+    "date": "Opptak fra 12. november 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/11/sibelius-andante-festivo/"
+  },
+  {
+    "title": "Vasks: Bratsjkonsert",
+    "date": "Opptak fra 23. oktober 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/10/vasks-bratsjkonsert/"
+  },
+  {
+    "title": "Beethoven: Symfoni nr. 5 \"Skjebnesymfonien\"",
+    "date": "Opptak fra 22. oktober 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/10/beethoven-symfoni-nr-5/"
+  },
+  {
+    "title": "Hummel: Trompetkonsert",
+    "date": "Opptak fra 15. oktober 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/10/hummel-trompetkonsert/"
+  },
+  {
+    "title": "Symfoni nr. 31 \"Paris\"",
+    "date": "Opptak fra 30. september 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/9/symfoni-nr-31-paris/"
+  },
+  {
+    "title": "Lassen: CCL for blåsere og slagverk",
+    "date": "Opptak fra 04. september 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/9/james-lassen-ccl-for-blasere-og-slagverk/"
+  },
+  {
+    "title": "James Gaffigan dirigerer Rameau, Ravel og Mozart",
+    "date": "Opptak fra 25. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/james-gaffigan-dirigerer-rameau-ravel-og-mozart/"
+  },
+  {
+    "title": "Erik Byes vakreste sanger",
+    "date": "Opptak fra 20. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/erik-byes-vakreste-sanger/"
+  },
+  {
+    "title": "Lachrymae",
+    "date": "Opptak fra 18. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/lachrymae/"
+  },
+  {
+    "title": "Henry Purcell: Begravelses-musikk",
+    "date": "Opptak fra 17. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/purcell-begravelsesmusikk/"
+  },
+  {
+    "title": "Fantasia on a Theme by Thomas Tallis",
+    "date": "Opptak fra 17. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/vaughan-williams-fantasia-on-a-theme-by-thomas-tallis/"
+  },
+  {
+    "title": "Nordheim: Clamavi",
+    "date": "Opptak fra 17. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/nordheim-clamavi/"
+  },
+  {
+    "title": "Rameau: Les indes galantes, suite",
+    "date": "Opptak fra 11. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/rameau-les-indes-galantes/"
+  },
+  {
+    "title": "Copland: Klarinettkonsert",
+    "date": "Opptak fra 11. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/copland-klarinettkonsert/"
+  },
+  {
+    "title": "Grieg, Delius, Vaughan Williams og Britten",
+    "date": "Opptak fra 04. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/edward-gardner-dirigerer-grieg-delius-vaughan-williams-og-britten/"
+  },
+  {
+    "title": "Mozart: Symfoni nr. 41 ''Jupiter''",
+    "date": "Opptak fra 04. juni 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/6/mozart-symfoni-nr-41/"
+  },
+  {
+    "title": "Haydn: Cellokonsert i C-dur",
+    "date": "Opptak fra 29. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/haydn-cellokonsert/"
+  },
+  {
+    "title": "Copland: Appalachian Spring",
+    "date": "Opptak fra 28. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/copland-appalachian-spring/"
+  },
+  {
+    "title": "Copland: Quiet City",
+    "date": "Opptak fra 28. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/copland-quiet-city/"
+  },
+  {
+    "title": "Copland: Fanfare for the Common Man",
+    "date": "Opptak fra 28. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/copland-fanfare-for-the-common-man/"
+  },
+  {
+    "title": "Schumann: Symfoni nr. 4",
+    "date": "Opptak fra 27. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/schumann-symfoni-nr-4/"
+  },
+  {
+    "title": "Schönberg: kammersymfoni",
+    "date": "Opptak fra 21. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/schonberg-kammersymfoni/"
+  },
+  {
+    "title": "Gabrieli: Sonata pian' e forte",
+    "date": "Opptak fra 21. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/gabrieli-sonata-pian-e-forte/"
+  },
+  {
+    "title": "Griegsanger med Mari Eriksmoen",
+    "date": "Opptak fra 17. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/griegsanger-med-mari-eriksmoen/"
+  },
+  {
+    "title": "Gabrieli, Britten og Schönberg",
+    "date": "Opptak fra 14. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/edward-gardner-dirigerer-gabrieli-britten-og-schonberg/"
+  },
+  {
+    "title": "Halvorsen: Passacaglia",
+    "date": "Opptak fra 12. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/halvorsen-passacaglia/"
+  },
+  {
+    "title": "Aaron Copland - Et musikalsk portrett",
+    "date": "Opptak fra 07. mai 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/5/aaron-copland/"
+  },
+  {
+    "title": "Craig Farr: Alrekr - The Towering, for five Percussionists and Electronics",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/farr-alrekr/"
+  },
+  {
+    "title": "Farr: Alrekr - The Towering",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/craig-farr-alrekr-the-towering/"
+  },
+  {
+    "title": "Craig Farr: Alrekr – The Towering",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/craig-farr-alrekr-the-towering/"
+  },
+  {
+    "title": "Dvorak: Terzetto",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/dvorak-terzetto/"
+  },
+  {
+    "title": "Tsjaikovskij: Souvenir de Florence",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/tsjaikovskij-souvenir-de-florence/"
+  },
+  {
+    "title": "Delius: On Hearing the First Cuckoo in Spring",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/delius-on-hearing-the-first-cuckoo-in-spring/"
+  },
+  {
+    "title": "Svendsen: Oktett for strykere",
+    "date": "Opptak fra 30. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/svendsen-oktett/"
+  },
+  {
+    "title": "Dvorák, Halvorsen og Tsjaikovskij",
+    "date": "Opptak fra 23. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/kammerkonsert-med-dvorak-halvorsen-og-tsjaikovskij/"
+  },
+  {
+    "title": "Grieg: Pinsesalme",
+    "date": "Opptak fra 13. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/grieg-pinsesalme/"
+  },
+  {
+    "title": "Sæverud: Kjempevise-slåtten",
+    "date": "Opptak fra 09. april 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/4/harald-saeverud-kjempeviseslatten-en-hilsen-til-dagens-store-og-sma-helter/"
+  },
+  {
+    "title": "Neset: MANMADE",
+    "date": "Opptak fra 05. mars 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/3/marius-neset-manmade-konsert-for-saxofon-og-orkester/"
+  },
+  {
+    "title": "Ulvo: Woven Fingerprints",
+    "date": "Opptak fra 05. mars 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/3/ulvo-woven-fingerprints/"
+  },
+  {
+    "title": "Daphnis et Chloé",
+    "date": "Opptak fra 05. mars 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/3/ravel-daphnis-et-chloe/"
+  },
+  {
+    "title": "Mahler: Symfoni nr. 9",
+    "date": "Opptak fra 31. januar 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/1/mahler-symfoni-nr-9/"
+  },
+  {
+    "title": "Oh Giselle, remember me...",
+    "date": "Opptak fra 31. januar 2020",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2020/1/oh-giselle-remember-me/"
+  },
+  {
+    "title": "Lohengrin, forspill til tredje akt",
+    "date": "Opptak fra 13. desember 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/12/richard-wagner-lohengrin-forspill-til-tredje-akt/"
+  },
+  {
+    "title": "Luther Adams: Become Ocean",
+    "date": "Opptak fra 13. desember 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/12/john-luther-adams-become-ocean/"
+  },
+  {
+    "title": "Tsjaikovskij Symfoni nr.  5",
+    "date": "Opptak fra 14. november 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/11/tsjaikovskij-symfoni-nr-5/"
+  },
+  {
+    "title": "Matre Lyric Pieces",
+    "date": "Opptak fra 14. november 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/11/matre-lyric-pieces/"
+  },
+  {
+    "title": "Bruch Fiolinkonsert",
+    "date": "Opptak fra 14. november 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/11/bruch-fiolinkonsert/"
+  },
+  {
+    "title": "Brahms: Symfoni nr. 4",
+    "date": "Opptak fra 18. oktober 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/10/johannes-brahms-symfoni-nr-4/"
+  },
+  {
+    "title": "Whitacre: Deep Field",
+    "date": "Opptak fra 13. september 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/9/whitacre-deep-field/"
+  },
+  {
+    "title": "Mahler: Symfoni nr.  4",
+    "date": "Opptak fra 13. september 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/9/gustav-mahler-symfoni-nr-4/"
+  },
+  {
+    "title": "Grob tvoi, Spase",
+    "date": "Opptak fra 12. april 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/4/russisk-ortodoks-paskehymne/"
+  },
+  {
+    "title": "Stravinsky: Salmesymfonien",
+    "date": "Opptak fra 12. april 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/4/stravinsky-salmesymfonien/"
+  },
+  {
+    "title": "Beethoven: Symfoni nr. 3 \"Eroica\"",
+    "date": "Opptak fra 21. februar 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/2/beethoven-symfoni-nr-3/"
+  },
+  {
+    "title": "Strauss: Don Juan",
+    "date": "Opptak fra 15. februar 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/2/strauss-don-juan/"
+  },
+  {
+    "title": "Schönberg: Pelleas und Melisande",
+    "date": "Opptak fra 15. februar 2019",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2019/2/schonberg-pelleas-und-melisande/"
+  },
+  {
+    "title": "Bach: Juleoratoriet",
+    "date": "Opptak fra 19. desember 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/12/bach-juleoratoriet/"
+  },
+  {
+    "title": "Bartók: Ridder Blåskjeggs borg",
+    "date": "Opptak fra 15. november 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/11/bartok-ridder-blaskjeggs-borg/"
+  },
+  {
+    "title": "Brahms: Ungarske danser",
+    "date": "Opptak fra 27. september 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/9/brahms-ungarske-danser/"
+  },
+  {
+    "title": "Brahms: Symfoni nr. 1",
+    "date": "Opptak fra 27. september 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/9/brahms-symfoni-nr-1/"
+  },
+  {
+    "title": "Rakhmaninov: Pianokonsert nr. 2",
+    "date": "Opptak fra 09. september 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/9/rakhmaninov-pianokonsert-nr-2/"
+  },
+  {
+    "title": "Matre: Different Stories",
+    "date": "Opptak fra 06. september 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/9/matre-different-stories/"
+  },
+  {
+    "title": "Stravinsky: Vårofferet",
+    "date": "Opptak fra 06. september 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/9/stravinsky-varofferet/"
+  },
+  {
+    "title": "Landkjenning",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-landkjenning/"
+  },
+  {
+    "title": "Grieg: To elegiske melodier",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-to-elegiske-melodier/"
+  },
+  {
+    "title": "Grieg: Sigurd Jorsalfar",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-sigurd-jorsalfar/"
+  },
+  {
+    "title": "Den Bergtekne",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-den-bergtekne/"
+  },
+  {
+    "title": "Grieg: Norsk dans nr. 2",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-norsk-dans-nr-2/"
+  },
+  {
+    "title": "Scener fra Olav Trygvason",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-scener-fra-olav-trygvason/"
+  },
+  {
+    "title": "To nordiske melodier for strykeorkester",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-to-nordiske-melodier/"
+  },
+  {
+    "title": "Symfoniske danser",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-symfoniske-danser/"
+  },
+  {
+    "title": "Grieg: Peer Gynt",
+    "date": "Opptak fra 16. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-peer-gynt/"
+  },
+  {
+    "title": "Grieg: Foran Sydens Kloster",
+    "date": "Opptak fra 15. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-foran-sydens-kloster/"
+  },
+  {
+    "title": "Grieg: A-mollkonserten",
+    "date": "Opptak fra 15. juni 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/6/grieg-pianokonsert-i-a-moll/"
+  },
+  {
+    "title": "Grieg: Pianokonsert i a-moll",
+    "date": "Opptak fra 27. mai 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/5/grieg-pianokonsert-i-a-moll/"
+  },
+  {
+    "title": "Berlioz: Grande messe des morts",
+    "date": "Opptak fra 24. mai 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/5/berlioz-grande-messe-des-morts/"
+  },
+  {
+    "title": "Verdi: Messa da Requiem",
+    "date": "Opptak fra 23. mars 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/3/verdi-messa-da-requiem/"
+  },
+  {
+    "title": "Highlights from BergenPhiLive",
+    "date": "Opptak fra 21. februar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/2/highlights-from-bergenphilive/"
+  },
+  {
+    "title": "Haydn: Symfoni nr. 83 ''Hønen''",
+    "date": "Opptak fra 16. februar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/2/haydn-symfoni-nr-83/"
+  },
+  {
+    "title": "Poulenc: Sinfonietta",
+    "date": "Opptak fra 16. februar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/2/poulenc-sinfonietta/"
+  },
+  {
+    "title": "Sibelius: Luonnotar",
+    "date": "Opptak fra 25. januar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/1/jean-sibelius-luonnotar-tonedikt-for-sopran-og-orkester-op-70/"
+  },
+  {
+    "title": "Wigglesworth: Clocks from A Winter’s Tale",
+    "date": "Opptak fra 25. januar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/1/wigglesworth-clocks-from-a-winter-s-tale/"
+  },
+  {
+    "title": "Wagner: Wesendonck-lieder",
+    "date": "Opptak fra 25. januar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/1/wagner-wesendonck-lieder/"
+  },
+  {
+    "title": "Mozart: Fiolinkonsert nr. 5",
+    "date": "Opptak fra 18. januar 2018",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2018/1/mozart-fiolinkonsert-nr-5/"
+  },
+  {
+    "title": "Barber: Fiolinkonsert",
+    "date": "Opptak fra 24. november 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/11/barber-fiolinkonsert/"
+  },
+  {
+    "title": "Adams: A Short Ride in a Fast Machine",
+    "date": "Opptak fra 24. november 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/11/adams-a-short-ride-in-a-fast-machine/"
+  },
+  {
+    "title": "Dvorak: Symfoni nr. 9 \"Fra den nye verden\"",
+    "date": "Opptak fra 24. november 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/11/dvorak-symfoni-nr-9/"
+  },
+  {
+    "title": "Hellstenius: As if the law is everything",
+    "date": "Opptak fra 23. november 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/11/hellstenius-as-if-the-law-is-everything/"
+  },
+  {
+    "title": "Wagner: Faust-ouverture",
+    "date": "Opptak fra 23. november 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/11/wagner-faust-ouverture/"
+  },
+  {
+    "title": "Honegger: Symfoni nr. 3 ''liturgiske''",
+    "date": "Opptak fra 06. oktober 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/10/arthur-honegger-symfoni-nr-3/"
+  },
+  {
+    "title": "Mozart: Requiem",
+    "date": "Opptak fra 06. oktober 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/10/wolfgang-amadeus-mozart-requiem/"
+  },
+  {
+    "title": "Tsjaikovskij: Symfoni nr. 4",
+    "date": "Opptak fra 08. september 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/9/tsjaikovskij-symfoni-nr-4/"
+  },
+  {
+    "title": "Lyrisk suite",
+    "date": "Opptak fra 02. juni 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/6/lyrisk-suite/"
+  },
+  {
+    "title": "Brahms: Ein deutsches Requiem",
+    "date": "Opptak fra 07. april 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/4/brahms-requiem/"
+  },
+  {
+    "title": "Walton: Symfoni nr. 1",
+    "date": "Opptak fra 23. mars 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/3/walton-symfoni-nr-1/"
+  },
+  {
+    "title": "Halvorsen: Fiolinkonsert",
+    "date": "Opptak fra 10. mars 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/3/halvorsen-fiolinkonsert/"
+  },
+  {
+    "title": "Strauss: Don Juan",
+    "date": "Opptak fra 10. mars 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/3/strauss-don-juan/"
+  },
+  {
+    "title": "Prokofiev: Pianokonsert nr. 5",
+    "date": "Opptak fra 17. februar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/2/prokofiev-pianokonsert-nr-5/"
+  },
+  {
+    "title": "Holst: Planetene",
+    "date": "Opptak fra 17. februar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/2/holst-planetene/"
+  },
+  {
+    "title": "Elgar: Cellokonsert",
+    "date": "Opptak fra 22. januar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/1/elgar-cellokonsert/"
+  },
+  {
+    "title": "Grieg: Fra Peer Gynt",
+    "date": "Opptak fra 22. januar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/1/grieg-fra-peer-gynt/"
+  },
+  {
+    "title": "Prokofiev: Symfoni nr. 3",
+    "date": "Opptak fra 18. januar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/1/prokofiev-symfoni-nr-3/"
+  },
+  {
+    "title": "Sibelius: Folinkonsert",
+    "date": "Opptak fra 12. januar 2017",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2017/1/sibelius-fiolinkonsert/"
+  },
+  {
+    "title": "Ravel: Daphnis et Chloë",
+    "date": "Opptak fra 09. desember 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/12/maurice-ravel-daphnis-et-chloe-suite-nr-2/"
+  },
+  {
+    "title": "Tsjaikovskij: 1812-ouverture",
+    "date": "Opptak fra 24. november 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/11/peter-tsjaikovskij-ouverture-solennelle-1812-op-49/"
+  },
+  {
+    "title": "Berlioz: Symphonie fantastique",
+    "date": "Opptak fra 12. oktober 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/10/hector-berlioz-symphonie-fantastique/"
+  },
+  {
+    "title": "Bruckner: Symfoni nr. 6",
+    "date": "Opptak fra 29. september 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/9/anton-bruckner-symfoni-nr-6-i-a-moll-wab-106/"
+  },
+  {
+    "title": "Brahms: Symfoni nr. 3",
+    "date": "Opptak fra 28. september 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/9/johannes-brahms-symfoni-nr-3/"
+  },
+  {
+    "title": "Vaage: Tjat",
+    "date": "Opptak fra 23. september 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/9/knut-vaage-tjat/"
+  },
+  {
+    "title": "Elgar: Cellokonsert",
+    "date": "Opptak fra 15. september 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/9/elgar-cellokonsert/"
+  },
+  {
+    "title": "FiB2016: Franz Liszt: Les préludes",
+    "date": "Opptak fra 08. juni 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/6/fib2016-franz-liszt-les-preludes/"
+  },
+  {
+    "title": "Hvoslef: Jubeljahr (1765)",
+    "date": "Opptak fra 11. mai 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/5/hvoslef-jubeljahr/"
+  },
+  {
+    "title": "Hellstenius: Still Panic",
+    "date": "Opptak fra 14. april 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/9/henrik-hellstenius-still-panic-for-bassklarinett-og-orkester-urframforing/"
+  },
+  {
+    "title": "Paus: Paukekonsert",
+    "date": "Opptak fra 06. april 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/4/paus-paukekonsert/"
+  },
+  {
+    "title": "Mozart: Store messe",
+    "date": "Opptak fra 18. mars 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/3/mozart-store-messe/"
+  },
+  {
+    "title": "Mendelssohn: Hebridene",
+    "date": "Opptak fra 25. februar 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/2/mendelssohn-hebridene/"
+  },
+  {
+    "title": "Dvorak: Symfoni nr. 7",
+    "date": "Opptak fra 11. februar 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/3/dvorak-symfoni-nr-7/"
+  },
+  {
+    "title": "Schönberg: GurreLieder",
+    "date": "Opptak fra 24. januar 2016",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/1/schonberg-gurrelieder/"
+  },
+  {
+    "title": "Matre: ''...yet from those flames no light''",
+    "date": "Opptak fra 03. desember 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/12/matre-yet-from-those-flames-no-light/"
+  },
+  {
+    "title": "Vaage: Futuration",
+    "date": "Opptak fra 03. desember 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2016/5/knut-vaage-futuration-for-orkester-og-elektronikk/"
+  },
+  {
+    "title": "Knussen: Flourish with Fireworks",
+    "date": "Opptak fra 02. desember 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/12/oliver-knussen-flourish-with-fireworks/"
+  },
+  {
+    "title": "Tsjaikovskij: Symfoni nr. 6 «Pathetique»",
+    "date": "Opptak fra 21. november 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/11/peter-tsjaikovskij-symfoni-nr-6-pathetique/"
+  },
+  {
+    "title": "Schubert: Symfoni nr. 8  «ufullendte»",
+    "date": "Opptak fra 21. november 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/11/franz-schubert-symfoni-nr-8-ufullendte/"
+  },
+  {
+    "title": "Stravinsky: Fyrverkeri",
+    "date": "Opptak fra 22. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/12/igor-stravinsky-feu-d-artifice/"
+  },
+  {
+    "title": "Mahler: Symfoni nr. 1",
+    "date": "Opptak fra 22. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/gustav-mahler-symfoni-nr-1/"
+  },
+  {
+    "title": "Bartók: Den mirakuløse mandarin",
+    "date": "Opptak fra 08. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/bela-bartok-den-mirakulose-mandarin/"
+  },
+  {
+    "title": "Hvoslef: Il Compleanno",
+    "date": "Opptak fra 08. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/ketil-hvoslef-il-compleanno-fodselsdagen/"
+  },
+  {
+    "title": "Bergenssangen",
+    "date": "Opptak fra 08. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/johan-halvorsen-fra-bergensiana/"
+  },
+  {
+    "title": "Grieg: Olav Tryggvason",
+    "date": "Opptak fra 08. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/edvard-grieg-fra-olav-tryggvason/"
+  },
+  {
+    "title": "Haydn: Cellokonsert i C-dur",
+    "date": "Opptak fra 08. oktober 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/10/haydn-cellokonsert/"
+  },
+  {
+    "title": "Rakhmaninov: Pianokonsert nr. 3",
+    "date": "Opptak fra 04. september 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/9/rakhmaninov-pianokonsert-nr-3/"
+  },
+  {
+    "title": "Strauss: Don Quixote",
+    "date": "Opptak fra 04. september 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/9/richard-strauss-don-quixote/"
+  },
+  {
+    "title": "Mahler: Symfoni nr.  4",
+    "date": "Opptak fra 16. april 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/4/mahler-symfoni-nr-4/"
+  },
+  {
+    "title": "Glagolitisk messe",
+    "date": "Opptak fra 26. mars 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/3/janacek-glagolitisk-messe/"
+  },
+  {
+    "title": "Mahler: Lieder eines fahrenden Gesellen",
+    "date": "Opptak fra 26. mars 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/3/mahler-lieder-eines-fahrenden-gesellen/"
+  },
+  {
+    "title": "Svendsen: Romanse",
+    "date": "Opptak fra 12. februar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/2/johan-svendsen-romanse-for-fiolin-og-orkester/"
+  },
+  {
+    "title": "Bull: Sæterjentens søndag",
+    "date": "Opptak fra 12. februar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/2/ole-bull-saeterjentens-sondag/"
+  },
+  {
+    "title": "Chabrier: Ouverture til Gwendoline",
+    "date": "Opptak fra 12. februar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/2/emmanuel-chabrier-ouverture-til-operaen-gwendoline/"
+  },
+  {
+    "title": "Griegs symfoni",
+    "date": "Opptak fra 12. februar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/2/edvard-grieg-symfoni-i-c-moll/"
+  },
+  {
+    "title": "Ole Bull: Polacca Guerriera",
+    "date": "Opptak fra 29. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/bull-polacca-guerriera/"
+  },
+  {
+    "title": "Bach: Koralpreludium",
+    "date": "Opptak fra 29. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/bach-koralpreludium/"
+  },
+  {
+    "title": "Bernstein: Ouverture til Candide",
+    "date": "Opptak fra 29. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/bernstein-candide-ouverture/"
+  },
+  {
+    "title": "Tsjaikovskij: Symfoni nr. 5",
+    "date": "Opptak fra 15. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/tsjaikovskij-symfoni-nr-5/"
+  },
+  {
+    "title": "Olav Berg: Bratsjkonsert",
+    "date": "Opptak fra 15. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/berg-bratsjkonsert/"
+  },
+  {
+    "title": "Prokofiev: Symfoni nr. 1 ''Den klassiske''",
+    "date": "Opptak fra 15. januar 2015",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2015/1/prokofiev-symfoni-nr-1/"
+  },
+  {
+    "title": "Flashmob på Flesland",
+    "date": "Opptak fra 07. november 2012",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2012/11/flashmob-pa-flesland/"
+  },
+  {
+    "title": "Grubinger, Litton, Kates og Hofstätter",
+    "date": "Opptak fra 30. september 2011",
+    "url": "https://bergenphilive.no/alle-konsertopptak/2011/9/grubinger-litton-kates-og-hofstatter/"
+  }
+]

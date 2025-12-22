@@ -1,5 +1,5 @@
 import type { Database, SqlJsStatic } from 'sql.js';
-import type { Episode, Person, Work, Tag, EpisodeWithDetails, SearchFilters, EpisodePerson, WorkExternalLink, Performance, PerformanceWithDetails, PerformancePerson, NrkAboutProgram, WorkCategory, WorkType, Institution } from './types';
+import type { Episode, Person, Work, Tag, EpisodeWithDetails, SearchFilters, EpisodePerson, WorkExternalLink, Performance, PerformanceWithDetails, PerformancePerson, NrkAboutProgram, WorkCategory, WorkType, Institution, ExternalResource, ExternalResourceFilters } from './types';
 
 // Alias for backwards compatibility
 type Play = Work;
@@ -992,4 +992,305 @@ export function getAuthorCount(): number {
 	const result = stmt.getAsObject() as { count: number };
 	stmt.free();
 	return result.count;
+}
+
+// ===== External Resources (Concerts, etc.) =====
+
+export function searchExternalResources(
+	filters: ExternalResourceFilters,
+	limit = 50,
+	offset = 0
+): ExternalResource[] {
+	const db = getDatabase();
+
+	let sql = `SELECT * FROM external_resources WHERE is_working = 1`;
+	const params: (string | number)[] = [];
+
+	if (filters.type) {
+		sql += ` AND type = ?`;
+		params.push(filters.type);
+	}
+
+	if (filters.query) {
+		sql += ` AND (title LIKE ? OR description LIKE ?)`;
+		const term = `%${filters.query}%`;
+		params.push(term, term);
+	}
+
+	if (filters.composer) {
+		sql += ` AND (title LIKE ? OR description LIKE ?)`;
+		const term = `%${filters.composer}%`;
+		params.push(term, term);
+	}
+
+	sql += ` ORDER BY title ASC LIMIT ? OFFSET ?`;
+	params.push(limit, offset);
+
+	const stmt = db.prepare(sql);
+	stmt.bind(params);
+
+	const results: ExternalResource[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as ExternalResource);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getExternalResourceCount(filters?: ExternalResourceFilters): number {
+	const db = getDatabase();
+
+	let sql = `SELECT COUNT(*) as count FROM external_resources WHERE is_working = 1`;
+	const params: (string | number)[] = [];
+
+	if (filters?.type) {
+		sql += ` AND type = ?`;
+		params.push(filters.type);
+	}
+
+	if (filters?.query) {
+		sql += ` AND (title LIKE ? OR description LIKE ?)`;
+		const term = `%${filters.query}%`;
+		params.push(term, term);
+	}
+
+	if (filters?.composer) {
+		sql += ` AND (title LIKE ? OR description LIKE ?)`;
+		const term = `%${filters.composer}%`;
+		params.push(term, term);
+	}
+
+	const stmt = db.prepare(sql);
+	stmt.bind(params);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+
+	return result.count;
+}
+
+export function getExternalResourceTypes(): { type: string; count: number }[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT type, COUNT(*) as count
+		FROM external_resources
+		WHERE is_working = 1
+		GROUP BY type
+		ORDER BY count DESC
+	`);
+
+	const results: { type: string; count: number }[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as { type: string; count: number });
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getBergenPhilConcertCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(*) as count FROM external_resources
+		WHERE type = 'bergenphilive' AND is_working = 1
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+// ===== Landing Page Discovery =====
+
+export interface RandomPerformance extends PerformanceWithDetails {
+	work_synopsis?: string | null;
+}
+
+export function getRandomClassicalPlays(limit = 6): RandomPerformance[] {
+	const db = getDatabase();
+
+	// Get random performances of classical plays (teaterstykke only, not nrk_teaterstykke)
+	const stmt = db.prepare(`
+		SELECT
+			perf.*,
+			w.title as work_title,
+			w.playwright_id,
+			w.work_type,
+			w.category,
+			w.synopsis as work_synopsis,
+			playwright.name as playwright_name,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
+			)) as director_name,
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		WHERE w.work_type = 'teaterstykke'
+		ORDER BY RANDOM()
+		LIMIT ?
+	`);
+	stmt.bind([limit]);
+
+	const results: RandomPerformance[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as RandomPerformance);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getPlaysByPlaywright(playwrightId: number, limit = 10): PerformanceWithDetails[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			perf.*,
+			w.title as work_title,
+			w.playwright_id,
+			w.work_type,
+			w.category,
+			playwright.name as playwright_name,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
+			)) as director_name,
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		WHERE w.playwright_id = ?
+		ORDER BY perf.year DESC
+		LIMIT ?
+	`);
+	stmt.bind([playwrightId, limit]);
+
+	const results: PerformanceWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as PerformanceWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getPerformancesByDecade(startYear: number, endYear: number, limit = 10): PerformanceWithDetails[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			perf.*,
+			w.title as work_title,
+			w.playwright_id,
+			w.work_type,
+			w.category,
+			playwright.name as playwright_name,
+			(SELECT name FROM persons WHERE id = (
+				SELECT person_id FROM performance_persons pp
+				WHERE pp.performance_id = perf.id AND pp.role = 'director' LIMIT 1
+			)) as director_name,
+			(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = perf.id) as media_count,
+			(SELECT e.image_url FROM episodes e WHERE e.performance_id = perf.id LIMIT 1) as image_url
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		WHERE perf.year >= ? AND perf.year <= ?
+		ORDER BY RANDOM()
+		LIMIT ?
+	`);
+	stmt.bind([startYear, endYear, limit]);
+
+	const results: PerformanceWithDetails[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as PerformanceWithDetails);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getRecentConcerts(limit = 10): ExternalResource[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT * FROM external_resources
+		WHERE type = 'bergenphilive' AND is_working = 1
+		ORDER BY RANDOM()
+		LIMIT ?
+	`);
+	stmt.bind([limit]);
+
+	const results: ExternalResource[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as ExternalResource);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getClassicalPlayCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(DISTINCT w.id) as count
+		FROM works w
+		JOIN performances perf ON perf.work_id = w.id
+		WHERE w.work_type = 'teaterstykke'
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getClassicalPerformanceCount(): number {
+	const db = getDatabase();
+	const stmt = db.prepare(`
+		SELECT COUNT(*) as count
+		FROM performances perf
+		JOIN works w ON perf.work_id = w.id
+		WHERE w.work_type = 'teaterstykke'
+	`);
+	stmt.step();
+	const result = stmt.getAsObject() as { count: number };
+	stmt.free();
+	return result.count;
+}
+
+export function getDb(): Database | null {
+	return db;
+}
+
+export function getExternalResourceComposers(): string[] {
+	const db = getDatabase();
+
+	// Extract composer from titles like "Grieg: Pianokonsert"
+	const stmt = db.prepare(`
+		SELECT DISTINCT
+			CASE
+				WHEN title LIKE '%:%' THEN TRIM(SUBSTR(title, 1, INSTR(title, ':') - 1))
+				ELSE NULL
+			END as composer
+		FROM external_resources
+		WHERE type = 'bergenphilive' AND is_working = 1
+		AND composer IS NOT NULL
+		ORDER BY composer
+	`);
+
+	const results: string[] = [];
+	while (stmt.step()) {
+		const row = stmt.getAsObject() as { composer: string | null };
+		if (row.composer) {
+			results.push(row.composer);
+		}
+	}
+	stmt.free();
+
+	return results;
 }

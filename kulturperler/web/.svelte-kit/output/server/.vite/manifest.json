@@ -122,10 +122,12 @@
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index2.js"
+      "_index2.js",
+      "_stores.js",
+      "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.1TXtlfRa.css"
+      "_app/immutable/assets/_layout.Bttv2pkf.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -134,14 +136,22 @@
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index2.js",
-      "_exports.js",
-      "_utils.js",
-      "_state.svelte.js",
-      "_context.js"
+      "_index2.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.C3XVsONO.css"
+      "_app/immutable/assets/_page.Bn8QL_fq.css"
+    ]
+  },
+  "src/routes/dramaserier/+page.svelte": {
+    "file": "entries/pages/dramaserier/_page.svelte.js",
+    "name": "entries/pages/dramaserier/_page.svelte",
+    "src": "src/routes/dramaserier/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.C8T1Jx8r.css"
     ]
   },
   "src/routes/episode/[id]/+page.svelte": {
@@ -155,6 +165,30 @@
     ],
     "css": [
       "_app/immutable/assets/_page.H_cBDbPQ.css"
+    ]
+  },
+  "src/routes/konserter/+page.svelte": {
+    "file": "entries/pages/konserter/_page.svelte.js",
+    "name": "entries/pages/konserter/_page.svelte",
+    "src": "src/routes/konserter/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CIJ1a9li.css"
+    ]
+  },
+  "src/routes/opera/+page.svelte": {
+    "file": "entries/pages/opera/_page.svelte.js",
+    "name": "entries/pages/opera/_page.svelte",
+    "src": "src/routes/opera/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.ChoOQKCo.css"
     ]
   },
   "src/routes/performance/[id]/+page.svelte": {
@@ -181,7 +215,7 @@
       "_stores.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.2drKM2Gq.css"
+      "_app/immutable/assets/_page.QDkNCpv0.css"
     ]
   },
   "src/routes/persons/+page.svelte": {
@@ -208,6 +242,43 @@
     ],
     "css": [
       "_app/immutable/assets/_page.1AKjGMNV.css"
+    ]
+  },
+  "src/routes/skapere/+page.svelte": {
+    "file": "entries/pages/skapere/_page.svelte.js",
+    "name": "entries/pages/skapere/_page.svelte",
+    "src": "src/routes/skapere/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DD663t7_.css"
+    ]
+  },
+  "src/routes/teater/+page.svelte": {
+    "file": "entries/pages/teater/_page.svelte.js",
+    "name": "entries/pages/teater/_page.svelte",
+    "src": "src/routes/teater/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.HNivo25r.css"
+    ]
+  },
+  "src/routes/work/[id]/+page.svelte": {
+    "file": "entries/pages/work/_id_/_page.svelte.js",
+    "name": "entries/pages/work/_id_/_page.svelte",
+    "src": "src/routes/work/[id]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js",
+      "_stores.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CtQ7ck0i.css"
     ]
   }
 }

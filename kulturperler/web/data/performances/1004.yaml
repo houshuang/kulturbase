@@ -1,0 +1,24 @@
+id: 1004
+work_id: 955
+source: nrk
+title: Kork møter Sporten
+medium: tv
+year: 2024
+description: Raskere, høyere, sterkere! Kork og Sportens Ole Rolfsrud utforsker komponistenes
+  hemmelige sportslidenskap i en energisk konsert fra Store studio.
+series_id: kork-hele-landets-orkester
+total_duration: 3575
+image_url: https://gfx.nrk.no/UQC63jxERRHl30fLKKpwVw8dZZqef8j1MmQyXJY4kvSg
+credits:
+- person_id: 3326
+  role: artist/utøver
+- person_id: 3327
+  role: artist/utøver
+- person_id: 3328
+  role: artist/utøver
+- person_id: 3329
+  role: medvirkende
+- person_id: 3330
+  role: medvirkende
+- person_id: 3331
+  role: programleder

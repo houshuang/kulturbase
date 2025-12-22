@@ -1,9 +1,27 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { page } from '$app/stores';
 	import { initDatabase } from '$lib/db';
 
 	let loading = true;
 	let error: string | null = null;
+
+	$: currentPath = $page.url.pathname;
+
+	// Navigation items with content-type organization
+	const navItems = [
+		{ href: '/', label: 'Hjem', exact: true },
+		{ href: '/teater', label: 'Teater' },
+		{ href: '/opera', label: 'Opera' },
+		{ href: '/dramaserier', label: 'Dramaserier' },
+		{ href: '/konserter', label: 'Konserter' },
+		{ href: '/skapere', label: 'Skapere' }
+	];
+
+	function isActive(href: string, exact = false): boolean {
+		if (exact) return currentPath === href;
+		return currentPath === href || currentPath.startsWith(href + '/');
+	}
 
 	onMount(async () => {
 		try {
@@ -22,9 +40,20 @@
 
 <div class="app">
 	<header>
-		<nav>
+		<div class="header-content">
 			<a href="/" class="logo">Kulturbase.no</a>
-		</nav>
+			<nav class="main-nav">
+				{#each navItems as item}
+					<a
+						href={item.href}
+						class="nav-link"
+						class:active={isActive(item.href, item.exact)}
+					>
+						{item.label}
+					</a>
+				{/each}
+			</nav>
+		</div>
 	</header>
 
 	<main>
@@ -73,29 +102,58 @@
 	header {
 		background: #1a1a2e;
 		color: white;
-		padding: 1rem 2rem;
+		padding: 0.75rem 2rem;
 		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		position: sticky;
+		top: 0;
+		z-index: 100;
 	}
 
-	nav {
+	.header-content {
 		max-width: 1400px;
 		margin: 0 auto;
 		display: flex;
-		align-items: baseline;
-		gap: 1rem;
+		align-items: center;
+		gap: 2rem;
 	}
 
 	.logo {
-		font-size: 1.5rem;
+		font-size: 1.25rem;
 		font-weight: bold;
 		color: white;
 		text-decoration: none;
+		white-space: nowrap;
 	}
 
 	.logo:hover {
 		color: #e94560;
 	}
 
+	.main-nav {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+	}
+
+	.nav-link {
+		color: rgba(255, 255, 255, 0.8);
+		text-decoration: none;
+		padding: 0.5rem 1rem;
+		border-radius: 6px;
+		font-size: 0.95rem;
+		font-weight: 500;
+		transition: all 0.15s;
+	}
+
+	.nav-link:hover {
+		color: white;
+		background: rgba(255, 255, 255, 0.1);
+	}
+
+	.nav-link.active {
+		color: white;
+		background: #e94560;
+	}
 
 	main {
 		flex: 1;
@@ -126,10 +184,25 @@
 		color: #e94560;
 	}
 
-	@media (max-width: 768px) {
-		nav {
+	@media (max-width: 900px) {
+		header {
+			padding: 0.5rem 1rem;
+		}
+
+		.header-content {
 			flex-direction: column;
+			gap: 0.5rem;
+			align-items: flex-start;
+		}
+
+		.main-nav {
+			flex-wrap: wrap;
 			gap: 0.25rem;
+		}
+
+		.nav-link {
+			padding: 0.4rem 0.75rem;
+			font-size: 0.85rem;
 		}
 
 		main {

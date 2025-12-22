@@ -2,12 +2,25 @@ id: 127
 work_id: 122
 source: nrk
 title: God aften, mitt navn er Cox
-description: |-
-  Atter en gang befinner den sjarmerende eventyreren Paul Cox seg i et badeværelse – denne gang i sitt eget badekar – når historien starter. Noen kommer på uønsket besøk, midt på natten. En vakker ung dame - Anette Dumont - som krever 3300 pund av ham.  Uten noen rimelig grunn. Levert til Kraczyk om seks timer, i Alora Crawfields villa. Urimelig, ja, men Mr. Cox er nysgjerrig og damen aldeles nydelig …
+description: 'Atter en gang befinner den sjarmerende eventyreren Paul Cox seg i et
+  badeværelse – denne gang i sitt eget badekar – når historien starter. Noen kommer
+  på uønsket besøk, midt på natten. En vakker ung dame - Anette Dumont - som krever
+  3300 pund av ham.  Uten noen rimelig grunn. Levert til Kraczyk om seks timer, i
+  Alora Crawfields villa. Urimelig, ja, men Mr. Cox er nysgjerrig og damen aldeles
+  nydelig …
 
-  Serien som er en frittstående fortsettelse av den første, ble slettet fra NRKs arkiver og ikke spilt inn på nytt. Denne versjonen er lydteknisk restaurert av Sture Bakke etter gamle private opptak (og sendt i reprise 2001). Oversatt av Hans Heiberg. Teknisk regi: Paul Skoe. Instruktør: Otto Nes. Musikk: H.M. Majewski. Serie 2 (1:7)
 
-  De som er med: Arne Lie (Paul Cox), Marit Halset (Anette Dumont), Leif Enger (Alfons Kraczyk), Bjarne Andersen (Richardson), Helge Essmar (Overbetjenten), Svend Svendsen (Betjent French), Ole Grepp (Alistair Campbell), Erling Lindahl (Inspektør Carter), Arne Bang-Hansen (Assistent Collins), Grete Nordrå (Høyttalerdamen), Alf Malland (Betjent Potter).
+  Serien som er en frittstående fortsettelse av den første, ble slettet fra NRKs arkiver
+  og ikke spilt inn på nytt. Denne versjonen er lydteknisk restaurert av Sture Bakke
+  etter gamle private opptak (og sendt i reprise 2001). Oversatt av Hans Heiberg.
+  Teknisk regi: Paul Skoe. Instruktør: Otto Nes. Musikk: H.M. Majewski. Serie 2 (1:7)
+
+
+  De som er med: Arne Lie (Paul Cox), Marit Halset (Anette Dumont), Leif Enger (Alfons
+  Kraczyk), Bjarne Andersen (Richardson), Helge Essmar (Overbetjenten), Svend Svendsen
+  (Betjent French), Ole Grepp (Alistair Campbell), Erling Lindahl (Inspektør Carter),
+  Arne Bang-Hansen (Assistent Collins), Grete Nordrå (Høyttalerdamen), Alf Malland
+  (Betjent Potter).'
 total_duration: 74029
 image_url: https://gfx.nrk.no/WXbNrfG1ZRWkaxHTjj-gRQDqgHlf7VeucGXf7saaEGvA
 medium: radio
@@ -117,7 +130,7 @@ credits:
   role: other
 - person_id: 1046
   role: other
-- person_id: 2736
+- person_id: 1537
   role: playwright
 - person_id: 17
   role: actor
@@ -185,7 +198,7 @@ credits:
   role: other
 - person_id: 168
   role: actor
-- person_id: 2742
+- person_id: 2929
   role: other
 - person_id: 762
   role: actor
@@ -225,7 +238,7 @@ credits:
   role: director
 - person_id: 887
   role: actor
-- person_id: 587
+- person_id: 1286
   role: actor
 - person_id: 711
   role: actor

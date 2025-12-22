@@ -13,5 +13,13 @@ external_links:
 - url: https://www.bokselskap.no/boker/gengangere
   title: Bokselskap.no
   type: bokselskap
+- url: https://archive.org/details/ghosts-norwegian-ballet
+  title: Ghosts - Nasjonalballetten (2017)
+  type: archive.org
+  access_note: Ballett basert på Ibsens Gengangere. Koreografi av Marit Moum Aune
+- url: https://archive.org/details/ibsen-ghosts-dench-gambon-branaugh-1973
+  title: Ghosts - BBC Theatre Night (1973)
+  type: archive.org
+  access_note: Med Judi Dench, Michael Gambon. Engelsk versjon
 work_type: teaterstykke
 category: teater

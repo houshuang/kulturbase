@@ -1,4 +1,4 @@
-import { Z as store_get, U as head, _ as unsubscribe_stores, W as attr, Y as stringify, X as ensure_array_like } from "../../../../chunks/index2.js";
+import { U as store_get, V as head, Z as unsubscribe_stores, X as attr, _ as stringify, W as ensure_array_like } from "../../../../chunks/index2.js";
 import { p as page } from "../../../../chunks/stores.js";
 import { e as escape_html } from "../../../../chunks/context.js";
 function getDatabase() {

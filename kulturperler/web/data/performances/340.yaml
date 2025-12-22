@@ -2,10 +2,13 @@ id: 340
 work_id: 334
 source: nrk
 title: Vrakplyndring og mord i Cornwall
-description: |-
-  Foreldrelause Mary Yellan kjem for å bu hos slektningar på eit vertshus i Cornwall. Ho oppdagar at skikkelege folk skyr staden som pesten.
+description: 'Foreldrelause Mary Yellan kjem for å bu hos slektningar på eit vertshus
+  i Cornwall. Ho oppdagar at skikkelege folk skyr staden som pesten.
 
-  Med: Elisabeth Sand (Mary Yellan), Per Sunderland (Joss Merlyn), Siri Rom (Tante Patience), Astrid Folstad (Forteljaren), m.fl. Ved sida av «Rebecca» er dette den mest kjende forteljinga til grøssarforfattaren Daphne du Maurier.
+
+  Med: Elisabeth Sand (Mary Yellan), Per Sunderland (Joss Merlyn), Siri Rom (Tante
+  Patience), Astrid Folstad (Forteljaren), m.fl. Ved sida av «Rebecca» er dette den
+  mest kjende forteljinga til grøssarforfattaren Daphne du Maurier.'
 total_duration: 12319
 image_url: https://gfx.nrk.no/rRLUi484v8KUT15qtAoTmgJpyrhoUqTsXCBNmTYsCl9g
 medium: radio
@@ -65,7 +68,7 @@ credits:
   role: other
 - person_id: 142
   role: other
-- person_id: 788
+- person_id: 2461
   role: other
 - person_id: 901
   role: other

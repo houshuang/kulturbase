@@ -175,3 +175,19 @@ export interface NrkAboutProgram {
 	interest_score: number;
 	episode_count: number | null;
 }
+
+export interface ExternalResource {
+	id: number;
+	url: string;
+	title: string;
+	type: string;
+	description: string | null;
+	added_date: string | null;
+	is_working: number;
+}
+
+export interface ExternalResourceFilters {
+	query?: string;
+	type?: string;
+	composer?: string;
+}

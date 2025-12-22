@@ -1,4 +1,4 @@
-import { U as head } from "../../../chunks/index2.js";
+import { V as head } from "../../../chunks/index2.js";
 import { e as escape_html } from "../../../chunks/context.js";
 function _page($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {

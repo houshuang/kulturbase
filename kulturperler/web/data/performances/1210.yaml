@@ -1,0 +1,25 @@
+id: 1210
+work_id: 1158
+source: nrk
+title: NRKs juleønskekonsert 2020
+medium: tv
+year: 2020
+description: Julestemning og juleglede fra Store studio. KORK med Linn Skåber, Helene
+  Bøksle, Knut Marius Djupvik, Yngve Søberg og Det Norske Jentekor skal oppfylle musikalske
+  juleønsker.
+series_id: oenskekonsert-med-kork
+total_duration: 3968
+image_url: https://gfx.nrk.no/ZHe0RRfHRXC_9guqcdkCvwHaV7awch_g8uadrrnVdamw
+credits:
+- person_id: 3554
+  role: artist/utøver
+- person_id: 3555
+  role: artist/utøver
+- person_id: 3556
+  role: artist/utøver
+- person_id: 3557
+  role: artist/utøver
+- person_id: 1453
+  role: manusforfatter
+- person_id: 1757
+  role: programleder

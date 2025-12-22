@@ -1,9 +1,16 @@
 prf_id: MKTT83003383
 title: Et nytt mordvåpen
-description: |-
-  Mens stortingsmann Lamoens minne hedres med fagre ord av dem som så ham som en hindring, går spekulasjonene: Ett mord og to overfall som kanskje er mordforsøk, har funnet sted. Forøvet av en galning som hater Stortinget? Eller en beregnende morder som prøver å få det til å se slik ut? Og et nytt offer står for tur - Nils Heilo.
+description: 'Mens stortingsmann Lamoens minne hedres med fagre ord av dem som så
+  ham som en hindring, går spekulasjonene: Ett mord og to overfall som kanskje er
+  mordforsøk, har funnet sted. Forøvet av en galning som hater Stortinget? Eller en
+  beregnende morder som prøver å få det til å se slik ut? Og et nytt offer står for
+  tur - Nils Heilo.
 
-  De som er med: Frank Robert (Nordby), Lasse Kolstad (Førstebetjent Jespersen), Tor Stokke (Heilo), Lasse Lindtner (Guriby), Ståle Bjørnhaug (Krøstup), Per Christensen d.e. (Nilsen), Astrid Jacobsen (Laila Nordeng), Jens Bolling (Ordfører), Jan Frostad (Konduktør).
+
+  De som er med: Frank Robert (Nordby), Lasse Kolstad (Førstebetjent Jespersen), Tor
+  Stokke (Heilo), Lasse Lindtner (Guriby), Ståle Bjørnhaug (Krøstup), Per Christensen
+  d.e. (Nilsen), Astrid Jacobsen (Laila Nordeng), Jens Bolling (Ordfører), Jan Frostad
+  (Konduktør).'
 year: 1983
 duration_seconds: 2023
 image_url: https://gfx.nrk.no/UX9jO5WXj-ZP18td7Eth7gm-JccFVYkkvFaYgjhTPl_A
@@ -40,7 +47,7 @@ credits:
   role: director
 - person_id: 1943
   role: playwright
-- person_id: 621
+- person_id: 1946
   role: actor
 - person_id: 1779
   role: actor

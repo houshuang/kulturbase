@@ -1,0 +1,41 @@
+id: 1209
+work_id: 1157
+source: nrk
+title: NRK Klassisk ønskekonsert 2021
+medium: tv
+year: 2021
+description: Ønsker går i oppfyllelse. KORK, med blant andre Emil Solli-Tangen og
+  Sigmund Groven, fremfører noen av melodiene det norske folk aller helst vil høre.
+  Linn Skåber binder det hele sammen.
+series_id: oenskekonsert-med-kork
+total_duration: 4450
+image_url: https://gfx.nrk.no/6KXmHKuGle0OmYHqc5OcSQgNPcK1czlVzNv-BU32uZmA
+credits:
+- person_id: 3544
+  role: artist/utøver
+- person_id: 3545
+  role: artist/utøver
+- person_id: 3546
+  role: artist/utøver
+- person_id: 2935
+  role: artist/utøver
+- person_id: 1453
+  role: manusforfatter
+- person_id: 3547
+  role: medvirkende
+- person_id: 3548
+  role: medvirkende
+- person_id: 3447
+  role: medvirkende
+- person_id: 3549
+  role: medvirkende
+- person_id: 3550
+  role: medvirkende
+- person_id: 3551
+  role: medvirkende
+- person_id: 3552
+  role: medvirkende
+- person_id: 3553
+  role: medvirkende
+- person_id: 1757
+  role: programleder

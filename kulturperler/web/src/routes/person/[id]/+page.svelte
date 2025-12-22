@@ -1,13 +1,54 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { getPerson, getDatabase, getNrkAboutPrograms } from '$lib/db';
-	import type { Person, EpisodeWithDetails, NrkAboutProgram } from '$lib/types';
+	import type { Person, NrkAboutProgram } from '$lib/types';
 	import { onMount } from 'svelte';
 
+	interface WorkWritten {
+		id: number;
+		title: string;
+		year_written: number | null;
+		performance_count: number;
+		image_url: string | null;
+		work_type: string | null;
+	}
+
+	interface RoleGroup {
+		role: string;
+		performances: {
+			id: number;
+			work_id: number | null;
+			work_title: string;
+			image_url: string | null;
+			year: number | null;
+			playwright_name: string | null;
+			character_name: string | null;
+		}[];
+	}
+
 	let person: Person | null = null;
-	let playsByRole: { role: string; plays: { play_id: number; title: string; image_url: string | null; episode_count: number; year: number | null; playwright_name: string | null }[] }[] = [];
-	let playsWritten: { id: number; title: string; year_written: number | null; performance_count: number; image_url: string | null }[] = [];
+	let isCreator = false;
+	let creatorRoles: string[] = [];
+
+	// Creator stats
+	let stats = {
+		worksAsPlaywright: 0,
+		worksAsComposer: 0,
+		worksAsLibrettist: 0,
+		performanceCount: 0
+	};
+
+	// Works written/composed by this person
+	let worksWritten: WorkWritten[] = [];
+	let worksComposed: WorkWritten[] = [];
+	let librettos: WorkWritten[] = [];
+
+	// Performances (for non-creators or additional roles)
+	let performancesByRole: RoleGroup[] = [];
+
+	// NRK programs about this person
 	let nrkAboutPrograms: NrkAboutProgram[] = [];
+
 	let loading = true;
 	let error: string | null = null;
 
@@ -23,28 +64,111 @@
 			if (person) {
 				const db = getDatabase();
 
-				// Get plays written by this person (with image from first performance's episode)
-				const playsStmt = db.prepare(`
-					SELECT p.id, p.title, p.year_written,
-						(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = p.id) as performance_count,
-						(SELECT e.image_url FROM episodes e
-						 JOIN performances pf ON e.performance_id = pf.id
-						 WHERE pf.work_id = p.id LIMIT 1) as image_url
-					FROM plays p
-					WHERE p.playwright_id = ?
-					ORDER BY p.year_written, p.title
+				// Check if this person is a creator (playwright, composer, librettist)
+				const creatorCheckStmt = db.prepare(`
+					SELECT
+						(SELECT COUNT(*) FROM works WHERE playwright_id = ?) as playwright_count,
+						(SELECT COUNT(*) FROM works WHERE composer_id = ?) as composer_count,
+						(SELECT COUNT(*) FROM works WHERE librettist_id = ?) as librettist_count
 				`);
-				playsStmt.bind([personId]);
-				playsWritten = [];
-				while (playsStmt.step()) {
-					playsWritten.push(playsStmt.getAsObject() as any);
-				}
-				playsStmt.free();
+				creatorCheckStmt.bind([personId, personId, personId]);
+				if (creatorCheckStmt.step()) {
+					const counts = creatorCheckStmt.getAsObject() as {
+						playwright_count: number;
+						composer_count: number;
+						librettist_count: number;
+					};
+					stats.worksAsPlaywright = counts.playwright_count;
+					stats.worksAsComposer = counts.composer_count;
+					stats.worksAsLibrettist = counts.librettist_count;
 
-				// Get plays by role (excluding playwright since we show plays separately)
+					if (counts.playwright_count > 0) creatorRoles.push('dramatiker');
+					if (counts.composer_count > 0) creatorRoles.push('komponist');
+					if (counts.librettist_count > 0) creatorRoles.push('librettist');
+
+					isCreator = creatorRoles.length > 0;
+				}
+				creatorCheckStmt.free();
+
+				// Get total performance count for works by this creator
+				if (isCreator) {
+					const perfCountStmt = db.prepare(`
+						SELECT COUNT(DISTINCT p.id) as count
+						FROM performances p
+						JOIN works w ON p.work_id = w.id
+						WHERE w.playwright_id = ? OR w.composer_id = ? OR w.librettist_id = ?
+					`);
+					perfCountStmt.bind([personId, personId, personId]);
+					if (perfCountStmt.step()) {
+						stats.performanceCount = (perfCountStmt.getAsObject() as { count: number }).count;
+					}
+					perfCountStmt.free();
+				}
+
+				// Get works where person is playwright
+				if (stats.worksAsPlaywright > 0) {
+					const playsStmt = db.prepare(`
+						SELECT w.id, w.title, w.year_written, w.work_type,
+							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
+							(SELECT e.image_url FROM episodes e
+							 JOIN performances pf ON e.performance_id = pf.id
+							 WHERE pf.work_id = w.id LIMIT 1) as image_url
+						FROM works w
+						WHERE w.playwright_id = ?
+						ORDER BY w.year_written, w.title
+					`);
+					playsStmt.bind([personId]);
+					worksWritten = [];
+					while (playsStmt.step()) {
+						worksWritten.push(playsStmt.getAsObject() as WorkWritten);
+					}
+					playsStmt.free();
+				}
+
+				// Get works where person is composer
+				if (stats.worksAsComposer > 0) {
+					const composerStmt = db.prepare(`
+						SELECT w.id, w.title, w.year_written, w.work_type,
+							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
+							(SELECT e.image_url FROM episodes e
+							 JOIN performances pf ON e.performance_id = pf.id
+							 WHERE pf.work_id = w.id LIMIT 1) as image_url
+						FROM works w
+						WHERE w.composer_id = ?
+						ORDER BY w.year_written, w.title
+					`);
+					composerStmt.bind([personId]);
+					worksComposed = [];
+					while (composerStmt.step()) {
+						worksComposed.push(composerStmt.getAsObject() as WorkWritten);
+					}
+					composerStmt.free();
+				}
+
+				// Get works where person is librettist
+				if (stats.worksAsLibrettist > 0) {
+					const librettoStmt = db.prepare(`
+						SELECT w.id, w.title, w.year_written, w.work_type,
+							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
+							(SELECT e.image_url FROM episodes e
+							 JOIN performances pf ON e.performance_id = pf.id
+							 WHERE pf.work_id = w.id LIMIT 1) as image_url
+						FROM works w
+						WHERE w.librettist_id = ?
+						ORDER BY w.year_written, w.title
+					`);
+					librettoStmt.bind([personId]);
+					librettos = [];
+					while (librettoStmt.step()) {
+						librettos.push(librettoStmt.getAsObject() as WorkWritten);
+					}
+					librettoStmt.free();
+				}
+
+				// Get performances by role (director, actor, etc.) - for both creators and non-creators
 				const rolesStmt = db.prepare(`
-					SELECT DISTINCT role FROM episode_persons
-					WHERE person_id = ? AND role != 'playwright'
+					SELECT DISTINCT role FROM performance_persons
+					WHERE person_id = ? AND role NOT IN ('playwright', 'composer', 'librettist')
 				`);
 				rolesStmt.bind([personId]);
 				const roles: string[] = [];
@@ -53,32 +177,32 @@
 				}
 				rolesStmt.free();
 
-				playsByRole = [];
+				performancesByRole = [];
 				for (const role of roles) {
-					const playsStmt = db.prepare(`
-						SELECT
-							p.id as play_id,
-							p.title,
-							MIN(e.image_url) as image_url,
-							COUNT(*) as episode_count,
-							MIN(e.year) as year,
-							pw.name as playwright_name
-						FROM episodes e
-						JOIN episode_persons ep ON e.prf_id = ep.episode_id
-						JOIN plays p ON e.play_id = p.id
-						LEFT JOIN persons pw ON p.playwright_id = pw.id
-						WHERE ep.person_id = ? AND ep.role = ?
-						GROUP BY p.id
-						ORDER BY year DESC
+					const perfStmt = db.prepare(`
+						SELECT DISTINCT
+							p.id,
+							p.work_id,
+							COALESCE(w.title, p.title) as work_title,
+							p.year,
+							pw.name as playwright_name,
+							pp.character_name,
+							(SELECT e.image_url FROM episodes e WHERE e.performance_id = p.id LIMIT 1) as image_url
+						FROM performances p
+						JOIN performance_persons pp ON p.id = pp.performance_id
+						LEFT JOIN works w ON p.work_id = w.id
+						LEFT JOIN persons pw ON w.playwright_id = pw.id
+						WHERE pp.person_id = ? AND pp.role = ?
+						ORDER BY p.year DESC
 					`);
-					playsStmt.bind([personId, role]);
-					const plays: { play_id: number; title: string; image_url: string | null; episode_count: number; year: number | null; playwright_name: string | null }[] = [];
-					while (playsStmt.step()) {
-						plays.push(playsStmt.getAsObject() as any);
+					perfStmt.bind([personId, role]);
+					const performances: RoleGroup['performances'] = [];
+					while (perfStmt.step()) {
+						performances.push(perfStmt.getAsObject() as RoleGroup['performances'][0]);
 					}
-					playsStmt.free();
-					if (plays.length > 0) {
-						playsByRole.push({ role, plays });
+					perfStmt.free();
+					if (performances.length > 0) {
+						performancesByRole.push({ role, performances });
 					}
 				}
 
@@ -97,10 +221,14 @@
 	function getRoleLabel(role: string): string {
 		const labels: Record<string, string> = {
 			director: 'Regissert',
-			actor: 'Spilt i',
-			playwright: 'Manus',
+			actor: 'Roller',
+			playwright: 'Stykker',
 			composer: 'Komponert',
+			conductor: 'Dirigent',
+			soloist: 'Solist',
 			producer: 'Produsert',
+			set_designer: 'Scenografi',
+			costume_designer: 'Kostymer',
 			other: 'Annet'
 		};
 		return labels[role] || role;
@@ -115,7 +243,7 @@
 	}
 
 	function getImageUrl(url: string | null, width = 320): string {
-		if (!url) return '/placeholder.jpg';
+		if (!url) return '';
 		if (url.includes('gfx.nrk.no')) {
 			return url.replace(/\/\d+$/, `/${width}`);
 		}
@@ -125,7 +253,7 @@
 
 <svelte:head>
 	{#if person}
-		<title>{person.name} - Kulturperler</title>
+		<title>{person.name} - Kulturbase.no</title>
 	{/if}
 </svelte:head>
 
@@ -135,7 +263,7 @@
 	<div class="error">{error}</div>
 {:else if person}
 	<article class="person-detail">
-		<a href="/" class="back-link">&larr; Tilbake til oversikt</a>
+		<a href="/" class="back-link">&larr; Tilbake</a>
 
 		<header class="person-header">
 			<div class="header-content">
@@ -144,9 +272,19 @@
 					{#if person.birth_year || person.death_year}
 						<p class="years">{person.birth_year || '?'}–{person.death_year || ''}</p>
 					{/if}
+
+					{#if creatorRoles.length > 0}
+						<div class="creator-roles">
+							{#each creatorRoles as role}
+								<span class="role-tag">{role}</span>
+							{/each}
+						</div>
+					{/if}
+
 					{#if person.bio}
 						<p class="bio">{person.bio}</p>
 					{/if}
+
 					<div class="external-links">
 						{#if person.sceneweb_url}
 							<a href={person.sceneweb_url} target="_blank" rel="noopener" class="external-link">
@@ -163,29 +301,119 @@
 			</div>
 		</header>
 
-		{#if playsWritten.length > 0}
-			<section class="plays-written">
-				<h2>Stykker tilgjengelig ({playsWritten.length})</h2>
-				<div class="plays-grid">
-					{#each playsWritten as play}
-						<a href="/play/{play.id}" class="play-card">
-							<div class="play-image">
-								{#if play.image_url}
-									<img src={getImageUrl(play.image_url)} alt={play.title} loading="lazy" />
+		{#if isCreator}
+			<!-- Creator stats -->
+			<section class="creator-stats">
+				<div class="stats-grid">
+					{#if stats.worksAsPlaywright > 0}
+						<div class="stat-item">
+							<span class="stat-value">{stats.worksAsPlaywright}</span>
+							<span class="stat-label">stykker</span>
+						</div>
+					{/if}
+					{#if stats.worksAsComposer > 0}
+						<div class="stat-item">
+							<span class="stat-value">{stats.worksAsComposer}</span>
+							<span class="stat-label">komposisjoner</span>
+						</div>
+					{/if}
+					{#if stats.worksAsLibrettist > 0}
+						<div class="stat-item">
+							<span class="stat-value">{stats.worksAsLibrettist}</span>
+							<span class="stat-label">librettoer</span>
+						</div>
+					{/if}
+					<div class="stat-item">
+						<span class="stat-value">{stats.performanceCount}</span>
+						<span class="stat-label">opptak</span>
+					</div>
+				</div>
+			</section>
+		{/if}
+
+		{#if worksWritten.length > 0}
+			<section class="works-section">
+				<h2>Stykker av {person.name} ({worksWritten.length})</h2>
+				<div class="works-grid">
+					{#each worksWritten as work}
+						<a href="/play/{work.id}" class="work-card">
+							<div class="work-image">
+								{#if work.image_url}
+									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
 								{:else}
-									<div class="play-placeholder">
-										<span>🎭</span>
-									</div>
+									<div class="work-placeholder">Teater</div>
 								{/if}
 							</div>
-							<div class="play-info">
-								<h3>{play.title}</h3>
-								{#if play.year_written}
-									<span class="play-year">{play.year_written}</span>
+							<div class="work-info">
+								<h3>{work.title}</h3>
+								<div class="work-meta">
+									{#if work.year_written}
+										<span class="work-year">{work.year_written}</span>
+									{/if}
+									{#if work.performance_count > 0}
+										<span class="work-count">{work.performance_count} opptak</span>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if worksComposed.length > 0}
+			<section class="works-section">
+				<h2>Komponert ({worksComposed.length})</h2>
+				<div class="works-grid">
+					{#each worksComposed as work}
+						<a href="/play/{work.id}" class="work-card">
+							<div class="work-image">
+								{#if work.image_url}
+									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
+								{:else}
+									<div class="work-placeholder">Musikk</div>
 								{/if}
-								{#if play.performance_count > 0}
-									<span class="play-count">{play.performance_count} opptak</span>
+							</div>
+							<div class="work-info">
+								<h3>{work.title}</h3>
+								<div class="work-meta">
+									{#if work.year_written}
+										<span class="work-year">{work.year_written}</span>
+									{/if}
+									{#if work.performance_count > 0}
+										<span class="work-count">{work.performance_count} opptak</span>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if librettos.length > 0}
+			<section class="works-section">
+				<h2>Librettoer ({librettos.length})</h2>
+				<div class="works-grid">
+					{#each librettos as work}
+						<a href="/play/{work.id}" class="work-card">
+							<div class="work-image">
+								{#if work.image_url}
+									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
+								{:else}
+									<div class="work-placeholder">Opera</div>
 								{/if}
+							</div>
+							<div class="work-info">
+								<h3>{work.title}</h3>
+								<div class="work-meta">
+									{#if work.year_written}
+										<span class="work-year">{work.year_written}</span>
+									{/if}
+									{#if work.performance_count > 0}
+										<span class="work-count">{work.performance_count} opptak</span>
+									{/if}
+								</div>
 							</div>
 						</a>
 					{/each}
@@ -195,7 +423,7 @@
 
 		{#if nrkAboutPrograms.length > 0}
 			<section class="nrk-about">
-				<h2>I NRK-arkivet</h2>
+				<h2>I NRK-arkivet (programmer om {person.name})</h2>
 				<div class="about-programs-grid">
 					{#each nrkAboutPrograms as program}
 						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
@@ -203,62 +431,66 @@
 								{#if program.image_url}
 									<img src={program.image_url} alt={program.title} loading="lazy" />
 								{:else}
-									<div class="about-placeholder">
-										<span>📺</span>
-									</div>
+									<div class="about-placeholder">NRK</div>
 								{/if}
 							</div>
 							<div class="about-info">
 								<h3>{program.title}</h3>
 								<div class="about-meta">
 									{#if program.program_type === 'serie'}
-										<span class="about-type">Serie{#if program.episode_count} · {program.episode_count} ep{/if}</span>
+										<span class="about-type">Serie{#if program.episode_count} ({program.episode_count} ep){/if}</span>
 									{/if}
 									{#if program.duration_seconds}
 										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
 									{/if}
 								</div>
 							</div>
-							<span class="external-arrow">↗</span>
+							<span class="external-arrow">NRK TV</span>
 						</a>
 					{/each}
 				</div>
 			</section>
 		{/if}
 
-		{#each playsByRole as group}
+		{#each performancesByRole as group}
 			<section class="role-section">
-				<h2>{getRoleLabel(group.role)} ({group.plays.length})</h2>
+				<h2>{getRoleLabel(group.role)} ({group.performances.length})</h2>
 
-				<div class="plays-grid">
-					{#each group.plays as play}
-						<a href="/play/{play.play_id}" class="play-card">
-							<div class="play-image">
-								{#if play.image_url}
-									<img src={getImageUrl(play.image_url)} alt={play.title} loading="lazy" />
+				<div class="performances-grid">
+					{#each group.performances as perf}
+						<a href="/performance/{perf.id}" class="perf-card">
+							<div class="perf-image">
+								{#if perf.image_url}
+									<img src={getImageUrl(perf.image_url)} alt={perf.work_title} loading="lazy" />
 								{:else}
-									<div class="play-placeholder">
-										<span>🎭</span>
-									</div>
+									<div class="perf-placeholder">Teater</div>
 								{/if}
 							</div>
-							<div class="play-info">
-								<h3>{play.title}</h3>
-								{#if play.year}
-									<span class="play-year">{play.year}</span>
+							<div class="perf-info">
+								<h3>{perf.work_title}</h3>
+								{#if perf.character_name}
+									<span class="character">som {perf.character_name}</span>
 								{/if}
-								{#if play.episode_count > 1}
-									<span class="play-count">{play.episode_count} deler</span>
-								{/if}
-								{#if play.playwright_name}
-									<span class="playwright">{play.playwright_name}</span>
-								{/if}
+								<div class="perf-meta">
+									{#if perf.year}
+										<span class="perf-year">{perf.year}</span>
+									{/if}
+									{#if perf.playwright_name}
+										<span class="playwright">{perf.playwright_name}</span>
+									{/if}
+								</div>
 							</div>
 						</a>
 					{/each}
 				</div>
 			</section>
 		{/each}
+
+		{#if !isCreator && performancesByRole.length === 0 && nrkAboutPrograms.length === 0}
+			<div class="no-content">
+				<p>Ingen opptak registrert for denne personen ennå.</p>
+			</div>
+		{/if}
 	</article>
 {/if}
 
@@ -302,21 +534,6 @@
 		align-items: flex-start;
 	}
 
-	.person-portrait {
-		width: 120px;
-		height: 120px;
-		border-radius: 50%;
-		overflow: hidden;
-		flex-shrink: 0;
-		background: #f0f0f0;
-	}
-
-	.person-portrait img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-	}
-
 	.header-text {
 		flex: 1;
 	}
@@ -330,6 +547,21 @@
 		font-size: 1.1rem;
 		color: #666;
 		margin-bottom: 0.75rem;
+	}
+
+	.creator-roles {
+		display: flex;
+		gap: 0.5rem;
+		margin-bottom: 1rem;
+	}
+
+	.role-tag {
+		background: #e94560;
+		color: white;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.85rem;
+		text-transform: capitalize;
 	}
 
 	.bio {
@@ -359,83 +591,124 @@
 		color: white;
 	}
 
-	.plays-written {
+	/* Creator stats */
+	.creator-stats {
+		background: #f8f9fa;
+		border-radius: 8px;
+		padding: 1.5rem;
+		margin-bottom: 2rem;
+	}
+
+	.stats-grid {
+		display: flex;
+		justify-content: center;
+		gap: 3rem;
+	}
+
+	.stat-item {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 0.25rem;
+	}
+
+	.stat-value {
+		font-size: 2rem;
+		font-weight: bold;
+		color: #1a1a2e;
+	}
+
+	.stat-label {
+		font-size: 0.85rem;
+		color: #666;
+	}
+
+	/* Works section */
+	.works-section {
 		margin-bottom: 2rem;
 		padding-bottom: 1.5rem;
 		border-bottom: 1px solid #eee;
 	}
 
-	.plays-written h2, .role-section h2, .nrk-about h2 {
-		font-size: 1.3rem;
+	.works-section h2, .role-section h2, .nrk-about h2 {
+		font-size: 1.25rem;
 		margin-bottom: 1rem;
 	}
 
-	.plays-grid {
+	.works-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
 		gap: 1rem;
 	}
 
-	.play-card {
+	.work-card {
 		background: #f9f9f9;
 		border-radius: 8px;
 		overflow: hidden;
 		text-decoration: none;
 		color: inherit;
-		transition: transform 0.2s;
+		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
-	.play-card:hover {
-		transform: translateY(-2px);
+	.work-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 	}
 
-	.play-image {
+	.work-image {
 		aspect-ratio: 16/9;
 		background: #eee;
 	}
 
-	.play-image img {
+	.work-image img {
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
 	}
 
-	.play-placeholder {
+	.work-placeholder {
 		width: 100%;
 		height: 100%;
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		background: linear-gradient(135deg, #667 0%, #445 100%);
-		font-size: 2rem;
-	}
-
-	.play-info {
-		padding: 0.5rem 0.75rem;
-	}
-
-	.play-info h3 {
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
 		font-size: 0.9rem;
+	}
+
+	.work-info {
+		padding: 0.75rem;
+	}
+
+	.work-info h3 {
+		font-size: 0.95rem;
 		font-weight: 600;
-		margin-bottom: 0.25rem;
+		margin-bottom: 0.5rem;
 		line-height: 1.3;
 	}
 
-	.play-year {
-		display: inline-block;
+	.work-meta {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+
+	.work-year {
 		background: #e94560;
 		color: white;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;
 		font-size: 0.75rem;
-		margin-right: 0.5rem;
 	}
 
-	.play-count {
-		font-size: 0.75rem;
+	.work-count {
+		font-size: 0.8rem;
 		color: #666;
 	}
 
+	/* NRK About section */
 	.nrk-about {
 		margin-bottom: 2rem;
 		padding-bottom: 1.5rem;
@@ -444,14 +717,14 @@
 
 	.about-programs-grid {
 		display: grid;
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 		gap: 0.75rem;
 	}
 
 	.about-card {
 		display: flex;
 		gap: 0.75rem;
-		padding: 0.5rem;
+		padding: 0.75rem;
 		background: #f9f9f9;
 		border-radius: 8px;
 		text-decoration: none;
@@ -485,15 +758,9 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
-		font-size: 1.5rem;
-	}
-
-	.about-type {
-		background: #e0e0e0;
-		padding: 0.1rem 0.4rem;
-		border-radius: 3px;
-		font-size: 0.75rem;
+		background: linear-gradient(135deg, #4a5568, #2d3748);
+		color: rgba(255, 255, 255, 0.6);
+		font-size: 0.8rem;
 	}
 
 	.about-info {
@@ -513,76 +780,121 @@
 		gap: 0.5rem;
 		font-size: 0.8rem;
 		color: #666;
-		margin-bottom: 0.25rem;
 	}
 
+	.about-type {
+		background: #e0e0e0;
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.75rem;
+	}
 
 	.external-arrow {
-		color: #999;
-		font-size: 1.1rem;
+		color: #e94560;
+		font-size: 0.8rem;
 		flex-shrink: 0;
 	}
 
+	/* Role sections (performances) */
 	.role-section {
 		margin-bottom: 2rem;
 	}
 
-	.episodes-grid {
+	.performances-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
 		gap: 1rem;
 	}
 
-	.episode-card {
+	.perf-card {
 		background: #f9f9f9;
 		border-radius: 8px;
 		overflow: hidden;
 		text-decoration: none;
 		color: inherit;
-		transition: transform 0.2s;
+		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
-	.episode-card:hover {
-		transform: translateY(-2px);
+	.perf-card:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 	}
 
-	.episode-image {
+	.perf-image {
 		aspect-ratio: 16/9;
 		background: #eee;
 	}
 
-	.episode-image img {
+	.perf-image img {
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
 	}
 
-	.episode-info {
+	.perf-placeholder {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(135deg, #1a1a2e, #16213e);
+		color: rgba(255, 255, 255, 0.5);
+		font-size: 0.9rem;
+	}
+
+	.perf-info {
 		padding: 0.75rem;
 	}
 
-	.episode-info h3 {
+	.perf-info h3 {
 		font-size: 0.95rem;
 		font-weight: 600;
 		margin-bottom: 0.25rem;
 		line-height: 1.3;
 	}
 
-	.episode-info .year {
-		display: inline-block;
-		background: #e94560;
+	.character {
+		display: block;
+		font-size: 0.85rem;
+		color: #e94560;
+		font-style: italic;
+		margin-bottom: 0.25rem;
+	}
+
+	.perf-meta {
+		display: flex;
+		gap: 0.5rem;
+		align-items: center;
+		flex-wrap: wrap;
+	}
+
+	.perf-year {
+		background: #1a1a2e;
 		color: white;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;
 		font-size: 0.75rem;
-		margin-right: 0.5rem;
 	}
 
-	.episode-info .playwright,
-	.play-info .playwright {
-		display: block;
-		font-size: 0.85rem;
+	.playwright {
+		font-size: 0.8rem;
 		color: #666;
-		margin-top: 0.25rem;
+	}
+
+	.no-content {
+		text-align: center;
+		padding: 3rem;
+		color: #666;
+	}
+
+	@media (max-width: 600px) {
+		.stats-grid {
+			flex-wrap: wrap;
+			gap: 1.5rem;
+		}
+
+		.about-programs-grid {
+			grid-template-columns: 1fr;
+		}
 	}
 </style>

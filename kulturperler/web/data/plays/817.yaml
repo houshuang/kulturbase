@@ -1,7 +1,16 @@
 id: 817
 title: Stemmen
-original_title: Stemmen
-synopsis: Stemmen er den lyden mennesker produserer gjennom munnen ved hjelp av leppene
-  og stemmebåndene for å kommunisere gjennom språk og andre midler.
+original_title: La Voix Humaine
+playwright_id: null
+synopsis: Stemmen (La Voix Humaine) er en opera i én akt av Francis Poulenc fra 1958,
+  basert på en monolog av Jean Cocteau. Handlingen følger en kvinne som snakker med
+  sin eks-kjæreste på telefonen for siste gang etter at han har forlatt henne for
+  en annen kvinne. Operaen ble fremført i Fjernsynsteatret i 1963 med Wenche Foss
+  i hovedrollen og Kringkastingsorkesteret dirigert av Øivind Fjeldstad.
+external_links:
+- url: https://archive.org/details/NRKTV-FTEM63001263-AR-199001045
+  title: Stemmen (1963) - Archive.org
+  type: archive.org
+  access_note: Wenche Foss, KORK. Ikke tilgjengelig på NRK.no
 work_type: nrk_teaterstykke
 category: teater

@@ -1,0 +1,1962 @@
+{
+  "Symphony No. 3 in E-flat major, Op. 55|Ludwig van Beethoven|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Creatures of Prometheus",
+    "source_author": null,
+    "source_type": "myth",
+    "confidence": 0.6,
+    "notes": "The finale incorporates a bass line from Beethoven's ballet 'The Creatures of Prometheus'. The symphony was initially inspired by Napoleon Bonaparte and the ideals of the French Revolution. Beethoven wanted to create a symphonic equivalent of a Homeric epic with Napoleon as his subject."
+  },
+  "Rosenkavaleren|Richard Strauss|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Les amours du chevalier de Faublas and Monsieur de Pourceaugnac",
+    "source_author": "Louvet de Couvrai and Molière",
+    "source_type": "novel|play",
+    "confidence": 0.8,
+    "notes": "Der Rosenkavalier is loosely adapted from Louvet de Couvrai's novel Les amours du chevalier de Faublas and Molière's comedy Monsieur de Pourceaugnac. The libretto was written by Hugo von Hofmannsthal."
+  },
+  "The Kitchen Department||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.3,
+    "notes": "Based on the search results, there is no clear indication that 'The Kitchen Department' orchestral work is based on a literary source. Some results refer to orchestral works related to kitchens or chefs, but none directly link to a specific literary work."
+  },
+  "Tjat|Knut Vaage|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on the search results, there is no indication that 'Tjat' by Knut Vaage is based on a literary work. 'Tjat' was composed in 2005 and commissioned by the Bergen Philharmonic Orchestra. The piece is intended as an encore after a symphonic standard piece and can be associated with bustle, throng, and travel. While some of Vaage's other works are based on literary sources, such as his opera 'Someone Is Going To Come' which is based on a play by Jon Fosse, there is no evidence to suggest that 'Tjat' has a literary origin."
+  },
+  "Haugtussa, Opus 67|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Haugtussa",
+    "source_author": "Arne Garborg",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "Edvard Grieg's Haugtussa, Op. 67 is a song cycle for soprano and piano. The text is an excerpt from Arne Garborg's book of poetry Haugtussa. Grieg selected eight poems from Garborg's epic cycle of poems for publication as a song cycle."
+  },
+  "Kinderszenen (Scenes from Childhood)|Robert Schumann|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Kinderszenen (Scenes from Childhood) by Robert Schumann is a set of thirteen piano pieces written in 1838. The pieces are musical snapshots of childhood moments and feelings. Schumann was inspired by Clara's comment that he sometimes seemed like a child. The titles were added after the composition and are considered 'delicate hints for execution and interpretation'. The work is not directly based on a specific literary source like a play, novel, or poem."
+  },
+  "85. Grieg-galla 2007|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The 'Grieg-galla 2007' likely included music from Edvard Grieg's Peer Gynt suites, which were originally incidental music written for Henrik Ibsen's play 'Peer Gynt'."
+  },
+  "Symphony No. 1|Johan Svendsen|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Johan Svendsen's Symphony No. 1 is not based on a literary work."
+  },
+  "Groovy møte for harpe og perkusjon|Sindre Hotvedt|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on available information, 'Groovy møte for harpe og perkusjon' by Sindre Hotvedt does not appear to be based on a literary work. There is no readily available information linking it to a play, novel, or poem."
+  },
+  "Symfoni på 78 grader nord||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on the search results, there's no indication that \"Symfoni på 78 grader nord\" is based on a literary work. The symphony seems to be inspired by the Tromsø Symphony Orchestra's visit to Svalbard."
+  },
+  "Le Chasseur maudit|César Franck|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Der wilde Jäger",
+    "source_author": "Gottfried August Bürger",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "César Franck's 'Le Chasseur maudit' is a symphonic poem inspired by Gottfried August Bürger's ballad 'Der wilde Jäger'. The ballad tells the story of a Count who hunts on Sunday and is cursed to be eternally hunted by demons."
+  },
+  "Symphony No. 5|Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Beethoven's Symphony No. 5 is not directly based on a literary work. However, the famous opening motif has been interpreted as 'fate knocking at the door'. The symphony reflects Beethoven's personal struggles and the political turmoil of the Napoleonic Wars."
+  },
+  "Pictures at an Exhibition|Modest Mussorgsky|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Pictures at an Exhibition is a suite composed by Modest Mussorgsky as a musical depiction of a tour of an exhibition of works by the artist Viktor Hartmann. Each movement represents a different work by Hartmann. The composition is not based on a play, novel, or poem."
+  },
+  "Foran Sydens Kloster|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Foran Sydens Kloster",
+    "source_author": "Bjørnstjerne Bjørnson",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The orchestral work 'Foran Sydens Kloster' by Edvard Grieg is based on a poem by Bjørnstjerne Bjørnson. Bjørnson wrote a long poem about the saga hero Arnljot Gelline and asked Grieg to write music for the drama. In the summer of 1871, Grieg composed the section Bjørnson called 'Foran Sydens Kloster'."
+  },
+  "Teaterdirektøren|Wolfgang Amadeus Mozart|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": "Gottlieb Stephanie",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The opera 'Teaterdirektøren' (Der Schauspieldirektor) by Wolfgang Amadeus Mozart is a comic singspiel with a German libretto by Gottlieb Stephanie. It is a satire of backstage trials and tribulations within the opera world."
+  },
+  "Sylfiden||ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "Trilby, ou Le Lutin d'Argail",
+    "source_author": "Charles Nodier",
+    "source_type": "novel",
+    "confidence": 0.9,
+    "notes": "The ballet's libretto was written by Adolphe Nourrit and was loosely based on Charles Nodier's novella 'Trilby, ou Le Lutin d'Argail'. Nourrit swapped the genders of the protagonists. The original story of a Goblin and Fisherman's wife became the Sylph and the Farmer."
+  },
+  "Jubileumskonsert i Målselv||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on available information, there is no indication that 'Jubileumskonsert i Målselv' is based on a literary work. The concert appears to be a celebratory event featuring Ingerid Stenvold, the Kringkastingsorkestret, and soloists."
+  },
+  "An Alpine Symphony|Richard Strauss|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Antichrist",
+    "source_author": "Friedrich Nietzsche",
+    "source_type": "other",
+    "confidence": 0.6,
+    "notes": "Richard Strauss initially intended to title the symphony 'The Antichrist: An Alpine Symphony', borrowing from Nietzsche's book. The symphony also draws inspiration from Strauss's own experiences hiking in the Alps and the life of Swiss artist Karl Stauffer-Bern."
+  },
+  "The Rite of Spring|Igor Stravinsky|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "myth",
+    "confidence": 0.8,
+    "notes": "The Rite of Spring is based on Stravinsky's vision of pagan rituals in Russia, specifically the sacrifice of a virgin to the god of Spring. The concept was further developed with Nicholas Roerich, an expert on folk art and ancient rituals. While not directly based on a specific play, novel, or poem, it draws inspiration from pagan myths and rituals."
+  },
+  "Symphony No. 41 in C major|Wolfgang Amadeus Mozart|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "There is no evidence suggesting that Mozart's Symphony No. 41 in C major, K. 551, also known as the 'Jupiter' symphony, is based on a literary work. The symphony is known for its grandeur and complexity, and the nickname 'Jupiter' was likely given after Mozart's death, possibly by Johann Peter Salomon, an English impresario."
+  },
+  "Italian Symphony|Felix Mendelssohn|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Italian Symphony by Felix Mendelssohn was inspired by his travels to Italy between 1830 and 1831. It is considered a musical depiction of his experiences and the Italian landscape, rather than an adaptation of a specific literary work."
+  },
+  "Klassisk a la Cuba||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no direct evidence to suggest that 'Klassisk a la Cuba' is based on a literary work. The search mainly yielded results about Cuban literature, music, and culture in general. Therefore, it is likely an original composition or an arrangement of existing musical themes."
+  },
+  "Ouverture til Gwendoline|Emmanuel Chabrier|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": "Catulle Mendès",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The opera 'Gwendoline' by Emmanuel Chabrier is based on a libretto by Catulle Mendès. The libretto is an original work, not directly based on a pre-existing play, novel, or poem."
+  },
+  "Symphony No. 8|Mahler|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Veni creator spiritus and Faust",
+    "source_author": "Hrabanus Maurus and Johann Wolfgang von Goethe",
+    "source_type": "poem and play",
+    "confidence": 0.95,
+    "notes": "Part I is based on the Latin text of Veni creator spiritus, a ninth-century Christian hymn for Pentecost, and Part II is a setting of the words from the closing scene of Goethe's Faust. The two parts are unified by a common idea, that of redemption through the power of love, a unity conveyed through shared musical themes."
+  },
+  "Tosca|Puccini|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "La Tosca",
+    "source_author": "Victorien Sardou",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Puccini's opera Tosca is based on the 1887 French-language play 'La Tosca' by Victorien Sardou."
+  },
+  "Deep Field|Eric Whitacre|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Deep Field by Eric Whitacre was inspired by the Hubble Space Telescope's Deep Field image. It is not based on a play, novel, or poem, but on a scientific discovery."
+  },
+  "Waldstein Sonata|Beethoven|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Waldstein Sonata is not based on a literary work. The name 'Waldstein' comes from its dedication to Count Ferdinand Ernst Gabriel von Waldstein, a friend and patron of Beethoven. It is also known as L'Aurora (The Dawn) in Italian, for the sonority of the opening chords of the third movement, thought to conjure an image of daybreak."
+  },
+  "Symphony No. 3|Brahms|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Brahms' Symphony No. 3 is not directly based on a literary work. However, it contains personal and musical allusions. The opening includes a musical motto 'Frei aber froh' (Free but happy). It also quotes a theme from Robert Schumann's Symphony No. 3 'Rhenish', as Brahms was influenced by landscape and memories of his time on the Rhine. Some claim that two movements are based on sketches from an abandoned Faust project."
+  },
+  "Various works|Various composers|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "Many orchestral works are based on literary sources such as plays, novels, and poems. Examples include symphonic poems, ballets, and overtures. Some famous examples are Tchaikovsky's 'Romeo and Juliet', based on Shakespeare's play, and Liszt's 'Faust Symphony', inspired by Goethe's 'Faust'."
+  },
+  "Klassisk Vorspiel julelive 2019 del 2||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.5,
+    "notes": "Based on the available information, it is not possible to determine whether 'Klassisk Vorspiel julelive 2019 del 2' is based on a literary work. Further research into the specific musical work would be needed."
+  },
+  "The Planets|Gustav Holst|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Planets was inspired by Gustav Holst's interest in astrology, with each movement representing the astrological character of a planet. Holst himself stated that the pieces were suggested by the astrological significance of the planets and have no connection with classical mythology."
+  },
+  "The Barber of Seville|Gioacchino Rossini|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Barber of Seville",
+    "source_author": "Pierre Beaumarchais",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "Rossini's opera 'The Barber of Seville' is based on the French play 'The Barber of Seville' (Le Barbier de Séville) by Pierre Beaumarchais."
+  },
+  "Pinsesalme|Edvard Grieg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "\"Pinsesalme\" is part of Edvard Grieg's Peer Gynt, Op. 23, which was written as incidental music to Henrik Ibsen's play Peer Gynt. The text of \"Pinsesalme\" is by Henrik Ibsen and appears in Act V of Peer Gynt."
+  },
+  "15. desember 1991||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "Based on the available search results, it is not possible to determine if the orchestral work '15. desember 1991' is based on a literary source. Further research would be needed to confirm."
+  },
+  "Ein deutsches Requiem|Johannes Brahms|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Luther Bible",
+    "source_author": "Martin Luther",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The text is derived from the German Luther Bible. Brahms assembled the libretto himself, selecting verses from both the Old and New Testaments. The work is sacred but non-liturgical."
+  },
+  "Diaghilevs Ballets Russes|Various Russian and French Composers|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "Diaghilev's Ballets Russes was known for commissioning new works and revitalizing existing ballets, some of which were based on literary sources. Some of the ballets produced by the Ballets Russes were based on existing stories, poems, and novels. Examples include *Le Pavillon d'Armide* (based on Théophile Gautier's *Omphale*), *Cléopâtre* (developed from *Egyptian Nights*), and *The Sleeping Beauty* (inspired by the Grimm Brothers' tale). Additionally, *The Rite of Spring* was inspired by poems from Sergey Gorodetsky's collection *Yar*. *Scheherazade* is based on *One Thousand and One Nights*. *Romeo and Juliet* and *A Midsummer Night's Dream* are based on the works of William Shakespeare. *Don Quixote* is based on the novel *Don Quixote de la Mancha* by Miguel de Cervantes. *Alice's Adventures in Wonderland* has also been adapted into a ballet. *Swan Lake* is based on *The Stolen Veil* by Johann Karl August Musäus. *The Nutcracker* is based on *Nutcracker and Mouse King* by E.T.A. Hoffmann and *The Tale of the Nutcracker* by Alexander Dumas. *Cinderella* is based on the fairy tale written by Charles Perrault."
+  },
+  "Symphony No. 83 in G minor|Franz Joseph Haydn|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Haydn's Symphony No. 83, nicknamed 'The Hen' (La Poule), is not based on a literary work. The nickname comes from the clucking sound in the second theme of the first movement, which reminded listeners of a hen."
+  },
+  "Multiple works by Haydn, Dvořák, Prokofjev, and Fossegrimen by Halvorsen|Haydn, Dvořák, Prokofjev, Halvorsen|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Multiple titles",
+    "source_author": "Multiple authors",
+    "source_type": "play|novel|poem|myth|other",
+    "confidence": 0.8,
+    "notes": "Several of the listed works are based on literary sources: Dvořák's symphonic poems (The Water Goblin, The Noon Witch, The Golden Spinning Wheel, and The Wild Dove) are based on poems by Karel Jaromír Erben. Prokofiev's Romeo and Juliet is based on Shakespeare's play. Prokofiev's operas such as 'The Gambler' and 'War and Peace' are based on literary works by Dostoevsky and Tolstoy, respectively. Halvorsen's Fossegrimen is incidental music to a play by Sigurd Eldegard. Haydn composed an opera called Der krumme Teufel, &quot;The Limping Devil&quot;. It is possible that other orchestral works by these composers are based on literary sources as well."
+  },
+  "Overture to La forza del destino|Giuseppe Verdi|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Don Álvaro o la fuerza del sino",
+    "source_author": "Ángel de Saavedra, 3rd Duke of Rivas",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "The opera *La forza del destino* by Giuseppe Verdi, including the overture, is based on the Spanish drama *Don Álvaro o la fuerza del sino* (1835) by Ángel de Saavedra, 3rd Duke of Rivas. A scene was also adapted from Friedrich Schiller's *Wallensteins Lager*."
+  },
+  "Fantasia on a Theme by Thomas Tallis|Ralph Vaughan Williams|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Nine Tunes for Archbishop Parker's Psalter",
+    "source_author": "Thomas Tallis and Matthew Parker",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The musical work is based on a theme by Thomas Tallis, specifically the third psalm tune from his 'Nine Tunes for Archbishop Parker's Psalter'. The psalter is a collection of vernacular psalm settings compiled in 1567 for the Archbishop of Canterbury, Matthew Parker. The third psalm tune is also known as 'Third Mode Melody'."
+  },
+  "Overture and Venusberg Music; Les préludes|Richard Wagner, Franz Liszt|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Tannhäuser",
+    "source_author": "Richard Wagner",
+    "source_type": "myth",
+    "confidence": 0.9,
+    "notes": "Overture and Venusberg Music from Tannhäuser is based on two German legends: Tannhäuser, the legendary medieval German Minnesänger and poet, and the tale of the Wartburg Song Contest. The story centers on the struggle between sacred and profane love, and redemption through love."
+  },
+  "Die Meistersinger von Nürnberg Overture|Richard Wagner|opera": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Die Meistersinger von Nürnberg is based on an original story by Richard Wagner, incorporating the historical figure of Hans Sachs. While Wagner drew inspiration from Georg Gottfried Gervinus's 'History of German Poetry', the opera is not an adaptation of a pre-existing play, novel, or poem."
+  },
+  "Swan Lake|Tchaikovsky|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "German and Russian folk tales",
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "Swan Lake is based on German and Russian folk tales. Some believe it is based on the German fairytale “The Stolen Veil” or the Russian folktale “The White Duck”. There is no definitive evidence of the plot's origin."
+  },
+  "Slow movements from Symphony No. 9 and Symphony No. 7|Dvořák and Beethoven|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Song of Hiawatha",
+    "source_author": "Henry Wadsworth Longfellow",
+    "source_type": "poem",
+    "confidence": 0.7,
+    "notes": "The second and third movements of Dvořák's Symphony No. 9 were inspired by scenes from Longfellow's poem 'The Song of Hiawatha'. Dvořák himself stated that the third movement scherzo was inspired by Longfellow's description of the dance of Pau-Puk-Keewis. There is no evidence that Beethoven's Symphony No. 7 is based on a literary work."
+  },
+  "Symphony No. 4|Brahms|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Nach dir, Herr, verlanget mich, BWV 150",
+    "source_author": "Johann Sebastian Bach",
+    "source_type": "cantata",
+    "confidence": 0.8,
+    "notes": "The fourth movement (finale) is a passacaglia based on the chaconne theme in the closing movement of Johann Sebastian Bach's cantata, Nach dir, Herr, verlanget mich, BWV 150."
+  },
+  "Symphony No. 3 'Sinfonia Espansiva'|Carl Nielsen|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Carl Nielsen's Symphony No. 3 'Sinfonia Espansiva' is not based on a specific literary work. The subtitle 'Sinfonia Espansiva' refers to the 'outward growth of the mind's scope'. The symphony expresses a strong tension and idyllic calm. The second movement evokes a peaceful mood, like Paradise before the Fall of Adam and Eve."
+  },
+  "Et sjakkspill|Bjørn Kruse|opera": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no indication that Bjørn Kruse's opera 'Et sjakkspill' is based on a literary source like a play, novel, or poem. The opera's plot and background information do not point to a specific literary origin."
+  },
+  "Por una cabeza|Carlos Gardel|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "'Por una cabeza' is a tango song with lyrics by Alfredo Le Pera, which speaks of a compulsive horse-track gambler who compares his addiction for horses with his attraction to women. The title refers to a horse losing a race narrowly, 'by a head'. While not directly based on a pre-existing play, novel, or poem, the lyrics tell a story, making it based on a literary work."
+  },
+  "Selection of Works|Grieg, Ravel, Stravinsky|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Grieg's Peer Gynt suites are based on the incidental music he wrote for Henrik Ibsen's play Peer Gynt."
+  },
+  "On Hearing the First Cuckoo in Spring|Frederick Delius|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "'On Hearing the First Cuckoo in Spring' is a tone poem by Frederick Delius, inspired by the sounds of nature. It incorporates a Norwegian folk song, 'In Ola Valley'. It is not directly based on a play, novel, or poem."
+  },
+  "Musikk! Musikk!||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.3,
+    "notes": "Based on the search results, there is no readily available information to suggest that 'Musikk! Musikk!' is based on a literary work. It is an orchestral piece and could be absolute music."
+  },
+  "Mascarade Suite|Johan Halvorsen|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Mascarade",
+    "source_author": "Ludvig Holberg",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "The Mascarade Suite by Johan Halvorsen was written in 1922 as incidental music for a performance of the comedy play 'Mascarade' by Ludvig Holberg."
+  },
+  "Clamavi|Arne Nordheim|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Psalm 141",
+    "source_author": "Unknown",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Clamavi (1980) per violoncello solo is inspired by Psalm 141. The Psalm begins with these words: 'Domine clamavi ad te festina mihi. exaudi vocem meam clamantis ad te'. Lord, I cry unto thee, make haste unto me! Give ear unto my voice, when I cry unto thee."
+  },
+  "Innsettelseskonsert|Boulez, Bach, Sjostakovitsj, Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Grieg's Peer Gynt is incidental music written to accompany Ibsen's play. The Innsettelseskonsert includes orchestral works by Bach, Shostakovich and Boulez, which are generally not based on literary sources. "
+  },
+  "Symphony No. 1 in D major|Gustav Mahler|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Titan",
+    "source_author": "Jean Paul Richter (Jean Paul)",
+    "source_type": "novel",
+    "confidence": 0.8,
+    "notes": "Mahler initially titled the symphony 'Titan' after Jean Paul's novel of the same name. The symphony also incorporates musical ideas from Mahler's earlier works, including his song cycle 'Lieder eines fahrenden Gesellen'. The third movement is inspired by a children's book illustration, 'The Hunter's Funeral Procession'."
+  },
+  "Symphony in C|Georges Bizet|ballet": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The ballet 'Symphony in C' choreographed by George Balanchine to Bizet's Symphony in C does not follow a specific plot and is not based on a literary work. The inspiration behind “Symphony in C” was purely musical."
+  },
+  "Kjempevise-slåtten|Harald Sæverud|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Kjempeviser",
+    "source_author": "Unknown",
+    "source_type": "poem",
+    "confidence": 0.8,
+    "notes": "The title refers to folk ballads called 'Kjempeviser'. The work is also known as 'Ballad of Revolt'. It was inspired by the sight of German barracks during the occupation of Norway in World War II."
+  },
+  "Elskovsdrikken|Gaetano Donizetti|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Le philtre",
+    "source_author": "Eugène Scribe",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The opera 'Elskovsdrikken' (L'elisir d'amore) is based on Eugène Scribe's libretto for Daniel Auber's opera 'Le philtre' (1831). Felice Romani wrote the Italian libretto for Donizetti's opera, adapting Scribe's work."
+  },
+  "Ønskekonsert med KORK 2017||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Ønskekonsert med KORK 2017 appears to be a concert program featuring various classical pieces performed by the Kringkastingsorkestret (KORK). There's no clear indication that the entire program is based on a single literary source. It is a collection of musical requests."
+  },
+  "Clocks from A Winter’s Tale|Ryan Wigglesworth|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Winter's Tale",
+    "source_author": "William Shakespeare",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Clocks from A Winter’s Tale is an orchestral work by Ryan Wigglesworth based on themes from his opera The Winter's Tale, which is itself based on Shakespeare's play."
+  },
+  "Pastorale Symphony|Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Beethoven's Symphony No. 6, also known as the Pastoral Symphony, is considered program music, meaning it attempts to musically render an extra-musical narrative. However, it is not directly based on a specific literary work like a play, novel, or poem. The symphony is inspired by Beethoven's love of nature and his experiences in the countryside. The movements have descriptive titles, such as 'Awakening of cheerful feelings upon arrival in the country' and 'Scene by the Brook,' which guide the listener's interpretation. Beethoven himself stated that the symphony is 'more the expression of feeling than painting,' emphasizing the emotional connection to nature rather than a literal depiction."
+  },
+  "Symphony No. 4|Gustav Mahler|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Des Knaben Wunderhorn (The Boy's Magic Horn)",
+    "source_author": "Clemens Brentano and Achim von Arnim (editors)",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The fourth movement, 'Das himmlische Leben' ('The Heavenly Life'), is a song based on a German folk poem from the collection 'Des Knaben Wunderhorn'. The symphony incorporates themes originating in this collection."
+  },
+  "Turangalila-Symphony|Olivier Messiaen|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Tristan and Isolde legend",
+    "source_author": "N/A",
+    "source_type": "myth",
+    "confidence": 0.9,
+    "notes": "The Turangalîla-Symphonie is part of a trilogy of works inspired by the Tristan and Isolde legend. While most of Messiaen's compositions are religious, he was fascinated by the myth of Tristan and Iseult when writing the symphony. The symphony is the central work in his trilogy of compositions concerned with romantic love and death."
+  },
+  "The Count of Monte Cristo||ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Count of Monte Cristo",
+    "source_author": "Alexandre Dumas",
+    "source_type": "novel",
+    "confidence": 0.95,
+    "notes": "The ballet 'The Count of Monte Cristo' is based on the novel 'The Count of Monte Cristo' by Alexandre Dumas."
+  },
+  "Polacca Guerriera|Ole Bull|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on available information, 'Polacca Guerriera' by Ole Bull does not appear to be directly based on a specific literary work. 'Polacca Guerriera' translates to 'Warrior Polonaise'. It is a composition showcasing technical skill. While the title suggests a martial or heroic theme, there's no evidence linking it to a particular play, novel, poem, or myth."
+  },
+  "Carmen|Bizet|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Carmen",
+    "source_author": "Prosper Mérimée",
+    "source_type": "novella",
+    "confidence": 1.0,
+    "notes": "The opera 'Carmen' by Georges Bizet is based on the novella 'Carmen' by Prosper Mérimée, published in 1845."
+  },
+  "Duke Bluebeard's Castle|Béla Bartók|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "La Barbe bleue",
+    "source_author": "Charles Perrault",
+    "source_type": "myth",
+    "confidence": 0.9,
+    "notes": "Duke Bluebeard's Castle is based on the French folk legend 'La Barbe bleue' by Charles Perrault. The opera has a Hungarian libretto by Béla Balázs."
+  },
+  "Symphony No. 5 in C minor|Ludwig van Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Beethoven's Symphony No. 5 is not directly based on a specific literary work. However, the famous opening motif has been interpreted as 'Fate knocking at the door'. The symphony reflects Beethoven's personal struggles and the historical context of the Napoleonic Wars."
+  },
+  "Symphony No. 8|Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Beethoven's Symphony No. 8 is not directly based on a literary work. While composed during a tumultuous period in Beethoven's life, including family strife and personal crisis, the symphony's inspiration is primarily musical and personal rather than literary."
+  },
+  "Symphony No. 4|Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.95,
+    "notes": "Based on available information, Beethoven's Symphony No. 4 is not directly based on a literary source like a play, novel, or poem. While some passages evoke imagery, such as the magical forest of Shakespeare's A Midsummer Night's Dream, the symphony is generally considered absolute music, focusing on musical ideas rather than a specific narrative. Some consider the symphony to be 'romantic'."
+  },
+  "Festouverture|Johannes Brahms|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Various student drinking songs",
+    "source_author": "N/A",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The Academic Festival Overture is based on a 'potpourri of student drinking songs'. It incorporates melodies from German student songs, including 'Wir haben gebauet ein stattliches Haus', 'Der Landesvater', 'Was kommt dort von der Höh'?', and 'Gaudeamus igitur'. These songs were popular in German universities and were associated with student life, celebrations, and traditions."
+  },
+  "Erik Byes vakreste sanger|Erik Bye|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": "Erik Bye",
+    "source_type": "poem",
+    "confidence": 0.6,
+    "notes": "Many of Erik Bye's songs are based on his own poems and writings. Some of his songs also incorporate texts from other recognized poets. It is therefore likely that this orchestral work includes songs based on literary sources, specifically poems."
+  },
+  "Symphony No. 5|Ralph Vaughan Williams|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Pilgrim's Progress",
+    "source_author": "John Bunyan",
+    "source_type": "novel",
+    "confidence": 0.9,
+    "notes": "Many of the musical themes in Symphony No. 5 stem from Vaughan Williams's unfinished opera 'The Pilgrim's Progress' which was inspired by John Bunyan's novel of the same name. The symphony incorporates thematic material related to themes of spiritual journey and hope. Some of the tunes and motives from the opera ended up in the symphony."
+  },
+  "9. februar 2014 · Virtuos - finale 2014||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on research, '9. februar 2014 · Virtuos - finale 2014' appears to be an orchestral piece performed during the finale of the 'Virtuosos' classical music talent show. There is no indication that this specific performance or piece is based on a literary source."
+  },
+  "Concerto for Oboe and Symphony No. 1|Martinů and Brahms|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Neither Martinů's Oboe Concerto nor Brahms' Symphony No. 1 is directly based on a literary work. Brahms' Symphony No. 1 was nicknamed 'Beethoven's Tenth' due to similarities with Beethoven's Ninth Symphony. Martinů's Oboe Concerto was written for oboist Jiří Tancibudek and shows influence from Stravinsky."
+  },
+  "Mathis der Mahler, Zigeunerweisen, Tzigane|Hindemith, Sarasate, Ravel|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Mathis der Maler",
+    "source_author": "Paul Hindemith",
+    "source_type": "opera",
+    "confidence": 0.9,
+    "notes": "Mathis der Maler by Hindemith is based on his opera of the same name, which tells a fictionalized story of the life of the painter Matthias Grünewald during the German Peasants' War. The opera explores the artist's role in society and his struggle for artistic expression. The symphony's movements are inspired by the Isenheim Altarpiece paintings by Grünewald."
+  },
+  "Kvinnelist|Domenico Cimarosa|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "play",
+    "confidence": 0.7,
+    "notes": "Kvinnelist is the Swedish title for Domenico Cimarosa's opera 'Le astuzie femminili'. 'Le astuzie femminili' translates to 'The cunning of women'. Operas are often based on pre-existing plays, though the specific play is not identified in the search results."
+  },
+  "1812 Overture|Pyotr Ilyich Tchaikovsky|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.9,
+    "notes": "The 1812 Overture commemorates Russia's successful defense against Napoleon's invasion in 1812. While it depicts historical events and incorporates musical themes like the French national anthem 'La Marseillaise' and the Russian anthem 'God Save the Tsar', it is not directly based on a specific literary work such as a play, novel, or poem."
+  },
+  "Adagio for Strings, River Suite, Rhapsody in Blue|Samuel Barber, Duke Ellington, George Gershwin, Leonard Bernstein, George Antheil|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "Adagio for Strings was inspired by Virgil's poem Georgics. River Suite is based on Duke Ellington's prose sketch of the river as a metaphor for life. Serenade after Plato's 'Symposium' by Leonard Bernstein is based on Plato's Symposium. Symphony No. 2 The Age of Anxiety by Leonard Bernstein is based on a poem by W.H. Auden. Candide by Leonard Bernstein captures Voltaire's depiction of the cynicism of society. Dybbuk by Leonard Bernstein and Jerome Robbins, is a ballet that explores Jewish mysticism. George Antheil wrote drafts of articles, books, and librettos."
+  },
+  "The Bells|Sergei Rachmaninoff|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Bells",
+    "source_author": "Edgar Allan Poe",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "Rachmaninoff's choral symphony 'The Bells' (Op. 35) is based on Edgar Allan Poe's poem 'The Bells', translated into Russian by Konstantin Balmont. Rachmaninoff set Balmont's free translation of Poe's poem to music in 1913."
+  },
+  "Album for mannssang, Opus 30|Grieg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Norwegian Folk Songs",
+    "source_author": "Various",
+    "source_type": "poem",
+    "confidence": 0.8,
+    "notes": "Album for mannssang, Opus 30, is a set of 12 Norwegian folksongs for choir. These are arrangements of melodies from Ludvig Mathias Lindeman’s extensive collection of folk music. Some of the songs are based on poems."
+  },
+  "Les préludes|Franz Liszt|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Nouvelles méditations poétiques",
+    "source_author": "Alphonse de Lamartine",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Les Préludes was inspired by an ode from Alphonse de Lamartine's Nouvelles méditations poétiques. Liszt was inspired by the poem to create a symphonic poem. The title of the piece refers to a line in Lamartine's poem."
+  },
+  "Don Juan|Richard Strauss|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Don Juans Ende",
+    "source_author": "Nikolaus Lenau",
+    "source_type": "poem",
+    "confidence": 0.95,
+    "notes": "Richard Strauss's 'Don Juan' is a tone poem based on Nikolaus Lenau's unfinished poem 'Don Juans Ende'. Strauss prefaces the score with excerpts from Lenau's poem."
+  },
+  "Tango Music||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "poem",
+    "confidence": 0.4,
+    "notes": "While tango music is not typically directly based on pre-existing literary works like plays or novels, many tango songs incorporate lyrics that are considered poetry and tell complex stories. Some tangos, such as 'Poema', are based on personal stories or events in the lyricist's life. Additionally, writer Ricardo Güiraldes wrote a poem called 'Tango' describing the music."
+  },
+  "Symphony No. 4|Peter Tchaikovsky|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "Tchaikovsky's Symphony No. 4 is considered programmatic, expressing the idea of fate and incorporating personal emotional experiences, but it is not directly based on a specific play, novel, or poem. Tchaikovsky himself provided a detailed description of the symphony's emotional program to his patroness, Nadezhda von Meck. The symphony reflects on themes of fate, happiness, and the struggles of life."
+  },
+  "Søster Angelica|Giacomo Puccini|opera": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Suor Angelica is an opera in one act by Giacomo Puccini to an original Italian libretto by Giovacchino Forzano. It is not based on a previous theatrical or literary work."
+  },
+  "A Short Ride in a Fast Machine|John Adams|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "'A Short Ride in a Fast Machine' was inspired by John Adams' experience of a thrilling ride in a sports car. It is not based on a play, novel, or poem."
+  },
+  "Fader vår|Ralph Lundsten|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "Fader vår (The Lord's Prayer)",
+    "source_author": "Christian tradition",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "Ralph Lundsten's ballet 'Fader vår' (1971) is based on the Lord's Prayer ('Fader vår' in Swedish). The work is structured around the different sections of the prayer. Ivo Cramer also created a ballet called 'Fader vår'."
+  },
+  "Cosi Fan Tutte|Wolfgang Amadeus Mozart|opera": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Così fan tutte has no explicit literary source, but it draws on themes seen repeatedly in literature and theatre, from Ovid to the Commedia dell'Arte. Some possible inspirations include Boccaccio's Decameron, Shakespeare's Cymbeline and the wager device common in medieval European literature."
+  },
+  "Scener fra Olav Trygvason|Grieg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Olav Trygvason",
+    "source_author": "Bjørnstjerne Bjørnson",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Grieg's 'Scener fra Olav Trygvason' is based on a play (or at least the beginning of one) by Bjørnstjerne Bjørnson. Bjørnson, a Norwegian poet and playwright, wrote three scenes of a libretto for an opera about Olav Trygvason, a Norwegian king. However, the opera was never completed due to a dispute between Grieg and Bjørnson."
+  },
+  "11. desember 2021 · Nobels fredspriskonsert 2021||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Romeo and Juliet",
+    "source_author": "William Shakespeare",
+    "source_type": "play",
+    "confidence": 0.7,
+    "notes": "The Nobel Peace Prize Concert 2021 included Sergei Prokofiev's 'From Romeo and Juliet Suite No. 2: Montagues and Capulets,' which is based on Shakespeare's play."
+  },
+  "MANMADE|Marius Neset|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The musical work 'MANMADE' by Marius Neset is a concerto for saxophone and symphony orchestra inspired by climate change and man-made historical innovations. It is not based on a specific literary work."
+  },
+  "Symphony No. 9|Schubert|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Schubert's Symphony No. 9 is not directly based on a literary source. While Schubert was known to set poems to music, this symphony appears to be an original, purely instrumental work."
+  },
+  "Symphony No. 1|Eivind Groven|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Unknown",
+    "source_author": "Unknown",
+    "source_type": "other",
+    "confidence": 0.6,
+    "notes": "The symphony No. 1 by Eivind Groven, subtitled 'Towards the Mountains', refers to a literary source. The specific title and author of this source are not explicitly mentioned in the provided context."
+  },
+  "Ballettmusik fra Idomeneo|Wolfgang Amadeus Mozart|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Idoménée",
+    "source_author": "Antoine Danchet, based on a play by Crébillion père",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The Ballettmusik fra Idomeneo is part of the opera Idomeneo, which is based on a French text by Antoine Danchet, which in turn was based on a 1705 play by Crébillion père. The opera tells the story of King Idomeneo of Crete, drawing inspiration from Greek mythology and Homer."
+  },
+  "Jorden rundt på 80 dager|Gisle Kverndokk|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Around the World in Eighty Days",
+    "source_author": "Jules Verne",
+    "source_type": "novel",
+    "confidence": 1.0,
+    "notes": "The opera 'Jorden rundt på 80 dager' by Gisle Kverndokk is based on Jules Verne's novel 'Around the World in Eighty Days'."
+  },
+  "Symphony No. 9|Shostakovich|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Shostakovich's Symphony No. 9 is not directly based on a literary work. Although initially intended as a celebration of the Soviet victory over Nazi Germany, it evolved into a more complex and controversial piece, with some interpreting it as a critique of Stalin's regime. There are interpretations connecting it to the political climate and Jewish culture in the Soviet Union at the time."
+  },
+  "Asrael-symfonien|Josef Suk|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Old Testament",
+    "source_author": "Unknown",
+    "source_type": "myth",
+    "confidence": 0.8,
+    "notes": "The symphony is named after Asrael, the Angel of Death in Islam and some Jewish traditions. The work is an emotional response to the deaths of Josef Suk's father-in-law, Antonín Dvořák, and his wife, Otilie Dvořáková."
+  },
+  "Rendering|Franz Schubert|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Rendering by Franz Schubert is based on sketches for his Tenth Symphony in D major. It is not based on a play, novel, or poem."
+  },
+  "Symphony No. 2|Gustav Mahler|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Die Auferstehung",
+    "source_author": "Friedrich Gottlieb Klopstock",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The fifth movement incorporates the first two stanzas of Friedrich Gottlieb Klopstock's poem 'Die Auferstehung' (Resurrection Ode), with Mahler adding his own verses. The third movement is based on Mahler's song 'St. Anthony of Padua's Sermon to the Fish' from Des Knaben Wunderhorn, a collection of German folk poetry."
+  },
+  "Symphony No. 7|Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Beethoven's Symphony No. 7 is not based on a specific literary work. It is considered absolute music, meaning it is about the notes themselves rather than depicting something outside the world of music. Some commentators have suggested possible influences, such as the metrical patterns of classical poetry or the rustic character of folk songs. Richard Wagner described it as 'the apotheosis of the dance'."
+  },
+  "Symphony No. 7 \"Salme\"|Harald Sæverud|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Symphony No. 7 'Salme' by Harald Sæverud, while not directly based on a specific literary work, carries the subtitle 'the symphony of adversity, battle, faith and acknowledgment. Father's and mother's symphony'. It was written during World War II and reflects the composer's personal feelings about the war and the occupation of Norway. The symphony is also known as 'Psalm'."
+  },
+  "Vår med Kringkastingsorkestret|Alf Prøysen and Johan Halvorsen|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Vår",
+    "source_author": "Alf Prøysen",
+    "source_type": "poem",
+    "confidence": 0.8,
+    "notes": "Vår, also known as Vårvise, is a poem written by Alf Prøysen. It was first published in Arbeiderbladet and later in the book 'Viser på villstrå' in 1964. Johan Halvorsen composed the music for it."
+  },
+  "Den Bergtekne|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Den Bergtekne",
+    "source_author": "Magnus Brostrup Landstad",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Den Bergtekne, Op. 32 by Edvard Grieg is based on the poem 'Den Bergtekne' collected by Magnus Brostrup Landstad in Norske Folkeviser (Norwegian Folk Ballads). The work is a mini-cantata for baritone, two horns, and strings, telling the story of a young man bewitched in the mountains."
+  },
+  "Symphony No. 41|Mozart|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "There is no evidence suggesting that Mozart's Symphony No. 41, also known as the 'Jupiter' Symphony, is based on a literary work. The symphony's nickname, 'Jupiter,' was likely given after Mozart's death by Johann Peter Salomon, an impresario, due to the work's grandeur."
+  },
+  "Great National Symphony and Konsertstykke for piano og orkester|Clementi and Magne Hegdal|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on available information, neither Clementi's Great National Symphony nor Magne Hegdal's Konsertstykke for piano og orkester are directly based on a literary source like a play, novel, or poem. Clementi's symphony incorporates the English national anthem, 'God Save the King'. Hegdal's work, while multifaceted, doesn't appear to have a literary basis in the traditional sense."
+  },
+  "Battalia|Heinrich von Biber|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Battalia is a programmatic work depicting battle scenes and the life of soldiers, but it is not based on a specific literary source like a play, novel, or poem. Some scholars believe the piece reflects Biber's feelings about the Thirty Years' War."
+  },
+  "Opus 33 - Tolv melodier til dikt av A. O. Vinje|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Dikt av A. O. Vinje",
+    "source_author": "Aasmund Olavsson Vinje",
+    "source_type": "poem",
+    "confidence": 0.95,
+    "notes": "Opus 33 - Tolv melodier til dikt av A. O. Vinje (Twelve Melodies to Poems by A. O. Vinje) by Edvard Grieg is a song cycle based on poems by Aasmund Olavsson Vinje. Aasmund Olavsson Vinje was a Norwegian poet and journalist."
+  },
+  "Symphony No. 3 ''Liturgique''|Arthur Honegger|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Dies irae, De profundis clamavi, Dona nobis pacem",
+    "source_author": "Catholic liturgy and Psalm 130",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The symphony's movements are named after liturgical texts: 'Dies irae' from the Requiem Mass and 'De profundis clamavi' from Psalm 130, and 'Dona nobis pacem' from the Mass."
+  },
+  "The Hebrides Overture|Felix Mendelssohn|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Hebrides Overture was inspired by Mendelssohn's visit to Fingal's Cave in Scotland. It is a concert overture and does not tell a specific story, but rather depicts a mood and sets a scene. It is not based on a play, novel, or poem."
+  },
+  "Operakonsert med Felicia Weathers og Kringkastingsorkestret|Guiseppe Verdi|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Various",
+    "source_author": "Various",
+    "source_type": "play|novel|poem",
+    "confidence": 0.9,
+    "notes": "Giuseppe Verdi composed many operas based on literary sources, including plays by Shakespeare (e.g., *Otello*, based on *Othello*; *Falstaff*, based on *The Merry Wives of Windsor*), novels such as *La Dame aux Camélias* (adapted as *La traviata*), and poems. It is highly probable that the 'Operakonsert med Felicia Weathers og Kringkastingsorkestret' includes excerpts from such operas."
+  },
+  "Don Juan|Mozart|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "El burlador de Sevilla y convidado de piedra (The Trickster of Seville and the Stone Guest)",
+    "source_author": "Tirso de Molina (pen name of Gabriel Téllez)",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Mozart's opera Don Giovanni is based on the legend of Don Juan, which first appeared in Tirso de Molina's play. Lorenzo Da Ponte's libretto also drew from plays by Molière and Bertati."
+  },
+  "Futuration|Knut Vaage|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no indication that \"Futuration\" by Knut Vaage is based on a literary source. While Vaage has created other works based on literary sources, such as the opera \"Someone Is Going To Come\" based on a play by Jon Fosse, no such connection exists for \"Futuration.\""
+  },
+  "Ballade|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Den nordlandske bondestand (The Northland Peasantry)",
+    "source_author": "Kirstine Aas",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The Ballade is a set of variations on a Norwegian folk song, 'Den nordlandske bondestand,' which was sung to Kirstine Aas's poem. Grieg took the melody from Ludwig Matthias Lindeman's collection."
+  },
+  "Requiem in D minor|Wolfgang Amadeus Mozart|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Requiem Mass texts",
+    "source_author": "Various (liturgical)",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The Requiem in D minor uses the traditional Requiem Mass texts, which have evolved since the 7th century. These texts are liturgical in nature and not attributable to a single author or literary work."
+  },
+  "Lohengrin, Prelude to Act III|Richard Wagner|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Parzival and Lohengrin",
+    "source_author": "Wolfram von Eschenbach",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The opera Lohengrin is based on medieval German romance, notably Wolfram von Eschenbach's epic poem 'Parzival' and its sequel 'Lohengrin'. It is part of the Knight of the Swan legend."
+  },
+  "Les Illuminations, Destructive War (Belahazzar)|Benjamin Britten, Georg Friedrich Händel|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Les Illuminations",
+    "source_author": "Arthur Rimbaud",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "Les Illuminations by Benjamin Britten is a song cycle setting verse and prose poems by Arthur Rimbaud. Belshazzar by Handel is an oratorio with a libretto by Charles Jennens, based on the Biblical account of the fall of Babylon in the Book of Daniel, as well as historical sources from Herodotus and Xenophon."
+  },
+  "Symphonie fantastique|Hector Berlioz|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "Symphonie fantastique is a programmatic symphony, meaning it tells a story. Berlioz wrote his own program notes for the piece, detailing the story of an artist who poisons himself with opium due to unrequited love, and experiences a series of visions. The symphony was inspired by Berlioz's infatuation with actress Harriet Smithson, whom he saw in a performance of Shakespeare's Hamlet. The title was inspired by the Tales of Hoffmann. The program should be considered as the spoken text of an opera."
+  },
+  "Bolero|Ravel|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Bolero was commissioned as a ballet for dancer Ida Rubinstein. Ravel was asked to orchestrate pieces by Albéniz, but instead composed a new piece based on the bolero, a Spanish dance musical form. Some consider the rhythms more like a fandango or seguidilla than a bolero. Ravel himself called Boléro 'an experiment . . . consisting wholly of orchestral texture . . . one long, very gradual crescendo'."
+  },
+  "Olav Tryggvason|Ragnar Søderlind|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Olav Tryggvason",
+    "source_author": "Knut Jørgen Moe and Bjørnstjerne Bjørnson",
+    "source_type": "play",
+    "confidence": 0.8,
+    "notes": "Ragnar Søderlind's opera 'Olav Tryggvason' is based on the historical figure Olav Tryggvason, a King of Norway. The libretto incorporates text adapted from Knut Jørgen Moe and Bjørnstjerne Bjørnson. Bjørnson had initially developed three scenes for an opera on the subject, which Edvard Grieg also worked on. Although Grieg's version was never completed, Bjørnson's text served as a literary basis."
+  },
+  "Symphony No. 7|Dvořák|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.8,
+    "notes": "Dvořák's Symphony No. 7 was inspired by a growing nationalist movement among the Czech people and his desire to express Czech patriotism. Some suggest the symphony reflects his personal struggles and grief. There is no evidence suggesting it is based on a specific literary work."
+  },
+  "Symphonic Dances|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Grieg's Symphonic Dances are inspired by Norwegian folk melodies collected by Ludvig Mathias Lindeman. The dances are based on traditional Norwegian dances such as the Halling and Springar. While the work isn't based on a specific literary work, it draws inspiration from Norwegian folk traditions."
+  },
+  "Tres Aires Chilenos, Spur for akkordion, Enigma Variations|Enrique Soro, Arne Nordheim, Edward Elgar|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Tres Aires Chilenos is based on Chilean folk music. Spur for accordion by Arne Nordheim reflects a deep interest in poetry and literature and is based on literary sources concerning the great mysteries of life. Enigma Variations by Edward Elgar are musical sketches of his friends and contain a hidden melody."
+  },
+  "A Child of Our Time|Michael Kemp Tippett|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Ein Kind unserer Zeit",
+    "source_author": "Ödön von Horváth",
+    "source_type": "novel",
+    "confidence": 0.9,
+    "notes": "The title of Michael Tippett's oratorio 'A Child of Our Time' was inspired by Ödön von Horváth's novel 'Ein Kind unserer Zeit'. The oratorio also deals with the broader theme of man's inhumanity to man, inspired by the assassination of a German diplomat by a Jewish refugee and the subsequent Kristallnacht. While the title comes from Horváth, the libretto is by Michael Tippett himself."
+  },
+  "Appalachian Spring|Aaron Copland|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "Appalachian Spring is a ballet with music by Aaron Copland and choreography by Martha Graham. It tells the story of a young couple in 19th-century Pennsylvania as they prepare for their wedding and life together. The ballet was commissioned by the Elizabeth Sprague Coolidge Foundation. The title 'Appalachian Spring' comes from a poem by Hart Crane. The ballet explores themes of hope, love, and the challenges of starting a new life on the American frontier."
+  },
+  "Overture to Iphigenia in Aulis and Cello Concerto in D major|Christoph Willibald Gluck and Joseph Haydn|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Iphigenia in Aulis",
+    "source_author": "Euripides",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The Overture to Iphigenia in Aulis by Christoph Willibald Gluck is based on his opera *Iphigénie en Aulide*. The libretto for the opera was written by François-Louis Gand Le Bland Du Roullet and was based on Jean Racine's tragedy *Iphigénie*, which itself was based on Euripides' play *Iphigenia in Aulis*. Haydn's Cello Concerto in D major is not based on a literary source."
+  },
+  "Symphony No. 36|Mozart|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 1.0,
+    "notes": "Mozart's Symphony No. 36, also known as the Linz Symphony, was composed in Linz in 1783 without a known literary source. It was written in great haste for a concert."
+  },
+  "Symphony No. 6 in A major|Anton Bruckner|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on the search results, Bruckner's Symphony No. 6 in A major is not based on a literary work. The symphony is an abstract musical work and is not considered program music."
+  },
+  "1. januar 2003 · Godt musikkår 2003||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on available information, '1. januar 2003 · Godt musikkår 2003' is likely an original orchestral work and not based on a literary source. Further research into program notes or the composer might reveal more information."
+  },
+  "Finne veien hjem – Trygve Skaug med KORK||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Finne veien hjem",
+    "source_author": "Trygve Skaug",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The musical work \"Finne veien hjem – Trygve Skaug med KORK\" is based on a poem by Trygve Skaug. Trygve Skaug is a known Norwegian poet, songwriter and musician. \"Finne veien hjem\" is a song with lyrics written by Trygve Skaug."
+  },
+  "Ungarische Tänze|Johannes Brahms|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Hungarian Dances are based on Hungarian folk music and melodies, not a literary work. Johannes Brahms arranged existing Hungarian dance melodies for piano, and later for orchestra."
+  },
+  "Caminos del Inka, Inka-veien||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Caminos del Inka refers to the Inca road system. It is a musical journey along the Inca Trails. The music is inspired by ancient melodies. It is not directly based on a play, novel, or poem. It is based on the culture and history of the Inca civilization."
+  },
+  "Julemeloditimen med KORK||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on available information, 'Julemeloditimen med KORK' does not appear to be based on a specific literary work. It seems to be a collection of Christmas songs and melodies."
+  },
+  "Unknown, a concert of requested pieces||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.2,
+    "notes": "It is impossible to determine if \"Unknown, a concert of requested pieces\" is based on a literary work without knowing the specific pieces performed in the concert. Orchestral music is often inspired by literary sources. Some famous examples include works based on Shakespeare's plays, Goethe's poems, and novels by Tolstoy."
+  },
+  "584. Geirr Tveitt og Jean Sibelius|Geirr Tveitt and Jean Sibelius|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.6,
+    "notes": "The orchestral work by Geirr Tveitt often draws inspiration from Norwegian folk music and mythology. Some of Jean Sibelius's works are inspired by Nordic mythology and the Finnish national epic, the Kalevala. Without specific information about the piece '584. Geirr Tveitt og Jean Sibelius', it is difficult to determine the literary source. However, given the composers' tendencies, it is likely based on folk tales or mythology."
+  },
+  "Highlights from BergenPhiLive||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.4,
+    "notes": "It is not possible to determine whether 'Highlights from BergenPhiLive' is based on a literary work without knowing the specific pieces included in the 'Highlights' compilation. Bergenphilive.no offers a streaming service with a selection of works performed by the Bergen Philharmonic Orchestra. The orchestra's repertoire includes pieces based on literary sources, such as Grieg's 'Peer Gynt' based on Ibsen's play. However, without a list of the specific pieces in 'Highlights from BergenPhiLive,' it's impossible to confirm if it is based on a literary work."
+  },
+  "Symphony No. 2|Otto Winter-Hjelm|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "While not directly based on a literary work, some versions of the original manuscript of Otto Winter-Hjelm's Symphony No. 2 included movement titles evoking Norwegian themes: 'Viking life', 'Life in the Mountains' and 'Night Fantasies'. This suggests a programmatic element, drawing inspiration from Norwegian folk life and nature, but not a specific literary source."
+  },
+  "Lyden av Vigeland||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "Based on the available search results, \"Lyden av Vigeland\" is likely inspired by the Vigeland Sculpture Park in Oslo, Norway. The park contains sculptures by Gustav Vigeland depicting the human experience and stages of life. While the musical work evokes the themes and imagery of the park, it doesn't appear to be directly based on a specific play, novel, or poem. It is an interpretation of the sculptures and the park's overall artistic concept."
+  },
+  "Sommernetter|Hector Berlioz|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "La comédie de la mort",
+    "source_author": "Théophile Gautier",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Sommernetter (Les Nuits d'été) is a song cycle by Hector Berlioz, a setting of six poems by Théophile Gautier from his collection La comédie de la mort."
+  },
+  "Catch Light|Nils Henrik Asheim|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no indication that Nils Henrik Asheim's 'Catch Light' is based on a literary source. 'Catch Light' is a double concerto for violin, percussion, and orchestra. The title refers to the reflections seen in the eyes of a subject in photography."
+  },
+  "Symphony No. 1 in D major|Sergei Prokofiev|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Prokofiev's Symphony No. 1 in D major, Op. 25, also known as the Classical Symphony, is not based on a literary work. It is a neo-classical work composed as a reinterpretation of the classical style of Haydn and Mozart."
+  },
+  "Symphony in C minor|Edvard Grieg|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Grieg's Symphony in C minor is not based on a literary source. While Grieg is known for his incidental music to Ibsen's play 'Peer Gynt,' the symphony itself appears to be an independent work."
+  },
+  "Sang til Bergen|Johan Nordahl Brun|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Udsigter fra Ulriken",
+    "source_author": "Johan Nordahl Brun",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "\"Sang til Bergen\" is based on the poem \"Udsigter fra Ulriken\" (Views from Ulriken) written in 1790 by Johan Nordahl Brun. It is also known as \"Bergenssangen\", \"Bergensiana\", \"Jeg tok min nystemte\". The song describes the view from Mount Ulriken, one of the seven mountains surrounding Bergen."
+  },
+  "Symphony No. 5|Ludwig van Beethoven|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "While the symphony is not directly based on a literary work, the opening motif has been interpreted as 'fate knocking at the door'. The symphony embodies a journey from struggle to triumph."
+  },
+  "Symphony No. 1|Jean Sibelius|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "While Sibelius initially had a programmatic concept for the symphony with inspiration from Heine and Juhani Aho's novel Panu, this plan was not carried out. Some critics tried to apply a program to Symphony No. 1, but Sibelius never stated one."
+  },
+  "Klassisk japansk musikk og dans||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "myth",
+    "confidence": 0.6,
+    "notes": "Classical Japanese music and dance, encompassing forms like Kabuki, Noh, and Nihon Buyo, often draw inspiration from Japanese mythology, legends, literature, and historical events. Kagura dances, for example, enact stories from Japanese mythology. Noh plays frequently adapt tales from traditional literature, featuring supernatural beings and historical figures. While a specific literary source for all classical Japanese music and dance cannot be identified, the influence of narrative and storytelling is prevalent."
+  },
+  "Symphony No. 1|Otto Winter-Hjelm|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "While there's no direct evidence linking Otto Winter-Hjelm's Symphony No. 1 to a specific literary work, some manuscripts of his Symphony No. 2 have movement titles evoking 'Viking life', 'Life in the Mountains' and 'Night Fantasies'. This suggests a possible connection to broader themes or imagery, but not a direct adaptation of a play, novel, or poem for Symphony No. 1."
+  },
+  "Bajaderen||operetta": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "The operetta 'Die Bajadere' by Emmerich Kálmán, with a libretto by Julius Brammer and Alfred Grünwald, is not directly based on a pre-existing literary work like a play, novel, or poem. The plot revolves around Prince Radjami's infatuation with actress Odette Darimonde, who stars in an operetta also titled 'La Bayadère'. While the title and setting evoke the European fascination with India and temple dancers ('Bajadere'), the operetta's story appears to be original."
+  },
+  "Et snev av evig|Geir Holmsen|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": "Lars Saabye Christensen",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The orchestral work \"Et snev av evig\" by Geir Holmsen is based on lyrics/poems by the author Lars Saabye Christensen. The work is a collaboration between Holmsen, Christensen, and Maj Britt Andersen."
+  },
+  "Piano Sonata in C minor, Opus III|Beethoven|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Beethoven's Piano Sonata in C minor, Opus III (likely a typo and should be Opus 13 or Opus 10 No. 1 or Opus 111) is not directly based on a literary work. While some musicologists have drawn comparisons between Beethoven's Piano Sonata No. 8 'Pathétique' and Mozart's piano sonata K. 457, this is a musical influence rather than a literary source. Similarly, Beethoven's Sonata No. 32 in C minor, Op. 111 has some points of contact with the Bach Partita."
+  },
+  "Lontano|György Ligeti|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on the search results, Ligeti's 'Lontano' is not directly based on a literary source like a play, novel, or poem. The title 'Lontano' means 'in the distance' in Italian, which relates to the character of the music. Ligeti himself described the work as depicting the 'opening and closing of a window on long submerged dream worlds of childhood'. The piece is known for its innovative micropolyphony and sound textures."
+  },
+  "Symphonies for Wind Instruments and Concerto for Piano and Winds|Stravinsky|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, neither Stravinsky's 'Symphonies for Wind Instruments' nor his 'Concerto for Piano and Winds' are directly based on a literary source like a play, novel, or poem. 'Symphonies of Wind Instruments' was dedicated to the memory of Claude Debussy and incorporates a chorale initially intended for a memorial volume. The 'Concerto for Piano and Wind Instruments' was written during Stravinsky's neoclassical period."
+  },
+  "Pictures From a Sinking City and Trombonekonsert|Maja Ratkje and Nino Rota|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no indication that either 'Pictures From a Sinking City' by Maja Ratkje or 'Trombonekonsert' by Nino Rota are based on a literary source. 'Pictures From a Sinking City' seems to evoke imagery of sinking cities like Venice or Atlantis, but it is not directly based on a specific literary work. Nino Rota composed operas based on literary works such as H.C. Andersen's 'The Swineherd' and Eugène Labiche's play 'Il cappello di paglia di Firenze', but there is no evidence his Trombone Concerto is based on a literary work."
+  },
+  "Passacaglia|Johan Halvorsen|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 1.0,
+    "notes": "Johan Halvorsen's Passacaglia is based on a theme from George Frideric Handel's Harpsichord Suite No. 7 in G minor. It is not based on a play, novel, or poem."
+  },
+  "Don Quixote|Richard Strauss|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Don Quixote",
+    "source_author": "Miguel de Cervantes",
+    "source_type": "novel",
+    "confidence": 1.0,
+    "notes": "Richard Strauss's 'Don Quixote' is a tone poem based on Miguel de Cervantes' novel 'Don Quixote de la Mancha'. The solo cello represents Don Quixote, and the solo viola, tenor tuba, and bass clarinet depict his squire Sancho Panza."
+  },
+  "Symphony No. 6 and 7|Jean Sibelius|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While Sibelius was inspired by Finnish folklore and nature, there's no direct evidence that Symphony No. 6 or 7 is based on a specific literary work. Symphony No. 7 does contain material from Kuutar, a never-completed symphonic poem whose title roughly means \"Moon Spiritess\"."
+  },
+  "Czardasfyrstinnen|Emmerich Kálmán|operetta": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "Die Csárdásfürstin is an operetta in three acts by Hungarian composer Emmerich Kálmán, with libretto by Leo Stein and Bela Jenbach. It premiered in Vienna at the Johann Strauss Theater on 17 November 1915. The story explores the love affair between an aristocratic gentleman and a sultry cabaret singer."
+  },
+  "Nachruf for strykere og Magma for stort orkester|Arne Nordheim|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, there is no direct evidence that 'Nachruf for strykere' or 'Magma for stort orkester' by Arne Nordheim are based on specific literary works. While Nordheim was known to draw inspiration from literature and poetry in some of his other compositions, these particular orchestral works are not explicitly linked to any literary source."
+  },
+  "New Year's Concert with OFO||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "New Year's Concerts, such as those performed by the Vienna Philharmonic, typically feature music from the Strauss family and their contemporaries. These concerts are known for their lively and nostalgic character, but are not directly based on a specific literary work. The OFO could refer to multiple orchestras, including the Oslo Philharmonic Orchestra or the Ozark Festival Orchestra."
+  },
+  "Symphony No. 4 in G major|Gustav Mahler|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Des Knaben Wunderhorn",
+    "source_author": "Anonymous (German folk poetry)",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "The fourth movement of Mahler's Symphony No. 4 incorporates the song \"Das himmlische Leben\" (\"The Heavenly Life\"), which sets a poem from the collection Des Knaben Wunderhorn. This collection is a compilation of German folk poetry."
+  },
+  "Symphony No. 1 in C minor|Johannes Brahms|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "While Brahms' Symphony No. 1 wasn't directly based on a specific literary work, some scholars have noted possible influences or connections to literary and philosophical ideas. For example, the finale includes a melody reminiscent of Beethoven's Ninth Symphony, which is based on Schiller's poem 'Ode to Joy'. Also, the symphony has been linked to the 'Sturm und Drang' period due to its emotional intensity. Additionally, a precursor of the alphorn theme was inspired by a Swiss folk song and a poem by Eichendorff. However, these are more thematic or inspirational links rather than a direct adaptation of a literary source."
+  },
+  "Symphony No. 8 (Unfinished)|Franz Schubert|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "There is no evidence that Schubert's Symphony No. 8 (Unfinished) is based on a literary work. While some speculate about the reasons it was left incomplete, none suggest a literary connection."
+  },
+  "Anne Pedersdotter|Edvard Fliflet Bræin|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Anne Pedersdotter",
+    "source_author": "Hans Wiers-Jenssen",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "Edvard Fliflet Bræin's opera 'Anne Pedersdotter' is based on the play 'Anne Pedersdotter' by Hans Wiers-Jenssen. The play premiered in 1908 and is based on the historical figure of Anne Pedersdotter, who was burned as a witch in 1590."
+  },
+  "Symphony No. 31 in D major|Wolfgang Amadeus Mozart|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on available information, Mozart's Symphony No. 31 in D major, K. 297, also known as the 'Paris' Symphony, is not based on a literary work. It was composed in 1778 during Mozart's visit to Paris and was commissioned for performance at the Concert Spirituel."
+  },
+  "Works by Wagner and Brahms|Wagner, Brahms|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "Wagner's operas are often based on Germanic myths and legends. Some of his operas, such as *Das Liebesverbot*, are loosely based on plays like Shakespeare's *Measure for Measure*. Brahms, on the other hand, generally avoided program music and literary themes in his orchestral works. However, some of Brahms' vocal works are based on literary sources."
+  },
+  "Illuminations, Symphony No. 4|Benjamin Britten, Pjotr Tsjajkovskij|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Les Illuminations",
+    "source_author": "Arthur Rimbaud",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "Benjamin Britten's 'Illuminations, Symphony No. 4' is a song cycle based on the prose poems of Arthur Rimbaud's 'Les Illuminations'. Tchaikovsky's Symphony No. 4 has a program that the composer described in letters, but it is not based on a specific literary work."
+  },
+  "Quiet City|Aaron Copland|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Quiet City",
+    "source_author": "Irwin Shaw",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Aaron Copland's 'Quiet City' originated as incidental music for the play 'Quiet City' by Irwin Shaw. The play, staged in 1939, revolved around the internal conflicts of the main character, Gabriel Mellon. Copland reworked the music into an orchestral suite in 1940."
+  },
+  "Symphony No. 2|Sibelius|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Don Juan",
+    "source_author": null,
+    "source_type": "myth",
+    "confidence": 0.6,
+    "notes": "The second movement incorporates music Sibelius associated with an encounter between Don Juan and Death. Sibelius also considered a tone poem based on Dante's Divine Comedy."
+  },
+  "Den kløktige Serpina|Giovanni Battista Pergolesi|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "La serva padrona",
+    "source_author": "Jacopo Angello Nelli",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Den kløktige Serpina is the Norwegian title for La serva padrona. The opera is based on the play La serva padrona by Jacopo Angello Nelli, with a libretto by Gennaro Antonio Federico."
+  },
+  "Two Nordic Melodies|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Two Nordic Melodies, Op. 63, is based on Norwegian folk tunes and Grieg's own piano works. The first melody, 'In Folk Style', is based on a Nordic folk tune. The second movement combines themes from Grieg's '25 Norwegian Folk Songs and Dances', specifically 'Cow Call' and 'Peasant Dance'."
+  },
+  "Become Ocean|John Luther Adams|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Become Ocean was inspired by the oceans of Alaska and the Pacific Northwest. The title comes from a line John Cage wrote in a poem for Lou Harrison: 'Listening to it we become ocean'. The composer also included a note in the score referencing the prospect of humans becoming ocean again due to rising sea levels."
+  },
+  "Filmmusikk av Bernhard Herrmann, kammermusikk for piccolofløyte og harpe|Bernhard Herrmann|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.7,
+    "notes": "Based on the search results, there is no direct evidence that the specific musical work 'Filmmusikk av Bernhard Herrmann, kammermusikk for piccolofløyte og harpe' is based on a literary source. While Herrmann composed film scores for adaptations of literary works such as 'Jane Eyre', 'Fahrenheit 451', and 'The Devil and Daniel Webster', the provided title does not correspond to a known adaptation. It may be an original composition or part of a film score not directly based on a specific literary work."
+  },
+  "Grieg-året 1993 er i gang|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on the search results, 'Grieg-året 1993 er i gang' appears to be a performance from a festival celebrating Edvard Grieg's 150th anniversary. There's no direct indication that this specific work is based on a literary source."
+  },
+  "Subito con forza|Unsuk Chin|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Subito con forza was written as a tribute to Ludwig van Beethoven for the 250th anniversary of his birth and is not based on a literary work."
+  },
+  "Opus 66 - 19 norske folkeviser|Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "N/A",
+    "source_author": "N/A",
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "Grieg's Opus 66, '19 Norwegian Folk Songs,' is based on Norwegian folk tunes collected by Frants Beyer and others. These folk songs reflect Norwegian nature, people, and folklore. Some of the songs tell stories, such as 'I Ola-Dalom, i Ola-Kjinn,' which tells of a woman whose son disappeared into a mountain lake. While not directly based on a play, novel, or poem, the musical work draws heavily on the literary and cultural tradition of Norwegian folk songs."
+  },
+  "Flourish with Fireworks|Oliver Knussen|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Flourish with Fireworks was written to celebrate Michael Tilson Thomas's first season as principal conductor of the London Symphony Orchestra. It is a homage to Stravinsky's 'Feu d'artifice'. The music is built from the initials of the LSO and MTT."
+  },
+  "Works by Wagner|Wagner|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Norse sagas, Nibelungenlied, The Saga of the Volsungs, Poetic Edda, Prose Edda, Thidriks Saga of Bern",
+    "source_author": "Various (Germanic and Scandinavian)",
+    "source_type": "myth",
+    "confidence": 0.95,
+    "notes": "Wagner's operas, particularly the Ring Cycle, draw heavily from Norse mythology and Germanic legends, including the Nibelungenlied, the Poetic Edda, and the Saga of the Volsungs."
+  },
+  "Carmina Burana|Carl Orff|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Carmina Burana",
+    "source_author": "Anonymous Goliards and others",
+    "source_type": "poem",
+    "confidence": 0.95,
+    "notes": "Carl Orff's Carmina Burana is based on a collection of medieval poems and dramatic texts mostly from the 11th-13th century. The poems are from a manuscript of 254 poems known as Carmina Burana, meaning 'Songs from Benediktbeuern'. These poems were written in Medieval Latin, Middle High German, and old Arpitan by Goliards, who were wandering students and clergy."
+  },
+  "Symphony No. 1|Tchaikovsky|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Winter Daydreams",
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "The symphony is subtitled 'Winter Daydreams' and the first two movements also have descriptive titles, suggesting a programmatic element, although not based on a specific literary work. The last movement is based on a Russian folk song."
+  },
+  "Faust Overture|Richard Wagner|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Faust",
+    "source_author": "Johann Wolfgang von Goethe",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Richard Wagner's Faust Overture was intended to be the first movement of a Faust Symphony based on Goethe's Faust. Wagner abandoned the symphony but reworked the first movement into a concert overture."
+  },
+  "Symphony No. 7|Antonín Dvořák|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Dvořák's Symphony No. 7 was inspired by a growing nationalist movement among the Czech people and his desire to see the Czech nation flourish. While not based on a specific literary work, it reflects his personal struggle and Czech patriotism. Some suggest the troubled socio-political atmosphere of the time also influenced the symphony."
+  },
+  "Rigoletto|Giuseppe Verdi|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Le roi s'amuse",
+    "source_author": "Victor Hugo",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Rigoletto is an opera by Giuseppe Verdi, with an Italian libretto by Francesco Maria Piave, based on Victor Hugo's play 'Le roi s'amuse' (The King Amuses Himself). The play, first performed in 1832, was initially banned due to its controversial depiction of the French monarchy. Verdi's adaptation faced censorship issues as well, leading to changes in setting and character names. The opera premiered in Venice in 1851 and has become one of Verdi's most popular and critically acclaimed works."
+  },
+  "Fødselsdagen|Margrethe Munthe|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Fødselsdagen (The Birthday), also known as Hurra for deg (Hooray for you) is a song written by Margrethe Munthe in 1907 set to a Norwegian folk tune. Margrethe Munthe was a Norwegian teacher, children's writer, songwriter and playwright. She is known for authoring many books, children's poems and songs. There is no indication that the orchestral work 'Fødselsdagen' is based on a literary source."
+  },
+  "Symphony No. 3|Robert Schumann|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Schumann's Symphony No. 3, also known as the 'Rhenish' Symphony, was inspired by his experiences along the Rhine River, including a visit to Cologne Cathedral. The symphony evokes the region's natural beauty, folk traditions, and architectural grandeur. Although the symphony is inspired by the Rhine River and the Cologne Cathedral, it is not directly based on a specific literary work."
+  },
+  "Rosamunde|Schubert|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Rosamunde, Fürstin von Zypern (Rosamunde, Princess of Cyprus)",
+    "source_author": "Helmina von Chézy",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Franz Schubert composed incidental music for Helmina von Chézy's play 'Rosamunde, Fürstin von Zypern'. The play premiered in Vienna on December 20, 1823."
+  },
+  "Fra Pélleas og Mélisande; Sanger i orkesterarrangement|Jean Sibelius, Franz Schubert|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Pelléas et Mélisande",
+    "source_author": "Maurice Maeterlinck",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "Jean Sibelius composed incidental music for Maurice Maeterlinck's play Pelléas and Mélisande in 1905. The play premiered in 1893 and is a Symbolist drama."
+  },
+  "To elegiske melodier|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "12 Melodies, Op. 33 (Hjertesår and Våren)",
+    "source_author": "Aasmund Olavsson Vinje",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "To elegiske melodier (Two Elegiac Melodies), Op. 34, is based on two songs from Edvard Grieg's 12 Melodies, Op. 33, which set poems by Aasmund Olavsson Vinje for voice and piano. The two songs transcribed for string orchestra are 'The Wounded Heart (Hjertesår)' and 'The Last Spring (Siste vår)'."
+  },
+  "Jubileumskonsert|Johan Svendsen|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on available information, 'Jubileumskonsert' by Johan Svendsen is not directly based on a literary source like a play, novel, or poem. While Svendsen did compose works inspired by literary themes (e.g., Romeo and Juliet), there's no evidence to suggest that 'Jubileumskonsert' falls into this category."
+  },
+  "The Magic Flute|Mozart|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Multiple sources, including Yvain by Chrétien de Troyes, Life of Sethos by Jean Terrasson, and others",
+    "source_author": "Chrétien de Troyes, Jean Terrasson, and others",
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "The libretto by Emanuel Schikaneder is based on various sources, including literary works, fairy tales, and Masonic symbolism. Prominent literary influences include the medieval romance *Yvain* by Chrétien de Troyes and the novel *Life of Sethos* by Jean Terrasson. Other influences include folk tales, earlier theatrical productions, and the essay *On the mysteries of the Egyptians* by Ignaz von Born."
+  },
+  "Sonata pian' e forte|Giovanni Gabrieli|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.9,
+    "notes": "Based on the search results, Giovanni Gabrieli's Sonata pian' e forte is an instrumental piece that is not based on a literary source. The title refers to the use of soft and loud dynamics. It was likely written for a Catholic service at St Mark's Basilica in Venice."
+  },
+  "Symphonic Dances, Op. 45|Sergei Rachmaninoff|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While not directly based on a literary work, Rachmaninoff considered turning Symphonic Dances into a ballet and discussed it with choreographer Michel Fokine. The initial sketches included ideas from a rejected ballet score called 'The Scythians'. The movements were initially titled 'Noon', 'Twilight', and 'Midnight'."
+  },
+  "Anything Goes||operetta": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "The musical 'Anything Goes' has a book written by Guy Bolton and P.G. Wodehouse, with revisions by Howard Lindsay and Russel Crouse. The story is about the madcap antics aboard an ocean liner. While the story is fictional, it is not based on a pre-existing play, novel, or poem, but rather a new story created for the musical."
+  },
+  "17. mars 1992 · Da Capo!||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "Based on the search results, 'Da Capo' is a musical term meaning 'from the beginning'. It's a directive to repeat a previous part of the music. Without further information about the specific orchestral piece '17. mars 1992 · Da Capo!', it's difficult to determine if it's based on a literary work. It is more likely that 'Da Capo' refers to the musical instruction within the piece itself."
+  },
+  "Symphony No. 1|Ludvig Irgens-Jensen|symphony": {
+    "is_based_on_literary_work": true,
+    "source_title": "Dragsug (Maelstrom)",
+    "source_author": "Ludvig Irgens-Jensen",
+    "source_type": "poem",
+    "confidence": 0.8,
+    "notes": "The Symphony No. 1 by Ludvig Irgens-Jensen is based on his original written poem 'Dragsug (Maelstrom)'. The poem reflects mixed feelings on humanity, seeing its capacity for peace but also for darker deeds."
+  },
+  "Festkonsert med Harmonien||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "Based on available information, it is unlikely that 'Festkonsert med Harmonien' is directly based on a specific literary work. 'Festkonsert med Harmonien' translates to 'Festive Concert with the Harmony'. 'Harmonien' refers to the Bergen Philharmonic Orchestra. 'Festkonsert' suggests a celebratory concert, and without a known composer or specific program, determining a literary basis is difficult. Orchestral works can be inspired by literature, but more information is needed to confirm this in this instance."
+  },
+  "Mysteriet Makropulos|Leos Janacek|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Věc Makropulos",
+    "source_author": "Karel Čapek",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "Leoš Janáček based his opera 'Mysteriet Makropulos' on the play 'Věc Makropulos' by Karel Čapek. The opera's libretto closely follows the original play."
+  },
+  "Symphony No. 1 in B-flat minor|William Walton|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "null",
+    "confidence": 0.9,
+    "notes": "William Walton's Symphony No. 1 in B-flat minor is not directly based on a literary work. However, the symphony is believed to be inspired by events in Walton's personal life, specifically his turbulent relationship with Baroness Imma von Doernberg, to whom the work is dedicated. The emotional journey of the symphony, particularly the first three movements, reflects the frustrations, fears, doubts, and anger associated with the end of that relationship. The final movement is said to be inspired by his subsequent love for Alice Wimborne."
+  },
+  "Music from Indiana Jones, Lawrence of Arabia, and King Kong||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Seven Pillars of Wisdom, Revolt in the Desert, Indiana Jones novelizations, King Kong (1932 novelization)",
+    "source_author": "T.E. Lawrence, Campbell Black, James Kahn, Rob MacGregor, Delos W. Lovelace",
+    "source_type": "novel",
+    "confidence": 0.9,
+    "notes": "The musical works for Indiana Jones, Lawrence of Arabia, and King Kong are based on film scores, which in turn are based on literary works. Lawrence of Arabia is based on T.E. Lawrence's autobiographical account 'Seven Pillars of Wisdom'. Indiana Jones has several novelizations of the films. King Kong's original story was novelized in 1932 by Delos W. Lovelace."
+  },
+  "Prelude to Tristan und Isolde & Symphony No. 7|Richard Wagner & Jean Sibelius|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Tristan and Iseult",
+    "source_author": "Gottfried von Strassburg",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Richard Wagner's Prelude to Tristan und Isolde is based on the medieval romance Tristan and Iseult. Jean Sibelius' Symphony No. 7 does not appear to be based on any literary source, although some material was drawn from his earlier symphonic poem Kuutar."
+  },
+  "Sylvia|Leo Delibes|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "Aminta",
+    "source_author": "Torquato Tasso",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The ballet Sylvia is based on the Italian poet Torquato Tasso's play Aminta (1573). Jules Barbier and Baron de Reinach adapted the play for the Paris Opera."
+  },
+  "Il Tabarro|Giacomo Puccini|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "La houppelande",
+    "source_author": "Didier Gold",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "Il Tabarro is a one-act opera by Giacomo Puccini, with an Italian libretto by Giuseppe Adami, based on Didier Gold's play La houppelande."
+  },
+  "Kork møter Sporten||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on the search results, 'Kork møter Sporten' does not appear to be based on a known literary work. It may be an original composition or related to a specific event or program, but there's no readily available information to confirm a literary source."
+  },
+  "Arne Nordheim 70 år|Arne Nordheim|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.6,
+    "notes": "Based on the available information, 'Arne Nordheim 70 år' is a celebratory concert held to commemorate Arne Nordheim's 70th birthday. It is not directly based on a literary source like a play, novel, or poem. However, many of Nordheim's works are inspired by literature."
+  },
+  "1. januar 2006||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.3,
+    "notes": "Based on the search results, it's difficult to determine if the orchestral work '1. januar 2006' is based on a literary source. Further research would be needed to confirm."
+  },
+  "Symphony No. 1 in E minor|Jean Sibelius|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "While Sibelius initially had a programmatic concept for the symphony, he did not carry it out, and the final version is not based on a literary work. Some critics have tried to apply a program to the symphony, but Sibelius never stated one."
+  },
+  "Symphony No. 6 in D minor, Op. 104|Jean Sibelius|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Jean Sibelius' Symphony No. 6 in D minor, Op. 104, is not directly based on a specific literary work. While Sibelius drew inspiration from Finnish mythology and nature, this symphony is considered an expression of his spiritual creed and inner life, evoking the natural world through its musical structure and themes. He described it as 'cold spring water'."
+  },
+  "Lemminkäinen|Jean Sibelius|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Kalevala",
+    "source_author": "Elias Lönnrot (compiler)",
+    "source_type": "myth",
+    "confidence": 0.95,
+    "notes": "The Lemminkäinen Suite is a set of four symphonic poems by Jean Sibelius based on the Finnish national epic, the Kalevala. The suite follows the exploits of the hero Lemminkäinen from the Kalevala."
+  },
+  "Serenade to Music|Ralph Vaughan Williams|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Merchant of Venice",
+    "source_author": "William Shakespeare",
+    "source_type": "play",
+    "confidence": 1.0,
+    "notes": "The lyrics are adapted from Act V, Scene 1 of Shakespeare's play, The Merchant of Venice."
+  },
+  "Mass in B minor|Bach|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Mass Ordinary",
+    "source_author": "N/A",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "Bach's Mass in B minor is a musical setting of the Ordinary of the Roman Catholic Mass. The text consists of the Kyrie, Gloria, Credo, Sanctus, and Agnus Dei. While most mass settings stem from the Roman Catholic tradition, Bach's Mass in B minor originated within the Lutheran liturgy. Some sections of the mass are derived from earlier cantatas and other works by Bach."
+  },
+  "4. april 1971||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.3,
+    "notes": "Based on the available information, it is not possible to determine whether the orchestral work '4. april 1971' is based on a literary source. Further research would be needed to confirm."
+  },
+  "Symphony No. 3 in F major|Johannes Brahms|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While not directly based on a literary work, some claim the two middle movements are based on sketches from an abandoned Faust project. The symphony also contains a musical quotation of the motto Frei aber froh (“Free but happy”). The first theme is a quote from Robert Schumann's Rhenish Symphony."
+  },
+  "Peter and the Wolf|Sergej Prokofiev|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peter and the Wolf",
+    "source_author": "Sergei Prokofiev",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "Sergei Prokofiev wrote both the music and the libretto for 'Peter and the Wolf'. Although some sources suggest it is based on Russian folk tales, Prokofiev created his own story for the work."
+  },
+  "\"Våren\", \"Omnes gentes\", \"Ouverture\", \"Air\", \"Gavotte\"|Vivaldi, Gabrieli, Bach|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Le quattro stagioni (The Four Seasons)",
+    "source_author": "Possibly Antonio Vivaldi",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Vivaldi's \"Våren\" (Spring) is part of \"The Four Seasons,\" a series of four violin concerti. Each concerto is accompanied by a sonnet, possibly written by Vivaldi himself, that describes the season. Gabrieli's \"Omnes gentes\" is based on Psalm 47:1-5. Bach's orchestral suites, including movements like \"Ouverture\", \"Air\", and \"Gavotte\", are not directly based on a specific literary work, but the \"Ouverture\" is derived from the French overture style, and the other movements are based on dance forms."
+  },
+  "Fru Luna|Paul Lincke|operetta": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "other",
+    "confidence": 0.8,
+    "notes": "The operetta 'Fru Luna' by Paul Lincke, premiered in 1899, has a libretto by Heinrich Bolten-Baeckers. It is a comedy about three men who construct a spaceship to fly to the moon. The scene of the story is Berlin and the Moon World."
+  },
+  "Symphony No. 9|Gustav Mahler|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While Mahler's Symphony No. 9 is not directly based on a specific literary work, it is widely considered to be a deeply personal and emotional piece, reflecting on themes of death, farewell, and the end of an era. Some interpret the symphony as Mahler's farewell to life, influenced by personal tragedies and his awareness of a fatal heart condition. The symphony also contains a quote from Mahler's own 'Kindertotenlieder'."
+  },
+  "Apocalypsis Joannis|Knut Nystedt|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Book of Revelation (also known as the Book of the Apocalypse or the Apocalypse of John)",
+    "source_author": "John of Patmos (authorship debated)",
+    "source_type": "other",
+    "confidence": 0.95,
+    "notes": "Knut Nystedt's 'Apocalypsis Joannis' is inspired by the texts in The Book of Revelation. The work is based on letters written to church members in Asia Minor that describe Saint John's heavenly visions and revelations. The piece is divided into four parts, drawing inspiration from specific chapters and verses within Revelation."
+  },
+  "Pilegrim – en livsreise|Gjermund Larsen|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on the search results, there is no indication that 'Pilegrim – en livsreise' by Gjermund Larsen is based on a literary work. It appears to be an original orchestral composition."
+  },
+  "Lyric Suite|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "The Lyric Suite by Edvard Grieg is an orchestral arrangement of four pieces from his 'Lyric Pieces, Op. 54' for solo piano. The Lyric Pieces are Grieg's original compositions, inspired by Norwegian folk music and nature, and not based on any pre-existing literary source. While one of the pieces, 'March of the Trolls,' evokes creatures from Norwegian folklore, it's not an adaptation of a specific myth or literary work."
+  },
+  "The Marriage of Figaro|Mozart|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "La Folle Journée, ou Le Mariage de Figaro",
+    "source_author": "Pierre-Augustin de Beaumarchais",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "The opera 'The Marriage of Figaro' by Mozart is based on Beaumarchais' play 'La Folle Journée, ou Le Mariage de Figaro'. The play is the second in a trilogy."
+  },
+  "Gurre-Lieder|Arnold Schönberg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Gurresange (Songs of Gurre)",
+    "source_author": "Jens Peter Jacobsen",
+    "source_type": "poem",
+    "confidence": 1.0,
+    "notes": "Arnold Schoenberg's Gurre-Lieder is based on the poem cycle 'Gurresange' (Songs of Gurre) by the Danish writer Jens Peter Jacobsen. The poem is part of Jacobsen's 1868 novella titled *A Cactus Blooms*. The German translation of the poem was done by Robert Franz Arnold. The poem recounts the medieval legend of King Waldemar IV of Denmark (1320–1375) and his love for his mistress, Tove, and her subsequent murder by the Queen Helvig."
+  },
+  "23. august 1984||choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "1984",
+    "source_author": "George Orwell",
+    "source_type": "novel",
+    "confidence": 0.9,
+    "notes": "The title '23. august 1984' strongly suggests a connection to George Orwell's dystopian novel '1984'. Many artistic works have been inspired by this novel."
+  },
+  "Aske, Skodde, Støv for Vinden|Grieg|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.7,
+    "notes": "The phrase 'Aske, Skodde, Støv for Vinden' is a quote from Ibsen's play 'Peer Gynt'. Grieg famously composed music for this play, and many ballets have been based on it."
+  },
+  "As if the law is everything|Henrik Hellstenius|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "As if the law is everything",
+    "source_author": "Unknown",
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "The musical work 'As if the law is everything' by Henrik Hellstenius is based on a text. The author of the text is currently unknown."
+  },
+  "Pulcinella|Stravinsky|ballet": {
+    "is_based_on_literary_work": true,
+    "source_title": "Quatre Polichinelles semblables",
+    "source_author": null,
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The ballet Pulcinella is based on the 18th-century play 'Quatre Polichinelles semblables' (Four similar Pulcinellas), which revolves around the character of Pulcinella from the commedia dell'arte. The story is taken from a manuscript from Naples dating back to 1700, featuring comedies portraying the traditional character of the popular Neapolitan stage."
+  },
+  "Symphony No. 5 in E minor, Op. 64|Pyotr Ilyich Tchaikovsky|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While Tchaikovsky's Symphony No. 5 isn't directly based on a specific literary work, it appears the composer had a program in mind related to fate and resignation. However, he disliked attempts to interpret musical processes in too literal a manner. The symphony is considered to have no clear program."
+  },
+  "Symphony No. 35 in D major, K. 385|Wolfgang Amadeus Mozart|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Mozart's Symphony No. 35, also known as the Haffner Symphony, was composed in 1782. It was commissioned by the Haffner family for the occasion of the ennoblement of Sigmund Haffner the Younger. The symphony was adapted from a serenade written for the occasion."
+  },
+  "A suite of poems|Ketil Bjørnstad|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "A Suite of Poems",
+    "source_author": "Lars Saabye Christensen",
+    "source_type": "poem",
+    "confidence": 0.95,
+    "notes": "Ketil Bjørnstad's 'A Suite of Poems' is a song cycle based on poems written by Norwegian-Danish author Lars Saabye Christensen. These poems were sent to Bjørnstad over several years, capturing the essence of travel and solitude. Bjørnstad then set these poems to music."
+  },
+  "Elektra|Richard Strauss|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Electra",
+    "source_author": "Sophocles",
+    "source_type": "play",
+    "confidence": 0.95,
+    "notes": "Richard Strauss's opera Elektra is based on Hugo von Hofmannsthal's drama Elektra, which itself is an adaptation of Sophocles's play Electra."
+  },
+  "Landkjenning, Op. 31|Edvard Grieg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Landkjenning",
+    "source_author": "Bjørnstjerne Bjørnson",
+    "source_type": "poem",
+    "confidence": 0.95,
+    "notes": "Edvard Grieg's Landkjenning, Op. 31 is a choral work based on a poem by Bjørnstjerne Bjørnson. The poem tells the story of Olav Trygvason's return to Norway."
+  },
+  "Glagolitic Mass|Leoš Janáček|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Mass Ordinary",
+    "source_author": "Various",
+    "source_type": "other",
+    "confidence": 0.9,
+    "notes": "The Glagolitic Mass uses the text of the Mass Ordinary in Old Church Slavonic. The five vocal movements correspond to the Catholic Ordinary of the Mass."
+  },
+  "CCL for blåsere og slagverk|Eduard Lassen|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "Based on available information, there's no direct indication that 'CCL for blåsere og slagverk' is based on a specific literary work. However, Eduard Lassen composed incidental music for plays like Goethe's Faust and Hebbel's Die Nibelungen. Without further information about 'CCL for blåsere og slagverk', it's difficult to confirm a literary connection."
+  },
+  "Julekonsert||orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.7,
+    "notes": "'Julekonsert' translates to 'Christmas Concert' in Norwegian. These concerts are a tradition in Norway, featuring a range of performances from classical choirs to contemporary artists, often including traditional carols and international Christmas songs. While some Christmas concerts may include adaptations of stories or poems, the general concept of a 'Julekonsert' is not inherently based on a literary work."
+  },
+  "Griegsanger|Edvard Grieg|choral": {
+    "is_based_on_literary_work": true,
+    "source_title": null,
+    "source_author": null,
+    "source_type": "poem",
+    "confidence": 0.7,
+    "notes": "Griegsanger means Grieg songs. Some of Edvard Grieg's songs are settings of poems by Henrik Ibsen. For example, Grieg's Op. 25 is a collection of 6 poems by Ibsen."
+  },
+  "100 % tsjekkisk med Marie Tetzlaff og Petr Popelka|Martinů|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Based on available information, '100 % tsjekkisk med Marie Tetzlaff og Petr Popelka' by Martinů is not explicitly based on a literary source like a play, novel, or poem. It is an orchestral work. More information might be available in specialized databases of Martinů's works."
+  },
+  "Fanfare for the Common Man|Aaron Copland|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Fanfare for the Common Man was inspired by a speech by Vice President Henry A. Wallace about the 'Century of the Common Man'. It was commissioned as a patriotic gesture during World War II."
+  },
+  "Teoton|Jukka Tiensuu|orchestral": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.9,
+    "notes": "Based on the search results, there is no indication that Jukka Tiensuu's 'Teoton' is based on a literary source. The work is a concerto for sheng and orchestra. Tiensuu often gives his works ambiguous names and prefers the music to speak for itself, without providing program notes. He is inspired by various cultures."
+  },
+  "Swan Lake (Scene)|Tchaikovsky|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "German and Russian folk tales, possibly 'The Stolen Veil' and 'The White Duck'",
+    "source_author": "Johann Karl August Musaus (possible)",
+    "source_type": "other",
+    "confidence": 0.7,
+    "notes": "Swan Lake is based on Russian and German folk tales, with possible influences from 'The Stolen Veil' by Johann Karl August Musaus and the Russian folktale 'The White Duck'. The libretto is credited to Vladimir Begichev and Vasily Geltser."
+  },
+  "Parsifal|Richard Wagner|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Parzival",
+    "source_author": "Wolfram von Eschenbach",
+    "source_type": "poem",
+    "confidence": 0.9,
+    "notes": "Wagner's libretto for Parsifal is freely based on Wolfram von Eschenbach's 13th-century Middle High German chivalric romance Parzival and Chrétien de Troyes' 12th-century Old French chivalric romance Perceval ou le Conte du Graal."
+  },
+  "Symphony No. 4|Tchaikovsky|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Tchaikovsky's Symphony No. 4 is not directly based on a specific literary work like a play, novel, or poem. However, Tchaikovsky described a detailed 'program' or emotional narrative for the symphony in letters to his patroness, Nadezhda von Meck, explaining the meaning and emotions behind each movement. The symphony explores themes of fate, struggle, melancholy, and fleeting happiness. The opening fanfare represents fate, and the symphony can be interpreted as Tchaikovsky's reflection on his own life and emotional state."
+  },
+  "Olav Trygvason|Edvard Grieg|opera": {
+    "is_based_on_literary_work": true,
+    "source_title": "Olav Trygvason",
+    "source_author": "Bjørnstjerne Bjørnson",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "The opera 'Olav Trygvason' is based on a play by Bjørnstjerne Bjørnson. However, the opera was never completed due to a dispute between Grieg and Bjørnson."
+  },
+  "Den skjønne Helene|Jacques Offenbach|operetta": {
+    "is_based_on_literary_work": true,
+    "source_title": "The story of Helen of Troy",
+    "source_author": "Varied ancient Greek and Roman authors (e.g., Homer, Euripides)",
+    "source_type": "myth",
+    "confidence": 0.9,
+    "notes": "\"Den skjønne Helene\" (La belle Hélène) is an operetta that parodies the Greek myth of Helen of Troy's elopement with Paris, which started the Trojan War. The libretto is by Henri Meilhac and Ludovic Halévy. The operetta premiered in Paris in 1864."
+  },
+  "Musikalske eventyr: Snødronningen||orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "The Snow Queen",
+    "source_author": "Hans Christian Andersen",
+    "source_type": "fairy tale",
+    "confidence": 0.9,
+    "notes": "Musikalske eventyr: Snødronningen (The Snow Queen) is likely based on Hans Christian Andersen's fairy tale \"The Snow Queen\". \"The Snow Queen\" is a well-known fairy tale that has been adapted into various operas, musicals, and plays."
+  },
+  "Symphony No. 5|Pyotr Ilyich Tchaikovsky|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "Tchaikovsky's Symphony No. 5 is not directly based on a specific literary work like a play, novel, or poem. However, Tchaikovsky considered an 'unspoken program' related to fate and resignation when composing the symphony. He sketched a scenario for the first movement involving 'complete resignation before Fate'. This theme of fate is reflected in the recurring 'fate motif' throughout the symphony. While the symphony explores these themes, it doesn't adapt a particular literary source."
+  },
+  "Grieg-galla|Edvard Grieg|orchestral": {
+    "is_based_on_literary_work": true,
+    "source_title": "Peer Gynt",
+    "source_author": "Henrik Ibsen",
+    "source_type": "play",
+    "confidence": 0.9,
+    "notes": "Grieg-galla may include Peer Gynt suites which are based on Henrik Ibsen's play Peer Gynt. Grieg wrote incidental music for Ibsen's play."
+  },
+  "Symphony No. 6 in B minor|Pyotr Ilyich Tchaikovsky|symphony": {
+    "is_based_on_literary_work": false,
+    "source_title": null,
+    "source_author": null,
+    "source_type": null,
+    "confidence": 0.8,
+    "notes": "While Tchaikovsky's Symphony No. 6, also known as the Pathétique, isn't directly based on a specific literary work, it is believed to reflect on themes of life, passion, disappointment, and death. Tchaikovsky himself mentioned a program for the symphony but chose not to reveal it, suggesting it was meant to be an enigma for listeners to interpret. Some sources mention a cryptic note found among his sketches that outlines a program: 'The ultimate essence … of the symphony is Life. First part – all impulse, passion, confidence, thirst for activity. Must be short (the finale death – result of collapse). Second part love: third disappointments; fourth ends dying away (also short)'. However, it is not confirmed if this program was fully realized in the final version of the symphony."
+  }
+}

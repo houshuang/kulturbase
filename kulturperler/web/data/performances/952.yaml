@@ -1,0 +1,16 @@
+id: 952
+work_id: 904
+source: nrk
+title: Stormen
+medium: tv
+year: 1981
+description: Ballett i to akter av Glen Tetley, basert på "The Tempest" av Shakespeare,
+  med musikk av Arne Nordheim. Av Den Norske Opera ved Festspillene i Bergen.
+series_id: ballett-og-dans
+total_duration: 7238
+image_url: https://gfx.nrk.no/5xnYmdj7wPlcEfJF2tVM0wBG2zHowKbNBKXK1eLpTXHg
+credits:
+- person_id: 3238
+  role: artist/utøver
+- person_id: 3239
+  role: artist/utøver

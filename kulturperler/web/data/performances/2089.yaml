@@ -3,7 +3,9 @@ work_id: 1719
 source: youtube
 medium: stream
 title: Irgens-Jensen - Bols vise // Andris Poga
-credits: []
+credits:
+- person_id: 3794
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

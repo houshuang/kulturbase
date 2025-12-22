@@ -3,7 +3,9 @@ work_id: 1492
 source: youtube
 medium: stream
 title: 'Pyotr Ilyich Tchaikovsky: Symphony No. 6 "Pathétique" // Andris Poga'
-credits: []
+credits:
+- person_id: 3794
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

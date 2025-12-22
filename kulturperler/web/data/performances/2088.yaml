@@ -3,7 +3,13 @@ work_id: 1560
 source: youtube
 medium: stream
 title: 'Jean Sibelius: Symphony No. 2 // Kazuki Yamada'
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4116
+  role: conductor
+- person_id: 4165
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

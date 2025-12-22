@@ -3,7 +3,9 @@ work_id: 2017
 source: youtube
 medium: stream
 title: 'J.S. Bach: Cello Suite No. 3 in C major, Gigue // Aine Suzuki, viola'
-credits: []
+credits:
+- person_id: 4196
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'Mozart: Symphony No. 28 // Pasculli: Oboe Concerto on themes from Donizetti''s
   ''La Favorita'''
-credits: []
+credits:
+- person_id: 4198
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

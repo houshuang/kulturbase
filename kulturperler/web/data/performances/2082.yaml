@@ -3,7 +3,9 @@ work_id: 1676
 source: youtube
 medium: stream
 title: 'Sergei Rachmaninoff: Symphony No. 2 // Andris Poga'
-credits: []
+credits:
+- person_id: 3794
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

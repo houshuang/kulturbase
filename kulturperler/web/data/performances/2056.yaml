@@ -3,7 +3,13 @@ work_id: 1055
 source: youtube
 medium: stream
 title: Beethoven's Symphony No. 2 / Mariss Jansons / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4110
+  role: conductor
+- person_id: 4159
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

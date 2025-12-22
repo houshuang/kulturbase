@@ -3,7 +3,9 @@ work_id: 1962
 source: youtube
 medium: stream
 title: 'Richard Wagner: Siegfried Idyll // Antje Weithaas & NCO'
-credits: []
+credits:
+- person_id: 4172
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

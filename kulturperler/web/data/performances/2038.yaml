@@ -4,7 +4,13 @@ source: youtube
 medium: stream
 title: Carmina Burana (excerpts including O Fortuna) / Carl Orff / Dalia Stasevska
   / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4106
+  role: conductor
+- person_id: 4155
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

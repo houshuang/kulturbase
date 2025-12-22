@@ -3,7 +3,13 @@ work_id: 1074
 source: youtube
 medium: stream
 title: From the archives / Beethoven's Symphony No. 9 / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4113
+  role: conductor
+- person_id: 4162
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

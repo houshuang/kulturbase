@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'J. S. Bach: Sonata for Violin and Harpsichord No. 3, I. Adagio // Catharina
   Chen & Frode Haltli'
-credits: []
+credits:
+- person_id: 4181
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

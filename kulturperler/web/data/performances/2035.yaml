@@ -3,7 +3,13 @@ work_id: 1383
 source: youtube
 medium: stream
 title: Symphony No. 5 / Ludwig van Beethoven / Arvid Engegård / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4103
+  role: conductor
+- person_id: 4152
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

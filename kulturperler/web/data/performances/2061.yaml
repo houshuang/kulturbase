@@ -3,7 +3,9 @@ work_id: 1676
 source: youtube
 medium: stream
 title: Rachmaninoff's Symphony No. 2 / Vasily Petrenko / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

@@ -3,7 +3,9 @@ work_id: 2010
 source: youtube
 medium: stream
 title: 'J.S. Bach: Violin Partita No. 2 in D minor, II. Courante // Cam Kjøll, violin'
-credits: []
+credits:
+- person_id: 4189
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

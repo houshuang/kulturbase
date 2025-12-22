@@ -3,7 +3,9 @@ work_id: 2007
 source: youtube
 medium: stream
 title: 'J.S. Bach: Violin Partita No. 3 in E Major, VII.Gigue  // Atle Sponberg, violin'
-credits: []
+credits:
+- person_id: 4186
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

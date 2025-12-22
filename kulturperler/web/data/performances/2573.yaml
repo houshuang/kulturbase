@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'J. S. Bach: Triple Concerto in A minor // Brandenburg Concerto No. 5 in D
   major'
-credits: []
+credits:
+- person_id: 4199
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

@@ -3,7 +3,9 @@ work_id: 1714
 source: youtube
 medium: stream
 title: 'Pēteris Vasks: Musica appassionata for string orchestra // Andris Poga'
-credits: []
+credits:
+- person_id: 3794
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

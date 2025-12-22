@@ -2,7 +2,9 @@ id: 2223
 source: youtube
 medium: stream
 title: ELGAR - Cello Concerto - Brantelid/Popelka/APO
-credits: []
+credits:
+- person_id: 2390
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

@@ -3,7 +3,9 @@ work_id: 2023
 source: youtube
 medium: stream
 title: 'Brahms: String Quintet No. 2 // Shotakovich: Two Pieces for String Octet'
-credits: []
+credits:
+- person_id: 4200
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

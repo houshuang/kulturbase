@@ -3,7 +3,13 @@ work_id: 1656
 source: youtube
 medium: stream
 title: Mitt hjerte alltid vanker / Mari Eriksmoen / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4097
+  role: conductor
+- person_id: 4146
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

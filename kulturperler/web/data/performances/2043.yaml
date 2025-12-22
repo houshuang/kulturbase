@@ -4,7 +4,13 @@ source: youtube
 medium: stream
 title: Pandemic / for a hundred orchestra musicians in isolation / Koka Nikoladze
   / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4108
+  role: conductor
+- person_id: 4157
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

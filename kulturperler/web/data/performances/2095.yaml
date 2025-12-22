@@ -3,7 +3,13 @@ work_id: 1723
 source: youtube
 medium: stream
 title: Rachmaninoff - Symphonic Dances, Op. 45 // Stanislav Kochanovsky
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4121
+  role: conductor
+- person_id: 4170
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

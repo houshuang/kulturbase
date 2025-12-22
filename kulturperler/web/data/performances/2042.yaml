@@ -3,7 +3,13 @@ work_id: 1672
 source: youtube
 medium: stream
 title: Epitaffio / Arne Nordheim / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4107
+  role: conductor
+- person_id: 4156
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

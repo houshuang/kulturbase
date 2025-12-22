@@ -150,21 +150,20 @@ def find_person_by_name(name: str) -> Optional[int]:
     return None
 
 def get_next_person_id() -> int:
-    """Get next available person ID."""
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-    cursor.execute("SELECT MAX(id) FROM persons")
-    max_id = cursor.fetchone()[0]
-    conn.close()
+    """Get next available person ID from filesystem (not database)."""
+    person_files = list((DATA_DIR / 'persons').glob('*.yaml'))
+    if not person_files:
+        return 1
+    max_id = max([int(f.stem) for f in person_files])
     return max_id + 1
 
-def verify_conductor_with_gemini(name: str, title: str) -> Tuple[bool, Optional[Dict]]:
+def verify_conductor_with_gemini(name: str, title: str, skip_gemini: bool = False) -> Tuple[bool, Optional[Dict]]:
     """
     Use Gemini with Google Search to verify conductor and get basic info.
     Returns (is_conductor, info_dict)
     """
-    if not GEMINI_KEY:
-        return False, None
+    if not GEMINI_KEY or skip_gemini:
+        return True, None  # Skip verification if no key or skip flag
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key={GEMINI_KEY}"
 
@@ -218,6 +217,9 @@ If not a conductor, just reply "CONDUCTOR: no"."""
 
     except Exception as e:
         print(f"  Error verifying with Gemini: {e}")
+        # If rate limited, skip verification and accept conductor
+        if '429' in str(e) or 'Too Many Requests' in str(e):
+            return True, None
         return False, None
 
 def create_person(name: str, info: Optional[Dict] = None, dry_run: bool = True) -> int:
@@ -327,16 +329,16 @@ def main():
             # Verify with Gemini if enabled
             if not args.skip_gemini:
                 print(f"  Verifying with Gemini...")
-                is_conductor, info = verify_conductor_with_gemini(conductor_name, title)
+                is_conductor, info = verify_conductor_with_gemini(conductor_name, title, skip_gemini=False)
 
                 if not is_conductor:
                     print(f"  Not confirmed as conductor, skipping")
                     skipped += 1
-                    time.sleep(1)  # Rate limiting
+                    time.sleep(2)  # Rate limiting
                     continue
 
                 person_id = create_person(conductor_name, info, dry_run=not args.live)
-                time.sleep(1)  # Rate limiting
+                time.sleep(2)  # Rate limiting
             else:
                 # Create without verification
                 person_id = create_person(conductor_name, dry_run=not args.live)

@@ -3,7 +3,13 @@ work_id: 1307
 source: youtube
 medium: stream
 title: subito con forza / Unsuk Chin / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4092
+  role: conductor
+- person_id: 4141
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

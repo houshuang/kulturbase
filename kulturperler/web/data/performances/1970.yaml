@@ -3,7 +3,13 @@ work_id: 1600
 source: youtube
 medium: stream
 title: La mer (3rd movement) / Claude Debussy / Mariss Jansons / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4075
+  role: conductor
+- person_id: 4124
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

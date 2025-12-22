@@ -3,7 +3,13 @@ work_id: 1383
 source: youtube
 medium: stream
 title: Symphony No. 5 / Ludwig van Beethoven / Herbert Blomstedt / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4077
+  role: conductor
+- person_id: 4126
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

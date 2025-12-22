@@ -4,7 +4,13 @@ source: youtube
 medium: stream
 title: Symphony No. 5 (4th movement) / Ludwig van Beethoven / Herbert Blomstedt /
   Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4078
+  role: conductor
+- person_id: 4127
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

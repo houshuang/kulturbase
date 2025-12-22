@@ -3,7 +3,9 @@ work_id: 2011
 source: youtube
 medium: stream
 title: 'J.S. Bach: Violin Partita No. 2 in d minor, Gigue // Sara Övinge, violin'
-credits: []
+credits:
+- person_id: 4190
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

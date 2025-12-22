@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'J. S. Bach: Suite for Cello Solo No. 3 in C Major, IV. Sarabande// Audun Sandvik,
   cello'
-credits: []
+credits:
+- person_id: 4179
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

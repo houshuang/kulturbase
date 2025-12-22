@@ -4,7 +4,13 @@ source: youtube
 medium: stream
 title: Pictures at an Exhibition (complete) / Modest Mussorgsky / Semyon Bychkov /
   Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4089
+  role: conductor
+- person_id: 4138
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

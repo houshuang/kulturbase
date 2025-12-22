@@ -3,7 +3,13 @@ work_id: 1708
 source: youtube
 medium: stream
 title: 'Alfred Schnittke: Concerto for Piano // Andris Poga & Plamena Mangova'
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4114
+  role: conductor
+- person_id: 4163
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

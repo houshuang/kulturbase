@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'J.S. Bach: Violin Partita No. 3 in E Major, I. Prelude  // Liv Hilde Klokk,
   violin'
-credits: []
+credits:
+- person_id: 4183
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

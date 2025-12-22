@@ -3,7 +3,9 @@ work_id: 1927
 source: youtube
 medium: stream
 title: Har du Fyr - Live (Nymo Trulsen/Bruvoll/NOSO kammerorkesteret)
-credits: []
+credits:
+- person_id: 4171
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

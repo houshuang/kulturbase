@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: Violin Concerto / Erich Wolfgang Korngold  / Guro Kleven Hagen / Vasily Petrenko
   / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

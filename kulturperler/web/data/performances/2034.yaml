@@ -3,7 +3,13 @@ work_id: 1664
 source: youtube
 medium: stream
 title: Symphony No.1 / Beethoven / Juanjo Mena / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4102
+  role: conductor
+- person_id: 4151
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

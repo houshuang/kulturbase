@@ -3,7 +3,13 @@ work_id: 1674
 source: youtube
 medium: stream
 title: La Melancolie / Ole Bull (arr. Halvorsen) / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4109
+  role: conductor
+- person_id: 4158
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

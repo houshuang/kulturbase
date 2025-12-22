@@ -3,7 +3,9 @@ work_id: 2012
 source: youtube
 medium: stream
 title: 'J.S. Bach: Cello Suite No. 3 in C major, Bourrée // Aine Suzuki, viola'
-credits: []
+credits:
+- person_id: 4191
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

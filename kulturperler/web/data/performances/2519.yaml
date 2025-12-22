@@ -3,7 +3,9 @@ work_id: 1969
 source: youtube
 medium: stream
 title: 'Beethoven: Symphony No. 7 // Pekka Kuusisto & NCO'
-credits: []
+credits:
+- person_id: 4174
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

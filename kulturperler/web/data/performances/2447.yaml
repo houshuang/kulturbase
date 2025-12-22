@@ -2,7 +2,9 @@ id: 2447
 source: youtube
 medium: stream
 title: RACHMANINOV - Piano concerto No. 2 - 2nd mvt - Gimse/Lindberg/APO
-credits: []
+credits:
+- person_id: 2390
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

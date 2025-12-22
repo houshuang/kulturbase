@@ -3,7 +3,13 @@ work_id: 984
 source: youtube
 medium: stream
 title: Siegfried Idyll / Richard Wagner / Elise Båtnes / Oslo Phiharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4101
+  role: conductor
+- person_id: 4150
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

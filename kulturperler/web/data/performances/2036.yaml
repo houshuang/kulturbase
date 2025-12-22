@@ -3,7 +3,13 @@ work_id: 1666
 source: youtube
 medium: stream
 title: This Too / Mette Henriette / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4104
+  role: conductor
+- person_id: 4153
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

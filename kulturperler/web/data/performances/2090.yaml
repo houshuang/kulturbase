@@ -3,7 +3,13 @@ work_id: 2401
 source: youtube
 medium: stream
 title: Prokofiev - Piano Concerto No. 2, in G minor // Andrei Korobeinikov
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4117
+  role: conductor
+- person_id: 4166
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

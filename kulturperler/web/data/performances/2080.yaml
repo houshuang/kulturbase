@@ -3,7 +3,13 @@ work_id: 1710
 source: youtube
 medium: stream
 title: 'Saint-Saëns: Symphony No. 3  in C minor // Andris Poga & Iveta Apkalna'
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4115
+  role: conductor
+- person_id: 4164
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

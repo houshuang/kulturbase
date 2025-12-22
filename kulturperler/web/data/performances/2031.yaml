@@ -16,6 +16,12 @@ credits:
 - person_id: 3848
   role: soloist
   instrument: Clarinet
+- person_id: 4064
+  role: conductor
+- person_id: 4100
+  role: conductor
+- person_id: 4149
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

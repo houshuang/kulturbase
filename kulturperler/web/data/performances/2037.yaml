@@ -3,7 +3,13 @@ work_id: 1667
 source: youtube
 medium: stream
 title: Wiegenlied (world premiere) / Sauli Zinovjev / Klaus Mäkelä / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4105
+  role: conductor
+- person_id: 4154
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

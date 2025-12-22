@@ -46,7 +46,6 @@ def extract_conductor_from_description(description):
 
     patterns = [
         r'Dirigent:\s*([^.\n]+)',
-        r'dirigent\s+([A-ZÆØÅ][a-zæøå]+(?:\s+[A-ZÆØÅ][a-zæøå]+)*)',
         r'dirigeres av\s+([^.\n]+)',
         r'med dirigent\s+([^.\n]+)',
     ]
@@ -55,10 +54,19 @@ def extract_conductor_from_description(description):
         match = re.search(pattern, description, re.IGNORECASE)
         if match:
             name = match.group(1).strip()
-            name = re.sub(r'\s*\(.*?\)\s*$', '', name)
-            name = re.sub(r'\.$', '', name)
-            name = re.sub(r'\s+(og|med|i|fra).*$', '', name, flags=re.IGNORECASE)
-            return name
+            # Clean up
+            name = re.sub(r'\s*\(.*?\)\s*$', '', name)  # Remove parentheses
+            name = re.sub(r'\.$', '', name)  # Remove trailing period
+            # Remove common noise words/phrases
+            name = re.sub(r'\s+(og|med|i|fra|er|spiller|fremfører|tolker|på).*$', '', name, flags=re.IGNORECASE)
+            name = re.sub(r'\s*[,;].*$', '', name)  # Remove comma/semicolon and rest
+
+            # Validate: should have at least 2 parts (firstname lastname) and reasonable length
+            parts = name.split()
+            if len(parts) >= 2 and len(name) > 5 and len(name) < 50:
+                # Check if starts with capital letter
+                if name[0].isupper() or name[0] in 'ÆØÅÄÖ':
+                    return name
 
     return None
 

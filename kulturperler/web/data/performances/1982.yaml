@@ -3,7 +3,13 @@ work_id: 1612
 source: youtube
 medium: stream
 title: SINGULARITY / Koka Nikoladze / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4087
+  role: conductor
+- person_id: 4136
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

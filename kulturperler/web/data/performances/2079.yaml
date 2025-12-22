@@ -6,6 +6,8 @@ title: 'Sergei Prokofiev: Romeo and Juliet - excerpts // Andris Poga'
 credits:
 - person_id: 3759
   role: composer
+- person_id: 3794
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

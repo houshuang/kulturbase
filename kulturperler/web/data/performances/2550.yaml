@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'J. S. Bach: Violin Partita No. 1 in B minor, Sarabande & Double // Cam Kjøll,
   violin'
-credits: []
+credits:
+- person_id: 4178
+  role: conductor
 institutions:
 - institution_id: 7
   role: orchestra

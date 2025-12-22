@@ -4,7 +4,13 @@ source: youtube
 medium: stream
 title: Danse sacrée et danse profane / Claude Debussy / Birgitte Volan Håvik / Klaus
   Mäkelä / Oslo Phil.
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4096
+  role: conductor
+- person_id: 4145
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

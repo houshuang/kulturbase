@@ -3,7 +3,9 @@ work_id: 1721
 source: youtube
 medium: stream
 title: 'LYDO: Musikk i dataspill // Helene Bøksle'
-credits: []
+credits:
+- person_id: 3554
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

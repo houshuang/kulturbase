@@ -3,7 +3,13 @@ work_id: 1002
 source: youtube
 medium: stream
 title: Tchaikovsky - Violin Concerto, Op. 35 // Marc Bouchkov
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4120
+  role: conductor
+- person_id: 4169
+  role: conductor
 institutions:
 - institution_id: 4
   role: orchestra

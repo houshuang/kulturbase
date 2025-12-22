@@ -3,7 +3,13 @@ work_id: 1657
 source: youtube
 medium: stream
 title: Violin Concerto / Fartein Valen / Camilla Wicks / Øivin Fjeldstad / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4098
+  role: conductor
+- person_id: 4147
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

@@ -39,6 +39,7 @@ class ConductorEnricher:
         self.dry_run = dry_run
         self.conn = sqlite3.connect(DB_PATH)
         self.conn.row_factory = sqlite3.Row
+        self.created_persons = {}  # Cache: normalized_name -> person_id
         self.stats = {
             'total': 0,
             'already_have_conductor': 0,
@@ -100,13 +101,43 @@ class ConductorEnricher:
         cursor = self.conn.execute("SELECT MAX(id) as max_id FROM persons")
         return cursor.fetchone()['max_id'] + 1
 
+    def normalize_conductor_name(self, name: str) -> str:
+        """Normalize conductor name (title case, handle spacing issues)."""
+        # Remove extra spaces
+        name = ' '.join(name.split())
+        # Fix spacing around hyphens
+        name = re.sub(r'\s*-\s*', '-', name)
+        # Title case each part
+        parts = name.split()
+        normalized_parts = []
+        for part in parts:
+            # Handle hyphenated names
+            if '-' in part:
+                sub_parts = part.split('-')
+                part = '-'.join([sp.capitalize() for sp in sub_parts])
+            else:
+                part = part.capitalize()
+            normalized_parts.append(part)
+
+        return ' '.join(normalized_parts)
+
     def create_person(self, name: str) -> int:
         """Create new person YAML file."""
+        # Normalize name first
+        name = self.normalize_conductor_name(name)
+        normalized = name.lower()
+
+        # Check if we already created this person in this run
+        if normalized in self.created_persons:
+            person_id = self.created_persons[normalized]
+            print(f"  Using previously created person: {name} (ID: {person_id})")
+            return person_id
+
         person_id = self.get_next_person_id()
         person_data = {
             'id': person_id,
             'name': name,
-            'normalized_name': name.lower()
+            'normalized_name': normalized
         }
 
         if not self.dry_run:
@@ -116,6 +147,9 @@ class ConductorEnricher:
             print(f"  Created new person: {name} (ID: {person_id})")
         else:
             print(f"  [DRY RUN] Would create person: {name} (ID: {person_id})")
+
+        # Cache the created person
+        self.created_persons[normalized] = person_id
 
         return person_id
 
@@ -166,7 +200,6 @@ class ConductorEnricher:
 
         patterns = [
             r'Dirigent:\s*([^.\n]+)',
-            r'dirigent\s+([A-ZÆØÅ][a-zæøå]+(?:\s+[A-ZÆØÅ][a-zæøå]+)*)',
             r'dirigeres av\s+([^.\n]+)',
             r'med dirigent\s+([^.\n]+)',
         ]
@@ -176,11 +209,18 @@ class ConductorEnricher:
             if match:
                 name = match.group(1).strip()
                 # Clean up
-                name = re.sub(r'\s*\(.*?\)\s*$', '', name)
-                name = re.sub(r'\.$', '', name)
-                # Remove common noise words at the end
-                name = re.sub(r'\s+(og|med|i|fra).*$', '', name, flags=re.IGNORECASE)
-                return name
+                name = re.sub(r'\s*\(.*?\)\s*$', '', name)  # Remove parentheses
+                name = re.sub(r'\.$', '', name)  # Remove trailing period
+                # Remove common noise words/phrases
+                name = re.sub(r'\s+(og|med|i|fra|er|spiller|fremfører|tolker|på).*$', '', name, flags=re.IGNORECASE)
+                name = re.sub(r'\s*[,;].*$', '', name)  # Remove comma/semicolon and rest
+
+                # Validate: should have at least 2 parts (firstname lastname) and reasonable length
+                parts = name.split()
+                if len(parts) >= 2 and len(name) > 5 and len(name) < 50:
+                    # Check if starts with capital letter
+                    if name[0].isupper() or name[0] in 'ÆØÅÄÖ':
+                        return name
 
         return None
 

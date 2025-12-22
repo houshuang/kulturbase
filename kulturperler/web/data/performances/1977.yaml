@@ -3,7 +3,13 @@ work_id: 1607
 source: youtube
 medium: stream
 title: Symphony No. 6 (complete) / Gustav Mahler / Jukka-Pekka Saraste / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4082
+  role: conductor
+- person_id: 4131
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

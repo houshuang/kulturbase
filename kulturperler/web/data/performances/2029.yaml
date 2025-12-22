@@ -3,7 +3,13 @@ work_id: 1659
 source: youtube
 medium: stream
 title: 'Purcell: March / Haydn: Symphony No. 49 / Klaus Mäkelä / Oslo Philharmonic'
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4099
+  role: conductor
+- person_id: 4148
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

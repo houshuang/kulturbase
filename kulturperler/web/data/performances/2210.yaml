@@ -7,6 +7,8 @@ credits:
 - person_id: 3882
   role: soloist
   instrument: Soprano
+- person_id: 3898
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

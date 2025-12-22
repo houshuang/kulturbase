@@ -3,7 +3,13 @@ work_id: 1470
 source: youtube
 medium: stream
 title: Tchaikovsky's Symphony No. 4 / Mariss Jansons / Oslo Philharmonic
-credits: []
+credits:
+- person_id: 4064
+  role: conductor
+- person_id: 4112
+  role: conductor
+- person_id: 4161
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

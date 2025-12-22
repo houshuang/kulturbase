@@ -4,7 +4,9 @@ source: youtube
 medium: stream
 title: 'Øyvind Torvund: A Walk into the Future (Symphonic Poem No. 2) /  Vasily Petrenko
   / Oslo Philharmonic'
-credits: []
+credits:
+- person_id: 4063
+  role: conductor
 institutions:
 - institution_id: 3
   role: orchestra

@@ -81,6 +81,7 @@ CREATE TABLE episodes (
     duration_seconds INTEGER,
     image_url TEXT,
     nrk_url TEXT,
+    youtube_url TEXT,
     work_id INTEGER,        -- renamed from play_id
     performance_id INTEGER,
     source TEXT DEFAULT 'nrk',
@@ -432,11 +433,11 @@ def build_database():
         work_id = e.get('work_id') or e.get('play_id')
         conn.execute("""
             INSERT INTO episodes (prf_id, title, description, year, duration_seconds,
-                                 image_url, nrk_url, work_id, performance_id, source, medium, series_id)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                 image_url, nrk_url, youtube_url, work_id, performance_id, source, medium, series_id)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (e['prf_id'], e['title'], e.get('description'), e.get('year'),
               e.get('duration_seconds'), e.get('image_url'), e.get('nrk_url'),
-              work_id, e.get('performance_id'), e.get('source'),
+              e.get('youtube_url'), work_id, e.get('performance_id'), e.get('source'),
               e.get('medium'), e.get('series_id')))
         for credit in e.get('credits', []):
             episode_credits.append((

@@ -1,0 +1,14 @@
+id: 1932
+work_id: 1569
+source: youtube
+medium: stream
+title: 'Mendelssohn: Sechs Lieder, Op.41 - Kilden Vokalensemble (KVE)'
+credits:
+- person_id: 3830
+  role: conductor
+- person_id: 3401
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

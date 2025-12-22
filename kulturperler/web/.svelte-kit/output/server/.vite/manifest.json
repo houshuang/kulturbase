@@ -143,13 +143,10 @@
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index2.js",
-      "_exports.js",
-      "_utils.js",
-      "_state.svelte.js"
+      "_index2.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CJLjM0hN.css"
+      "_app/immutable/assets/_page.rtfBB7V0.css"
     ]
   },
   "src/routes/dramaserier/+page.svelte": {

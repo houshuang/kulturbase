@@ -1,0 +1,15 @@
+id: 1941
+work_id: 1577
+source: youtube
+medium: stream
+title: 'Beethoven: Romance for Violin & Orchestra no. 2 ~ 1 - Guro Kleven Hagen'
+credits:
+- person_id: 2825
+  role: soloist
+  instrument: Solo violin
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

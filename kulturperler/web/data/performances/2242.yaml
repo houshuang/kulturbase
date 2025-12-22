@@ -1,0 +1,19 @@
+id: 2242
+work_id: 1839
+source: youtube
+medium: stream
+title: Arctic Phil - Jazz Sextet - Live at Helmersen's Deli
+credits:
+- person_id: 3889
+  role: soloist
+  instrument: Viola
+- person_id: 1013
+  role: soloist
+  instrument: Cello
+- person_id: 3890
+  role: soloist
+  instrument: Bass
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2020

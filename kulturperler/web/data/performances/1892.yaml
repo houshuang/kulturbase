@@ -1,0 +1,21 @@
+id: 1892
+work_id: 1532
+source: youtube
+medium: stream
+title: 'Shostakovich: Piano Concerto No. 1 in C minor, Op. 35 - Christian Grøvlen
+  - Jens Forus'
+credits:
+- person_id: 3801
+  role: conductor
+- person_id: 3423
+  role: soloist
+  instrument: Piano
+- person_id: 3806
+  role: soloist
+  instrument: Solo trumpet
+- person_id: 3400
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

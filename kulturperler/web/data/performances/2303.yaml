@@ -1,0 +1,13 @@
+id: 2303
+work_id: 1543
+source: youtube
+medium: stream
+title: 'BRAHMS - Piano Quintet op.34 -  I: Allegro non troppo'
+credits:
+- person_id: 3897
+  role: soloist
+  instrument: Piano
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2019

@@ -1,0 +1,14 @@
+id: 1948
+work_id: 947
+source: youtube
+medium: stream
+title: 'Beethoven: Symphony No. 2 - Nathalie Stutzmann'
+credits:
+- person_id: 3835
+  role: conductor
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2020

@@ -1,0 +1,14 @@
+id: 1901
+work_id: 1541
+source: youtube
+medium: stream
+title: 'Mendelssohn: Symphony No. 3 in A minor, Op. 56 "Scottish" - Julian Rachlin'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3401
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2022

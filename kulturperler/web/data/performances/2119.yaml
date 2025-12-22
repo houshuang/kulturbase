@@ -1,0 +1,12 @@
+id: 2119
+work_id: 1747
+source: youtube
+medium: stream
+title: 'Ludwig van Beethoven: Symphony no. 6'
+credits:
+- person_id: 3861
+  role: conductor
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2023

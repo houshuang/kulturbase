@@ -1,0 +1,22 @@
+id: 2031
+work_id: 1661
+source: youtube
+medium: stream
+title: Folk Songs / Luciano Berio / Stina Steingrim Levvel / Oslo Philharmonic
+credits:
+- person_id: 3845
+  role: soloist
+  instrument: Viola
+- person_id: 3846
+  role: soloist
+  instrument: Cello
+- person_id: 3847
+  role: soloist
+  instrument: Flute
+- person_id: 3848
+  role: soloist
+  instrument: Clarinet
+institutions:
+- institution_id: 3
+  role: orchestra
+year: 2020

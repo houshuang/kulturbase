@@ -1,21 +1,15 @@
 import { V as head } from "../../chunks/index2.js";
-import "@sveltejs/kit/internal";
-import "../../chunks/exports.js";
-import "../../chunks/utils.js";
-import "clsx";
-import "@sveltejs/kit/internal/server";
-import "../../chunks/state.svelte.js";
 function _page($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {
     head("1uha8ag", $$renderer2, ($$renderer3) => {
       $$renderer3.title(($$renderer4) => {
-        $$renderer4.push(`<title>Kulturbase.no - Klassisk norsk scenekunst</title>`);
+        $$renderer4.push(`<title>Kulturbase.no - Norsk scenekunst</title>`);
       });
-      $$renderer3.push(`<meta name="description" content="Utforsk klassisk norsk teater, opera og konserter fra NRK-arkivet. Ibsen, Bjørnson, Grieg og mer."/>`);
+      $$renderer3.push(`<meta name="description" content="Utforsk klassisk norsk teater, opera og konserter fra NRK-arkivet."/>`);
     });
     {
       $$renderer2.push("<!--[-->");
-      $$renderer2.push(`<div class="loading svelte-1uha8ag"><p>Laster...</p></div>`);
+      $$renderer2.push(`<div class="loading svelte-1uha8ag">Laster...</div>`);
     }
     $$renderer2.push(`<!--]-->`);
   });

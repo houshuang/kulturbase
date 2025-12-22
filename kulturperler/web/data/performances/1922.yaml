@@ -1,0 +1,14 @@
+id: 1922
+work_id: 1561
+source: youtube
+medium: stream
+title: 'Mozart: Symphony No. 36 in C major, K. 425 "Linz" - Julian Rachlin'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3252
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

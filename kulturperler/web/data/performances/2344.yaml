@@ -1,0 +1,19 @@
+id: 2344
+work_id: 1890
+source: youtube
+medium: stream
+title: MONTI - Czardas - Sitkovetsky
+credits:
+- person_id: 3899
+  role: soloist
+  instrument: Solo violin
+- person_id: 3900
+  role: soloist
+  instrument: Viola
+- person_id: 3898
+  role: soloist
+  instrument: Cello
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2018

@@ -1,0 +1,19 @@
+id: 2220
+work_id: 1807
+source: youtube
+medium: stream
+title: OLSEN - Klippeøyene
+credits:
+- person_id: 3883
+  role: soloist
+  instrument: Tenor
+- person_id: 3884
+  role: soloist
+  instrument: Tenor
+- person_id: 3885
+  role: soloist
+  instrument: Bass
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2020

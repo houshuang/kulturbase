@@ -1,0 +1,14 @@
+id: 2134
+work_id: 1762
+source: youtube
+medium: stream
+title: 'Richard Wagner: The Valkyrie - Ride of the Valkyries'
+credits:
+- person_id: 3866
+  role: conductor
+- person_id: 3475
+  role: composer
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2021

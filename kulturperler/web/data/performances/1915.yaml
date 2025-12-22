@@ -1,0 +1,17 @@
+id: 1915
+work_id: 1554
+source: youtube
+medium: stream
+title: 'Respighi: Adagio con Variazioni for Cello & Orchestra - Leonardo Sesenna'
+credits:
+- person_id: 3812
+  role: conductor
+- person_id: 3822
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3819
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

@@ -1,0 +1,18 @@
+id: 1906
+work_id: 1546
+source: youtube
+medium: stream
+title: 'Felix Mendelssohn: String Quartet No.3 in D major, Op.44 No.1 - III. & IV.'
+credits:
+- person_id: 3817
+  role: soloist
+  instrument: Viola
+- person_id: 3818
+  role: soloist
+  instrument: Cello
+- person_id: 3401
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

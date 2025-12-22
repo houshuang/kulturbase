@@ -1,0 +1,14 @@
+id: 1950
+work_id: 1067
+source: youtube
+medium: stream
+title: 'Beethoven: Symphony No. 5 - Nathalie Stutzmann'
+credits:
+- person_id: 3835
+  role: conductor
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2020

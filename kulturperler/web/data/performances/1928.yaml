@@ -1,0 +1,19 @@
+id: 1928
+work_id: 1567
+source: youtube
+medium: stream
+title: 'Beethoven: Duo for viola & cello in E flat major, WoO 32 - P.O. Lindberg -
+  Leonardo Sesenna'
+credits:
+- person_id: 3829
+  role: soloist
+  instrument: Viola
+- person_id: 3822
+  role: soloist
+  instrument: Cello
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

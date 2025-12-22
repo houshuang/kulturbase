@@ -1,0 +1,21 @@
+id: 1927
+work_id: 1566
+source: youtube
+medium: stream
+title: 'Beethoven: String Trio in G major, Op. 9 No.1'
+credits:
+- person_id: 3827
+  role: soloist
+  instrument: Violin
+- person_id: 3822
+  role: soloist
+  instrument: Cello
+- person_id: 3828
+  role: soloist
+  instrument: Viola
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

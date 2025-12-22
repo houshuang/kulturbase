@@ -1,0 +1,19 @@
+id: 2241
+work_id: 1845
+source: youtube
+medium: stream
+title: RAVEL - FAURÉ - CHOPIN - Live from Stormen Concert Hall
+credits:
+- person_id: 3886
+  role: soloist
+  instrument: Violin
+- person_id: 3887
+  role: soloist
+  instrument: Cello
+- person_id: 3888
+  role: soloist
+  instrument: Piano
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2020

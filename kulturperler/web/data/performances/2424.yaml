@@ -1,0 +1,13 @@
+id: 2424
+work_id: 1864
+source: youtube
+medium: stream
+title: J. S. BACH - Brandenburg Concerto no.4 - I
+credits:
+- person_id: 3912
+  role: soloist
+  instrument: Solo violin
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2016

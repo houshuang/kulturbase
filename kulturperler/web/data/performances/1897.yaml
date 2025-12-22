@@ -1,0 +1,21 @@
+id: 1897
+work_id: 1537
+source: youtube
+medium: stream
+title: A night in the world of Operetta - Cavalcade
+credits:
+- person_id: 3808
+  role: conductor
+- person_id: 3809
+  role: soloist
+  instrument: Soprano
+- person_id: 3810
+  role: soloist
+  instrument: Soprano
+- person_id: 3811
+  role: soloist
+  instrument: Tenor
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2022

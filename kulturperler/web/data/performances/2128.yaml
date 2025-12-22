@@ -1,0 +1,14 @@
+id: 2128
+work_id: 1756
+source: youtube
+medium: stream
+title: 'John Williams: Flying Theme from E.T. the Extra-Terrestrial'
+credits:
+- person_id: 3862
+  role: conductor
+- person_id: 3864
+  role: composer
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2022

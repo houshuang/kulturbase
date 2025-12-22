@@ -48,7 +48,7 @@
 
 	function getRoleLabel(role: string | null): string {
 		const labels: Record<string, string> = {
-			director: 'Regissor',
+			director: 'Regissør',
 			actor: 'Skuespiller',
 			playwright: 'Manusforfatter',
 			composer: 'Komponist',

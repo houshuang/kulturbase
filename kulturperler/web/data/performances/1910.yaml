@@ -1,0 +1,18 @@
+id: 1910
+work_id: 1550
+source: youtube
+medium: stream
+title: 'Paul Hindemith: Trauermusik for Viola and Strings - Sarah McElravy & Julian
+  Rachlin'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3820
+  role: soloist
+  instrument: Viola
+- person_id: 3783
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

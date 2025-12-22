@@ -1,0 +1,14 @@
+id: 1926
+work_id: 1565
+source: youtube
+medium: stream
+title: 'Beethoven: Egmont Overture, Op. 84 - Julian Rachlin'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

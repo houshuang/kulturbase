@@ -1,0 +1,16 @@
+id: 2348
+work_id: 1885
+source: youtube
+medium: stream
+title: 'MOZART - Requiem KV 626 - IV. Offertorium: 1. Domine Jesu'
+credits:
+- person_id: 3901
+  role: soloist
+  instrument: Soprano
+- person_id: 3902
+  role: soloist
+  instrument: Tenor
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2018

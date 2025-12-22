@@ -1,0 +1,14 @@
+id: 1914
+work_id: 1553
+source: youtube
+medium: stream
+title: 'Richard Strauss: Der Rosenkavalier Suite, Op. 59 - Giordano Bellincampi'
+credits:
+- person_id: 3812
+  role: conductor
+- person_id: 3256
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

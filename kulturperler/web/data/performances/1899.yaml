@@ -1,0 +1,14 @@
+id: 1899
+work_id: 1539
+source: youtube
+medium: stream
+title: 'Antonín Dvořák: Symphony No. 8 in G major, Op. 88 - Giordano Bellincampi'
+credits:
+- person_id: 3812
+  role: conductor
+- person_id: 3351
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2022

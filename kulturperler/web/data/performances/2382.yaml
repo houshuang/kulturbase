@@ -1,0 +1,22 @@
+id: 2382
+work_id: 1904
+source: youtube
+medium: stream
+title: 'BERWALD - Septet in B -  I: Adagio: Allegro molto'
+credits:
+- person_id: 3886
+  role: soloist
+  instrument: Violin
+- person_id: 3906
+  role: soloist
+  instrument: Viola
+- person_id: 3887
+  role: soloist
+  instrument: Cello
+- person_id: 219
+  role: soloist
+  instrument: Clarinet
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2017

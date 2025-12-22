@@ -1,0 +1,17 @@
+id: 1884
+work_id: 1524
+source: youtube
+medium: stream
+title: 'Saint-Saëns: Cello Concerto No. 1 in A minor - Julian Rachlin & Mischa Maisky'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3793
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3802
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

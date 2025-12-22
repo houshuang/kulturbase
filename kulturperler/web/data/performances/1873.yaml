@@ -1,0 +1,24 @@
+id: 1873
+work_id: 1514
+source: youtube
+medium: stream
+title: 'Beethoven: Triple Concerto in C major, Op. 56 - Julian Rachlin | Brovtsyn
+  / Hadland / Moreau [4K]'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3790
+  role: soloist
+  instrument: Violin
+- person_id: 3791
+  role: soloist
+  instrument: Piano
+- person_id: 3792
+  role: soloist
+  instrument: Cello
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

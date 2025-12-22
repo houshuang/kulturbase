@@ -1,0 +1,16 @@
+id: 2112
+work_id: 1740
+source: youtube
+medium: stream
+title: 'Wolfgang A. Mozart: Serenade no. 12 for winds in C minor'
+credits:
+- person_id: 3859
+  role: soloist
+  instrument: Oboe
+- person_id: 3860
+  role: soloist
+  instrument: Clarinet
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2025

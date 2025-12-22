@@ -1,0 +1,17 @@
+id: 1880
+work_id: 1501
+source: youtube
+medium: stream
+title: 'Gustav Mahler: Symphony No. 4 in G major - Rolf Gupta - Marianne Beate Kielland'
+credits:
+- person_id: 3799
+  role: conductor
+- person_id: 3800
+  role: soloist
+  instrument: Soprano
+- person_id: 3718
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

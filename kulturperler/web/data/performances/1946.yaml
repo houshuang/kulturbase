@@ -1,0 +1,17 @@
+id: 1946
+work_id: 1581
+source: youtube
+medium: stream
+title: 'Strauss: Romanze for cello - Leonardo Sesenna'
+credits:
+- person_id: 3812
+  role: conductor
+- person_id: 3822
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3256
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

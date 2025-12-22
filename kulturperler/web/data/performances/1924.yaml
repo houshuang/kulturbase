@@ -1,0 +1,21 @@
+id: 1924
+work_id: 1563
+source: youtube
+medium: stream
+title: 'John Harbison: Twilight Music - for Horn, Violin & Piano'
+credits:
+- person_id: 3825
+  role: soloist
+  instrument: Violin
+- person_id: 119
+  role: soloist
+  instrument: Piano
+- person_id: 3826
+  role: soloist
+  instrument: Horn
+- person_id: 3824
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

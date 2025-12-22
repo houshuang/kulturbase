@@ -1,0 +1,14 @@
+id: 1920
+work_id: 1559
+source: youtube
+medium: stream
+title: 'Ravel: Piano Concerto in G Major - Joseph Moog - Case Scaglione'
+credits:
+- person_id: 3823
+  role: conductor
+- person_id: 3719
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

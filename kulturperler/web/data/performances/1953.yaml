@@ -1,0 +1,14 @@
+id: 1953
+work_id: 1585
+source: youtube
+medium: stream
+title: 'Maurice Ravel: La Valse - Nathalie Stutzmann'
+credits:
+- person_id: 3835
+  role: conductor
+- person_id: 3731
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2020

@@ -1,0 +1,17 @@
+id: 1945
+work_id: 995
+source: youtube
+medium: stream
+title: 'Beethoven: Piano Concerto No. 3 - Sunwook Kim - Nathalie Stutzmann'
+credits:
+- person_id: 3835
+  role: conductor
+- person_id: 3834
+  role: soloist
+  instrument: Solo Pianist
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

@@ -1,0 +1,21 @@
+id: 2186
+work_id: 1807
+source: youtube
+medium: stream
+title: 'OLSEN - Klippeøyene - Complete opera: part 2 of 2'
+credits:
+- person_id: 3877
+  role: conductor
+- person_id: 3878
+  role: soloist
+  instrument: Soprano
+- person_id: 3879
+  role: soloist
+  instrument: Tenor
+- person_id: 3880
+  role: soloist
+  instrument: Bass
+institutions:
+- institution_id: 6
+  role: orchestra
+year: 2022

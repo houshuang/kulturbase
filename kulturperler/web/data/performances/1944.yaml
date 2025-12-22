@@ -1,0 +1,15 @@
+id: 1944
+work_id: 1580
+source: youtube
+medium: stream
+title: 'Brahms: Intermezzo No. 1 in E-Flat Major, Op. 117 - Sunwook Kim'
+credits:
+- person_id: 3834
+  role: soloist
+  instrument: Solo Pianist
+- person_id: 3347
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

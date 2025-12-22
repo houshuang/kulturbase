@@ -1,0 +1,14 @@
+id: 1883
+work_id: 1523
+source: youtube
+medium: stream
+title: 'César Franck: Symphony in D Minor - Ken-David Masur'
+credits:
+- person_id: 3801
+  role: conductor
+- person_id: 3736
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

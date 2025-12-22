@@ -1,0 +1,14 @@
+id: 1908
+work_id: 1548
+source: youtube
+medium: stream
+title: 'Franz Schubert: Symphony No. 3 in D major, D 200 - Giordano Bellincampi'
+credits:
+- person_id: 3812
+  role: conductor
+- person_id: 3374
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

@@ -1,0 +1,19 @@
+id: 2916
+work_id: 2314
+source: youtube
+medium: stream
+title: Händel Concerto Grosso in D major, Op. 6, no. 5
+credits:
+- person_id: 3428
+  role: soloist
+  instrument: Solo violin 1
+- person_id: 3928
+  role: soloist
+  instrument: Solo violin 2
+- person_id: 3929
+  role: soloist
+  instrument: Solo cello
+institutions:
+- institution_id: 13
+  role: orchestra
+year: 2023

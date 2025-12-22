@@ -1,0 +1,17 @@
+id: 1904
+work_id: 1544
+source: youtube
+medium: stream
+title: 'Johan Halvorsen: Violin Concerto, Op. 28 - Henning Kraggerud - Bjarte Engeset'
+credits:
+- person_id: 3815
+  role: conductor
+- person_id: 3816
+  role: soloist
+  instrument: Solo violin
+- person_id: 3536
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2022

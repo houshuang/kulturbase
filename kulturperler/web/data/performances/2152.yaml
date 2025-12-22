@@ -1,0 +1,24 @@
+id: 2152
+work_id: 1780
+source: youtube
+medium: stream
+title: Super Wednesday with Trondheim Symphony Orchestra
+credits:
+- person_id: 3868
+  role: conductor
+- person_id: 3869
+  role: soloist
+  instrument: Soloist
+- person_id: 3870
+  role: soloist
+  instrument: Soloists
+- person_id: 3871
+  role: soloist
+  instrument: Soloist
+- person_id: 3872
+  role: soloist
+  instrument: Soloist
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2015

@@ -1,0 +1,27 @@
+id: 2040
+work_id: 1670
+source: youtube
+medium: stream
+title: 'Mellomspill: Eventyrskogen / The Magic Forest / Oslo Philharmonic'
+credits:
+- person_id: 3852
+  role: soloist
+  instrument: Cello
+- person_id: 3853
+  role: soloist
+  instrument: Viola
+- person_id: 3852
+  role: soloist
+  instrument: Cello
+- person_id: 3462
+  role: soloist
+  instrument: Flute
+- person_id: 3854
+  role: soloist
+  instrument: Clarinet
+- person_id: 3851
+  role: composer
+institutions:
+- institution_id: 3
+  role: orchestra
+year: 2020

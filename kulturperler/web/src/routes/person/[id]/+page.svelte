@@ -283,7 +283,7 @@
 
 	function getRoleLabelNoun(role: string): string {
 		const labels: Record<string, string> = {
-			director: 'Regissor',
+			director: 'Regissør',
 			actor: 'Skuespiller',
 			conductor: 'Dirigent',
 			soloist: 'Solist',
@@ -523,7 +523,7 @@
 
 		{#if allRoles.length === 0 && nrkAboutPrograms.length === 0}
 			<div class="no-content">
-				<p>Ingen opptak registrert for denne personen enna.</p>
+				<p>Ingen opptak registrert for denne personen ennå.</p>
 			</div>
 		{/if}
 	</article>

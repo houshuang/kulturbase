@@ -1,0 +1,14 @@
+id: 1951
+work_id: 1584
+source: youtube
+medium: stream
+title: 'Beethoven: Symphony No. 3, Eroica - Nathalie Stutzmann'
+credits:
+- person_id: 3835
+  role: conductor
+- person_id: 3478
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2020

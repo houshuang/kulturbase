@@ -1,0 +1,15 @@
+id: 1957
+work_id: 1587
+source: youtube
+medium: stream
+title: 'Saint-Saëns: The Swan - Leonardo Sesenna'
+credits:
+- person_id: 3822
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3802
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2020

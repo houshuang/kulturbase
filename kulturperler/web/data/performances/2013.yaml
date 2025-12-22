@@ -1,0 +1,25 @@
+id: 2013
+work_id: 1643
+source: youtube
+medium: stream
+title: Introduction and Allegro / Maurice Ravel / Birgitte Volan Håvik / Oslo Philharmonic
+credits:
+- person_id: 3844
+  role: soloist
+  instrument: Violin
+- person_id: 3845
+  role: soloist
+  instrument: Viola
+- person_id: 3846
+  role: soloist
+  instrument: Cello
+- person_id: 3847
+  role: soloist
+  instrument: Flute
+- person_id: 3848
+  role: soloist
+  instrument: Clarinet
+institutions:
+- institution_id: 3
+  role: orchestra
+year: 2021

@@ -1,0 +1,28 @@
+id: 1959
+work_id: 1589
+source: youtube
+medium: stream
+title: Im wunderschönen Monat Mai / Reinbert de Leeuw / Christian Eggen / Tora Augestad
+credits:
+- person_id: 3837
+  role: soloist
+  instrument: Violin
+- person_id: 3838
+  role: soloist
+  instrument: Viola
+- person_id: 3839
+  role: soloist
+  instrument: Cello
+- person_id: 3840
+  role: soloist
+  instrument: Flute
+- person_id: 3841
+  role: soloist
+  instrument: Clarinet
+- person_id: 3842
+  role: soloist
+  instrument: Horn
+institutions:
+- institution_id: 3
+  role: orchestra
+year: 2024

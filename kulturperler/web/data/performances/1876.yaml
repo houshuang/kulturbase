@@ -1,0 +1,17 @@
+id: 1876
+work_id: 1517
+source: youtube
+medium: stream
+title: 'Korngold: Violin Concerto in D Major, Op. 35 I. - Alma Serafin Kraggerud (17y)'
+credits:
+- person_id: 3796
+  role: conductor
+- person_id: 3797
+  role: soloist
+  instrument: Solo violin
+- person_id: 3795
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

@@ -1,0 +1,14 @@
+id: 1875
+work_id: 1516
+source: youtube
+medium: stream
+title: 'Sergei Prokofiev: Romeo and Juliet Suite, Op. 64 - Andris Poga'
+credits:
+- person_id: 3794
+  role: conductor
+- person_id: 3759
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

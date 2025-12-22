@@ -1,0 +1,17 @@
+id: 1874
+work_id: 1515
+source: youtube
+medium: stream
+title: 'Tchaikovsky: Nocturne in D minor Op.19, no.4 - Julian Rachlin & Mischa Maisky'
+credits:
+- person_id: 3789
+  role: conductor
+- person_id: 3793
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3485
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2025

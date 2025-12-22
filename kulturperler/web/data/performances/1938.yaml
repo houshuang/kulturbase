@@ -1,0 +1,17 @@
+id: 1938
+work_id: 924
+source: youtube
+medium: stream
+title: 'Nyttårskonserten: Carmen - Czardas - Carstensen'
+credits:
+- person_id: 1296
+  role: conductor
+- person_id: 3335
+  role: soloist
+  instrument: Soloist
+- person_id: 3833
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

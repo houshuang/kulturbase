@@ -1,0 +1,18 @@
+id: 1913
+work_id: 1552
+source: youtube
+medium: stream
+title: 'Shostakovich: Cello Concerto No. 1 in E-flat major, Op 107 - Alban Gerhardt
+  - Eivind Gullberg Jensen'
+credits:
+- person_id: 1056
+  role: conductor
+- person_id: 3821
+  role: soloist
+  instrument: Solo Cellist
+- person_id: 3400
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

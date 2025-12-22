@@ -1,0 +1,12 @@
+id: 2117
+work_id: 1745
+source: youtube
+medium: stream
+title: 'Sergei Rachmaninov: Symphony no. 2'
+credits:
+- person_id: 3861
+  role: conductor
+institutions:
+- institution_id: 5
+  role: orchestra
+year: 2023

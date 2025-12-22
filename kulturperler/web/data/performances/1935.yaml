@@ -1,0 +1,17 @@
+id: 1935
+work_id: 1572
+source: youtube
+medium: stream
+title: 'Irgens-Jensen: Japanischer Frühling - Mari Eriksmoen - Eivind Gullberg Jensen'
+credits:
+- person_id: 1056
+  role: conductor
+- person_id: 3506
+  role: soloist
+  instrument: Soprano
+- person_id: 3832
+  role: composer
+institutions:
+- institution_id: 2
+  role: orchestra
+year: 2021

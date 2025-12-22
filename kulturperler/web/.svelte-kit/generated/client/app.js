@@ -28,10 +28,10 @@ export const dictionary = {
 		"/performance/[id]": [7],
 		"/persons": [9],
 		"/person/[id]": [8],
-		"/play/[id]": [10],
-		"/skapere": [11],
-		"/teater": [12],
-		"/work/[id]": [13]
+		"/skapere": [10],
+		"/teater": [11],
+		"/work/play/[id]": [13],
+		"/work/[id]": [12]
 	};
 
 export const hooks = {

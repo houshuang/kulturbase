@@ -1,15 +1,17 @@
 prf_id: FTEA00006190
-title: Lykke
-description: En ung jente har lørdagsfri og skal planlegge dagen så den får mening
-  og gjør henne glad. Hvordan? Det finnes så mange oppskrifter og valg.
-year: 1990
-duration_seconds: 2220
-image_url: https://gfx.nrk.no/9GOevwKuXZ2228LTdzzzDgm7_JMBQD-jRzRsT3HstAKw
-nrk_url: https://tv.nrk.no/se?v=FTEA00006190
-play_id: 397
-performance_id: 407
-source: nrk
+title: Lørdag
+description: Av den danske forfatteren Vita Andersen. En ung jente har lørdagsfri
+  og skal planlegge dagen så den får mening og gjør henne glad.
+year: 1991
+image_url: https://gfx.nrk.no/9GOevwKuXZ2228LTdzzzDguFt2dRkd5dpzRsT3HstAKw
+nrk_url: https://tv.nrk.no/program/ftea00006190
+performance_id: 939
+source: archive
 medium: tv
-credits:
-- person_id: 125
-  role: actor
+resources:
+- id: 523
+  url: https://archive.org/details/NRKTV-FTEA006190-AR-199305380
+  title: gnr
+  type: archive_primary
+  description: Av den danske forfatteren Vita Andersen. En ung jente har lørdagsfri
+    og skal planlegge dagen så den får mening og gjør henne glad.

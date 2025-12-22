@@ -176,10 +176,10 @@
 					<div class="work-preview">
 						<div class="work-preview-header">
 							<span class="label">Fra stykket ({otherPerformances.length + 1} opptak)</span>
-							<a href="/play/{work.id}" class="work-link">Se mer &rarr;</a>
+							<a href="/work/{work.id}" class="work-link">Se mer &rarr;</a>
 						</div>
 						<h2>
-							<a href="/play/{work.id}">{work.title}</a>
+							<a href="/work/{work.id}">{work.title}</a>
 							{#if work.year_written}
 								<span class="year-written">({work.year_written})</span>
 							{/if}

@@ -27,12 +27,12 @@ export {};
 
 declare module "$app/types" {
 	export interface AppTypes {
-		RouteId(): "/" | "/dramaserier" | "/episode" | "/episode/[id]" | "/konserter" | "/opera" | "/performance" | "/performance/[id]" | "/persons" | "/person" | "/person/[id]" | "/play" | "/play/[id]" | "/skapere" | "/teater" | "/work" | "/work/[id]";
+		RouteId(): "/" | "/dramaserier" | "/episode" | "/episode/[id]" | "/konserter" | "/opera" | "/performance" | "/performance/[id]" | "/persons" | "/person" | "/person/[id]" | "/skapere" | "/teater" | "/work" | "/work/play" | "/work/play/[id]" | "/work/[id]";
 		RouteParams(): {
 			"/episode/[id]": { id: string };
 			"/performance/[id]": { id: string };
 			"/person/[id]": { id: string };
-			"/play/[id]": { id: string };
+			"/work/play/[id]": { id: string };
 			"/work/[id]": { id: string }
 		};
 		LayoutParams(): {
@@ -47,14 +47,14 @@ declare module "$app/types" {
 			"/persons": Record<string, never>;
 			"/person": { id?: string };
 			"/person/[id]": { id: string };
-			"/play": { id?: string };
-			"/play/[id]": { id: string };
 			"/skapere": Record<string, never>;
 			"/teater": Record<string, never>;
 			"/work": { id?: string };
+			"/work/play": { id?: string };
+			"/work/play/[id]": { id: string };
 			"/work/[id]": { id: string }
 		};
-		Pathname(): "/" | "/dramaserier" | "/dramaserier/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/konserter" | "/konserter/" | "/opera" | "/opera/" | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/persons" | "/persons/" | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/play" | "/play/" | `/play/${string}` & {} | `/play/${string}/` & {} | "/skapere" | "/skapere/" | "/teater" | "/teater/" | "/work" | "/work/" | `/work/${string}` & {} | `/work/${string}/` & {};
+		Pathname(): "/" | "/dramaserier" | "/dramaserier/" | "/episode" | "/episode/" | `/episode/${string}` & {} | `/episode/${string}/` & {} | "/konserter" | "/konserter/" | "/opera" | "/opera/" | "/performance" | "/performance/" | `/performance/${string}` & {} | `/performance/${string}/` & {} | "/persons" | "/persons/" | "/person" | "/person/" | `/person/${string}` & {} | `/person/${string}/` & {} | "/skapere" | "/skapere/" | "/teater" | "/teater/" | "/work" | "/work/" | "/work/play" | "/work/play/" | `/work/play/${string}` & {} | `/work/play/${string}/` & {} | `/work/${string}` & {} | `/work/${string}/` & {};
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
 		Asset(): "/favicon.png" | "/kulturperler.db" | "/kulturperler.db.backup_20251219_122607" | "/kulturperler.db.backup_20251219_153151" | "/kulturperler.db.backup_20251219_155403" | "/kulturperler.db.backup_20251219_155433" | "/nrk_about_cache.json" | "/nrk_candidates.json" | "/sceneweb_cache.json" | string & {};
 	}

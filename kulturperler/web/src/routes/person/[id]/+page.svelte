@@ -336,7 +336,7 @@
 				<h2>Stykker av {person.name} ({worksWritten.length})</h2>
 				<div class="works-grid">
 					{#each worksWritten as work}
-						<a href="/play/{work.id}" class="work-card">
+						<a href="/work/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
@@ -366,7 +366,7 @@
 				<h2>Komponert ({worksComposed.length})</h2>
 				<div class="works-grid">
 					{#each worksComposed as work}
-						<a href="/play/{work.id}" class="work-card">
+						<a href="/work/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
@@ -396,7 +396,7 @@
 				<h2>Librettoer ({librettos.length})</h2>
 				<div class="works-grid">
 					{#each librettos as work}
-						<a href="/play/{work.id}" class="work-card">
+						<a href="/work/{work.id}" class="work-card">
 							<div class="work-image">
 								{#if work.image_url}
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />

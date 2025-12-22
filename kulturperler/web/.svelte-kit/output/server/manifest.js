@@ -10,7 +10,7 @@ return {
 	assets: new Set(["favicon.png","kulturperler.db","kulturperler.db.backup_20251219_122607","kulturperler.db.backup_20251219_153151","kulturperler.db.backup_20251219_155403","kulturperler.db.backup_20251219_155433","nrk_about_cache.json","nrk_candidates.json","sceneweb_cache.json"]),
 	mimeTypes: {".png":"image/png",".json":"application/json"},
 	_: {
-		client: {start:"_app/immutable/entry/start.Cy_Dmgxe.js",app:"_app/immutable/entry/app.DgNl606C.js",imports:["_app/immutable/entry/start.Cy_Dmgxe.js","_app/immutable/chunks/DWdCJsqN.js","_app/immutable/chunks/SHwkNs74.js","_app/immutable/chunks/DczcxkMZ.js","_app/immutable/entry/app.DgNl606C.js","_app/immutable/chunks/SHwkNs74.js","_app/immutable/chunks/DXqHvogJ.js","_app/immutable/chunks/DcN_2ECq.js","_app/immutable/chunks/Bqp9CA34.js","_app/immutable/chunks/DczcxkMZ.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"_app/immutable/entry/start.CLsiO2DA.js",app:"_app/immutable/entry/app.S4sdsd8N.js",imports:["_app/immutable/entry/start.CLsiO2DA.js","_app/immutable/chunks/CtetCJJC.js","_app/immutable/chunks/BWaCFzQx.js","_app/immutable/chunks/Cf7Wvb2q.js","_app/immutable/entry/app.S4sdsd8N.js","_app/immutable/chunks/BWaCFzQx.js","_app/immutable/chunks/ByynYZRl.js","_app/immutable/chunks/DJ6CO-N1.js","_app/immutable/chunks/B4lSzilE.js","_app/immutable/chunks/Cf7Wvb2q.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
@@ -88,31 +88,31 @@ return {
 				endpoint: null
 			},
 			{
-				id: "/play/[id]",
-				pattern: /^\/play\/([^/]+?)\/?$/,
-				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 10 },
-				endpoint: null
-			},
-			{
 				id: "/skapere",
 				pattern: /^\/skapere\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 11 },
+				page: { layouts: [0,], errors: [1,], leaf: 10 },
 				endpoint: null
 			},
 			{
 				id: "/teater",
 				pattern: /^\/teater\/?$/,
 				params: [],
-				page: { layouts: [0,], errors: [1,], leaf: 12 },
+				page: { layouts: [0,], errors: [1,], leaf: 11 },
+				endpoint: null
+			},
+			{
+				id: "/work/play/[id]",
+				pattern: /^\/work\/play\/([^/]+?)\/?$/,
+				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
+				page: { layouts: [0,], errors: [1,], leaf: 13 },
 				endpoint: null
 			},
 			{
 				id: "/work/[id]",
 				pattern: /^\/work\/([^/]+?)\/?$/,
 				params: [{"name":"id","optional":false,"rest":false,"chained":false}],
-				page: { layouts: [0,], errors: [1,], leaf: 13 },
+				page: { layouts: [0,], errors: [1,], leaf: 12 },
 				endpoint: null
 			}
 		],

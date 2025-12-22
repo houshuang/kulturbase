@@ -283,20 +283,21 @@ export function getPersonsByRole(role: string): Person[] {
 	return results;
 }
 
-export function getWork(id: number): (Work & { playwright_name?: string }) | null {
+export function getWork(id: number): (Work & { playwright_name?: string; composer_name?: string }) | null {
 	const db = getDatabase();
 
 	const stmt = db.prepare(`
-		SELECT w.*, playwright.name as playwright_name
+		SELECT w.*, playwright.name as playwright_name, composer.name as composer_name
 		FROM works w
 		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
 		WHERE w.id = ?
 	`);
 	stmt.bind([id]);
 
-	let result: (Work & { playwright_name?: string }) | null = null;
+	let result: (Work & { playwright_name?: string; composer_name?: string }) | null = null;
 	if (stmt.step()) {
-		result = stmt.getAsObject() as unknown as Work & { playwright_name?: string };
+		result = stmt.getAsObject() as unknown as Work & { playwright_name?: string; composer_name?: string };
 	}
 	stmt.free();
 

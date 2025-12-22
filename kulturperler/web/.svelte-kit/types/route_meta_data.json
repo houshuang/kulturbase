@@ -7,8 +7,8 @@
 	"/performance/[id]": [],
 	"/persons": [],
 	"/person/[id]": [],
-	"/play/[id]": [],
 	"/skapere": [],
 	"/teater": [],
+	"/work/play/[id]": [],
 	"/work/[id]": []
 }

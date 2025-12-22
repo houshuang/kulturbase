@@ -7,9 +7,10 @@ function getDatabase() {
 function getWork(id) {
   const db2 = getDatabase();
   const stmt = db2.prepare(`
-		SELECT w.*, playwright.name as playwright_name
+		SELECT w.*, playwright.name as playwright_name, composer.name as composer_name
 		FROM works w
 		LEFT JOIN persons playwright ON w.playwright_id = playwright.id
+		LEFT JOIN persons composer ON w.composer_id = composer.id
 		WHERE w.id = ?
 	`);
   stmt.bind([id]);
@@ -278,7 +279,7 @@ function _page($$renderer, $$props) {
           $$renderer2.push(`<!--]--></div> `);
           if (work) {
             $$renderer2.push("<!--[-->");
-            $$renderer2.push(`<div class="work-preview svelte-did11h"><div class="work-preview-header svelte-did11h"><span class="label svelte-did11h">Fra stykket (${escape_html(otherPerformances.length + 1)} opptak)</span> <a${attr("href", `/play/${stringify(work.id)}`)} class="work-link svelte-did11h">Se mer →</a></div> <h2 class="svelte-did11h"><a${attr("href", `/play/${stringify(work.id)}`)} class="svelte-did11h">${escape_html(work.title)}</a> `);
+            $$renderer2.push(`<div class="work-preview svelte-did11h"><div class="work-preview-header svelte-did11h"><span class="label svelte-did11h">Fra stykket (${escape_html(otherPerformances.length + 1)} opptak)</span> <a${attr("href", `/work/${stringify(work.id)}`)} class="work-link svelte-did11h">Se mer →</a></div> <h2 class="svelte-did11h"><a${attr("href", `/work/${stringify(work.id)}`)} class="svelte-did11h">${escape_html(work.title)}</a> `);
             if (work.year_written) {
               $$renderer2.push("<!--[-->");
               $$renderer2.push(`<span class="year-written svelte-did11h">(${escape_html(work.year_written)})</span>`);

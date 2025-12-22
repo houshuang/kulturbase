@@ -1,5 +1,11 @@
 # Kulturperler - Project Guide
 
+> **⚠️ STOP: YAML is the source of truth. NEVER modify SQLite directly.**
+>
+> Edit files in `data/*.yaml` → run `python3 scripts/build_database.py`
+>
+> The SQLite database is a compiled artifact that gets rebuilt from YAML.
+
 A browsable archive of Norwegian performing arts recordings, primarily NRK Fjernsynsteatret.
 
 ## Architecture Overview

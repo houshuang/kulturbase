@@ -1,8 +1,12 @@
 id: 785
 title: Båndet
-original_title: Båndet
+original_title: Bandet
 playwright_id: 3104
-synopsis: Båndet er et drama av August Strindberg fra 1892. Et intenst ekteskapsdrama
-  om et par i oppløsning.
+synopsis: Bandet er et drama av August Strindberg fra 1892. Et intenst ekteskapsdrama
+  om et par i oppløsning og deres kamp om barnet.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/Bandet/sida/I/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

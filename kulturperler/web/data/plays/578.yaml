@@ -1,8 +1,12 @@
 id: 578
 title: Meister Olof
-original_title: Meister Olof
+original_title: Mäster Olof
 playwright_id: 3104
-synopsis: Meister Olof er et historisk drama av August Strindberg fra 1872. Det handler
+synopsis: Mäster Olof er et historisk drama av August Strindberg fra 1872. Det handler
   om reformatoren Olaus Petri og hans kamp for den protestantiske tro i Sverige.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/MästerOlof1881/sida/1/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

@@ -1,7 +1,12 @@
 id: 654
 title: Kameratene
-original_title: Kameratene
+original_title: Kamraterna
 playwright_id: 3104
-synopsis: Kameratene er et skuespill av August Strindberg fra 1886-87.
+synopsis: Kamraterna er en komedie av August Strindberg fra 1886-87. Det handler om
+  ekteskapet mellom kunstnerparet Axel og Bertha, og utforsker kjønnsroller og maktforhold.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/Kamraterna1886/sida/I/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

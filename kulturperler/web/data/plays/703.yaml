@@ -1,11 +1,13 @@
 id: 703
 title: Faderen
-original_title: Faderen
+original_title: Fadren
 playwright_id: 3104
-synopsis: |
-  «Faderen» kan sikte til:Gud Fader, innenfor kristendommen et navn på Gud.
-  Faderen (novelle), novelle av Bjørnstjerne Bjørnson.
-  Faren, drama fra 1887 av August Strindberg.
-  En far.
+synopsis: Fadren er et drama av August Strindberg fra 1887. Det handler om en kaptein
+  som gradvis drives til vanvidd av sin kone Laura, som manipulerer ham ved å så tvil
+  om hans farskap til datteren Bertha.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/Fadren1887/sida/I/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

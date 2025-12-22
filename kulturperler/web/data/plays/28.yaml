@@ -5,5 +5,12 @@ playwright_id: 879
 synopsis: Brand er et dramatisk dikt av Henrik Ibsen fra 1866. Det handler om den
   kompromissløse presten Brand som krever alt eller intet av seg selv og sine nærmeste.
   Hans fanatiske idealisme fører til tragedie.
+external_links:
+- url: https://www.bokselskap.no/boker/brand
+  title: Bokselskap.no
+  type: bokselskap
+- url: "https://www.ibsen.uio.no/DRVIT_Br|Brht.xhtml"
+  title: Ibsens skrifter
+  type: text
 work_type: teaterstykke
 category: teater

@@ -2,7 +2,6 @@
 	import { page } from '$app/stores';
 	import { getPerson, getDatabase, getNrkAboutPrograms } from '$lib/db';
 	import type { Person, NrkAboutProgram } from '$lib/types';
-	import { onMount } from 'svelte';
 
 	interface WorkWritten {
 		id: number;
@@ -66,12 +65,32 @@
 	let error: string | null = null;
 
 	$: personId = parseInt($page.params.id || '0');
-
-	onMount(() => {
-		loadPerson();
-	});
+	$: if (personId) loadPerson();
 
 	function loadPerson() {
+		// Reset state for new person navigation
+		loading = true;
+		error = null;
+		person = null;
+		isCreator = false;
+		creatorRoles = [];
+		allRoles = [];
+		stats = {
+			worksAsPlaywright: 0,
+			worksAsComposer: 0,
+			worksAsLibrettist: 0,
+			performanceCount: 0,
+			directedCount: 0,
+			actedCount: 0,
+			conductedCount: 0
+		};
+		worksWritten = [];
+		worksComposed = [];
+		librettos = [];
+		performancesByRole = [];
+		creatorWorkIds = new Set();
+		nrkAboutPrograms = [];
+
 		try {
 			person = getPerson(personId);
 			if (person) {
@@ -186,9 +205,10 @@
 				}
 
 				// Get performances by role (director, actor, etc.) - for both creators and non-creators
+				// Also exclude 'forfatter' (Norwegian for playwright) as it's redundant with the works section
 				const rolesStmt = db.prepare(`
 					SELECT DISTINCT role FROM performance_persons
-					WHERE person_id = ? AND role NOT IN ('playwright', 'composer', 'librettist')
+					WHERE person_id = ? AND role NOT IN ('playwright', 'composer', 'librettist', 'forfatter')
 				`);
 				rolesStmt.bind([personId]);
 				const roles: string[] = [];
@@ -365,38 +385,6 @@
 			</div>
 		</header>
 
-		<!-- NRK programs about this person (prominent placement) -->
-		{#if nrkAboutPrograms.length > 0}
-			<section class="nrk-about prominent">
-				<h2>Om {person.name} i NRK-arkivet</h2>
-				<div class="about-programs-grid">
-					{#each nrkAboutPrograms as program}
-						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
-							<div class="about-image">
-								{#if program.image_url}
-									<img src={program.image_url} alt={program.title} loading="lazy" />
-								{:else}
-									<div class="about-placeholder">NRK</div>
-								{/if}
-							</div>
-							<div class="about-info">
-								<h3>{program.title}</h3>
-								<div class="about-meta">
-									{#if program.program_type === 'serie'}
-										<span class="about-type">Serie{#if program.episode_count} ({program.episode_count} ep){/if}</span>
-									{/if}
-									{#if program.duration_seconds}
-										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
-									{/if}
-								</div>
-							</div>
-							<span class="external-arrow">Se på NRK TV</span>
-						</a>
-					{/each}
-				</div>
-			</section>
-		{/if}
-
 		{#if worksWritten.length > 0}
 			<section class="works-section">
 				<h2>Stykker av {person.name} ({worksWritten.length})</h2>
@@ -481,6 +469,37 @@
 									{/if}
 								</div>
 							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if nrkAboutPrograms.length > 0}
+			<section class="nrk-about">
+				<h2>Om {person.name} i NRK-arkivet</h2>
+				<div class="about-grid">
+					{#each nrkAboutPrograms as program}
+						<a href={program.nrk_url} target="_blank" rel="noopener" class="about-card">
+							<div class="about-image">
+								{#if program.image_url}
+									<img src={program.image_url} alt={program.title} loading="lazy" />
+								{:else}
+									<div class="about-placeholder">NRK</div>
+								{/if}
+							</div>
+							<div class="about-info">
+								<h3>{program.title}</h3>
+								<div class="about-meta">
+									{#if program.program_type === 'serie'}
+										<span class="about-badge">Serie ({program.episode_count} ep)</span>
+									{/if}
+									{#if program.duration_seconds}
+										<span class="about-duration">{formatDuration(program.duration_seconds)}</span>
+									{/if}
+								</div>
+							</div>
+							<span class="about-link">NRK TV &rarr;</span>
 						</a>
 					{/each}
 				</div>
@@ -731,51 +750,17 @@
 		color: #666;
 	}
 
-	/* NRK About section */
+	/* NRK About section - card grid */
 	.nrk-about {
 		margin-bottom: 2rem;
 		padding-bottom: 1.5rem;
 		border-bottom: 1px solid #eee;
 	}
 
-	.nrk-about.prominent {
-		background: linear-gradient(135deg, #1a1a2e, #16213e);
-		margin: 0 -2rem 2rem -2rem;
-		padding: 1.5rem 2rem;
-		border-radius: 0;
-		border-bottom: none;
-	}
-
-	.nrk-about.prominent h2 {
-		color: white;
-		margin-bottom: 1rem;
-	}
-
-	.nrk-about.prominent .about-card {
-		background: rgba(255, 255, 255, 0.1);
-		border: 1px solid rgba(255, 255, 255, 0.1);
-	}
-
-	.nrk-about.prominent .about-card:hover {
-		background: rgba(255, 255, 255, 0.15);
-	}
-
-	.nrk-about.prominent .about-info h3 {
-		color: white;
-	}
-
-	.nrk-about.prominent .about-meta {
-		color: rgba(255, 255, 255, 0.7);
-	}
-
-	.nrk-about.prominent .external-arrow {
-		color: #ff6b8a;
-	}
-
-	.about-programs-grid {
+	.about-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-		gap: 0.75rem;
+		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+		gap: 1rem;
 	}
 
 	.about-card {
@@ -786,17 +771,17 @@
 		border-radius: 8px;
 		text-decoration: none;
 		color: inherit;
-		transition: background 0.2s;
-		align-items: flex-start;
+		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
 	.about-card:hover {
-		background: #f0f0f0;
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 	}
 
 	.about-image {
-		width: 100px;
-		height: 56px;
+		width: 80px;
+		height: 45px;
 		border-radius: 4px;
 		overflow: hidden;
 		flex-shrink: 0;
@@ -817,16 +802,19 @@
 		justify-content: center;
 		background: linear-gradient(135deg, #4a5568, #2d3748);
 		color: rgba(255, 255, 255, 0.6);
-		font-size: 0.8rem;
+		font-size: 0.75rem;
 	}
 
 	.about-info {
 		flex: 1;
 		min-width: 0;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 	}
 
 	.about-info h3 {
-		font-size: 0.95rem;
+		font-size: 0.9rem;
 		font-weight: 600;
 		margin-bottom: 0.25rem;
 		line-height: 1.3;
@@ -835,21 +823,27 @@
 	.about-meta {
 		display: flex;
 		gap: 0.5rem;
+		align-items: center;
 		font-size: 0.8rem;
 		color: #666;
 	}
 
-	.about-type {
+	.about-badge {
 		background: #e0e0e0;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;
-		font-size: 0.75rem;
+		font-size: 0.7rem;
 	}
 
-	.external-arrow {
+	.about-duration {
+		font-size: 0.8rem;
+	}
+
+	.about-link {
 		color: #e94560;
 		font-size: 0.8rem;
 		flex-shrink: 0;
+		align-self: center;
 	}
 
 	/* Role sections (performances) */

@@ -235,7 +235,7 @@
 		{#if externalLinks.length > 0}
 			<section class="external-sources prominent">
 				<div class="sources-grid">
-					{#each externalLinks.filter(l => l.type === 'bokselskap') as link}
+					{#each externalLinks.filter(l => l.type === 'bokselskap' || l.type === 'text') as link}
 						<a href={link.url} target="_blank" rel="noopener" class="source-card bokselskap">
 							<span class="source-icon">📖</span>
 							<div class="source-info">
@@ -253,6 +253,18 @@
 								{#if link.description}
 									<span class="source-note">{link.description}</span>
 								{/if}
+								{#if link.access_note}
+									<span class="source-note">{link.access_note}</span>
+								{/if}
+							</div>
+							<span class="arrow">→</span>
+						</a>
+					{/each}
+					{#each externalLinks.filter(l => l.type === 'archive.org') as link}
+						<a href={link.url} target="_blank" rel="noopener" class="source-card archive">
+							<span class="source-icon">🎬</span>
+							<div class="source-info">
+								<span class="source-title">{link.title}</span>
 								{#if link.access_note}
 									<span class="source-note">{link.access_note}</span>
 								{/if}
@@ -804,6 +816,11 @@
 
 	.source-card.streaming {
 		background: linear-gradient(135deg, #667eea, #764ba2);
+		color: white;
+	}
+
+	.source-card.archive {
+		background: linear-gradient(135deg, #2d3748, #1a202c);
 		color: white;
 	}
 

@@ -1,6 +1,6 @@
 prf_id: FMUS00001784
 title: '"Klaverkonsert nr. 3" av Ludwig van Beethoven'
-play_id: 1248
+play_id: 1316
 performance_id: 1320
 source: nrk
 medium: tv
@@ -9,4 +9,4 @@ description: "Klaverkonsert nr. 3 av Ludwig van Beethoven, c-moll, verk 37. Frem
   \ av Kringkastingsorkestret under\rdirigent Arnulv Hegstad. Solist: Robert Riefling.\r\
   Opptak fra Oslo Konserthus."
 duration_seconds: 2269
-nrk_url: program/FMUS00001784
+nrk_url: https://tv.nrk.no/program/FMUS00001784

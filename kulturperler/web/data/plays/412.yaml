@@ -1,8 +1,13 @@
 id: 412
 title: Kreditorer
-original_title: Kreditorer
+original_title: Fordringsägare
 playwright_id: 3104
-synopsis: Fordringsägare (Kreditorer) är en teaterpjäs av August Strindberg, skriven
-  1888–1889.
+synopsis: Fordringsägare (Kreditorer) er et skuespill av August Strindberg fra 1888.
+  Det handler om et psykologisk maktspill mellom en kvinne, hennes nåværende mann
+  og hennes eksmann.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/Fordringsegare/sida/I/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

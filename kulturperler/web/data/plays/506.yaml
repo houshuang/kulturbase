@@ -1,6 +1,13 @@
 id: 506
-title: Den sterkeste I og Den sterkeste II
-original_title: Den sterkeste I og Den sterkeste II
+title: Den sterkeste
+original_title: Den starkare
 playwright_id: 3104
+synopsis: Den starkare er et enaktsdrama av August Strindberg fra 1889. To kvinner,
+  fru X og frøken Y, møtes på en café på julaften. Bare én av dem snakker, men maktkampen
+  mellom dem avsløres gradvis.
+external_links:
+- url: https://litteraturbanken.se/författare/StrindbergA/titlar/DenStarkare/sida/I/faksimil
+  title: Litteraturbanken
+  type: text
 work_type: teaterstykke
 category: teater

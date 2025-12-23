@@ -1,12 +1,12 @@
 id: 2237
-title: Don Giovanni
+title: Don Giovanni, K. 527
+original_title: Don Giovanni
+composer_id: 3252
 category: konsert
-type: opera
+synopsis: Dette er en opera i to akter med libretto av Lorenzo Da Ponte, urfremført
+  i Praha i 1787. Verket blander komiske og tragiske elementer og regnes som et av
+  operahistoriens absolutte mesterverk. Handlingen følger den legendariske kvinnebedåreren
+  Don Juan og hans dramatiske vei mot en overnaturlig undergang.
 wikidata_id: Q192039
 wikipedia_url: https://en.wikipedia.org/wiki/Don_Giovanni
-synopsis: Don Giovanni is an opera in two acts with music by Wolfgang Amadeus Mozart
-  to an Italian libretto by Lorenzo Da Ponte. Its subject is a centuries-old Spanish
-  legend about a libertine as told by playwright Tirso de Molina in his 1630 play
-  El burlador de Sevilla y convidado de piedra. It is a dramma giocoso blending comedy,
-  melodrama and supernatural elements.
-composer_id: 3252
+type: opera

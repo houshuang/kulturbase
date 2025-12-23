@@ -1,9 +1,13 @@
 id: 2028
-title: Frühlingsstimmen
+title: Vårstemninger, op. 410
+original_title: Frühlingsstimmen
+composer_id: 3947
 category: konsert
-type: orchestral
+synopsis: Verket, opprinnelig titulert 'Frühlingsstimmen', ble komponert i 1882–1883
+  som en orkestervals med valgfri sopransolo. Det er et av Strauss' mest berømte stykker,
+  kjent for sine lyse, fugleaktige triller og gledesfylte melodier som hyller vårens
+  ankomst. Valsen ble urfremført ved Theater an der Wien og er i dag et fast innslag
+  ved de årlige nyttårskonsertene i Wien.
 wikidata_id: Q1472158
 wikipedia_url: https://en.wikipedia.org/wiki/Fr%C3%BChlingsstimmen
-synopsis: '"Frühlingsstimmen", Op. 410 is an orchestral waltz, with optional solo
-  soprano voice, written in 1882 by Johann Strauss II..'
-composer_id: 3947
+type: orchestral

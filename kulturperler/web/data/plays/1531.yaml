@@ -1,10 +1,13 @@
 id: 1531
-title: Schicksalslied
-category: konsert
-type: orchestral
+title: Schicksalslied, op. 54
+original_title: Schicksalslied
 composer_id: 3347
+category: konsert
+synopsis: Dette er et korverk for kor og orkester, komponert mellom 1868 og 1871 basert
+  på et dikt av Friedrich Hölderlin. Verket skildrer kontrasten mellom de salige gudenes
+  evige ro og menneskenes turbulente og usikre skjebne. Det regnes som et av Brahms'
+  fineste kortere korverk og avsluttes med en stemningsfull orkestral postludium som
+  gir et håpefullt preg.
 wikidata_id: Q1041951
 wikipedia_url: https://en.wikipedia.org/wiki/Schicksalslied
-synopsis: The Schicksalslied, Op. 54, is an orchestrally accompanied choral setting
-  of a poem written by Friedrich Hölderlin and is one of several major choral works
-  written by Johannes Brahms..
+type: orchestral

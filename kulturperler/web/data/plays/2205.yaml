@@ -1,14 +1,16 @@
 id: 2205
-title: Hänsel und Gretel
+title: Hans og Grete
+original_title: Hänsel und Gretel
+composer_id: 3956
 category: konsert
-type: opera
+synopsis: Hans og Grete er en opera i tre akter komponert av Engelbert Humperdinck
+  mellom 1891 og 1892, med libretto skrevet av hans søster Adelheid Wette basert på
+  Brødrene Grimms eventyr. Verket hadde sin urpremiere i Weimar i 1893 under ledelse
+  av Richard Strauss og ble umiddelbart en stor suksess. Musikken er sterkt inspirert
+  av Richard Wagners teknikker, men kombinerer dette med enkle, folkevisepregede melodier,
+  der «Avelsbønn» (Abendsegen) er et av de mest kjente partiene.
 wikidata_id: Q1099668
 wikipedia_url: https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)
-synopsis: Hansel and Gretel is an opera by nineteenth-century composer Engelbert Humperdinck,
-  who described it as a Märchenoper. The libretto was written by Humperdinck's sister,
-  Adelheid Wette, based on the Grimm brothers' fairy tale of the same name. It is
-  much admired for its folk music-inspired themes, one of the most famous being the
-  "Abendsegen" from act 2..
-composer_id: 3956
 sceneweb_id: 23178
 sceneweb_url: https://sceneweb.no/nb/artwork/23178/
+type: opera

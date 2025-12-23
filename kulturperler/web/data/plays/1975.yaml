@@ -1,10 +1,13 @@
 id: 1975
-title: Große Fuge
+title: Große Fuge i B-dur, op. 133
+original_title: Große Fuge
+composer_id: 3478
 category: konsert
-type: chamber
+synopsis: Dette verket ble komponert mellom 1825 og 1826 og var opprinnelig ment som
+  finalen til Beethovens strykekvartett nr. 13. På grunn av verkets enorme kompleksitet
+  og lengde ble det senere utgitt som et separat verk. Det er i dag ansett som et
+  av hans mest visjonære og moderne stykker, preget av dristige dissonanser og tekniske
+  utfordringer.
 wikidata_id: Q613618
 wikipedia_url: https://en.wikipedia.org/wiki/Grosse_Fuge
-synopsis: The Grosse Fuge, Op. 133, is a single-movement composition for string quartet
-  by Ludwig van Beethoven. An immense double fugue, it was universally condemned by
-  contemporary music critics.
-composer_id: 3478
+type: chamber

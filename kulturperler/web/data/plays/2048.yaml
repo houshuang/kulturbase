@@ -1,9 +1,13 @@
 id: 2048
-title: Symphony No. 8
+title: Symfoni nr. 9 i d-moll, op. 125
+original_title: Symphony No. 8
+composer_id: 3478
 category: konsert
-type: symphony
+synopsis: Fullført i 1824 og er Beethovens siste fullførte symfoni, kjent for sin
+  monumentale størrelse og nyskapende bruk av sangsolister og kor. Den siste satsen
+  inneholder den berømte tonesettingen av Friedrich Schillers dikt «Ode til gleden».
+  Verket står som et symbol på universelt brorskap og regnes som et av menneskehetens
+  største kunstverk.
 wikidata_id: Q270785
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._8_(Beethoven)
-synopsis: The Symphony No. 8 in F major, Op. 93 is a symphony in four movements composed
-  by Ludwig van Beethoven in 1812 and his penultimate and shortest symphony.
-composer_id: 3478
+type: symphony

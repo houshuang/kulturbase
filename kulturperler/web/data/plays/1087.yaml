@@ -1,14 +1,15 @@
 id: 1087
-title: Romeo and Juliet
+title: Romeo og Julie, fantasi-overture
+original_title: Romeo and Juliet
+composer_id: 3442
 work_type: orchestral
 category: konsert
-composer_id: 3442
-based_on_work_id: 280
+synopsis: 'Romeo og Julie er en fantasi-overture komponert av Pjotr Tsjajkovskij i
+  1869, med omfattende revisjoner i 1870 og 1880. Verket er et symfonisk dikt basert
+  på Shakespeares tragedie og er strukturert rundt tre hovedelementer: munken Lorenzo,
+  striden mellom familiene og kjærligheten mellom de to hovedpersonene. Det er særlig
+  berømt for sitt emosjonelle kjærlighetstema, som i dag regnes som et av de mest
+  gjenkjennelige motivene i den romantiske orkesterlitteraturen.'
 wikidata_id: Q763716
 wikipedia_url: https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Tchaikovsky)
-synopsis: '
-
-  Romeo and Juliet, TH 42, ČW 39, is an orchestral work composed by Pyotr Ilyich Tchaikovsky.
-  It is styled an Overture-Fantasy, and is based on Shakespeare''s play of the same
-  name. Like other composers such as Berlioz and Prokofiev, Tchaikovsky was deeply
-  inspired by Shakespeare and wrote works based on The Tempest and Hamlet as well..'
+based_on_work_id: 280

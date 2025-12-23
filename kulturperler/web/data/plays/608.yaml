@@ -2,11 +2,16 @@ id: 608
 title: Etter brannen
 original_title: Brända tomten
 playwright_id: 3104
-synopsis: Brända tomten er et kammerspill av August Strindberg fra 1907. En familie
-  gjenforenes etter en brann og gamle hemmeligheter kommer fram i ruinene.
+work_type: teaterstykke
+category: teater
+synopsis: Dette kammerspillet starter ved ruinene av et hus som nylig har brent ned
+  til grunnen. En mann som kalles 'Den fremmede' vender tilbake til sitt barndomshjem
+  og oppdager at brannen har blottlagt familiens skjulte hemmeligheter. Gjennom samtaler
+  med naboer og slektninger innser han at hele deres liv var bygget på løgner, bedrag
+  og falske fasader. Brannen fungerer som en metafor for sannheten som renser bort
+  illusjonene og viser menneskenes sanne ansikter. Strindberg bruker her en drømmeaktig
+  stil for å utforske temaer som skyld og livsløgn.
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/BrändaTomten1907/sida/I/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater

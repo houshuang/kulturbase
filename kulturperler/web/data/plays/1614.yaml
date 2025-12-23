@@ -1,13 +1,13 @@
 id: 1614
-title: Pictures at an Exhibition
+title: Bilder på en utstilling (for klaver)
+original_title: Pictures at an Exhibition
+composer_id: 3369
 category: konsert
-type: ballet
+synopsis: Dette er den originale suiten for klaver, komponert av Modest Musorgskij
+  i 1874 som en hyllest til hans avdøde venn, kunstneren Viktor Hartmann. Verket er
+  en nyskapende syklus der komponisten bruker musikk til å beskrive ti ulike tegninger
+  og akvareller fra en minneutstilling. Det regnes som et av de mest betydningsfulle
+  og teknisk utfordrende verkene i den russiske klaverlitteraturen fra det 19. århundre.
 wikidata_id: Q724981
 wikipedia_url: https://en.wikipedia.org/wiki/Pictures_at_an_Exhibition
-synopsis: Pictures at an Exhibition is a piano suite in ten movements, plus a recurring
-  and varied Promenade theme, written in 1874 by Russian composer Modest Mussorgsky.
-  It is a musical depiction of a tour of an exhibition of works by architect and painter
-  Viktor Hartmann put on at the Imperial Academy of Arts in Saint Petersburg, following
-  his sudden death in the previous year. Each movement of the suite is based on an
-  individual work, some of which are lost..
-composer_id: 3369
+type: ballet

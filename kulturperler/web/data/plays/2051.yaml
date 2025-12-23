@@ -1,12 +1,14 @@
 id: 2051
-title: Italian Serenade
+title: Italiensk serenade i G-dur
+original_title: Italian Serenade
+composer_id: 3950
 category: konsert
-type: orchestral
+synopsis: «Italiensk serenade» er et av Hugo Wolfs mest kjente instrumentale verk,
+  opprinnelig komponert for strykekvartett i 1887 og senere orkestrert av komponisten
+  i 1892. Verket er skrevet i G-dur og er utformet som en livlig rondo med en lys,
+  humoristisk og nesten ironisk karakter. Det antas å være inspirert av Joseph von
+  Eichendorffs novelle «Fra en dagdriveres liv» og fanger en romantisk, italiensk
+  atmosfære gjennom sine lekne og virtuose melodier.
 wikidata_id: Q6092966
 wikipedia_url: https://en.wikipedia.org/wiki/Italian_Serenade_(Wolf)
-synopsis: '
-
-  The Italian Serenade is a piece of music written by Hugo Wolf in 1887. It was originally
-  written for string quartet and named simply "Serenade in G major". By April 1890,
-  he was referring to it in his letters as Italian Serenade.'
-composer_id: 3950
+type: orchestral

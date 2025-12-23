@@ -1,5 +1,5 @@
 id: 1436
-work_id: 1355
+work_id: 2671
 source: bergenphilive
 title: If my complaints could Passions move
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2021
 description: 'Bergen Filharmoniske Orkester. Innspilt: 2021-09-30'
 credits: []
+institutions:
+- institution_id: 14

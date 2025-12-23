@@ -2,7 +2,9 @@ id: 2294
 source: youtube
 medium: stream
 title: 'RACHMANINOV - Piano concerto No 3 - I: Allegro ma non tanto'
-credits: []
+credits:
+- person_id: 4313
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

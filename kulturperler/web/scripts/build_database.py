@@ -57,7 +57,8 @@ CREATE TABLE persons (
     sceneweb_id INTEGER,
     sceneweb_url TEXT,
     wikipedia_url TEXT,
-    image_url TEXT
+    image_url TEXT,
+    bokselskap_url TEXT
 );
 
 -- Institutions table (orchestras, theaters, opera houses, etc.)
@@ -315,12 +316,12 @@ def build_database():
     for p in persons:
         conn.execute("""
             INSERT INTO persons (id, name, normalized_name, birth_year, death_year,
-                                 nationality, bio, wikidata_id, sceneweb_id, sceneweb_url, wikipedia_url, image_url)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                 nationality, bio, wikidata_id, sceneweb_id, sceneweb_url, wikipedia_url, image_url, bokselskap_url)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (p['id'], p['name'], p.get('normalized_name'), p.get('birth_year'),
               p.get('death_year'), p.get('nationality'), p.get('bio'),
               p.get('wikidata_id'), p.get('sceneweb_id'), p.get('sceneweb_url'), p.get('wikipedia_url'),
-              p.get('image_url')))
+              p.get('image_url'), p.get('bokselskap_url')))
         for res in p.get('resources', []):
             person_resources.append((p['id'], res['id']))
     stats['persons'] = len(persons)

@@ -1,11 +1,12 @@
 id: 1536
-title: Carnival Overture
-category: konsert
-type: symphony
+title: Karneval, overtyre, op. 92
+original_title: Carnival Overture
 composer_id: 3351
+category: konsert
+synopsis: Komponert i 1891 som den andre delen av trilogien «Natur, liv og kjærlighet».
+  Verket er en fargerik og energisk konsertovertyre som skildrer en travel markedsplass
+  eller et karneval. Det er et av Dvořáks mest populære og ofte spilte orkesterverk,
+  kjent for sin virtuose orkestrering og livlige rytmer.
 wikidata_id: Q5044098
 wikipedia_url: https://en.wikipedia.org/wiki/Carnival_Overture_(Dvo%C5%99%C3%A1k)
-synopsis: The concert overture Carnival, Op. 92, B. 169, was written by Antonín Dvořák
-  in 1891. It is part of a "Nature, Life and Love" trilogy of overtures, forming the
-  second part, "Life". The other two parts are In Nature's Realm, Op. 91 ("Nature")
-  and Othello, Op. 93 ("Love")..
+type: symphony

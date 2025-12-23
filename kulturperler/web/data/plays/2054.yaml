@@ -1,9 +1,13 @@
 id: 2054
-title: Symphony No. 13
+title: Symfoni nr. 13 i D-dur, Hob. I:13
+original_title: Symphony No. 13
+composer_id: 3754
 category: konsert
-type: symphony
+synopsis: Denne symfonien ble komponert i 1763 for Haydns arbeidsgiver, fyrst Nikolaus
+  Esterházy. Verket er bemerkelsesverdig for sin uvanlige besetning med fire horn
+  og en fremtredende solistisk rolle for cello i den andre satsen. Finalen er kjent
+  for å bruke et fire-toners tema som minner sterkt om det Mozart senere brukte i
+  sin 'Jupiter-symfoni'.
 wikidata_id: Q175537
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._13_(Haydn)
-synopsis: Joseph Haydn's Symphony No. 13 in D major was written in 1763 for the orchestra
-  of Haydn's patron, Prince Nikolaus Esterházy, in Eisenstadt..
-composer_id: 3754
+type: symphony

@@ -1,5 +1,5 @@
 id: 1424
-work_id: 1345
+work_id: 2578
 source: bergenphilive
 title: 'Ryan Wigglesworth: Magnificat'
 medium: tv
@@ -10,3 +10,5 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Ryan Wigglesworth. Innsp
 credits:
 - person_id: 4255
   role: conductor
+institutions:
+- institution_id: 14

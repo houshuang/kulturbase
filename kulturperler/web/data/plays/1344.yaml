@@ -1,11 +1,12 @@
 id: 1344
-title: Piano Concerto
-work_type: concerto
-category: konsert
+title: Klaverkonsert i a-moll, op. 54
 original_title: Konsert for piano og orkester
 composer_id: 3336
-synopsis: The Piano Concerto in A minor, Op. 54, by the German Romantic composer Robert
-  Schumann was completed in 1845 and is the composer's only piano concerto. The complete
-  work was premiered in Dresden on 4 December 1845.
+work_type: concerto
+category: konsert
+synopsis: Dette er Schumanns eneste fullførte klaverkonsert, ferdigstilt i 1845 etter
+  å ha startet som en fantasi for klaver og orkester. Verket ble urfremført av hans
+  kone, Clara Schumann, og er i dag en av de mest spilte klaverkonsertene fra den
+  romantiske perioden. Den er berømt for sin lyriske dialog mellom solist og orkester.
 wikidata_id: Q999104
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Concerto_(Schumann)

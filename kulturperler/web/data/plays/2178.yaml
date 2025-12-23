@@ -1,12 +1,12 @@
 id: 2178
-title: Brandenburg Concerto No.5
+title: Brandenburgkonsert nr. 5 i D-dur, BWV 1050
+original_title: Brandenburg Concerto No.5
+composer_id: 3753
 category: konsert
-type: concerto
+synopsis: En del av de seks konsertene Bach sendte til markgreven av Brandenburg i
+  1721. Den er unik for sin fremtredende bruk av cembalo som soloinstrument ved siden
+  av fløyte og fiolin. Første sats er spesielt kjent for sin lange og teknisk krevende
+  cembalo-kadens.
 wikidata_id: Q238732
 wikipedia_url: https://en.wikipedia.org/wiki/Brandenburg_Concerto_No._5
-synopsis: Johann Sebastian Bach wrote his fifth Brandenburg Concerto, BWV 1050.2,
-  for harpsichord, flute and violin as soloists, and an orchestral accompaniment consisting
-  of strings and continuo. An early version of the concerto, BWV 1050.1, originated
-  in the late 1710s. On 24 March 1721 Bach dedicated the final form of the concerto
-  to Margrave Christian Ludwig of Brandenburg..
-composer_id: 3753
+type: concerto

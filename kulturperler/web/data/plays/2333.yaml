@@ -1,9 +1,12 @@
 id: 2333
-title: String Quartet No. 17
+title: Strykekvartett nr. 17 i B-dur, K. 458
+original_title: String Quartet No. 17
+composer_id: 3252
 category: konsert
-type: chamber
+synopsis: Verket ble komponert i 1784 og er kjent under tilnavnet «Jaktkvartetten»
+  på grunn av åpningstemaet i første sats som minner om jaktsignaler. Den er den fjerde
+  av de seks kvartettene Mozart dediserte til sin venn Joseph Haydn. Kvartetten er
+  en av Mozarts mest populære og spilles ofte for sin lyse og energiske karakter.
 wikidata_id: Q1336324
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._17_(Mozart)
-synopsis: Wolfgang Amadeus Mozart's String Quartet No. 17 in B-flat major, K. 458,
-  nicknamed "The Hunt", is the fourth of the quartets dedicated to Haydn.
-composer_id: 3252
+type: chamber

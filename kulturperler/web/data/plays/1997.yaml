@@ -1,10 +1,12 @@
 id: 1997
-title: Partita No. 3 in E major, BWV 1006
+title: Partita nr. 3 i E-dur for solofiolin, BWV 1006
+original_title: Partita No. 3 in E major, BWV 1006
+composer_id: 3753
 category: konsert
-type: orchestral
+synopsis: Den siste av Bachs seks sonater og partitaer for solofiolin, fullført rundt
+  1720. Verket er berømt for sin åpningssats, "Preludio", som Bach senere omarbeidet
+  for bruk i to av sine kantater. Den inneholder flere kjente dansesatser som Gavotte
+  en Rondeau og Gigue.
 wikidata_id: Q2247608
 wikipedia_url: https://en.wikipedia.org/wiki/Partita_for_Violin_No._3_(Bach)
-synopsis: "The Partita No. 3 in E major for solo violin, BWV 1006.1, is the last work\
-  \ in Johann Sebastian Bach's set of Sonatas and Partitas. It consists of the following\
-  \ movements:Preludio\nLoure\nGavotte en Rondeau\nMenuets \nBourrée\nGigue."
-composer_id: 3753
+type: orchestral

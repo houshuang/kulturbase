@@ -1,9 +1,12 @@
 id: 1664
-title: Symphony No. 1
+title: Symfoni nr. 1 i C-dur, op. 21
+original_title: Symphony No. 1
+composer_id: 3478
 category: konsert
-type: symphony
+synopsis: Urfremført i 1800 og representerer Beethovens første store bidrag til symfonisjangeren.
+  Selv om den er tydelig forankret i tradisjonen etter Haydn og Mozart, viser den
+  allerede tegn på Beethovens egenart gjennom uventede harmonier og dynamiske kontraster.
+  Verket ble en suksess og etablerte ham som en ledende komponist i Wien.
 wikidata_id: Q163493
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._1_(Beethoven)
-synopsis: Ludwig van Beethoven's Symphony No. 1 in C major, Op. 21, was dedicated
-  to Baron Gottfried van Swieten, an early patron of the composer.
-composer_id: 3478
+type: symphony

@@ -40,6 +40,9 @@ UNVERIFIED_FILE = OUTPUT_DIR / 'unverified_plays.json'
 GEMINI_KEY = os.getenv('GEMINI_KEY')
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={GEMINI_KEY}"
 
+OPENAI_KEY = os.getenv('OPENAI_KEY')
+OPENAI_URL = "https://api.openai.com/v1/chat/completions"
+
 # Categories that are theater/drama works (vs classical music)
 THEATER_CATEGORIES = {'teater', 'dramaserie', 'hørespill'}
 CLASSICAL_CATEGORIES = {'konsert', 'opera'}
@@ -156,6 +159,57 @@ def call_gemini(prompt: str, use_search: bool = True) -> Optional[Dict]:
     except Exception as e:
         print(f"  ERROR: Gemini API error: {e}")
         return None
+
+
+def call_openai(prompt: str) -> Optional[Dict]:
+    """Call OpenAI GPT-5.2 API as fallback."""
+    if not OPENAI_KEY:
+        print("  ERROR: OPENAI_KEY not set")
+        return None
+
+    try:
+        headers = {
+            "Authorization": f"Bearer {OPENAI_KEY}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "gpt-5.2",
+            "messages": [
+                {"role": "system", "content": "Du er en ekspert på teater, opera og klassisk musikk. Svar alltid på norsk."},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.1
+        }
+
+        response = requests.post(OPENAI_URL, headers=headers, json=payload, timeout=90)
+        response.raise_for_status()
+
+        result = response.json()
+        text = result['choices'][0]['message']['content']
+
+        # Try to parse as JSON
+        cleaned = clean_json_response(text)
+        try:
+            return json.loads(cleaned)
+        except json.JSONDecodeError:
+            return {'raw_text': text}
+
+    except requests.exceptions.Timeout:
+        print("  ERROR: OpenAI API timeout")
+        return None
+    except Exception as e:
+        print(f"  ERROR: OpenAI API error: {e}")
+        return None
+
+
+def call_ai(prompt: str, use_search: bool = True) -> Optional[Dict]:
+    """Call AI API - try Gemini first, fall back to OpenAI if it fails."""
+    result = call_gemini(prompt, use_search)
+    if result is not None:
+        return result
+
+    print("  Falling back to OpenAI GPT-5.2...")
+    return call_openai(prompt)
 
 
 def build_theater_prompt(author_name: str, plays: List[Dict]) -> str:
@@ -413,8 +467,8 @@ class SynopsisRefresher:
             else:
                 prompt = build_theater_prompt(creator_name, sub_batch)
 
-            # Call Gemini
-            result = call_gemini(prompt)
+            # Call AI (Gemini with OpenAI fallback)
+            result = call_ai(prompt)
 
             updated_count = self._process_gemini_result(result, sub_batch, creator_name)
             total_updated += updated_count
@@ -497,7 +551,7 @@ class SynopsisRefresher:
         print(f"\n  [{play['id']}] {play['title']} (orphan)")
 
         prompt = build_orphan_prompt(play)
-        result = call_gemini(prompt)
+        result = call_ai(prompt)
 
         if not result or isinstance(result, dict) and 'raw_text' in result:
             print(f"    ERROR: Invalid response")

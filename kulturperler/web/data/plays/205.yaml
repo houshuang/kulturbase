@@ -2,8 +2,16 @@ id: 205
 title: Måken
 original_title: Måken
 playwright_id: 2126
-synopsis: Måken er et skuespill av Anton Tsjekhov fra 1896. Det handler om unge kunstnere
-  og deres kjærlighetsforhold, med en skutt måke som sentralt symbol. Stykket utforsker
-  temaer som kunst, kjærlighet og livets skuffelser.
 work_type: teaterstykke
 category: teater
+synopsis: Handlingen utspiller seg på et landsted der den unge Konstantin forsøker
+  å fornye teatret med et symbolistisk stykke. Han er forelsket i Nina, som i stedet
+  blir fascinert av den berømte forfatteren Trigorin, elskeren til Konstantins mor.
+  Stykket utforsker de smertefulle konfliktene mellom kunstneriske ambisjoner, berømmelse
+  og ulykkelig kjærlighet. Nina blir forført og forlatt av Trigorin, mens Konstantin
+  sliter med manglende anerkjennelse. Dramaet ender tragisk med at Konstantin tar
+  sitt eget liv etter å ha innsett at han har mistet alt.
+external_links:
+- url: https://www.ntathome.com/the-seagull
+  title: National Theatre at Home (abonnement)
+  type: streaming

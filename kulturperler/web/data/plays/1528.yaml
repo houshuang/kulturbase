@@ -1,12 +1,13 @@
 id: 1528
-title: Nänie
-category: konsert
-type: orchestral
+title: Nänie, op. 82
+original_title: Nänie
 composer_id: 3347
+category: konsert
+synopsis: Dette er et korverk for kor og orkester, komponert i 1881 til minne om Brahms'
+  avdøde venn, maleren Anselm Feuerbach. Teksten er basert på et dikt av Friedrich
+  Schiller som reflekterer over skjønnhetens forgjengelighet og dødens uunngåelighet.
+  Verket er preget av en verdig og klassisk ro, og regnes som et av hans mest gripende
+  kortere vokalverk.
 wikidata_id: Q442416
 wikipedia_url: https://en.wikipedia.org/wiki/N%C3%A4nie
-synopsis: Nänie is a composition for SATB chorus and orchestra, Op. 82 by Johannes
-  Brahms, which sets to music the poem "Nänie" by Friedrich Schiller. Brahms composed
-  the piece in 1881, in memory of his deceased friend Anselm Feuerbach. It was first
-  performed by the Tonhalle Gesellschaft Chorus Zürich on 6 December 1881, conducted
-  by Brahms.
+type: orchestral

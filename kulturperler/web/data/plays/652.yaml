@@ -1,7 +1,20 @@
 id: 652
 title: Yerma
 original_title: Yerma
+playwright_id: 3120
 work_type: teaterstykke
 category: teater
+synopsis: '"Yerma" er et tragisk drama som handler om en kvinne i det landlige Spania
+  som lengter desperat etter å få barn. Hennes ektemann, Juan, deler ikke dette ønsket,
+  noe som fører til en dyp konflikt og økende isolasjon for Yerma. I et samfunn der
+  en kvinnes verdi er knyttet til morskap, blir hennes manglende evne til å unnfange
+  en altoppslukende besettelse. Historien utforsker temaer som ære, sosialt press
+  og kvinnelig identitet, og kulminerer i en voldsom og tragisk handling der Yerma
+  tar et endelig valg. Ved å drepe sin ektemann, dreper hun også sitt eget håp om
+  noen gang å bli mor.'
 sceneweb_id: 22156
 sceneweb_url: https://sceneweb.no/nb/artwork/22156/
+external_links:
+- url: https://www.ntathome.com/yerma
+  title: National Theatre at Home (abonnement)
+  type: streaming

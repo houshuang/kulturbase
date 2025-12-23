@@ -1,9 +1,18 @@
 id: 1906
-title: Piano Sonata
-category: konsert
-type: orchestral
+title: Pianosonate i e-moll, op. 7
+original_title: Piano Sonata
 composer_id: 1230
+category: konsert
+synopsis: Dette verket ble skrevet i 1865 da Edvard Grieg var 22 år gammel, og det
+  står som hans eneste fullførte sonate for soloklaver. Sonaten er dedisert til den
+  danske komponisten Niels Gade og markerer et viktig punkt i Griegs tidlige karriere
+  der han begynte å integrere nordiske folkemusikkelementer i klassiske former. Verket
+  består av fire satser og er kjent for sin dramatiske åpning, hvor Grieg benytter
+  sine egne initialer (E-H-G) som et sentralt melodisk motiv. Selv om det er et ungdomsverk,
+  ble sonaten revidert av komponisten i 1887 for å stramme opp strukturen og foredle
+  det harmoniske uttrykket. Verket foregriper mange av de stilistiske trekkene som
+  senere ble karakteristiske for Griegs modne verker, inkludert hans berømte klaverkonsert
+  i a-moll.
 wikidata_id: Q3490117
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Sonata_(Grieg)
-synopsis: Edvard Grieg's Piano Sonata in E minor, Op. 7 was written in 1865 when he
-  was 22 years old. The sonata was published a year later and revised in 1887.
+type: orchestral

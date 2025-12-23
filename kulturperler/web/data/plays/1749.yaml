@@ -1,9 +1,12 @@
 id: 1749
-title: Symphony No. 4
+title: Symfoni nr. 4 i B-dur, op. 60
+original_title: Symphony No. 4
+composer_id: 3478
 category: konsert
-type: symphony
+synopsis: Symfonien ble komponert i 1806 og står i kontrast til de mer dramatiske
+  nabosymfoniene nr. 3 og nr. 5. Robert Schumann beskrev verket som «en slank gresk
+  møy mellom to nordiske kjemper» på grunn av dens lysere og mer klassisistiske karakter.
+  Verket er kjent for sin mystiske innledning og sin sprudlende, energiske finale.
 wikidata_id: Q231117
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._4_(Beethoven)
-synopsis: The Symphony No. 4 in B♭ major, Op. 60, is the fourth-published symphony
-  by Ludwig van Beethoven.
-composer_id: 3478
+type: symphony

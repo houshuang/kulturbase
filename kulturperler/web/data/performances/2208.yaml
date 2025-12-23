@@ -6,6 +6,8 @@ credits:
 - person_id: 3881
   role: soloist
   instrument: Flute
+- person_id: 3816
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

@@ -1,9 +1,13 @@
 id: 1843
-title: Violin Sonata No. 2
+title: Fiolinsonate nr. 2 i D-dur, op. 94bis
+original_title: Violin Sonata No. 2
+composer_id: 3466
 category: konsert
-type: concerto
+synopsis: Dette verket ble komponert i 1943 som en bearbeidelse av Prokofievs egen
+  fløytesonate i D-dur (op. 94). Verket ble til etter oppfordring fra fiolinisten
+  David Oistrakh, som også urfremførte det sammen med komponisten i Moskva i 1944.
+  Sonaten består av fire satser og er kjent for sin lyriske karakter og klassisistiske
+  stil, noe som står i kontrast til den mer dramatiske første fiolinsonaten.
 wikidata_id: Q2352641
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Sonata_No._2_(Prokofiev)
-synopsis: Sergei Prokofiev's Violin Sonata No. 2 in D Major, Op. 94a, was based on
-  the composer's own Flute Sonata in D, Op.
-composer_id: 3466
+type: concerto

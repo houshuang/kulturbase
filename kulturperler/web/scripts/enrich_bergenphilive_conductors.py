@@ -6,8 +6,9 @@ This script:
 1. Loads all bergenphilive performances from data/performances/
 2. Looks up the concert URL from external_resources.yaml
 3. Uses Gemini with Google Search to find conductor information from the URL
-4. Looks up or creates person entries in data/persons/
-5. Updates performance YAML files with conductor credits
+4. Falls back to OpenAI GPT-5.2 if Gemini fails
+5. Looks up or creates person entries in data/persons/
+6. Updates performance YAML files with conductor credits
 """
 
 import os
@@ -21,10 +22,16 @@ from dotenv import load_dotenv
 
 # Load environment
 load_dotenv()
-API_KEY = os.getenv('GEMINI_KEY')
-if not API_KEY:
-    print("Error: GEMINI_KEY not found in .env")
+GEMINI_KEY = os.getenv('GEMINI_KEY')
+OPENAI_KEY = os.getenv('OPENAI_KEY')
+
+if not GEMINI_KEY and not OPENAI_KEY:
+    print("Error: Neither GEMINI_KEY nor OPENAI_KEY found in .env")
     sys.exit(1)
+
+# Track which API to use
+gemini_failures = 0
+use_openai = False
 
 DATA_DIR = Path('data')
 PERFORMANCES_DIR = DATA_DIR / 'performances'
@@ -54,11 +61,9 @@ def get_external_resources():
 
     return bergenphil_resources
 
-def search_conductor_with_gemini(concert_url, title, year):
-    """Use Gemini with Google Search to find conductor information."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={API_KEY}"
-
-    query = f"""Find the conductor (dirigent) for this Bergen Philharmonic concert:
+def build_bergenphil_prompt(concert_url, title, year):
+    """Build the prompt for Bergen Philharmonic conductor search."""
+    return f"""Find the conductor (dirigent) for this Bergen Philharmonic concert:
 URL: {concert_url}
 Title: {title}
 Year: {year}
@@ -68,28 +73,89 @@ Provide ONLY the conductor's full name, or "NOT_FOUND" if you cannot find it.
 Format: Just the name like "Edward Gardner" or "NOT_FOUND"
 """
 
+
+def search_with_gemini(prompt):
+    """Use Gemini with Google Search."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={GEMINI_KEY}"
+
     payload = {
-        "contents": [{"parts": [{"text": query}]}],
+        "contents": [{"parts": [{"text": prompt}]}],
         "tools": [{"google_search": {}}],
         "generationConfig": {"temperature": 0.1}
     }
 
     try:
-        r = requests.post(url, json=payload, timeout=30)
+        r = requests.post(url, json=payload, timeout=60)
         r.raise_for_status()
         result = r.json()
 
-        # Extract text from response
         if 'candidates' in result and len(result['candidates']) > 0:
             candidate = result['candidates'][0]
             if 'content' in candidate and 'parts' in candidate['content']:
                 parts = candidate['content']['parts']
                 text_parts = [p['text'] for p in parts if 'text' in p]
-                return '\n'.join(text_parts) if text_parts else None
+                return '\n'.join(text_parts).strip() if text_parts else None
         return None
     except Exception as e:
-        print(f"  Error calling Gemini: {e}")
+        print(f"  Gemini error: {e}")
         return None
+
+
+def search_with_openai(prompt):
+    """Use OpenAI GPT-4o as fallback."""
+    url = "https://api.openai.com/v1/chat/completions"
+
+    headers = {
+        "Authorization": f"Bearer {OPENAI_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": "gpt-4o",
+        "messages": [
+            {"role": "system", "content": "You are a helpful assistant that finds conductor information for Bergen Philharmonic concerts. Use your knowledge to identify conductors. Always respond with just the conductor's name or NOT_FOUND."},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.1
+    }
+
+    try:
+        r = requests.post(url, headers=headers, json=payload, timeout=60)
+        r.raise_for_status()
+        result = r.json()
+
+        if 'choices' in result and len(result['choices']) > 0:
+            return result['choices'][0]['message']['content'].strip()
+        return None
+    except Exception as e:
+        print(f"  OpenAI error: {e}")
+        return None
+
+
+def search_conductor(concert_url, title, year):
+    """Search for conductor using Gemini, with OpenAI fallback."""
+    global gemini_failures, use_openai
+
+    prompt = build_bergenphil_prompt(concert_url, title, year)
+
+    # Try Gemini first (unless we've switched to OpenAI)
+    if not use_openai and GEMINI_KEY:
+        result = search_with_gemini(prompt)
+        if result:
+            gemini_failures = 0
+            return result
+        else:
+            gemini_failures += 1
+            if gemini_failures >= 3 and OPENAI_KEY:
+                print("  -> Switching to OpenAI after repeated Gemini failures")
+                use_openai = True
+
+    # Try OpenAI
+    if OPENAI_KEY:
+        print("  Using OpenAI GPT-4o...")
+        return search_with_openai(prompt)
+
+    return None
 
 def get_all_bergenphilive_performances():
     """Get all bergenphilive performance files."""
@@ -222,7 +288,7 @@ def enrich_performance_with_conductor(performance, persons, external_resources):
 
     # Search for conductor
     print("  Searching for conductor...")
-    response = search_conductor_with_gemini(concert_url, title, year)
+    response = search_conductor(concert_url, title, year)
 
     if response:
         print(f"  Gemini response: {response[:150]}...")

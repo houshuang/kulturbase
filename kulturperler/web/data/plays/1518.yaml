@@ -1,11 +1,13 @@
 id: 1518
-title: Vocalise
-category: konsert
-type: orchestral
+title: Vocalise, op. 34, nr. 14
+original_title: Vocalise
 composer_id: 3480
+category: konsert
+synopsis: Vocalise ble komponert i 1912 og utgitt i 1915 som den siste av hans '14
+  sanger', op. 34. Verket er unikt fordi det synges uten tekst på en valgfri vokal,
+  noe som fremhever den melankolske og flytende melodilinjen som Rachmaninoff er så
+  kjent for. Det har blitt ekstremt populært og finnes i dag i utallige arrangementer
+  for nesten alle tenkelige instrumentkombinasjoner.
 wikidata_id: Q2465725
 wikipedia_url: https://en.wikipedia.org/wiki/Vocalise_(Rachmaninoff)
-synopsis: '"Vocalise" is a song by Sergei Rachmaninoff, composed and published in
-  1915 as the last of his 14 Songs or 14 Romances, Op. 34. Written for high voice
-  with piano accompaniment, it contains no words, but is sung using only one vowel
-  of the singer''s choosing.'
+type: orchestral

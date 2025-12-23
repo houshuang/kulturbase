@@ -2,8 +2,16 @@ id: 647
 title: Kirsebærhaven
 original_title: Kirsebærhaven
 playwright_id: 2126
-synopsis: Kirsebærhaven er et skuespill av Anton Tsjekhov fra 1904. Det handler om
-  en adelig familie som tvinges til å selge sitt kjære gods med den berømte kirsebærhaven
-  på grunn av økonomiske problemer.
 work_type: teaterstykke
 category: teater
+synopsis: Den adelige Ljubov Ranevskaja vender tilbake til familiens gods i Russland
+  etter flere år i utlandet. Godset er tynget av gjeld og skal selges på auksjon,
+  inkludert den berømte kirsebærhaven. Forretningsmannen Lopakhin foreslår å hugge
+  ned trærne for å bygge sommerhytter, men familien nekter å innse realitetene. Til
+  slutt kjøper Lopakhin eiendommen selv, og stykket ender med lyden av øksehugg mot
+  trærne. Familien forlater hjemmet sitt mens den gamle tjeneren Firs blir glemt igjen
+  i det låste huset.
+external_links:
+- url: https://www.ntathome.com/the-cherry-orchard
+  title: National Theatre at Home (abonnement)
+  type: streaming

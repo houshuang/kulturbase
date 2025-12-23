@@ -1,5 +1,5 @@
 id: 1433
-work_id: 1352
+work_id: 2608
 source: bergenphilive
 title: 'Caroline Shaw: Entr''acte'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2021
 description: 'Bergen Filharmoniske Orkester. Komponist: Caroline Shaw. Innspilt: 2021-11-18'
 credits: []
+institutions:
+- institution_id: 14

@@ -1,11 +1,15 @@
 id: 1524
-title: Cello Concerto No. 1
-category: konsert
-type: concerto
+title: Cellokonsert nr. 1 i a-moll, op. 33
+original_title: Cello Concerto No. 1
 composer_id: 3802
+category: konsert
+synopsis: Konserten ble komponert i 1872 og regnes som et av de mest betydningsfulle
+  verkene skrevet for cello og orkester. Saint-Saëns brøt med tradisjonen ved å skrive
+  verket i én sammenhengende sats, selv om den inneholder tre distinkte seksjoner
+  som fungerer som satser. Verket er kjent for sin økonomiske bruk av tematisk materiale
+  og sin sømløse integrasjon mellom solist og orkester. Mange store komponister, inkludert
+  Sjostakovitsj og Rachmaninov, holdt denne konserten frem som et eksempel på perfekt
+  musikalsk form.
 wikidata_id: Q2991925
 wikipedia_url: https://en.wikipedia.org/wiki/Cello_Concerto_No._1_(Saint-Sa%C3%ABns)
-synopsis: '
-
-  Camille Saint-Saëns composed his Cello Concerto No. 1 in A minor, Op. 33, in 1872,
-  when he was 37 years old.'
+type: concerto

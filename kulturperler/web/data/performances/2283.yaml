@@ -3,7 +3,9 @@ work_id: 1123
 source: youtube
 medium: stream
 title: BEETHOVEN - Piano Concerto No  5
-credits: []
+credits:
+- person_id: 3328
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

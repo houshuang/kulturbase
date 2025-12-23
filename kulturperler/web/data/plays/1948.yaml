@@ -1,11 +1,15 @@
 id: 1948
-title: String symphonies
+title: Strykersymfonier
+original_title: String symphonies
+composer_id: 3488
 category: konsert
-type: symphony
+synopsis: Mendelssohns strykersymfonier består av 12 fullstendige verk (og en ufullendt
+  nr. 13) komponert mellom 1821 og 1823, da komponisten var mellom 12 og 14 år gammel.
+  Disse ungdomsverkene ble skrevet for de private søndagskonsertene i Mendelssohn-familiens
+  hjem i Berlin og viser en eksepsjonell tidlig modenhet. Stilistisk er de sterkt
+  påvirket av wienerklassisismen, særlig verkene til C.P.E. Bach, Haydn og Mozart,
+  men de foregriper også hans senere romantiske stil. Verkene ble først gjenoppdaget
+  og utgitt i 1950-årene og regnes i dag som viktige bidrag til repertoaret for strykeorkester.
 wikidata_id: Q3918133
 wikipedia_url: https://en.wikipedia.org/wiki/String_symphonies_(Mendelssohn)
-synopsis: Felix Mendelssohn wrote thirteen string symphonies between 1821 and 1823,
-  when he was between 12 and 14 years old.. These symphonies were tributes to Classical
-  symphonies especially by Joseph Haydn, Carl Philipp Emanuel Bach, and Wolfgang Amadeus
-  Mozart..
-composer_id: 3488
+type: symphony

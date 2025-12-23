@@ -1,5 +1,5 @@
 id: 1440
-work_id: 1038
+work_id: 2467
 source: bergenphilive
 title: 'Sibelius: Symfoni nr. 1'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2021
 description: 'Bergen Filharmoniske Orkester. Komponist: Sibelius. Innspilt: 2021-09-09'
 credits: []
+institutions:
+- institution_id: 14

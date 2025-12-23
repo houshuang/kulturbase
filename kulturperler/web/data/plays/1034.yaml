@@ -1,10 +1,15 @@
 id: 1034
-title: Symphony No. 7
-work_type: orchestral
-category: konsert
+title: Symfoni nr. 7 i C-dur, op. 105
 original_title: Tristan und Isolde & Symphony No. 7
 composer_id: 3387
+work_type: orchestral
+category: konsert
+synopsis: Symfoni nr. 7 i C-dur, op. 105, er Jean Sibelius' siste fullførte symfoni,
+  ferdigstilt i 1924. Verket er unikt ved at det består av én sammenhengende sats,
+  noe som brøt med den tradisjonelle symfoniske formen med flere satser. Den er særlig
+  kjent for sitt majestetiske trombonetema og sin organiske musikalske utvikling,
+  og regnes som et av de fremste mesterverkene i det 20. århundrets orkesterlitteratur.
+  Det bekreftes at dette er verket som tilsvarer Wikidata-ID Q261122, komponert av
+  Jean Sibelius (Richard Wagner har ingen symfoni med dette nummeret).
 wikidata_id: Q261122
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._7_(Sibelius)
-synopsis: The Symphony No. 7 in C major, Op. 105, is a single-movement work for orchestra
-  written from 1914 to 1924 by the Finnish composer Jean Sibelius..

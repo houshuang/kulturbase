@@ -1,10 +1,12 @@
 id: 2061
-title: Cello Concerto
+title: Cellokonsert i a-moll, op. 129
+original_title: Cello Concerto
+composer_id: 3336
 category: konsert
-type: concerto
+synopsis: Skrevet i løpet av en svært kreativ periode i 1850, kort tid etter at Schumann
+  tiltrådte som musikkdirektør i Düsseldorf. Konserten er preget av en lyrisk og innadvendt
+  karakter, og de tre satsene går over i hverandre uten opphold. Verket ble ikke fremført
+  offentlig før i 1860, fire år etter komponistens død.
 wikidata_id: Q2636117
 wikipedia_url: https://en.wikipedia.org/wiki/Cello_Concerto_(Schumann)
-synopsis: The Cello Concerto in A minor, Op. 129, by Robert Schumann was completed
-  in a period of only two weeks, between 10 October and 24 October 1850, shortly after
-  Schumann became the music director at Düsseldorf..
-composer_id: 3336
+type: concerto

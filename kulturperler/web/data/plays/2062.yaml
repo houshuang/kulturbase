@@ -1,9 +1,13 @@
 id: 2062
-title: Symphony No. 82
+title: Symfoni nr. 82 i C-dur, Hob. I:82 («Bjørnen»)
+original_title: Symphony No. 82
+composer_id: 3754
 category: konsert
-type: symphony
+synopsis: Dette er den første av Haydns seks 'Paris-symfonier', skrevet i 1786 for
+  konsertserien Concert de la Loge Olympique. Tilnavnet «Bjørnen» stammer fra finalen,
+  der en repeterende basstone i strykerne minner om lyden av en sekkepipe brukt til
+  å akkompagnere dansende bjørner på markedet. Verket er preget av en festlig og storslått
+  karakter med utstrakt bruk av trompeter og pauker.
 wikidata_id: Q271693
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._82_(Haydn)
-synopsis: The Symphony No. 82 in C major, Hoboken 1/82, is the first of the six Paris
-  Symphonies written by Joseph Haydn. It is popularly known as the Bear Symphony..
-composer_id: 3754
+type: symphony

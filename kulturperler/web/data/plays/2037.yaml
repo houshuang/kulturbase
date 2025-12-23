@@ -1,10 +1,12 @@
 id: 2037
-title: Symphony No. 5
+title: Symfoni nr. 5 i B-dur, D 485
+original_title: Symphony No. 5
+composer_id: 3374
 category: konsert
-type: symphony
+synopsis: Komponert i 1816 da Schubert var 19 år gammel, er dette den mest klassisistiske
+  av hans tidlige symfonier. Verket er tydelig inspirert av Mozart, spesielt i orkestreringen
+  som utelater trompeter og pauker for å skape en lettere og mer intim klang. Den
+  preges av eleganse, lyrisk sjarm og en lys grunnstemning.
 wikidata_id: Q240289
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._5_(Schubert)
-synopsis: Franz Schubert's Symphony No. 5 in B♭ major, D 485, was written mainly in
-  September 1816 and completed on 3 October 1816. It was finished six months after
-  the completion of his previous symphony..
-composer_id: 3374
+type: symphony

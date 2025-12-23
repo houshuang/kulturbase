@@ -1,10 +1,13 @@
 id: 2383
-title: String Sextet No. 1
-category: konsert
-type: orchestral
+title: Strykesekstett nr. 1 i B-dur, op. 18
+original_title: String Sextet No. 1
 composer_id: 3347
+category: konsert
+synopsis: Denne sekstetten for to fioliner, to bratsjer og to celloer ble komponert
+  i 1860 og er et av Brahms' mest tilgjengelige kammermusikkverk. Verket er preget
+  av en varm og fyldig klang, med en spesielt kjent andre sats som består av en serie
+  variasjoner over et melankolsk tema. Det markerte Brahms' gjennombrudd som en betydelig
+  komponist av kammermusikk i stor skala.
 wikidata_id: Q2482582
 wikipedia_url: https://en.wikipedia.org/wiki/String_Sextet_No._1_(Brahms)
-synopsis: The String Sextet No. 1 in B♭ major, Op. 18, was composed in 1860 by Johannes
-  Brahms and premiered 20 October that year in Hanover by an ensemble led by Joseph
-  Joachim. It was published in 1862 by the firm of Fritz Simrock..
+type: orchestral

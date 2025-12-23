@@ -2,14 +2,19 @@ id: 683
 title: Selma Brøter
 original_title: Selma Brøter
 playwright_id: 1993
-synopsis: Selma Brøter er en norsk TV-film regissert av Per Bronken. Han skrev også
-  manuset, som bygde på Sigrid Undsets novelle med samme navn fra samlingen Fattige
-  skjæbner (1912).
+work_type: nrk_teaterstykke
+category: teater
+synopsis: Selma Brøter er en beskjeden og selvoppofrende kontordame i Kristiania som
+  lever et stille liv preget av uforløste drømmer. Hun er hemmelig forelsket i en
+  kollega, men velger å tre til side og hjelpe ham med å finne lykken med en annen
+  kvinne. Selma finner en dypere mening i tilværelsen ved å være til tjeneste for
+  andre, selv om hennes egne behov forblir uoppfylte. Fortellingen er en gripende
+  skildring av hverdagens ensomhet og den verdigheten som ligger i å oppfylle sin
+  plikt overfor sine nærmeste. Dette er Fjernsynsteatrets versjon av novellen fra
+  samlingen «Fattige skjæbner», og den regnes som en av Undsets mest såre menneskeskildringer.
+sceneweb_id: 100258
+sceneweb_url: https://sceneweb.no/nb/artwork/100258/
 external_links:
 - url: https://www.bokselskap.no/boker/fattigeskjaebner/selma-broter
   title: Bokselskap.no
   type: bokselskap
-work_type: nrk_teaterstykke
-category: teater
-sceneweb_id: 100258
-sceneweb_url: https://sceneweb.no/nb/artwork/100258/

@@ -2,15 +2,19 @@ id: 198
 title: Lille Eyolf
 original_title: Lille Eyolf
 playwright_id: 879
-synopsis: Lille Eyolf er et skuespill av Henrik Ibsen fra 1894. Det handler om ekteparet
-  Allmers og deres funksjonshemmede sønn Eyolf. Etter en tragedie tvinges foreldrene
-  til å konfrontere sitt ekteskap og sine livsprioriteter.
+work_type: teaterstykke
+category: teater
+synopsis: Alfred Allmers vender hjem fra fjellet og bestemmer seg for å vie all sin
+  tid til oppdragelsen av sin funksjonshemmede sønn, Eyolf. Hans kone Rita føler seg
+  tilsidesatt og uttrykker sjalusi overfor barnet som krever all ektemannens oppmerksomhet.
+  Kort tid etter drukner Eyolf i fjorden etter å ha fulgt etter den mystiske Rottejomfruen.
+  Foreldrene blir stående igjen i en lammende sorg og gjensidige anklager om manglende
+  kjærlighet. Til slutt velger de å forsone seg ved å vie livene sine til å hjelpe
+  fattige barn i nabolaget.
 wikidata_id: Q983970
+sceneweb_id: 3632
+sceneweb_url: https://sceneweb.no/nb/artwork/3632/
 external_links:
 - url: https://www.ibsen.uio.no/DRVIT_LE|LEht.xhtml
   title: Ibsens skrifter
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3632
-sceneweb_url: https://sceneweb.no/nb/artwork/3632/

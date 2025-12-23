@@ -2,11 +2,18 @@ id: 135
 title: Hedda Gabler
 original_title: Hedda Gabler
 playwright_id: 879
-synopsis: Hedda Gabler er et skuespill av Henrik Ibsen fra 1890. Det handler om den
-  frustrerte og ambisiøse Hedda som er fanget i et kjedelig ekteskap med akademikeren
-  Jørgen Tesman. Hennes manipulerende forsøk på å kontrollere menneskene rundt seg
-  fører til tragedie.
+work_type: teaterstykke
+category: teater
+synopsis: Hedda Gabler er datter av en general og nylig gift med den ambisiøse, men
+  kjedelige akademikeren Jørgen Tesman. Hun føler seg fanget i sitt nye liv og begynner
+  å manipulere menneskene rundt seg for å få utløp for sin kjedsomhet og maktlyst.
+  Hedda driver sin tidligere elsker Eilert Løvborg til selvmord og brenner hans unike
+  manuskript for å sikre ektemannens karriere. Når hun blir fanget i et maktspill
+  med assessor Brack, velger hun å ta sitt eget liv fremfor å miste sin frihet. Stykket
+  er en dyptgående psykologisk studie av en kvinne som ikke finner sin plass i samfunnet.
 wikidata_id: Q176465
+sceneweb_id: 3628
+sceneweb_url: https://sceneweb.no/nb/artwork/3628/
 external_links:
 - url: https://applausscene.no/permalib/r2WzDeh89kOJ
   title: Applaus Scene
@@ -15,7 +22,6 @@ external_links:
 - url: https://www.bokselskap.no/boker/hedda
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3628
-sceneweb_url: https://sceneweb.no/nb/artwork/3628/
+- url: https://www.ntathome.com/hedda-gabler
+  title: National Theatre at Home (abonnement)
+  type: streaming

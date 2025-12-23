@@ -1,13 +1,14 @@
 id: 1766
-title: Má vlast
+title: Mitt fedreland (Má vlast)
+original_title: Má vlast
+composer_id: 3943
 category: konsert
-type: concerto
+synopsis: Mitt fedreland er en syklus bestående av seks symfoniske dikt komponert
+  mellom 1874 og 1879. Verket skildrer tsjekkisk historie, legender og landskap, og
+  regnes som et av de viktigste nasjonalromantiske verkene i musikkhistorien. Den
+  mest kjente enkeltsatsen er «Vltava» (Moldau), som musikalsk beskriver elvens løp
+  gjennom det tsjekkiske landskapet. Smetana fullførte hele syklusen etter at han
+  hadde blitt fullstendig døv.
 wikidata_id: Q1044709
 wikipedia_url: https://en.wikipedia.org/wiki/M%C3%A1_vlast
-synopsis: '
-
-  Má vlast, also known as My Fatherland, is a set of six symphonic poems composed
-  between 1874 and 1879 by the Czech composer Bedřich Smetana. The six pieces, conceived
-  as individual works, are often presented and recorded as a single work in six movements.
-  They premiered separately between 1875 and 1880.'
-composer_id: 3943
+type: concerto

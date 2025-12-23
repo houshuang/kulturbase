@@ -2,13 +2,19 @@ id: 654
 title: Kameratene
 original_title: Kamraterna
 playwright_id: 3104
-synopsis: Kamraterna er en komedie av August Strindberg fra 1886-87. Det handler om
-  ekteskapet mellom kunstnerparet Axel og Bertha, og utforsker kjønnsroller og maktforhold.
+work_type: teaterstykke
+category: teater
+synopsis: Skuespillet handler om kunstnerparet Axel og Bertha som forsøker å leve
+  i et moderne ekteskap basert på likeverd og kameratskap. Konflikten oppstår når
+  Bertha bruker uærlige metoder for å fremme sin egen karriere på bekostning av Axels
+  suksess. Det som skulle være et fritt og rettferdig forhold, utvikler seg til en
+  bitter maktkamp preget av manipulasjon og svik. Strindberg bruker stykket til å
+  kritisere samtidens kvinnebevegelse og ideen om at menn og kvinner kan leve som
+  'kamerater'. Til slutt bryter Axel ut av forholdet for å gjenvinne sin uavhengighet
+  og verdighet.
+sceneweb_id: 23054
+sceneweb_url: https://sceneweb.no/nb/artwork/23054/
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/Kamraterna1886/sida/I/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 23054
-sceneweb_url: https://sceneweb.no/nb/artwork/23054/

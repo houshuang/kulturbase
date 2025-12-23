@@ -1,5 +1,5 @@
 id: 1387
-work_id: 1310
+work_id: 2637
 source: bergenphilive
 title: 'Berg: Fagottkonsert'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2024
 description: 'Bergen Filharmoniske Orkester. Komponist: Berg. Innspilt: 2024-09-26'
 credits: []
+institutions:
+- institution_id: 14

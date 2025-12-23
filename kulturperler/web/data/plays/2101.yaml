@@ -1,12 +1,12 @@
 id: 2101
-title: Brandenburg Concertos
+title: Brandenburgkonsertene, BWV 1046–1051
+original_title: Brandenburg Concertos
+composer_id: 3753
 category: konsert
-type: concerto
+synopsis: Dette er en samling av seks konserter som Bach sendte til markgreven av
+  Brandenburg i 1721. Hver konsert har en unik instrumentering og utforsker ulike
+  kombinasjoner av soloinstrumenter og orkestergrupper. Samlingen regnes som et høydepunkt
+  innen barokkens instrumentalmusikk.
 wikidata_id: Q208224
 wikipedia_url: https://en.wikipedia.org/wiki/Brandenburg_Concertos
-synopsis: The Brandenburg Concertos by Johann Sebastian Bach are a collection of six
-  instrumental works presented by Bach to Christian Ludwig, Margrave of Brandenburg-Schwedt,
-  in 1721. The original French title is Six Concerts avec plusieurs instruments, meaning
-  "Six Concertos for several instruments". Some of the pieces feature several solo
-  instruments in combination.
-composer_id: 3753
+type: concerto

@@ -1,10 +1,12 @@
 id: 1641
-title: Trepak
+title: Trepak (Russisk dans) fra Nøtteknekkeren, op. 71
+original_title: Trepak
+composer_id: 3489
 category: konsert
-type: orchestral
+synopsis: En intens og energisk russisk folkedans fra andre akt av balletten Nøtteknekkeren,
+  komponert i 1892. Satsen er preget av et stadig økende tempo og kraftfulle rytmer
+  som kulminerer i en forrykende avslutning. Den er en av de mest gjenkjennelige karakterdansene
+  i både balletten og den tilhørende orkestersuiten.
 wikidata_id: Q2094365
 wikipedia_url: https://en.wikipedia.org/wiki/Trepak_(The_Nutcracker)
-synopsis: Trepak, also referred to as the Russian dance, is one of the character dances
-  from Pyotr Ilyich Tchaikovsky's famous 1892 ballet The Nutcracker. It is based on
-  the traditional Russian and Ukrainian folk dance also called the trepak..
-composer_id: 3489
+type: orchestral

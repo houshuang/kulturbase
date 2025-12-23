@@ -1,12 +1,12 @@
 id: 1782
 title: Carmen
-category: konsert
-type: symphony
 composer_id: 3705
+category: konsert
+synopsis: Dette objektet refererer til Bizets berømte opera Carmen (Wikidata Q185968),
+  som er et hovedverk innen sjangeren opéra comique. Verket brøt med datidens konvensjoner
+  ved å bringe realistisk drama og tragiske skjebner fra arbeiderklassen til operascenen.
+  Musikken er hyllet for sin fargerike orkestrering og evne til å fange spansk atmosfære,
+  til tross for at Bizet selv aldri besøkte Spania.
 wikidata_id: Q185968
 wikipedia_url: https://en.wikipedia.org/wiki/Carmen
-synopsis: Carmen is an opera in four acts by the French composer Georges Bizet. The
-  libretto was written by Henri Meilhac and Ludovic Halévy, based on the novella of
-  the same title by Prosper Mérimée. The opera was first performed by the Opéra-Comique
-  in Paris on 3 March 1875, where its breaking of conventions shocked and scandalised
-  its first audiences.
+type: symphony

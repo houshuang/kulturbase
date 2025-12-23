@@ -2,15 +2,19 @@ id: 119
 title: Fruen fra havet
 original_title: Fruen fra havet
 playwright_id: 879
-synopsis: Fruen fra havet er et skuespill av Henrik Ibsen fra 1888. Det handler om
-  Ellida Wangel som føler seg dratt mot havet og en mystisk fremmed fra fortiden,
-  mens hun er gift med en eldre lege.
+work_type: teaterstykke
+category: teater
+synopsis: Ellida Wangel føler seg fremmedgjort i sitt ekteskap med distriktslegen
+  Wangel og lengter konstant etter det åpne havet. Hun hjemsøkes av minnet om en mystisk
+  sjømann hun en gang var forlovet med, og som nå vender tilbake for å hente henne.
+  Dr. Wangel innser at han må gi Ellida friheten til å velge sitt eget liv for at
+  hun skal kunne bli frisk. Når hun får valget mellom å dra med den fremmede eller
+  bli, velger hun frivillig å bli hos sin mann og sine stedøtre. Dramaet utforsker
+  menneskets behov for frihet og ansvar i egne livsvalg.
 wikidata_id: Q1212719
+sceneweb_id: 153357
+sceneweb_url: https://sceneweb.no/nb/artwork/153357/
 external_links:
 - url: https://www.bokselskap.no/boker/fruenfrahavet
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 153357
-sceneweb_url: https://sceneweb.no/nb/artwork/153357/

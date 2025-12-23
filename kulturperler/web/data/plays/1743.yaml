@@ -1,10 +1,14 @@
 id: 1743
-title: Cello Sonata
+title: Cellosonate i d-moll
+original_title: Cello Sonata
+composer_id: 3933
 category: konsert
-type: symphony
+synopsis: 'Cellosonaten ble komponert i 1915 og var det første verket i en planlagt
+  serie på seks sonater for ulike instrumenter som Debussy skrev mot slutten av sitt
+  liv. Verket består av tre korte satser: Prologue, Sérénade og Finale, og er preget
+  av en nesten improvisatorisk stil med referanser til fransk barokk. Den er kjent
+  for sin tekniske kompleksitet og utstrakte bruk av spesialeffekter som pizzicato
+  og glissando for å skape varierte klangfarger.'
 wikidata_id: Q2747188
 wikipedia_url: https://en.wikipedia.org/wiki/Cello_Sonata_(Debussy)
-synopsis: The Cello Sonata, L. 135, is a sonata for cello and piano by Claude Debussy.
-  It was part of his project Six sonatas for various instruments to compose six sonatas
-  for different instruments.
-composer_id: 3933
+type: symphony

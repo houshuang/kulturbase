@@ -1,10 +1,13 @@
 id: 1640
-title: Entry March of the Boyars
+title: Bojarenes inntogsmarsj
+original_title: Entry March of the Boyars
+composer_id: 3536
 category: konsert
-type: orchestral
+synopsis: Dette er Halvorsens mest berømte orkesterverk internasjonalt, komponert
+  i 1895 etter at han ble inspirert av en bok om russisk historie. Marsjen er kjent
+  for sitt fengende hovedtema, fargerike instrumentering og sin karakteristiske blanding
+  av det eksotiske og det marsjaktige. Edvard Grieg var en stor beundrer av stykket,
+  og det har siden blitt et av de mest spilte norske orkesterverkene.
 wikidata_id: Q3352627
 wikipedia_url: https://en.wikipedia.org/wiki/Entry_March_of_the_Boyars
-synopsis: Entry March of the Boyars is an orchestral composition, written in 1893
-  from the pen of the Norwegian Johan Halvorsen (1864–1935). It is one of the most
-  popular works of the composer, and quickly became an international success..
-composer_id: 3536
+type: orchestral

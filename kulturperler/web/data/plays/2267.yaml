@@ -1,10 +1,12 @@
 id: 2267
 title: Le Grand Macabre
+composer_id: 3730
 category: konsert
-type: opera
+synopsis: Dette er Ligetis eneste fullførte opera, komponert mellom 1974 og 1977 og
+  senere revidert i 1996. Verket er en surrealistisk og apokalyptisk 'anti-anti-opera'
+  basert på et skuespill av Michel de Ghelderode, og handlingen utspiller seg i det
+  fiktive landet Brueghelland. Operaen er berømt for sin svarte humor, absurde karakterer
+  og uvanlige instrumentering, som blant annet inkluderer bruk av bilhorn i ouverturen.
 wikidata_id: Q1062427
 wikipedia_url: https://en.wikipedia.org/wiki/Le_Grand_Macabre
-synopsis: Le Grand Macabre is the third stage production by Hungarian composer György
-  Ligeti, and his only major stage-work. Previously, he had created two absurdist
-  sung "mimodramas" Aventures and Nouvelles aventures (1965)..
-composer_id: 3730
+type: opera

@@ -1,11 +1,12 @@
 id: 2334
-title: La finta semplice
+title: La finta semplice, K. 51
+original_title: La finta semplice
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Dette er en opera buffa i tre akter som Mozart komponerte i 1768, da han
+  bare var 12 år gammel. Verket ble bestilt av keiser Josef II, men på grunn av intriger
+  ved hoffet ble det ikke oppført i Wien på den tiden. Handlingen er en typisk forvekslingskomedie
+  som viser den unge komponistens tidlige mestring av den italienske operastilen.
 wikidata_id: Q471821
 wikipedia_url: https://en.wikipedia.org/wiki/La_finta_semplice
-synopsis: La finta semplice, K. 51 (46a) is an opera buffa in three acts for seven
-  voices and orchestra, composed in 1768 by then 12-year-old Wolfgang Amadeus Mozart.
-  Young Mozart and his father Leopold were spending the year in Vienna, where Leopold
-  was trying to establish his son as an opera composer.
-composer_id: 3252
+type: orchestral

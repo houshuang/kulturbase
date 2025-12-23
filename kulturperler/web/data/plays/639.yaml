@@ -2,10 +2,18 @@ id: 639
 title: Tre søstre
 original_title: Tre søstre
 playwright_id: 2126
-synopsis: Tre søstre er et skuespill av Anton Tsjekhov fra 1901. Det handler om søstrene
-  Olga, Masja og Irina som drømmer om å vende tilbake til Moskva mens de lever et
-  stillestående liv i provinsen.
 work_type: teaterstykke
 category: teater
+synopsis: De tre søstrene Olga, Masja og Irina bor i en provinsby og lengter desperat
+  etter å flytte tilbake til Moskva. Livet deres preges av kjedsomhet, uoppfylte drømmer
+  og kompliserte kjærlighetsforhold til offiserene i den lokale garnisonen. Broren
+  Andrej gifter seg med den dominerende Natasja, som gradvis tar kontroll over familiehjemmet
+  og fortrenger søstrene. Etter hvert som årene går, svinner håpet om Moskva hen mens
+  hverdagens realiteter tar overhånd. Stykket avsluttes med at militærregimentet forlater
+  byen, og søstrene står igjen alene med sin eksistensielle ensomhet.
 sceneweb_id: 15435
 sceneweb_url: https://sceneweb.no/nb/artwork/15435/
+external_links:
+- url: https://www.ntathome.com/three-sisters
+  title: National Theatre at Home (abonnement)
+  type: streaming

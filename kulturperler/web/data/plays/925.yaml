@@ -1,8 +1,15 @@
 id: 925
 title: Gjengangere
+composer_id: 3263
 work_type: opera
 category: opera
-composer_id: 3263
-based_on_work_id: 820
+synopsis: '"Gjengangere" er en opera av Antonio Bibalo, fullført i 1981 og basert
+  på Henrik Ibsens kjente skuespill med samme navn. Verket ble skrevet på bestilling
+  fra operaen i Kiel, der det ble urfremført på tysk under tittelen "Gespenster" i
+  juni 1981. Musikken er preget av Bibalos evne til å skildre psykologisk drama og
+  menneskelige konflikter, noe som ga ham prisen "Årets verk" fra Norsk Komponistforening.
+  Operaen regnes som et av hans mest sentrale musikkdramatiske verker og har blitt
+  spilt inn med blant andre Bergen Filharmoniske Orkester.'
 sceneweb_id: 3622
 sceneweb_url: https://sceneweb.no/nb/artwork/3622/
+based_on_work_id: 820

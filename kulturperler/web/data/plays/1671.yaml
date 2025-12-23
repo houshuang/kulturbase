@@ -1,13 +1,14 @@
 id: 1671
-title: The Adventures of the Little Prince
+title: Musikk til 'Den lille prinsen'
+original_title: The Adventures of the Little Prince
+composer_id: 3936
 category: konsert
-type: concerto
+synopsis: 'Dette er musikken til anime-serien ''Den lille prinsen'' (originaltittel:
+  Hoshi no Ōjisama Puchi Puransu), komponert av Kunihiro Kawano i 1978. Verket består
+  av bakgrunnsmusikken (BGM) til serien, som er basert på Antoine de Saint-Exupérys
+  klassiske fortelling om en prins fra en fjern planet. Musikken er kjent for å skape
+  en drømmende, melankolsk og eventyrlig atmosfære som utfyller prinsens filosofiske
+  reiser gjennom verdensrommet.'
 wikidata_id: Q2558454
 wikipedia_url: https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_(TV_series)
-synopsis: 'The Adventures of the Little Prince is an anime series based on the book
-  by Antoine de Saint-Exupéry. Made by the animation studio Knack Productions, the
-  series, originally titled The Prince of the Stars: Le Petit Prince , aired in Japan
-  on the TV Asahi network from July 1978 to March 1979. Dubbed into English, the series
-  premiered in the United States in 1982 on ABC eventually being rerun on Nickelodeon
-  from June 1, 1985 to December 29, 1989.'
-composer_id: 3936
+type: concerto

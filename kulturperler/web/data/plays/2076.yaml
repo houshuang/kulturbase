@@ -1,10 +1,12 @@
 id: 2076
-title: String Quartet No. 2
-category: konsert
-type: chamber
+title: Strykekvartett nr. 2, «Intime brev»
+original_title: String Quartet No. 2
 composer_id: 3735
+category: konsert
+synopsis: Komponert i 1928, bare måneder før komponistens død, som en musikalsk kjærlighetserklæring
+  til Kamila Stösslová. Verket fungerer som en slags selvbiografisk dagbok og skildrer
+  deres lange korrespondanse gjennom fire intense satser. Det er kjent for sin emosjonelle
+  råhet og utstrakte bruk av spesielle klangfarger som sul ponticello.
 wikidata_id: Q7623927
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._2_(Jan%C3%A1%C4%8Dek)
-synopsis: Leoš Janáček's String Quartet No. 2 "Intimate Letters" was written in 1928.
-  It was inspired by his long and spiritual friendship with Kamila Stösslová, a married
-  woman 38 years his junior.
+type: chamber

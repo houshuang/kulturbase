@@ -1,13 +1,14 @@
 id: 2290
-title: Soldier of Orange
+title: Filmmusikken til Soldier of Orange
+original_title: Soldier of Orange
+composer_id: 3959
 category: konsert
-type: concerto
+synopsis: 'Dette verket er filmmusikken til Paul Verhoevens krigsdrama fra 1977 (nederlandsk
+  tittel: Soldaat van Oranje), komponert av Rogier van Otterloo. Musikken er et orkestralt
+  partitur som er særlig kjent for sitt heroiske og storslåtte hovedtema, preget av
+  kraftfulle messingblåsere og strykere. Partituret regnes som et av de mest ikoniske
+  i nederlandsk filmhistorie og har i ettertid blitt et populært konsertstykke for
+  orkester.'
 wikidata_id: Q62746
 wikipedia_url: https://en.wikipedia.org/wiki/Soldier_of_Orange
-synopsis: Soldier of Orange, released in the United Kingdom as Survival Run, is a
-  1977 Dutch romantic war thriller film directed and co-written by Paul Verhoeven
-  and produced by Rob Houwer, based on Erik Hazelhoff Roelfzema's autobiographical
-  book of the same name. Starring Rutger Hauer and Jeroen Krabbé, the film is set
-  around the German occupation of the Netherlands during World War II, and shows how
-  individual students have different roles in the war..
-composer_id: 3959
+type: concerto

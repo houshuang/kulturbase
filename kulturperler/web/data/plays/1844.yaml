@@ -1,10 +1,14 @@
 id: 1844
-title: Méditation
+title: Méditation fra Thaïs
+original_title: Méditation
+composer_id: 3945
 category: konsert
-type: concerto
+synopsis: '"Méditation" er et symfonisk intermesso fra andre akt av Jules Massenets
+  opera *Thaïs*, som ble urfremført i 1894. Verket er skrevet for solofiolin og orkester
+  og fungerer som en musikalsk skildring av kurtisanen Thaïs'' religiøse omvendelse.
+  Det er i dag et av de mest berømte stykkene i det klassiske fiolinrepertoaret og
+  fremføres ofte som et frittstående konsertstykke. Stykket er kjent for sin inderlige
+  og drømmende melodi i D-dur.'
 wikidata_id: Q2378995
 wikipedia_url: https://en.wikipedia.org/wiki/M%C3%A9ditation_(Tha%C3%AFs)
-synopsis: '"Méditation" is a symphonic intermezzo from the opera Thaïs by French composer
-  Jules Massenet. The piece is written for solo violin, orchestra and backstage chorus.
-  The opera premiered at the Opéra Garnier in Paris on March 16, 1894..'
-composer_id: 3945
+type: concerto

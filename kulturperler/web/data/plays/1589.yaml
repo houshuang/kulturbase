@@ -1,12 +1,12 @@
 id: 1589
-title: Dichterliebe
+title: Dichterliebe, op. 48
+original_title: Dichterliebe
+composer_id: 3336
 category: konsert
-type: orchestral
+synopsis: Dette er en av Schumanns mest kjente sangsykluser, komponert i det produktive
+  «sangåret» 1840. Verket består av 16 sanger til dikt av Heinrich Heine og regnes
+  som et høydepunkt i den tyske Lieder-tradisjonen. Sangene utforsker en emosjonell
+  reise fra gryende kjærlighet til dyp hjertesorg og resignasjon.
 wikidata_id: Q1209545
 wikipedia_url: https://en.wikipedia.org/wiki/Dichterliebe
-synopsis: Dichterliebe, A Poet's Love, is the best-known song cycle by Robert Schumann.
-  The texts for its 16 songs come from the Lyrisches Intermezzo by Heinrich Heine,
-  written in 1822–23 and published as part of Heine's Das Buch der Lieder. Along with
-  the song cycles of Franz Schubert, Schumann's form the core of the genre in musical
-  literature..
-composer_id: 3336
+type: orchestral

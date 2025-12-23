@@ -3,7 +3,9 @@ work_id: 1191
 source: youtube
 medium: stream
 title: GRIEG - Holberg Suite - Preludium "á la Quarantine"
-credits: []
+credits:
+- person_id: 3877
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

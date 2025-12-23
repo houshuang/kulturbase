@@ -1,13 +1,12 @@
 id: 2213
-title: La Cenerentola
+title: Askepott
+original_title: La Cenerentola
+composer_id: 3250
 category: konsert
-type: opera
+synopsis: Komponert i 1817 og er en opera i to akter basert på det klassiske eventyret
+  om Askepott. I Rossinis versjon er de overnaturlige elementene erstattet med mer
+  realistiske forviklinger, som en ond stefar i stedet for en stemor. Operaen er kjent
+  for sin virtuose vokalmusikk, spesielt den krevende finalearien «Nacqui all'affanno».
 wikidata_id: Q176700
 wikipedia_url: https://en.wikipedia.org/wiki/La_Cenerentola
-synopsis: La Cenerentola, ossia La bontà in trionfo is an operatic dramma giocoso
-  in two acts by Gioachino Rossini. The libretto was written by Jacopo Ferretti, based
-  on the libretti written by Charles-Guillaume Étienne for the opera Cendrillon with
-  music by Nicolas Isouard and by Francesco Fiorini for Agatina, o la virtù premiata
-  with music by Stefano Pavesi. All these operas are versions of the fairy tale Cendrillon
-  by Charles Perrault.
-composer_id: 3250
+type: opera

@@ -1,12 +1,12 @@
 id: 2129
-title: St Matthew Passion
+title: Matteuspasjonen, BWV 244
+original_title: St Matthew Passion
+composer_id: 3753
 category: konsert
-type: orchestral
+synopsis: Et storslått sakralt oratorium skrevet for langfredag, først fremført i
+  1727 i Leipzig. Det skildrer lidelseshistorien slik den er fortalt i Matteusevangeliet.
+  Verket er kjent for sin bruk av dobbeltkor og dobbeltorkester, og regnes som en
+  av de absolutte bærebjelkene i kirkemusikken.
 wikidata_id: Q379111
 wikipedia_url: https://en.wikipedia.org/wiki/St_Matthew_Passion
-synopsis: The St Matthew Passion, BWV 244, is a Passion, a sacred oratorio written
-  by Johann Sebastian Bach in 1727 for solo voices, double choir and double orchestra,
-  with libretto by Picander. It sets the 26th and 27th chapters of the Gospel of Matthew
-  to music, with interspersed chorales and arias. It is widely regarded as one of
-  the masterpieces of Baroque sacred music.
-composer_id: 3753
+type: orchestral

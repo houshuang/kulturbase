@@ -1,10 +1,12 @@
 id: 1566
-title: String Trios, Op. 9
-category: konsert
-type: chamber
+title: Stryketrioer, op. 9
+original_title: String Trios, Op. 9
 composer_id: 3478
+category: konsert
+synopsis: En samling av tre trioer (i G-dur, D-dur og c-moll) komponert i 1797–1798.
+  Beethoven anså selv disse verkene som sine beste komposisjoner frem til det tidspunktet
+  i karrieren. Trioene viser en moden og sofistikert bruk av de tre strykeinstrumentene
+  og peker frem mot hans senere banebrytende strykekvartetter.
 wikidata_id: Q17025632
 wikipedia_url: https://en.wikipedia.org/wiki/String_Trios%2C_Op._9_(Beethoven)
-synopsis: The three String Trios, Op. 9 were composed by Ludwig van Beethoven in 1797–98.
-  He published them in Vienna in 1799, with a dedication to his patron Count Johann
-  Georg von Browne (1767–1827).
+type: chamber

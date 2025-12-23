@@ -1,9 +1,14 @@
 id: 1600
 title: La mer
+original_title: La mer
+composer_id: 3933
 category: konsert
-type: orchestral
+synopsis: «La mer» ble komponert mellom 1903 og 1905 og bærer undertittelen «tre symfoniske
+  skisser». Verket er et av Debussys mest storslåtte orkesterverk og skildrer havets
+  ulike stemninger gjennom de tre satsene «Fra daggry til middag på havet», «Bølgenes
+  lek» og «Dialog mellom vinden og havet». Musikken er berømt for sin rike orkestrering
+  og evne til å male lydbilder av lys, vann og naturkrefter uten å være tradisjonelt
+  programmatisk.
 wikidata_id: Q1057812
 wikipedia_url: https://en.wikipedia.org/wiki/La_mer_(Debussy)
-synopsis: La mer, trois esquisses symphoniques pour orchestre, or simply La mer, L.
-  109, CD. 111, is an orchestral composition by the French composer Claude Debussy..
-composer_id: 3933
+type: orchestral

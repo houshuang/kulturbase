@@ -1,13 +1,13 @@
 id: 2022
-title: Triple Concerto, BWV 1044
+title: Trippelkonsert for fløyte, fiolin og cembalo i a-moll, BWV 1044
+original_title: Triple Concerto, BWV 1044
+composer_id: 3753
 category: konsert
-type: concerto
+synopsis: Denne konserten ble komponert i Leipzig, sannsynligvis på 1730-tallet, og
+  er basert på tidligere materiale av Bach. Den bruker temaer fra et preludium og
+  fuge for cembalo (BWV 894) og en triosonate for orgel (BWV 527). Verket er uvanlig
+  ved at det gir cembaloen en svært dominerende og virtuos rolle ved siden av fløyte
+  og fiolin.
 wikidata_id: Q27957940
 wikipedia_url: https://en.wikipedia.org/wiki/Triple_Concerto%2C_BWV_1044
-synopsis: '
-
-  The Triple Concerto, BWV 1044, is a concerto in A minor for traverso, violin, harpsichord,
-  and string orchestra by Johann Sebastian Bach. He based the composition on his Prelude
-  and Fugue BWV 894 for harpsichord and on the middle movement of his Organ Sonata
-  BWV 527, or on earlier lost models for these compositions..'
-composer_id: 3753
+type: concerto

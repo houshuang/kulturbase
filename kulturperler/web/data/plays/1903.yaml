@@ -1,11 +1,12 @@
 id: 1903
-title: Ariadne auf Naxos
-category: konsert
-type: orchestral
+title: Ariadne auf Naxos, op. 60
+original_title: Ariadne auf Naxos
 composer_id: 3256
+category: konsert
+synopsis: Komponert i 1912 og revidert i 1916 med libretto av Hugo von Hofmannsthal.
+  Verket er en unik blanding av opera seria og commedia dell'arte, der to vidt forskjellige
+  teatergrupper tvinges til å opptre samtidig. Den inneholder den ekstremt krevende
+  koloraturarien til karakteren Zerbinetta.
 wikidata_id: Q654633
 wikipedia_url: https://en.wikipedia.org/wiki/Ariadne_auf_Naxos
-synopsis: 'Ariadne auf Naxos, Op. 60, is a 1912 opera by Richard Strauss with a German
-  libretto by Hugo von Hofmannsthal. The opera''s unusual combination of elements
-  of low commedia dell''arte with those of high opera seria points up one of the work''s
-  principal themes: the competition between high and low art for the public''s attention..'
+type: orchestral

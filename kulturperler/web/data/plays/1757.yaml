@@ -1,10 +1,13 @@
 id: 1757
-title: Symphony No. 9
+title: Symfoni nr. 9 i e-moll, op. 95, «Fra den nye verden»
+original_title: Symphony No. 9
+composer_id: 3410
 category: konsert
-type: symphony
+synopsis: Dette er en av de mest berømte symfoniene i musikkhistorien, komponert i
+  1893 mens Dvořák var direktør for musikkonservatoriet i New York. Verket henter
+  inspirasjon fra amerikanske spirituals og urfolksmusikk, kombinert med bøhmiske
+  tradisjoner. Spesielt den andre satsen, Largo, er verdenskjent for sitt melankolske
+  og vakre tema spilt på engelsk horn.
 wikidata_id: Q11985
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._9_(Dvo%C5%99%C3%A1k)
-synopsis: The Symphony No. 9 in E minor, "From the New World", Op. 95, B. 178, also
-  known as the New World Symphony, was composed by Antonín Dvořák in 1893 while he
-  was the director of the National Conservatory of Music of America from 1892 to 1895.
-composer_id: 3410
+type: symphony

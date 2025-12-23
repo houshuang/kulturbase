@@ -1,10 +1,13 @@
 id: 1445
-title: Piano Concerto No. 2
-work_type: concerto
-category: konsert
+title: Pianokonsert nr. 2 i c-moll, op. 18
 original_title: Pianokonsert nr. 2
 composer_id: 3480
-synopsis: The Piano Concerto No. 2 in C minor, Op. 18, is a concerto for piano and
-  orchestra composed by Sergei Rachmaninoff between June 1900 and April 1901.
+work_type: concerto
+category: konsert
+synopsis: Komponert mellom 1900 og 1901, markerte denne konserten Rachmaninoffs triumferende
+  comeback etter en dyp depresjon og flerårig skrivesperre. Verket er dedisert til
+  terapeuten Nikolai Dahl, som hjalp ham gjennom krisen ved hjelp av hypnose. Det
+  er i dag et av de mest populære verkene i klassisk musikk, kjent for sine emosjonelle
+  temaer og den ikoniske åpningen med tunge pianoakkorder.
 wikidata_id: Q210224
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Concerto_No._2_(Rachmaninoff)

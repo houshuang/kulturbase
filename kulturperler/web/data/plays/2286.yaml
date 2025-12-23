@@ -1,12 +1,13 @@
 id: 2286
-title: Peter Grimes
+title: Peter Grimes, op. 33
+original_title: Peter Grimes
+composer_id: 3337
 category: konsert
-type: opera
+synopsis: Peter Grimes er en opera i tre akter med prolog, komponert mellom 1944 og
+  1945. Verket regnes som et av de viktigste britiske operaverkene i det 20. århundre
+  og er basert på George Crabbes dikt «The Borough». De fire orkestrale mellomspillene,
+  kjent som «Four Sea Interludes», beskriver havet og stemningen i den lille kystbyen,
+  og fremføres ofte som et selvstendig konsertstykke.
 wikidata_id: Q780331
 wikipedia_url: https://en.wikipedia.org/wiki/Peter_Grimes
-synopsis: Peter Grimes, Op. 33, is an opera in three acts by Benjamin Britten, with
-  a libretto by Montagu Slater based on the section "Peter Grimes", in George Crabbe's
-  long narrative poem The Borough. The "borough" of the opera is a fictional small
-  town that bears some resemblance to Crabbe's – and later Britten's – home of Aldeburgh,
-  Suffolk, on England's east coast..
-composer_id: 3337
+type: opera

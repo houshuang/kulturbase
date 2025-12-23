@@ -1,14 +1,12 @@
 id: 2126
-title: Bach cantata
+title: Bach-kantater
+original_title: Bach cantata
+composer_id: 3753
 category: konsert
-type: orchestral
+synopsis: Dette refererer til Bachs enorme produksjon av over 200 bevarte kirkelige
+  og verdslige kantater. De fleste ble skrevet i Leipzig for de ukentlige gudstjenestene
+  og følger kirkeåret. Kantatene kombinerer korpartier, arier og koraler, og utgjør
+  kjernen i Bachs musikalske virke.
 wikidata_id: Q1369421
 wikipedia_url: https://en.wikipedia.org/wiki/Bach_cantata
-synopsis: The cantatas composed by Johann Sebastian Bach, known as Bach cantatas,
-  are a body of work consisting of over 200 surviving independent works, and at least
-  several dozen that are considered lost. As far as known, Bach's earliest cantatas
-  date from 1707, the year he moved to Mühlhausen, although he may have begun composing
-  them at his previous post in Arnstadt. Most of Bach's church cantatas date from
-  his first years as Thomaskantor and director of church music in Leipzig, a position
-  which he took up in 1723..
-composer_id: 3753
+type: orchestral

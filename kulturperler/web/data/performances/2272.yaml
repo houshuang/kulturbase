@@ -2,7 +2,9 @@ id: 2272
 source: youtube
 medium: stream
 title: RACHMANINOV - Piano concerto No 3 - mvt II and III
-credits: []
+credits:
+- person_id: 4313
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

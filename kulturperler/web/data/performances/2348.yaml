@@ -3,7 +3,8 @@ work_id: 1306
 source: youtube
 medium: stream
 title: 'Mozart: Requiem KV 626 (Tromsø)'
-description: Live performance by The Arctic Philharmonic Orchestra and Vokal Nord, conducted by Herbert Böck, in The Arctic Cathedral, Tromsø.
+description: Live performance by The Arctic Philharmonic Orchestra and Vokal Nord,
+  conducted by Herbert Böck, in The Arctic Cathedral, Tromsø.
 credits:
 - person_id: 3901
   role: soloist
@@ -11,6 +12,8 @@ credits:
 - person_id: 3902
   role: soloist
   instrument: Tenor
+- person_id: 4315
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

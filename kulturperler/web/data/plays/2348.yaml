@@ -1,9 +1,13 @@
 id: 2348
-title: String Quartet No. 4
+title: Strykekvartett nr. 4 i c-moll, op. 18 nr. 4
+original_title: String Quartet No. 4
+composer_id: 3478
 category: konsert
-type: chamber
+synopsis: Dette er den fjerde av de seks kvartettene i Beethovens første sett med
+  strykekvartetter, komponert mellom 1798 og 1800. Det er den eneste kvartetten i
+  op. 18-samlingen som går i moll, noe som gir den et typisk beethovensk preg av drama
+  og intensitet. Verket mangler en tradisjonell langsom sats, og benytter i stedet
+  en scherzo-preget andante.
 wikidata_id: Q231274
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._4_(Beethoven)
-synopsis: Ludwig van Beethoven composed his String Quartet No. 4 in C minor, Op. 18,
-  No.
-composer_id: 3478
+type: chamber

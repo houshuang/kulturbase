@@ -3,7 +3,9 @@ work_id: 1470
 source: youtube
 medium: stream
 title: TCHAIKOVSKY - Symphony No. 4 in f-minor, op. 36
-credits: []
+credits:
+- person_id: 3967
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

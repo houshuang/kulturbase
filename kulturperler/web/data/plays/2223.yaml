@@ -1,10 +1,13 @@
 id: 2223
-title: Zoluška
+title: Askepott, op. 87
+original_title: Zoluška
+composer_id: 3466
 category: konsert
-type: ballet
+synopsis: 'Askepott (russisk: Zoluška) er en ballett i tre akter komponert mellom
+  1940 og 1944. Verket er et av Prokofievs mest populære og melodiske partiturer,
+  kjent for sin fargerike orkestrering og karakteristiske bruk av ledemotiver for
+  de ulike figurene. Musikken fanger både det magiske ved eventyret og den menneskelige
+  sårbarheten i historien, og inneholder kjente stykker som den berømte midnattsvalsen.'
 wikidata_id: Q144545
 wikipedia_url: https://en.wikipedia.org/wiki/Cinderella_(Prokofiev)
-synopsis: Cinderella Op. 87, is a ballet composed by Sergei Prokofiev to a scenario
-  by Nikolai Volkov. It is one of his most popular and melodious compositions, and
-  has inspired a great many choreographers since its inception.
-composer_id: 3466
+type: ballet

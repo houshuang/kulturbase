@@ -2,14 +2,18 @@ id: 335
 title: Vildanden
 original_title: Vildanden
 playwright_id: 879
-synopsis: Vildanden er et skuespill av Henrik Ibsen fra 1884. Det handler om familien
-  Ekdal og konsekvensene når sannheten om fortiden avsløres. Vildanden på loftet blir
-  et symbol på familiens illusjoner og selvbedrag.
+work_type: teaterstykke
+category: teater
+synopsis: Hjalmar Ekdal lever et tilsynelatende lykkelig liv med sin kone Gina og
+  datteren Hedvig, men tilværelsen er bygget på en livsløgn. Barndomsvennen Gregers
+  Werle ankommer og insisterer på å avsløre sannheten om Ginas fortid for å rense
+  ekteskapet. Avsløringen fører til at Hjalmar vender seg mot Hedvig, som han nå tviler
+  på er hans biologiske datter. I et desperat forsøk på å vinne tilbake farens kjærlighet,
+  ender Hedvig med å ta sitt eget liv. Stykket utforsker temaer som sannhet, idealisme
+  og menneskets behov for illusjoner.
+sceneweb_id: 2887
+sceneweb_url: https://sceneweb.no/nb/artwork/2887/
 external_links:
 - url: https://www.bokselskap.no/boker/vildanden
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 2887
-sceneweb_url: https://sceneweb.no/nb/artwork/2887/

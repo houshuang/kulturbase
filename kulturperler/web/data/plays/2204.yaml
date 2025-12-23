@@ -1,9 +1,11 @@
 id: 2204
 title: Madama Butterfly
+composer_id: 3703
 category: konsert
-type: orchestral
+synopsis: Madama Butterfly er en opera i tre akter som ble urfremført ved La Scala
+  i 1904. Handlingen er lagt til Nagasaki i Japan og forteller den tragiske historien
+  om den unge geishaen Cio-Cio-San og hennes ekteskap med den amerikanske marineoffiseren
+  Pinkerton. Operaen er berømt for sin vakre orkestrering og arien «Un bel dì, vedremo».
 wikidata_id: Q19005
 wikipedia_url: https://en.wikipedia.org/wiki/Madama_Butterfly
-synopsis: Madama Butterfly is an opera in three acts by Giacomo Puccini, with an Italian
-  libretto by Luigi Illica and Giuseppe Giacosa..
-composer_id: 3703
+type: orchestral

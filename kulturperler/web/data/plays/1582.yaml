@@ -1,18 +1,13 @@
 id: 1582
-title: Estaciones Porteñas
-category: konsert
-type: orchestral
+title: Las Cuatro Estaciones Porteñas
+original_title: Estaciones Porteñas
 composer_id: 3780
+category: konsert
+synopsis: Dette verket, ofte kalt «De fire årstidene i Buenos Aires», består av fire
+  separate tangokomposisjoner skrevet mellom 1965 og 1970. Satsene skildrer årstidene
+  i den argentinske hovedstaden og ble opprinnelig komponert for Piazzollas egen kvintett.
+  I nyere tid har verket blitt svært populært i arrangementer for strykeorkester,
+  ofte fremført som en parallell til Vivaldis berømte årstider.
 wikidata_id: Q5400014
 wikipedia_url: https://en.wikipedia.org/wiki/Estaciones_Porte%C3%B1as
-synopsis: 'The Cuatro Estaciones Porteñas, also known as the Estaciones Porteñas or
-  The Four Seasons of Buenos Aires, are a set of four tango compositions written by
-  Astor Piazzolla, which were originally conceived and treated as different compositions
-  rather than one suite, although Piazzolla performed them together from time to time.
-  The pieces were scored for his quintet of violin (viola), piano, electric guitar,
-  double bass and bandoneón. By giving the adjective porteño, referring to those born
-  in Buenos Aires, the Argentine capital city, Piazzolla gives an impression of the
-  four seasons in Buenos Aires.
-
-  The order of performance Piazzolla gave to his "Estaciones Porteñas" is: Otoño (Autumn),
-  Invierno (Winter), Primavera (Spring), Verano (Summer).'
+type: orchestral

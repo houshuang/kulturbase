@@ -1,12 +1,14 @@
 id: 1053
 title: Metropolis
+composer_id: 3402
 work_type: orchestral
 category: konsert
-composer_id: 3402
+synopsis: '"Metropolis" er et verk av Nils Henrik Asheim skrevet som et live-akkompagnement
+  til Fritz Langs stumfilmklassiker fra 1927. Verket er komponert for et såkalt «utvidet
+  orgel» (hyper-orgel), der orgelets klang bearbeides elektronisk i sanntid ved hjelp
+  av programvare som Max/MSP. Forestillingen benytter seg ofte av en dobbelprojeksjon,
+  der filmen vises både på lerret og direkte på orgelfasaden og veggene i konsertsalen.
+  Musikken blander komponerte partier med improvisasjon for å skape et futuristisk
+  lydbilde som utfyller filmens dystopiske tematikk.'
 wikidata_id: Q151599
 wikipedia_url: https://en.wikipedia.org/wiki/Metropolis_(1927_film)
-synopsis: Metropolis is a 1927 German expressionist science-fiction silent film directed
-  by Fritz Lang and written by Thea von Harbou in collaboration with Lang, based on
-  von Harbou's 1925 novel of the same name. It stars Gustav Fröhlich, Alfred Abel,
-  Rudolf Klein-Rogge, and Brigitte Helm. Erich Pommer produced it in the Babelsberg
-  Studio for Universum Film A.G.

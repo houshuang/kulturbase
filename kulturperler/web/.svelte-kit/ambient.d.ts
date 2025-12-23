@@ -27,6 +27,7 @@
  */
 declare module '$env/static/private' {
 	export const GEMINI_KEY: string;
+	export const OPENAI_KEY: string;
 	export const NoDefaultCurrentDirectoryInExePath: string;
 	export const CLAUDE_CODE_ENTRYPOINT: string;
 	export const TERM_PROGRAM: string;
@@ -128,6 +129,7 @@ declare module '$env/static/public' {
 declare module '$env/dynamic/private' {
 	export const env: {
 		GEMINI_KEY: string;
+		OPENAI_KEY: string;
 		NoDefaultCurrentDirectoryInExePath: string;
 		CLAUDE_CODE_ENTRYPOINT: string;
 		TERM_PROGRAM: string;

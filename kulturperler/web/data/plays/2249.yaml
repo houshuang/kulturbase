@@ -1,10 +1,12 @@
 id: 2249
-title: The Flying Dutchman
+title: Den flyvende hollender
+original_title: The Flying Dutchman
+composer_id: 3475
 category: konsert
-type: opera
+synopsis: Dette er en romantisk opera komponert i perioden 1840–1841, basert på legenden
+  om spøkelsesskipet som er dømt til å seile hvileløst på havet. Verket markerer Wagners
+  overgang mot hans karakteristiske musikkdrama-stil med bruk av ledemotiver. Kjente
+  partier inkluderer den dramatiske overtyren, Sentas ballade og 'Sjømannskoret'.
 wikidata_id: Q114640
 wikipedia_url: https://en.wikipedia.org/wiki/Der_fliegende_Holl%C3%A4nder
-synopsis: Der fliegende Holländer, WWV 63, is a German-language opera, with libretto
-  and music by Richard Wagner. The central theme is redemption through love. Wagner
-  conducted the premiere at the Königliches Hoftheater Dresden in 1843..
-composer_id: 3475
+type: opera

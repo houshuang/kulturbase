@@ -2,7 +2,9 @@ id: 2330
 source: youtube
 medium: stream
 title: HALVORSEN - Norwegian Dance No. 1 - Hemsing
-credits: []
+credits:
+- person_id: 3328
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

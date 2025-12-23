@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Enrich YouTube performances with conductor data using Gemini 3 Flash with Google Search.
+Enrich YouTube performances with conductor data using Gemini 3 Flash with Google Search,
+with fallback to OpenAI GPT-5.2.
 
 This script:
 1. Loads YouTube performances that are orchestral types without conductors
 2. Uses Gemini with Google Search to find conductor information
-3. Looks up or creates person entries in data/persons/
-4. Updates performance YAML files with conductor credits
+3. Falls back to OpenAI GPT-5.2 if Gemini fails
+4. Looks up or creates person entries in data/persons/
+5. Updates performance YAML files with conductor credits
 """
 
 import os
@@ -20,10 +22,16 @@ from dotenv import load_dotenv
 
 # Load environment
 load_dotenv()
-API_KEY = os.getenv('GEMINI_KEY')
-if not API_KEY:
-    print("Error: GEMINI_KEY not found in .env")
+GEMINI_KEY = os.getenv('GEMINI_KEY')
+OPENAI_KEY = os.getenv('OPENAI_KEY')
+
+if not GEMINI_KEY and not OPENAI_KEY:
+    print("Error: Neither GEMINI_KEY nor OPENAI_KEY found in .env")
     sys.exit(1)
+
+# Track which API to use (start with Gemini, switch to OpenAI after failures)
+gemini_failures = 0
+use_openai = False
 
 DATA_DIR = Path('data')
 PERFORMANCES_DIR = DATA_DIR / 'performances'
@@ -45,10 +53,8 @@ def save_yaml(path, data):
     with open(path, 'w', encoding='utf-8') as f:
         yaml.dump(clean_data, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
-def search_conductor_with_gemini(title, work_title, year, youtube_url=None):
-    """Use Gemini with Google Search to find conductor information."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={API_KEY}"
-
+def build_conductor_prompt(title, work_title, year, youtube_url=None):
+    """Build the prompt for conductor search."""
     search_terms = []
     if youtube_url:
         search_terms.append(f"YouTube URL: {youtube_url}")
@@ -59,7 +65,7 @@ def search_conductor_with_gemini(title, work_title, year, youtube_url=None):
 
     context = "\n".join(search_terms)
 
-    query = f"""Find the conductor (dirigent) for this orchestral concert recording:
+    return f"""Find the conductor (dirigent) for this orchestral concert recording:
 {context}
 
 Search for the conductor who led this performance. Look for orchestra conductor credits.
@@ -72,8 +78,13 @@ Respond with ONLY ONE of these formats:
 
 Just the name or status, nothing else."""
 
+
+def search_with_gemini(prompt):
+    """Use Gemini with Google Search."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={GEMINI_KEY}"
+
     payload = {
-        "contents": [{"parts": [{"text": query}]}],
+        "contents": [{"parts": [{"text": prompt}]}],
         "tools": [{"google_search": {}}],
         "generationConfig": {"temperature": 0.1}
     }
@@ -91,8 +102,65 @@ Just the name or status, nothing else."""
                 return '\n'.join(text_parts).strip() if text_parts else None
         return None
     except Exception as e:
-        print(f"  Error calling Gemini: {e}")
+        print(f"  Gemini error: {e}")
         return None
+
+
+def search_with_openai(prompt):
+    """Use OpenAI GPT-4o as fallback."""
+    url = "https://api.openai.com/v1/chat/completions"
+
+    headers = {
+        "Authorization": f"Bearer {OPENAI_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": "gpt-4o",
+        "messages": [
+            {"role": "system", "content": "You are a helpful assistant that finds conductor information for classical music performances. Use your knowledge to identify conductors. Always respond with just the conductor's name, NO_CONDUCTOR (for chamber/solo music), or NOT_FOUND."},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.1
+    }
+
+    try:
+        r = requests.post(url, headers=headers, json=payload, timeout=60)
+        r.raise_for_status()
+        result = r.json()
+
+        if 'choices' in result and len(result['choices']) > 0:
+            return result['choices'][0]['message']['content'].strip()
+        return None
+    except Exception as e:
+        print(f"  OpenAI error: {e}")
+        return None
+
+
+def search_conductor(title, work_title, year, youtube_url=None):
+    """Search for conductor using Gemini, with OpenAI fallback."""
+    global gemini_failures, use_openai
+
+    prompt = build_conductor_prompt(title, work_title, year, youtube_url)
+
+    # Try Gemini first (unless we've switched to OpenAI)
+    if not use_openai and GEMINI_KEY:
+        result = search_with_gemini(prompt)
+        if result:
+            gemini_failures = 0  # Reset on success
+            return result
+        else:
+            gemini_failures += 1
+            if gemini_failures >= 3 and OPENAI_KEY:
+                print("  -> Switching to OpenAI after repeated Gemini failures")
+                use_openai = True
+
+    # Try OpenAI
+    if OPENAI_KEY:
+        print("  Using OpenAI GPT-4o...")
+        return search_with_openai(prompt)
+
+    return None
 
 def get_works():
     """Load all works into a lookup dictionary."""
@@ -244,15 +312,15 @@ def main():
             print(f"  YouTube: {youtube_url}")
 
         print(f"  Searching for conductor...")
-        response = search_conductor_with_gemini(title, work_title, year, youtube_url)
+        response = search_conductor(title, work_title, year, youtube_url)
 
         if not response:
-            print(f"  No response from Gemini")
+            print(f"  No response from API")
             errors += 1
             time.sleep(2)
             continue
 
-        print(f"  Gemini response: {response[:100]}...")
+        print(f"  Response: {response[:100]}...")
 
         conductor_name = extract_conductor_name(response)
 

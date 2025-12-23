@@ -1,9 +1,14 @@
 id: 1742
-title: Petite Symphonie
+title: Petite Symphonie i B-dur
+original_title: Petite Symphonie
+composer_id: 3941
 category: konsert
-type: symphony
+synopsis: 'Verket ble komponert i 1885 på bestilling fra fløytisten Paul Taffanel
+  for hans blåserensemble i Paris. Det er en liten symfoni skrevet for ni blåseinstrumenter:
+  én fløyte, to oboer, to klarinetter, to horn og to fagotter. Verket består av fire
+  satser og er preget av en lyrisk, klassisistisk stil som minner om Mozarts serenader.
+  Spesielt den andre satsen, «Andante cantabile», er kjent for sin vakre fløytesolo
+  skrevet spesielt for Taffanel.'
 wikidata_id: Q3377385
 wikipedia_url: https://en.wikipedia.org/wiki/Petite_Symphonie_(Gounod)
-synopsis: The Petite Symphonie in B-flat major is a four-movement work by Charles
-  Gounod, first performed in 1885. It is scored for a wind ensemble of nine players..
-composer_id: 3941
+type: symphony

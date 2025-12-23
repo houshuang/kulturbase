@@ -1,9 +1,15 @@
 id: 1710
-title: Symphony No. 3
+title: Symfoni nr. 3 i c-moll, op. 78 «Orgelsymfonien»
+original_title: Symphony No. 3
+composer_id: 3802
 category: konsert
-type: symphony
+synopsis: Verket ble komponert i 1886 på bestilling fra Royal Philharmonic Society
+  i London og er et av Saint-Saëns' mest kjente verker. Det er berømt for sin innovative
+  bruk av pipeorgel og piano (firehendig) integrert i orkesteret, noe som gir en monumental
+  klang i finalen. Symfonien er formelt delt i to satser, men hver av disse består
+  av to sammenhengende deler som følger den tradisjonelle symfoniske strukturen. Verket
+  ble dedisert til minnet om komponistens venn Franz Liszt, som døde kort tid etter
+  ferdigstillelsen.
 wikidata_id: Q223533
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._3_(Saint-Sa%C3%ABns)
-synopsis: The Symphony No. 3 in C minor, Op. 78, was completed by Camille Saint-Saëns
-  in 1886 at the peak of his artistic career.
-composer_id: 3802
+type: symphony

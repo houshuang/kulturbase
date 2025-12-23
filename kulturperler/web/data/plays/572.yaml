@@ -2,14 +2,18 @@ id: 572
 title: John Gabriel Borkman
 original_title: John Gabriel Borkman
 playwright_id: 879
-synopsis: John Gabriel Borkman er et skuespill av Henrik Ibsen fra 1896. Det handler
-  om den tidligere bankdirektøren Borkman som har sonet en fengselsstraff for underslag
-  og nå lever isolert i sitt eget hjem, drømmende om gjenreisning.
+work_type: teaterstykke
+category: teater
+synopsis: Den tidligere banksjefen John Gabriel Borkman har sonet en fengselsstraff
+  for bedrageri og lever nå i selvvalgt isolasjon i husets andre etasje. Hans kone
+  Gunhild lever i etasjen under, og de to har ikke snakket sammen på mange år. Konflikten
+  tilspisses når Gunhilds tvillingsøster, Ella Rentheim, ankommer for å kjempe om
+  omsorgen for sønnen Erhart. Erhart velger til slutt å forlate begge søstrene og
+  sin far for å søke lykken ute i verden med en eldre kvinne. Stykket ender med at
+  Borkman dør ute i vinterkulden mens de to søstrene forsones over hans lik.
+sceneweb_id: 3633
+sceneweb_url: https://sceneweb.no/nb/artwork/3633/
 external_links:
 - url: https://www.ibsen.uio.no/DRVIT_JG|JGht.xhtml
   title: Ibsens skrifter
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3633
-sceneweb_url: https://sceneweb.no/nb/artwork/3633/

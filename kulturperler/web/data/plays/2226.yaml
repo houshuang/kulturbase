@@ -1,15 +1,14 @@
 id: 2226
-title: Carmen Suite
+title: Carmen-suite
+original_title: Carmen Suite
+composer_id: 3957
 category: konsert
-type: concerto
+synopsis: Carmen-suite er en ballett i én akt fra 1967, koreografert av Alberto Alonso
+  spesielt for den legendariske ballerinaen Maja Plisetskaja. Musikken er komponert
+  av Rodion Sjtsjedrin, som bearbeidet og re-instrumenterte temaer fra Georges Bizets
+  opera Carmen for strykeorkester og en omfattende slagverksgruppe. Verket er kjent
+  for sin dramatiske og moderne stil, og det utfordret datidens sovjetiske konvensjoner
+  for klassisk dans ved premieren på Bolsjojteateret.
 wikidata_id: Q1995373
 wikipedia_url: https://en.wikipedia.org/wiki/Carmen_Suite_(ballet)
-synopsis: Carmen Suite is a one-act ballet created in 1967 by Cuban choreographer
-  Alberto Alonso to music by Russian composer Rodion Shchedrin for his wife, prima
-  ballerina assoluta Maya Plisetskaya. The premiere took place on 20 April 1967 at
-  the Bolshoi Theatre, Moscow. The music, taken from Bizet's opera Carmen and arranged
-  for strings and percussion, is not a 19th-century pastiche but rather "a creative
-  meeting of the minds," as Shchedrin put it, with Bizet's melodies reclothed in a
-  variety of fresh instrumental colors, set to new rhythms and often phrased with
-  a great deal of sly wit.
-composer_id: 3957
+type: concerto

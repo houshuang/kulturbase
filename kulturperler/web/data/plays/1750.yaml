@@ -1,9 +1,15 @@
 id: 1750
-title: Ruslan and Lyudmila
+title: Ruslan og Ljudmila
+original_title: Ruslan and Lyudmila
+composer_id: 3942
 category: konsert
-type: symphony
+synopsis: Ruslan og Ljudmila er en opera i fem akter komponert av Mikhail Glinka mellom
+  1837 og 1842. Librettoen er basert på Aleksandr Pusjkins episke dikt med samme navn,
+  og verket regnes som en hjørnestein i utviklingen av en russisk nasjonal operastil.
+  Operaen er særlig berømt for sin gnistrende og energiske ouverture, som er et fast
+  innslag på orkesterrepertoaret verden over. Musikalsk er verket nyskapende gjennom
+  sin bruk av både russiske folketoner og eksotiske orientalske elementer, inkludert
+  en tidlig bruk av heltoneskalaen.
 wikidata_id: Q522408
 wikipedia_url: https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)
-synopsis: Ruslan and Lyudmila is an opera in five acts composed by Mikhail Glinka
-  between 1837 and 1842..
-composer_id: 3942
+type: symphony

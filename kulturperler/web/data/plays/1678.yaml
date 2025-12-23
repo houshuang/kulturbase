@@ -1,14 +1,18 @@
 id: 1678
-title: Landkjenning / Edvard Grieg / Henrik Hellstenius / V. Petrenko / Oslo Philharmonic
-  Orchestra & Choir
+title: Landkjenning, op. 31
+original_title: Landkjenning / Edvard Grieg / Henrik Hellstenius / V. Petrenko / Oslo
+  Philharmonic Orchestra & Choir
+composer_id: 1230
 category: konsert
-type: orchestral
+synopsis: Landkjenning, op. 31 er en kantate for barytonsolo, mannskor og orkester,
+  komponert av Edvard Grieg i 1872 til tekst av Bjørnstjerne Bjørnson. Verket skildrer
+  kong Olav Tryggvason som vender hjem over havet i år 995 for å kristne Norge og
+  reise en kirke i Nidaros. Musikken ble opprinnelig skrevet for å samle inn midler
+  til restaureringen av Nidarosdomen og ble urfremført på Akershus festning på nasjonaldagen
+  i 1872. Komposisjonen utvikler seg fra en søkende og lengselsfull stemning til en
+  storslått, religiøs hyllest idet skipene når land. Med sin heroiske karakter og
+  nasjonalromantiske stil har verket blitt stående som en grunnpilar i det norske
+  mannskorrepertoaret.
 wikidata_id: Q6484686
 wikipedia_url: https://en.wikipedia.org/wiki/Landkjenning
-synopsis: 'Landkjenning is the second full-length album by the Norwegian folk rock
-  band Glittertind, released on May 27, 2009 through Napalm Records. All instruments
-  and vocals were done by Torbjørn Sandvik and Geirmund Simonsen except the following
-  instruments handled by session members: Harding fiddle by Erlend Viken, flutes by
-  Stefan Theofilakis and cello by Kaja Fjellberg Pettersen. The cover-artwork was
-  done by Kris Verwimp and the cover-layout by Julien Riesen..'
-composer_id: 1230
+type: orchestral

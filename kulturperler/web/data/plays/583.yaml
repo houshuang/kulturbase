@@ -2,14 +2,21 @@ id: 583
 title: Frøken Julie
 original_title: Fröken Julie
 playwright_id: 3104
-synopsis: Frøken Julie er et naturalistisk skuespill av August Strindberg fra 1888.
-  Det utspiller seg på midtsommernatten når grevedatteren Julie innleder et forhold
-  til tjeneren Jean, med fatale konsekvenser.
+work_type: teaterstykke
+category: teater
+synopsis: Handlingen foregår på en herregård i løpet av en intens midtsommeraften
+  og natt. Den adelige Frøken Julie innleder en farlig flørt med farens tjener, Jean,
+  i en atmosfære preget av fest og alkohol. De to karakterene kjemper en kamp om makt
+  og status, der klasseforskjeller og kjønnsroller kolliderer voldsomt. Etter at de
+  har ligget sammen, faller Julie fra sin sosiale posisjon og ser ingen annen utvei
+  enn selvmord. Stykket er et hovedverk i naturalismen og utforsker hvordan arv og
+  miljø former menneskets skjebne.
+sceneweb_id: 118362
+sceneweb_url: https://sceneweb.no/nb/artwork/118362/
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/FrökenJulie1888/sida/i/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 118362
-sceneweb_url: https://sceneweb.no/nb/artwork/118362/
+- url: https://www.ntathome.com/julie
+  title: National Theatre at Home (abonnement)
+  type: streaming

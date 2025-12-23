@@ -1,10 +1,12 @@
 id: 1955
-title: Quartettsatz
-category: konsert
-type: chamber
+title: Strykekvartett nr. 12 i c-moll, D 703 («Quartettsatz»)
+original_title: Quartettsatz
 composer_id: 3374
+category: konsert
+synopsis: Dette verket fra 1820 markerer starten på Schuberts modne stil for strykekvartett.
+  Han fullførte bare den første satsen (Allegro assai) og begynte på en andre sats
+  før han la arbeidet til side. Til tross for at det er et fragment, regnes «Quartettsatz»
+  som et mesterverk på grunn av sin dramatiske intensitet og nyskapende harmonikk.
 wikidata_id: Q3413020
 wikipedia_url: https://en.wikipedia.org/wiki/Quartettsatz%2C_D_703_(Schubert)
-synopsis: The Quartettsatz c-Moll D 703 was composed by Franz Schubert in December
-  1820 as the first movement, Allegro assai, of a string quartet he was never to complete.
-  Upon publication it was nonetheless listed as his "String Quartet No. 12".
+type: chamber

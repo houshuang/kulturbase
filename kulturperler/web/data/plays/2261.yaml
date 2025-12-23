@@ -1,11 +1,12 @@
 id: 2261
-title: The Nutcracker
+title: Nøtteknekkeren, op. 71
+original_title: The Nutcracker
+composer_id: 3489
 category: konsert
-type: opera
+synopsis: En ballett i to akter komponert i 1892, basert på E.T.A. Hoffmanns fortelling
+  om en ung jentes juleeventyr. Verket er verdenskjent for sin fargerike instrumentering
+  og har blitt en fast juletradisjon på teaterscener over hele verden. Musikken inneholder
+  ikoniske stykker som «Blomstervalsen» og «Sukkerfeens dans».
 wikidata_id: Q193705
 wikipedia_url: https://en.wikipedia.org/wiki/The_Nutcracker
-synopsis: The Nutcracker, Op. 71, is an 1892 two-act classical ballet by Pyotr Ilyich
-  Tchaikovsky, set on Christmas Eve at the foot of a Christmas tree in a child's imagination
-  featuring a Nutcracker doll. The plot is an adaptation of Alexandre Dumas's 1844
-  short story The Nutcracker, itself a retelling of E. T. A.
-composer_id: 3489
+type: opera

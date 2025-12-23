@@ -170,17 +170,19 @@
 			};
 
 			// Get category showcases - one random item from each category (with image and multiple performances)
-			// Teater
+			// Teater - use subquery to filter by image
 			const teaterStmt = db.prepare(`
-				SELECT w.id, w.title, p.name as subtitle,
-					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
-					COUNT(DISTINCT pf.id) as count
-				FROM works w
-				LEFT JOIN persons p ON w.playwright_id = p.id
-				JOIN performances pf ON pf.work_id = w.id
-				WHERE w.category = 'teater'
-				GROUP BY w.id
-				HAVING count > 1 AND image_url IS NOT NULL
+				SELECT * FROM (
+					SELECT w.id, w.title, p.name as subtitle,
+						(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+						COUNT(DISTINCT pf.id) as count
+					FROM works w
+					LEFT JOIN persons p ON w.playwright_id = p.id
+					JOIN performances pf ON pf.work_id = w.id
+					WHERE w.category = 'teater'
+					GROUP BY w.id
+					HAVING count > 1
+				) WHERE image_url IS NOT NULL
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);
@@ -192,15 +194,17 @@
 
 			// Dramaserier (use count >= 1 since drama series typically have single performances)
 			const dramaStmt = db.prepare(`
-				SELECT w.id, w.title, p.name as subtitle,
-					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
-					COUNT(DISTINCT pf.id) as count
-				FROM works w
-				LEFT JOIN persons p ON w.playwright_id = p.id
-				JOIN performances pf ON pf.work_id = w.id
-				WHERE w.category = 'dramaserie'
-				GROUP BY w.id
-				HAVING count >= 1 AND image_url IS NOT NULL
+				SELECT * FROM (
+					SELECT w.id, w.title, p.name as subtitle,
+						(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+						COUNT(DISTINCT pf.id) as count
+					FROM works w
+					LEFT JOIN persons p ON w.playwright_id = p.id
+					JOIN performances pf ON pf.work_id = w.id
+					WHERE w.category = 'dramaserie'
+					GROUP BY w.id
+					HAVING count >= 1
+				) WHERE image_url IS NOT NULL
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);
@@ -212,15 +216,17 @@
 
 			// Opera/Ballett
 			const operaStmt = db.prepare(`
-				SELECT w.id, w.title, p.name as subtitle,
-					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
-					COUNT(DISTINCT pf.id) as count
-				FROM works w
-				LEFT JOIN persons p ON w.composer_id = p.id
-				JOIN performances pf ON pf.work_id = w.id
-				WHERE w.category = 'opera'
-				GROUP BY w.id
-				HAVING count > 1 AND image_url IS NOT NULL
+				SELECT * FROM (
+					SELECT w.id, w.title, p.name as subtitle,
+						(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+						COUNT(DISTINCT pf.id) as count
+					FROM works w
+					LEFT JOIN persons p ON w.composer_id = p.id
+					JOIN performances pf ON pf.work_id = w.id
+					WHERE w.category = 'opera'
+					GROUP BY w.id
+					HAVING count > 1
+				) WHERE image_url IS NOT NULL
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);
@@ -232,15 +238,17 @@
 
 			// Konsert
 			const konsertStmt = db.prepare(`
-				SELECT w.id, w.title, p.name as subtitle,
-					(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
-					COUNT(DISTINCT pf.id) as count
-				FROM works w
-				LEFT JOIN persons p ON w.composer_id = p.id
-				JOIN performances pf ON pf.work_id = w.id
-				WHERE w.category = 'konsert'
-				GROUP BY w.id
-				HAVING count > 1 AND image_url IS NOT NULL
+				SELECT * FROM (
+					SELECT w.id, w.title, p.name as subtitle,
+						(SELECT e.image_url FROM episodes e JOIN performances pf ON e.performance_id = pf.id WHERE pf.work_id = w.id AND e.image_url IS NOT NULL LIMIT 1) as image_url,
+						COUNT(DISTINCT pf.id) as count
+					FROM works w
+					LEFT JOIN persons p ON w.composer_id = p.id
+					JOIN performances pf ON pf.work_id = w.id
+					WHERE w.category = 'konsert'
+					GROUP BY w.id
+					HAVING count > 1
+				) WHERE image_url IS NOT NULL
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);
@@ -252,19 +260,21 @@
 
 			// Person (random playwright or composer with multiple works, fetch image from their performances)
 			const personStmt = db.prepare(`
-				SELECT p.id, p.name as title,
-					(CASE WHEN COUNT(DISTINCT wp.id) > 0 THEN 'Dramatiker' ELSE 'Komponist' END) as subtitle,
-					COUNT(DISTINCT wp.id) + COUNT(DISTINCT wc.id) as count,
-					(SELECT e.image_url FROM episodes e
-					 JOIN performances pf ON e.performance_id = pf.id
-					 JOIN works w ON pf.work_id = w.id
-					 WHERE (w.playwright_id = p.id OR w.composer_id = p.id) AND e.image_url IS NOT NULL
-					 LIMIT 1) as image_url
-				FROM persons p
-				LEFT JOIN works wp ON wp.playwright_id = p.id
-				LEFT JOIN works wc ON wc.composer_id = p.id
-				GROUP BY p.id
-				HAVING count > 1 AND image_url IS NOT NULL
+				SELECT * FROM (
+					SELECT p.id, p.name as title,
+						(CASE WHEN COUNT(DISTINCT wp.id) > 0 THEN 'Dramatiker' ELSE 'Komponist' END) as subtitle,
+						COUNT(DISTINCT wp.id) + COUNT(DISTINCT wc.id) as count,
+						(SELECT e.image_url FROM episodes e
+						 JOIN performances pf ON e.performance_id = pf.id
+						 JOIN works w ON pf.work_id = w.id
+						 WHERE (w.playwright_id = p.id OR w.composer_id = p.id) AND e.image_url IS NOT NULL
+						 LIMIT 1) as image_url
+					FROM persons p
+					LEFT JOIN works wp ON wp.playwright_id = p.id
+					LEFT JOIN works wc ON wc.composer_id = p.id
+					GROUP BY p.id
+					HAVING count > 1
+				) WHERE image_url IS NOT NULL
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);

@@ -1,13 +1,12 @@
 id: 1687
 title: Greeting Prelude
+composer_id: 3484
 category: konsert
-type: orchestral
+synopsis: Greeting Prelude er et kort orkesterverk komponert i 1955 for å feire 80-årsdagen
+  til dirigenten Pierre Monteux. Stykket varer i under ett minutt og er en humoristisk,
+  dekonstruert versjon av melodien «Happy Birthday to You». Til tross for sin korte
+  varighet, bærer verket Stravinskys umiskjennelige signatur gjennom komplekse rytmiske
+  forskyvninger og harmoniseringer.
 wikidata_id: Q2090538
 wikipedia_url: https://en.wikipedia.org/wiki/Greeting_Prelude
-synopsis: The Greeting Prelude is an orchestral work composed in 1955 by Igor Stravinsky.
-  Its origins can be traced back to an incident that occurred during a rehearsal at
-  the inaugural Aspen Festival in 1950, when Stravinsky was displeased by a surprise
-  rendition of "Happy Birthday to You", a song with which he was unfamiliar. The next
-  year, at the request of Samuel Barber, he harmonized it and composed a two-part
-  canon as a birthday present for Mary Louise Curtis.
-composer_id: 3484
+type: orchestral

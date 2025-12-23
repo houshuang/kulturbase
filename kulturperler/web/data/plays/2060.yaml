@@ -1,12 +1,13 @@
 id: 2060
-title: Divertimento for String Orchestra
+title: Divertimento for strykeorkester, Sz. 113
+original_title: Divertimento for String Orchestra
+composer_id: 3440
 category: konsert
-type: orchestral
+synopsis: Divertimento ble komponert i løpet av bare to uker sommeren 1939 mens Bartók
+  oppholdt seg i Sveits. Verket er skrevet i en nyklassisistisk stil og henter inspirasjon
+  fra barokkens concerto grosso-form, der en mindre gruppe solister settes opp mot
+  hele orkesteret. Det består av tre satser og balanserer mellom munter, dansende
+  energi og en mer dyster og urolig midtsats.
 wikidata_id: Q631285
 wikipedia_url: https://en.wikipedia.org/wiki/Divertimento_for_String_Orchestra_(Bart%C3%B3k)
-synopsis: Divertimento for String Orchestra Sz.113 BB.118 is a three-movement work
-  composed by Béla Bartók in 1939, scored for full orchestral strings. Paul Sacher,
-  a Swiss conductor, patron, impresario, and the founder of the chamber orchestra
-  Basler Kammerorchester, commissioned Bartók to compose the Divertimento, which is
-  now known to be the pair's last collaborative work..
-composer_id: 3440
+type: orchestral

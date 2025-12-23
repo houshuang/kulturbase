@@ -88,4 +88,24 @@ resources:
   title: Men hempen glapp – Ibsen og Grieg i fritt fall
   type: related_video
   description: Improvisert lyddrama med skuespillere og jazzmusikere. (2013, 49 min)
+- id: 830
+  url: https://tv.nrk.no/serie/en-udoedelig-mann
+  title: En udødelig mann
+  type: related_video
+  description: Henrik Ibsen - et geni og en merkelig mann. En serie i tre episoder
+    om hans unge liv slik det kunne ha vært. Med Anders Baasmo Christiansen,
+    Sven Nordin, Wenche Foss m.fl. Regi Berit Nesheim. (2005, 3x60 min)
+- id: 831
+  url: https://tv.nrk.no/se?v=DVFJ40002518
+  title: 'Grieg: Seks dikt av Henrik Ibsen, Op. 25'
+  type: related_video
+  description: Bror Magnus Tødenes, sang. Christian Grøvlen, piano. Fra
+    Grieg minutt for minutt. (2018, 17 min)
+- id: 832
+  url: https://tv.nrk.no/se?v=FTEA02003588
+  title: Knut Wigert leser dikt av Henrik Ibsen
+  type: related_video
+  description: Knut Wigert leser dikt av Henrik Ibsen. Fra serien Norsk lyrikk.
+    (1988, 10 min)
 image_url: /images/persons/879.jpg
+bokselskap_url: https://www.bokselskap.no/forfattere/ibsen

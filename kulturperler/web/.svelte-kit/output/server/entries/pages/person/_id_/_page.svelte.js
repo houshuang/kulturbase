@@ -345,6 +345,13 @@ function _page($$renderer, $$props) {
           } else {
             $$renderer2.push("<!--[!-->");
           }
+          $$renderer2.push(`<!--]--> `);
+          if (person.bokselskap_url) {
+            $$renderer2.push("<!--[-->");
+            $$renderer2.push(`<a${attr("href", person.bokselskap_url)} target="_blank" rel="noopener" class="external-link svelte-13eo3pq">Bokselskap</a>`);
+          } else {
+            $$renderer2.push("<!--[!-->");
+          }
           $$renderer2.push(`<!--]--></div></div></div></header> `);
           if (worksWritten.length > 0) {
             $$renderer2.push("<!--[-->");

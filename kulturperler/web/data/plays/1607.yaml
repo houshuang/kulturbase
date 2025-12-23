@@ -1,10 +1,12 @@
 id: 1607
-title: Symphony No. 6
+title: Symfoni nr. 6 i a-moll
+original_title: Symphony No. 6
+composer_id: 3718
 category: konsert
-type: symphony
+synopsis: Komponert i 1903–1904 og bærer ofte undertittelen «Den tragiske». Verket
+  er kjent for sin strenge struktur og de dramatiske hammerslagene i finalen som symboliserer
+  skjebnens uunngåelige slag mot helten. Det er et av Mahlers mest emosjonelt mørke
+  og kraftfulle orkesterverk.
 wikidata_id: Q246487
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._6_(Mahler)
-synopsis: The Symphony No. 6 in A minor by Gustav Mahler is a symphony in four movements,
-  composed in 1903 and 1904, with revisions from 1906. It is sometimes nicknamed the
-  Tragic, though the origin of the name is unclear..
-composer_id: 3718
+type: symphony

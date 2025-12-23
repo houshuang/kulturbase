@@ -1,13 +1,14 @@
 id: 2026
-title: Air on the G String
+title: Air på G-strengen
+original_title: Air on the G String
+composer_id: 3948
 category: konsert
-type: orchestral
+synopsis: '"Air på G-strengen" er et arrangement av den andre satsen fra Johann Sebastian
+  Bachs Orkestersuite nr. 3 i D-dur, BWV 1068. Den tyske fiolinisten August Wilhelmj
+  bearbeidet stykket rundt 1871 ved å transponere det til C-dur og senke melodien
+  en oktav, slik at hele stykket kunne spilles utelukkende på fiolinens G-streng.
+  Verket har siden blitt et av de mest kjente stykkene i den klassiske musikklitteraturen
+  og er berømt for sin dype, sangbare melodi.'
 wikidata_id: Q935151
 wikipedia_url: https://en.wikipedia.org/wiki/Air_on_the_G_String
-synopsis: '"Air on the G String", also known as "Air for G String" and "Celebrated
-  Air", is August Wilhelmj''s 1871 arrangement of the second movement of Johann Sebastian
-  Bach''s Orchestral Suite No. 3 in D major, BWV 1068. The arrangement differs from
-  the original in that it is transposed down into C major so the part of the first
-  violins can be played entirely on the violin''s lowest string, which gave the piece
-  its popular title..'
-composer_id: 3948
+type: orchestral

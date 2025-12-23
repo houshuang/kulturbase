@@ -2,9 +2,15 @@ id: 564
 title: Gengangere
 original_title: Gengangere
 playwright_id: 879
-synopsis: Gengangere er et skuespill av Henrik Ibsen fra 1881. Det handler om fru
-  Alving som forsøker å minnes sin avdøde mann ved å opprette et barnehjem, men fortiden
-  innhenter henne når sannheten om mannens liv avsløres.
+work_type: teaterstykke
+category: teater
+synopsis: Fru Alving forsøker å bygge et barnehjem for å ære sin avdøde ektemann og
+  skjule hans utsvevende og umoralske liv. Sønnen Osvald vender hjem fra Paris og
+  avslører at han lider av syfilis, en sykdom han har arvet fra sin far. Gamle hemmeligheter
+  og 'gjengangere' fra fortiden hjemsøker familien, og barnehjemmet brenner ned før
+  det rekker å åpne. Osvald mister gradvis forstanden og ber sin mor om hjelp til
+  å avslutte livet med morfin. Dramaet er et kraftig oppgjør med samfunnets dobbeltmoral
+  og de ødeleggende kreftene i fortidens synder.
 external_links:
 - url: https://applausscene.no/permalib/69PkY9h5Okmd
   title: Applaus Scene
@@ -21,5 +27,3 @@ external_links:
   title: Ghosts - BBC Theatre Night (1973)
   type: archive.org
   access_note: Med Judi Dench, Michael Gambon. Engelsk versjon
-work_type: teaterstykke
-category: teater

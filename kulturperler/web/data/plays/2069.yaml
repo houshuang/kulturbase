@@ -1,13 +1,13 @@
 id: 2069
 title: Neue Schubert-Ausgabe
+original_title: Neue Schubert-Ausgabe
+composer_id: 3374
 category: konsert
-type: orchestral
+synopsis: Dette er ikke et enkeltstående musikalsk verk, men den vitenskapelige totalutgaven
+  av alle Franz Schuberts verker. Arbeidet med denne kritiske utgaven startet i 1963
+  og har som mål å presentere Schuberts musikk basert på alle tilgjengelige kilder
+  og manuskripter. Den er i dag den internasjonale standarden for fremføring og forskning
+  på Schuberts musikk.
 wikidata_id: Q1781370
 wikipedia_url: https://en.wikipedia.org/wiki/New_Schubert_Edition
-synopsis: 'Franz Schubert (1797–1828): New Edition of the Complete Works, commonly
-  known as the New Schubert Edition (NSE), or, in German: Neue Schubert-Ausgabe (NSA),
-  is a complete edition of Franz Schubert''s works, which started in 1956 and is scheduled
-  to conclude in 2027. The projected number of volumes of the publication, which includes
-  score editions, critical reports and supplements, is 177, of which, as of 2020,
-  150 have been realised..'
-composer_id: 3374
+type: orchestral

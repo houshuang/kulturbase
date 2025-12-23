@@ -1,11 +1,12 @@
 id: 2400
 title: La traviata
+composer_id: 3633
 category: konsert
-type: orchestral
+synopsis: La traviata er en opera i tre akter fra 1853, basert på Alexandre Dumas
+  den yngres roman «Kameliadamen». Den forteller den gripende historien om kurtisanen
+  Violetta Valéry og hennes tragiske kjærlighetsforhold til den unge Alfredo Germont.
+  Verket er verdenskjent for stykker som drikkevisen «Brindisi» og den krevende sopranarien
+  «Sempre libera», og er i dag en av verdens mest spilte operaer.
 wikidata_id: Q186162
 wikipedia_url: https://en.wikipedia.org/wiki/La_traviata
-synopsis: La traviata is an opera in three acts by Giuseppe Verdi set to an Italian
-  libretto by Francesco Maria Piave. It is based on La Dame aux camélias (1852), a
-  play by Alexandre Dumas fils, which he adapted from his own 1848 novel. The opera
-  was originally titled Violetta, after the main character.
-composer_id: 3633
+type: orchestral

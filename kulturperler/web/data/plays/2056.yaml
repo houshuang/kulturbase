@@ -1,12 +1,13 @@
 id: 2056
-title: Antiformalist Rayok
+title: Antiformalistisk rajek
+original_title: Antiformalist Rayok
+composer_id: 3400
 category: konsert
-type: symphony
+synopsis: Dette er en satirisk kantate for fire basser, kor og klaver, skrevet for
+  å latterliggjøre sovjetisk kulturpolitikk og Zhdanov-doktrinen. Verket parodierer
+  talene til sovjetiske ledere og siterer kjente melodier for å skape en komisk effekt.
+  På grunn av det farlige politiske innholdet ble verket holdt hemmelig helt frem
+  til 1989, lenge etter komponistens død.
 wikidata_id: Q4067153
 wikipedia_url: https://en.wikipedia.org/wiki/Antiformalist_Rayok
-synopsis: 'Antiformalist Rayok, also known as Learner''s Manual, without opus number,
-  is a rayok or satirical cantata for four voices, chorus, and piano by Dmitri Shostakovich.
-  It is subtitled As an aid to students: the struggle of the realistic and formalistic
-  directions in music. It satirizes the conferences that resulted from the Zhdanov
-  decree of 1948 and the anti-formalism campaign in Soviet arts which followed it..'
-composer_id: 3400
+type: symphony

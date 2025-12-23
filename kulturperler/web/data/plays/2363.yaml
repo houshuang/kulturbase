@@ -1,10 +1,12 @@
 id: 2363
-title: Symphony No. 1
-category: konsert
-type: symphony
+title: Symfoni nr. 1 i g-moll, op. 13, «Vinterdrømmer»
+original_title: Symphony No. 1
 composer_id: 3485
+category: konsert
+synopsis: Dette verket er identisk med ID 1038 og representerer Tsjajkovskijs første
+  store symfoniske arbeid. Det ble revidert flere ganger før det fant sin endelige
+  form i 1874. Symfonien er delt inn i fire satser, der de to første har titler som
+  refererer til vinterreiser og tåke, noe som underbygger verkets atmosfæriske karakter.
 wikidata_id: Q163606
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._1_(Tchaikovsky)
-synopsis: 'Pyotr Ilyich Tchaikovsky wrote his Symphony No. 1 in G minor, Winter Daydreams
-  , Op. 13, in 1866, just after he accepted a professorship at the Moscow Conservatory:
-  it is the composer''s earliest notable work.'
+type: symphony

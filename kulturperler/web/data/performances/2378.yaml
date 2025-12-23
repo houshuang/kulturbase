@@ -2,7 +2,9 @@ id: 2378
 source: youtube
 medium: stream
 title: 02 - GROLID - From Creation to Ragnarok - Norse Creation (Norrøn Skapelse)
-credits: []
+credits:
+- person_id: 3816
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

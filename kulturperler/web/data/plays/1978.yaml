@@ -1,13 +1,15 @@
 id: 1978
-title: The Sorcerer's Apprentice
-category: konsert
-type: orchestral
+title: Trollmannens læregutt
+original_title: The Sorcerer's Apprentice
 composer_id: 3919
+category: konsert
+synopsis: Trollmannens læregutt (L'Apprenti sorcier) er et symfonisk dikt komponert
+  av Paul Dukas i 1897. Verket er basert på Johann Wolfgang von Goethes ballade med
+  samme navn og skildrer en lærling som mister kontrollen over magiske krefter han
+  har manet frem. Det er i dag Dukas' mest kjente verk, i stor grad hjulpet av sin
+  fremtredende plass i Disneys animasjonsfilm Fantasia fra 1940. Musikken er berømt
+  for sin fargerike orkestrering og det karakteristiske, hoppende temaet som representerer
+  den magiske kosten.
 wikidata_id: Q1066882
 wikipedia_url: https://en.wikipedia.org/wiki/The_Sorcerer's_Apprentice_(Dukas)
-synopsis: The Sorcerer's Apprentice is a symphonic poem by the French composer Paul
-  Dukas, completed in 1897. Subtitled "Scherzo after a ballad by Goethe", the piece
-  was based on Johann Wolfgang von Goethe's 1797 poem named "Der Zauberlehrling".
-  By far the most performed and recorded of Dukas' works, its notable appearance in
-  the Walt Disney 1940 animated film Fantasia has led to the piece becoming widely
-  known to audiences outside the classical concert hall.
+type: orchestral

@@ -1,11 +1,12 @@
 id: 2198
-title: Octet
+title: Oktett i F-dur, D 803
+original_title: Octet
+composer_id: 3374
 category: konsert
-type: orchestral
+synopsis: Komponert i 1824 for en besetning bestående av klarinett, faggott, horn
+  og strykekvintett. Verket ble bestilt av klarinettisten Ferdinand Troyer og er modellert
+  etter Beethovens septett i samme toneart. Med sine seks satser og en varighet på
+  nesten en time, er det et av Schuberts mest omfattende og solfylte kammermusikkverker.
 wikidata_id: Q118442
 wikipedia_url: https://en.wikipedia.org/wiki/Octet_(Schubert)
-synopsis: The Octet in F major, D. 803 was composed by Franz Schubert in March 1824.
-  It was commissioned by the renowned clarinetist Ferdinand Troyer and came from the
-  same period as two of Schubert's other major chamber works, the 'Rosamunde' and
-  'Death and the Maiden' string quartets..
-composer_id: 3374
+type: orchestral

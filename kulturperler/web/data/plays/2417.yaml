@@ -1,9 +1,13 @@
 id: 2417
-title: American Suite
+title: Amerikansk suite i A-dur, op. 98b
+original_title: American Suite
+composer_id: 3410
 category: konsert
-type: orchestral
+synopsis: Dette verket ble opprinnelig skrevet for piano i 1894 og senere orkestrert
+  av komponisten selv i 1895. Suiten består av fem satser som reflekterer inntrykk
+  fra Dvořáks tid i USA, med bruk av pentatone skalaer og synkoperte rytmer. Musikken
+  har en pastoral og til tider nostalgisk karakter som minner om stemningen i hans
+  niende symfoni.
 wikidata_id: Q3503234
 wikipedia_url: https://en.wikipedia.org/wiki/American_Suite
-synopsis: The American Suite in A major, Op. 98b, B. 190, is an orchestral suite written
-  in 1894–1895 by Czech composer Antonín Dvořák..
-composer_id: 3410
+type: orchestral

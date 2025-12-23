@@ -1,11 +1,13 @@
 id: 1580
-title: Fantasies, Op. 116
-category: konsert
-type: symphony
+title: Fantasier, op. 116
+original_title: Fantasies, Op. 116
 composer_id: 3347
+category: konsert
+synopsis: Dette er en samling av sju karakterstykker for klaver, komponert i 1892
+  som en del av Brahms' sene, introspektive klaververker. Samlingen består av tre
+  energiske capriccioer og fire mer lavmælte og lyriske intermezzoer. Stykkene kjennetegnes
+  av en fortettet harmonikk og en dyp, ofte melankolsk emosjonell klangbunn som er
+  typisk for hans siste leveår.
 wikidata_id: Q105200121
 wikipedia_url: https://en.wikipedia.org/wiki/Fantasies%2C_Op._116_(Brahms)
-synopsis: The Fantasies, Op. 116 for solo piano were composed by Johannes Brahms in
-  the Austrian town of Bad Ischl during the summer of 1892. The set consists of seven
-  pieces entitled Capriccio or Intermezzo, though Brahms originally considered using
-  "Notturno" for No.
+type: symphony

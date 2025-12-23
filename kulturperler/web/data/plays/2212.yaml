@@ -1,10 +1,12 @@
 id: 2212
-title: Fidelio
+title: Fidelio, op. 72
+original_title: Fidelio
+composer_id: 3478
 category: konsert
-type: concerto
+synopsis: Beethovens eneste opera, som han arbeidet med i over ti år og reviderte
+  flere ganger frem til den endelige versjonen i 1814. Handlingen er en «redningsopera»
+  der helten Leonore kler seg ut som mannen Fidelio for å befri sin ektemann fra et
+  politisk fengsel. Verket hyller idealer som frihet, rettferdighet og trofast kjærlighet.
 wikidata_id: Q193778
 wikipedia_url: https://en.wikipedia.org/wiki/Fidelio
-synopsis: Fidelio, originally titled Leonore, oder Der Triumph der ehelichen Liebe,
-  Op. 72, is the sole opera by German composer Ludwig van Beethoven. The libretto
-  was originally prepared by Joseph Sonnleithner from the French of Jean-Nicolas Bouilly.
-composer_id: 3478
+type: concerto

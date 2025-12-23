@@ -1,11 +1,14 @@
 id: 1599
-title: Frühlingsrauschen
+title: Frühlingsrauschen, op. 32 nr. 3
+original_title: Frühlingsrauschen
+composer_id: 3322
 category: konsert
-type: orchestral
+synopsis: Frühlingsrauschen (ofte kalt «Vårbrus» på norsk) er Christian Sindings mest
+  berømte verk og ble komponert i 1896 som en del av samlingen «Seks stykker for piano»,
+  op. 32. Dette er et karakterstykke for solo piano som er kjent for sine brusende
+  arpeggio-bevegelser og en sangbar melodi som fanger stemningen av vårens oppvåkning.
+  Verket oppnådde en enorm internasjonal popularitet i komponistens levetid og står
+  i dag som et av de mest kjente stykkene i den romantiske pianolitteraturen.
 wikidata_id: Q5506773
 wikipedia_url: https://en.wikipedia.org/wiki/Fr%C3%BChlingsrauschen
-synopsis: '
-
-  Frühlingsrauschen, Op. 32, No. 3 is a solo piano piece written by the Norwegian
-  composer Christian Sinding (1856–1941) in 1896.'
-composer_id: 3322
+type: orchestral

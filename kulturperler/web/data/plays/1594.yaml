@@ -1,13 +1,15 @@
 id: 1594
-title: Tous les Matins du Monde
+title: Tous les Matins du Monde (Filmmusikk)
+original_title: Tous les Matins du Monde
+composer_id: 3932
 category: konsert
-type: orchestral
+synopsis: '"Tous les Matins du Monde" er lydsporet til filmen med samme navn fra 1991
+  (norsk tittel: "Alle årets dager"), regissert av Alain Corneau. Musikken er kuratert
+  og fremført av Jordi Savall og hans ensembler, og består i hovedsak av fransk barokkmusikk
+  for viola da gamba av komponister som Marin Marais, Monsieur de Sainte-Colombe og
+  François Couperin. Utgivelsen ble en enorm internasjonal suksess som bidro til en
+  bølge av interesse for barokkmusikk og historiske instrumenter på begynnelsen av
+  1990-tallet.'
 wikidata_id: Q1219541
 wikipedia_url: https://en.wikipedia.org/wiki/Tous_les_Matins_du_Monde
-synopsis: Tous les matins du monde is a 1991 French film based on the book of the
-  same name by Pascal Quignard. Set during the reign of Louis XIV, the film shows
-  the musician Marin Marais looking back on his young life when he was briefly a pupil
-  of Monsieur de Sainte-Colombe, and features much music of the period, especially
-  that for the viola da gamba. The title of the film comes from words of the narrator
-  in Quignard's novel..
-composer_id: 3932
+type: orchestral

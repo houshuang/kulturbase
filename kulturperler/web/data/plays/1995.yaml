@@ -1,11 +1,13 @@
 id: 1995
-title: Partita No. 1 in B minor, BWV 1002
+title: Partita nr. 1 for solofiolin i h-moll, BWV 1002
+original_title: Partita No. 1 in B minor, BWV 1002
+composer_id: 3753
 category: konsert
-type: chamber
+synopsis: Dette verket er en del av Bachs samling av seks sonater og partitaer for
+  solofiolin, fullført rundt 1720. Partitaen består av fire dansesatser (Allemanda,
+  Corrente, Sarabande og Tempo di Borea), der hver sats etterfølges av en «double»
+  (en variasjon). Det er et teknisk krevende verk som utfordrer fiolinistens evne
+  til å spille polyfont.
 wikidata_id: Q7140627
 wikipedia_url: https://en.wikipedia.org/wiki/Partita_for_Violin_No._1_(Bach)
-synopsis: The Partita No. 1 in B minor, BWV 1002 by Johann Sebastian Bach, is a piece
-  for solo violin composed by 1720. This partita is formed in the traditional way
-  that consists of an allemande, a courante, sarabande and gigue in the baroque style,
-  except that this work substitutes a bourrée for the more typical gigue.
-composer_id: 3753
+type: chamber

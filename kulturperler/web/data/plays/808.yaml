@@ -2,10 +2,18 @@ id: 808
 title: Onkel Vanja
 original_title: Onkel Vanja
 playwright_id: 2126
-synopsis: Onkel Vanja er et skuespill av Anton Tsjekhov fra 1897. Det handler om Vanja
-  og hans niese Sonja som har ofret sine liv for å drive et gods for den selvopptatte
-  professor Serebriakov.
 work_type: teaterstykke
 category: teater
+synopsis: Professor Serebrjakov og hans unge kone Jelena besøker godset der datteren
+  Sonja og svogeren Vanja bor og arbeider. Vanja føler at han har kastet bort livet
+  sitt på å støtte professoren, som han nå ser på som en middelmådighet. Spenningene
+  øker når professoren foreslår å selge godset, noe som vil gjøre Vanja og Sonja hjemløse.
+  Etter et mislykket drapsforsøk og mange uforløste følelser, reiser professoren og
+  Jelena sin vei. Vanja og Sonja blir igjen for å fortsette sitt monotone arbeid i
+  håp om hvile i det hinsidige.
 sceneweb_id: 4388
 sceneweb_url: https://sceneweb.no/nb/artwork/4388/
+external_links:
+- url: https://www.ntathome.com/vanya
+  title: National Theatre at Home (abonnement)
+  type: streaming

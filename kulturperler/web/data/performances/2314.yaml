@@ -2,7 +2,9 @@ id: 2314
 source: youtube
 medium: stream
 title: BIZET - Carmen - Bohemian Dance (360)
-credits: []
+credits:
+- person_id: 4314
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

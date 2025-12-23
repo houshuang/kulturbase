@@ -1,12 +1,13 @@
 id: 1661
 title: Folk Songs
+composer_id: 3935
 category: konsert
-type: orchestral
+synopsis: Folk Songs er en sangsyklus komponert av Luciano Berio i 1964 for mezzosopran
+  og syv instrumenter. Verket består av elleve sanger basert på folkemusikk fra ulike
+  land og kulturer, inkludert USA, Armenia, Frankrike og Italia. Det ble opprinnelig
+  skrevet for Berios daværende kone, sangeren Cathy Berberian, og er kjent for sin
+  fargerike instrumentering og moderne behandling av det tradisjonelle materialet.
+  I 1973 utarbeidet Berio også en versjon av verket for mezzosopran og stort orkester.
 wikidata_id: Q287047
 wikipedia_url: https://en.wikipedia.org/wiki/Folk_Songs_(Berio)
-synopsis: Folk Songs is a song cycle by Luciano Berio composed in 1964. It consists
-  of arrangements of folk music from various countries and other songs, forming "a
-  tribute to the extraordinary artistry" of the American singer Cathy Berberian, a
-  specialist in Berio's music. It is scored for voice, flute, clarinet, harp, viola,
-  cello, and percussion.
-composer_id: 3935
+type: orchestral

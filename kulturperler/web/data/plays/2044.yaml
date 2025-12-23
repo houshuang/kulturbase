@@ -1,12 +1,12 @@
 id: 2044
-title: The Marriage of Figaro
+title: Figaros bryllup, K. 492
+original_title: The Marriage of Figaro
+composer_id: 3252
 category: konsert
-type: orchestral
+synopsis: Figaros bryllup (Le nozze di Figaro) er en komisk opera i fire akter som
+  hadde premiere i Wien i 1786. Librettoen er basert på et skuespill av Beaumarchais
+  og skildrer en dag med forviklinger og intriger i grev Almavivas husholdning. Operaen
+  er berømt for sin geniale karaktertegning og udødelige arier som «Voi che sapete».
 wikidata_id: Q201873
 wikipedia_url: https://en.wikipedia.org/wiki/The_Marriage_of_Figaro
-synopsis: The Marriage of Figaro, K. 492, is a commedia per musica in four acts composed
-  in 1786 by Wolfgang Amadeus Mozart, with an Italian libretto written by Lorenzo
-  Da Ponte. It premiered at the Burgtheater in Vienna on 1 May 1786. The opera's libretto
-  is based on the 1784 stage comedy by Beaumarchais, La folle journée, ou le Mariage
-  de Figaro.
-composer_id: 3252
+type: orchestral

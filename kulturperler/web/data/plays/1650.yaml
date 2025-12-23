@@ -1,11 +1,14 @@
 id: 1650
-title: Music for Strings, Percussion and Celesta
+title: Musikk for strenger, slagverk og celesta, Sz. 106
+original_title: Music for Strings, Percussion and Celesta
+composer_id: 3440
 category: konsert
-type: orchestral
+synopsis: Dette verket ble komponert i 1936 på bestilling fra dirigenten Paul Sacher
+  til tiårsjubileet for kammerorkesteret i Basel. Verket består av fire satser og
+  er berømt for sin innovative orkesteroppstilling der strykerne er delt i to grupper
+  på hver side av slagverket. Det regnes som et av Bartóks mesterverk og er kjent
+  for sin bruk av matematiske prinsipper som det gylne snitt og Fibonacci-sekvensen
+  i komposisjonen.
 wikidata_id: Q1047743
 wikipedia_url: https://en.wikipedia.org/wiki/Music_for_Strings%2C_Percussion_and_Celesta
-synopsis: Music for Strings, Percussion and Celesta, Sz. 106, BB 114 is one of the
-  best-known compositions by the Hungarian composer Béla Bartók. Commissioned by Paul
-  Sacher to celebrate the tenth anniversary of the chamber orchestra Basler Kammerorchester,
-  the score is dated 7 September 1936..
-composer_id: 3440
+type: orchestral

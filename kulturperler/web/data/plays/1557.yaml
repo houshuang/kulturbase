@@ -1,11 +1,13 @@
 id: 1557
-title: Symphony No. 89
-category: konsert
-type: symphony
+title: Symfoni nr. 89 i F-dur, Hob. I:89
+original_title: Symphony No. 89
 composer_id: 3754
+category: konsert
+synopsis: Symfonien ble fullført i 1787, kort tid etter Paris-symfoniene, og er preget
+  av eleganse og teknisk finesse. Haydn gjenbrukte her materiale fra to av sine konserter
+  for lira organizzata, et mekanisk instrument han hadde skrevet for tidligere. Verket
+  er særlig kjent for sin tredje sats, en menuett som inneholder uvanlige instruksjoner
+  om å 'dra' tonene (strascinando).
 wikidata_id: Q274467
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._89_(Haydn)
-synopsis: The Symphony No. 89 in F major, Hoboken I/89, was written by Joseph Haydn
-  in 1787, and performed under the auspices of Nikolaus Esterházy at Esterháza. It
-  is sometimes referred to as The Letter W referring to an older method of cataloging
-  Haydn's symphonic output.
+type: symphony

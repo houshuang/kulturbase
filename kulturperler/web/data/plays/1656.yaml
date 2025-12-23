@@ -1,10 +1,12 @@
 id: 1656
 title: Mitt hjerte alltid vanker
+composer_id: 3931
 category: konsert
-type: orchestral
+synopsis: Dette er en av de mest kjente skandinaviske julesalmene, med tekst skrevet
+  av den danske biskopen Hans Adolph Brorson i 1732. I Norge synges salmen nesten
+  utelukkende til en melankolsk og vakker svensk folketone fra Västergötland, som
+  ble nedtegnet på begynnelsen av 1800-tallet. Salmen er en inderlig meditasjon over
+  juleevangeliet og regnes som en av de mest sentrale sangene i den norske juletradisjonen.
 wikidata_id: Q4582682
 wikipedia_url: https://en.wikipedia.org/wiki/Mitt_hjerte_alltid_vanker
-synopsis: '"Mitt hjerte alltid vanker" is an old Scandinavian hymn written by Danish
-  bishop and hymn writer Hans Adolph Brorson, frequently used as a Christmas song.
-  It first came out in print in 1732..'
-composer_id: 3931
+type: orchestral

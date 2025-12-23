@@ -1,10 +1,13 @@
 id: 2240
-title: The Tales of Hoffmann
+title: Hoffmanns eventyr
+original_title: The Tales of Hoffmann
+composer_id: 3298
 category: konsert
-type: opera
+synopsis: Dette er Offenbachs siste verk og hans eneste store opera (opéra fantastique),
+  basert på noveller av den tyske forfatteren E.T.A. Hoffmann. Verket ble ferdigstilt
+  av Ernest Guiraud etter komponistens død og hadde premiere i 1881. Operaen er verdenskjent
+  for den stemningsfulle 'Barcarolle' og den teknisk krevende 'Dukkearien' (Les oiseaux
+  dans la charmille).
 wikidata_id: Q335012
 wikipedia_url: https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann
-synopsis: The Tales of Hoffmann is an opéra fantastique by Jacques Offenbach. The
-  French libretto was written by Jules Barbier, based on three short stories by E.
-  T.
-composer_id: 3298
+type: opera

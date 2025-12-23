@@ -9,3 +9,5 @@ description: 'Bergen Filharmoniske Orkester. Komponist: Hagen. Innspilt: 2023-09
 credits:
 - person_id: 4265
   role: conductor
+institutions:
+- institution_id: 14

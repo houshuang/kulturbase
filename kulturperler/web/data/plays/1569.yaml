@@ -1,10 +1,12 @@
 id: 1569
-title: Sechs Lieder, Op. 59
-category: konsert
-type: orchestral
+title: Seks sanger, op. 59 (Sechs Lieder)
+original_title: Sechs Lieder, Op. 59
 composer_id: 3401
+category: konsert
+synopsis: Dette er en samling sanger for blandet kor (SATB) komponert mellom 1837
+  og 1843. Samlingen har undertittelen «Im Freien zu singen» (til sang i det fri)
+  og hyller naturen og årstidene. Den inneholder blant annet den svært populære sangen
+  «Abschied vom Walde».
 wikidata_id: Q104851012
 wikipedia_url: https://en.wikipedia.org/wiki/Sechs_Lieder%2C_Op._59_(Mendelssohn)
-synopsis: Sechs Lieder, Op. 59, is a collection of six part songs for four voices
-  a cappella by Felix Mendelssohn. He composed the songs between 1837 and 1843, setting
-  six poems in German.
+type: orchestral

@@ -1,10 +1,13 @@
 id: 1645
-title: Ma mère l'oye
+title: Gåsemor forteller (Ma mère l'oye)
+original_title: Ma mère l'oye
+composer_id: 3719
 category: konsert
-type: orchestral
+synopsis: Opprinnelig skrevet som en pianosuite for fire hender mellom 1908 og 1910,
+  dedisert til barna i familien Godebski. Verket er basert på franske eventyr av Charles
+  Perrault og andre, og ble senere orkestrert av Ravel både som suite og ballett.
+  Kjente satser inkluderer «Torneroses pavane» og den storslåtte avslutningen «Den
+  fortryllede hage».
 wikidata_id: Q174524
 wikipedia_url: https://en.wikipedia.org/wiki/Ma_m%C3%A8re_l'Oye
-synopsis: Ma mère l'Oye is a suite by French composer Maurice Ravel. The piece was
-  originally written as a five-movement piano duet in 1910. In 1911, Ravel orchestrated
-  the work..
-composer_id: 3719
+type: orchestral

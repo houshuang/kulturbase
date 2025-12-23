@@ -1,10 +1,13 @@
 id: 2420
-title: Trumpet Concerto in E-flat major
+title: Trompetkonsert i Ess-dur, Hob. VIIe:1
+original_title: Trumpet Concerto in E-flat major
+composer_id: 3754
 category: konsert
-type: concerto
+synopsis: Konserten ble skrevet i 1796 for Haydns venn Anton Weidinger, som hadde
+  utviklet en ny type trompet med klaffer. Dette instrumentet gjorde det mulig å spille
+  kromatisk i hele registeret, noe som var umulig på datidens natur-trompeter. Verket
+  er i dag det mest spilte og berømte i hele trompetrepertoaret, spesielt kjent for
+  sin virtuose og melodiøse finalerytme.
 wikidata_id: Q1585960
 wikipedia_url: https://en.wikipedia.org/wiki/Trumpet_Concerto_(Haydn)
-synopsis: Joseph Haydn composed the Concerto per il Clarino in 1796 for the trumpet
-  virtuoso Anton Weidinger. Joseph Haydn was 64 years of age. A favourite of the trumpet
-  repertoire, it has been cited as "possibly Haydn's most popular concerto".
-composer_id: 3754
+type: concerto

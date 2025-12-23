@@ -1,12 +1,16 @@
 id: 2194
-title: Piano Concerto
+title: Pianokonsert i C-dur, op. 39
+original_title: Piano Concerto
+composer_id: 3955
 category: konsert
-type: symphony
+synopsis: Ferruccio Busonis pianokonsert i C-dur, op. 39, ble komponert mellom 1901
+  og 1904 og er et av de mest monumentale verkene i det klassiske repertoaret. Verket
+  skiller seg ut ved sin enorme lengde på rundt 75 minutter og består av fem satser
+  som spenner over et bredt emosjonelt register. I den siste satsen, «Cantico», introduserer
+  Busoni et mannskor som synger en tysk oversettelse av Adam Oehlenschlägers dikt
+  fra skuespillet Aladdin. Konserten krever eksepsjonell virtuositet fra solisten
+  og et massivt orkesterapparat, noe som gjør den til en sjelden, men spektakulær
+  begivenhet i konsertsaler.
 wikidata_id: Q174884
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Concerto_(Busoni)
-synopsis: The Piano Concerto in C major, Op. 39 (BV 247), by Ferruccio Busoni, is
-  one of the largest works ever written in the genre. Completed and premiered in 1904,
-  it is about 70 minutes long and laid out in five movements played without a break;
-  in the final movement an invisible men's chorus sings words from the verse-drama
-  Aladdin by Adam Oehlenschläger..
-composer_id: 3955
+type: symphony

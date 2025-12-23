@@ -1,5 +1,5 @@
 id: 1455
-work_id: 1373
+work_id: 2543
 source: bergenphilive
 title: 'Vaughan Wiliams: Serenade to Music'
 medium: tv
@@ -8,3 +8,5 @@ year: 2020
 description: 'Bergen Filharmoniske Orkester. Komponist: Vaughan Wiliams. Innspilt:
   2020-12-10'
 credits: []
+institutions:
+- institution_id: 14

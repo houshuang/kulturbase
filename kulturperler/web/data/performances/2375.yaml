@@ -2,7 +2,9 @@ id: 2375
 source: youtube
 medium: stream
 title: OLSEN - Åsgårdsreien
-credits: []
+credits:
+- person_id: 3967
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

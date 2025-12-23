@@ -1,10 +1,13 @@
 id: 1983
-title: Clarinet Quintet
+title: Klarinettkvintett i A-dur, K. 581
+original_title: Clarinet Quintet
+composer_id: 3252
 category: konsert
-type: chamber
+synopsis: Dette mesterverket fra 1789 ble skrevet for klarinettisten Anton Stadler
+  og er et av de mest elskede verkene i kammermusikkhistorien. Kvintetten er skrevet
+  for klarinett og strykekvartett, og er kjent for sin lyriske skjønnhet og perfekte
+  balanse mellom instrumentene. Den viser Mozarts dype forståelse for klarinettens
+  klanglige muligheter.
 wikidata_id: Q3097994
 wikipedia_url: https://en.wikipedia.org/wiki/Clarinet_Quintet_(Mozart)
-synopsis: Wolfgang Amadeus Mozart's Clarinet Quintet, K. 581, was written in 1789
-  for the clarinetist Anton Stadler. A clarinet quintet is a work for one clarinet
-  and a string quartet.
-composer_id: 3252
+type: chamber

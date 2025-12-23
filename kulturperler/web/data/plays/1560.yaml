@@ -1,9 +1,12 @@
 id: 1560
-title: Symphony No. 2
-category: konsert
-type: symphony
+title: Symfoni nr. 2 i D-dur, op. 43
+original_title: Symphony No. 2
 composer_id: 3356
+category: konsert
+synopsis: Komponert mellom 1901 og 1902, er dette et av Sibelius' mest populære og
+  tilgjengelige verk. Den blir ofte kalt 'selvstendighetssymfonien' på grunn av sin
+  heroiske karakter og den triumferende finalen. Verket markerer en overgang fra hans
+  tidlige nasjonalromantikk mot en mer personlig stil.
 wikidata_id: Q210577
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._2_(Sibelius)
-synopsis: The Symphony No. 2 in D major, Op. 43, is a four-movement work for orchestra
-  written from 1901 to 1902 by the Finnish composer Jean Sibelius..
+type: symphony

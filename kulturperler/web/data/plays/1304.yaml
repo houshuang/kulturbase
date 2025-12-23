@@ -1,10 +1,12 @@
 id: 1304
-title: Violin Concerto
-work_type: concerto
-category: konsert
+title: Fiolinkonsert i a-moll, op. 53
 original_title: Fiolinkonsert
 composer_id: 3351
-synopsis: The Violin Concerto in A minor, Op. 53, is a violin concerto composed by
-  Antonín Dvořák in 1879. It was premiered in Prague on 14 October 1883..
+work_type: concerto
+category: konsert
+synopsis: Komponert i 1879 og revidert i 1880 og 1882 etter innspill fra fiolinisten
+  Joseph Joachim. Verket er preget av lyriske melodier og rytmer fra tsjekkisk folkemusikk,
+  spesielt i den livlige finalen. Det er en sentral del av det romantiske fiolinrepertoaret
+  og kombinerer teknisk briljans med dyp emosjonalitet.
 wikidata_id: Q25609
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Concerto_(Dvo%C5%99%C3%A1k)

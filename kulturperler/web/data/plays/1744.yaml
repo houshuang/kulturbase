@@ -1,13 +1,13 @@
 id: 1744
-title: String Quintet
+title: Strykkvintett i C-dur, D 956
+original_title: String Quintet
+composer_id: 3374
 category: konsert
-type: symphony
+synopsis: Dette verket ble komponert sommeren 1828, bare to måneder før Schubert døde,
+  og regnes ofte som hans største prestasjon innen kammermusikk. I motsetning til
+  den vanlige besetningen med to bratsjer, valgte Schubert to celloer, noe som gir
+  verket en unik, fyldig klang. Den langsomme andresatsen (Adagio) er spesielt berømt
+  for sin overjordiske skjønnhet.
 wikidata_id: Q1779432
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quintet_(Schubert)
-synopsis: Franz Schubert's final chamber work, the String Quintet in C major is sometimes
-  called the "Cello Quintet" because it is scored for a standard string quartet plus
-  an extra cello instead of the extra viola which is more usual in conventional string
-  quintets. It was composed in 1828 and completed just two months before the composer's
-  death. The first public performance of the piece did not occur until 1850, and publication
-  occurred three years later in 1853.
-composer_id: 3374
+type: symphony

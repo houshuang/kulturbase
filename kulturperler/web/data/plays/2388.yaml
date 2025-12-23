@@ -1,10 +1,11 @@
 id: 2388
 title: Crisantemi
+composer_id: 3703
 category: konsert
-type: chamber
+synopsis: Crisantemi er en elegi for strykekvartett komponert av Puccini i 1890 i
+  løpet av en enkelt natt. Verket ble skrevet til minne om hertugen av Aosta og er
+  preget av en melankolsk og sørgelig atmosfære. Puccini gjenbrukte senere de musikalske
+  temaene fra dette stykket i sin opera Manon Lescaut.
 wikidata_id: Q109392321
 wikipedia_url: https://en.wikipedia.org/wiki/Crisantemi
-synopsis: Crisantemi, (Chrysanthemums), SC 65, is a composition for string quartet
-  written by Giacomo Puccini in 1890 as a tribute to the death of Amadeo I of Spain,
-  a son of the Italian King, Vittorio Emanuele II..
-composer_id: 3703
+type: chamber

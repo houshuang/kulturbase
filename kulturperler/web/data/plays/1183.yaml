@@ -1,11 +1,17 @@
 id: 1183
-title: Haugtussa
+title: Haugtussa, op. 67
+original_title: Haugtussa
+composer_id: 1230
 work_type: orchestral
 category: konsert
-composer_id: 1230
-based_on_work_id: 134
+synopsis: Haugtussa, op. 67 er Edvard Griegs eneste sangsyklus, komponert i 1895 og
+  utgitt i 1898. Verket består av åtte sanger for sopran og klaver, basert på utvalgte
+  dikt fra Arne Garborgs nynorske diktsyklus med samme navn. Handlingen følger den
+  synske gjeterjenta Veslemøy, også kalt Haugtussa, gjennom hennes møte med naturens
+  mystikk, den første forelskelsen i gutten Jon og den påfølgende kjærlighetssorgen.
+  Grieg fanger her både det lyse, pastorale livet på setra og de mørke, underjordiske
+  kreftene i Veslemøys indre og ytre verden. Verket regnes som et av høydepunktene
+  i nordisk sangkunst og er kjent for sin dype sammensmelting av tekst og musikk.
 wikidata_id: Q5682503
 wikipedia_url: https://en.wikipedia.org/wiki/Haugtussa_(Grieg)
-synopsis: Haugtussa, Op. 67, or The Mountain Maid, is a song cycle for soprano and
-  piano composed by Edvard Grieg in 1895 and published in 1898. Even though Grieg
-  wrote a total of 181 songs, this is the only song cycle in his entire output.
+based_on_work_id: 134

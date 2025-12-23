@@ -1,11 +1,13 @@
 id: 2414
-title: Piano Trio No. 1
+title: Klavertrio nr. 1 i H-dur, op. 8
+original_title: Piano Trio No. 1
+composer_id: 3347
 category: konsert
-type: chamber
+synopsis: Dette er Brahms' første publiserte kammermusikkverk, opprinnelig skrevet
+  i 1854 og senere omfattende revidert i 1889. Verket er skrevet for klaver, fiolin
+  og cello, og er uvanlig ved at det starter i H-dur, men ender i h-moll. Den reviderte
+  utgaven kombinerer ungdommelig lidenskap med den modne komponistens klarhet og stramme
+  struktur.
 wikidata_id: Q3132817
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Trio_No._1_(Brahms)
-synopsis: The Piano Trio No. 1 in B major, Op. 8, by Johannes Brahms was completed
-  in January 1854, when the composer was only twenty years old, published in November
-  1854 and premiered on 13 October 1855 in Danzig. It has often been mistakenly claimed
-  that the first performance had taken place in the United States.
-composer_id: 3347
+type: chamber

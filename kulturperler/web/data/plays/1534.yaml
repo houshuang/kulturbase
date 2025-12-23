@@ -1,9 +1,12 @@
 id: 1534
-title: Symphony No. 40
-category: konsert
-type: symphony
+title: Symfoni nr. 40 i g-moll, K. 550
+original_title: Symphony No. 40
 composer_id: 3252
+category: konsert
+synopsis: Denne symfonien fra 1788 er en av Mozarts mest kjente og beundrede komposisjoner,
+  ofte kalt den «store» g-moll-symfonien. Den er preget av en intens, tragisk og rastløs
+  atmosfære som skiller seg ut fra mange av hans mer lystige verk. Åpningstemaet i
+  første sats er en av de mest gjenkjennelige melodiene i hele den klassiske musikklitteraturen.
 wikidata_id: Q231390
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._40_(Mozart)
-synopsis: Symphony No. 40 in G minor, K. 550, was written by Wolfgang Amadeus Mozart
-  in 1788.
+type: symphony

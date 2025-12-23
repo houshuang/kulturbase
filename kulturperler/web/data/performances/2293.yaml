@@ -3,7 +3,9 @@ work_id: 1344
 source: youtube
 medium: stream
 title: 'SCHUMANN - Piano concerto, op.54 - I: Allegro affettuoso'
-credits: []
+credits:
+- person_id: 4313
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

@@ -1,11 +1,14 @@
 id: 1809
-title: Havanaise
+title: Havanaise i E-dur, op. 83
+original_title: Havanaise
+composer_id: 3802
 category: konsert
-type: symphony
+synopsis: Dette virtuose stykket for fiolin og orkester ble komponert i 1887 og er
+  basert på den rytmiske habanera-dansen fra Cuba. Verket ble skrevet for den kubanske
+  fiolinisten Rafael Diaz Albertini og kjennetegnes av sin melankolske eleganse og
+  teknisk krevende partier for solisten. Det er i dag et standardverk i fiolinrepertoaret
+  og fremføres ofte med enten orkester- eller pianoakkompagnement. Musikken fanger
+  en eksotisk atmosfære gjennom sine synkoperte rytmer og lyriske melodilinjer.
 wikidata_id: Q383461
 wikipedia_url: https://en.wikipedia.org/wiki/Havanaise_(Saint-Sa%C3%ABns)
-synopsis: The Havanaise in E major, Op. 83, is a composition for violin and orchestra
-  based on the habanera rhythm, written in 1887 by French composer, Camille Saint-Saëns
-  for Cuban violinist Rafael Díaz Albertini. At the January 7, 1894 orchestral premiere
-  in Paris, the violin was played instead by Martin Pierre Marsick.
-composer_id: 3802
+type: symphony

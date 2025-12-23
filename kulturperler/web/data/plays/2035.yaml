@@ -1,11 +1,13 @@
 id: 2035
-title: String Trios
-category: konsert
-type: chamber
+title: Stryketrioer, D 471 og D 581
+original_title: String Trios
 composer_id: 3374
+category: konsert
+synopsis: Dette refererer til Schuberts to bidrag til besetningen stryketrio (fiolin,
+  bratsj og cello). Den første i B-dur (D 471) fra 1816 er ufullendt og består kun
+  av en komplett førstesats, mens den andre i B-dur (D 581) fra 1817 er et fullstendig
+  verk i fire satser. Begge verkene preges av en klassisistisk stil inspirert av Mozart
+  og Haydn.
 wikidata_id: Q17025627
 wikipedia_url: https://en.wikipedia.org/wiki/String_Trios_(Schubert)
-synopsis: Franz Schubert wrote three string trios, all of them in the key of B-flat
-  major. From the first of these, D 111A, a trio Schubert wrote in 1814, only a few
-  measures are extant. The string trio D 471 consists of a completed first movement
-  and an incomplete second movement, composed in 1816.
+type: chamber

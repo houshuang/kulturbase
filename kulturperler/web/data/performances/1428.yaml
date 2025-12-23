@@ -1,5 +1,5 @@
 id: 1428
-work_id: 1347
+work_id: 2588
 source: bergenphilive
 title: Lontano
 medium: tv
@@ -9,3 +9,5 @@ description: 'Bergen Filharmoniske Orkester. Innspilt: 2022-01-28'
 credits:
 - person_id: 4255
   role: conductor
+institutions:
+- institution_id: 14

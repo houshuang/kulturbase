@@ -2,14 +2,18 @@ id: 32
 title: Byggmester Solness
 original_title: Byggmester Solness
 playwright_id: 879
-synopsis: Byggmester Solness er et skuespill av Henrik Ibsen fra 1892. Det handler
-  om den aldrende arkitekten Halvard Solness som frykter den yngre generasjonen, og
-  hans møte med den unge Hilde Wangel som utfordrer ham til å nå nye høyder.
+work_type: teaterstykke
+category: teater
+synopsis: Halvard Solness er en fremgangsrik arkitekt som lever i frykt for at den
+  yngre generasjonen skal utkonkurrere ham. Han bærer på en dyp skyldfølelse overfor
+  sin kone, Aline, etter en brann som ødela deres hjem og indirekte førte til barnas
+  død. Den unge Hilde Wangel dukker opp og krever at han oppfyller et gammelt løfte
+  om å bygge et kongerike til henne. Drevet av hennes beundring trosser han sin høydeskrekk
+  for å klatre til topps i sitt nyeste tårn. Dramaet ender tragisk når Solness faller
+  ned og dør foran øynene på de fremmøtte.
+sceneweb_id: 3630
+sceneweb_url: https://sceneweb.no/nb/artwork/3630/
 external_links:
 - url: https://www.bokselskap.no/boker/bygmester
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3630
-sceneweb_url: https://sceneweb.no/nb/artwork/3630/

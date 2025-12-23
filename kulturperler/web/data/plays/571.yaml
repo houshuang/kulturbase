@@ -2,14 +2,19 @@ id: 571
 title: Den stundesløse
 original_title: Den stundesløse
 playwright_id: 3092
-synopsis: Den stundesløse er en komedie av Ludvig Holberg fra 1723. Det handler om
-  den rastløse Vielgeschrey som alltid har det travelt uten egentlig å utrette noe,
-  en satire over viktigpetere.
+work_type: teaterstykke
+category: teater
+synopsis: Vielgeschrey er en mann som innbiller seg at han har det ekstremt travelt,
+  selv om han egentlig ikke utretter noe fornuftig. Han er så besatt av sine egne
+  bagatellmessige gjøremål at han planlegger å gifte bort datteren til en bokholder
+  for å få hjelp med papirarbeidet. Datteren elsker imidlertid en annen, og ved hjelp
+  av listige tjenere blir Vielgeschrey lurt trill rundt. Stykket er en treffende satire
+  over folk som forveksler travelhet med effektivitet og viktighet. Det viser hvordan
+  hovedpersonens selvpålagte stress gjør ham blind for det som virkelig betyr noe
+  i livet.
+sceneweb_id: 15764
+sceneweb_url: https://sceneweb.no/nb/artwork/15764/
 external_links:
 - url: https://holbergsskrifter.no/holberg-public/view?docId=skuespill/Den_Stundesloese/Den_Stundesloese.page
   title: Holbergs skrifter
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 15764
-sceneweb_url: https://sceneweb.no/nb/artwork/15764/

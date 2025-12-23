@@ -1,12 +1,13 @@
 id: 2073
-title: Concerto Grosso No. 1
+title: Concerto grosso nr. 1
+original_title: Concerto Grosso No. 1
+composer_id: 3938
 category: konsert
-type: orchestral
+synopsis: Dette verket ble komponert i 1977 og er et av Alfred Schnittkes mest kjente
+  og spilte stykker. Det er skrevet for to fioliner, cembalo, preparert piano og strykeorkester,
+  og er et kroneksempel på komponistens polystilisme. Verket består av seks satser
+  der barokke former blandes med moderne dissonanser, tango-rytmer og sitater fra
+  populærmusikk.
 wikidata_id: Q94326
 wikipedia_url: https://en.wikipedia.org/wiki/Concerto_Grosso_No._1_(Schnittke)
-synopsis: The Concerto Grosso No. 1 was the first of six concerti grossi by Soviet
-  composer Alfred Schnittke. It was written in 1976–1977 at the request of Gidon Kremer
-  and Tatiana Grindenko who were also the violin soloists at its premiere on 21 March
-  1977 in Leningrad together with Yuri Smirnov on keyboard instruments and the Leningrad
-  Chamber Orchestra under Eri Klas.
-composer_id: 3938
+type: orchestral

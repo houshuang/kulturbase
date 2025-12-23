@@ -1,10 +1,13 @@
 id: 1516
-title: Romeo and Juliet
-category: konsert
-type: ballet
+title: Romeo og Julie, op. 64
+original_title: Romeo and Juliet
 composer_id: 3759
+category: konsert
+synopsis: Dette er en ballett basert på William Shakespeares tragedie, komponert mellom
+  1935 og 1936. Verket er et av Prokofievs mest elskede og inneholder kjente stykker
+  som «Riddrenes dans» (Montagues og Capulets). Musikken er berømt for sin dramatiske
+  karakterisering og rike orkestrering, og komponisten utarbeidet senere flere orkestersuiter
+  fra balletten.
 wikidata_id: Q911487
 wikipedia_url: https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Prokofiev)
-synopsis: Romeo and Juliet, Op. 64, is a ballet by Sergei Prokofiev based on William
-  Shakespeare's play Romeo and Juliet. First composed in 1935, it was substantially
-  revised for its Soviet premiere in early 1940.
+type: ballet

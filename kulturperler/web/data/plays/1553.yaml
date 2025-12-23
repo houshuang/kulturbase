@@ -1,11 +1,12 @@
 id: 1553
-title: Der Rosenkavalier
-category: konsert
-type: opera
+title: Rosenkavaleren, op. 59
+original_title: Der Rosenkavalier
 composer_id: 3256
+category: konsert
+synopsis: Komponert mellom 1909 og 1910 med libretto av Hugo von Hofmannsthal. Dette
+  er en komisk opera i tre akter som utspiller seg i Wien på 1740-tallet. Verket er
+  berømt for sine wiener-valser og den emosjonelle trioen for tre sopraner i siste
+  akt.
 wikidata_id: Q471240
 wikipedia_url: https://en.wikipedia.org/wiki/Der_Rosenkavalier
-synopsis: Der Rosenkavalier, Op. 59, is a comic opera in three acts by Richard Strauss
-  to an original German libretto by Hugo von Hofmannsthal. It is loosely adapted from
-  Louvet de Couvrai's novel Les amours du chevalier de Faublas and Molière's comedy
-  Monsieur de Pourceaugnac.
+type: opera

@@ -1,11 +1,13 @@
 id: 2041
-title: Piano Quintet
+title: Klaverkvintett i f-moll, op. 34
+original_title: Piano Quintet
+composer_id: 3347
 category: konsert
-type: chamber
+synopsis: Dette mesterverket fra 1864 regnes som 'kronen på verket' i Brahms' tidlige
+  kammermusikk og er skrevet for klaver og strykekvartett. Verket gjennomgikk flere
+  transformasjoner, først som strykekvintett og deretter som sonate for to klaverer,
+  før det fant sin endelige form. Det er kjent for sin dramatiske kraft, rytmiske
+  kompleksitet og den storslåtte finalen.
 wikidata_id: Q2719356
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Quintet_(Brahms)
-synopsis: The Piano Quintet in F minor, Op. 34, by Johannes Brahms was completed during
-  the summer of 1864 and published in 1865. It was dedicated to Her Royal Highness
-  Princess Anna of Hesse. As with most piano quintets composed after Robert Schumann's
-  Piano Quintet (1842), it is written for piano and string quartet..
-composer_id: 3347
+type: chamber

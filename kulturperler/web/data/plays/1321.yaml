@@ -1,13 +1,13 @@
 id: 1321
-title: Symphony No. 1
-work_type: symphony
-category: konsert
+title: Symfoni nr. 1 i D-dur
 original_title: Symfoni nr. 1
 composer_id: 3718
-based_on_work_id: 313
+work_type: symphony
+category: konsert
+synopsis: Komponert mellom 1887 og 1888, og er Mahlers første store symfoniske verk.
+  Den er kjent for sin bruk av naturlyder og den ironiske begravelsesmarsjen basert
+  på «Fader Jakob» i tredje sats. Verket ble opprinnelig kalt «Titan» og har fire
+  satser i sin endelige form.
 wikidata_id: Q163553
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._1_(Mahler)
-synopsis: The Symphony No. 1 in D major by Gustav Mahler was mainly composed between
-  late 1887 and March 1888, though it incorporates music Mahler had composed for previous
-  works. It was composed while Mahler was second conductor at the Leipzig Opera in
-  Germany.
+based_on_work_id: 313

@@ -1,9 +1,12 @@
 id: 2344
-title: Violin Sonata No. 5
+title: Fiolinsonate nr. 5 i F-dur, op. 24
+original_title: Violin Sonata No. 5
+composer_id: 3478
 category: konsert
-type: chamber
+synopsis: Verket er viden kjent under kallenavnet «Vårsonaten» og ble komponert i
+  1800–1801. Den har fått sitt navn på grunn av sin uvanlig lyse, friske og optimistiske
+  atmosfære, spesielt i den berømte åpningstemaet. Dette var den første av Beethovens
+  fiolinsonater som ble skrevet med fire satser i stedet for tre.
 wikidata_id: Q669358
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Sonata_No._5_(Beethoven)
-synopsis: The Violin Sonata No. 5 in F major, Op. 24, is a four movement work for
-  violin and piano by Ludwig van Beethoven.
-composer_id: 3478
+type: chamber

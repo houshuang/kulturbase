@@ -2,12 +2,16 @@ id: 412
 title: Kreditorer
 original_title: Fordringsägare
 playwright_id: 3104
-synopsis: Fordringsägare (Kreditorer) er et skuespill av August Strindberg fra 1888.
-  Det handler om et psykologisk maktspill mellom en kvinne, hennes nåværende mann
-  og hennes eksmann.
+work_type: teaterstykke
+category: teater
+synopsis: Stykket er et intenst psykologisk drama som involverer Tekla, hennes nåværende
+  mann Adolf og hennes tidligere mann Gustav. Gustav oppsøker Adolf inkognito og manipulerer
+  ham til å tvile på Teklas kjærlighet og sin egen verdi som kunstner. Gjennom utspekulerte
+  samtaler avslører Gustav hvordan han ønsker hevn for fortidens ydmykelser ved å
+  ødelegge parets forhold. Tittelen refererer til hvordan karakterene står i emosjonell
+  gjeld til hverandre og krever betaling i form av makt. Det er en av Strindbergs
+  mest konsentrerte og teknisk dyktige skildringer av menneskelig manipulasjon.
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/Fordringsegare/sida/I/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater

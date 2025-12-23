@@ -2,7 +2,9 @@ id: 2358
 source: youtube
 medium: stream
 title: REHNQVIST - Songs to the Sun
-credits: []
+credits:
+- person_id: 4316
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

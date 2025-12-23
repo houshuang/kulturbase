@@ -2,11 +2,17 @@ id: 578
 title: Meister Olof
 original_title: Mäster Olof
 playwright_id: 3104
-synopsis: Mäster Olof er et historisk drama av August Strindberg fra 1872. Det handler
-  om reformatoren Olaus Petri og hans kamp for den protestantiske tro i Sverige.
+work_type: teaterstykke
+category: teater
+synopsis: «Meister Olof» er et historisk drama som følger den unge reformatoren Olaus
+  Petri i hans kamp for å fornye den svenske kirken på 1520-tallet. Handlingen skildrer
+  hvordan Olof utfordrer den katolske kirken og blir en sentral skikkelse under kong
+  Gustav Vasa. Etter hvert oppstår det en dyp konflikt mellom Olofs religiøse idealisme
+  og kongens politiske maktbehov, noe som fører til at Olof involveres i et komplott
+  mot monarken. Han blir til slutt dømt til døden, men velger å avsvøre sine handlinger
+  for å redde livet. Verket avsluttes med det berømte utropet «Avfälling!», som markerer
+  Olofs personlige nederlag og tap av integritet.
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/MästerOlof1881/sida/1/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater

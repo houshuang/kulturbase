@@ -1,9 +1,13 @@
 id: 1517
-title: Violin Concerto
-category: konsert
-type: concerto
+title: Fiolinkonsert i D-dur, op. 35
+original_title: Violin Concerto
 composer_id: 3795
+category: konsert
+synopsis: Erich Wolfgang Korngolds fiolinkonsert i D-dur, op. 35, ble ferdigstilt
+  i 1945 og urfremført av Jascha Heifetz i 1947. Verket er kjent for å gjenbruke temaer
+  fra Korngolds mange kjente filmpartiturer, noe som gir konserten en utpreget lyrisk
+  og cinematisk karakter. Den består av tre satser og regnes i dag som et av de mest
+  populære og virtuose verkene i det 20. århundrets fiolinrepertoar.
 wikidata_id: Q736174
 wikipedia_url: https://en.wikipedia.org/wiki/Violin_Concerto_(Korngold)
-synopsis: Erich Wolfgang Korngold composed his Violin Concerto in D major, Op. 35,
-  in 1945..
+type: concerto

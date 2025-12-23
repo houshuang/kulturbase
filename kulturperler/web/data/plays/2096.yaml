@@ -1,11 +1,13 @@
 id: 2096
 title: Ramifications
+composer_id: 3730
 category: konsert
-type: orchestral
+synopsis: Verket ble komponert i perioden 1968–1969 og er skrevet for to strykergrupper
+  som er stemt en kvarttone fra hverandre. Det er et av de fremste eksemplene på Ligetis
+  bruk av mikropolyfoni, der tette musikalske teksturer skaper en flytende og tåkete
+  klangflate. Komposisjonen består av én sammenhengende sats og utforsker spenningen
+  som oppstår når de to gruppene gradvis nærmer seg eller fjerner seg fra hverandre
+  i stemming.
 wikidata_id: Q17066074
 wikipedia_url: https://en.wikipedia.org/wiki/Ramifications_(Ligeti)
-synopsis: '
-
-  Ramifications is a composition for strings by Hungarian composer György Ligeti.
-  It was finished in 1968 and premiered in 1969..'
-composer_id: 3730
+type: orchestral

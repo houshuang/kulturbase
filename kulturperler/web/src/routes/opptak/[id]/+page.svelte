@@ -353,18 +353,14 @@
 									{#if other.year}
 										<span class="other-year">{other.year}</span>
 									{/if}
-									{#if other.source === 'youtube'}
-										<span class="other-source youtube">YouTube</span>
-									{:else if other.source === 'bergenphilive'}
-										<span class="other-source bpl">BergenPhilLive</span>
-									{:else if other.medium === 'radio'}
-										<span class="other-source radio">Radio</span>
-									{:else}
-										<span class="other-source nrk">TV</span>
-									{/if}
 								</div>
-								{#if other.director_name}
-									<span class="other-director">{isConcert ? 'Dir' : 'Regi'}: {other.director_name}</span>
+								{#if other.orchestra_name}
+									<span class="other-detail">{other.orchestra_name}</span>
+								{/if}
+								{#if other.conductor_name}
+									<span class="other-detail">{other.conductor_name}</span>
+								{:else if other.director_name && !isConcert}
+									<span class="other-detail">{other.director_name}</span>
 								{/if}
 							</div>
 						</a>
@@ -792,38 +788,36 @@
 
 	.other-performances h2 {
 		font-size: 1.1rem;
-		margin-bottom: 0.75rem;
+		margin-bottom: 1rem;
 	}
 
 	.other-performances-grid {
-		display: flex;
-		flex-direction: column;
-		gap: 0.5rem;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+		gap: 1rem;
 	}
 
 	.other-performance-card {
 		display: flex;
-		align-items: center;
-		gap: 0.75rem;
-		padding: 0.5rem;
+		flex-direction: column;
 		text-decoration: none;
 		color: inherit;
-		border-radius: 6px;
-		background: #f5f5f5;
-		transition: background 0.15s;
+		border-radius: 8px;
+		background: #f9f9f9;
+		overflow: hidden;
+		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
 	.other-performance-card:hover {
-		background: #eee;
+		transform: translateY(-3px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 	}
 
 	.other-thumbnail {
-		width: 80px;
-		height: 45px;
-		flex-shrink: 0;
+		aspect-ratio: 16/9;
+		width: 100%;
 		background: #ddd;
 		overflow: hidden;
-		border-radius: 4px;
 	}
 
 	.other-thumbnail img {
@@ -840,15 +834,14 @@
 		justify-content: center;
 		background: linear-gradient(135deg, #1a1a2e, #16213e);
 		color: rgba(255, 255, 255, 0.5);
-		font-size: 0.7rem;
+		font-size: 0.8rem;
 	}
 
 	.other-info {
-		flex: 1;
-		min-width: 0;
+		padding: 0.6rem;
 		display: flex;
-		align-items: center;
-		gap: 0.75rem;
+		flex-direction: column;
+		gap: 0.25rem;
 	}
 
 	.other-title {
@@ -864,7 +857,6 @@
 		display: flex;
 		align-items: center;
 		gap: 0.4rem;
-		flex-shrink: 0;
 	}
 
 	.other-year {
@@ -873,37 +865,13 @@
 		color: #e94560;
 	}
 
-	.other-source {
-		padding: 0.1rem 0.35rem;
-		border-radius: 3px;
-		font-size: 0.65rem;
-		font-weight: 500;
-		background: #666;
-		color: white;
-	}
-
-	.other-source.youtube {
-		background: #ff0000;
-	}
-
-	.other-source.bpl {
-		background: #1a1a2e;
-	}
-
-	.other-source.nrk {
-		background: #26292a;
-	}
-
-	.other-source.radio {
-		background: #6b5ce7;
-	}
-
-	.other-director {
-		font-size: 0.8rem;
-		color: #666;
-		white-space: nowrap;
+	.other-detail {
+		font-size: 0.75rem;
+		color: #555;
+		line-height: 1.3;
 		overflow: hidden;
 		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
 	.other-duration {

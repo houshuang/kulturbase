@@ -1,9 +1,13 @@
 id: 2040
-title: String Quartet No. 8
+title: Strykekvartett nr. 8 i c-moll, op. 110
+original_title: String Quartet No. 8
+composer_id: 3400
 category: konsert
-type: symphony
+synopsis: Kvartetten ble komponert i løpet av tre dager i Dresden i 1960 og er Sjostakovitsjs
+  mest kjente kammerverk. Selv om den offisielt er dedisert til 'ofrene for fascisme
+  og krig', regnes den som et dypt personlig og selvbiografisk verk. Den er bygget
+  rundt komponistens musikalske monogram, DSCH-motivet, og siterer flere av hans tidligere
+  verker.
 wikidata_id: Q1965644
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._8_(Shostakovich)
-synopsis: Dmitri Shostakovich's String Quartet No. 8 in C minor, Op. 110, was written
-  in three days..
-composer_id: 3400
+type: symphony

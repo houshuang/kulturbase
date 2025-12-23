@@ -1,17 +1,14 @@
 id: 2182
 title: The Sinking of the Titanic
+composer_id: 3953
 category: konsert
-type: orchestral
+synopsis: '"The Sinking of the Titanic" er et av Gavin Bryars'' mest sentrale verk,
+  påbegynt i 1969 og først utgitt i 1975. Verket er basert på beretningene om at orkesteret
+  om bord på Titanic fortsatte å spille mens skipet sank, og det utforsker hvordan
+  musikken ville ha hørtes ut i dypet. Komposisjonen er bygget rundt salmen «Autumn»
+  og benytter seg av repetisjoner, arkivopptak og klangflater for å skape en meditativ
+  og skjebnesvanger atmosfære. Verket regnes som en milepæl innen britisk eksperimentell
+  musikk og har blitt revidert og fremført i mange ulike versjoner gjennom årene.'
 wikidata_id: Q7764492
 wikipedia_url: https://en.wikipedia.org/wiki/The_Sinking_of_the_Titanic_(Bryars)
-synopsis: '
-
-
-
-  The Sinking of the Titanic is a work by British minimalist composer Gavin Bryars.
-  Inspired by the story that the band on the RMS Titanic continued to perform as the
-  ship sank in 1912, it imagines how the music performed by the band would reverberate
-  through the water some time after they ceased performing. Composed between 1969
-  and 1972, the work is now considered one of the classics of British classical experimental
-  music..'
-composer_id: 3953
+type: orchestral

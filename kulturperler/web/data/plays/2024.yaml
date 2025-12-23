@@ -1,12 +1,13 @@
 id: 2024
-title: Kaiser-Walzer
+title: Keiservalsen, op. 437
+original_title: Kaiser-Walzer
+composer_id: 3947
 category: konsert
-type: orchestral
+synopsis: Denne valsen ble komponert i 1889 for å markere det politiske vennskapet
+  mellom den østerrikske keiser Franz Joseph I og den tyske keiser Wilhelm II. Verket
+  skiller seg ut med en stolt, marsjaktig introduksjon som gradvis går over i en serie
+  elegante og majestetiske valsetemaer. Det regnes som et av de mest sofistikerte
+  og symfoniske eksemplene på wienervalstradisjonen.
 wikidata_id: Q1721565
 wikipedia_url: https://en.wikipedia.org/wiki/Kaiser-Walzer
-synopsis: Kaiser-Walzer, Op. 437 is a waltz composed by Johann Strauss II in 1889.
-  The waltz was originally titled Hand in Hand and was intended as a toast made in
-  August of that year by Emperor of Austria Franz Joseph I on the occasion of his
-  visit to the German Emperor Wilhelm II where it was symbolic as a 'toast of friendship'
-  extended by Austria-Hungary to the German Empire..
-composer_id: 3947
+type: orchestral

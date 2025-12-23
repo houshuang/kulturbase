@@ -2,16 +2,19 @@ id: 242
 title: Når vi døde våkner
 original_title: Når vi døde våkner
 playwright_id: 879
-synopsis: Når vi døde vågner er et drama av Henrik Ibsen utgitt i 1899. Stykket var
-  Ibsens siste, og hadde premiere på Königliches Hoftheater i Stuttgart 26. januar
-  1900. Det har en kunstnertematikk, og diskuterer spørsmål omkring forholdet mellom
-  liv og kunst som kan ha vært påtrengende for Ibsen ved avslutninga av forfatterskapet.
+work_type: teaterstykke
+category: teater
+synopsis: Den berømte billedhuggeren Arnold Rubek har mistet sin skaperkraft og lever
+  i et ulykkelig ekteskap med den yngre Maja. Under et opphold i Norge møter han sin
+  tidligere modell Irene, som han en gang sviktet for kunstens skyld. Irene anklager
+  ham for å ha drept hennes sjel ved å bruke henne kun som et objekt for sitt mesterverk.
+  De to innser at de har kastet bort livet ved ikke å leve ut sin kjærlighet mens
+  de ennå var 'levende'. I et siste forsøk på å finne lykken klatrer de opp på en
+  fjelltopp, hvor de blir begravd av et snøskred.
 wikidata_id: Q114530660
+sceneweb_id: 3631
+sceneweb_url: https://sceneweb.no/nb/artwork/3631/
 external_links:
 - url: https://www.ibsen.uio.no/DRVIT_NV|NVht.xhtml
   title: Ibsens skrifter
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3631
-sceneweb_url: https://sceneweb.no/nb/artwork/3631/

@@ -1,14 +1,13 @@
 id: 2191
-title: Capriol Suite
+title: Capriol-suite
+original_title: Capriol Suite
+composer_id: 3954
 category: konsert
-type: orchestral
+synopsis: Capriol-suite ble komponert i 1926 og er Peter Warlocks mest kjente og spilte
+  verk. Det er en suite i seks satser basert på franske renessansedanser som Warlock
+  fant i Thoinot Arbeaus avhandling Orchésographie fra 1589. Verket ble opprinnelig
+  skrevet for firhendig piano, men er i dag mest kjent i versjonen for strykeorkester,
+  og inneholder populære satser som den livlige «Basse-Danse» og den lyriske «Pieds-en-l'air».
 wikidata_id: Q729630
 wikipedia_url: https://en.wikipedia.org/wiki/Capriol_Suite
-synopsis: '
-
-  The Capriol Suite is a set of dances composed in October 1926 by Peter Warlock and
-  is considered one of his most popular works. Originally written for piano duet,
-  Warlock later scored it for both string and full orchestras. According to the composer,
-  it was based on tunes in Thoinot Arbeau''s Orchésographie , a manual of Renaissance
-  dances.'
-composer_id: 3954
+type: orchestral

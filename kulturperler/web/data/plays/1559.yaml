@@ -1,11 +1,12 @@
 id: 1559
-title: Piano Concerto
-category: konsert
-type: concerto
+title: Pianokonsert i G-dur
+original_title: Piano Concerto
 composer_id: 3719
+category: konsert
+synopsis: Komponert mellom 1929 og 1931, samtidig som Ravel arbeidet på sin konsert
+  for venstre hånd. Verket er i tre satser og er sterkt preget av jazz-elementer og
+  baskisk folkemusikk, spesielt i de hurtige yttersatsene. Den midterste satsen, Adagio
+  assai, er berømt for sin lange, sangbare melodi og sin klassisistiske enkelhet.
 wikidata_id: Q954815
 wikipedia_url: https://en.wikipedia.org/wiki/Piano_Concerto_in_G_major_(Ravel)
-synopsis: Maurice Ravel's Piano Concerto in G major was composed between 1929 and
-  1931. The piano concerto is in three movements, with a total playing time of a little
-  over 20 minutes. Ravel said that in this piece he was not aiming to be profound
-  but to entertain, in the manner of Mozart and Saint-Saëns.
+type: concerto

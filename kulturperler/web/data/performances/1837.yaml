@@ -1,5 +1,5 @@
 id: 1837
-work_id: 1482
+work_id: 2675
 source: bergenphilive
 title: 'Hvoslef: Jubeljahr (1765)'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2016
 description: 'Bergen Filharmoniske Orkester. Komponist: Hvoslef. Innspilt: 2016-05-11'
 credits: []
+institutions:
+- institution_id: 14

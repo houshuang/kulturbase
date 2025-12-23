@@ -1,10 +1,13 @@
 id: 1523
-title: Symphony in D minor
-category: konsert
-type: symphony
+title: Symfoni i d-moll
+original_title: Symphony in D minor
 composer_id: 3736
+category: konsert
+synopsis: César Francks symfoni i d-moll ble komponert mellom 1886 og 1888 og er komponistens
+  eneste symfoni. Verket er kjent for sin bruk av syklisk form, der musikalske temaer
+  fra de første satsene vender tilbake og utvikles i den siste satsen. Symfonien består
+  av tre satser og kombinerer fransk eleganse med tysk strukturell tyngde, noe som
+  gjorde den banebrytende og svært innflytelsesrik i sin samtid.
 wikidata_id: Q3051430
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_in_D_minor_(Franck)
-synopsis: The Symphony in D minor is the best-known orchestral work and the only mature
-  symphony written by the 19th-century composer César Franck. It employs a cyclic
-  form, with important themes recurring in all three movements..
+type: symphony

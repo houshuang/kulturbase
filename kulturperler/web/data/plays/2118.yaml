@@ -1,17 +1,13 @@
 id: 2118
-title: Simple Symphony
+title: Simple Symphony, op. 4
+original_title: Simple Symphony
+composer_id: 3337
 category: konsert
-type: symphony
+synopsis: 'Simple Symphony er et verk for strykeorkester komponert mellom 1933 og
+  1934. Verket er unikt ved at det er basert på musikalske temaer Britten skrev som
+  barn mellom ni og tolv års alder. De fire satsene har lekne, allittererende titler:
+  «Boisterous Bourrée», «Playful Pizzicato», «Sentimental Sarabande» og «Frolicsome
+  Finale».'
 wikidata_id: Q1756894
 wikipedia_url: https://en.wikipedia.org/wiki/Simple_Symphony
-synopsis: '
-
-
-  The Simple Symphony, Op. 4, is a work for string orchestra or string quartet by
-  Benjamin Britten.
-
-  It was written between December 1933 and February 1934 in Lowestoft, using material
-  that the composer had written as a child, between 1923 and 1926. It received its
-  first performance in 1934 at Stuart Hall in Norwich, with Britten conducting an
-  amateur orchestra..'
-composer_id: 3337
+type: symphony

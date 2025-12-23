@@ -1,10 +1,12 @@
 id: 1642
 title: Boléro
+composer_id: 3719
 category: konsert
-type: orchestral
+synopsis: Komponert i 1928 på bestilling fra danseren Ida Rubinstein. Verket er et
+  orkesterstykke i én sats, bygget opp rundt en uavbrutt repeterende rytme i skarptrommen
+  og to melodiske temaer som vandrer gjennom ulike instrumentgrupper. Det er berømt
+  for sitt enorme, gjennomgående crescendo som kulminerer i en voldsom avslutning,
+  og regnes som et mesterstykke i instrumentering.
 wikidata_id: Q327331
 wikipedia_url: https://en.wikipedia.org/wiki/Bol%C3%A9ro
-synopsis: Boléro is a 1928 work for large orchestra by French composer Maurice Ravel.
-  It is one of Ravel's most famous compositions. It was also one of his last completed
-  works before illness diminished his ability to write music..
-composer_id: 3719
+type: orchestral

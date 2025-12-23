@@ -9,6 +9,8 @@ credits:
   instrument: Solo violin
 - person_id: 3478
   role: composer
+- person_id: 4317
+  role: conductor
 institutions:
 - institution_id: 2
   role: orchestra

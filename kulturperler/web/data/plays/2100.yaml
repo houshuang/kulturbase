@@ -1,10 +1,13 @@
 id: 2100
-title: Serenade for Strings
+title: Serenade for strykere i E-dur, op. 22
+original_title: Serenade for Strings
+composer_id: 3410
 category: konsert
-type: orchestral
+synopsis: Serenaden ble komponert i løpet av bare to uker i mai 1875 og står som et
+  av Dvořáks mest populære og melodiøse verk. Den består av fem satser som spenner
+  fra det lyriske og drømmende til det livlige og dansbare. Verket viser komponistens
+  eksepsjonelle evne til å skrive for strykeorkester og er preget av en lys og optimistisk
+  grunnstemning.
 wikidata_id: Q1758561
 wikipedia_url: https://en.wikipedia.org/wiki/Serenade_for_Strings_(Dvo%C5%99%C3%A1k)
-synopsis: Antonín Dvořák's Serenade for Strings in E major, Op. 22 (B. 52), is one
-  of the composer's most popular orchestral works. It was composed in the first two
-  weeks of May 1875..
-composer_id: 3410
+type: orchestral

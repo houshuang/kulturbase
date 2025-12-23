@@ -1,10 +1,12 @@
 id: 1500
-title: Don Quixote
+title: Don Quixote, op. 35
+original_title: Don Quixote
+composer_id: 3256
 work_type: orchestral
 category: konsert
-composer_id: 3256
-synopsis: Don Quixote, Op. 35 is a tone poem by Richard Strauss for cello, viola,
-  and orchestra. Subtitled Phantastische Variationen über ein Thema ritterlichen Charakters,
-  the work is based on the novel Don Quixote de la Mancha by Miguel de Cervantes.
+synopsis: Komponert i 1897 med undertittelen 'Fantastiske variasjoner over et tema
+  av ridderlig karakter'. Verket er skrevet for solocello, som representerer Don Quixote,
+  og solobratsj, som representerer Sancho Panza. Det skildrer ulike episoder fra Cervantes'
+  roman, inkludert den berømte kampen mot vindmøllene.
 wikidata_id: Q606635
 wikipedia_url: https://en.wikipedia.org/wiki/Don_Quixote_(Strauss)

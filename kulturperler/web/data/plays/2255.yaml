@@ -1,12 +1,14 @@
 id: 2255
-title: Alcina
+title: Alcina, HWV 34
+original_title: Alcina
+composer_id: 3266
 category: konsert
-type: opera
+synopsis: Alcina (HWV 34) er en opera seria i tre akter av Georg Friedrich Händel,
+  komponert i 1735 for Covent Garden i London. Handlingen er basert på Ludovico Ariostos
+  episke dikt 'Orlando furioso' og utspiller seg på en magisk øy styrt av trollkvinnen
+  Alcina. Verket er kjent for sin rike instrumentering og inneholder noen av komponistens
+  mest elskede arier, som 'Verdi prati' og 'Tornami a vagheggiar'. Operaen regnes
+  i dag som et av Händels mest betydningsfulle og hyppigst oppførte sceniske verk.
 wikidata_id: Q275627
 wikipedia_url: https://en.wikipedia.org/wiki/Alcina
-synopsis: Alcina is a 1735 opera by George Frideric Handel. Handel used the libretto
-  of L'isola di Alcina, a work set to music in 1728 in Rome by Riccardo Broschi, which
-  he had acquired a year later during his travels in Italy. Partly altered for better
-  conformity, the story was originally taken from Ludovico Ariosto's epic poem Orlando
-  furioso.
-composer_id: 3266
+type: opera

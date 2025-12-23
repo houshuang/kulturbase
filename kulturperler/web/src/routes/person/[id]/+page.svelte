@@ -385,6 +385,11 @@
 								Wikipedia
 							</a>
 						{/if}
+						{#if person.bokselskap_url}
+							<a href={person.bokselskap_url} target="_blank" rel="noopener" class="external-link">
+								Bokselskap
+							</a>
+						{/if}
 					</div>
 				</div>
 			</div>

@@ -2,7 +2,9 @@ id: 2339
 source: youtube
 medium: stream
 title: DONIZETTI - Udite, udite - Langvik/Szilvay
-credits: []
+credits:
+- person_id: 3328
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

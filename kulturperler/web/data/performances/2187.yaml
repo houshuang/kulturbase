@@ -2,7 +2,9 @@ id: 2187
 source: youtube
 medium: stream
 title: PAUS - Voyage for solo Violin and strings
-credits: []
+credits:
+- person_id: 3816
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

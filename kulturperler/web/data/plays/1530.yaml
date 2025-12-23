@@ -1,9 +1,12 @@
 id: 1530
-title: Symphony No. 5
-category: konsert
-type: symphony
+title: Symfoni nr. 5 i d-moll, op. 47
+original_title: Symphony No. 5
 composer_id: 3400
+category: konsert
+synopsis: Verket ble komponert i 1937 og er et av Sjostakovitsjs mest kjente og spilte
+  verk. Det ble skrevet som et svar på den offisielle kritikken han mottok fra sovjetiske
+  myndigheter etter operaen 'Lady Macbeth fra Mtsensk'. Symfonien er berømt for sin
+  storslåtte finale, som av mange tolkes som en tvungen og ironisk feiring av regimet.
 wikidata_id: Q240279
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._5_(Shostakovich)
-synopsis: The Symphony No. 5 in D minor, Op. 47, by Dmitri Shostakovich is a work
-  for orchestra composed between April and July 1937.
+type: symphony

@@ -2,15 +2,19 @@ id: 283
 title: Samfunnets støtter
 original_title: Samfunnets støtter
 playwright_id: 879
-synopsis: Samfundets Støtter er et drama av Henrik Ibsen utgitt i 1877. Stykket hadde
-  premiere på Odense Teater, 14. november 1877. Handlingen foregår i konsul Bernicks
-  hus i en mindre, norsk kystby.
+work_type: teaterstykke
+category: teater
+synopsis: Konsul Bernick er en respektert forretningsmann i en liten kystby, men hans
+  suksess er bygget på en løgn fra ungdommen. Når hans svoger Johan vender hjem fra
+  Amerika, truer sannheten om Bernicks fortid med å ødelegge hans omdømme. Bernick
+  forsøker først å skjule sine spor, men innser etter hvert at han ikke kan leve videre
+  på bedrag. Han velger til slutt å tilstå sine synder offentlig og erklærer at sannhetens
+  og frihetens ånd er samfunnets sanne støtter. Stykket markerte Ibsens overgang til
+  det moderne realistiske samtidsdramaet.
 wikidata_id: Q3388447
+sceneweb_id: 3625
+sceneweb_url: https://sceneweb.no/nb/artwork/3625/
 external_links:
 - url: https://www.ibsen.uio.no/DRVIT_SS|SSht.xhtml
   title: Ibsens skrifter
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3625
-sceneweb_url: https://sceneweb.no/nb/artwork/3625/

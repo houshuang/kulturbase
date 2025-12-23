@@ -1,14 +1,13 @@
 id: 1550
-title: Trauermusik
-category: konsert
-type: concerto
+title: Trauermusik for bratsj og strykeorkester
+original_title: Trauermusik
 composer_id: 3783
+category: konsert
+synopsis: Verket ble komponert på kun seks timer den 21. januar 1936 for å markere
+  dødsfallet til kong Georg V av Storbritannia. Det er skrevet for bratsj og strykeorkester,
+  og Hindemith selv spilte solostemmen under urfremføringen i BBC dagen etter komposisjonen.
+  Stykket består av fire korte, sammenhengende deler og avsluttes med den kjente koralen
+  «Vor deinen Thron tret ich hiermit».
 wikidata_id: Q427522
 wikipedia_url: https://en.wikipedia.org/wiki/Trauermusik
-synopsis: '
-
-
-  Trauermusik is a suite for viola and string orchestra, written on 21 January 1936
-  by Paul Hindemith at very short notice in memory of King George V of the United
-  Kingdom, who died the previous night. The title means "Mourning Music" or "Funeral
-  Music" in English, but the work is always known by its German title..'
+type: concerto

@@ -1,14 +1,12 @@
 id: 2055
 title: Cantus in Memoriam Benjamin Britten
+composer_id: 3921
 category: konsert
-type: orchestral
+synopsis: Dette verket ble komponert i 1977 som en elegi over den britiske komponisten
+  Benjamin Brittens død. Det er skrevet for strykeorkester og en enslig bjelle (stemt
+  i a), og er et av de mest kjente eksemplene på Pärts 'tintinnabuli'-stil. Verket
+  er utformet som en kanon i a-moll hvor de ulike strykergruppene beveger seg i nedadgående
+  skalaer med forskjellige hastigheter, noe som skaper en meditativ og dvelende atmosfære.
 wikidata_id: Q1033914
 wikipedia_url: https://en.wikipedia.org/wiki/Cantus_in_Memoriam_Benjamin_Britten
-synopsis: '
-
-  Cantus in Memoriam Benjamin Britten is a short canon in A minor, written in 1977
-  by the Estonian composer Arvo Pärt, for string orchestra and bell. The work is an
-  early example of Pärt''s tintinnabuli style, which he based on his reactions to
-  early chant music. Its appeal is often ascribed to its relative simplicity; a single
-  melodic motif dominates and it both begins and ends with scored silence.'
-composer_id: 3921
+type: orchestral

@@ -1,13 +1,12 @@
 id: 1830
 title: Harakiri
+composer_id: 3944
 category: konsert
-type: symphony
+synopsis: 'Harakiri er filmmusikken til Masaki Kobayashis film med samme navn fra
+  1962 (originaltittel: Seppuku). Verket er komponert for tradisjonelle japanske instrumenter
+  som biwa og shakuhachi, og er kjent for sin innovative bruk av klangfarger og dramatiske
+  pauser. Musikken regnes som et av Takemitsus mest betydningsfulle filmpartiturer
+  og bidrar sterkt til filmens intense og atmosfæriske uttrykk.'
 wikidata_id: Q1584406
 wikipedia_url: https://en.wikipedia.org/wiki/Harakiri_(1962_film)
-synopsis: Harakiri  is a 1962 Japanese jidaigeki film directed by Masaki Kobayashi.
-  The story takes place between 1619 and 1630 during the Edo period and the rule of
-  the Tokugawa shogunate. It tells the story of the rōnin Hanshirō Tsugumo, who requests
-  to commit seppuku (harakiri) within the manor of a local feudal lord, using the
-  opportunity to explain the events that drove him to ask for death before an audience
-  of samurai.
-composer_id: 3944
+type: symphony

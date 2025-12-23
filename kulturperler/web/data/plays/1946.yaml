@@ -1,9 +1,12 @@
 id: 1946
-title: String Quartet No. 15
-category: konsert
-type: chamber
+title: Strykekvartett nr. 15 i G-dur, D 887
+original_title: String Quartet No. 15
 composer_id: 3374
+category: konsert
+synopsis: Dette var Schuberts siste strykekvartett, komponert i 1826, bare to år før
+  hans død. Verket er kjent for sin enorme skala, komplekse harmonikk og utstrakte
+  bruk av tremolo-effekter som skaper en nesten orkestral klang. Det regnes som et
+  av de mest ambisiøse og fremtidsrettede verkene innen kammermusikk-litteraturen.
 wikidata_id: Q3413774
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._15_(Schubert)
-synopsis: The String Quartet No. 15 in G major, D. 887, was the last quartet written
-  by Franz Schubert in June 1826.
+type: chamber

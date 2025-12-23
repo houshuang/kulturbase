@@ -1,5 +1,5 @@
 id: 1435
-work_id: 1354
+work_id: 2494
 source: bergenphilive
 title: 'Musikalske eventyr: Daphnis & Chloe'
 medium: tv
@@ -8,3 +8,5 @@ year: 2021
 description: 'Bergen Filharmoniske Orkester. Komponist: Musikalske eventyr. Innspilt:
   2021-10-07'
 credits: []
+institutions:
+- institution_id: 14

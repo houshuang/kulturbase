@@ -1,17 +1,19 @@
 id: 848
 title: Den store barnedåpen
-playwright_id: 3200
 original_title: Den store barnedåpen
-synopsis: Den store barnedåpen er en norsk film fra 1931 basert på Oskar Braatens
-  skuespill med samme navn. Det var den første lydfilmen i Norge, og filmen har blitt
-  en klassiker. Filmen markerte også ved sitt innhold og sin miljøbeskrivelse en større
-  virkelighetstilnærming for norsk film. Filmens realistiske skildring av arbeidsfolks
-  liv og skjebne omkring århundreskiftet signaliserte et brudd med bygderomantikken.
+playwright_id: 3200
+work_type: teaterstykke
+category: teater
+synopsis: Handlingen utspiller seg i et arbeidermiljø på Oslos østkant og følger den
+  ugifte moren Alvilde og den arbeidsløse Harald. De bor i et losjihus hos «Dobbelt-Petra»,
+  hvor de må navigere i et samfunn preget av fattigdom og sosialt stigma. Sentralt
+  i stykket står konflikten med en streng kapellan som nekter å døpe barn født utenfor
+  ekteskap. Harald viser seg etter hvert som en støttespiller for Alvilde, og stykket
+  kulminerer i en stor felles dåp for nabolagets barn. Fortellingen er preget av Braatens
+  karakteristiske realisme, humor og varme skildring av arbeiderklassen.
+sceneweb_id: 16518
+sceneweb_url: https://sceneweb.no/nb/artwork/16518/
 external_links:
 - url: https://www.bokselskap.no/boker/barnedaapen
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 16518
-sceneweb_url: https://sceneweb.no/nb/artwork/16518/

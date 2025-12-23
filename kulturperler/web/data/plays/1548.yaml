@@ -1,10 +1,12 @@
 id: 1548
-title: Symphony No. 3
-category: konsert
-type: symphony
+title: Symfoni nr. 3 i D-dur, D 200
+original_title: Symphony No. 3
 composer_id: 3374
+category: konsert
+synopsis: Schubert skrev denne symfonien i løpet av noen få uker sommeren 1815, mens
+  han jobbet som skolelærer. Det er et ungdommelig og energisk verk som viser komponistens
+  voksende selvsikkerhet i orkesterbehandling. Finalen er spesielt bemerkelsesverdig
+  for sitt drivende tempo og karakter av en italiensk tarantella.
 wikidata_id: Q223534
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._3_(Schubert)
-synopsis: Franz Schubert's Symphony No. 3 in D major, D 200, was written between 24
-  May and 19 July 1815, a few months after his eighteenth birthday. Like the other
-  early symphonies, it was not published during Schubert's lifetime.
+type: symphony

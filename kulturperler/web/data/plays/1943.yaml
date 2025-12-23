@@ -1,11 +1,13 @@
 id: 1943
-title: Serenade for Strings
+title: Serenade for strykere i e-moll, op. 20
+original_title: Serenade for Strings
+composer_id: 3732
 category: konsert
-type: orchestral
+synopsis: 'Dette verket for strykeorkester ble komponert i 1892 og var et av Elgars
+  første store suksesser som bidro til hans internasjonale gjennombrudd. Serenaden
+  består av tre korte satser: Allegro piacevole, Larghetto og Allegretto. Spesielt
+  den midterste Larghetto-satsen er høyt elsket for sin lyriske skjønnhet og regnes
+  som et av de fineste eksemplene på Elgars tidlige melodiske stil.'
 wikidata_id: Q3070666
 wikipedia_url: https://en.wikipedia.org/wiki/Serenade_for_Strings_(Elgar)
-synopsis: The Serenade for String Orchestra in E minor, Op. 20, is an early piece
-  in three short movements, by Edward Elgar. It was written in March 1892 as a present
-  to his wife, Alice on the occasion of their third wedding anniversary that year
-  and first performed privately in that year; its public premiere was in 1896.
-composer_id: 3732
+type: orchestral

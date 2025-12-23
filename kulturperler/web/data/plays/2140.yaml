@@ -1,12 +1,14 @@
 id: 2140
-title: String Quartet No. 3
+title: Strykekvartett nr. 3
+original_title: String Quartet No. 3
+composer_id: 3720
 category: konsert
-type: concerto
+synopsis: Strykekvartett nr. 3 ble komponert i 1947 mens Bacewicz oppholdt seg i Paris,
+  og verket ble urfremført i Kraków i desember samme år. Verket består av tre satser
+  (Allegro ma non troppo, Andante og Vivo) og regnes som et av hennes mest harmoniske
+  og balanserte verk fra den neoklassiske perioden. Det er preget av stor polyfon
+  dyktighet og en lys, optimistisk karakter som reflekterer komponistens kreative
+  frihet etter krigen.
 wikidata_id: Q7623933
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._3_(Bacewicz)
-synopsis: The String Quartet No. 3 is a composition for string quartet written in
-  1947 by Polish Composer Grażyna Bacewicz. The violinist-composer wrote this piece
-  during her stay in Paris following the 1944 Warsaw Uprising, and it was later awarded
-  the Polish Ministry of Culture Award in 1955 alongside her Symphony No.4 and Violin
-  Concerto No.3.
-composer_id: 3720
+type: concerto

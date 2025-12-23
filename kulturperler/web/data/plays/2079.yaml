@@ -1,12 +1,12 @@
 id: 2079
-title: String Quartet No. 1
+title: Strykekvartett nr. 1, «Kreutzersonaten»
+original_title: String Quartet No. 1
+composer_id: 3735
 category: konsert
-type: chamber
+synopsis: Dette verket ble komponert i 1923 og er inspirert av Leo Tolstojs novelle
+  med samme navn. Musikken skildrer de psykologiske spenningene og det tragiske dramaet
+  i Tolstojs fortelling gjennom intense og fragmenterte motiver. Det regnes som et
+  av de viktigste kammermusikalske verkene fra det 20. århundre.
 wikidata_id: Q1440141
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._1_(Jan%C3%A1%C4%8Dek)
-synopsis: Leoš Janáček's String Quartet No. 1, called "The Kreutzer Sonata", was written
-  quickly between 13 and 28 October 1923 at a time of great creative concentration,
-  and then revised, in the autograph, from 30 October to 7 November 1923. It was inspired
-  by Leo Tolstoy's novella The Kreutzer Sonata, which had itself been inspired by
-  Beethoven's Violin Sonata No.
-composer_id: 3735
+type: chamber

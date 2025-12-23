@@ -2,12 +2,18 @@ id: 400
 title: Dødsdansen
 original_title: Dödsdansen
 playwright_id: 3104
-synopsis: Dødsdansen er et skuespill av August Strindberg fra 1900. Det handler om
-  det bitre ekteskapet mellom kaptein Edgar og hans kone Alice, fanget på en isolert
-  festningsøy.
+work_type: teaterstykke
+category: teater
+synopsis: '"Dødsdansen" skildrer det destruktive og isolerte ekteskapet mellom artillerikapteinen
+  Edgar og den tidligere skuespillerinnen Alice, som bor i et gammelt festningstårn
+  på en øy. Etter nesten 25 år sammen er forholdet deres preget av gjensidig hat,
+  bitterhet og en evig maktkamp der de fungerer som hverandres fangevoktere. Når Alices
+  fetter Kurt kommer på besøk, brytes den fastlåste hverdagen, og han blir raskt trukket
+  inn i parets utspekulerte intriger og psykologiske krigføring. Gjennom dramatiske
+  sammenstøt og Edgars sviktende helse utforskes menneskelig ondskap og ekteskapets
+  kvelende natur. Til tross for de voldsomme konfliktene ender paret opp med å bli
+  værende i sitt «lille helvete», uadskillelige i sin felles elendighet.'
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/Dödsdansen1901/sida/I/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater

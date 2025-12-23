@@ -1,5 +1,5 @@
 id: 1863
-work_id: 1506
+work_id: 2548
 source: bergenphilive
 title: 'Chabrier: Ouverture til Gwendoline'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2015
 description: 'Bergen Filharmoniske Orkester. Komponist: Chabrier. Innspilt: 2015-02-12'
 credits: []
+institutions:
+- institution_id: 14

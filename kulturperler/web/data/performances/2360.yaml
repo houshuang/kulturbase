@@ -2,7 +2,9 @@ id: 2360
 source: youtube
 medium: stream
 title: REHNQVIST - When the Raven Black Turns White
-credits: []
+credits:
+- person_id: 4316
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

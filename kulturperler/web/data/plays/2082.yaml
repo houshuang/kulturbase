@@ -1,9 +1,13 @@
 id: 2082
-title: Symphony No. 44
+title: Symfoni nr. 44 i e-moll, Hob. I:44 («Sørgesymfonien»)
+original_title: Symphony No. 44
+composer_id: 3754
 category: konsert
-type: symphony
+synopsis: Dette er et sentralt verk fra Haydns 'Sturm und Drang'-periode, komponert
+  rundt 1772. Tilnavnet 'Sørgesymfonien' (Trauersinfonie) skyldes en historie om at
+  Haydn ønsket at den langsomme tredjesatsen skulle spilles i hans egen begravelse.
+  Symfonien er preget av en intens, emosjonell dybde og kontrapunktisk kompleksitet
+  som var uvanlig for sin tid.
 wikidata_id: Q234358
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._44_(Haydn)
-synopsis: Symphony No. 44 in E minor, Hoboken I/44, was completed in 1772 by Joseph
-  Haydn. It is popularly known as Trauer.
-composer_id: 3754
+type: symphony

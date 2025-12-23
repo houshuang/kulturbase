@@ -1,9 +1,13 @@
 id: 1976
-title: String Quartet No. 13
+title: Strykekvartett nr. 13 i B-dur, op. 130
+original_title: String Quartet No. 13
+composer_id: 3478
 category: konsert
-type: chamber
+synopsis: Komponert i 1825–1826 som en del av Beethovens visjonære sene strykekvartetter.
+  Den besto opprinnelig av seks satser med den massive «Grosse Fuge» som finale, men
+  denne ble senere erstattet av en lettere sats etter råd fra forleggeren. Verket
+  inneholder den berømte «Cavatina»-satsen, som Beethoven selv skal ha blitt rørt
+  til tårer av.
 wikidata_id: Q175565
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quartet_No._13_(Beethoven)
-synopsis: The String Quartet No. 13 in B♭ major, Op. 130, by Ludwig van Beethoven
-  was completed in November 1826.
-composer_id: 3478
+type: chamber

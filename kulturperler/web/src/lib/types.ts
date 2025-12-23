@@ -92,6 +92,7 @@ export interface Person {
 	wikipedia_url: string | null;
 	bio: string | null;
 	image_url: string | null;
+	bokselskap_url: string | null;
 }
 
 export interface Institution {

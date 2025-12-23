@@ -1,11 +1,15 @@
 id: 1593
-title: In the Hall of the Mountain King
+title: I Dovregubbens hall
+original_title: In the Hall of the Mountain King
+composer_id: 1230
 category: konsert
-type: orchestral
+synopsis: «I Dovregubbens hall» er et av Edvard Griegs mest berømte verk, opprinnelig
+  skrevet som scenemusikk til Henrik Ibsens skuespill «Peer Gynt». Stykket skildrer
+  Peer Gynts dramatiske møte med trollene og deres konge inne i fjellet. Musikken
+  starter lavmælt og forsiktig, men bygger seg gradvis opp gjennom et intenst crescendo
+  og accelerando. Denne musikalske utviklingen illustrerer hvordan trollene samler
+  seg og jager Peer ut av hallen. Verket er i dag verdenskjent og inngår også som
+  den avsluttende satsen i «Peer Gynt-suite nr. 1, op. 46».
 wikidata_id: Q956115
 wikipedia_url: https://en.wikipedia.org/wiki/In_the_Hall_of_the_Mountain_King
-synopsis: '"In the Hall of the Mountain King" is a piece of orchestral music composed
-  by Edvard Grieg in 1875 as incidental music for the sixth scene of act 2 in Henrik
-  Ibsen''s 1867 play Peer Gynt. It was originally part of Opus 23 but was later extracted
-  as the final piece of Peer Gynt, Suite No. 1, Op.'
-composer_id: 1230
+type: orchestral

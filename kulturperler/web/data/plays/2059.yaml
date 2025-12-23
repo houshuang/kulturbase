@@ -1,12 +1,14 @@
 id: 2059
-title: Concerti grossi, Op. 6
-category: konsert
-type: concerto
+title: Concerti grossi, op. 6
+original_title: Concerti grossi, Op. 6
 composer_id: 3920
+category: konsert
+synopsis: Dette er en samling av tolv konserter for strykere og basso continuo, komponert
+  av Händel i løpet av en svært intens periode høsten 1739. Verket regnes som et av
+  de ypperste eksemplene på barokkens concerto grosso-stil og er tydelig inspirert
+  av Arcangelo Corellis tidligere verker med samme tittel. Samlingen viser stor variasjon
+  i form og uttrykk, og kombinerer kontrapunktisk kompleksitet med melodiøs eleganse
+  og danselignende satser.
 wikidata_id: Q5158540
 wikipedia_url: https://en.wikipedia.org/wiki/Concerti_grossi%2C_Op._6_(Handel)
-synopsis: The Twelve Grand Concertos, Op. 6, HWV 319–330, by George Frideric Handel
-  are concerti grossi for a concertino trio of two violins and cello and a ripieno
-  four-part string orchestra with harpsichord continuo. First published by subscription
-  in London by John Walsh in 1739, they became in a second edition two years later
-  Handel's Opus 6.
+type: concerto

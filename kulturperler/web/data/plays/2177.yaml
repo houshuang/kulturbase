@@ -1,11 +1,14 @@
 id: 2177
-title: Symphony No. 6
+title: Symfoni nr. 6 i D-dur, Hob. I:6 («Morgenen»)
+original_title: Symphony No. 6
+composer_id: 3754
 category: konsert
-type: symphony
+synopsis: 'Dette verket fra 1761 er den første symfonien Haydn skrev etter at han
+  ble ansatt hos Esterházy-familien. Den utgjør første del av en trilogi som skildrer
+  ulike tider på døgnet: ''Morgenen'' (Le Matin), ''Middagen'' (Le Midi) og ''Kvelden''
+  (Le Soir). Symfonien inneholder mange solistiske partier for orkesterets musikere,
+  noe som ga Haydn muligheten til å vise frem de dyktige instrumentalistene i sitt
+  nye ensemble.'
 wikidata_id: Q246471
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._6_(Haydn)
-synopsis: The Symphony No. 6 in D major is an early symphony written in 1761 by Joseph
-  Haydn and the first written after Haydn had joined the Esterházy court. It is the
-  first of three that are characterized by unusual virtuoso writing across the orchestral
-  ensemble.
-composer_id: 3754
+type: symphony

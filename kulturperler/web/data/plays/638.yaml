@@ -2,10 +2,17 @@ id: 638
 title: Et dukkehjem
 original_title: Et dukkehjem
 playwright_id: 879
-synopsis: Et dukkehjem er et skuespill av Henrik Ibsen fra 1879. Det følger Nora Helmer
-  som oppdager at hennes tilsynelatende lykkelige ekteskap er bygget på løgner og
-  at hun har levd som en dukke i sitt eget hjem. Stykket var banebrytende for sin
-  tids diskusjon om kvinners rettigheter.
+work_type: teaterstykke
+category: teater
+synopsis: Nora Helmer lever i et tilsynelatende lykkelig ekteskap, men bærer på en
+  hemmelighet om et ulovlig lån hun tok for å redde ektemannens helse. Når sannheten
+  truer med å komme for en dag, forventer hun at ektemannen Torvald skal ofre seg
+  for henne i et «vidunderlig» kjærlighetsbevis. Torvald reagerer i stedet med egoistisk
+  raseri og fordømmelse for å beskytte sin egen sosiale status. Nora innser at hun
+  har vært behandlet som en dukke uten egenverdi gjennom hele sitt liv. Hun velger
+  til slutt å forlate mann og barn for å finne ut hvem hun selv er.
+sceneweb_id: 3621
+sceneweb_url: https://sceneweb.no/nb/artwork/3621/
 external_links:
 - url: https://applausscene.no/permalib/5dPNvas6q26E
   title: Applaus Scene
@@ -14,7 +21,3 @@ external_links:
 - url: https://www.bokselskap.no/boker/dukkehjem
   title: Bokselskap.no
   type: bokselskap
-work_type: teaterstykke
-category: teater
-sceneweb_id: 3621
-sceneweb_url: https://sceneweb.no/nb/artwork/3621/

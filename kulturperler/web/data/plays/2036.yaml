@@ -1,11 +1,14 @@
 id: 2036
-title: Radetzky March
+title: Radetzkymarsj, op. 228
+original_title: Radetzky March
+composer_id: 3949
 category: konsert
-type: orchestral
+synopsis: Radetzkymarsj ble komponert av Johann Strauss den eldre i 1848 til ære for
+  den østerrikske feltmarskalken Joseph Radetzky von Radetz etter seieren i slaget
+  ved Custoza. Verket er en av de mest kjente marsjene i musikkhistorien og er preget
+  av en livlig og rytmisk karakter. I dag er marsjen kanskje aller mest kjent som
+  det faste avslutningsnummeret ved Wienerfilharmonikernes årlige nyttårskonsert,
+  der publikum tradisjonelt klapper med i takt til musikken.
 wikidata_id: Q12001
 wikipedia_url: https://en.wikipedia.org/wiki/Radetzky_March
-synopsis: The "Radetzky March", Op. 228, is a march composed by Johann Strauss Sr.
-  which was first performed on 31 August 1848 in Vienna to celebrate the victory of
-  the Austrian Empire under Field Marshal Joseph Radetzky von Radetz over the Italian
-  forces at the Battle of Custoza, during the First Italian War of Independence.
-composer_id: 3949
+type: orchestral

@@ -1,5 +1,5 @@
 id: 1793
-work_id: 1450
+work_id: 2463
 source: bergenphilive
 title: 'Grieg: Norsk dans nr. 2'
 medium: tv
@@ -7,3 +7,5 @@ venue: Bergen
 year: 2018
 description: 'Bergen Filharmoniske Orkester. Komponist: Grieg. Innspilt: 2018-06-16'
 credits: []
+institutions:
+- institution_id: 14

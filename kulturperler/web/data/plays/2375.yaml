@@ -1,10 +1,15 @@
 id: 2375
 title: Hamlet
+composer_id: 3961
 category: konsert
-type: orchestral
+synopsis: Hamlet er en opera i fem akter av den franske komponisten Ambroise Thomas,
+  med libretto av Michel Carré og Jules Barbier basert på Shakespeares skuespill.
+  Verket hadde premiere ved Paris-operaen i 1868 og regnes som en av de mest betydningsfulle
+  franske operaene fra den romantiske perioden. Operaen er særlig kjent for Ofelias
+  virtuose «vanviddsscene» i fjerde akt og for å være et av de første store operaverkene
+  som inkluderte saksofon i orkesteret. I motsetning til Shakespeares tragedie, ender
+  operaen i sin opprinnelige franske versjon med at Hamlet overlever og blir kronet
+  til konge.
 wikidata_id: Q631016
 wikipedia_url: https://en.wikipedia.org/wiki/Hamlet_(Thomas)
-synopsis: Hamlet is a grand opera in five acts of 1868 by the French composer Ambroise
-  Thomas, with a libretto by Michel Carré and Jules Barbier based on a French adaptation
-  by Alexandre Dumas, père, and Paul Meurice of William Shakespeare's play Hamlet..
-composer_id: 3961
+type: orchestral

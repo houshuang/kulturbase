@@ -1,15 +1,14 @@
 id: 2173
-title: Histoire du soldat
+title: Historien om en soldat
+original_title: Histoire du soldat
+composer_id: 3952
 category: konsert
-type: orchestral
+synopsis: Historien om en soldat (L'Histoire du soldat) er et musikkdramatisk verk
+  av Igor Stravinskij, komponert i 1918 til en tekst av Charles-Ferdinand Ramuz. Verket
+  er skrevet for en septett og tre skuespillere, og er unikt ved at det er ment å
+  bli «lest, spilt og danset». Handlingen er basert på et russisk folkeeventyr og
+  forteller om en soldat som bytter bort fela si til djevelen i bytte mot en bok som
+  kan forutsi fremtiden.
 wikidata_id: Q1620751
 wikipedia_url: https://en.wikipedia.org/wiki/L'Histoire_du_soldat
-synopsis: '
-
-  Histoire du soldat, or Tale of the Soldier, is an hour-long 1918 theatrical work
-  to be "read, played and danced (lue, jouée et dansée)" by three actors, one or more
-  dancers, and a septet of instruments. Its music is by Igor Stravinsky, its libretto,
-  in French, by Swiss writer Charles Ferdinand Ramuz; the two men conceived it together,
-  their basis being the Russian tale The Runaway Soldier and the Devil in the collection
-  of Alexander Afanasyev..'
-composer_id: 3952
+type: orchestral

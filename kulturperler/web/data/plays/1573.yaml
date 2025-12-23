@@ -1,11 +1,12 @@
 id: 1573
-title: Symphony No. 1
-category: konsert
-type: symphony
+title: Symfoni nr. 1 i D-dur, op. 4
+original_title: Symphony No. 1
 composer_id: 3323
+category: konsert
+synopsis: Dette verket, fullført i 1867, etablerte Svendsen som en ledende skikkelse
+  i nordisk musikkliv. Symfonien er preget av en klassisk-romantisk stil med klare
+  referanser til forbilder som Beethoven og Schumann, men med en personlig friskhet.
+  Den første satsen er spesielt kjent for sitt energiske driv og sine fargerike orkesterfarger.
 wikidata_id: Q3507657
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._1_(Nielsen)
-synopsis: '
-
-  Symphony No. 1 in G minor, Op. 7, FS 16, is the first symphony of Danish composer
-  Carl Nielsen.'
+type: symphony

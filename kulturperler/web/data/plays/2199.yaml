@@ -1,11 +1,13 @@
 id: 2199
-title: String Quintet No. 3
+title: Strykekvintett nr. 3 i Ess-dur, op. 97
+original_title: String Quintet No. 3
+composer_id: 3410
 category: konsert
-type: chamber
+synopsis: Dette verket ble komponert sommeren 1893 i Spillville, Iowa, og er ofte
+  kjent som den «amerikanske» kvintetten. Det er skrevet for en besetning med to fioliner,
+  to bratsjer og cello, noe som gir en spesielt fyldig klang i mellomregisteret. Verket
+  er sterkt preget av Dvořáks opphold i USA og inneholder rytmiske og melodiske elementer
+  inspirert av amerikansk folkemusikk og urfolksmusikk.
 wikidata_id: Q499070
 wikipedia_url: https://en.wikipedia.org/wiki/String_Quintet_No._3_(Dvo%C5%99%C3%A1k)
-synopsis: The String Quintet in E♭ major, Op. 97, B. 180, was composed by Antonín
-  Dvořák during the summer he spent in Spillville, Iowa in 1893. It is a "Viola Quintet"
-  in that it is scored for string quartet with an extra viola. It was completed in
-  just over a month, immediately after he wrote his American String Quartet.
-composer_id: 3410
+type: chamber

@@ -1,10 +1,13 @@
 id: 1764
-title: The Young Person's Guide to the Orchestra
+title: The Young Person's Guide to the Orchestra, op. 34
+original_title: The Young Person's Guide to the Orchestra
+composer_id: 3337
 category: konsert
-type: symphony
+synopsis: Dette orkesterverket fra 1945 har undertittelen «Variasjoner og fuge over
+  et tema av Purcell». Det ble opprinnelig skrevet til en pedagogisk dokumentarfilm
+  for å introdusere barn for orkesterets ulike instrumentgrupper. Verket bygger på
+  et tema fra Henry Purcells scenemusikk til «Abdelazer» og avsluttes med en kompleks
+  og storslått fuge der alle instrumentene forenes.
 wikidata_id: Q630779
 wikipedia_url: https://en.wikipedia.org/wiki/The_Young_Person's_Guide_to_the_Orchestra
-synopsis: The Young Person's Guide to the Orchestra, Op. 34, is a 1945 musical composition
-  by Benjamin Britten with a subtitle Variations and Fugue on a Theme of Purcell.
-  It was based on the second movement of the Abdelazer suite.
-composer_id: 3337
+type: symphony

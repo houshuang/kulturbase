@@ -1,11 +1,11 @@
 id: 2391
 title: Vissi d'arte
+composer_id: 3703
 category: konsert
-type: orchestral
+synopsis: «Vissi d'arte» er en berømt arie for sopran fra andre akt av Giacomo Puccinis
+  opera Tosca, komponert i 1899. I denne bønnen reflekterer hovedpersonen Floria Tosca
+  over sitt liv viet til kunsten og kjærligheten mens hun er i en desperat situasjon.
+  Selv om det er en del av en opera, fremføres den ofte som et frittstående konsertstykke.
 wikidata_id: Q1501528
 wikipedia_url: https://en.wikipedia.org/wiki/Vissi_d'arte
-synopsis: '"Vissi d''arte" is a soprano aria from act 2 of the opera Tosca by Giacomo
-  Puccini. It is sung by Floria Tosca as she thinks of her fate, how the life of her
-  beloved, Mario Cavaradossi, is at the mercy of Baron Scarpia and why God has seemingly
-  abandoned her. The vocal range is E♭4 to B♭5..'
-composer_id: 3703
+type: orchestral

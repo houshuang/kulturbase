@@ -2,7 +2,9 @@ id: 2367
 source: youtube
 medium: stream
 title: DONIZETTI - La Favorita - Overture
-credits: []
+credits:
+- person_id: 3808
+  role: conductor
 institutions:
 - institution_id: 6
   role: orchestra

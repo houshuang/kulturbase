@@ -1,11 +1,13 @@
 id: 1708
-title: Concerto for Piano and String Orchestra
+title: Konsert for klaver og strykeorkester
+original_title: Concerto for Piano and String Orchestra
+composer_id: 3938
 category: konsert
-type: symphony
+synopsis: Verket ble komponert i 1979 og er skrevet i én sammenhengende sats med en
+  varighet på i underkant av tretti minutter. Det regnes som et av Schnittkes mest
+  emosjonelt ladede og tilgjengelige verk, preget av dramatiske kontraster mellom
+  det lyriske og det voldsomme. Musikken beveger seg gjennom ulike klanglige landskap,
+  fra enkle korallignende partier til komplekse, cluster-baserte teksturer.
 wikidata_id: Q115818531
 wikipedia_url: https://en.wikipedia.org/wiki/Concerto_for_Piano_and_String_Orchestra
-synopsis: The Concerto for Piano and String Orchestra is a piano concerto composed
-  by Alfred Schnittke in 1979, and premiered in Leningrad that year. The unconventional
-  work is in a single movement with contrasting sections. It is one of Schnittke's
-  most often performed works.
-composer_id: 3938
+type: symphony

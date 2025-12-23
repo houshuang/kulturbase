@@ -2,8 +2,17 @@ id: 466
 title: Kong Lear
 original_title: Kong Lear
 playwright_id: 2400
-synopsis: Kong Lear er en tragedie av William Shakespeare fra ca. 1605. Det handler
-  om den aldrende kongen Lear som deler sitt rike mellom døtrene basert på deres smiger,
-  med tragiske konsekvenser.
 work_type: teaterstykke
 category: teater
+synopsis: Kong Lear bestemmer seg for å dele riket sitt mellom sine tre døtre basert
+  på hvor mye de hevder å elske ham. Den yngste datteren Cordelia nekter å smigre
+  ham og blir forstøtt, mens de to eldste døtrene sviker ham så snart de har fått
+  makten. Lear drives til vanvidd og vandrer ut i en voldsom storm sammen med hoffnarren
+  sin mens han innser sine feilgrep. Parallelt følger vi jarlen av Gloucester, som
+  blir forrådt av sin uekte sønn Edmund i en maktkamp som speiler kongens tragedie.
+  Stykket ender i en dyster katastrofe der nesten alle hovedpersonene dør, og riket
+  etterlates i ruiner.
+external_links:
+- url: https://www.ntathome.com/king-lear
+  title: National Theatre at Home (abonnement)
+  type: streaming

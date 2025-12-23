@@ -1,11 +1,12 @@
 id: 1430
-title: Symphony No. 5
-work_type: symphony
-category: konsert
+title: Symfoni nr. 5 i e-moll, op. 64
 original_title: Tsjaikovskij Symfoni nr. 5
 composer_id: 3485
-synopsis: The Symphony No. 5 in E minor, Op. 64 by Pyotr Ilyich Tchaikovsky was composed
-  between May and August 1888 and was first performed in Saint Petersburg at the Mariinsky
-  Theatre on November 17 of that year with Tchaikovsky conducting.
+work_type: symphony
+category: konsert
+synopsis: Komponert i 1888, er dette en av Tsjajkovskijs mest spilte symfonier. Verket
+  er bygget opp rundt et gjennomgående 'skjebnetema' som dukker opp i alle de fire
+  satsene. Den andre satsen er spesielt berømt for sin vakre og lengtende hornsolo,
+  mens finalen transformerer skjebnetemaet fra moll til en triumferende dur.
 wikidata_id: Q240314
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._5_(Tchaikovsky)

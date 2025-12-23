@@ -2,14 +2,18 @@ id: 538
 title: Påske
 original_title: Påsk
 playwright_id: 3104
-synopsis: Påsk er et skuespill av August Strindberg fra 1901. Det handler om familien
-  Heyst som venter på at faren skal bli løslatt fra fengsel, mens datteren Eleonora
-  bringer håp og forsoning til de fortvilte familiemedlemmene.
+work_type: teaterstykke
+category: teater
+synopsis: Handlingen utspiller seg i løpet av påskeuken og følger familien Heyst,
+  som lever i skam etter farens økonomiske underslag. De venter i frykt på at kreditoren
+  Lindkvist skal komme og ta fra dem alt de eier som betaling for gjelden. Datteren
+  Eleonora, som har vært innlagt for psykiske lidelser, vender hjem og bringer med
+  seg en åndelig innsikt og tilgivelse. Gjennom hennes uskyld og lidelse endres familiens
+  tunge atmosfære fra håpløshet til forsoning. På påskeaften viser det seg at kreditoren
+  er barmhjertig, og familien får en ny start.
+sceneweb_id: 64744
+sceneweb_url: https://sceneweb.no/nb/artwork/64744/
 external_links:
 - url: https://litteraturbanken.se/författare/StrindbergA/titlar/Påsk/sida/I/faksimil
   title: Litteraturbanken
   type: text
-work_type: teaterstykke
-category: teater
-sceneweb_id: 64744
-sceneweb_url: https://sceneweb.no/nb/artwork/64744/

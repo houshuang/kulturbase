@@ -1,10 +1,12 @@
 id: 2399
 title: Luisa Miller
+composer_id: 3633
 category: konsert
-type: orchestral
+synopsis: Luisa Miller er en opera i tre akter som ble komponert i 1849 og markerer
+  en overgang mot Verdis mer psykologisk dyptgående stil. Verket er basert på Friedrich
+  Schillers drama «Kabale und Liebe» og skildrer tragisk kjærlighet og klassekonflikter
+  i en tyrolsk landsby. En av de mest kjente enkeltsatsene fra operaen er tenorens
+  melankolske arie «Quando le sere al placido» i andre akt.
 wikidata_id: Q545265
 wikipedia_url: https://en.wikipedia.org/wiki/Luisa_Miller
-synopsis: Luisa Miller is an opera in three acts by Giuseppe Verdi to an Italian libretto
-  by Salvadore Cammarano, based on the play Kabale und Liebe by the German dramatist
-  Friedrich von Schiller..
-composer_id: 3633
+type: orchestral

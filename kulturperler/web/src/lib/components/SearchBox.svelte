@@ -9,6 +9,7 @@
 	let query = '';
 	let suggestions: AutocompleteSuggestion[] = [];
 	let showSuggestions = false;
+	let isSearching = false;
 	let selectedIndex = -1;
 	let inputElement: HTMLInputElement;
 	let debounceTimer: ReturnType<typeof setTimeout>;
@@ -19,47 +20,38 @@
 
 	function handleInput() {
 		clearTimeout(debounceTimer);
-		clearTimeout(searchDebounceTimer);
 		selectedIndex = -1;
 
 		const trimmedQuery = query.trim();
 
-		// If search is empty, go back to previous page or home
+		// If search is empty, close dropdown
 		if (trimmedQuery.length === 0) {
 			suggestions = [];
 			showSuggestions = false;
-			// Navigate back if we came from somewhere
-			if ($page.url.pathname === '/sok') {
-				goto(previousPath || '/', { replaceState: true });
-				previousPath = null;
-			}
+			isSearching = false;
 			return;
 		}
 
-		// Autocomplete suggestions (fast)
+		// Show dropdown immediately and start searching
 		if (trimmedQuery.length >= 2) {
+			showSuggestions = true;
+			isSearching = true;
+
+			// Autocomplete suggestions (debounced 400ms)
 			debounceTimer = setTimeout(() => {
 				try {
 					suggestions = getAutocompleteSuggestions(trimmedQuery);
-					showSuggestions = suggestions.length > 0;
+					isSearching = false;
 				} catch {
 					suggestions = [];
-					showSuggestions = false;
+					isSearching = false;
 				}
-			}, 100);
+			}, 400);
 		} else {
 			suggestions = [];
 			showSuggestions = false;
+			isSearching = false;
 		}
-
-		// Navigate to search page (debounced)
-		searchDebounceTimer = setTimeout(() => {
-			// Save current path before navigating to search (only if not already on search)
-			if ($page.url.pathname !== '/sok') {
-				previousPath = $page.url.pathname;
-			}
-			goto(`/sok?q=${encodeURIComponent(trimmedQuery)}`, { replaceState: $page.url.pathname === '/sok' });
-		}, 200);
 	}
 
 	function handleKeydown(event: KeyboardEvent) {
@@ -147,6 +139,11 @@
 
 	{#if showSuggestions}
 		<ul id="search-suggestions" class="suggestions" role="listbox">
+			{#if isSearching && suggestions.length === 0}
+				<li class="searching">
+					<span class="searching-text">Søker...</span>
+				</li>
+			{/if}
 			{#each suggestions as suggestion, i}
 				<li
 					class="suggestion"
@@ -362,6 +359,16 @@
 		width: 18px;
 		height: 18px;
 		flex-shrink: 0;
+	}
+
+	.searching {
+		padding: 1rem;
+		text-align: center;
+	}
+
+	.searching-text {
+		color: #999;
+		font-size: 0.9rem;
 	}
 
 	@media (max-width: 900px) {

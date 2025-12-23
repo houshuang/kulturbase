@@ -1,17 +1,8 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
-	import { getRandomClassicalPlays, getPlaysByPlaywright, getRecentConcerts, getTheaterPerformanceCount, getConcertPerformanceCount, getOperaPerformanceCount, getCreatorCount, getDatabase, initDatabase, type RandomPerformance } from '$lib/db';
-	import type { PerformanceWithDetails, ExternalResource } from '$lib/types';
-
-	interface SearchResult {
-		type: 'person' | 'work';
-		id: number;
-		title: string;
-		subtitle: string | null;
-		count: number;
-		image_url: string | null;
-	}
+	import { getRandomClassicalPlays, getPlaysByPlaywright, getTheaterPerformanceCount, getConcertPerformanceCount, getOperaPerformanceCount, getCreatorCount, getDatabase, initDatabase, type RandomPerformance } from '$lib/db';
+	import type { PerformanceWithDetails } from '$lib/types';
 
 	let featuredPerformances: RandomPerformance[] = [];
 	let ibsenPlays: PerformanceWithDetails[] = [];
@@ -40,113 +31,28 @@
 
 	let loading = true;
 	let searchQuery = '';
-	let searchResults: SearchResult[] = [];
-	let showResults = false;
 	let searchTimeout: ReturnType<typeof setTimeout> | null = null;
 	const IBSEN_ID = 1;
 
 	function handleSearchInput() {
 		if (searchTimeout) clearTimeout(searchTimeout);
 
-		if (searchQuery.trim().length < 2) {
-			searchResults = [];
-			showResults = false;
+		const trimmed = searchQuery.trim();
+		if (trimmed.length < 2) {
 			return;
 		}
 
-		// Immediate search, no delay
-		performSearch();
-	}
-
-	function performSearch() {
-		const query = searchQuery.trim().toLowerCase();
-		if (query.length < 2) return;
-
-		const db = getDatabase();
-		const results: SearchResult[] = [];
-
-		// Search persons with performance count and image
-		const personStmt = db.prepare(`
-			SELECT
-				p.id,
-				p.name,
-				p.image_url,
-				(SELECT COUNT(DISTINCT pf.id) FROM works w
-				 JOIN performances pf ON pf.work_id = w.id
-				 WHERE w.playwright_id = p.id OR w.composer_id = p.id) as perf_count
-			FROM persons p
-			WHERE LOWER(p.name) LIKE ?
-			ORDER BY perf_count DESC, p.name
-			LIMIT 4
-		`);
-		personStmt.bind([`%${query}%`]);
-		while (personStmt.step()) {
-			const row = personStmt.getAsObject() as { id: number; name: string; image_url: string | null; perf_count: number };
-			results.push({
-				type: 'person',
-				id: row.id,
-				title: row.name,
-				subtitle: row.perf_count > 0 ? `${row.perf_count} opptak` : null,
-				count: row.perf_count,
-				image_url: row.image_url
-			});
-		}
-		personStmt.free();
-
-		// Search works with performance count and image
-		const workStmt = db.prepare(`
-			SELECT
-				w.id,
-				w.title,
-				p.name as playwright_name,
-				(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as perf_count,
-				(SELECT e.image_url FROM episodes e
-				 JOIN performances pf ON e.performance_id = pf.id
-				 WHERE pf.work_id = w.id LIMIT 1) as image_url
-			FROM works w
-			LEFT JOIN persons p ON w.playwright_id = p.id
-			WHERE LOWER(w.title) LIKE ?
-			ORDER BY perf_count DESC, w.title
-			LIMIT 4
-		`);
-		workStmt.bind([`%${query}%`]);
-		while (workStmt.step()) {
-			const row = workStmt.getAsObject() as { id: number; title: string; playwright_name: string | null; perf_count: number; image_url: string | null };
-			results.push({
-				type: 'work',
-				id: row.id,
-				title: row.title,
-				subtitle: row.playwright_name,
-				count: row.perf_count,
-				image_url: row.image_url
-			});
-		}
-		workStmt.free();
-
-		searchResults = results;
-		showResults = results.length > 0;
-	}
-
-	function selectResult(result: SearchResult) {
-		showResults = false;
-		searchQuery = '';
-		if (result.type === 'person') {
-			goto(`/person/${result.id}`);
-		} else {
-			goto(`/verk/${result.id}`);
-		}
+		// Debounce navigation to search page (400ms)
+		searchTimeout = setTimeout(() => {
+			goto(`/sok?q=${encodeURIComponent(trimmed)}`);
+		}, 400);
 	}
 
 	function handleKeydown(e: KeyboardEvent) {
 		if (e.key === 'Enter' && searchQuery.trim()) {
+			if (searchTimeout) clearTimeout(searchTimeout);
 			goto(`/sok?q=${encodeURIComponent(searchQuery.trim())}`);
-		} else if (e.key === 'Escape') {
-			showResults = false;
 		}
-	}
-
-	function handleBlur() {
-		setTimeout(() => { showResults = false; }, 200);
 	}
 
 	onMount(async () => {
@@ -318,38 +224,7 @@
 					bind:value={searchQuery}
 					on:input={handleSearchInput}
 					on:keydown={handleKeydown}
-					on:focus={() => searchResults.length > 0 && (showResults = true)}
-					on:blur={handleBlur}
 				/>
-				{#if showResults}
-					<div class="search-results">
-						{#each searchResults as result}
-							<button class="result-item" on:click={() => selectResult(result)}>
-								<div class="result-image">
-									{#if result.image_url}
-										<img src={result.image_url} alt="" />
-									{:else}
-										<div class="result-placeholder" data-type={result.type}>
-											{result.type === 'person' ? '👤' : '🎭'}
-										</div>
-									{/if}
-								</div>
-								<div class="result-info">
-									<span class="result-title">{result.title}</span>
-									{#if result.subtitle}
-										<span class="result-subtitle">{result.subtitle}</span>
-									{/if}
-								</div>
-								{#if result.count > 0}
-									<span class="result-count">{result.count}</span>
-								{/if}
-							</button>
-						{/each}
-						<a href="/sok?q={encodeURIComponent(searchQuery)}" class="result-all">
-							Alle resultater →
-						</a>
-					</div>
-				{/if}
 			</div>
 			<nav class="quick-stats">
 				<a href="/teater">{stats.theater} teateropptak</a>
@@ -549,104 +424,6 @@
 
 	.search-container input::placeholder {
 		color: #999;
-	}
-
-	.search-results {
-		position: absolute;
-		top: calc(100% + 6px);
-		left: 0;
-		right: 0;
-		background: white;
-		border-radius: 12px;
-		box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
-		z-index: 100;
-		overflow: hidden;
-	}
-
-	.result-item {
-		display: flex;
-		align-items: center;
-		gap: 1rem;
-		width: 100%;
-		padding: 0.75rem 1rem;
-		border: none;
-		background: none;
-		text-align: left;
-		cursor: pointer;
-		transition: background 0.1s;
-	}
-
-	.result-item:hover {
-		background: #f5f5f5;
-	}
-
-	.result-image {
-		width: 56px;
-		height: 56px;
-		border-radius: 6px;
-		overflow: hidden;
-		flex-shrink: 0;
-	}
-
-	.result-image img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-	}
-
-	.result-placeholder {
-		width: 100%;
-		height: 100%;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background: #f0f0f0;
-		font-size: 1.25rem;
-	}
-
-	.result-placeholder[data-type="person"] {
-		border-radius: 50%;
-	}
-
-	.result-info {
-		flex: 1;
-		min-width: 0;
-	}
-
-	.result-title {
-		display: block;
-		font-weight: 500;
-		color: #333;
-	}
-
-	.result-subtitle {
-		display: block;
-		font-size: 0.85rem;
-		color: #666;
-	}
-
-	.result-count {
-		background: #e94560;
-		color: white;
-		font-size: 0.75rem;
-		font-weight: 600;
-		padding: 0.25rem 0.5rem;
-		border-radius: 4px;
-		flex-shrink: 0;
-	}
-
-	.result-all {
-		display: block;
-		padding: 0.75rem 1rem;
-		text-align: center;
-		color: #e94560;
-		text-decoration: none;
-		font-size: 0.9rem;
-		border-top: 1px solid #eee;
-	}
-
-	.result-all:hover {
-		background: #fdf2f4;
 	}
 
 	.quick-stats {

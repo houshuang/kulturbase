@@ -7,12 +7,45 @@
 	let results: SearchAllResults = { persons: [], works: [], performances: [] };
 	let loading = true;
 	let searchQuery = '';
+	let inputValue = '';
+	let inputElement: HTMLInputElement;
+	let debounceTimer: ReturnType<typeof setTimeout>;
 
 	$: query = $page.url.searchParams.get('q') || '';
 
+	// Sync inputValue with URL query on initial load and URL changes
 	$: if (query !== searchQuery) {
 		searchQuery = query;
+		inputValue = query;
 		performSearch();
+	}
+
+	function handleInput() {
+		clearTimeout(debounceTimer);
+		const trimmed = inputValue.trim();
+
+		if (trimmed.length < 2) {
+			if (trimmed.length === 0 && searchQuery) {
+				// Clear search
+				goto('/sok', { replaceState: true, keepFocus: true });
+			}
+			return;
+		}
+
+		loading = true;
+
+		debounceTimer = setTimeout(() => {
+			goto(`/sok?q=${encodeURIComponent(trimmed)}`, { replaceState: true, keepFocus: true });
+		}, 400);
+	}
+
+	function handleKeydown(e: KeyboardEvent) {
+		if (e.key === 'Enter' && inputValue.trim()) {
+			clearTimeout(debounceTimer);
+			goto(`/sok?q=${encodeURIComponent(inputValue.trim())}`, { replaceState: true, keepFocus: true });
+		} else if (e.key === 'Escape') {
+			inputElement?.blur();
+		}
 	}
 
 	function performSearch() {
@@ -33,10 +66,13 @@
 
 	onMount(() => {
 		if (query) {
+			inputValue = query;
 			performSearch();
 		} else {
 			loading = false;
 		}
+		// Auto-focus search input
+		inputElement?.focus();
 	});
 
 	function formatDuration(seconds: number | null): string {
@@ -63,17 +99,25 @@
 
 <div class="search-page">
 	<header class="page-header">
-		<h1>Søkeresultater</h1>
-		{#if query}
-			<p class="query">for «{query}»</p>
-		{/if}
+		<div class="search-container">
+			<input
+				bind:this={inputElement}
+				bind:value={inputValue}
+				on:input={handleInput}
+				on:keydown={handleKeydown}
+				type="text"
+				placeholder="Søk etter stykker, personer..."
+				autocomplete="off"
+				aria-label="Søk"
+			/>
+		</div>
 	</header>
 
 	{#if loading}
 		<div class="loading">Søker...</div>
 	{:else if !query}
 		<div class="empty-state">
-			<p>Skriv inn et søkeord for å søke etter stykker, personer og opptak.</p>
+			<p>Søk etter stykker, personer og opptak i arkivet.</p>
 		</div>
 	{:else if getTotalCount() === 0}
 		<div class="empty-state">
@@ -212,17 +256,36 @@
 	}
 
 	.page-header {
-		margin-bottom: 2rem;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding: 1.5rem 0;
+		margin-bottom: 1rem;
 	}
 
-	.page-header h1 {
-		font-size: 2rem;
-		margin-bottom: 0.25rem;
+	.search-container {
+		position: relative;
+		width: 100%;
+		max-width: 480px;
 	}
 
-	.query {
-		color: #666;
-		font-size: 1.2rem;
+	.search-container input {
+		width: 100%;
+		padding: 0.875rem 1.25rem;
+		font-size: 1rem;
+		border: 2px solid #e0e0e0;
+		border-radius: 8px;
+		outline: none;
+		transition: border-color 0.15s, box-shadow 0.15s;
+	}
+
+	.search-container input:focus {
+		border-color: #e94560;
+		box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.1);
+	}
+
+	.search-container input::placeholder {
+		color: #999;
 	}
 
 	.loading,
@@ -420,6 +483,11 @@
 	}
 
 	@media (max-width: 600px) {
+		.search-container input {
+			padding: 0.75rem 1rem;
+			font-size: 0.95rem;
+		}
+
 		.persons-list {
 			grid-template-columns: 1fr;
 		}

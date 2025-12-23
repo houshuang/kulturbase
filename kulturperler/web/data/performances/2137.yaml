@@ -3,7 +3,9 @@ work_id: 1765
 source: youtube
 medium: stream
 title: Young Person's Guide to the Orchestra - fortellerversjon med Torodd Wigum
-credits: []
+credits:
+- person_id: 3868
+  role: conductor
 institutions:
 - institution_id: 5
   role: orchestra

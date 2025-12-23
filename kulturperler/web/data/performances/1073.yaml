@@ -15,14 +15,14 @@ total_duration: 5625
 image_url: https://gfx.nrk.no/eUyRw1T4O_ocdF38Kn6weAxQekBpGF5aLjLzU3Y9Tb6Q
 credits:
 - person_id: 1434
-  role: skuespiller
+  role: actor
 - person_id: 3380
-  role: skuespiller
+  role: actor
 - person_id: 359
-  role: skuespiller
+  role: actor
 - person_id: 270
-  role: skuespiller
+  role: actor
 - person_id: 3381
-  role: skuespiller
+  role: actor
 - person_id: 4209
   role: conductor

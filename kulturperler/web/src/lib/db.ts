@@ -1,5 +1,5 @@
 import type { Database, SqlJsStatic } from 'sql.js';
-import type { Episode, Person, Work, Tag, EpisodeWithDetails, SearchFilters, EpisodePerson, WorkExternalLink, Performance, PerformanceWithDetails, PerformancePerson, NrkAboutProgram, WorkCategory, WorkType, Institution, ExternalResource, ExternalResourceFilters } from './types';
+import type { Episode, Person, Work, Tag, EpisodeWithDetails, SearchFilters, EpisodePerson, WorkExternalLink, Performance, PerformanceWithDetails, PerformancePerson, NrkAboutProgram, WorkCategory, WorkType, Institution, ExternalResource, ExternalResourceFilters, WorkComposer, ComposerRole } from './types';
 
 // Alias for backwards compatibility
 type Play = Work;
@@ -306,6 +306,112 @@ export function getWork(id: number): (Work & { playwright_name?: string; compose
 
 // Alias for backwards compatibility
 export const getPlay = getWork;
+
+// Role labels for display (Norwegian)
+const composerRoleLabels: Record<ComposerRole, string> = {
+	composer: 'komp.',
+	arranger: 'arr.',
+	orchestrator: 'ork.',
+	lyricist: 'tekst',
+	adapter: 'bearb.'
+};
+
+export function getComposerRoleLabel(role: ComposerRole): string {
+	return composerRoleLabels[role] || role;
+}
+
+export function getWorkComposers(workId: number): WorkComposer[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT
+			wc.work_id,
+			wc.person_id,
+			wc.role,
+			wc.sort_order,
+			p.name as person_name,
+			p.birth_year as person_birth_year,
+			p.death_year as person_death_year
+		FROM work_composers wc
+		JOIN persons p ON wc.person_id = p.id
+		WHERE wc.work_id = ?
+		ORDER BY wc.sort_order, wc.role
+	`);
+	stmt.bind([workId]);
+
+	const results: WorkComposer[] = [];
+	while (stmt.step()) {
+		const row = stmt.getAsObject();
+		results.push({
+			work_id: row.work_id as number,
+			person_id: row.person_id as number,
+			role: row.role as ComposerRole,
+			sort_order: row.sort_order as number,
+			person_name: row.person_name as string,
+			person_birth_year: row.person_birth_year as number | null,
+			person_death_year: row.person_death_year as number | null
+		});
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function formatComposers(composers: WorkComposer[]): string {
+	if (composers.length === 0) return '';
+
+	return composers.map(c => {
+		if (c.role === 'composer') {
+			return c.person_name;
+		}
+		return `${c.person_name} (${getComposerRoleLabel(c.role as ComposerRole)})`;
+	}).join(', ');
+}
+
+export interface WorkAsComposer extends Work {
+	composer_role: ComposerRole;
+}
+
+export function getWorksAsComposer(personId: number): WorkAsComposer[] {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT w.*, wc.role as composer_role
+		FROM works w
+		JOIN work_composers wc ON w.id = wc.work_id
+		WHERE wc.person_id = ?
+		ORDER BY w.year_written DESC, w.title
+	`);
+	stmt.bind([personId]);
+
+	const results: WorkAsComposer[] = [];
+	while (stmt.step()) {
+		results.push(stmt.getAsObject() as unknown as WorkAsComposer);
+	}
+	stmt.free();
+
+	return results;
+}
+
+export function getComposerWorkCount(personId: number): number {
+	const db = getDatabase();
+
+	const stmt = db.prepare(`
+		SELECT COUNT(DISTINCT work_id) as count
+		FROM work_composers
+		WHERE person_id = ?
+	`);
+	stmt.bind([personId]);
+
+	let count = 0;
+	if (stmt.step()) {
+		const row = stmt.getAsObject() as { count: number };
+		count = row.count;
+	}
+	stmt.free();
+
+	return count;
+}
 
 export function getTags(): Tag[] {
 	const db = getDatabase();
@@ -1425,16 +1531,21 @@ export function searchAll(query: string, limit = 10): SearchAllResults {
 	const term = `%${query}%`;
 	const normalizedTerm = `%${query.toLowerCase()}%`;
 
-	// Search persons (only those with works as playwright/composer/librettist)
+	// Search persons (those with works as playwright/composer/librettist OR with performance credits)
 	const personsStmt = db.prepare(`
 		SELECT
 			p.*,
-			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) as work_count,
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) +
+			(SELECT COUNT(DISTINCT wc.work_id) FROM work_composers wc WHERE wc.person_id = p.id) as work_count,
 			(SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) as performance_count,
 			(SELECT GROUP_CONCAT(DISTINCT pp.role) FROM performance_persons pp WHERE pp.person_id = p.id) as roles_str
 		FROM persons p
 		WHERE (p.name LIKE ? OR p.normalized_name LIKE ?)
-		AND (SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) > 0
+		AND (
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id OR w.librettist_id = p.id) > 0
+			OR (SELECT COUNT(DISTINCT wc.work_id) FROM work_composers wc WHERE wc.person_id = p.id) > 0
+			OR (SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) > 0
+		)
 		ORDER BY
 			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
 			work_count DESC,
@@ -1530,20 +1641,28 @@ export function getAutocompleteSuggestions(query: string, limit = 8): Autocomple
 	const startTerm = query + '%';
 	const suggestions: AutocompleteSuggestion[] = [];
 
-	// Get person suggestions (limit to 3, only people with works)
+	// Get person suggestions (limit to 3, people with works OR performance credits)
 	const personsStmt = db.prepare(`
 		SELECT
 			p.id,
 			p.name,
 			p.birth_year,
 			p.death_year,
-			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) as work_count
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) +
+			(SELECT COUNT(DISTINCT wc.work_id) FROM work_composers wc WHERE wc.person_id = p.id) as work_count,
+			(SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) as performance_count,
+			(SELECT GROUP_CONCAT(DISTINCT pp.role) FROM performance_persons pp WHERE pp.person_id = p.id) as roles_str
 		FROM persons p
 		WHERE (p.name LIKE ? OR p.normalized_name LIKE ?)
-		AND (SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) > 0
+		AND (
+			(SELECT COUNT(DISTINCT w.id) FROM works w WHERE w.playwright_id = p.id OR w.composer_id = p.id) > 0
+			OR (SELECT COUNT(DISTINCT wc.work_id) FROM work_composers wc WHERE wc.person_id = p.id) > 0
+			OR (SELECT COUNT(DISTINCT pp.performance_id) FROM performance_persons pp WHERE pp.person_id = p.id) > 0
+		)
 		ORDER BY
 			CASE WHEN p.name LIKE ? THEN 0 ELSE 1 END,
-			work_count DESC
+			work_count DESC,
+			performance_count DESC
 		LIMIT 3
 	`);
 	personsStmt.bind([term, term, startTerm]);
@@ -1553,11 +1672,23 @@ export function getAutocompleteSuggestions(query: string, limit = 8): Autocomple
 		const years = row.birth_year
 			? `${row.birth_year}–${row.death_year || ''}`
 			: null;
+		// Build subtitle based on what they have
+		let subtitle: string;
+		if (row.work_count > 0) {
+			subtitle = years ? `${years} · ${row.work_count} verk` : `${row.work_count} verk`;
+		} else {
+			// Show role for people without works (conductors, directors, etc.)
+			const roles = row.roles_str ? row.roles_str.split(',') : [];
+			const roleLabel = roles.includes('conductor') ? 'Dirigent' :
+				roles.includes('director') ? 'Regissør' :
+				roles.includes('actor') ? 'Skuespiller' : 'Medvirkende';
+			subtitle = years ? `${years} · ${roleLabel}` : `${roleLabel} · ${row.performance_count} opptak`;
+		}
 		suggestions.push({
 			type: 'person',
 			id: row.id,
 			title: row.name,
-			subtitle: years ? `${years} · ${row.work_count} verk` : `${row.work_count} verk`,
+			subtitle,
 			url: `/person/${row.id}`,
 			image_url: null
 		});

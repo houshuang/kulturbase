@@ -1,7 +1,7 @@
 id: 1073
 title: Symfoni nr. 2, op. 16, «De fire temperamenter»
 original_title: Symphony No. 2
-composer_id: 3417
+composer_id: 3727
 work_type: concerto
 category: konsert
 synopsis: Carl Nielsens andre symfoni ble komponert mellom 1901 og 1902 og er et av
@@ -11,3 +11,8 @@ synopsis: Carl Nielsens andre symfoni ble komponert mellom 1901 og 1902 og er et
   det melankolske og det sangvinske temperamentet.
 wikidata_id: Q3507731
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._2_(Nielsen)
+composers:
+- person_id: 3727
+  role: composer
+- person_id: 3373
+  role: composer

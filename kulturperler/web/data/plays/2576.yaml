@@ -2,4 +2,11 @@ id: 2576
 title: Aske, Skodde, Støv for Vinden
 work_type: ballet
 category: konsert
-composer_id: 4505
+composer_id: 3779
+composers:
+- person_id: 3779
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3400
+  role: composer

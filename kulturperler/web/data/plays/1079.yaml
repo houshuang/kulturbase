@@ -1,7 +1,7 @@
 id: 1079
 title: Sekstett i C-dur, op. 37
 original_title: Sextet for piano, violin, viola, cello, clarinet and horn
-composer_id: 3420
+composer_id: 3374
 work_type: chamber
 category: konsert
 synopsis: Ernő Dohnányis sekstett i C-dur ble komponert i 1935 og er et av hans mest
@@ -12,3 +12,8 @@ synopsis: Ernő Dohnányis sekstett i C-dur ble komponert i 1935 og er et av han
   satser og regnes som et av de siste store eksemplene på den romantiske kammermusikksjangeren.
 wikidata_id: Q3480946
 wikipedia_url: https://en.wikipedia.org/wiki/Sextet_(Dohn%C3%A1nyi)
+composers:
+- person_id: 3374
+  role: composer
+- person_id: 4529
+  role: composer

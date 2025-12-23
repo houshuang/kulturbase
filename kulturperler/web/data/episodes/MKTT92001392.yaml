@@ -14,8 +14,6 @@ source: nrk
 medium: radio
 series_id: roboten-matilda-og-camillamysteriet
 credits:
-- person_id: 2065
-  role: composer
 - person_id: 808
   role: director
 - person_id: 2794

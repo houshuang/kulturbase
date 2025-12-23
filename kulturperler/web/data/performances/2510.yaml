@@ -3,9 +3,6 @@ work_id: 1960
 source: youtube
 medium: stream
 title: 'Johan Svendsen: Romance | Pekka Kuusisto & NCO'
-credits:
-- person_id: 3323
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

@@ -13,10 +13,6 @@ credits:
   role: other
 - person_id: 1295
   role: other
-- person_id: 1534
-  role: composer
-- person_id: 1535
-  role: composer
 - person_id: 1342
   role: director
 - person_id: 528
@@ -285,8 +281,6 @@ credits:
   role: other
 - person_id: 1568
   role: other
-- person_id: 1569
-  role: composer
 - person_id: 1570
   role: actor
 - person_id: 1552
@@ -307,8 +301,6 @@ credits:
   role: actor
 - person_id: 447
   role: actor
-- person_id: 1571
-  role: composer
 - person_id: 237
   role: actor
 - person_id: 1573

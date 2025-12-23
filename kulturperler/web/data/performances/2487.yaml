@@ -3,9 +3,6 @@ work_id: 1939
 source: youtube
 medium: stream
 title: 'Vivaldi: Four Seasons - Pekka Kuusisto, Milla Viljamaa & NCO'
-credits:
-- person_id: 3776
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

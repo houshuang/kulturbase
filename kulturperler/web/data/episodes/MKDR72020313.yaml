@@ -12,10 +12,6 @@ source: nrk
 medium: radio
 series_id: det-lange-farvel
 credits:
-- person_id: 1520
-  role: composer
-- person_id: 1521
-  role: composer
 - person_id: 1522
   role: playwright
 - person_id: 1523

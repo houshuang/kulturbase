@@ -1,7 +1,7 @@
 id: 1095
 title: Ave Maria (Bach/Gounod)
 original_title: Ave Maria
-composer_id: 3444
+composer_id: 3753
 work_type: chamber
 category: konsert
 synopsis: Dette berømte verket ble komponert av Charles Gounod i 1853 som en melodi
@@ -13,3 +13,12 @@ synopsis: Dette berømte verket ble komponert av Charles Gounod i 1853 som en me
   er dette spesifikke verket utelukkende et samarbeid over tid mellom J.S. Bach og
   Gounod.
 wikidata_id: Q790310
+composers:
+- person_id: 3753
+  role: composer
+- person_id: 4528
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3941
+  role: composer

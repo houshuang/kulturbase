@@ -3,9 +3,6 @@ work_id: 1982
 source: youtube
 medium: stream
 title: 'Mozart: Violin Concerto No. 4 in D major | NCO & Henning Kraggerud'
-credits:
-- person_id: 3252
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

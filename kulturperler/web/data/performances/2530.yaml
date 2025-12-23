@@ -3,9 +3,6 @@ work_id: 1122
 source: youtube
 medium: stream
 title: 'Mozart: Violin Concerto No. 5 in A, ''Turkish'' | NCO & Henning Kraggerud'
-credits:
-- person_id: 3252
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

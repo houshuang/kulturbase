@@ -9,10 +9,6 @@ image_url: https://gfx.nrk.no/AwmfwuB2pEtLby28ixpMJQAfKl2TGA3Df_uAebAZGg3Q
 medium: radio
 series_id: det-lange-farvel
 credits:
-- person_id: 1520
-  role: composer
-- person_id: 1521
-  role: composer
 - person_id: 1522
   role: playwright
 - person_id: 1523

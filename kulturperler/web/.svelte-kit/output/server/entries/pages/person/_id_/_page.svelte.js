@@ -1,6 +1,6 @@
 import { U as store_get, V as head, X as attr, W as ensure_array_like, Y as attr_class, _ as stringify, Z as unsubscribe_stores } from "../../../../chunks/index2.js";
 import { p as page } from "../../../../chunks/stores.js";
-import { f as getPerson, h as getDatabase, i as getNrkAboutPrograms } from "../../../../chunks/db.js";
+import { f as getComposerRoleLabel, h as getPerson, i as getDatabase, j as getNrkAboutPrograms } from "../../../../chunks/db.js";
 import { e as escape_html } from "../../../../chunks/context.js";
 function _page($$renderer, $$props) {
   $$renderer.component(($$renderer2) => {
@@ -56,7 +56,7 @@ function _page($$renderer, $$props) {
           const creatorCheckStmt = db.prepare(`
 					SELECT
 						(SELECT COUNT(*) FROM works WHERE playwright_id = ?) as playwright_count,
-						(SELECT COUNT(*) FROM works WHERE composer_id = ?) as composer_count,
+						(SELECT COUNT(DISTINCT work_id) FROM work_composers WHERE person_id = ?) as composer_count,
 						(SELECT COUNT(*) FROM works WHERE librettist_id = ?) as librettist_count
 				`);
           creatorCheckStmt.bind([personId, personId, personId]);
@@ -76,7 +76,8 @@ function _page($$renderer, $$props) {
 						SELECT COUNT(DISTINCT p.id) as count
 						FROM performances p
 						JOIN works w ON p.work_id = w.id
-						WHERE w.playwright_id = ? OR w.composer_id = ? OR w.librettist_id = ?
+						LEFT JOIN work_composers wc ON w.id = wc.work_id
+						WHERE w.playwright_id = ? OR wc.person_id = ? OR w.librettist_id = ?
 					`);
             perfCountStmt.bind([personId, personId, personId]);
             if (perfCountStmt.step()) {
@@ -107,13 +108,14 @@ function _page($$renderer, $$props) {
           }
           if (stats.worksAsComposer > 0) {
             const composerStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, wc.role as composer_role,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
 							 WHERE pf.work_id = w.id LIMIT 1) as image_url
 						FROM works w
-						WHERE w.composer_id = ?
+						JOIN work_composers wc ON w.id = wc.work_id
+						WHERE wc.person_id = ?
 						ORDER BY performance_count DESC, w.title
 					`);
             composerStmt.bind([personId]);
@@ -403,6 +405,13 @@ function _page($$renderer, $$props) {
                 $$renderer2.push(`<div class="work-placeholder svelte-13eo3pq">Musikk</div>`);
               }
               $$renderer2.push(`<!--]--></div> <div class="work-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(work.title)}</h3> <div class="work-meta svelte-13eo3pq">`);
+              if (work.composer_role && work.composer_role !== "composer") {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="composer-role svelte-13eo3pq">${escape_html(getComposerRoleLabel(work.composer_role))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--> `);
               if (work.year_written) {
                 $$renderer2.push("<!--[-->");
                 $$renderer2.push(`<span class="work-year svelte-13eo3pq">${escape_html(work.year_written)}</span>`);

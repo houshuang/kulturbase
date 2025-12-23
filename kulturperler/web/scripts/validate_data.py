@@ -57,6 +57,9 @@ def validate():
         if not person.get('id'):
             errors.append(f"persons/{filename}: missing required field 'id'")
 
+    # Valid composer roles
+    valid_composer_roles = {'composer', 'arranger', 'orchestrator', 'lyricist', 'adapter'}
+
     # Validate plays
     print("Validating plays...")
     for filename, play in plays.items():
@@ -66,6 +69,17 @@ def validate():
             errors.append(f"plays/{filename}: missing required field 'id'")
         if play.get('playwright_id') and play['playwright_id'] not in person_ids:
             errors.append(f"plays/{filename}: playwright_id {play['playwright_id']} does not exist")
+        # Validate composer_id (legacy single composer)
+        if play.get('composer_id') and play['composer_id'] not in person_ids:
+            errors.append(f"plays/{filename}: composer_id {play['composer_id']} does not exist")
+        # Validate composers array (new multiple composers)
+        for i, comp in enumerate(play.get('composers', [])):
+            if not comp.get('person_id'):
+                errors.append(f"plays/{filename}: composers[{i}] missing required field 'person_id'")
+            elif comp['person_id'] not in person_ids:
+                errors.append(f"plays/{filename}: composers[{i}].person_id {comp['person_id']} does not exist")
+            if comp.get('role') and comp['role'] not in valid_composer_roles:
+                warnings.append(f"plays/{filename}: composers[{i}].role '{comp['role']}' not in {valid_composer_roles}")
 
     # Validate performances
     print("Validating performances...")
@@ -126,6 +140,14 @@ def validate():
 
     # Report results
     print()
+    if warnings:
+        print(f"Warnings: {len(warnings)}")
+        for warn in warnings[:20]:
+            print(f"  ⚠️  {warn}")
+        if len(warnings) > 20:
+            print(f"  ... and {len(warnings) - 20} more warnings")
+        print()
+
     if errors:
         print(f"VALIDATION FAILED: {len(errors)} error(s)")
         for err in errors[:50]:  # Limit output

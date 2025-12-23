@@ -3,9 +3,6 @@ work_id: 2116
 source: youtube
 medium: stream
 title: 'Robert Schumann: Piano Quintet in E-flat major, 1. Allegro brillante'
-credits:
-- person_id: 3336
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

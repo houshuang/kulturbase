@@ -1,7 +1,7 @@
 id: 897
 title: Ekko
 original_title: Ekko - Nye Carte Blanche
-composer_id: 3216
+composer_id: 1230
 work_type: ballet
 category: opera
 synopsis: '"Ekko" er en ballettforestilling av samtidsdanskompaniet Carte Blanche
@@ -10,3 +10,8 @@ synopsis: '"Ekko" er en ballettforestilling av samtidsdanskompaniet Carte Blanch
   bearbeidet, dekonstruert og nytolket av komponisten Mats Claesson. Forestillingen
   ble koreografert av Kjersti Alveberg og vant førsteprisen i Video Dance International
   Grand Prix i 1994.'
+composers:
+- person_id: 1230
+  role: composer
+- person_id: 4536
+  role: composer

@@ -9,8 +9,6 @@ credits:
 - person_id: 3793
   role: soloist
   instrument: Solo Cellist
-- person_id: 3751
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

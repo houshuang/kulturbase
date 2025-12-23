@@ -3,4 +3,9 @@ title: Blandet konsertprogram med verk av Wagner og Dvořák
 work_type: other
 category: konsert
 original_title: Mixed concert program including works by Wagner and Dvořák
-composer_id: 3385
+composer_id: 4534
+composers:
+- person_id: 4534
+  role: composer
+- person_id: 3351
+  role: composer

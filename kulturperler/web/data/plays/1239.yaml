@@ -1,7 +1,7 @@
 id: 1239
 title: Les Illuminations, op. 18
 original_title: Les Illuminations
-composer_id: 3698
+composer_id: 3337
 work_type: orchestral
 category: konsert
 synopsis: Les Illuminations, op. 18, er en sangsyklus for høy stemme (sopran eller
@@ -13,3 +13,8 @@ synopsis: Les Illuminations, op. 18, er en sangsyklus for høy stemme (sopran el
   tidlige mesterverk.
 wikidata_id: Q3233291
 wikipedia_url: https://en.wikipedia.org/wiki/Les_Illuminations_(Britten)
+composers:
+- person_id: 3337
+  role: composer
+- person_id: 3485
+  role: composer

@@ -3,4 +3,9 @@ title: Klavertrio nr. 1 i c-moll, op. 8
 work_type: chamber
 category: konsert
 original_title: Piano Trio No. 1 in C minor, Op. 8
-composer_id: 3415
+composer_id: 3373
+composers:
+- person_id: 3373
+  role: composer
+- person_id: 3400
+  role: composer

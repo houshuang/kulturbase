@@ -1,10 +1,15 @@
 id: 974
 title: Trombonekonsert i C-dur
 original_title: Pictures From a Sinking City and Trombonekonsert
-composer_id: 3348
+composer_id: 4535
 work_type: orchestral
 category: konsert
 synopsis: 'Nino Rotas trombonekonsert ble komponert i 1966 og er et av de viktigste
   soloverkene i trombonerepertoaret. Verket består av tre satser: Allegro giusto,
   Lento ben ritmato og Allegro moderato. Det er preget av Rotas karakteristiske neoklassiske
   stil med melodiøs eleganse og teknisk briljans, og ble urfremført i Milano i 1969.'
+composers:
+- person_id: 4535
+  role: composer
+- person_id: 3264
+  role: composer

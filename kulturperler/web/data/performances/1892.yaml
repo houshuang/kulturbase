@@ -13,8 +13,6 @@ credits:
 - person_id: 3806
   role: soloist
   instrument: Solo trumpet
-- person_id: 3400
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

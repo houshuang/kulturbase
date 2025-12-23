@@ -11,8 +11,6 @@ series_id: profitoeren
 credits:
 - person_id: 1790
   role: playwright
-- person_id: 1255
-  role: composer
 - person_id: 1180
   role: director
 - person_id: 1245

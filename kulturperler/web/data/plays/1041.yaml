@@ -1,7 +1,7 @@
 id: 1041
 title: Symfoni nr. 104 i D-dur, Hob. I:104, «London»
 original_title: Symphony No. 104
-composer_id: 3391
+composer_id: 3504
 work_type: concerto
 category: konsert
 synopsis: Symfoni nr. 104 i D-dur ble komponert av Joseph Haydn i 1795 og er hans
@@ -11,3 +11,8 @@ synopsis: Symfoni nr. 104 i D-dur ble komponert av Joseph Haydn i 1795 og er han
   om det i forespørselen er kategorisert som en konsert (concerto).
 wikidata_id: Q166278
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._104_(Haydn)
+composers:
+- person_id: 3504
+  role: composer
+- person_id: 3477
+  role: composer

@@ -1,0 +1,15 @@
+id: 2925
+work_id: 2692
+source: nrk
+medium: tv
+title: Rusalka - direkte fra Operaen!
+year: 2009
+venue: Den Norske Opera & Ballett
+total_duration: 12363
+image_url: https://gfx.nrk.no/h0J3k4sMTt64Gx6R1NNBRwI3CdG2eiJQuu571VRAViWA
+institutions:
+- institution_id: 8
+  role: venue
+credits:
+- person_id: 4314
+  role: conductor

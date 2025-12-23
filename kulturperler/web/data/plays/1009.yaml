@@ -1,6 +1,6 @@
 id: 1009
 title: KORKs innsettelseskonsert for Petr Popelka
-composer_id: 3371
+composer_id: 3477
 work_type: orchestral
 category: konsert
 synopsis: Dette er Kringkastingsorkestrets (KORK) innsettelseskonsert for sjefdirigent
@@ -10,3 +10,12 @@ synopsis: Dette er Kringkastingsorkestrets (KORK) innsettelseskonsert for sjefdi
   Johan Halvorsens suite «Fossegrimen», op. 21, der Ragnhild Hemsing medvirker som
   solist på både fiolin og hardingfele. Konserten markerte starten på Popelkas periode
   som leder for orkestret og ble sendt på NRK som en del av deres klassiske musikktilbud.
+composers:
+- person_id: 3477
+  role: composer
+- person_id: 3351
+  role: composer
+- person_id: 3217
+  role: composer
+- person_id: 3536
+  role: composer

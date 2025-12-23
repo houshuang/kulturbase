@@ -1,6 +1,6 @@
 id: 1272
 title: 'Hovedscenen: Geirr Tveitt og Jean Sibelius'
-composer_id: 3710
+composer_id: 3738
 work_type: orchestral
 category: konsert
 synopsis: Dette er en episode av NRK-programmet «Hovedscenen» (episode 584), som ble
@@ -11,3 +11,8 @@ synopsis: Dette er en episode av NRK-programmet «Hovedscenen» (episode 584), s
   klangen og Gimses personlige og profesjonelle forhold til disse to komponistene,
   som han har gjort omfattende innspillinger av. Gjennom musikkinnslag og samtaler
   belyses de musikalske forbindelsene mellom de to store nordiske skikkelsene.
+composers:
+- person_id: 3738
+  role: composer
+- person_id: 3356
+  role: composer

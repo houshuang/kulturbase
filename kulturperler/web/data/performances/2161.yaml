@@ -4,8 +4,6 @@ source: youtube
 medium: stream
 title: 'Carl Orff: Carmina Burana - Krzysztof Urbanski'
 credits:
-- person_id: 3717
-  role: composer
 - person_id: 3873
   role: conductor
 institutions:

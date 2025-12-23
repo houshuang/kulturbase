@@ -1,7 +1,7 @@
 id: 1097
 title: Belsasar, HWV 61
 original_title: Belshazzar
-composer_id: 3463
+composer_id: 3337
 work_type: orchestral
 category: konsert
 synopsis: Belsasar (HWV 61) er et oratorium av Georg Friedrich Händel, komponert i
@@ -13,3 +13,8 @@ synopsis: Belsasar (HWV 61) er et oratorium av Georg Friedrich Händel, komponer
   koblingen til hans navn i denne sammenhengen.
 wikidata_id: Q816183
 wikipedia_url: https://en.wikipedia.org/wiki/Belshazzar_(Handel)
+composers:
+- person_id: 3337
+  role: composer
+- person_id: 3920
+  role: composer

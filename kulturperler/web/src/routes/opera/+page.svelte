@@ -14,8 +14,7 @@
 		image_url: string | null;
 		work_title: string | null;
 		work_type: string | null;
-		composer_name: string | null;
-		composer_id: number | null;
+		composer_names: string | null;  // Comma-separated
 		librettist_name: string | null;
 	}
 
@@ -63,7 +62,7 @@
 		}
 
 		if (selectedComposer !== 'all') {
-			result = result.filter(p => p.composer_name === selectedComposer);
+			result = result.filter(p => p.composer_names?.includes(selectedComposer));
 		}
 
 		// Sort: images first, then by selected criteria
@@ -78,7 +77,7 @@
 			} else if (sortBy === 'year-asc') {
 				return (a.year || 0) - (b.year || 0);
 			} else if (sortBy === 'composer') {
-				return (a.composer_name || '').localeCompare(b.composer_name || '', 'no');
+				return (a.composer_names || '').localeCompare(b.composer_names || '', 'no');
 			} else if (sortBy === 'title') {
 				return (a.work_title || a.title || '').localeCompare(b.work_title || b.title || '', 'no');
 			}
@@ -116,7 +115,7 @@
 		const db = getDb();
 		if (!db) return;
 
-		// Get all opera/ballet performances
+		// Get all opera/ballet performances with composers
 		const results = db.exec(`
 			SELECT DISTINCT
 				p.id,
@@ -128,12 +127,25 @@
 				p.image_url,
 				w.title as work_title,
 				w.work_type,
-				composer.name as composer_name,
-				composer.id as composer_id,
+				(SELECT GROUP_CONCAT(
+					CASE
+						WHEN wc.role = 'composer' THEN pers.name
+						ELSE pers.name || ' (' ||
+							CASE wc.role
+								WHEN 'arranger' THEN 'arr.'
+								WHEN 'orchestrator' THEN 'ork.'
+								WHEN 'lyricist' THEN 'tekst'
+								WHEN 'adapter' THEN 'bearb.'
+								ELSE wc.role
+							END || ')'
+					END, ', '
+				) FROM work_composers wc
+				 JOIN persons pers ON wc.person_id = pers.id
+				 WHERE wc.work_id = w.id
+				 ORDER BY wc.sort_order) as composer_names,
 				librettist.name as librettist_name
 			FROM performances p
 			LEFT JOIN works w ON p.work_id = w.id
-			LEFT JOIN persons composer ON w.composer_id = composer.id
 			LEFT JOIN persons librettist ON w.librettist_id = librettist.id
 			WHERE w.work_type IN ('opera', 'operetta', 'ballet') OR w.category = 'opera'
 			ORDER BY p.year DESC, w.title
@@ -150,9 +162,8 @@
 				image_url: row[6],
 				work_title: row[7],
 				work_type: row[8],
-				composer_name: row[9],
-				composer_id: row[10],
-				librettist_name: row[11]
+				composer_names: row[9],
+				librettist_name: row[10]
 			}));
 
 			// Calculate filter counts
@@ -163,11 +174,25 @@
 				if (perf.work_type) {
 					typeCounts[perf.work_type] = (typeCounts[perf.work_type] || 0) + 1;
 				}
-				if (perf.composer_name && perf.composer_id) {
-					if (!composerCounts[perf.composer_name]) {
-						composerCounts[perf.composer_name] = { id: perf.composer_id, count: 0 };
-					}
-					composerCounts[perf.composer_name].count++;
+			}
+
+			// Get composer counts from work_composers for opera works
+			const composerResults = db.exec(`
+				SELECT pers.name, pers.id, COUNT(DISTINCT wc.work_id) as work_count
+				FROM work_composers wc
+				JOIN persons pers ON wc.person_id = pers.id
+				JOIN works w ON wc.work_id = w.id
+				WHERE w.work_type IN ('opera', 'operetta', 'ballet') OR w.category = 'opera'
+				GROUP BY pers.id
+				ORDER BY work_count DESC
+			`);
+
+			if (composerResults.length > 0) {
+				for (const row of composerResults[0].values) {
+					const name = row[0] as string;
+					const id = row[1] as number;
+					const count = row[2] as number;
+					composerCounts[name] = { id, count };
 				}
 			}
 
@@ -304,8 +329,8 @@
 							{/if}
 							<div class="card-content">
 								<h3>{perf.work_title || perf.title}</h3>
-								{#if perf.composer_name}
-									<p class="composer">{perf.composer_name}</p>
+								{#if perf.composer_names}
+									<p class="composer">{perf.composer_names}</p>
 								{/if}
 								<div class="meta">
 									{#if perf.year}

@@ -12,8 +12,6 @@ source: nrk
 medium: radio
 series_id: george-orwells-1984
 credits:
-- person_id: 1172
-  role: composer
 - person_id: 1190
   role: actor
 - person_id: 1224

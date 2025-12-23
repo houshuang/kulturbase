@@ -1,7 +1,7 @@
 id: 2471
 title: Serenade for strykeorkester, op. 48
 original_title: Serenade for String Orchestra in C major, Op. 48
-composer_id: 3442
+composer_id: 3485
 work_type: orchestral
 category: konsert
 synopsis: Pjotr Tsjajkovskijs 'Serenade for strykeorkester' er et av hans mest elskede
@@ -10,3 +10,8 @@ synopsis: Pjotr Tsjajkovskijs 'Serenade for strykeorkester' er et av hans mest e
   formen, samtidig som han uttrykte sin egen romantiske stil. Verket har blitt en
   favoritt blant både musikere og publikum for sin rike melodiske innhold og emosjonelle
   dybde.
+composers:
+- person_id: 3485
+  role: composer
+- person_id: 4208
+  role: composer

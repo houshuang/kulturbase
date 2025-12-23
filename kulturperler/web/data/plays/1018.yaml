@@ -1,7 +1,7 @@
 id: 1018
 title: Pelléas et Mélisande, op. 46
 original_title: Pelléas et Mélisande
-composer_id: 3379
+composer_id: 3356
 work_type: orchestral
 category: konsert
 synopsis: Jean Sibelius skrev denne scenemusikken i 1905 til Maurice Maeterlincks
@@ -11,3 +11,8 @@ synopsis: Jean Sibelius skrev denne scenemusikken i 1905 til Maurice Maeterlinck
   den dypt tragiske avslutningssatsen «Mélisandes død».
 wikidata_id: Q1848709
 wikipedia_url: https://en.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(Sibelius)
+composers:
+- person_id: 3356
+  role: composer
+- person_id: 3374
+  role: composer

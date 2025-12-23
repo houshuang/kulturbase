@@ -1,7 +1,7 @@
 id: 1086
 title: Partita nr. 2 i d-moll, BWV 1004
 original_title: Partita No. 2 in D minor, BWV 1004
-composer_id: 3441
+composer_id: 3753
 work_type: chamber
 category: konsert
 synopsis: Partita nr. 2 i d-moll for solofiolin ble komponert av Johann Sebastian
@@ -12,3 +12,8 @@ synopsis: Partita nr. 2 i d-moll for solofiolin ble komponert av Johann Sebastia
   i musikkhistorien.
 wikidata_id: Q625094
 wikipedia_url: https://en.wikipedia.org/wiki/Partita_for_Violin_No._2_(Bach)
+composers:
+- person_id: 3753
+  role: composer
+- person_id: 4533
+  role: composer

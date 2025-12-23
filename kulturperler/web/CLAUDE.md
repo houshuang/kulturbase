@@ -52,6 +52,26 @@ Previous data loss occurred because SQLite was modified directly. With YAML file
 - Recovery is trivial (git revert)
 - Validation catches broken references
 
+## Data Model - Single Source of Truth
+
+Each piece of information should live in exactly ONE place to prevent drift:
+
+| Data | Source of Truth | NOT here |
+|------|-----------------|----------|
+| **Composers** | `plays/{id}.yaml` → `composers` array | ~~performance/episode credits~~ |
+| **Playwright** | `plays/{id}.yaml` → `playwright_id` | ~~performance/episode credits~~ |
+| **Librettist** | `plays/{id}.yaml` → `librettist_id` | ~~performance/episode credits~~ |
+| **Director** | `performances/{id}.yaml` → credits | (per-production) |
+| **Actors** | `performances/{id}.yaml` → credits | (per-production) |
+| **Conductor** | `performances/{id}.yaml` → credits | (per-production) |
+
+### Key Principles
+
+1. **Work-level attributes** (playwright, composer, librettist) belong on the WORK, not on performances
+2. **Production-level credits** (director, actors, conductor) belong on the PERFORMANCE
+3. **Never duplicate** - if a composer is on the work, don't also add them as a credit on performances
+4. **Multiple composers** - use the `composers` array on works, not combined person names like "Mozart, Beethoven"
+
 ## Reading Data
 
 ### Quick CLI queries
@@ -140,18 +160,30 @@ Edit `data/plays/{id}.yaml` and add/update the `playwright_id` field:
 playwright_id: 879        # ID of the person
 ```
 
-### Add episode credits
-Edit `data/episodes/{prf_id}.yaml` and add to the credits list:
+### Add composers to a work
+Edit `data/plays/{id}.yaml` and add the `composers` array:
+```yaml
+composers:
+  - person_id: 3252    # Wolfgang Amadeus Mozart
+    role: composer
+  - person_id: 3456    # If there's an arranger
+    role: arranger
+```
+
+### Add production credits
+Edit `data/performances/{id}.yaml` (NOT episodes) and add to the credits list:
 ```yaml
 credits:
-  - person_id: 879
-    role: playwright
   - person_id: 123
     role: director
   - person_id: 456
     role: actor
     character_name: "Character Name"
+  - person_id: 789
+    role: conductor
 ```
+
+**Remember:** Composer/playwright/librettist go on the WORK, not on performance credits.
 
 ## Validation
 
@@ -221,20 +253,37 @@ for play_file in (DATA_DIR / 'plays').glob('*.yaml'):
 
 ## File Format Reference
 
-### plays/{id}.yaml
+### plays/{id}.yaml (works)
 ```yaml
 id: 264                           # Required, unique
 title: "Peer Gynt"                # Required
 original_title: "Peer Gynt"       # Optional
-playwright_id: 879                # Optional, references persons
+playwright_id: 879                # Optional, references persons (for drama)
+librettist_id: 123                # Optional, references persons (for opera)
 year_written: 1867                # Optional
+work_type: "teaterstykke"         # Optional (teaterstykke/opera/symphony/concerto/etc)
+category: "teater"                # Optional (teater/opera/konsert/dramaserie)
 synopsis: |                       # Optional, multi-line
   Synopsis text...
 wikidata_id: "Q746566"            # Optional
 sceneweb_id: 12345                # Optional
 sceneweb_url: "https://..."       # Optional
 wikipedia_url: "https://..."      # Optional
+
+# For works with composers (music/opera/etc):
+composers:                        # Optional, for musical works
+  - person_id: 3252               # Required within composer entry
+    role: composer                # composer/arranger/orchestrator/lyricist/adapter
+  - person_id: 3456
+    role: arranger
 ```
+
+**Composer roles:**
+- `composer` - wrote the original music
+- `arranger` - arranged existing music
+- `orchestrator` - orchestrated the work
+- `lyricist` - wrote the lyrics/text
+- `adapter` - adapted/revised the work
 
 ### persons/{id}.yaml
 ```yaml
@@ -268,42 +317,62 @@ source: "nrk"                     # Optional (nrk/archive)
 medium: "tv"                      # Optional (tv/radio)
 series_id: "MSPO..."              # Optional
 
-credits:                          # Optional, embedded list
-  - person_id: 879                # Required within credit
-    role: "playwright"            # Optional (playwright/director/actor/composer/other)
-    character_name: "Role Name"   # Optional
+credits:                          # Optional, production credits only
+  - person_id: 123
+    role: "director"              # director/actor/producer/other (NOT composer/playwright)
+    character_name: "Role Name"   # Optional, for actors
 ```
+
+**Valid credit roles for episodes/performances:**
+- `director` - directed the production
+- `actor` - performed in the production
+- `producer` - produced the production
+- `conductor` - conducted (for music)
+- `soloist` - solo performer
+- `set_designer`, `costume_designer` - design roles
+- `other` - other production roles
+
+**NOT valid** (these belong on the work, not credits):
+- ~~composer~~ → use `composers` array on the work
+- ~~playwright~~ → use `playwright_id` on the work
+- ~~librettist~~ → use `librettist_id` on the work
 
 ### performances/{id}.yaml
 ```yaml
 id: 100                           # Required, unique
-work_id: 264                      # Optional, references plays
-source: "nrk"                     # Optional
+work_id: 264                      # Required, references plays
+source: "nrk"                     # Optional (nrk/youtube/archive/etc)
 year: 1975                        # Optional
-title: "Performance Title"        # Optional
+title: "Performance Title"        # Optional (defaults to work title)
 description: |                    # Optional
   Description...
 venue: "NRK Studio"               # Optional
 total_duration: 7200              # Optional (seconds)
 image_url: "https://..."          # Optional
-medium: "tv"                      # Optional (tv/radio)
+medium: "tv"                      # Optional (tv/radio/stream)
 series_id: "MSPO..."              # Optional
 
-credits:                          # Optional, embedded list
+credits:                          # Optional, production credits only
   - person_id: 123
-    role: "director"
-    character_name: null
+    role: "director"              # See valid roles above
+  - person_id: 456
+    role: "actor"
+    character_name: "Hamlet"      # For actors only
+
+institutions:                     # Optional, performing groups
+  - institution_id: 7
+    role: "orchestra"
 ```
 
 ## Data Statistics
 
-Current counts:
-- 863 plays (63.8% with playwright, 31.7% with synopsis)
-- 3,173 persons
-- 2,360 episodes (28,264 credits)
-- 880 performances (12,920 credits)
-- 403 NRK about programs
-- 525 external resources
+Current counts (December 2024):
+- 2,024 works (plays/{id}.yaml) with 1,020 composer links
+- 4,371 persons
+- 3,666 episodes
+- 2,134 performances
+- 507 NRK about programs
+- 825 external resources
 
 ## Frontend
 
@@ -536,6 +605,41 @@ python3 scripts/search_youtube_gemini.py          # YouTube via Gemini
 - Branch prefix: `sh/`
 - Always run validation before committing data changes
 - Review diffs carefully - you can now see exactly what data changed
+
+## Data Enrichment Guidelines
+
+When adding new data, always try to enrich it:
+
+### New Persons (composers, playwrights, etc.)
+- **Wikipedia**: Fetch bio (short summary), birth/death years, Wikipedia URL
+- **Prefer Norwegian Wikipedia** when available (`no.wikipedia.org`)
+- **Images**: Not fetched automatically (copyright concerns)
+- Use the Wikipedia REST API with proper User-Agent header:
+  ```python
+  headers = {'User-Agent': 'Kulturperler/1.0 (https://kulturbase.no)'}
+  url = f'https://no.wikipedia.org/api/rest_v1/page/summary/{name}'
+  ```
+
+### New Works (plays, operas, symphonies)
+- **Synopsis**: Fetch summary from Wikipedia if available
+- **Wikipedia URL**: Link to the work's Wikipedia page
+- **Wikidata ID**: For structured data linking
+- **Year written**: When the work was created
+
+### New NRK Programs (episodes, performances)
+- **Images**: Always try to fetch from NRK using their image URL pattern:
+  ```
+  https://gfx.nrk.no/{image_id}/320
+  ```
+- **Duration**: Fetch from NRK API
+- **Description**: Use NRK's description
+
+### Enrichment Workflow
+```bash
+# After adding new entries, enrich them:
+python3 scripts/enrich_persons.py --new     # Enrich persons without bio
+python3 scripts/enrich_works.py --new       # Enrich works without synopsis
+```
 
 ## Workflow Summary
 

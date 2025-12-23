@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, getPerformanceContributors, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
-	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person, PerformancePerson } from '$lib/types';
+	import { getWork, getWorkPerformancesByMedium, getPerformanceMedia, getWorkExternalLinks, getPerson, getWorksByPlaywright, getSourceWork, getAdaptations, getPerformanceContributors, getWorkComposers, getComposerRoleLabel, type WorkWithDetails, type WorkWithCounts } from '$lib/db';
+	import type { Work, WorkExternalLink, PerformanceWithDetails, Episode, Person, PerformancePerson, WorkComposer, ComposerRole } from '$lib/types';
 
 	interface PerformanceWithMedia extends PerformanceWithDetails {
 		media: Episode[];
@@ -9,7 +9,7 @@
 
 	let work: (Work & { playwright_name?: string; composer_name?: string }) | null = null;
 	let playwright: Person | null = null;
-	let composer: Person | null = null;
+	let composers: WorkComposer[] = [];
 	let tvPerformances: PerformanceWithMedia[] = [];
 	let radioPerformances: PerformanceWithMedia[] = [];
 	let streamPerformances: PerformanceWithMedia[] = [];
@@ -46,7 +46,7 @@
 		error = null;
 		work = null;
 		playwright = null;
-		composer = null;
+		composers = [];
 		tvPerformances = [];
 		radioPerformances = [];
 		streamPerformances = [];
@@ -69,12 +69,8 @@
 					moreByAuthor = [];
 				}
 
-				// Get composer details
-				if (work.composer_id) {
-					composer = getPerson(work.composer_id);
-				} else {
-					composer = null;
-				}
+				// Get composers (multiple)
+				composers = getWorkComposers(workId);
 
 				// Get TV performances
 				const tvPerfs = getWorkPerformancesByMedium(workId, 'tv');
@@ -256,11 +252,10 @@
 							{#if playwright.birth_year || playwright.death_year}
 								<span class="author-dates">({playwright.birth_year || '?'}–{playwright.death_year || ''})</span>
 							{/if}
-						{:else if composer}
-							<a href="/person/{composer.id}" class="author-link">{composer.name}</a>
-							{#if composer.birth_year || composer.death_year}
-								<span class="author-dates">({composer.birth_year || '?'}–{composer.death_year || ''})</span>
-							{/if}
+						{:else if composers.length > 0}
+							{#each composers as comp, i}
+								<a href="/person/{comp.person_id}" class="author-link">{comp.person_name}</a>{#if comp.role !== 'composer'} <span class="role-label">({getComposerRoleLabel(comp.role)})</span>{/if}{#if comp.person_birth_year || comp.person_death_year} <span class="author-dates">({comp.person_birth_year || '?'}–{comp.person_death_year || ''})</span>{/if}{#if i < composers.length - 1}<span class="composer-separator">, </span>{/if}
+							{/each}
 						{/if}
 						{#if work.year_written}
 							<span class="separator">·</span>
@@ -766,6 +761,18 @@
 	.author-dates {
 		color: #888;
 		font-size: 0.85rem;
+		margin-left: 0.25rem;
+	}
+
+	.role-label {
+		color: #888;
+		font-size: 0.85rem;
+		margin-left: 0.2rem;
+	}
+
+	.composer-separator {
+		color: #888;
+		margin-right: 0.25rem;
 	}
 
 	.separator {

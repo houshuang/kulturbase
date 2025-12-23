@@ -4,8 +4,6 @@ source: youtube
 medium: stream
 title: 'Sergei Prokofiev: Romeo and Juliet - excerpts // Andris Poga'
 credits:
-- person_id: 3759
-  role: composer
 - person_id: 3794
   role: conductor
 institutions:

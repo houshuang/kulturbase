@@ -2,4 +2,9 @@ id: 1057
 title: Barokk med Aksel Rykkvin og KORK
 work_type: orchestral
 category: konsert
-composer_id: 3407
+composer_id: 3266
+composers:
+- person_id: 3266
+  role: composer
+- person_id: 3742
+  role: composer

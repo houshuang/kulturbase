@@ -1,7 +1,7 @@
 id: 996
 title: Den fortryllede innsjø, op. 62
 original_title: Pianokonsert nr 2 and Den forheksede sjø
-composer_id: 3363
+composer_id: 3400
 work_type: concerto
 category: konsert
 synopsis: Dette symfoniske diktet ble komponert i 1909 og regnes som et av Anatolij
@@ -10,3 +10,8 @@ synopsis: Dette symfoniske diktet ble komponert i 1909 og regnes som et av Anato
   klangfarger og en drømmende atmosfære. I motsetning til mange andre programmusikalske
   verk mangler det en dramatisk handling, og fokuserer i stedet utelukkende på å fange
   et statisk, mystisk øyeblikk i naturen.
+composers:
+- person_id: 3400
+  role: composer
+- person_id: 4527
+  role: composer

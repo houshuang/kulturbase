@@ -4,9 +4,6 @@ source: youtube
 medium: stream
 title: 'Leoš Janáček: String Quartet No. 2 Intimate Letters, 3. Moderato - Andante
   - Adagio'
-credits:
-- person_id: 3735
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

@@ -2,4 +2,9 @@ id: 975
 title: Works by Wagner and Brahms
 work_type: orchestral
 category: konsert
-composer_id: 3349
+composer_id: 3475
+composers:
+- person_id: 3475
+  role: composer
+- person_id: 3347
+  role: composer

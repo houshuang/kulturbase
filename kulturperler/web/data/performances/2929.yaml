@@ -1,0 +1,15 @@
+id: 2929
+work_id: 335
+source: nrk
+medium: tv
+title: Ibsens Vildanden med Nasjonalballetten
+year: 2025
+venue: Den Norske Opera & Ballett
+image_url: https://gfx.nrk.no/kS78JkNUZc9tMhwj0Y5ktg_OQS6qPY5e8ychAgcoR1ww
+total_duration: 4628
+institutions:
+- institution_id: 8
+  role: venue
+credits:
+- person_id: 3365
+  role: composer

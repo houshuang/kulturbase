@@ -28,12 +28,8 @@ source: nrk
 medium: radio
 series_id: dickie-dick-dickens
 credits:
-- person_id: 1534
-  role: composer
 - person_id: 1280
   role: other
-- person_id: 1535
-  role: composer
 - person_id: 1533
   role: other
 - person_id: 1342

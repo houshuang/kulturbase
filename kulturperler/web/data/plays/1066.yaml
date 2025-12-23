@@ -2,4 +2,9 @@ id: 1066
 title: Various works
 work_type: orchestral
 category: konsert
-composer_id: 3414
+composer_id: 3256
+composers:
+- person_id: 3256
+  role: composer
+- person_id: 3356
+  role: composer

@@ -14,8 +14,6 @@ source: nrk
 medium: radio
 series_id: som-om-jeg-ikke-var-til
 credits:
-- person_id: 2887
-  role: composer
 - person_id: 2886
   role: other
 - person_id: 2885

@@ -8,8 +8,8 @@
 		id: number;
 		title: string;
 		work_type: string | null;
-		composer_name: string | null;
-		composer_id: number | null;
+		composer_names: string | null;  // Comma-separated list of "Name (role)" or just "Name"
+		composer_ids: string | null;    // Comma-separated list of IDs
 		performance_count: number;
 		image_url: string | null;
 	}
@@ -53,7 +53,7 @@
 		}
 
 		if (selectedComposer !== 'all') {
-			result = result.filter(w => w.composer_name === selectedComposer);
+			result = result.filter(w => w.composer_names?.includes(selectedComposer));
 		}
 
 		// Sort: entries with images first, then by performance_count
@@ -94,18 +94,33 @@
 		const db = getDb();
 		if (!db) return;
 
-		// Get all concert works with performance counts, sorted by performance count
+		// Get all concert works with performance counts and composers, sorted by performance count
 		const results = db.exec(`
 			SELECT
 				w.id,
 				w.title,
 				w.work_type,
-				composer.name as composer_name,
-				composer.id as composer_id,
+				(SELECT GROUP_CONCAT(
+					CASE
+						WHEN wc.role = 'composer' THEN p.name
+						ELSE p.name || ' (' ||
+							CASE wc.role
+								WHEN 'arranger' THEN 'arr.'
+								WHEN 'orchestrator' THEN 'ork.'
+								WHEN 'lyricist' THEN 'tekst'
+								WHEN 'adapter' THEN 'bearb.'
+								ELSE wc.role
+							END || ')'
+					END, ', '
+				) FROM work_composers wc
+				 JOIN persons p ON wc.person_id = p.id
+				 WHERE wc.work_id = w.id
+				 ORDER BY wc.sort_order) as composer_names,
+				(SELECT GROUP_CONCAT(wc.person_id, ',')
+				 FROM work_composers wc WHERE wc.work_id = w.id) as composer_ids,
 				(SELECT COUNT(*) FROM performances p WHERE p.work_id = w.id) as performance_count,
 				(SELECT p.image_url FROM performances p WHERE p.work_id = w.id AND p.image_url IS NOT NULL LIMIT 1) as image_url
 			FROM works w
-			LEFT JOIN persons composer ON w.composer_id = composer.id
 			WHERE w.category = 'konsert' OR w.work_type IN ('konsert', 'orchestral', 'symphony', 'concerto', 'chamber', 'choral')
 			ORDER BY performance_count DESC, w.title
 		`);
@@ -115,13 +130,13 @@
 				id: row[0],
 				title: row[1],
 				work_type: row[2],
-				composer_name: row[3],
-				composer_id: row[4],
+				composer_names: row[3],
+				composer_ids: row[4],
 				performance_count: row[5],
 				image_url: row[6]
 			}));
 
-			// Calculate filter counts
+			// Calculate filter counts from work_composers
 			const typeCounts: Record<string, number> = {};
 			const composerCounts: Record<string, { id: number; count: number }> = {};
 
@@ -129,11 +144,25 @@
 				if (work.work_type) {
 					typeCounts[work.work_type] = (typeCounts[work.work_type] || 0) + 1;
 				}
-				if (work.composer_name && work.composer_id) {
-					if (!composerCounts[work.composer_name]) {
-						composerCounts[work.composer_name] = { id: work.composer_id, count: 0 };
-					}
-					composerCounts[work.composer_name].count++;
+			}
+
+			// Get composer counts from work_composers table
+			const composerResults = db.exec(`
+				SELECT p.name, p.id, COUNT(DISTINCT wc.work_id) as work_count
+				FROM work_composers wc
+				JOIN persons p ON wc.person_id = p.id
+				JOIN works w ON wc.work_id = w.id
+				WHERE w.category = 'konsert' OR w.work_type IN ('konsert', 'orchestral', 'symphony', 'concerto', 'chamber', 'choral')
+				GROUP BY p.id
+				ORDER BY work_count DESC
+			`);
+
+			if (composerResults.length > 0) {
+				for (const row of composerResults[0].values) {
+					const name = row[0] as string;
+					const id = row[1] as number;
+					const count = row[2] as number;
+					composerCounts[name] = { id, count };
 				}
 			}
 
@@ -254,8 +283,8 @@
 							{/if}
 							<div class="card-content">
 								<h3>{work.title}</h3>
-								{#if work.composer_name}
-									<p class="composer">{work.composer_name}</p>
+								{#if work.composer_names}
+									<p class="composer">{work.composer_names}</p>
 								{/if}
 								<div class="meta">
 									{#if work.performance_count > 0}

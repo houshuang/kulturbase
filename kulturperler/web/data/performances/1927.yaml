@@ -13,8 +13,6 @@ credits:
 - person_id: 3828
   role: soloist
   instrument: Viola
-- person_id: 3478
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

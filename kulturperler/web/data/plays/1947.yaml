@@ -1,7 +1,7 @@
 id: 1947
 title: Symfoni nr. 1 i C-dur, op. 21
 original_title: Symphony No. 1 in C major
-composer_id: 3360
+composer_id: 3351
 category: konsert
 synopsis: Ludwig van Beethovens første symfoni ble komponert mellom 1799 og 1800 og
   urfremført i Wien i 1800. Verket markerer overgangen fra den wienerklassiske stilen
@@ -10,3 +10,8 @@ synopsis: Ludwig van Beethovens første symfoni ble komponert mellom 1799 og 180
   satsen, selv om den er titulert som en menuett, i realiteten fungerer som en rask
   scherzo.
 type: symphony
+composers:
+- person_id: 3351
+  role: composer
+- person_id: 3478
+  role: composer

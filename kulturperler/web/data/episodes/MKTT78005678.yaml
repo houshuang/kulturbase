@@ -16,8 +16,6 @@ credits:
   role: other
 - person_id: 1336
   role: playwright
-- person_id: 42
-  role: composer
 - person_id: 1337
   role: other
 - person_id: 1052

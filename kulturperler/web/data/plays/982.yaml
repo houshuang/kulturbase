@@ -1,7 +1,7 @@
 id: 982
 title: En natt på Bloksberg
 original_title: Night on Bald Mountain
-composer_id: 3355
+composer_id: 3369
 work_type: orchestral
 category: konsert
 synopsis: En natt på Bloksberg er et symfonisk dikt av Modest Musorgskij, opprinnelig
@@ -12,3 +12,8 @@ synopsis: En natt på Bloksberg er et symfonisk dikt av Modest Musorgskij, oppri
   Musikken er berømt for sine dramatiske orkestrale farger og det kraftfulle hovedtemaet.
 wikidata_id: Q285976
 wikipedia_url: https://en.wikipedia.org/wiki/Night_on_Bald_Mountain
+composers:
+- person_id: 3369
+  role: composer
+- person_id: 3356
+  role: composer

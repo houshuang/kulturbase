@@ -142,6 +142,17 @@ CREATE TABLE performance_persons (
     FOREIGN KEY (person_id) REFERENCES persons(id)
 );
 
+-- Work composers (junction table for multiple composers per work)
+CREATE TABLE work_composers (
+    work_id INTEGER NOT NULL,
+    person_id INTEGER NOT NULL,
+    role TEXT DEFAULT 'composer',  -- composer, arranger, orchestrator, lyricist, adapter
+    sort_order INTEGER DEFAULT 0,
+    PRIMARY KEY (work_id, person_id, role),
+    FOREIGN KEY (work_id) REFERENCES works(id),
+    FOREIGN KEY (person_id) REFERENCES persons(id)
+);
+
 -- NRK about programs
 CREATE TABLE nrk_about_programs (
     id TEXT PRIMARY KEY,
@@ -263,6 +274,8 @@ CREATE INDEX idx_performance_institutions_perf ON performance_institutions(perfo
 CREATE INDEX idx_performance_institutions_inst ON performance_institutions(institution_id);
 CREATE INDEX idx_work_external_links_work_id ON work_external_links(work_id);
 CREATE INDEX idx_institutions_type ON institutions(type);
+CREATE INDEX idx_work_composers_work ON work_composers(work_id);
+CREATE INDEX idx_work_composers_person ON work_composers(person_id);
 
 -- Full-text search table
 CREATE VIRTUAL TABLE episodes_fts USING fts5(
@@ -351,6 +364,28 @@ def build_database():
             ))
     stats['works'] = len(works)
     print(f"  Inserted {len(works)} works")
+
+    # Insert work composers (from both composer_id and composers array)
+    print("  Inserting work composers...")
+    work_composers_count = 0
+    for w in works:
+        # First, check for new 'composers' array format
+        if 'composers' in w and w['composers']:
+            for i, comp in enumerate(w['composers']):
+                conn.execute("""
+                    INSERT OR IGNORE INTO work_composers (work_id, person_id, role, sort_order)
+                    VALUES (?, ?, ?, ?)
+                """, (w['id'], comp['person_id'], comp.get('role', 'composer'), i))
+                work_composers_count += 1
+        # Fallback to single composer_id if no composers array
+        elif w.get('composer_id'):
+            conn.execute("""
+                INSERT OR IGNORE INTO work_composers (work_id, person_id, role, sort_order)
+                VALUES (?, ?, 'composer', 0)
+            """, (w['id'], w['composer_id']))
+            work_composers_count += 1
+    stats['work_composers'] = work_composers_count
+    print(f"  Inserted {work_composers_count} work composer links")
 
     # Insert work external links
     if work_external_links:
@@ -537,8 +572,8 @@ def verify_counts():
     counts = {}
     for table in ['works', 'persons', 'institutions', 'episodes', 'performances',
                   'episode_persons', 'performance_persons', 'performance_institutions',
-                  'nrk_about_programs', 'tags', 'external_resources', 'work_external_links',
-                  'episode_resources', 'person_resources', 'metadata']:
+                  'work_composers', 'nrk_about_programs', 'tags', 'external_resources',
+                  'work_external_links', 'episode_resources', 'person_resources', 'metadata']:
         cursor = conn.execute(f"SELECT COUNT(*) FROM {table}")
         counts[table] = cursor.fetchone()[0]
 

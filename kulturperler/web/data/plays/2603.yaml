@@ -4,4 +4,13 @@ work_type: chamber
 category: konsert
 original_title: Sonata in E major and other chamber works from Frederick the Great's
   court
-composer_id: 3444
+composer_id: 3753
+composers:
+- person_id: 3753
+  role: composer
+- person_id: 4528
+  role: composer
+- person_id: 3753
+  role: composer
+- person_id: 3941
+  role: composer

@@ -1,7 +1,7 @@
 id: 1956
 title: Symfoni nr. 52 i c-moll, Hob. I:52
 original_title: Symphony No. 52
-composer_id: 3479
+composer_id: 3775
 category: konsert
 synopsis: Symfoni nr. 52 i c-moll ble komponert av Joseph Haydn rundt 1771–1772. Verket
   regnes som et av de fremste eksemplene på Haydns «Sturm und Drang»-periode, preget
@@ -11,3 +11,8 @@ synopsis: Symfoni nr. 52 i c-moll ble komponert av Joseph Haydn rundt 1771–177
 wikidata_id: Q928261
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._52_(Haydn)
 type: symphony
+composers:
+- person_id: 3775
+  role: composer
+- person_id: 3477
+  role: composer

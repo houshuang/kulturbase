@@ -9,9 +9,5 @@ description: Fra Oslo Filharmoniske Orkesters store nyttårsgalla i Oslo Konsert
 series_id: musikk-paa-soendag
 total_duration: 2620
 credits:
-- person_id: 3718
-  role: composer
-- person_id: 3256
-  role: composer
 - person_id: 4250
   role: conductor

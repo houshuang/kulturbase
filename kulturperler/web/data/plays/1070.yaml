@@ -1,7 +1,7 @@
 id: 1070
 title: Cellokonsert nr. 1 i Ess-dur, op. 107
 original_title: Cello Concerto No. 1
-composer_id: 3415
+composer_id: 3373
 work_type: orchestral
 category: konsert
 synopsis: Dmitrij Sjostakovitsjs Cellokonsert nr. 1 i Ess-dur, op. 107, ble komponert
@@ -12,3 +12,8 @@ synopsis: Dmitrij Sjostakovitsjs Cellokonsert nr. 1 i Ess-dur, op. 107, ble komp
   egen musikalske signatur (DSCH).
 wikidata_id: Q162004
 wikipedia_url: https://en.wikipedia.org/wiki/Cello_Concerto_No._1_(Shostakovich)
+composers:
+- person_id: 3373
+  role: composer
+- person_id: 3400
+  role: composer

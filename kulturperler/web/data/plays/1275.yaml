@@ -2,5 +2,10 @@ id: 1275
 title: Vår med Kringkastingsorkestret
 work_type: orchestral
 category: konsert
-composer_id: 3711
+composer_id: 2874
 based_on_work_id: 669
+composers:
+- person_id: 2874
+  role: composer
+- person_id: 3536
+  role: composer

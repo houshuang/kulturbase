@@ -22,8 +22,6 @@ credits:
   role: playwright
 - person_id: 1295
   role: other
-- person_id: 1534
-  role: composer
 - person_id: 1533
   role: other
 - person_id: 1342
@@ -52,5 +50,3 @@ credits:
   role: other
 - person_id: 1429
   role: director
-- person_id: 2733
-  role: composer

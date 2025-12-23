@@ -11,8 +11,6 @@ series_id: catilina
 credits:
 - person_id: 879
   role: playwright
-- person_id: 659
-  role: composer
 - person_id: 1496
   role: director
 - person_id: 111
@@ -57,7 +55,5 @@ credits:
   role: other
 - person_id: 2193
   role: other
-- person_id: 2194
-  role: composer
 - person_id: 2195
   role: actor

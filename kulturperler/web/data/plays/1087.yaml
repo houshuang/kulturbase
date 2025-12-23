@@ -1,7 +1,7 @@
 id: 1087
 title: Romeo og Julie, fantasi-overture
 original_title: Romeo and Juliet
-composer_id: 3442
+composer_id: 3485
 work_type: orchestral
 category: konsert
 synopsis: 'Romeo og Julie er en fantasi-overture komponert av Pjotr Tsjajkovskij i
@@ -13,3 +13,8 @@ synopsis: 'Romeo og Julie er en fantasi-overture komponert av Pjotr Tsjajkovskij
 wikidata_id: Q763716
 wikipedia_url: https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Tchaikovsky)
 based_on_work_id: 280
+composers:
+- person_id: 3485
+  role: composer
+- person_id: 4208
+  role: composer

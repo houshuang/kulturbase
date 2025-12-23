@@ -3,9 +3,6 @@ work_id: 1988
 source: youtube
 medium: stream
 title: 'J. S. Bach: Orchestral Suite No. 2 | NCO · Tønnesen'
-credits:
-- person_id: 3753
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

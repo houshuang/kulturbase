@@ -11,8 +11,6 @@ credits:
 - person_id: 3822
   role: soloist
   instrument: Cello
-- person_id: 3478
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

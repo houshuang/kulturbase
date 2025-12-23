@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getPerson, getDatabase, getNrkAboutPrograms } from '$lib/db';
-	import type { Person, NrkAboutProgram } from '$lib/types';
+	import { getPerson, getDatabase, getNrkAboutPrograms, getWorksAsComposer, getComposerWorkCount, getComposerRoleLabel } from '$lib/db';
+	import type { Person, NrkAboutProgram, ComposerRole } from '$lib/types';
 
 	interface WorkWritten {
 		id: number;
@@ -10,6 +10,7 @@
 		performance_count: number;
 		image_url: string | null;
 		work_type: string | null;
+		composer_role?: ComposerRole;
 	}
 
 	interface RoleGroup {
@@ -100,7 +101,7 @@
 				const creatorCheckStmt = db.prepare(`
 					SELECT
 						(SELECT COUNT(*) FROM works WHERE playwright_id = ?) as playwright_count,
-						(SELECT COUNT(*) FROM works WHERE composer_id = ?) as composer_count,
+						(SELECT COUNT(DISTINCT work_id) FROM work_composers WHERE person_id = ?) as composer_count,
 						(SELECT COUNT(*) FROM works WHERE librettist_id = ?) as librettist_count
 				`);
 				creatorCheckStmt.bind([personId, personId, personId]);
@@ -128,7 +129,8 @@
 						SELECT COUNT(DISTINCT p.id) as count
 						FROM performances p
 						JOIN works w ON p.work_id = w.id
-						WHERE w.playwright_id = ? OR w.composer_id = ? OR w.librettist_id = ?
+						LEFT JOIN work_composers wc ON w.id = wc.work_id
+						WHERE w.playwright_id = ? OR wc.person_id = ? OR w.librettist_id = ?
 					`);
 					perfCountStmt.bind([personId, personId, personId]);
 					if (perfCountStmt.step()) {
@@ -160,16 +162,17 @@
 					playsStmt.free();
 				}
 
-				// Get works where person is composer
+				// Get works where person is composer (using work_composers table)
 				if (stats.worksAsComposer > 0) {
 					const composerStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, wc.role as composer_role,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
 							 WHERE pf.work_id = w.id LIMIT 1) as image_url
 						FROM works w
-						WHERE w.composer_id = ?
+						JOIN work_composers wc ON w.id = wc.work_id
+						WHERE wc.person_id = ?
 						ORDER BY performance_count DESC, w.title
 					`);
 					composerStmt.bind([personId]);
@@ -441,6 +444,9 @@
 							<div class="work-info">
 								<h3>{work.title}</h3>
 								<div class="work-meta">
+									{#if work.composer_role && work.composer_role !== 'composer'}
+										<span class="composer-role">{getComposerRoleLabel(work.composer_role)}</span>
+									{/if}
 									{#if work.year_written}
 										<span class="work-year">{work.year_written}</span>
 									{/if}
@@ -764,6 +770,14 @@
 
 	.work-year {
 		background: #e94560;
+		color: white;
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.75rem;
+	}
+
+	.composer-role {
+		background: #4a5568;
 		color: white;
 		padding: 0.1rem 0.4rem;
 		border-radius: 3px;

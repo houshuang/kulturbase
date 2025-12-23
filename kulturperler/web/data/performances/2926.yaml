@@ -1,0 +1,14 @@
+id: 2926
+work_id: 2693
+source: nrk
+medium: tv
+title: Figaros bryllup - Nationaltheatret
+year: 2004
+venue: Nationaltheatret
+image_url: https://gfx.nrk.no/l5W_nd2lx-g0Re53zdZxdwWnN9nrYWG8HCX9_SjXBn7Q
+institutions:
+- institution_id: 4
+  role: theatre
+credits:
+- person_id: 4539
+  role: playwright

@@ -3,9 +3,6 @@ work_id: 2163
 source: youtube
 medium: stream
 title: 'Carl Nielsen: Intermezzo, Little Suite for Strings, Op. 1 - II. Intermezzo'
-credits:
-- person_id: 3373
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

@@ -18,8 +18,6 @@ credits:
   role: playwright
 - person_id: 1313
   role: other
-- person_id: 2587
-  role: composer
 - person_id: 1342
   role: director
 - person_id: 125

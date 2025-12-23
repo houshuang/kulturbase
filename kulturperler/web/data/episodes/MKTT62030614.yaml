@@ -22,8 +22,6 @@ credits:
   role: other
 - person_id: 2143
   role: other
-- person_id: 2144
-  role: composer
 - person_id: 586
   role: actor
 - person_id: 529
@@ -58,7 +56,3 @@ credits:
   role: actor
 - person_id: 2149
   role: other
-- person_id: 1646
-  role: composer
-- person_id: 1647
-  role: composer

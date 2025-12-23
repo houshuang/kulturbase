@@ -9,8 +9,6 @@ credits:
 - person_id: 3335
   role: soloist
   instrument: Soloist
-- person_id: 3833
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

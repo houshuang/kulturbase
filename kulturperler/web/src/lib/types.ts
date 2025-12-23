@@ -146,6 +146,10 @@ export type PersonRole =
 	| 'actor'
 	| 'playwright'
 	| 'composer'
+	| 'arranger'
+	| 'orchestrator'
+	| 'lyricist'
+	| 'adapter'
 	| 'conductor'
 	| 'soloist'
 	| 'librettist'
@@ -153,6 +157,21 @@ export type PersonRole =
 	| 'costume_designer'
 	| 'producer'
 	| 'other';
+
+// Composer roles for works
+export type ComposerRole = 'composer' | 'arranger' | 'orchestrator' | 'lyricist' | 'adapter';
+
+// Work composer junction record
+export interface WorkComposer {
+	work_id: number;
+	person_id: number;
+	role: ComposerRole;
+	sort_order: number;
+	// Joined fields
+	person_name?: string;
+	person_birth_year?: number | null;
+	person_death_year?: number | null;
+}
 
 export interface WorkExternalLink {
 	id: number;

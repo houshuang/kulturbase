@@ -16,8 +16,6 @@ credits:
   role: other
 - person_id: 1969
   role: playwright
-- person_id: 1255
-  role: composer
 - person_id: 1179
   role: other
 - person_id: 1337
@@ -28,8 +26,6 @@ credits:
   role: other
 - person_id: 1256
   role: other
-- person_id: 1971
-  role: composer
 - person_id: 1876
   role: other
 - person_id: 1299
@@ -88,8 +84,6 @@ credits:
   role: other
 - person_id: 1228
   role: other
-- person_id: 1241
-  role: composer
 - person_id: 1224
   role: other
 - person_id: 1170

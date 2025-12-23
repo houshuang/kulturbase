@@ -1,10 +1,15 @@
 id: 2477
 title: Serenade for strykere, op. 48
 original_title: Serenade for Strings in C major, op. 48
-composer_id: 3442
+composer_id: 3485
 work_type: orchestral
 category: konsert
 synopsis: Serenade for strykere, op. 48, er et verk av Pjotr Tsjajkovskij, komponert
   i 1880. Verket består av fire satser og er kjent for sin lyriske skjønnhet og eleganse.
   Det ble skrevet som en hyllest til Mozart, en av Tsjajkovskijs musikalske forbilder.
   Serenaden er ofte fremført av strykeorkestre og er et populært innslag i konsertrepertoaret.
+composers:
+- person_id: 3485
+  role: composer
+- person_id: 4208
+  role: composer

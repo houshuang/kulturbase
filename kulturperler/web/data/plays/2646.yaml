@@ -3,4 +3,15 @@ title: Adagio for strykere / River Suite / Rhapsody in Blue
 work_type: orchestral
 category: konsert
 original_title: Adagio for Strings / River Suite / Rhapsody in Blue
-composer_id: 3383
+composer_id: 3398
+composers:
+- person_id: 3398
+  role: composer
+- person_id: 4530
+  role: composer
+- person_id: 3341
+  role: composer
+- person_id: 3770
+  role: composer
+- person_id: 4532
+  role: composer

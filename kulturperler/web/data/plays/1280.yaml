@@ -2,13 +2,18 @@ id: 1280
 title: Enigma Variations
 work_type: orchestral
 category: konsert
-composer_id: 3712
+composer_id: 4531
 wikidata_id: Q934028
 wikipedia_url: https://en.wikipedia.org/wiki/Enigma_Variations
-synopsis: '
+synopsis: |2-
 
 
 
-  Edward Elgar composed his Variations on an Original Theme, Op. 36, popularly known
-  as the Enigma Variations, between October 1898 and February 1899. It is an orchestral
-  work comprising fourteen variations on an original theme.'
+  Edward Elgar composed his Variations on an Original Theme, Op. 36, popularly known as the Enigma Variations, between October 1898 and February 1899. It is an orchestral work comprising fourteen variations on an original theme.
+composers:
+- person_id: 4531
+  role: composer
+- person_id: 1068
+  role: composer
+- person_id: 3732
+  role: composer

@@ -16,8 +16,6 @@ source: nrk
 medium: radio
 series_id: god-aften-mitt-navn-er-cox
 credits:
-- person_id: 2755
-  role: composer
 - person_id: 1538
   role: playwright
 - person_id: 1537

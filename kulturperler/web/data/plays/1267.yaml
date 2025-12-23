@@ -1,7 +1,7 @@
 id: 1267
 title: Symfoni nr. 2 i D-dur, op. 73
 original_title: Symphony No. 2
-composer_id: 3706
+composer_id: 3347
 work_type: concerto
 category: konsert
 synopsis: Johannes Brahms' symfoni nr. 2 i D-dur ble komponert i løpet av sommeren
@@ -11,3 +11,8 @@ synopsis: Johannes Brahms' symfoni nr. 2 i D-dur ble komponert i løpet av somme
   kjent for sin varme orkestrering og den jublende, energiske finalen.
 wikidata_id: Q210568
 wikipedia_url: https://en.wikipedia.org/wiki/Symphony_No._2_(Schumann)
+composers:
+- person_id: 3347
+  role: composer
+- person_id: 3336
+  role: composer

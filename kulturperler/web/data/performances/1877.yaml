@@ -3,9 +3,6 @@ work_id: 1518
 source: youtube
 medium: stream
 title: 'Rachmaninoff: "Vocalise" Op. 34: No. 14  - Ariel Alexis de Wolf'
-credits:
-- person_id: 3480
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

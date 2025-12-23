@@ -282,7 +282,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DIIA2xo-.css"
+      "_app/immutable/assets/_page.DnwG2imu.css"
     ]
   },
   "src/routes/persons/+page.svelte": {
@@ -344,7 +344,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CtWBq3nw.css"
+      "_app/immutable/assets/_page.BN7qbD70.css"
     ]
   },
   "src/routes/verk/play/[id]/+page.svelte": {

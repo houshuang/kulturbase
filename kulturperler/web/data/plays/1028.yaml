@@ -1,6 +1,6 @@
 id: 1028
 title: A Jazz Symphony
-composer_id: 3383
+composer_id: 3398
 work_type: orchestral
 category: konsert
 synopsis: A Jazz Symphony ble komponert av George Antheil i 1925 på bestilling fra
@@ -11,3 +11,14 @@ synopsis: A Jazz Symphony ble komponert av George Antheil i 1925 på bestilling 
   estetikk.
 wikidata_id: Q4657494
 wikipedia_url: https://en.wikipedia.org/wiki/A_Jazz_Symphony
+composers:
+- person_id: 3398
+  role: composer
+- person_id: 4530
+  role: composer
+- person_id: 3341
+  role: composer
+- person_id: 3770
+  role: composer
+- person_id: 4532
+  role: composer

@@ -13,8 +13,6 @@ credits:
 - person_id: 3826
   role: soloist
   instrument: Horn
-- person_id: 3824
-  role: composer
 institutions:
 - institution_id: 2
   role: orchestra

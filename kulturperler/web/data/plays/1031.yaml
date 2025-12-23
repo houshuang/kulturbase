@@ -2,4 +2,9 @@ id: 1031
 title: Bratsjkonsert
 work_type: orchestral
 category: konsert
-composer_id: 3385
+composer_id: 4534
+composers:
+- person_id: 4534
+  role: composer
+- person_id: 3351
+  role: composer

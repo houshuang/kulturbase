@@ -1,22 +1,11 @@
 prf_id: MKTT65000365
 title: Rødvin til herrene, stryknin til damene
-description: 'Dickie har med sin sedvanlige oppfinnsomhet og skuespillerkunst kommet
-  ut av fengselet, og er gjenforent med sin trofaste Effie og kameratene Opa og Bonco.
-  Men på den andre kanten ruller skjebnens hjul uhellsvangert videre. Ikke bare er
-  Chicago blitt en åpen by for alle slags kriminelle eksistenser – Dickies annen hengivne
-  hustru, kaptein Maggi, er vendt tilbake.
+description: |-
+  Dickie har med sin sedvanlige oppfinnsomhet og skuespillerkunst kommet ut av fengselet, og er gjenforent med sin trofaste Effie og kameratene Opa og Bonco. Men på den andre kanten ruller skjebnens hjul uhellsvangert videre. Ikke bare er Chicago blitt en åpen by for alle slags kriminelle eksistenser – Dickies annen hengivne hustru, kaptein Maggi, er vendt tilbake.
 
+  Oversatt av Hans Heiberg. Musikk: Maj og Gunnar Sønstevold. Instruktør: Paul Skoe. Teknisk regi: Viktor Sandal.
 
-  Oversatt av Hans Heiberg. Musikk: Maj og Gunnar Sønstevold. Instruktør: Paul Skoe.
-  Teknisk regi: Viktor Sandal.
-
-
-  De som er med: Lasse Kolstad (Første forteller), Sverre Hansen (Annen forteller),
-  Frank Robert (Dickie Dick Dickens), Randi Nordby (Effie Marconi), Birger Løvaas
-  (Opa Crackle), Eilif Armand (Josua Benedict Streubenguss), Randi Brænne (Mrs. Shrewshobber),
-  Ella Hval (Maggi Poltingbrook), Alfred Maurstad (Inspektør Mackenzie), Arne Lie
-  (Sersjant Martin), Fridtjof Mjøen (Statsadvokaten), Ola Isene (Fengselsdirektøren),
-  Erling Lindahl (Dr. Summerbird), Ola B. Johannessen (En politimann).'
+  De som er med: Lasse Kolstad (Første forteller), Sverre Hansen (Annen forteller), Frank Robert (Dickie Dick Dickens), Randi Nordby (Effie Marconi), Birger Løvaas (Opa Crackle), Eilif Armand (Josua Benedict Streubenguss), Randi Brænne (Mrs. Shrewshobber), Ella Hval (Maggi Poltingbrook), Alfred Maurstad (Inspektør Mackenzie), Arne Lie (Sersjant Martin), Fridtjof Mjøen (Statsadvokaten), Ola Isene (Fengselsdirektøren), Erling Lindahl (Dr. Summerbird), Ola B. Johannessen (En politimann).
 year: 1965
 duration_seconds: 1497
 image_url: https://gfx.nrk.no/HSG7PWdxyeVLUlxrpQtgawLbnQ-ldRiYLGhZ6QzYy7LQ
@@ -33,8 +22,6 @@ credits:
   role: playwright
 - person_id: 1538
   role: playwright
-- person_id: 1534
-  role: composer
 - person_id: 1533
   role: other
 - person_id: 1342

@@ -3,9 +3,6 @@ work_id: 1978
 source: youtube
 medium: stream
 title: 'Paul Dukas: The Sorcerer''s Apprentice | Martin Fröst / NCO'
-credits:
-- person_id: 3919
-  role: composer
 institutions:
 - institution_id: 7
   role: orchestra

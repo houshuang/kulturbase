@@ -26,7 +26,8 @@
 		theater: 0,
 		concerts: 0,
 		opera: 0,
-		persons: 0
+		persons: 0,
+		dramaserier: 0
 	};
 
 	let loading = true;
@@ -72,8 +73,16 @@
 				theater: getTheaterPerformanceCount(),
 				concerts: getConcertPerformanceCount(),
 				opera: getOperaPerformanceCount(),
-				persons: getCreatorCount()
+				persons: getCreatorCount(),
+				dramaserier: 0
 			};
+
+			// Get drama series count
+			const dramaCountStmt = db.prepare(`SELECT COUNT(*) as count FROM works WHERE category = 'dramaserie'`);
+			if (dramaCountStmt.step()) {
+				stats.dramaserier = (dramaCountStmt.getAsObject() as { count: number }).count;
+			}
+			dramaCountStmt.free();
 
 			// Get category showcases - one random item from each category (with image and multiple performances)
 			// Teater - use subquery to filter by image
@@ -164,23 +173,18 @@
 			}
 			konsertStmt.free();
 
-			// Person (random playwright or composer with multiple works, fetch image from their performances)
+			// Person (random playwright or composer with their own portrait image)
 			const personStmt = db.prepare(`
-				SELECT * FROM (
-					SELECT p.id, p.name as title,
-						(CASE WHEN COUNT(DISTINCT wp.id) > 0 THEN 'Dramatiker' ELSE 'Komponist' END) as subtitle,
-						COUNT(DISTINCT wp.id) + COUNT(DISTINCT wc.id) as count,
-						(SELECT e.image_url FROM episodes e
-						 JOIN performances pf ON e.performance_id = pf.id
-						 JOIN works w ON pf.work_id = w.id
-						 WHERE (w.playwright_id = p.id OR w.composer_id = p.id) AND e.image_url IS NOT NULL
-						 LIMIT 1) as image_url
-					FROM persons p
-					LEFT JOIN works wp ON wp.playwright_id = p.id
-					LEFT JOIN works wc ON wc.composer_id = p.id
-					GROUP BY p.id
-					HAVING count > 1
-				) WHERE image_url IS NOT NULL
+				SELECT p.id, p.name as title,
+					(CASE WHEN COUNT(DISTINCT wp.id) > 0 THEN 'Dramatiker' ELSE 'Komponist' END) as subtitle,
+					COUNT(DISTINCT wp.id) + COUNT(DISTINCT wc.id) as count,
+					p.image_url
+				FROM persons p
+				LEFT JOIN works wp ON wp.playwright_id = p.id
+				LEFT JOIN works wc ON wc.composer_id = p.id
+				WHERE p.image_url IS NOT NULL
+				GROUP BY p.id
+				HAVING count > 0
 				ORDER BY RANDOM()
 				LIMIT 1
 			`);
@@ -300,7 +304,7 @@
 							<span class="showcase-title">{showcaseDrama?.title || 'Dramaserier'}</span>
 						</div>
 					</a>
-					<a href="/dramaserier" class="showcase-all">Se alle →</a>
+					<a href="/dramaserier" class="showcase-all">{stats.dramaserier} serier →</a>
 				</div>
 				<div class="showcase-card">
 					<a href={showcaseOpera?.link || '/opera'} class="showcase-main">

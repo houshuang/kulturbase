@@ -597,7 +597,7 @@
 						</a>
 					{/each}
 					{#each episodesAbout as ep}
-						<a href="/opptak/{ep.performance_id}" class="about-card">
+						<a href={ep.performance_id ? `/opptak/${ep.performance_id}` : `/episode/${ep.prf_id}`} class="about-card">
 							<div class="about-image">
 								{#if ep.image_url}
 									<img src={getImageUrl(ep.image_url)} alt={ep.title} loading="lazy" />

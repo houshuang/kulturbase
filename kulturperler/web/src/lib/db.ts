@@ -836,7 +836,7 @@ export function getPerformanceMedia(performanceId: number): Episode[] {
 		SELECT *
 		FROM episodes
 		WHERE performance_id = ?
-		ORDER BY prf_id ASC
+		ORDER BY episode_number ASC NULLS LAST, prf_id ASC
 	`);
 	stmt.bind([performanceId]);
 

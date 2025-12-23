@@ -316,6 +316,8 @@ performance_id: 100               # Optional, references performances
 source: "nrk"                     # Optional (nrk/archive)
 medium: "tv"                      # Optional (tv/radio)
 series_id: "MSPO..."              # Optional
+about_person_id: 879              # Optional, for kulturprogram episodes about an author
+episode_number: 5                 # Optional, for sorting within a performance
 
 credits:                          # Optional, production credits only
   - person_id: 123
@@ -367,11 +369,11 @@ institutions:                     # Optional, performing groups
 ## Data Statistics
 
 Current counts (December 2024):
-- 2,024 works (plays/{id}.yaml) with 1,020 composer links
-- 4,371 persons
-- 3,666 episodes
-- 2,134 performances
-- 507 NRK about programs
+- 2,723 works (plays/{id}.yaml) with 1,020 composer links
+- 4,373 persons
+- 4,500+ episodes
+- 2,961 performances
+- 508 NRK about programs
 - 825 external resources
 
 ## Frontend
@@ -639,6 +641,246 @@ When adding new data, always try to enrich it:
 # After adding new entries, enrich them:
 python3 scripts/enrich_persons.py --new     # Enrich persons without bio
 python3 scripts/enrich_works.py --new       # Enrich works without synopsis
+```
+
+## Kulturprogrammer (Cultural Programs)
+
+The `kulturprogram` category contains literature/book programs like Bokprogrammet, Salongen, Leseforeningen, etc. These are handled differently from theater/opera content.
+
+### Kulturprogrammer Page Requirements
+The `/kulturprogrammer` page displays programs from the `performances` table where the associated `work` has `category = 'kulturprogram'`. To add a new series to this page:
+
+1. **Create a work** in `data/plays/{id}.yaml`:
+   ```yaml
+   id: 2712
+   title: Ukens lyriker
+   category: kulturprogram
+   work_type: lyrikk  # bokprogram/lyrikk/kulturmagasin/dokumentar
+   synopsis: Fra NRKs arkiv henter vi opptak av kjente lyrikere.
+   ```
+
+2. **Create a performance** in `data/performances/{id}.yaml`:
+   ```yaml
+   id: 2950
+   work_id: 2712
+   title: Ukens lyriker
+   source: nrk
+   medium: tv
+   year: 1995
+   series_id: ukens-lyriker
+   image_url: https://gfx.nrk.no/...
+   ```
+
+3. **Link episodes** to the performance by adding `performance_id: 2950` to each episode YAML file.
+
+**Work types for kulturprogram:**
+- `bokprogram` - Book/literature discussion programs
+- `lyrikk` - Poetry programs
+- `kulturmagasin` - Cultural magazine shows
+- `dokumentar` - Documentary programs about culture/authors
+
+### Structure
+- **Works** with `category: kulturprogram` and `work_type: bokprogram` (or similar)
+- **Performances** group episodes by program/series
+- **Episodes** link to performances and optionally to authors via `about_person_id`
+
+### Linking Episodes to Authors
+Episodes discussing specific authors can be linked using `about_person_id`:
+```yaml
+# data/episodes/MKTF01002312.yaml
+prf_id: MKTF01002312
+title: møter Jan Roar Leikvoll
+about_person_id: 1234  # Links to the author being discussed
+performance_id: 2934
+```
+
+This enables "Programmer om [person]" sections on person pages showing all episodes about that author.
+
+### Episode Numbering for Sorting
+Episodes have an optional `episode_number` field for proper sorting within a performance:
+```yaml
+episode_number: 105  # Season 1, Episode 5
+```
+
+**Numbering conventions:**
+- Simple series: Use 1, 2, 3, etc.
+- Multi-season series: Use season*100 + episode (s01e05 → 105, s02e05 → 205)
+- Bonus episodes: Use 999 or 9999
+
+The frontend sorts by `episode_number ASC NULLS LAST, prf_id ASC`.
+
+### Fetching NRK TV Series with Multiple Seasons
+NRK TV series often have multiple seasons. To fetch all episodes:
+
+```python
+import requests
+
+series_id = 'bokprogrammet'
+base_url = 'https://psapi.nrk.no/tv/catalog/series'
+
+# 1. Get series info to find available seasons
+r = requests.get(f'{base_url}/{series_id}')
+series = r.json()
+seasons = series.get('_links', {}).get('seasons', [])
+
+# 2. Fetch each season - episodes are embedded in the response
+all_episodes = []
+for season in seasons:
+    season_name = season['name']  # e.g., "2010", "2011"
+    r = requests.get(f'{base_url}/{series_id}/seasons/{season_name}')
+    season_data = r.json()
+
+    # Episodes are in _embedded.instalments (NOT a separate /episodes endpoint)
+    episodes = season_data.get('_embedded', {}).get('instalments', [])
+    all_episodes.extend(episodes)
+    print(f"Season {season_name}: {len(episodes)} episodes")
+```
+
+**Important:** Episodes are embedded in the season response under `_embedded.instalments`, not at a separate `/episodes` endpoint.
+
+### Generating Better Titles from Descriptions
+Many older episodes have only date-based titles like "15. mars 2011". To generate better titles:
+
+```python
+from openai import OpenAI
+import json
+
+client = OpenAI()
+
+# Batch episodes for efficiency (10-12 per request)
+prompt = """For each episode below, generate a short Norwegian title (3-6 words) based on the description.
+The title should capture the main topic or guest. Don't include dates.
+
+1. [MKTF01001512] Description: Hovedgjest i kveldens program er krimforfatter Jørn Lier Horst...
+
+Return JSON array: [{"prf_id": "...", "new_title": "..."}]
+"""
+
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[{"role": "user", "content": prompt}],
+    temperature=0.3
+)
+```
+
+**Tips:**
+- Check if episodes have descriptions before processing (older programs often don't)
+- NRK API `titles.subtitle` field sometimes has useful info, but often empty
+- Process in batches of 10-12 for efficiency
+- Use temperature 0.3 for consistent results
+
+### Classifying Episodes by Author (for about_person_id)
+Use OpenAI to identify which author an episode discusses:
+
+```python
+prompt = """For each episode, identify the PRIMARY author/person being discussed.
+Match against this list of known persons:
+- Henrik Ibsen (id: 879)
+- Knut Hamsun (id: 1234)
+...
+
+Episode: "Bokprogrammet møter Jo Nesbø om hans nye krimroman"
+
+Return: {"prf_id": "...", "person_id": 879, "person_name": "Jo Nesbø"}
+Return null for person_id if no clear match or multiple authors discussed equally.
+"""
+```
+
+**Important:** Use strict full-name matching only. Fuzzy matching causes errors (e.g., "Nils Collett Vogt" matching "Nils Vogt" who is a different person).
+
+## Importing Programs from NRK Screenshots
+
+When given screenshots of NRK TV program listings, follow this workflow:
+
+### 1. Identify programs from screenshots
+Programs typically fall into categories:
+- **Theatre productions** - standalone plays (Lang dags ferd mot natt, Hypokonderen)
+- **Kulturprogrammer series** - literature/culture shows (Lesekunst, Filmredaksjonen)
+- **Portrait/documentary** - about authors/artists (Møte med Tarjei Vesaas)
+- **About programs** - for author pages (Henrik Ibsen portrett)
+
+### 2. Check what already exists
+```bash
+# Check for existing episodes
+sqlite3 static/kulturperler.db "SELECT prf_id, title FROM episodes WHERE title LIKE '%search%';"
+
+# Check for existing series
+sqlite3 static/kulturperler.db "SELECT DISTINCT series_id FROM episodes WHERE series_id IS NOT NULL;" | grep "search"
+
+# Check about programs
+sqlite3 static/kulturperler.db "SELECT id, title FROM nrk_about_programs WHERE title LIKE '%search%';"
+```
+
+### 3. Search NRK API for programs
+```python
+import requests
+
+# Search for programs
+r = requests.get('https://psapi.nrk.no/search', params={'q': 'program name', 'pageSize': 10})
+hits = r.json().get('hits', [])
+for h in hits:
+    hit = h.get('hit', {})
+    print(f"{hit.get('id')} | {hit.get('title')} | {h.get('type')}")
+
+# Get standalone program details
+r = requests.get('https://psapi.nrk.no/programs/PRFID')
+data = r.json()
+# Fields: title, shortDescription, productionYear, duration, image.webImages
+
+# Check if series exists
+r = requests.get('https://psapi.nrk.no/tv/catalog/series/series-id')
+```
+
+### 4. Fetch series episodes
+**Important:** Episodes are in `_embedded.instalments` (not a separate endpoint):
+```python
+# Get series with seasons
+r = requests.get('https://psapi.nrk.no/tv/catalog/series/series-id')
+seasons = r.json().get('_embedded', {}).get('seasons', [])
+
+# Get episodes from each season
+for season in seasons:
+    season_name = season.get('_links', {}).get('self', {}).get('name')
+    r2 = requests.get(f'https://psapi.nrk.no/tv/catalog/series/series-id/seasons/{season_name}')
+    episodes = r2.json().get('_embedded', {}).get('instalments', [])
+    # Note: some series use 'episodes' instead of 'instalments'
+```
+
+### 5. Import workflow
+For **standalone programs**:
+1. Create episode YAML in `data/episodes/{prf_id}.yaml`
+2. Include: prf_id, title, description, year, duration_seconds, image_url, nrk_url
+
+For **series** to show on kulturprogrammer page:
+1. Create episode YAMLs with `series_id`
+2. Create work YAML with `category: kulturprogram`
+3. Create performance YAML linking to work with `series_id` and `image_url`
+4. Update episodes with `performance_id`
+
+For **about programs** (author portraits):
+1. Create YAML in `data/nrk_about_programs/{series-id}.yaml`
+2. Include `person_id` to link to author
+
+### 6. Always fetch images
+```python
+def get_image_url(data):
+    """Extract 960px image from NRK API response."""
+    web_images = data.get('image', {}).get('webImages', [])
+    for img in web_images:
+        if img.get('pixelWidth') == 960:
+            return img.get('imageUrl')
+    return web_images[-1].get('imageUrl') if web_images else None
+```
+
+### 7. Parse duration
+```python
+import re
+def parse_duration(duration_str):
+    """Parse ISO8601 duration (PT1H30M45S) to seconds."""
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:([\d.]+)S)?', duration_str or '')
+    if not match: return None
+    h, m, s = int(match.group(1) or 0), int(match.group(2) or 0), float(match.group(3) or 0)
+    return int(h * 3600 + m * 60 + s)
 ```
 
 ## Workflow Summary

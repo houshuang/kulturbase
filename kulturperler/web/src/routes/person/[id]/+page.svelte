@@ -62,6 +62,32 @@
 	// NRK programs about this person
 	let nrkAboutPrograms: NrkAboutProgram[] = [];
 
+	// Performances discussing this person (e.g., book programs about an author)
+	interface PerformanceAbout {
+		id: number;
+		title: string;
+		work_title: string;
+		year: number | null;
+		total_duration: number | null;
+		image_url: string | null;
+		medium: string | null;
+		episode_count: number;
+	}
+	let performancesAbout: PerformanceAbout[] = [];
+
+	// Individual episodes discussing this person
+	interface EpisodeAbout {
+		prf_id: string;
+		title: string;
+		perf_title: string;
+		performance_id: number;
+		year: number | null;
+		duration_seconds: number | null;
+		image_url: string | null;
+		medium: string | null;
+	}
+	let episodesAbout: EpisodeAbout[] = [];
+
 	let loading = true;
 	let error: string | null = null;
 
@@ -91,6 +117,8 @@
 		performancesByRole = [];
 		creatorWorkIds = new Set();
 		nrkAboutPrograms = [];
+		performancesAbout = [];
+		episodesAbout = [];
 
 		try {
 			person = getPerson(personId);
@@ -256,6 +284,52 @@
 
 				// Get NRK programs about this person
 				nrkAboutPrograms = getNrkAboutPrograms(personId);
+
+				// Get performances about this person (e.g., book programs discussing an author)
+				const aboutStmt = db.prepare(`
+					SELECT
+						p.id,
+						p.title,
+						COALESCE(w.title, p.title) as work_title,
+						p.year,
+						p.total_duration,
+						p.image_url,
+						p.medium,
+						(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = p.id) as episode_count
+					FROM performances p
+					LEFT JOIN works w ON p.work_id = w.id
+					WHERE p.about_person_id = ?
+					ORDER BY p.year DESC
+				`);
+				aboutStmt.bind([personId]);
+				performancesAbout = [];
+				while (aboutStmt.step()) {
+					performancesAbout.push(aboutStmt.getAsObject() as PerformanceAbout);
+				}
+				aboutStmt.free();
+
+				// Get individual episodes about this person
+				const episodesAboutStmt = db.prepare(`
+					SELECT
+						e.prf_id,
+						e.title,
+						p.title as perf_title,
+						e.performance_id,
+						e.year,
+						e.duration_seconds,
+						e.image_url,
+						e.medium
+					FROM episodes e
+					LEFT JOIN performances p ON e.performance_id = p.id
+					WHERE e.about_person_id = ?
+					ORDER BY e.title
+				`);
+				episodesAboutStmt.bind([personId]);
+				episodesAbout = [];
+				while (episodesAboutStmt.step()) {
+					episodesAbout.push(episodesAboutStmt.getAsObject() as EpisodeAbout);
+				}
+				episodesAboutStmt.free();
 
 				// Build role summary for the header (use filtered counts)
 				allRoles = [];
@@ -482,6 +556,68 @@
 									{/if}
 									{#if work.performance_count > 0}
 										<span class="work-count">{work.performance_count} opptak</span>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+				</div>
+			</section>
+		{/if}
+
+		{#if performancesAbout.length > 0 || episodesAbout.length > 0}
+			<section class="nrk-about">
+				<h2>Programmer om {person.name}</h2>
+				<div class="about-grid">
+					{#each performancesAbout as perf}
+						<a href="/opptak/{perf.id}" class="about-card">
+							<div class="about-image">
+								{#if perf.image_url}
+									<img src={getImageUrl(perf.image_url)} alt={perf.title} loading="lazy" />
+								{:else}
+									<div class="about-placeholder">{perf.medium === 'radio' ? 'Radio' : 'TV'}</div>
+								{/if}
+							</div>
+							<div class="about-info">
+								<h3>{perf.title}</h3>
+								<div class="about-meta">
+									{#if perf.episode_count > 1}
+										<span class="about-badge">{perf.episode_count} episoder</span>
+									{/if}
+									{#if perf.total_duration}
+										<span class="about-duration">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.medium}
+										<span class="medium-badge" class:radio={perf.medium === 'radio'}>
+											{perf.medium === 'radio' ? 'Radio' : 'TV'}
+										</span>
+									{/if}
+								</div>
+							</div>
+						</a>
+					{/each}
+					{#each episodesAbout as ep}
+						<a href="/opptak/{ep.performance_id}" class="about-card">
+							<div class="about-image">
+								{#if ep.image_url}
+									<img src={getImageUrl(ep.image_url)} alt={ep.title} loading="lazy" />
+								{:else}
+									<div class="about-placeholder">{ep.medium === 'radio' ? 'Radio' : 'TV'}</div>
+								{/if}
+							</div>
+							<div class="about-info">
+								<h3>{ep.title}</h3>
+								<div class="about-meta">
+									{#if ep.perf_title}
+										<span class="about-badge">{ep.perf_title}</span>
+									{/if}
+									{#if ep.duration_seconds}
+										<span class="about-duration">{formatDuration(ep.duration_seconds)}</span>
+									{/if}
+									{#if ep.medium}
+										<span class="medium-badge" class:radio={ep.medium === 'radio'}>
+											{ep.medium === 'radio' ? 'Radio' : 'TV'}
+										</span>
 									{/if}
 								</div>
 							</div>
@@ -876,6 +1012,18 @@
 
 	.about-duration {
 		font-size: 0.8rem;
+	}
+
+	.medium-badge {
+		background: #e94560;
+		color: white;
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.7rem;
+	}
+
+	.medium-badge.radio {
+		background: #6b5ce7;
 	}
 
 	/* Role sections (performances) */

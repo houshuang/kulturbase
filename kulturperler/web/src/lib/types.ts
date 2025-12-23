@@ -1,7 +1,7 @@
 export type Medium = 'tv' | 'radio' | 'stream';
 
 export type WorkType = 'teaterstykke' | 'nrk_teaterstykke' | 'dramaserie' | 'opera' | 'konsert';
-export type WorkCategory = 'teater' | 'opera' | 'konsert' | 'dramaserie';
+export type WorkCategory = 'teater' | 'opera' | 'konsert' | 'dramaserie' | 'kulturprogram';
 
 export interface Episode {
 	prf_id: string;
@@ -22,6 +22,7 @@ export interface Episode {
 	performance_id: number | null;
 	media_type: 'episode' | 'part' | 'intro' | null;
 	medium: Medium;
+	episode_number: number | null;
 }
 
 export interface Work {

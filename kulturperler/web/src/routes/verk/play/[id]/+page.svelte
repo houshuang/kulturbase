@@ -86,6 +86,11 @@
 			return 'Dramaserie';
 		}
 
+		// Kultur programs
+		if (category === 'kulturprogram') {
+			return medium === 'tv' ? 'TV-program' : 'Radioprogram';
+		}
+
 		// Theater works keep traditional labels
 		if (category === 'teater') {
 			return medium === 'tv' ? 'Fjernsynsteater' : 'Radioteater';

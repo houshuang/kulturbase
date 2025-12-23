@@ -89,8 +89,11 @@ CREATE TABLE episodes (
     source TEXT DEFAULT 'nrk',
     medium TEXT DEFAULT 'tv',
     series_id TEXT,
+    about_person_id INTEGER,  -- for episodes discussing an author/person
+    episode_number INTEGER,   -- for sorting episodes within a performance
     FOREIGN KEY (work_id) REFERENCES works(id),
-    FOREIGN KEY (performance_id) REFERENCES performances(id)
+    FOREIGN KEY (performance_id) REFERENCES performances(id),
+    FOREIGN KEY (about_person_id) REFERENCES persons(id)
 );
 
 -- Episode persons (junction table)
@@ -117,7 +120,9 @@ CREATE TABLE performances (
     image_url TEXT,
     medium TEXT DEFAULT 'tv',
     series_id TEXT,
-    FOREIGN KEY (work_id) REFERENCES works(id)
+    about_person_id INTEGER,   -- for programs discussing an author/person
+    FOREIGN KEY (work_id) REFERENCES works(id),
+    FOREIGN KEY (about_person_id) REFERENCES persons(id)
 );
 
 -- Performance institutions (junction table for orchestras, ensembles, etc.)
@@ -424,11 +429,11 @@ def build_database():
     for p in performances:
         conn.execute("""
             INSERT INTO performances (id, work_id, source, year, title, description,
-                                      venue, total_duration, image_url, medium, series_id)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                      venue, total_duration, image_url, medium, series_id, about_person_id)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (p['id'], p.get('work_id'), p.get('source'), p.get('year'), p.get('title'),
               p.get('description'), p.get('venue'), p.get('total_duration'),
-              p.get('image_url'), p.get('medium'), p.get('series_id')))
+              p.get('image_url'), p.get('medium'), p.get('series_id'), p.get('about_person_id')))
         for credit in p.get('credits', []):
             performance_credits.append((
                 p['id'], credit['person_id'], credit.get('role'), credit.get('character_name')
@@ -471,12 +476,12 @@ def build_database():
         work_id = e.get('work_id') or e.get('play_id')
         conn.execute("""
             INSERT INTO episodes (prf_id, title, description, year, duration_seconds,
-                                 image_url, nrk_url, youtube_url, work_id, performance_id, source, medium, series_id)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                 image_url, nrk_url, youtube_url, work_id, performance_id, source, medium, series_id, about_person_id, episode_number)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (e['prf_id'], e['title'], e.get('description'), e.get('year'),
               e.get('duration_seconds'), e.get('image_url'), e.get('nrk_url'),
               e.get('youtube_url'), work_id, e.get('performance_id'), e.get('source'),
-              e.get('medium'), e.get('series_id')))
+              e.get('medium'), e.get('series_id'), e.get('about_person_id'), e.get('episode_number')))
         for credit in e.get('credits', []):
             episode_credits.append((
                 e['prf_id'], credit['person_id'], credit.get('role'), credit.get('character_name')

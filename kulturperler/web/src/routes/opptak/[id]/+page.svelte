@@ -24,6 +24,9 @@
 	// Check if this is a concert/classical music recording
 	$: isConcert = workDetails?.work_type ? CONCERT_TYPES.includes(workDetails.work_type) : false;
 
+	// Check if this is a kulturprogram (literature/book program)
+	$: isKulturprogram = workDetails?.category === 'kulturprogram';
+
 	// Get conductor for concerts, director for theater
 	$: conductorName = getConductorName();
 	$: directorName = getDirectorName();
@@ -191,6 +194,8 @@
 					{performance.title || work?.title || 'Ukjent tittel'}
 					{#if isConcert}
 						<span class="medium-badge concert">Konsert</span>
+					{:else if isKulturprogram}
+						<span class="medium-badge kulturprogram">Kulturprogram</span>
 					{:else if performance.medium === 'radio'}
 						<span class="medium-badge radio">Radioteater</span>
 					{:else}
@@ -905,6 +910,11 @@
 
 	.medium-badge.concert {
 		background: #10b981;
+		color: white;
+	}
+
+	.medium-badge.kulturprogram {
+		background: #8b5cf6;
 		color: white;
 	}
 

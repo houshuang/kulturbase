@@ -154,6 +154,7 @@
 		if (source === 'youtube') return 'YouTube';
 		if (medium === 'stream') return 'Videoopptak';
 		if (category === 'dramaserie') return 'Dramaserie';
+		if (category === 'kulturprogram') return medium === 'tv' ? 'TV-program' : 'Radioprogram';
 		if (category === 'teater') return medium === 'tv' ? 'Fjernsynsteater' : 'Radioteater';
 		return medium === 'tv' ? 'TV-opptak' : 'Lydopptak';
 	}

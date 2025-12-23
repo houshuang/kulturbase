@@ -1,0 +1,16 @@
+id: 2725
+title: Alceste
+original_title: Alceste
+work_type: opera
+category: opera
+year_written: 1767
+synopsis: |
+  Alceste er en opera av Christoph Willibald Gluck med italiensk libretto av Ranieri
+  de' Calzabigi, basert på Evripides' tragedie «Alkestis». Operaen handler om dronning
+  Alceste som ofrer sitt eget liv for å redde sin døende ektemann kong Admetos.
+  Verket var banebrytende i operahistorien og markerte Glucks reformer mot enklere,
+  mer dramatisk fokusert opera i kontrast til den ornamenterte barokkstilen.
+wikipedia_url: https://en.wikipedia.org/wiki/Alceste_(Gluck)
+composers:
+  - person_id: 3775
+    role: composer

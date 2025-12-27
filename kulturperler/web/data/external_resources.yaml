@@ -1811,28 +1811,51 @@
   url: https://www.youtube.com/watch?v=T4ms_vB1KEA
   title: 'Nationaltheatrets skuespillere fremfører: Terje Vigen av Henrik Ibsen'
   type: related_video
-  description: |-
-    [22 min] Nationaltheatrets skuespillere har samlet seg, hver for seg, til en fremføring av Henrik Ibsens episke dikt om Terje Vigen. Alene, men sammen, for oss alle. God påske, husk å ta vare på hverandre 🌷
+  description: '[22 min] Nationaltheatrets skuespillere har samlet seg, hver for seg,
+    til en fremføring av Henrik Ibsens episke dikt om Terje Vigen. Alene, men sammen,
+    for oss alle. God påske, husk å ta vare på hverandre 🌷
 
-    Medvirkende: Sverre Anker Ousdal, Ellen Horn, Kjersti Tveterås, Jan Gunnar Røise, Gisken Armand, Petronella Barker, Lise Fjeldstad, Jonas Strand Gravli, Patrick Ingvaldsen, Trond Espen Seim, Trine Wiggen, Selome Emnetu, Per Bogstad Gulliksen, Bernhard Arnø, Marte Magnusdotter Solem, Kim S. Falck-Jørgensen, Heidi Goldmann, Mathias Luppichini, Henriette Marø, Marika Enstad, Marte Engebrigtsen, Per Christian Ellefsen, Per Egil Aske, Anne Krigsvoll, Mads Ousdal, Anneke Von Der Lippe, Lasse Lindtner, Hanna-Maria Grønneberg, Melina Tranulis, Hanne Skille Reitan, Seda Witt, Iver Innset, Olav Waastad, Helene Naustdal Bergsholm, Eindride Eidsvold, Liv Bernhoft Osa, Ingjerd Egeberg, Nils Golberg Mulvik, Mariann Hole, Amell Basic, Kim Jøran Olsen, Anders Mordal, Øystein Røger, John Emil Jørge
+
+    Medvirkende: Sverre Anker Ousdal, Ellen Horn, Kjersti Tveterås, Jan Gunnar Røise,
+    Gisken Armand, Petronella Barker, Lise Fjeldstad, Jonas Strand Gravli, Patrick
+    Ingvaldsen, Trond Espen Seim, Trine Wiggen, Selome Emnetu, Per Bogstad Gulliksen,
+    Bernhard Arnø, Marte Magnusdotter Solem, Kim S. Falck-Jørgensen, Heidi Goldmann,
+    Mathias Luppichini, Henriette Marø, Marika Enstad, Marte Engebrigtsen, Per Christian
+    Ellefsen, Per Egil Aske, Anne Krigsvoll, Mads Ousdal, Anneke Von Der Lippe, Lasse
+    Lindtner, Hanna-Maria Grønneberg, Melina Tranulis, Hanne Skille Reitan, Seda Witt,
+    Iver Innset, Olav Waastad, Helene Naustdal Bergsholm, Eindride Eidsvold, Liv Bernhoft
+    Osa, Ingjerd Egeberg, Nils Golberg Mulvik, Mariann Hole, Amell Basic, Kim Jøran
+    Olsen, Anders Mordal, Øystein Røger, John Emil Jørge'
   added_date: '2025-12-19T21:12:06.149327'
   is_working: 1
 - id: 121
   url: https://www.youtube.com/watch?v=FUArNtUa5k8
   title: 'Teatersalong fra Nationaltheatret: Ibsens komikk'
   type: related_video
-  description: |-
-    [40 min] La oss se nærmere på humoren i Ibsens diktning! Teatersalongen Ibsens komikk ble strømmet direkte fra Nationaltheatrets publikumsfoajé, uten publikum, onsdag 23. september 2020.
+  description: '[40 min] La oss se nærmere på humoren i Ibsens diktning! Teatersalongen
+    Ibsens komikk ble strømmet direkte fra Nationaltheatrets publikumsfoajé, uten
+    publikum, onsdag 23. september 2020.
 
-    Ibsen skrev riktignok bare én komedie, «Kjærlighetens komedie» (1862), men man trenger ikke lete lenge for å finne komiske innslag også i Ibsens øvrige diktning.
 
-    Det handler om hvor dyktig dramatiker Ibsen var; han kunne skrive ut det komiske i det tragiske. Det er nok å hente av latterlige reaksjoner, snedige replikker og narraktige karakterer. Ibsen visste at publikum trengte sine «comic reliefs».
+    Ibsen skrev riktignok bare én komedie, «Kjærlighetens komedie» (1862), men man
+    trenger ikke lete lenge for å finne komiske innslag også i Ibsens øvrige diktning.
 
-    I salongens panel har vi samlet ulike Ibsen-kjennere, som kan se det lette i det tunge, enten det er humoristiske detaljer i stykkene, eller det er nye tolkninger.
 
-    Er ikke Hjalmar Ekdal i «Vildanden» på mange måter den store klovnen i Ibsens forfatterskap? Hvordan ser Terje Vigen ut som sportskommentator? Hvor sarkastisk er ikke Hedda Gabler? Og kan «Peer Gynt» oppsummeres som en sit-com?
+    Det handler om hvor dyktig dramatiker Ibsen var; han kunne skrive ut det komiske
+    i det tragiske. Det er nok å hente av latterlige reaksjoner, snedige replikker
+    og narraktige karakterer. Ibsen visste at publikum trengte sine «comic reliefs».
 
-    Dette, og mye
+
+    I salongens panel har vi samlet ulike Ibsen-kjennere, som kan se det lette i det
+    tunge, enten det er humoristiske detaljer i stykkene, eller det er nye tolkninger.
+
+
+    Er ikke Hjalmar Ekdal i «Vildanden» på mange måter den store klovnen i Ibsens
+    forfatterskap? Hvordan ser Terje Vigen ut som sportskommentator? Hvor sarkastisk
+    er ikke Hedda Gabler? Og kan «Peer Gynt» oppsummeres som en sit-com?
+
+
+    Dette, og mye'
   added_date: '2025-12-19T21:12:06.149346'
   is_working: 1
 - id: 122
@@ -9392,4 +9415,83 @@
   type: bergenphilive
   description: 'Bergen Filharmoniske Orkester. Innspilt: 2011-09-30'
   added_date: '2025-12-21T18:19:48.476757'
+  is_working: 1
+- id: 827
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2012061905111
+  title: 'Det store eventyret : hørespill - Manuskript'
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Anthonsen, Reidar
+    (1985)'
+  work_id: 2749
+  added_date: '2025-12-27T09:39:56.925850'
+  is_working: 1
+- id: 828
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2016042209520
+  title: 'Korridorene : hørespill - Manuskript'
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Gundersen, Gunnar
+    Bull (1963)'
+  work_id: 2765
+  added_date: '2025-12-27T09:39:56.926053'
+  is_working: 1
+- id: 829
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2012121206111
+  title: 'Mannen fra Houston : et hørespill om forbrytelser - Manuskript'
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Trane, Karl (1987)'
+  work_id: 2994
+  added_date: '2025-12-27T09:39:56.926064'
+  is_working: 1
+- id: 830
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2012061306078
+  title: Mysteriet ved Kapteinens Hvile - Manuskript
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Johanssen, Steffen
+    (1984)'
+  work_id: 3456
+  added_date: '2025-12-27T09:39:56.926068'
+  is_working: 1
+- id: 831
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2012071206179
+  title: 'Møte i mai : hørespill - Manuskript'
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Pedersen, Erling
+    (1984)'
+  work_id: 2936
+  added_date: '2025-12-27T09:39:56.926072'
+  is_working: 1
+- id: 832
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2014020306081
+  title: Radio - Manuskript
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Røe, Knut (1994)'
+  work_id: 2769
+  added_date: '2025-12-27T09:39:56.926077'
+  is_working: 1
+- id: 833
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2009062300020
+  title: 'Risk : hørespill - Manuskript'
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Grøndahl, Christopher
+    Friis-Baastad (2003)'
+  work_id: 2741
+  added_date: '2025-12-27T09:39:56.926080'
+  is_working: 1
+- id: 834
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2021060448538
+  title: Sin mors datter - Manuskript
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: French, Marilyn
+    (1988)'
+  work_id: 2773
+  added_date: '2025-12-27T09:39:56.926084'
+  is_working: 1
+- id: 835
+  url: https://www.nb.no/items/URN:NBN:no-nb_digibok_2013121008127
+  title: Sherlock Holmes' bedrifter - Manuskript
+  type: nb_script
+  description: 'Hørespillmanus fra Nasjonalbiblioteket. Forfatter: Doyle, Arthur Conan
+    (1989)'
+  work_id: 3455
+  added_date: '2025-12-27T09:39:56.926087'
   is_working: 1

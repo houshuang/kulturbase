@@ -1,4 +1,5 @@
 export type Medium = 'tv' | 'radio' | 'stream';
+export type Language = 'no' | 'sv' | 'da' | 'fi';
 
 export type WorkType = 'teaterstykke' | 'nrk_teaterstykke' | 'dramaserie' | 'opera' | 'konsert';
 export type WorkCategory = 'teater' | 'opera' | 'konsert' | 'dramaserie' | 'kulturprogram';
@@ -15,6 +16,7 @@ export interface Episode {
 	work_id: number | null;
 	play_id?: number | null; // Deprecated alias for work_id
 	source: string;
+	language: Language;
 	part_number: number | null;
 	total_parts: number | null;
 	is_introduction: number | null;
@@ -31,6 +33,7 @@ export interface Work {
 	original_title: string | null;
 	work_type: WorkType | null;
 	category: WorkCategory | null;
+	language: Language;
 	playwright_id: number | null;
 	composer_id: number | null;
 	librettist_id: number | null;
@@ -51,6 +54,7 @@ export interface Performance {
 	id: number;
 	work_id: number | null;
 	source: string;
+	language: Language;
 	year: number | null;
 	title: string | null;
 	description: string | null;

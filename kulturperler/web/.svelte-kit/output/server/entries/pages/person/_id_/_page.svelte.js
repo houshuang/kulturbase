@@ -92,7 +92,7 @@ function _page($$renderer, $$props) {
           creatorWorkIds = /* @__PURE__ */ new Set();
           if (stats.worksAsPlaywright > 0) {
             const playsStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -112,7 +112,7 @@ function _page($$renderer, $$props) {
           }
           if (stats.worksAsComposer > 0) {
             const composerStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type, wc.role as composer_role,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language, wc.role as composer_role,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -133,7 +133,7 @@ function _page($$renderer, $$props) {
           }
           if (stats.worksAsLibrettist > 0) {
             const librettoStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -318,6 +318,11 @@ function _page($$renderer, $$props) {
       }
       return url;
     }
+    function getLanguageLabel(lang) {
+      if (!lang || lang === "no") return null;
+      const labels = { "sv": "Svensk", "da": "Dansk", "fi": "Finsk" };
+      return labels[lang] || null;
+    }
     personId = parseInt(store_get($$store_subs ??= {}, "$page", page).params.id || "0");
     if (personId) loadPerson();
     head("13eo3pq", $$renderer2, ($$renderer3) => {
@@ -415,6 +420,13 @@ function _page($$renderer, $$props) {
                 $$renderer2.push("<!--[!-->");
                 $$renderer2.push(`<div class="work-placeholder svelte-13eo3pq">Teater</div>`);
               }
+              $$renderer2.push(`<!--]--> `);
+              if (getLanguageLabel(work.language)) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="lang-badge svelte-13eo3pq">${escape_html(getLanguageLabel(work.language))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
               $$renderer2.push(`<!--]--></div> <div class="work-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(work.title)}</h3> <div class="work-meta svelte-13eo3pq">`);
               if (work.year_written) {
                 $$renderer2.push("<!--[-->");
@@ -449,6 +461,13 @@ function _page($$renderer, $$props) {
               } else {
                 $$renderer2.push("<!--[!-->");
                 $$renderer2.push(`<div class="work-placeholder svelte-13eo3pq">Musikk</div>`);
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (getLanguageLabel(work.language)) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="lang-badge svelte-13eo3pq">${escape_html(getLanguageLabel(work.language))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
               }
               $$renderer2.push(`<!--]--></div> <div class="work-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(work.title)}</h3> <div class="work-meta svelte-13eo3pq">`);
               if (work.composer_role && work.composer_role !== "composer") {
@@ -491,6 +510,13 @@ function _page($$renderer, $$props) {
               } else {
                 $$renderer2.push("<!--[!-->");
                 $$renderer2.push(`<div class="work-placeholder svelte-13eo3pq">Opera</div>`);
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (getLanguageLabel(work.language)) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="lang-badge svelte-13eo3pq">${escape_html(getLanguageLabel(work.language))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
               }
               $$renderer2.push(`<!--]--></div> <div class="work-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(work.title)}</h3> <div class="work-meta svelte-13eo3pq">`);
               if (work.year_written) {

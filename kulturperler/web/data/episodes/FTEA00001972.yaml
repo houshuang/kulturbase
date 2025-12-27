@@ -21,3 +21,10 @@ credits:
   role: actor
 - person_id: 388
   role: actor
+resources:
+- id: 521
+  url: https://archive.org/details/NRKTV-FTEA001972-AR-199212243
+  title: Lat ugraset vekse (La ugresset vokse)
+  type: archive_fallback
+  description: Fjernsynsteatret syner "Lat ugraset vekse" av Olle Mattson. Det er
+    byen sin krig mot bygda.

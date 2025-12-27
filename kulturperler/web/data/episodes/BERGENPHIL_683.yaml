@@ -7,3 +7,9 @@ medium: stream
 nrk_url: https://bergenphilive.no/alle-konsertopptak/2020/10/beethoven-symfoni-nr-5/
 year: 2020
 description: 'Bergen Filharmoniske Orkester. Komponist: Beethoven. Innspilt: 2020-10-22'
+resources:
+- id: 559
+  url: https://archive.org/details/beethoven5_gardner_yt
+  title: Beethoven, Symphony No. 5
+  type: archive_fallback
+  description: Bergen Philharmonic Orchestra, Edward Gardner conductor, October 23 2020

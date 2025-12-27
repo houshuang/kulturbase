@@ -23,6 +23,7 @@ CREATE TABLE works (
     original_title TEXT,
     work_type TEXT,           -- teaterstykke, nrk_teaterstykke, dramaserie, opera, konsert
     category TEXT,            -- teater, opera, konsert, dramaserie (for UI grouping)
+    language TEXT DEFAULT 'no', -- ISO 639-1: no, sv, da, fi
     playwright_id INTEGER,    -- for plays
     composer_id INTEGER,      -- for opera/concerts
     librettist_id INTEGER,    -- for opera (text author)
@@ -87,10 +88,12 @@ CREATE TABLE episodes (
     work_id INTEGER,        -- renamed from play_id
     performance_id INTEGER,
     source TEXT DEFAULT 'nrk',
+    language TEXT DEFAULT 'no', -- ISO 639-1: no, sv, da, fi
     medium TEXT DEFAULT 'tv',
     series_id TEXT,
     about_person_id INTEGER,  -- for episodes discussing an author/person
     episode_number INTEGER,   -- for sorting episodes within a performance
+    expires TEXT,             -- expiry date for streaming content (ISO date)
     FOREIGN KEY (work_id) REFERENCES works(id),
     FOREIGN KEY (performance_id) REFERENCES performances(id),
     FOREIGN KEY (about_person_id) REFERENCES persons(id)
@@ -112,6 +115,7 @@ CREATE TABLE performances (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     work_id INTEGER,
     source TEXT DEFAULT 'nrk',
+    language TEXT DEFAULT 'no', -- ISO 639-1: no, sv, da, fi
     year INTEGER,
     title TEXT,
     description TEXT,
@@ -354,13 +358,13 @@ def build_database():
     work_external_links = []
     for w in works:
         conn.execute("""
-            INSERT INTO works (id, title, original_title, work_type, category,
+            INSERT INTO works (id, title, original_title, work_type, category, language,
                               playwright_id, composer_id, librettist_id, creator_id,
                               year_written, synopsis, based_on_work_id,
                               wikidata_id, sceneweb_id, sceneweb_url, wikipedia_url)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (w['id'], w['title'], w.get('original_title'), w.get('work_type'), w.get('category'),
-              w.get('playwright_id'), w.get('composer_id'), w.get('librettist_id'), w.get('creator_id'),
+              w.get('language', 'no'), w.get('playwright_id'), w.get('composer_id'), w.get('librettist_id'), w.get('creator_id'),
               w.get('year_written'), w.get('synopsis'), w.get('based_on_work_id'),
               w.get('wikidata_id'), w.get('sceneweb_id'), w.get('sceneweb_url'), w.get('wikipedia_url')))
         for link in w.get('external_links', []):
@@ -428,10 +432,10 @@ def build_database():
     performance_institution_links = []
     for p in performances:
         conn.execute("""
-            INSERT INTO performances (id, work_id, source, year, title, description,
+            INSERT INTO performances (id, work_id, source, language, year, title, description,
                                       venue, total_duration, image_url, medium, series_id, about_person_id)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (p['id'], p.get('work_id'), p.get('source'), p.get('year'), p.get('title'),
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (p['id'], p.get('work_id'), p.get('source'), p.get('language', 'no'), p.get('year'), p.get('title'),
               p.get('description'), p.get('venue'), p.get('total_duration'),
               p.get('image_url'), p.get('medium'), p.get('series_id'), p.get('about_person_id')))
         for credit in p.get('credits', []):
@@ -474,14 +478,16 @@ def build_database():
     for e in episodes:
         # Support both old 'play_id' and new 'work_id' field names
         work_id = e.get('work_id') or e.get('play_id')
+        # Use sr_url for Swedish content when nrk_url is not available
+        source_url = e.get('nrk_url') or e.get('sr_url')
         conn.execute("""
             INSERT INTO episodes (prf_id, title, description, year, duration_seconds,
-                                 image_url, nrk_url, youtube_url, work_id, performance_id, source, medium, series_id, about_person_id, episode_number)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                 image_url, nrk_url, youtube_url, work_id, performance_id, source, language, medium, series_id, about_person_id, episode_number, expires)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (e['prf_id'], e['title'], e.get('description'), e.get('year'),
-              e.get('duration_seconds'), e.get('image_url'), e.get('nrk_url'),
+              e.get('duration_seconds'), e.get('image_url'), source_url,
               e.get('youtube_url'), work_id, e.get('performance_id'), e.get('source'),
-              e.get('medium'), e.get('series_id'), e.get('about_person_id'), e.get('episode_number')))
+              e.get('language', 'no'), e.get('medium'), e.get('series_id'), e.get('about_person_id'), e.get('episode_number'), e.get('expires')))
         for credit in e.get('credits', []):
             episode_credits.append((
                 e['prf_id'], credit['person_id'], credit.get('role'), credit.get('character_name')

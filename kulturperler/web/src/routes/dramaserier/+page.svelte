@@ -3,8 +3,15 @@
 	import { getDb } from '$lib/db';
 	import type { PerformanceWithDetails } from '$lib/types';
 
-	let performances: PerformanceWithDetails[] = [];
+	let performances: (PerformanceWithDetails & { language?: string })[] = [];
 	let loading = true;
+
+	const languageNames: Record<string, string> = {
+		'no': 'Norsk',
+		'sv': 'Svensk',
+		'da': 'Dansk',
+		'fi': 'Finsk'
+	};
 
 	onMount(async () => {
 		const db = getDb();
@@ -22,6 +29,7 @@
 				p.total_duration,
 				p.image_url,
 				p.medium,
+				p.language,
 				w.title as work_title,
 				w.work_type,
 				w.category,
@@ -46,12 +54,13 @@
 				total_duration: row[6],
 				image_url: row[7],
 				medium: row[8],
-				work_title: row[9],
-				work_type: row[10],
-				category: row[11],
-				playwright_name: row[12],
-				playwright_id: row[13],
-				media_count: row[14]
+				language: row[9] || 'no',
+				work_title: row[10],
+				work_type: row[11],
+				category: row[12],
+				playwright_name: row[13],
+				playwright_id: row[14],
+				media_count: row[15]
 			}));
 		}
 
@@ -74,7 +83,7 @@
 <div class="dramaserier-page">
 	<header class="page-header">
 		<h1>Dramaserier</h1>
-		<p class="subtitle">Dramaserier fra NRK-arkivet</p>
+		<p class="subtitle">Dramaserier fra nordisk kringkasting</p>
 	</header>
 
 	{#if loading}
@@ -92,11 +101,16 @@
 			<div class="performances-grid">
 				{#each performances as perf}
 					<a href="/opptak/{perf.id}" class="performance-card">
-						{#if perf.image_url}
-							<img src={perf.image_url} alt={perf.work_title || perf.title || ''} />
-						{:else}
-							<div class="no-image">Serie</div>
-						{/if}
+						<div class="card-image">
+							{#if perf.image_url}
+								<img src={perf.image_url} alt={perf.work_title || perf.title || ''} />
+							{:else}
+								<div class="no-image">Serie</div>
+							{/if}
+							{#if perf.language && perf.language !== 'no'}
+								<span class="lang-badge">{languageNames[perf.language] || perf.language}</span>
+							{/if}
+						</div>
 						<div class="card-content">
 							<h3>{perf.work_title || perf.title}</h3>
 							{#if perf.playwright_name}
@@ -193,6 +207,10 @@
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 	}
 
+	.card-image {
+		position: relative;
+	}
+
 	.performance-card img {
 		width: 100%;
 		height: 160px;
@@ -208,6 +226,20 @@
 		align-items: center;
 		justify-content: center;
 		font-size: 1.2rem;
+	}
+
+	.lang-badge {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.card-content {
@@ -265,5 +297,12 @@
 	.medium.radio {
 		background: #6b5ce7;
 		color: white;
+	}
+
+	.lang-badge {
+		padding: 0.1rem 0.4rem;
+		border-radius: 3px;
+		background: #f0ad4e;
+		color: #333;
 	}
 </style>

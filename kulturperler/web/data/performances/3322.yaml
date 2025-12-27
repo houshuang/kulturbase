@@ -1,0 +1,11 @@
+id: 3322
+work_id: 3459
+title: Tove Jansson läser Trollvinter
+source: yle
+language: sv
+medium: radio
+year: 1984
+total_duration: 4200
+credits:
+  - person_id: 4789
+    role: narrator

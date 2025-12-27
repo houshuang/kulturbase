@@ -15,3 +15,10 @@ credits:
   role: actor
 - person_id: 551
   role: actor
+resources:
+- id: 571
+  url: https://archive.org/details/NRKTV-FTEA64002564-AR-199412732
+  title: Kjære løgnhals 15.09.1964
+  type: archive_fallback
+  description: 'Work: Kjære løgnhals. By: Jerome Kilty. Performed by: Fjernsynsteatret.
+    Type: theatre'

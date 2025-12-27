@@ -254,6 +254,9 @@
 								{#if perf.medium}
 									<span class="badge">{perf.medium === 'tv' ? 'TV' : 'Radio'}</span>
 								{/if}
+								{#if perf.language && perf.language !== 'no'}
+									<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
+								{/if}
 							</div>
 							<div class="card-body">
 								<h3>{perf.work_title || perf.title}</h3>
@@ -367,11 +370,16 @@
 				<div class="row">
 					{#each ibsenPlays as perf}
 						<a href="/opptak/{perf.id}" class="row-card">
-							{#if perf.image_url}
-								<img src={perf.image_url} alt="" />
-							{:else}
-								<div class="row-placeholder"></div>
-							{/if}
+							<div class="row-image">
+								{#if perf.image_url}
+									<img src={perf.image_url} alt="" />
+								{:else}
+									<div class="row-placeholder"></div>
+								{/if}
+								{#if perf.language && perf.language !== 'no'}
+									<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
+								{/if}
+							</div>
 							<span class="row-title">{perf.work_title || perf.title}</span>
 							{#if perf.year}<span class="row-year">{perf.year}</span>{/if}
 						</a>
@@ -523,6 +531,20 @@
 		border-radius: 3px;
 	}
 
+	.card-image .lang-badge {
+		position: absolute;
+		top: 0.5rem;
+		right: 0.5rem;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
+	}
+
 	.card-body h3 {
 		font-size: 0.95rem;
 		font-weight: 500;
@@ -563,12 +585,16 @@
 		color: inherit;
 	}
 
+	.row-image {
+		position: relative;
+		margin-bottom: 0.5rem;
+	}
+
 	.row-card img {
 		width: 100%;
 		height: 90px;
 		object-fit: cover;
 		border-radius: 6px;
-		margin-bottom: 0.5rem;
 	}
 
 	.row-placeholder {
@@ -576,7 +602,20 @@
 		height: 90px;
 		background: linear-gradient(135deg, #2d3748, #1a202c);
 		border-radius: 6px;
-		margin-bottom: 0.5rem;
+	}
+
+	.row-image .lang-badge {
+		position: absolute;
+		top: 4px;
+		right: 4px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.6rem;
+		font-weight: 500;
+		padding: 2px 5px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.row-placeholder.music {

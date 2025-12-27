@@ -10,6 +10,7 @@
 		performance_count: number;
 		image_url: string | null;
 		work_type: string | null;
+		language: string;
 		composer_role?: ComposerRole;
 	}
 
@@ -171,7 +172,7 @@
 				creatorWorkIds = new Set();
 				if (stats.worksAsPlaywright > 0) {
 					const playsStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -193,7 +194,7 @@
 				// Get works where person is composer (using work_composers table)
 				if (stats.worksAsComposer > 0) {
 					const composerStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type, wc.role as composer_role,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language, wc.role as composer_role,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -216,7 +217,7 @@
 				// Get works where person is librettist
 				if (stats.worksAsLibrettist > 0) {
 					const librettoStmt = db.prepare(`
-						SELECT w.id, w.title, w.year_written, w.work_type,
+						SELECT w.id, w.title, w.year_written, w.work_type, w.language,
 							(SELECT COUNT(*) FROM performances pf WHERE pf.work_id = w.id) as performance_count,
 							(SELECT e.image_url FROM episodes e
 							 JOIN performances pf ON e.performance_id = pf.id
@@ -407,6 +408,16 @@
 		}
 		return url;
 	}
+
+	function getLanguageLabel(lang: string | null): string | null {
+		if (!lang || lang === 'no') return null;
+		const labels: Record<string, string> = {
+			'sv': 'Svensk',
+			'da': 'Dansk',
+			'fi': 'Finsk'
+		};
+		return labels[lang] || null;
+	}
 </script>
 
 <svelte:head>
@@ -484,6 +495,9 @@
 								{:else}
 									<div class="work-placeholder">Teater</div>
 								{/if}
+								{#if getLanguageLabel(work.language)}
+									<span class="lang-badge">{getLanguageLabel(work.language)}</span>
+								{/if}
 							</div>
 							<div class="work-info">
 								<h3>{work.title}</h3>
@@ -513,6 +527,9 @@
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
 								{:else}
 									<div class="work-placeholder">Musikk</div>
+								{/if}
+								{#if getLanguageLabel(work.language)}
+									<span class="lang-badge">{getLanguageLabel(work.language)}</span>
 								{/if}
 							</div>
 							<div class="work-info">
@@ -546,6 +563,9 @@
 									<img src={getImageUrl(work.image_url)} alt={work.title} loading="lazy" />
 								{:else}
 									<div class="work-placeholder">Opera</div>
+								{/if}
+								{#if getLanguageLabel(work.language)}
+									<span class="lang-badge">{getLanguageLabel(work.language)}</span>
 								{/if}
 							</div>
 							<div class="work-info">
@@ -867,12 +887,27 @@
 	.work-image {
 		aspect-ratio: 16/9;
 		background: #eee;
+		position: relative;
 	}
 
 	.work-image img {
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
+	}
+
+	.lang-badge {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.work-placeholder {

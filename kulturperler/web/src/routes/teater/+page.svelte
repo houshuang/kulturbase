@@ -9,19 +9,28 @@
 		mediums: { tv: number; radio: number };
 		decades: Record<number, number>;
 		types: { classic: number; nrk: number };
+		languages: Record<string, number>;
 	}
 
-	let allPerformances: PerformanceWithDetails[] = [];
-	let filteredPerformances: PerformanceWithDetails[] = [];
+	let allPerformances: (PerformanceWithDetails & { language?: string })[] = [];
+	let filteredPerformances: (PerformanceWithDetails & { language?: string })[] = [];
 	let loading = true;
-	let filterCounts: FilterCounts = { mediums: { tv: 0, radio: 0 }, decades: {}, types: { classic: 0, nrk: 0 } };
+	let filterCounts: FilterCounts = { mediums: { tv: 0, radio: 0 }, decades: {}, types: { classic: 0, nrk: 0 }, languages: {} };
 
 	// Filter state
 	let selectedMedium: 'all' | 'tv' | 'radio' = 'all';
 	let selectedDecade: number | null = null;
 	let selectedType: 'all' | 'classic' | 'nrk' = 'all';
+	let selectedLanguage: string = 'all';
 	let sortBy: 'year-desc' | 'year-asc' | 'title' = 'year-desc';
 	let showFilters = false;
+
+	const languageNames: Record<string, string> = {
+		'no': 'Norsk',
+		'sv': 'Svensk',
+		'da': 'Dansk',
+		'fi': 'Finsk'
+	};
 
 	// Get unique decades
 	$: decades = Object.keys(filterCounts.decades).map(Number).sort((a, b) => b - a);
@@ -32,6 +41,7 @@
 		const urlDecade = $page.url.searchParams.get('decade');
 		const urlType = $page.url.searchParams.get('type');
 		const urlSort = $page.url.searchParams.get('sort');
+		const urlLang = $page.url.searchParams.get('lang');
 
 		if (urlMedium === 'tv' || urlMedium === 'radio') selectedMedium = urlMedium;
 		else selectedMedium = 'all';
@@ -40,6 +50,9 @@
 
 		if (urlType === 'classic' || urlType === 'nrk') selectedType = urlType;
 		else selectedType = 'all';
+
+		if (urlLang && ['no', 'sv', 'da', 'fi'].includes(urlLang)) selectedLanguage = urlLang;
+		else selectedLanguage = 'all';
 
 		if (urlSort === 'year-asc' || urlSort === 'title') sortBy = urlSort;
 		else sortBy = 'year-desc';
@@ -65,6 +78,10 @@
 			result = result.filter(p => p.work_type === 'nrk_teaterstykke');
 		}
 
+		if (selectedLanguage !== 'all') {
+			result = result.filter(p => (p.language || 'no') === selectedLanguage);
+		}
+
 		// Sort
 		if (sortBy === 'year-desc') {
 			// Prioritize TV with images first for better visual presentation
@@ -88,16 +105,18 @@
 		if (selectedMedium !== 'all') params.set('medium', selectedMedium);
 		if (selectedDecade !== null) params.set('decade', selectedDecade.toString());
 		if (selectedType !== 'all') params.set('type', selectedType);
+		if (selectedLanguage !== 'all') params.set('lang', selectedLanguage);
 		if (sortBy !== 'year-desc') params.set('sort', sortBy);
 
 		const query = params.toString();
 		goto(`/teater${query ? '?' + query : ''}`, { replaceState: true, noScroll: true });
 	}
 
-	function setFilter(type: 'medium' | 'decade' | 'type', value: any) {
+	function setFilter(type: 'medium' | 'decade' | 'type' | 'language', value: any) {
 		if (type === 'medium') selectedMedium = value;
 		else if (type === 'decade') selectedDecade = value;
 		else if (type === 'type') selectedType = value;
+		else if (type === 'language') selectedLanguage = value;
 		updateUrl();
 	}
 
@@ -110,10 +129,11 @@
 		selectedMedium = 'all';
 		selectedDecade = null;
 		selectedType = 'all';
+		selectedLanguage = 'all';
 		goto('/teater', { replaceState: true, noScroll: true });
 	}
 
-	$: hasActiveFilters = selectedMedium !== 'all' || selectedDecade !== null || selectedType !== 'all';
+	$: hasActiveFilters = selectedMedium !== 'all' || selectedDecade !== null || selectedType !== 'all' || selectedLanguage !== 'all';
 
 	onMount(async () => {
 		const db = getDb();
@@ -131,6 +151,7 @@
 				p.total_duration,
 				p.image_url,
 				p.medium,
+				p.language,
 				w.title as work_title,
 				w.work_type,
 				w.category,
@@ -140,7 +161,7 @@
 			FROM performances p
 			LEFT JOIN works w ON p.work_id = w.id
 			LEFT JOIN persons author ON w.playwright_id = author.id
-			WHERE w.category = 'teater' OR w.work_type IN ('teaterstykke', 'nrk_teaterstykke')
+			WHERE w.category = 'teater' OR w.work_type IN ('teaterstykke', 'nrk_teaterstykke', 'barneteater', 'horespill')
 			ORDER BY p.year DESC, w.title
 		`);
 
@@ -155,12 +176,13 @@
 				total_duration: row[6],
 				image_url: row[7],
 				medium: row[8],
-				work_title: row[9],
-				work_type: row[10],
-				category: row[11],
-				playwright_name: row[12],
-				playwright_id: row[13],
-				media_count: row[14]
+				language: row[9] || 'no',
+				work_title: row[10],
+				work_type: row[11],
+				category: row[12],
+				playwright_name: row[13],
+				playwright_id: row[14],
+				media_count: row[15]
 			}));
 
 			// Calculate filter counts
@@ -173,7 +195,8 @@
 				types: {
 					classic: allPerformances.filter(p => p.work_type === 'teaterstykke').length,
 					nrk: allPerformances.filter(p => p.work_type === 'nrk_teaterstykke').length
-				}
+				},
+				languages: {}
 			};
 
 			// Calculate decade counts
@@ -182,6 +205,9 @@
 					const decade = Math.floor(perf.year / 10) * 10;
 					filterCounts.decades[decade] = (filterCounts.decades[decade] || 0) + 1;
 				}
+				// Calculate language counts
+				const lang = perf.language || 'no';
+				filterCounts.languages[lang] = (filterCounts.languages[lang] || 0) + 1;
 			}
 		}
 
@@ -212,7 +238,7 @@
 <div class="teater-page">
 	<header class="page-header">
 		<h1>Teater</h1>
-		<p class="subtitle">Teaterstykker fra NRK Fjernsynsteatret og Radioteatret</p>
+		<p class="subtitle">Teaterstykker fra nordisk kringkasting</p>
 	</header>
 
 	{#if loading}
@@ -266,6 +292,25 @@
 					</label>
 				</div>
 
+				<!-- Language filter -->
+				{#if Object.keys(filterCounts.languages).length > 1}
+				<div class="filter-group">
+					<h3>Sprak</h3>
+					<label class="filter-option">
+						<input type="radio" name="language" checked={selectedLanguage === 'all'} on:change={() => setFilter('language', 'all')} />
+						<span>Alle</span>
+						<span class="count">{allPerformances.length}</span>
+					</label>
+					{#each Object.entries(filterCounts.languages).sort((a, b) => b[1] - a[1]) as [lang, count]}
+						<label class="filter-option">
+							<input type="radio" name="language" checked={selectedLanguage === lang} on:change={() => setFilter('language', lang)} />
+							<span>{languageNames[lang] || lang}</span>
+							<span class="count">{count}</span>
+						</label>
+					{/each}
+				</div>
+				{/if}
+
 				<!-- Decade filter -->
 				<div class="filter-group">
 					<h3>Tiar</h3>
@@ -317,11 +362,16 @@
 				<div class="performances-grid">
 					{#each filteredPerformances as perf}
 						<a href="/opptak/{perf.id}" class="performance-card">
-							{#if perf.image_url}
-								<img src={getImageUrl(perf.image_url)} alt={perf.work_title || perf.title || ''} loading="lazy" />
-							{:else}
-								<div class="no-image">Teater</div>
-							{/if}
+							<div class="card-image">
+								{#if perf.image_url}
+									<img src={getImageUrl(perf.image_url)} alt={perf.work_title || perf.title || ''} loading="lazy" />
+								{:else}
+									<div class="no-image">Teater</div>
+								{/if}
+								{#if perf.language && perf.language !== 'no'}
+									<span class="lang-badge">{languageNames[perf.language] || perf.language}</span>
+								{/if}
+							</div>
 							<div class="card-content">
 								<h3>{perf.work_title || perf.title}</h3>
 								{#if perf.playwright_name}
@@ -568,6 +618,10 @@
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 	}
 
+	.card-image {
+		position: relative;
+	}
+
 	.performance-card img {
 		width: 100%;
 		height: 140px;
@@ -626,6 +680,20 @@
 	.medium.radio {
 		background: #6b5ce7;
 		color: white;
+	}
+
+	.lang-badge {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.no-results {

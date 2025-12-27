@@ -201,6 +201,9 @@
 					{:else}
 						<span class="medium-badge tv">Fjernsynsteater</span>
 					{/if}
+					{#if performance.language && performance.language !== 'no'}
+						<span class="medium-badge lang">{performance.language === 'sv' ? 'Svensk' : performance.language === 'da' ? 'Dansk' : performance.language === 'fi' ? 'Finsk' : performance.language}</span>
+					{/if}
 				</h1>
 
 				<div class="meta-line">
@@ -231,6 +234,8 @@
 						</svg>
 						{#if performance?.source === 'bergenphilive'}
 							Se på BergenPhilLive
+						{:else if performance?.source === 'sr'}
+							Lytt på Sveriges Radio
 						{:else if performance?.medium === 'radio'}
 							Lytt på NRK Radio
 						{:else}
@@ -915,6 +920,11 @@
 
 	.medium-badge.kulturprogram {
 		background: #8b5cf6;
+		color: white;
+	}
+
+	.medium-badge.lang {
+		background: #0ea5e9;
 		color: white;
 	}
 

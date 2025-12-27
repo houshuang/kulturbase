@@ -33,3 +33,10 @@ credits:
   role: actor
 - person_id: 898
   role: actor
+resources:
+- id: 517
+  url: https://archive.org/details/NRKTV-FTEA001272-AR-199311328
+  title: Skuggen av ein helt (Skyggen av en helt)
+  type: archive_fallback
+  description: Fjernsynsteatret syner "Skuggen av ein helt" av Sean O'Casey. (The
+    shadow of a gunman). Omsett av Hartvig Kiran.

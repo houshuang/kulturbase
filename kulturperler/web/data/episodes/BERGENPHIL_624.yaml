@@ -7,3 +7,10 @@ medium: stream
 nrk_url: https://bergenphilive.no/alle-konsertopptak/2023/1/wagner-parsifal/
 year: 2023
 description: 'Bergen Filharmoniske Orkester. Komponist: Wagner. Innspilt: 2023-01-21'
+resources:
+- id: 563
+  url: https://archive.org/details/bergen-philharmonic-orchestra-wagner-parsifal
+  title: 'Wagner: Parsifal'
+  type: archive_fallback
+  description: Bergen Philharmonic Orchestra, Edward Gardner conductor. Stuart Skelton,
+    Ricarda Merbeth, Johan Reuter, Brindley Sherratt

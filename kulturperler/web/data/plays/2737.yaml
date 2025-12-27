@@ -1,0 +1,12 @@
+id: 2737
+title: Jocasta's Line
+work_type: ballet
+category: opera
+year_written: 2025
+synopsis: |
+  Jocasta's Line intertwines two Greek tragedies: Oedipus Rex and Antigone. Samy Moussa has composed new music for Antigone, while Oedipus Rex is set to Igor Stravinsky's original score from 1927. In Oedipus Rex, the ancient city of Thebes is plagued by disease, and King Oedipus discovers the horrifying truth that he is guilty of murder and married to his own mother. In Moussa's Antigone, sung in ancient Greek, the tragedy of Oedipus' daughter takes center stage with a focus on the women's chorus.
+composers:
+  - person_id: 3484
+    role: composer
+  - person_id: 4672
+    role: composer

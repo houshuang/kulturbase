@@ -180,13 +180,18 @@
 				<div class="works-grid">
 					{#each results.works as work}
 						<a href="/verk/{work.id}" class="work-card">
-							{#if work.image_url}
-								<img src={work.image_url} alt={work.title} />
-							{:else}
-								<div class="no-image">
-									{work.category === 'konsert' ? 'Konsert' : 'Verk'}
-								</div>
-							{/if}
+							<div class="card-image">
+								{#if work.image_url}
+									<img src={work.image_url} alt={work.title} />
+								{:else}
+									<div class="no-image">
+										{work.category === 'konsert' ? 'Konsert' : 'Verk'}
+									</div>
+								{/if}
+								{#if work.language && work.language !== 'no'}
+									<span class="lang-badge">{work.language === 'sv' ? 'Svensk' : work.language === 'da' ? 'Dansk' : work.language}</span>
+								{/if}
+							</div>
 							<div class="card-content">
 								<h3>{work.title}</h3>
 								{#if work.playwright_name}
@@ -216,13 +221,18 @@
 				<div class="performances-grid">
 					{#each results.performances as perf}
 						<a href="/opptak/{perf.id}" class="performance-card">
-							{#if perf.image_url}
-								<img src={perf.image_url} alt={perf.work_title || perf.title || ''} />
-							{:else}
-								<div class="no-image">
-									{perf.medium === 'tv' ? 'TV' : 'Radio'}
-								</div>
-							{/if}
+							<div class="card-image">
+								{#if perf.image_url}
+									<img src={perf.image_url} alt={perf.work_title || perf.title || ''} />
+								{:else}
+									<div class="no-image">
+										{perf.medium === 'tv' ? 'TV' : 'Radio'}
+									</div>
+								{/if}
+								{#if perf.language && perf.language !== 'no'}
+									<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
+								{/if}
+							</div>
 							<div class="card-content">
 								<h3>{perf.work_title || perf.title}</h3>
 								{#if perf.playwright_name}
@@ -423,11 +433,29 @@
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 	}
 
+	.card-image {
+		position: relative;
+	}
+
 	.work-card img,
 	.performance-card img {
 		width: 100%;
 		height: 140px;
 		object-fit: cover;
+	}
+
+	.lang-badge {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.no-image {

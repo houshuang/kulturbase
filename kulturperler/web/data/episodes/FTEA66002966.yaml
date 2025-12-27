@@ -79,3 +79,9 @@ resources:
   description: 'Nordisk teater i TV - Dikteren og tiden. Fjernsynsteatret viser "Nederlaget"
     av Nordahl Grieg. Skuespill fra 1937. Bearbeidet for fjernsyn av Per Bronken.
     Kostymer: Guy Krohg. Dekorasjoner: Guy Krohg ...'
+- id: 524
+  url: https://archive.org/details/NRKTV-FTEA00010066-AR-199316241
+  title: Nederlaget
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Nederlaget" av Nordahl Grieg. Skuespill fra
+    1937.

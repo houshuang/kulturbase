@@ -1,0 +1,15 @@
+prf_id: ARCH_BPO_BERLIOZ_WEILERSTEIN_2016
+title: 'Berlioz: Symphonie fantastique'
+description: Bergen Filharmoniske Orkester fremfører Berlioz' Symphonie fantastique
+  under ledelse av Joshua Weilerstein. Innspilt 2016.
+year: 2016
+work_id: 1351
+performance_id: 2979
+source: archive
+medium: stream
+resources:
+- id: 560
+  url: https://archive.org/details/berlioz-weilerstein-yt
+  title: Berlioz, Symphony fantastique
+  type: archive_primary
+  description: Bergen Philharmonic Orchestra, Joshua Weilerstein conductor, 2016

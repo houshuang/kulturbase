@@ -15,3 +15,8 @@ resources:
   description: '- av og med Tramteatret. Her møter vi blant annet Ragna Rekkverk,
     Frida Frosk, Sandra Salamander, Pelle Parafins Bøljeband og tyvene Randi og Ronny.
     Source: nrk:OBUI53000906 Uploader: tubeup.py...'
+nrk_url: https://tv.nrk.no/se?v=OBUI53000906
+image_url: https://gfx.nrk.no/32JesuW1qolxc_nOTJ-drQ38hIdtXJYt3J48ZrPLx5kA
+duration_seconds: 1182
+year: 1981
+episode_number: 9

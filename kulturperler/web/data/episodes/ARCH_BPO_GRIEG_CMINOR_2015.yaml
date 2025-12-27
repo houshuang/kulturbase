@@ -1,0 +1,15 @@
+prf_id: ARCH_BPO_GRIEG_CMINOR_2015
+title: 'Grieg: Symfoni i c-moll'
+description: Bergen Filharmoniske Orkester fremfører Edvard Griegs Symfoni i c-moll
+  under ledelse av Neeme Järvi. Innspilt 12. februar 2015.
+year: 2015
+work_id: 2459
+performance_id: 2978
+source: archive
+medium: stream
+resources:
+- id: 561
+  url: https://archive.org/details/grieg-symphony-in-c-minor
+  title: Grieg, Symphony In C Minor
+  type: archive_primary
+  description: Bergen Philharmonic Orchestra, Neeme Järvi conductor, February 12 2015

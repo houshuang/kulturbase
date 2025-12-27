@@ -47,3 +47,16 @@ credits:
   role: actor
 - person_id: 760
   role: actor
+resources:
+- id: 518
+  url: https://archive.org/details/NRKTV-FTEA000477AU
+  title: Meister Olof (Mester Olof)
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster
+    Olof). Omsett av Bjørn Endreson.
+- id: 519
+  url: https://archive.org/details/NRKTV-FTEA000477BU
+  title: Meister Olof (Mester Olof) (Part 2)
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Meister Olof" av August Strindberg. (Mäster
+    Olof). Omsett av Bjørn Endreson.

@@ -6,7 +6,7 @@
 >
 > The SQLite database is a compiled artifact that gets rebuilt from YAML.
 
-A browsable archive of Norwegian performing arts recordings, primarily NRK Fjernsynsteatret.
+A browsable archive of Nordic performing arts recordings, including NRK Fjernsynsteatret, Sveriges Radio Drama, and other Nordic sources.
 
 ## Architecture Overview
 
@@ -258,11 +258,12 @@ for play_file in (DATA_DIR / 'plays').glob('*.yaml'):
 id: 264                           # Required, unique
 title: "Peer Gynt"                # Required
 original_title: "Peer Gynt"       # Optional
+language: "no"                    # Optional, defaults to "no" (see Language Codes below)
 playwright_id: 879                # Optional, references persons (for drama)
 librettist_id: 123                # Optional, references persons (for opera)
 year_written: 1867                # Optional
-work_type: "teaterstykke"         # Optional (teaterstykke/opera/symphony/concerto/etc)
-category: "teater"                # Optional (teater/opera/konsert/dramaserie)
+work_type: "teaterstykke"         # Optional (see work_type values below)
+category: "teater"                # Optional (teater/opera/konsert/dramaserie/film/kulturprogram)
 synopsis: |                       # Optional, multi-line
   Synopsis text...
 wikidata_id: "Q746566"            # Optional
@@ -285,6 +286,28 @@ composers:                        # Optional, for musical works
 - `lyricist` - wrote the lyrics/text
 - `adapter` - adapted/revised the work
 
+**Category values:**
+- `teater` - Theatre/drama (plays, TV theatre)
+- `opera` - Opera and operetta
+- `konsert` - Classical concerts
+- `dramaserie` - Drama series (multiple episodes)
+- `film` - Standalone films (not theatre adaptations)
+- `kulturprogram` - Cultural/literature programs
+
+**Work type values:**
+- `teaterstykke` - Theatre play
+- `radioteater` - Radio theatre/hörspel
+- `barneteater` - Children's theatre
+- `film` - Feature film
+- `kortfilm` - Short film
+- `dokumentär` - Documentary
+- `opera` - Opera
+- `operetta` - Operetta
+- `symphony` - Symphony
+- `concerto` - Concerto
+- `horespill` - Radio play (Norwegian)
+- `dramaserie` - Drama series
+
 ### persons/{id}.yaml
 ```yaml
 id: 879                           # Required, unique
@@ -303,7 +326,7 @@ wikipedia_url: "https://..."      # Optional
 
 ### episodes/{prf_id}.yaml
 ```yaml
-prf_id: "PRHO04000315"            # Required, unique (NRK ID)
+prf_id: "PRHO04000315"            # Required, unique (NRK ID or SR_12345 for Sveriges Radio)
 title: "Episode Title"            # Required
 description: |                    # Optional
   Description text...
@@ -311,10 +334,12 @@ year: 1975                        # Optional
 duration_seconds: 3600            # Optional
 image_url: "https://..."          # Optional
 nrk_url: "https://tv.nrk.no/..."  # Optional
+sr_url: "https://sverigesradio.se/..." # Optional, for Sveriges Radio
 play_id: 264                      # Optional, references plays
 performance_id: 100               # Optional, references performances
-source: "nrk"                     # Optional (nrk/archive)
-medium: "tv"                      # Optional (tv/radio)
+source: "nrk"                     # Optional (nrk/sr/archive/yle/dr_bonanza)
+language: "no"                    # Optional, defaults to "no" (see Language Codes below)
+medium: "tv"                      # Optional (tv/radio/stream)
 series_id: "MSPO..."              # Optional
 about_person_id: 879              # Optional, for kulturprogram episodes about an author
 episode_number: 5                 # Optional, for sorting within a performance
@@ -343,7 +368,8 @@ credits:                          # Optional, production credits only
 ```yaml
 id: 100                           # Required, unique
 work_id: 264                      # Required, references plays
-source: "nrk"                     # Optional (nrk/youtube/archive/etc)
+source: "nrk"                     # Optional (nrk/sr/youtube/archive/yle/dr_bonanza)
+language: "no"                    # Optional, defaults to "no" (see Language Codes below)
 year: 1975                        # Optional
 title: "Performance Title"        # Optional (defaults to work title)
 description: |                    # Optional
@@ -366,14 +392,179 @@ institutions:                     # Optional, performing groups
     role: "orchestra"
 ```
 
+## Language Codes
+
+The database supports content in multiple Nordic languages using ISO 639-1 codes:
+
+| Code | Language | Primary Source |
+|------|----------|----------------|
+| `no` | Norwegian | NRK (default) |
+| `sv` | Swedish | Sveriges Radio |
+| `da` | Danish | DR Bonanza (Archive.org) |
+| `fi` | Finnish | Yle Arenan (Swedish content only) |
+
+**Important:**
+- Norwegian content (`no`) is the default - don't need to specify explicitly
+- Only set `language` field when importing non-Norwegian content
+- Works in different languages can link to the same playwright (e.g., Ibsen's "Et dukkehjem" in Norwegian and Swedish performances both link to the same work and playwright)
+- The frontend has language filters on browse pages when multiple languages exist
+
+**Cross-language work linking:**
+When the same play exists in multiple languages (e.g., Strindberg in Swedish and Norwegian), they should share the same work entry. The `language` field on the **performance** indicates which language that specific production is in.
+
+## Importing from External Sources
+
+### Source Codes
+| Source | Code | ID Format | URL Field | Example |
+|--------|------|-----------|-----------|---------|
+| NRK | `nrk` | NRK program ID | `nrk_url` | `PRHO04000315` |
+| Sveriges Radio | `sr` | `SR_{episode_id}` | `sr_url` | `SR_2501552` |
+| Archive.org | `archive` | Item identifier | `archive_url` | `archive_item_id` |
+| YouTube | `youtube` | `YT_{video_id}` | `youtube_url` | `YT_dQw4w9WgXcQ` |
+| DR Bonanza | `dr_bonanza` | `DR_{identifier}` | `dr_url` | `DR_12345` |
+| Yle | `yle` | `YLE_{program_id}` | `yle_url` | `YLE_12345` |
+
+**URL Field Mapping:** The database stores all source URLs in the `nrk_url` column. When adding a new source:
+1. Add the source-specific URL field to YAML files (e.g., `yle_url` for Yle content)
+2. Update `scripts/build_database.py` to include the new field in the URL fallback chain:
+   ```python
+   source_url = e.get('nrk_url') or e.get('sr_url') or e.get('new_source_url')
+   ```
+3. Update `src/routes/opptak/[id]/+page.svelte` to show correct button text for the new source
+
+### Sveriges Radio Import
+
+Sveriges Radio has a public API with Nordic radio theatre. Use `scripts/import_sr_drama.py`.
+
+**Available programs:**
+| Program ID | Name | Content |
+|------------|------|---------|
+| 4453 | Dramaklassiker | Classic radio theatre (Strindberg, Ibsen, etc.) |
+| 3171 | Drama för unga | Children's drama |
+| 4976 | Sveriges Radio Drama | Contemporary drama |
+| 6605 | Scenen | Shakespeare adaptations |
+| 4947 | P3 Serie | Crime/thriller series |
+
+**API example:**
+```python
+import requests
+
+# Fetch all episodes for a program
+url = 'https://api.sr.se/api/v2/episodes/index'
+params = {'programid': 4453, 'format': 'json', 'pagination': 'false'}
+r = requests.get(url, params=params)
+episodes = r.json().get('episodes', [])
+```
+
+**Import workflow:**
+```bash
+# Import all SR drama programs
+python3 scripts/import_sr_drama.py
+
+# Import specific program only
+python3 scripts/import_sr_drama.py --program 4453
+
+# Dry run (see what would be imported)
+python3 scripts/import_sr_drama.py --dry-run
+```
+
+**After import, enrich with playwright info:**
+```bash
+python3 scripts/enrich_swedish_works.py --known-only
+```
+
+### Yle (Finnish-Swedish) Import
+
+Yle (Finnish Broadcasting Company) produces Swedish-language radio theatre at Svenska Yle. Use `scripts/import_yle_radioteater.py`.
+
+**Note:** Yle's API was disabled in May 2021. Content must be discovered via web search and pages scraped individually.
+
+**Notable content:**
+| Title | Year | Author | Notes |
+|-------|------|--------|-------|
+| Medeas dotter | 2023 | Are Nikkinen | Prix Italia 2024 finalist |
+| Lyssnar på killar | 2019 | Ida Kronholm | 105 min audio drama |
+| Nils Holgerssons underbara resa | 2020 | Selma Lagerlöf | 17-episode series by Teater Fabel |
+| Fjädern | 1990 | Erik Ohls | Prix Italia winner |
+| När göken gol vid Seine | 1993 | Janina Jansson | Prix Futura winner |
+| Inbjudan till resa | 1998 | Petri Salin | Nordic Radio Play Prize 2000 |
+| Tre vita skjortor | 1960 | Walentin Chorell | Classic Finnish-Swedish drama |
+
+**Episode ID format:** `YLE_{program_name}_{number}` (e.g., `YLE_MEDEAS_1`, `YLE_NILS_03`)
+
+**Availability:** Most older content is geo-restricted to Finland or has expired. Check `arenan.yle.fi` for current availability.
+
+**Manual discovery workflow:**
+```bash
+# Search for content
+# Use web search: site:arenan.yle.fi "Radioteatern" OR "hörspel"
+
+# Fetch page details with WebFetch
+# Extract: title, author, director, cast, year, duration
+
+# Add to import script and run
+python3 scripts/import_yle_radioteater.py
+```
+
+### Filtering Meta-Content
+
+When importing, **exclude meta-content** that isn't actual performances:
+- Trailers (typically < 2 minutes)
+- Interviews about productions
+- Behind-the-scenes content
+- "Eftersnack" (aftershow discussions)
+- Memorial/tribute programs
+
+**Patterns to filter out:**
+```python
+SKIP_PATTERNS = [
+    'trailer',
+    'berättar om',      # "tells about" (interviews)
+    'minns',            # "remembers" (memorials)
+    'eftersnack',       # aftershow
+    'intervju',         # interview
+]
+
+def is_meta_content(title):
+    lower = title.lower()
+    return any(p in lower for p in SKIP_PATTERNS)
+```
+
+**If meta-content gets imported by mistake**, remove the work, performance, and episode YAML files.
+
+### Work Linking Strategy
+
+When importing, try to link to existing works rather than creating duplicates:
+
+1. **Exact title match** - Same title, same playwright
+2. **Author match** - Parse "Title av Author" pattern from episode titles
+3. **Known works mapping** - Maintain a dict of title → author for classics
+4. **Create new** - Only if no match found
+
+**Example title parsing (Swedish):**
+```python
+import re
+
+def parse_title_and_author(title):
+    """Parse 'Kronbruden av August Strindberg' -> ('Kronbruden', 'August Strindberg')"""
+    match = re.match(r'^(.+?)\s+av\s+(.+?)$', title, re.IGNORECASE)
+    if match:
+        return match.group(1).strip(), match.group(2).strip()
+    return title, None
+```
+
 ## Data Statistics
 
 Current counts (December 2024):
-- 2,723 works (plays/{id}.yaml) with 1,020 composer links
-- 4,373 persons
-- 4,500+ episodes
-- 2,961 performances
-- 508 NRK about programs
+- 2,500+ works with ~1,000 composer links
+- 4,600+ persons
+- 5,300+ episodes:
+  - ~4,000 Norwegian (NRK)
+  - ~650 YouTube/external
+  - ~340 Swedish (Sveriges Radio)
+  - ~30 Finnish-Swedish (Yle)
+- 2,500+ performances
+- 530 NRK about programs
 - 825 external resources
 
 ## Frontend
@@ -399,11 +590,15 @@ npm run build        # Output: build/
 
 ## Data Sources
 
-- **NRK TV API** - Episode metadata, images
+- **NRK TV API** - Norwegian episode metadata, images
+- **Sveriges Radio API** - Swedish radio theatre (Dramaklassiker, Drama för unga, etc.)
+- **Yle Arenan** - Finnish-Swedish radio theatre (Svenska Yle)
 - **Sceneweb** - Play/playwright metadata
 - **Norwegian Wikipedia** - Author bios, images
+- **Swedish Wikipedia** - Swedish/Finnish-Swedish author/work info
 - **Wikidata** - Structured data (birth/death years)
 - **Bokselskap** - Full text links for public domain works
+- **Archive.org** - DR Bonanza Danish content (torrent-only)
 
 ## External APIs
 
@@ -435,6 +630,49 @@ r = requests.get('https://psapi.nrk.no/radio/catalog/series/radioteatret/seasons
 - `duration` - ISO8601 format ("PT1H30M45S") or `durationInSeconds`
 - `contributors` - Array with `name` and `role`
 - `sourceMedium` - 1=TV, 2=Radio
+
+### Sveriges Radio API (api.sr.se)
+No authentication required. Base URL: `https://api.sr.se/api/v2`
+Documentation: https://api.sr.se/api/documentation/v2/
+
+```python
+import requests
+
+# List all episodes for a program
+r = requests.get('https://api.sr.se/api/v2/episodes/index', params={
+    'programid': 4453,  # Dramaklassiker
+    'format': 'json',
+    'pagination': 'false'
+})
+episodes = r.json().get('episodes', [])
+
+# Get single episode
+r = requests.get('https://api.sr.se/api/v2/episodes/2501552', params={'format': 'json'})
+episode = r.json().get('episode', {})
+```
+
+**Key fields:**
+- `id` - Episode ID (use as `SR_{id}` for prf_id)
+- `title` - Episode title
+- `description` - Description
+- `publishdateutc` - Publish date in `/Date(timestamp)/` format
+- `imageurl` - Thumbnail URL
+- `listenpodfile.duration` - Duration in seconds
+- `listenpodfile.url` - Direct audio URL
+- `url` - Web page URL
+
+**Parsing SR date format:**
+```python
+import re
+from datetime import datetime
+
+def parse_sr_date(date_str):
+    """Parse '/Date(1234567890000)/' to datetime."""
+    match = re.search(r'/Date\((\d+)\)/', date_str or '')
+    if match:
+        return datetime.fromtimestamp(int(match.group(1)) / 1000)
+    return None
+```
 
 ### Gemini 3 Flash API
 **Always use Gemini 3 Flash** for external AI tasks. It's the latest model with best performance.

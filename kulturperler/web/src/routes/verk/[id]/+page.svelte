@@ -391,6 +391,9 @@
 						{/if}
 						<div class="hero-meta">
 							<span class="medium-label {singleYoutubeId ? 'youtube' : ''}">{getMediumLabel(singlePerf.source, work?.category, singlePerf.medium)}</span>
+							{#if singlePerf.language && singlePerf.language !== 'no'}
+								<span class="lang-label">{singlePerf.language === 'sv' ? 'Svensk' : singlePerf.language === 'da' ? 'Dansk' : singlePerf.language === 'fi' ? 'Finsk' : singlePerf.language}</span>
+							{/if}
 							{#if singlePerf.year}
 								<span class="year-badge">{singlePerf.year}</span>
 							{/if}
@@ -439,6 +442,9 @@
 									{/if}
 									{#if perf.media.length > 1}
 										<span class="parts-badge">{perf.media.length} deler</span>
+									{/if}
+									{#if perf.language && perf.language !== 'no'}
+										<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
 									{/if}
 								</div>
 							{/if}
@@ -489,6 +495,9 @@
 									{#if perf.media.length > 1}
 										<span class="parts-badge">{perf.media.length} deler</span>
 									{/if}
+									{#if perf.language && perf.language !== 'no'}
+										<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
+									{/if}
 								</div>
 							{/if}
 							<div class="perf-info">
@@ -537,12 +546,18 @@
 									{#if perf.total_duration}
 										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
 									{/if}
+									{#if perf.language && perf.language !== 'no'}
+										<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
+									{/if}
 								</div>
 							{:else if perf.image_url}
 								<div class="perf-image">
 									<img src={getImageUrl(perf.image_url)} alt={perf.title || work?.title || ''} loading="lazy" />
 									{#if perf.total_duration}
 										<span class="duration-badge">{formatDuration(perf.total_duration)}</span>
+									{/if}
+									{#if perf.language && perf.language !== 'no'}
+										<span class="lang-badge">{perf.language === 'sv' ? 'Svensk' : perf.language === 'da' ? 'Dansk' : perf.language}</span>
 									{/if}
 								</div>
 							{/if}
@@ -641,6 +656,9 @@
 									<img src={getImageUrl(authorWork.image_url, 240)} alt={authorWork.title || ''} loading="lazy" />
 								{:else}
 									<div class="author-work-placeholder">Verk</div>
+								{/if}
+								{#if authorWork.language && authorWork.language !== 'no'}
+									<span class="author-work-lang">{authorWork.language === 'sv' ? 'Svensk' : authorWork.language === 'da' ? 'Dansk' : authorWork.language}</span>
 								{/if}
 							</div>
 							<div class="author-work-info">
@@ -1022,6 +1040,20 @@
 		font-size: 0.75rem;
 	}
 
+	.lang-badge {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: rgba(0, 0, 0, 0.7);
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
+	}
+
 	.perf-info {
 		padding: 1rem;
 	}
@@ -1281,6 +1313,21 @@
 		aspect-ratio: 16/9;
 		overflow: hidden;
 		background: #ddd;
+		position: relative;
+	}
+
+	.author-work-lang {
+		position: absolute;
+		top: 6px;
+		right: 6px;
+		background: #0ea5e9;
+		color: white;
+		font-size: 0.65rem;
+		font-weight: 500;
+		padding: 2px 6px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
 	}
 
 	.author-work-image img {
@@ -1538,6 +1585,15 @@
 
 	.medium-label {
 		background: #e94560;
+		color: white;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.85rem;
+		font-weight: 500;
+	}
+
+	.lang-label {
+		background: #0ea5e9;
 		color: white;
 		padding: 0.25rem 0.75rem;
 		border-radius: 4px;

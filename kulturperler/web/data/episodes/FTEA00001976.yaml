@@ -15,3 +15,10 @@ credits:
   role: actor
 - person_id: 800
   role: actor
+resources:
+- id: 522
+  url: https://archive.org/details/NRKTV-FTEA001976-AR-199204039
+  title: Kva Joe? (Hva Joe?)
+  type: archive_fallback
+  description: Fjernsynsteatret viser "Kva Joe?" av Samuel Beckett. Becketts første
+    TV-spel, enakter skrevet 1965.

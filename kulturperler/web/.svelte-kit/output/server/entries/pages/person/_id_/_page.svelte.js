@@ -25,6 +25,8 @@ function _page($$renderer, $$props) {
     let performancesByRole = [];
     let creatorWorkIds = /* @__PURE__ */ new Set();
     let nrkAboutPrograms = [];
+    let performancesAbout = [];
+    let episodesAbout = [];
     let loading = true;
     let error = null;
     function loadPerson() {
@@ -49,6 +51,8 @@ function _page($$renderer, $$props) {
       performancesByRole = [];
       creatorWorkIds = /* @__PURE__ */ new Set();
       nrkAboutPrograms = [];
+      performancesAbout = [];
+      episodesAbout = [];
       try {
         person = getPerson(personId);
         if (person) {
@@ -190,6 +194,48 @@ function _page($$renderer, $$props) {
             }
           }
           nrkAboutPrograms = getNrkAboutPrograms(personId);
+          const aboutStmt = db.prepare(`
+					SELECT
+						p.id,
+						p.title,
+						COALESCE(w.title, p.title) as work_title,
+						p.year,
+						p.total_duration,
+						p.image_url,
+						p.medium,
+						(SELECT COUNT(*) FROM episodes e WHERE e.performance_id = p.id) as episode_count
+					FROM performances p
+					LEFT JOIN works w ON p.work_id = w.id
+					WHERE p.about_person_id = ?
+					ORDER BY p.year DESC
+				`);
+          aboutStmt.bind([personId]);
+          performancesAbout = [];
+          while (aboutStmt.step()) {
+            performancesAbout.push(aboutStmt.getAsObject());
+          }
+          aboutStmt.free();
+          const episodesAboutStmt = db.prepare(`
+					SELECT
+						e.prf_id,
+						e.title,
+						p.title as perf_title,
+						e.performance_id,
+						e.year,
+						e.duration_seconds,
+						e.image_url,
+						e.medium
+					FROM episodes e
+					LEFT JOIN performances p ON e.performance_id = p.id
+					WHERE e.about_person_id = ?
+					ORDER BY e.title
+				`);
+          episodesAboutStmt.bind([personId]);
+          episodesAbout = [];
+          while (episodesAboutStmt.step()) {
+            episodesAbout.push(episodesAboutStmt.getAsObject());
+          }
+          episodesAboutStmt.free();
           allRoles = [];
           if (stats.worksAsPlaywright > 0) {
             allRoles.push({
@@ -467,12 +513,89 @@ function _page($$renderer, $$props) {
             $$renderer2.push("<!--[!-->");
           }
           $$renderer2.push(`<!--]--> `);
+          if (performancesAbout.length > 0 || episodesAbout.length > 0) {
+            $$renderer2.push("<!--[-->");
+            $$renderer2.push(`<section class="nrk-about svelte-13eo3pq"><h2 class="svelte-13eo3pq">Programmer om ${escape_html(person.name)}</h2> <div class="about-grid svelte-13eo3pq"><!--[-->`);
+            const each_array_4 = ensure_array_like(performancesAbout);
+            for (let $$index_4 = 0, $$length = each_array_4.length; $$index_4 < $$length; $$index_4++) {
+              let perf = each_array_4[$$index_4];
+              $$renderer2.push(`<a${attr("href", `/opptak/${stringify(perf.id)}`)} class="about-card svelte-13eo3pq"><div class="about-image svelte-13eo3pq">`);
+              if (perf.image_url) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<img${attr("src", getImageUrl(perf.image_url))}${attr("alt", perf.title)} loading="lazy" class="svelte-13eo3pq"/>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+                $$renderer2.push(`<div class="about-placeholder svelte-13eo3pq">${escape_html(perf.medium === "radio" ? "Radio" : "TV")}</div>`);
+              }
+              $$renderer2.push(`<!--]--></div> <div class="about-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(perf.title)}</h3> <div class="about-meta svelte-13eo3pq">`);
+              if (perf.episode_count > 1) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="about-badge svelte-13eo3pq">${escape_html(perf.episode_count)} episoder</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (perf.total_duration) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="about-duration svelte-13eo3pq">${escape_html(formatDuration(perf.total_duration))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (perf.medium) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span${attr_class("medium-badge svelte-13eo3pq", void 0, { "radio": perf.medium === "radio" })}>${escape_html(perf.medium === "radio" ? "Radio" : "TV")}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--></div></div></a>`);
+            }
+            $$renderer2.push(`<!--]--> <!--[-->`);
+            const each_array_5 = ensure_array_like(episodesAbout);
+            for (let $$index_5 = 0, $$length = each_array_5.length; $$index_5 < $$length; $$index_5++) {
+              let ep = each_array_5[$$index_5];
+              $$renderer2.push(`<a${attr("href", ep.performance_id ? `/opptak/${ep.performance_id}` : `/episode/${ep.prf_id}`)} class="about-card svelte-13eo3pq"><div class="about-image svelte-13eo3pq">`);
+              if (ep.image_url) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<img${attr("src", getImageUrl(ep.image_url))}${attr("alt", ep.title)} loading="lazy" class="svelte-13eo3pq"/>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+                $$renderer2.push(`<div class="about-placeholder svelte-13eo3pq">${escape_html(ep.medium === "radio" ? "Radio" : "TV")}</div>`);
+              }
+              $$renderer2.push(`<!--]--></div> <div class="about-info svelte-13eo3pq"><h3 class="svelte-13eo3pq">${escape_html(ep.title)}</h3> <div class="about-meta svelte-13eo3pq">`);
+              if (ep.perf_title) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="about-badge svelte-13eo3pq">${escape_html(ep.perf_title)}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (ep.duration_seconds) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span class="about-duration svelte-13eo3pq">${escape_html(formatDuration(ep.duration_seconds))}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--> `);
+              if (ep.medium) {
+                $$renderer2.push("<!--[-->");
+                $$renderer2.push(`<span${attr_class("medium-badge svelte-13eo3pq", void 0, { "radio": ep.medium === "radio" })}>${escape_html(ep.medium === "radio" ? "Radio" : "TV")}</span>`);
+              } else {
+                $$renderer2.push("<!--[!-->");
+              }
+              $$renderer2.push(`<!--]--></div></div></a>`);
+            }
+            $$renderer2.push(`<!--]--></div></section>`);
+          } else {
+            $$renderer2.push("<!--[!-->");
+          }
+          $$renderer2.push(`<!--]--> `);
           if (nrkAboutPrograms.length > 0) {
             $$renderer2.push("<!--[-->");
             $$renderer2.push(`<section class="nrk-about svelte-13eo3pq"><h2 class="svelte-13eo3pq">Om ${escape_html(person.name)} i NRK-arkivet</h2> <div class="about-grid svelte-13eo3pq"><!--[-->`);
-            const each_array_4 = ensure_array_like(nrkAboutPrograms);
-            for (let $$index_4 = 0, $$length = each_array_4.length; $$index_4 < $$length; $$index_4++) {
-              let program = each_array_4[$$index_4];
+            const each_array_6 = ensure_array_like(nrkAboutPrograms);
+            for (let $$index_6 = 0, $$length = each_array_6.length; $$index_6 < $$length; $$index_6++) {
+              let program = each_array_6[$$index_6];
               $$renderer2.push(`<a${attr("href", program.nrk_url)} target="_blank" rel="noopener" class="about-card svelte-13eo3pq"><div class="about-image svelte-13eo3pq">`);
               if (program.image_url) {
                 $$renderer2.push("<!--[-->");
@@ -502,13 +625,13 @@ function _page($$renderer, $$props) {
             $$renderer2.push("<!--[!-->");
           }
           $$renderer2.push(`<!--]--> <!--[-->`);
-          const each_array_5 = ensure_array_like(performancesByRole);
-          for (let $$index_6 = 0, $$length = each_array_5.length; $$index_6 < $$length; $$index_6++) {
-            let group = each_array_5[$$index_6];
+          const each_array_7 = ensure_array_like(performancesByRole);
+          for (let $$index_8 = 0, $$length = each_array_7.length; $$index_8 < $$length; $$index_8++) {
+            let group = each_array_7[$$index_8];
             $$renderer2.push(`<section class="role-section svelte-13eo3pq"><h2 class="svelte-13eo3pq">${escape_html(getRoleLabel(group.role))} (${escape_html(group.performances.length)})</h2> <div class="performances-grid svelte-13eo3pq"><!--[-->`);
-            const each_array_6 = ensure_array_like(group.performances);
-            for (let $$index_5 = 0, $$length2 = each_array_6.length; $$index_5 < $$length2; $$index_5++) {
-              let perf = each_array_6[$$index_5];
+            const each_array_8 = ensure_array_like(group.performances);
+            for (let $$index_7 = 0, $$length2 = each_array_8.length; $$index_7 < $$length2; $$index_7++) {
+              let perf = each_array_8[$$index_7];
               $$renderer2.push(`<a${attr("href", `/opptak/${stringify(perf.id)}`)} class="perf-card svelte-13eo3pq"><div class="perf-image svelte-13eo3pq">`);
               if (perf.image_url) {
                 $$renderer2.push("<!--[-->");

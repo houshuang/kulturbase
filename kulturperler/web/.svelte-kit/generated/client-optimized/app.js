@@ -18,7 +18,8 @@ export const nodes = [
 	() => import('./nodes/14'),
 	() => import('./nodes/15'),
 	() => import('./nodes/16'),
-	() => import('./nodes/17')
+	() => import('./nodes/17'),
+	() => import('./nodes/18')
 ];
 
 export const server_loads = [];
@@ -29,17 +30,18 @@ export const dictionary = {
 		"/episode/[id]": [4],
 		"/forfattere": [5],
 		"/konserter": [6],
-		"/om": [7],
-		"/opera": [8],
-		"/opptak/[id]": [9],
-		"/performance/[id]": [10],
-		"/persons": [12],
-		"/person/[id]": [11],
-		"/sok": [13],
-		"/teater": [14],
-		"/verk/play/[id]": [16],
-		"/verk/[id]": [15],
-		"/work/[id]": [17]
+		"/kulturprogrammer": [7],
+		"/om": [8],
+		"/opera": [9],
+		"/opptak/[id]": [10],
+		"/performance/[id]": [11],
+		"/persons": [13],
+		"/person/[id]": [12],
+		"/sok": [14],
+		"/teater": [15],
+		"/verk/play/[id]": [17],
+		"/verk/[id]": [16],
+		"/work/[id]": [18]
 	};
 
 export const hooks = {

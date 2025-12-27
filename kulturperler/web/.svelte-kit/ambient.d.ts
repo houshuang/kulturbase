@@ -28,8 +28,6 @@
 declare module '$env/static/private' {
 	export const GEMINI_KEY: string;
 	export const OPENAI_KEY: string;
-	export const NoDefaultCurrentDirectoryInExePath: string;
-	export const CLAUDE_CODE_ENTRYPOINT: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
 	export const FNM_LOGLEVEL: string;
@@ -41,12 +39,10 @@ declare module '$env/static/private' {
 	export const npm_config_global_prefix: string;
 	export const TERM_PROGRAM_VERSION: string;
 	export const COLOR: string;
-	export const VIPSHOME: string;
 	export const TERM_SESSION_ID: string;
 	export const npm_config_noproxy: string;
 	export const npm_config_local_prefix: string;
 	export const LC_ALL: string;
-	export const GIT_EDITOR: string;
 	export const FNM_COREPACK_ENABLED: string;
 	export const USER: string;
 	export const COMMAND_MODE: string;
@@ -61,7 +57,6 @@ declare module '$env/static/private' {
 	export const PATH: string;
 	export const TERMINFO_DIRS: string;
 	export const npm_package_json: string;
-	export const _: string;
 	export const LaunchInstanceID: string;
 	export const npm_config_userconfig: string;
 	export const npm_config_init_module: string;
@@ -70,7 +65,6 @@ declare module '$env/static/private' {
 	export const PWD: string;
 	export const npm_lifecycle_event: string;
 	export const EDITOR: string;
-	export const OTEL_EXPORTER_OTLP_METRICS_TEMPORALITY_PREFERENCE: string;
 	export const npm_package_name: string;
 	export const LANG: string;
 	export const ITERM_PROFILE: string;
@@ -89,15 +83,14 @@ declare module '$env/static/private' {
 	export const npm_config_cache: string;
 	export const LOGNAME: string;
 	export const npm_lifecycle_script: string;
-	export const COREPACK_ENABLE_AUTO_PIN: string;
 	export const npm_config_user_agent: string;
 	export const FNM_RESOLVE_ENGINES: string;
 	export const LC_TERMINAL: string;
-	export const CLAUDECODE: string;
 	export const SECURITYSESSIONID: string;
 	export const npm_node_execpath: string;
 	export const npm_config_prefix: string;
 	export const COLORTERM: string;
+	export const _: string;
 	export const NODE_ENV: string;
 }
 
@@ -130,8 +123,6 @@ declare module '$env/dynamic/private' {
 	export const env: {
 		GEMINI_KEY: string;
 		OPENAI_KEY: string;
-		NoDefaultCurrentDirectoryInExePath: string;
-		CLAUDE_CODE_ENTRYPOINT: string;
 		TERM_PROGRAM: string;
 		NODE: string;
 		FNM_LOGLEVEL: string;
@@ -143,12 +134,10 @@ declare module '$env/dynamic/private' {
 		npm_config_global_prefix: string;
 		TERM_PROGRAM_VERSION: string;
 		COLOR: string;
-		VIPSHOME: string;
 		TERM_SESSION_ID: string;
 		npm_config_noproxy: string;
 		npm_config_local_prefix: string;
 		LC_ALL: string;
-		GIT_EDITOR: string;
 		FNM_COREPACK_ENABLED: string;
 		USER: string;
 		COMMAND_MODE: string;
@@ -163,7 +152,6 @@ declare module '$env/dynamic/private' {
 		PATH: string;
 		TERMINFO_DIRS: string;
 		npm_package_json: string;
-		_: string;
 		LaunchInstanceID: string;
 		npm_config_userconfig: string;
 		npm_config_init_module: string;
@@ -172,7 +160,6 @@ declare module '$env/dynamic/private' {
 		PWD: string;
 		npm_lifecycle_event: string;
 		EDITOR: string;
-		OTEL_EXPORTER_OTLP_METRICS_TEMPORALITY_PREFERENCE: string;
 		npm_package_name: string;
 		LANG: string;
 		ITERM_PROFILE: string;
@@ -191,15 +178,14 @@ declare module '$env/dynamic/private' {
 		npm_config_cache: string;
 		LOGNAME: string;
 		npm_lifecycle_script: string;
-		COREPACK_ENABLE_AUTO_PIN: string;
 		npm_config_user_agent: string;
 		FNM_RESOLVE_ENGINES: string;
 		LC_TERMINAL: string;
-		CLAUDECODE: string;
 		SECURITYSESSIONID: string;
 		npm_node_execpath: string;
 		npm_config_prefix: string;
 		COLORTERM: string;
+		_: string;
 		NODE_ENV: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;

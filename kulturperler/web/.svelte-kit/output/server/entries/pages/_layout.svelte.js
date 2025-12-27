@@ -15,6 +15,7 @@ function _layout($$renderer, $$props) {
       { href: "/teater", label: "Teater" },
       { href: "/opera", label: "Opera/Ballett" },
       { href: "/dramaserier", label: "Dramaserier" },
+      { href: "/kulturprogrammer", label: "Kulturprogrammer" },
       { href: "/konserter", label: "Konserter" },
       { href: "/forfattere", label: "Personer" }
     ];

@@ -210,6 +210,18 @@
       "_app/immutable/assets/_page.CNJh-rT_.css"
     ]
   },
+  "src/routes/kulturprogrammer/+page.svelte": {
+    "file": "entries/pages/kulturprogrammer/_page.svelte.js",
+    "name": "entries/pages/kulturprogrammer/_page.svelte",
+    "src": "src/routes/kulturprogrammer/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DTriHVAj.css"
+    ]
+  },
   "src/routes/om/+page.svelte": {
     "file": "entries/pages/om/_page.svelte.js",
     "name": "entries/pages/om/_page.svelte",
@@ -250,7 +262,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.BncMurkt.css"
+      "_app/immutable/assets/_page.hcdE_zDw.css"
     ]
   },
   "src/routes/performance/[id]/+page.svelte": {
@@ -282,7 +294,7 @@
       "_context.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DnwG2imu.css"
+      "_app/immutable/assets/_page.m8keyJli.css"
     ]
   },
   "src/routes/persons/+page.svelte": {
